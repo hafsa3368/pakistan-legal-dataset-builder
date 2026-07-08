@@ -1,0 +1,30 @@
+{
+  "generated_name": "LHC_civil_case_2211_1.pdf",
+  "actual_filename": "case_2211_1.pdf",
+  "court": "LHC",
+  "case_type": "civil",
+  "year": "unknown",
+  "used_ocr": false,
+  "num_chunks": 1,
+  "case_number": "",
+  "date_of_order": "",
+  "judge": "",
+  "sections_cited": [],
+  "citations": [],
+  "parties": [],
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "token_estimate": 16,
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "text": "CamScanner CamScanner CamScanner CamScanner CamScanner CamScanner"
+    }
+  ]
+}

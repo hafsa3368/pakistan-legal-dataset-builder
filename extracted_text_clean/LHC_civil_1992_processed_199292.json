@@ -1,0 +1,36 @@
+{
+  "generated_name": "LHC_civil_1992_processed_199292.pdf",
+  "actual_filename": "processed_199292.pdf",
+  "court": "LHC",
+  "case_type": "civil",
+  "year": "1992",
+  "used_ocr": false,
+  "num_chunks": 2,
+  "case_number": "",
+  "date_of_order": "19.06.2023",
+  "judge": "",
+  "sections_cited": [
+    "Section 5"
+  ],
+  "citations": [],
+  "parties": [],
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "token_estimate": 413,
+      "source_pages": [
+        1,
+        2
+      ],
+      "text": "ORDER SHEET IN THE HIGH COURT OF SINDH, KARACHI Cr. Appeal No. 304 of 2023 (Haq Nawaz vs. The State) DATE ORDER WITH SIGNATURE OF JUDGE For hearing of M.A.No.6899/2023 19.06.2023 Mr. Riaz Hussain Soomro advocate for appellant Mr. Mubasher Mirza Asstt. Attorney General -.-.-.-.-.-.- The appellant on conclusion of trial was convicted u/s 409 PPC r/w Section 5 of PCA-II, 1947 and sentenced to undergo the imprisonment till rising of the Court to pay fine of Rs.23,46,260/- and in default whereof to undergo imprisonment for 02 years by learned Judge, Special Court (Central-II) Karachi vide judgment dated 05.06.2023, which he has impugned before this court by preferring an appeal and in the meanwhile has sought for his release on bail by way of listed application by suspending the operation of his sentence. It is contended by learned counsel for the appellant that the appellant is in jail for want of payment of fine, therefore, he is entitled to be released on bail pending disposal of his appeal, which is not opposed by learned Asstt. Attorney General. Heard arguments and perused the record. The appellant was enjoying concession of bail at trial, hearing of his appeal is likely to take time and he is in jail for want of payment of fine only, therefore, the operation of sentence awarded to the appellant is suspended, consequently, he is directed to be released on bail subject to his furnishing surety in sum of Rs.50,000/- (Rupees Fifty Thousand Only) and P.R bond in the like amount to the satisfaction of this Nazir of this Court. Instant listed application is disposed of accordingly. Adjourned to 09.08.2023 for hearing of main appeal."
+    },
+    {
+      "chunk_index": 1,
+      "token_estimate": 28,
+      "source_pages": [
+        3
+      ],
+      "text": "Instant listed application is disposed of accordingly. Adjourned to 09.08.2023 for hearing of main appeal. JUDGE"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+pdfs/
+*.zip
+*.pkl
+*.pickle
+__pycache__/
+.venv/
+venv/

@@ -1,0 +1,2941 @@
+<html lang="en"><head><meta http-equiv="origin-trial" content="A7vZI3v+Gz7JfuRolKNM4Aff6zaGuT7X0mf3wtoZTnKv6497cVMnhy03KDqX7kBz/q/iidW7srW31oQbBt4VhgoAAACUeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGUuY29tOjQ0MyIsImZlYXR1cmUiOiJEaXNhYmxlVGhpcmRQYXJ0eVN0b3JhZ2VQYXJ0aXRpb25pbmczIiwiZXhwaXJ5IjoxNzU3OTgwODAwLCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><title>
+	Supreme Court of Pakistan
+</title><meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script type="text/javascript" async="" charset="utf-8" src="https://www.gstatic.com/recaptcha/releases/gTpTIWhbKpxADzTzkcabhXN4/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-H/5bR8BVxoDZIIp1lThXvsuAj/gHvImPQ0kayVpCevmOrRalo0FwJubK3EoX8w37"></script><script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        form#form1 {
+            display: flex;
+            flex-direction: column;
+            flex: 1;
+        }
+
+        .container.my-4 {
+            flex: 1;
+        }
+
+        @media (min-width: 992px) {
+            .container.mt-0.mb-4 {
+                max-width: 95%;
+            }
+        }
+
+        @media (min-width: 1200px) {
+            .container.mt-0.mb-4 {
+                max-width: 1400px;
+            }
+        }
+
+        @media (min-width: 1400px) {
+            .container.mt-0.mb-4 {
+                max-width: 1500px; /* Override Bootstrap's 1320px */
+            }
+        }
+
+        /* Header */
+        .site-header {
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+            .site-header img {
+                height: 130px;
+            }
+
+            .site-header h2 {
+                margin-top: 0.5rem;
+                font-weight: 600;
+            }
+
+        /* Nav Bar */
+        .nav-bar {
+            width: 100%;
+            background: #fafafa;
+            border-bottom: 2px solid black;
+            border-top: 2px solid black;
+            padding: 10px 0;
+        }
+
+        .navbar-nav {
+            gap: 30px;
+        }
+
+            .navbar-nav a {
+                text-decoration: none;
+                color: #444;
+                padding: 6px 0;
+                position: relative;
+                transition: color 0.3s;
+            }
+
+            .navbar-nav .nav-link:not(.dropdown-toggle)::after {
+                content: "";
+                position: absolute;
+                bottom: -2px;
+                left: 0;
+                width: 0%;
+                height: 2px;
+                background: #0078d7;
+                transition: width 0.3s ease;
+            }
+
+            .navbar-nav .nav-link:not(.dropdown-toggle):hover::after {
+                width: 100%;
+            }
+
+            .navbar-nav a:hover {
+                color: #0078d7;
+            }
+
+
+
+            .navbar-nav a.active {
+                color: #0078d7;
+            }
+
+                .navbar-nav a.active::after {
+                    width: 100%;
+                }
+
+        .navbar-collapse {
+            justify-content: center;
+            text-align: center;
+        }
+
+        /* Footer */
+        .main-footer {
+            background: #f8f9fa;
+            border-top: 2px solid black;
+            padding: 10px 0;
+            color: #333;
+            font-size: 14px;
+            text-align: center;
+            margin-top: auto;
+        }
+
+            .main-footer a {
+                color: #0078d7;
+                text-decoration: none;
+            }
+
+                .main-footer a:hover {
+                    text-decoration: underline;
+                }
+
+        .breadcrumb {
+            font-size: 14px;
+            color: #555;
+            margin: 15px 0 0 0;
+        }
+
+            .breadcrumb a {
+                text-decoration: none;
+                color: #0078d7;
+            }
+
+                .breadcrumb a:hover {
+                    text-decoration: underline;
+                }
+
+            .breadcrumb a, .breadcrumb span {
+                margin: 0 2px;
+            }
+
+            .breadcrumb span {
+                color: #555;
+            }
+
+        .navbar-nav .nav-link {
+            position: relative;
+        }
+
+        .dropdown-menu {
+            margin-top: 0;
+            padding: 10px 0;
+            border-radius: 6px;
+            border: 1px solid #ddd;
+            min-width: 220px;
+        }
+
+        .dropdown-item {
+            padding: 8px 20px !important;
+            color: #444;
+            transition: background-color 0.2s;
+        }
+
+            .dropdown-item:hover {
+                background-color: #f2f6ff;
+                color: #0078d7;
+            }
+
+            .dropdown-item.active {
+                background-color: #0078d7;
+                color: white;
+            }
+
+        /* OPEN DROPDOWN ON HOVER (desktop only) */
+        @media (min-width: 768px) {
+            .navbar .dropdown:hover .dropdown-menu {
+                display: block;
+            }
+
+            .navbar .dropdown-toggle::after {
+                transition: transform 0.2s;
+            }
+
+            .navbar .dropdown:hover .dropdown-toggle::after {
+                transform: rotate(180deg);
+            }
+        }
+
+        /* Dropdown toggle styling */
+        .navbar-nav .dropdown-toggle {
+            display: flex;
+            align-items: center;
+        }
+
+            .navbar-nav .dropdown-toggle::after {
+                margin-left: 6px;
+                margin-top: 3px;
+            }
+
+        /* Underline effect for non-dropdown nav items only */
+        .navbar-nav .nav-link:not(.dropdown-toggle) {
+            position: relative;
+        }
+
+            .navbar-nav .nav-link:not(.dropdown-toggle)::after {
+                content: "";
+                position: absolute;
+                bottom: -2px;
+                left: 0;
+                width: 0%;
+                height: 2px;
+                background: #0078d7;
+                transition: width 0.3s ease;
+            }
+
+            .navbar-nav .nav-link:not(.dropdown-toggle):hover::after {
+                width: 100%;
+            }
+
+        .navbar-nav .nav-link.active {
+            color: #0078d7;
+        }
+    </style>
+
+    
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+
+    <style>
+        /* Reuse the same styles from LatestJudgments */
+        .judgment-grid {
+            font-size: 18px;
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+            .judgment-grid th {
+                background-color: #343a40;
+                color: white;
+                padding: 16px 12px;
+                text-align: left;
+                font-weight: 600;
+                font-size: 18px;
+                border: 1px solid #dee2e6;
+            }
+
+            .judgment-grid td {
+                padding: 16px 12px;
+                font-size: 18px;
+                vertical-align: middle;
+                border: 1px solid #dee2e6;
+                /*border-right: 1px solid #dee2e6;
+                border-bottom: 1px solid #dee2e6;*/
+            }
+
+            /* Alternate row colors */
+            .judgment-grid tbody tr.data-row:nth-child(even) {
+                background-color: #f8f9fa;
+            }
+
+            .judgment-grid tbody tr.data-row:nth-child(odd) {
+                background-color: #ffffff;
+            }
+
+            /* Merge main row + tagline */
+            .judgment-grid tr.data-row.has-tagline td {
+                border-bottom: 0;
+            }
+
+            .judgment-grid tr.tagline-row td {
+                border-top: 0;
+                border-bottom: 1px solid #dee2e6;
+                padding: 0 12px 18px 12px;
+                background-color: #f9fbff;
+            }
+
+        /* Tagline box */
+        .tagline-container {
+            background-color: #e8f5e9;
+            border-left: 4px solid #28a745;
+            padding: 18px 22px;
+            font-size: 18px;
+            line-height: 1.7;
+            color: #2c3e50;
+            text-align: justify;
+            border-radius: 0 4px 4px 0;
+        }
+
+            .tagline-container i {
+                color: #28a745;
+                margin-right: 12px;
+                font-size: 22px;
+            }
+
+        /* Download link */
+        .download-link {
+            color: #dc3545;
+            text-decoration: none;
+            font-weight: 500;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 10px 14px;
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 6px;
+            white-space: nowrap;
+            transition: all 0.3s ease;
+            min-width: 90px;
+        }
+
+            .download-link:hover {
+                color: #bd2130;
+                background-color: #e9ecef;
+                text-decoration: none;
+                border-color: #c1c9d0;
+                transform: translateY(-2px);
+                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            }
+
+            .download-link i {
+                font-size: 32px;
+                margin-bottom: 6px;
+                color: #dc3545;
+            }
+
+        .file-size {
+            font-size: 14px;
+            color: #6c757d;
+            margin-top: 4px;
+            font-weight: normal;
+        }
+
+        /* Column styles */
+        .subject-text {
+            font-weight: 500;
+            color: #495057;
+        }
+
+        .subject-cell {
+            max-width: 220px;
+        }
+
+        .case-title {
+            font-weight: 600;
+            color: #0066cc;
+            font-size: 19px;
+            line-height: 1.5;
+        }
+
+        .author-judge {
+            font-size: 17px;
+            color: #495057;
+        }
+
+        .sr-no {
+            color: #6c757d;
+            font-weight: 500;
+            text-align: center;
+        }
+
+        .metadata-cell {
+            white-space: nowrap;
+        }
+
+        .download-cell {
+            text-align: center;
+            vertical-align: middle;
+            min-width: 120px;
+        }
+
+        /* Filter section styles */
+        .filter-section {
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 25px;
+        }
+
+            .filter-section h5 {
+                color: #495057;
+                font-weight: 600;
+                margin-bottom: 20px;
+                padding-bottom: 10px;
+                border-bottom: 2px solid #dee2e6;
+                width: 100%;
+            }
+
+            .filter-section .form-label {
+                font-weight: 500;
+                color: #495057;
+                margin-bottom: 5px;
+                font-size: 15px;
+            }
+
+            .filter-section .form-control,
+            .filter-section .form-select {
+                border: 1px solid #ced4da;
+                border-radius: 4px;
+                padding: 8px 12px;
+                font-size: 15px;
+            }
+
+                .filter-section .form-control:focus,
+                .filter-section .form-select:focus {
+                    border-color: #80bdff;
+                    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+                }
+
+        .input-group .btn-outline-secondary {
+            border: 1px solid #ced4da;
+            background-color: white;
+        }
+
+            .input-group .btn-outline-secondary:hover {
+                background-color: #e9ecef;
+            }
+
+        .disabled-dropdown {
+            background-color: #e9ecef !important;
+            opacity: 0.7;
+            cursor: not-allowed;
+        }
+
+        /* Captcha styling */
+        .captcha-container {
+            border-radius: 8px;
+            padding: 20px;
+            display: inline-block;
+            margin: 15px 0;
+        }
+
+        .search-btn {
+            border: none;
+            padding: 12px 40px;
+            font-size: 18px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+            .search-btn:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+            }
+
+        .clear-date-btn {
+            border: 1px solid #ced4da;
+            background-color: white;
+            color: #6c757d;
+        }
+
+            .clear-date-btn:hover {
+                background-color: #f8f9fa;
+                color: #dc3545;
+            }
+
+        .pagination-info {
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            font-size: 15px;
+            color: #495057;
+        }
+
+        .page-size-selector {
+            width: auto;
+            display: inline-block;
+            margin-left: 15px;
+        }
+
+        /* Loading spinner */
+        .loading-spinner {
+            text-align: center;
+            padding: 60px;
+        }
+
+            .loading-spinner i {
+                font-size: 50px;
+                color: #007bff;
+            }
+
+            .loading-spinner p {
+                font-size: 20px;
+                margin-top: 15px;
+            }
+
+        /* No records */
+        .no-records {
+            text-align: center;
+            padding: 60px;
+            color: #6c757d;
+        }
+
+            .no-records i {
+                font-size: 60px;
+                margin-bottom: 20px;
+                color: #dee2e6;
+            }
+
+        /* Card header */
+        .card-header {
+            background-color: #f8f9fa;
+            border-bottom: 1px solid #dee2e6;
+            padding: 12px 15px;
+        }
+
+            .card-header h4 {
+                font-size: 22px;
+            }
+            
+            .card-header h5 {
+                font-size: 18px;
+                color: #495057;
+            }
+
+        /* Responsive */
+        .btn-outline-primary {
+            font-size: 16px;
+            padding: 8px 16px;
+        }
+
+        .disabled-dropdown {
+            background-color: #e9ecef !important;
+            opacity: 0.7;
+            cursor: not-allowed;
+        }
+
+        /* Grid container with horizontal scroll */
+        .grid-container {
+            overflow-x: auto;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Pagination styling */
+        .pagination-grid {
+            background-color: transparent;
+            border: none;
+            width: 100%;
+        }
+
+        .pagination-table {
+            margin: 0 auto;
+            border-collapse: collapse;
+        }
+
+        .pagination-table td {
+            padding: 0 3px;
+            border: none !important;
+            background-color: transparent !important;
+        }
+
+        .page-link {
+            display: inline-block;
+            padding: 6px 12px;
+            background-color: white;
+            border: 1px solid #dee2e6;
+            color: #007bff;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 14px;
+            cursor: pointer;
+        }
+
+        .page-link:hover {
+            background-color: #e9ecef;
+            border-color: #c1c9d0;
+            text-decoration: none;
+        }
+
+        .current-page {
+            display: inline-block;
+            padding: 6px 12px;
+            background-color: #007bff;
+            border: 1px solid #007bff;
+            color: white;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        /* Ensure grid stays within container */
+        .judgment-grid {
+            table-layout: fixed;
+            width: 100%;
+            min-width: 1200px;
+        }
+
+        .judgment-grid th,
+        .judgment-grid td {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        .case-title {
+            white-space: normal !important;
+            word-break: break-word;
+        }
+
+        .judgment-grid {
+            font-size: 18px;
+            width: 100%;
+            border-collapse: collapse;
+            table-layout: auto; /* FIX */
+        }
+
+        .judgment-grid th,
+        .judgment-grid td {
+            white-space: normal; /* FIX */
+            
+        }
+
+        .tagline-row {
+            margin-top: 15px;
+        }
+
+.grid-pager {
+    text-align: center !important;
+    margin: 15px 0;
+}
+
+.grid-pager td {
+    text-align: center !important;
+}
+
+.grid-pager a, .grid-pager span {
+    display: inline-block;
+    padding: 6px 12px;
+    margin: 0 3px;
+    border-radius: 4px;
+    font-size: 14px;
+    text-decoration: none;
+    border: 1px solid #dee2e6;
+    color: #007bff;
+}
+
+.grid-pager a:hover {
+    background-color: #e9ecef;
+    border-color: #c1c9d0;
+    color: #0056b3;
+}
+
+.grid-pager .grid-pager-selected {
+    background-color: #007bff;
+    color: #fff;
+    border-color: #007bff;
+}
+.grid-pager {
+    width: auto !important;       /* shrink to content */
+    margin: 15px auto !important; /* center horizontally */
+    text-align: center !important;
+}
+
+.grid-pager td {
+    text-align: center !important;
+}
+
+td.case-no {
+    width: 120px;               /* fixed width */
+    overflow-wrap: break-word; /* modern */
+    word-wrap: break-word;     /* legacy */
+    word-break: break-word;     /* breaks anywhere */
+    white-space: normal;        /* allow line breaks */
+}
+
+.judgment-grid {
+    table-layout: fixed;  /* FIX: makes all column widths fixed */
+    width: 100%;
+}
+
+.judgment-grid td
+{
+
+    white-space: normal;       /* allow wrapping */
+}
+
+.grid-container {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+    margin: 0 -15px; /* Extend to edges on mobile */
+    padding: 0 15px;
+    width: calc(100% + 30px);
+}
+
+/* Add mobile-specific grid styles */
+@media (max-width: 768px) {
+    .judgment-grid {
+        min-width: 1000px; /* Force horizontal scroll on mobile */
+    }
+    
+    .filter-section .row {
+        margin: 0;
+    }
+    
+    .filter-section [class*="col-"] {
+        padding: 0 8px;
+    }
+}
+
+@media (max-width: 576px) {
+    .search-btn, .btn-outline-secondary {
+        width: 100%;
+        margin: 5px 0 !important;
+    }
+    
+    .d-flex.justify-content-between {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .page-size-selector {
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+    
+    .filter-section h5 {
+        font-size: 16px;
+    }
+}
+    </style>
+
+    <script type="text/javascript">
+        $(function () {
+            // Initialize datepicker
+            $("#ContentPlaceHolder1_txtDateOfAnnouncement").datepicker({
+            dateFormat: "dd-mm-yy",
+            changeMonth: true,
+            changeYear: true,
+            yearRange: "1950:2030"
+        });
+
+        // Mutual exclusion for judge dropdowns
+        function setupJudgeDropdowns() {
+            var sittingJudge = $('#ContentPlaceHolder1_ddlSittingJudges');
+            var formerJudge = $('#ContentPlaceHolder1_ddlFormerJudges');
+
+            sittingJudge.on('change', function () {
+                if ($(this).val() !== "") {
+                    formerJudge.prop('disabled', true).addClass('disabled-dropdown');
+                } else {
+                    formerJudge.prop('disabled', false).removeClass('disabled-dropdown');
+                }
+            });
+
+            formerJudge.on('change', function () {
+                if ($(this).val() !== "") {
+                    sittingJudge.prop('disabled', true).addClass('disabled-dropdown');
+                } else {
+                    sittingJudge.prop('disabled', false).removeClass('disabled-dropdown');
+                }
+            });
+
+            if (sittingJudge.val() !== "") {
+                formerJudge.prop('disabled', true).addClass('disabled-dropdown');
+            } else if (formerJudge.val() !== "") {
+                sittingJudge.prop('disabled', true).addClass('disabled-dropdown');
+            }
+        }
+
+        setupJudgeDropdowns();
+
+        // Collapsible More Search Options with state persistence
+        $('#toggleMoreOptions').on('click', function () {
+            var icon = $(this).find('i');
+            var content = $('#moreOptionsContent');
+
+            content.slideToggle(300, function () {
+                if (content.is(':visible')) {
+                    icon.removeClass('fa-plus-circle').addClass('fa-minus-circle');
+                    localStorage.setItem('moreOptionsVisible', 'true');
+                } else {
+                    icon.removeClass('fa-minus-circle').addClass('fa-plus-circle');
+                    localStorage.setItem('moreOptionsVisible', 'false');
+                }
+            });
+        });
+
+        // Restore state on page load
+        var moreOptionsState = localStorage.getItem('moreOptionsVisible');
+        if (moreOptionsState === 'true') {
+            $('#moreOptionsContent').show();
+            $('#toggleMoreOptions i').removeClass('fa-plus-circle').addClass('fa-minus-circle');
+        } else {
+            $('#moreOptionsContent').hide();
+            $('#toggleMoreOptions i').removeClass('fa-minus-circle').addClass('fa-plus-circle');
+        }
+    }); // <-- THIS CLOSING BRACKET WAS MISSING
+
+        function clearDate(controlId) {
+            document.getElementById(controlId).value = '';
+        }
+
+        function validateSearch() {
+            var sittingJudge = $('#ContentPlaceHolder1_ddlSittingJudges').val();
+        var formerJudge = $('#ContentPlaceHolder1_ddlFormerJudges').val();
+        var reported = $('#ContentPlaceHolder1_ddlReported').val();
+        var partiesName = $('#ContentPlaceHolder1_txtPartiesName').val().trim();
+        var tagline = $('#ContentPlaceHolder1_txtTagline').val().trim();
+        var keywords = $('#ContentPlaceHolder1_txtKeywords').val().trim();
+        var caseType = $('#ContentPlaceHolder1_ddlCaseType').val();
+        var caseNumber = $('#ContentPlaceHolder1_txtCaseNumber').val().trim();
+        var caseYear = $('#ContentPlaceHolder1_ddlCaseYear').val();
+        var citation = $('#ContentPlaceHolder1_txtCitation').val().trim();
+        var scCitation = $('#ContentPlaceHolder1_txtSCCitation').val().trim();
+
+            var count = 0;
+            if (sittingJudge && sittingJudge !== "") count++;
+            if (formerJudge && formerJudge !== "") count++;
+            if (reported && reported !== "") count++;
+            if (partiesName !== "") count++;
+            if (tagline !== "") count++;
+            if (keywords !== "") count++;
+            if (caseType && caseType !== "") count++;
+            if (caseNumber !== "") count++;
+            if (caseYear && caseYear !== "") count++;
+            if (citation !== "") count++;
+            if (scCitation !== "") count++;
+
+            if (count < 1) {
+                alert("Please provide at least one search criteria.");
+                return false;
+            }
+
+            return validateCaptcha();
+        }
+
+        function validateCaptcha() {
+            var response = grecaptcha.getResponse();
+            var wrapper = document.getElementById('divRecaptchaWrapper');
+            var errorSpan = document.getElementById('spnCaptchaError');
+
+            if (response.length === 0) {
+                errorSpan.style.display = 'inline-block';
+                wrapper.style.border = "2px solid red";
+                wrapper.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                return false;
+            }
+
+            errorSpan.style.display = 'none';
+            wrapper.style.border = "";
+            return true;
+        }
+
+        function onCaptchaSuccess() {
+            document.getElementById('spnCaptchaError').style.display = 'none';
+            document.getElementById('divRecaptchaWrapper').style.border = '';
+        }
+
+        function onCaptchaExpired() {
+            document.getElementById('spnCaptchaError').style.display = 'inline-block';
+            document.getElementById('divRecaptchaWrapper').style.border = '2px solid red';
+        }
+
+        function scrollToResults() {
+            var grid = $('#ContentPlaceHolder1_gvJudgments');
+            if (grid.length) {
+                $('html, body').animate({
+                    scrollTop: grid.offset().top - 100
+                }, 600);
+            }
+        }
+    </script>
+</head>
+<body>
+    <form method="post" action="./JudgmentsSearch" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C8FC57CB">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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">
+</div>
+        <!-- Header -->
+        <div class="site-header">
+            <img id="imgLogo" src="images/newlogo.png" alt="Supreme Court Logo">
+            <h2>Supreme Court of Pakistan</h2>
+        </div>
+
+        <!-- Navigation -->
+        <nav class="nav-bar navbar navbar-expand-md">
+            <div class="container">
+                <button class="navbar-toggler mx-auto" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="mainNav">
+                    <ul class="navbar-nav mx-auto">
+                        <li id="liHome" class="nav-item"><a class="nav-link" href="https://www.supremecourt.gov.pk/">Home</a></li>
+                        <!-- Case Information Dropdown -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="caseInfoMenu" role="button" data-bs-toggle="dropdown">Case Information</a>
+                            <ul class="dropdown-menu">
+                                <li id="liCaseInfo"><a class="dropdown-item" href="OnlineCaseInformation.aspx">Online Case Status</a></li>
+                                <li id="liCLS"><a class="dropdown-item" href="CauseListSearch.aspx">Cause List Search</a></li>
+                                <li id="li1"><a class="dropdown-item" href="JudgmentsSearch.aspx">Judgments Search</a></li>
+                                <li id="li2"><a class="dropdown-item" href="LatestJudgments.aspx">Latest Judgments</a></li>
+                                <li id="liRoS"><a class="dropdown-item" href="RosterofSittings.aspx">Roster of Sittings</a></li>
+                            </ul>
+                        </li>
+                        <li id="liEarlyHearing" class="nav-item"><a class="nav-link" href="EarlyHearing.aspx">Early Hearing</a></li>
+                        <li id="liAdjournments" class="nav-item"><a class="nav-link" href="AdvGeneralAdj.aspx">General Adjournments</a></li>
+                        <li id="liVLRequest" class="nav-item"><a class="nav-link" href="VLStatus.aspx">Video Link Request</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Breadcrumbs -->
+        <div class="container">
+            <span id="SiteMapPath1" class="breadcrumb"><a href="#SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=b8P9hC1NrfwphjraQpI5QdCW99WnB1dVTVq9Brl6DH9CIqelxP2BPZt5Rc7m6tuEzuG4NpKs0nV79B-q0cGoqV4ipdA1&amp;t=638901721900000000" width="0" height="0" style="border-width:0px;"></a><a id="SiteMapPath1_SkipLink"></a></span>
+        </div>
+
+        <!-- Page Title -->
+        <div class="text-center mb-1">
+            <h4 id="h4Main"></h4>
+        </div>
+
+        <!-- Main Content -->
+        <div class="container  mt-0 mb-4">
+            
+    <div class="container-fluid mt-4 px-4 px-md-3 px-lg-2 px-xl-0">
+
+        <!-- Page Title -->
+        <div class="card shadow-sm mb-4">
+            <div class="card-header py-3">
+                <div class="d-flex justify-content-between align-items-center">
+                    <h4 class="mb-0"><i class="fa fa-search me-2"></i>Judgments Search</h4>
+                    <span>
+                        <i class="fa fa-file-text-o me-1"></i>
+                        Search judgments
+                    </span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Error Display -->
+        
+
+        <!-- Search Filters -->
+        <div id="ContentPlaceHolder1_pnlFilters" class="filter-section">
+	
+            <h5><i class="fa fa-filter me-2"></i>Search</h5>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <label class="form-label">Sitting Judges</label>
+                    <select name="ctl00$ContentPlaceHolder1$ddlSittingJudges" id="ContentPlaceHolder1_ddlSittingJudges" class="form-select">
+		<option value=""></option>
+		<option value="Mr. Justice Yahya Afridi">Mr. Justice Yahya Afridi</option>
+		<option selected="selected" value="Mr. Justice Munib Akhtar">Mr. Justice Munib Akhtar</option>
+		<option value="Mr. Justice Jamal Khan Mandokhail">Mr. Justice Jamal Khan Mandokhail</option>
+		<option value="Mr. Justice Muhammad Ali Mazhar">Mr. Justice Muhammad Ali Mazhar</option>
+		<option value="Mrs. Justice Ayesha A. Malik">Mrs. Justice Ayesha A. Malik</option>
+		<option value="Mr. Justice Shahid Waheed">Mr. Justice Shahid Waheed</option>
+		<option value="Ms. Justice Musarrat Hilali">Ms. Justice Musarrat Hilali</option>
+		<option value="Mr. Justice Irfan Saadat Khan">Mr. Justice Irfan Saadat Khan</option>
+		<option value="Mr. Justice Naeem Akhter Afghan">Mr. Justice Naeem Akhter Afghan</option>
+		<option value="Mr. Justice Malik Shahzad Ahmad Khan">Mr. Justice Malik Shahzad Ahmad Khan</option>
+		<option value="Mr. Justice Aqeel Ahmed Abbasi">Mr. Justice Aqeel Ahmed Abbasi</option>
+		<option value="Mr. Justice Shahid Bilal Hassan">Mr. Justice Shahid Bilal Hassan</option>
+		<option value="Mr. Justice Muhammad Hashim Khan Kakar">Mr. Justice Muhammad Hashim Khan Kakar</option>
+		<option value="Mr. Justice Muhammad Shafi Siddiqui">Mr. Justice Muhammad Shafi Siddiqui</option>
+		<option value="Mr. Justice Salahuddin Panhwar">Mr. Justice Salahuddin Panhwar</option>
+		<option value="Mr. Justice Shakeel Ahmad">Mr. Justice Shakeel Ahmad</option>
+		<option value="Mr. Justice Ishtiaq Ibrahim">Mr. Justice Ishtiaq Ibrahim</option>
+		<option value="Mr. Justice Miangul Hassan Aurangzeb">Mr. Justice Miangul Hassan Aurangzeb</option>
+		<option value="Mr. Justice Dr. Khalid Masood">Mr. Justice Dr. Khalid Masood</option>
+		<option value="Mr. Justice Dr. Qibla Ayaz">Mr. Justice Dr. Qibla Ayaz</option>
+
+	</select>
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Former Judges</label>
+                    <select name="ctl00$ContentPlaceHolder1$ddlFormerJudges" id="ContentPlaceHolder1_ddlFormerJudges" class="form-select disabled-dropdown" disabled="">
+		<option value=""></option>
+		<option value="Mr. Justice Aamer Farooq">Mr. Justice Aamer Farooq</option>
+		<option value="Mr. Justice Ali Baqar Najafi">Mr. Justice Ali Baqar Najafi</option>
+		<option value="Mr. Justice Amin-Ud-Din Khan">Mr. Justice Amin-Ud-Din Khan</option>
+		<option value="Mr. Justice Amir Hani Muslim">Mr. Justice Amir Hani Muslim</option>
+		<option value="Mr. Justice Anwar Zaheer Jamali">Mr. Justice Anwar Zaheer Jamali</option>
+		<option value="Mr. Justice Asif Saeed Khan Khosa">Mr. Justice Asif Saeed Khan Khosa</option>
+		<option value="Mr. Justice Athar Minallah">Mr. Justice Athar Minallah</option>
+		<option value="Mr. Justice Ch. Ijaz Ahmed">Mr. Justice Ch. Ijaz Ahmed</option>
+		<option value="Mr. Justice Ch. Muhammad Arif">Mr. Justice Ch. Muhammad Arif</option>
+		<option value="Mr. Justice Dost Muhammad Khan">Mr. Justice Dost Muhammad Khan</option>
+		<option value="Mr. Justice Dr. Muhammad Al-Ghazali">Mr. Justice Dr. Muhammad Al-Ghazali</option>
+		<option value="Mr. Justice Ejaz Afzal Khan">Mr. Justice Ejaz Afzal Khan</option>
+		<option value="Mr. Justice Faisal Arab">Mr. Justice Faisal Arab</option>
+		<option value="Mr. Justice Falak Sher">Mr. Justice Falak Sher</option>
+		<option value="Mr. Justice Faqir Muhammad Khokhar">Mr. Justice Faqir Muhammad Khokhar</option>
+		<option value="Mr. Justice Gulzar Ahmed">Mr. Justice Gulzar Ahmed</option>
+		<option value="Mr. Justice Iftikhar Muhammad Chaudhry">Mr. Justice Iftikhar Muhammad Chaudhry</option>
+		<option value="Mr. Justice Ijaz Ahmed Chaudhry">Mr. Justice Ijaz Ahmed Chaudhry</option>
+		<option value="Mr. Justice Ijaz ul Ahsan">Mr. Justice Ijaz ul Ahsan</option>
+		<option value="Mr. Justice Iqbal Hameedur Rahman">Mr. Justice Iqbal Hameedur Rahman</option>
+		<option value="Mr. Justice Javed Iqbal">Mr. Justice Javed Iqbal</option>
+		<option value="MR. Justice Jawwad S. Khawaja">MR. Justice Jawwad S. Khawaja</option>
+		<option value="Mr. Justice Khalil-Ur-Rehman Ramday">Mr. Justice Khalil-Ur-Rehman Ramday</option>
+		<option value="Mr. Justice Khilji Arif Hussain">Mr. Justice Khilji Arif Hussain</option>
+		<option value="Mr. Justice Manzoor Ahmad Malik">Mr. Justice Manzoor Ahmad Malik</option>
+		<option value="Mr. Justice Maqbool Baqar">Mr. Justice Maqbool Baqar</option>
+		<option value="Mr. Justice Mazhar Alam Khan Miankhel">Mr. Justice Mazhar Alam Khan Miankhel</option>
+		<option value="Mr. Justice Mian Saqib Nisar">Mr. Justice Mian Saqib Nisar</option>
+		<option value="Mr. Justice Muhammad Sair Ali">Mr. Justice Muhammad Sair Ali</option>
+		<option value="Mr. Justice Mushir Alam">Mr. Justice Mushir Alam</option>
+		<option value="Mr. Justice Nasirul Mulk">Mr. Justice Nasirul Mulk</option>
+		<option value="Mr. Justice Qazi Faez Isa">Mr. Justice Qazi Faez Isa</option>
+		<option value="Mr. Justice Qazi Muhammad Amin Ahmed">Mr. Justice Qazi Muhammad Amin Ahmed</option>
+		<option value="Mr. Justice Raja Fayyaz Ahmed">Mr. Justice Raja Fayyaz Ahmed</option>
+		<option value="Mr. Justice Rana Zahid Mahmood">Mr. Justice Rana Zahid Mahmood</option>
+		<option value="Mr. Justice Sajjad Ali Shah">Mr. Justice Sajjad Ali Shah</option>
+		<option value="Mr. Justice Sardar Tariq Masood">Mr. Justice Sardar Tariq Masood</option>
+		<option value="MR. JUSTICE SARMAD JALAL OSMANY">MR. JUSTICE SARMAD JALAL OSMANY</option>
+		<option value="Mr. Justice Sayyed Mazahar Ali Akbar Naqvi">Mr. Justice Sayyed Mazahar Ali Akbar Naqvi</option>
+		<option value="Mr. Justice Sh. Azmat Saeed">Mr. Justice Sh. Azmat Saeed</option>
+		<option value="Mr. Justice Sh. Riaz Ahmad">Mr. Justice Sh. Riaz Ahmad</option>
+		<option value="Mr. Justice Syed Hasan Azhar Rizvi">Mr. Justice Syed Hasan Azhar Rizvi</option>
+		<option value="Mr. Justice Syed Jamshed Ali">Mr. Justice Syed Jamshed Ali</option>
+		<option value="Mr. Justice Syed Mansoor Ali Shah">Mr. Justice Syed Mansoor Ali Shah</option>
+		<option value="Mr. Justice Tanvir Ahmed Khan">Mr. Justice Tanvir Ahmed Khan</option>
+		<option value="Mr. Justice Tariq Parvez">Mr. Justice Tariq Parvez</option>
+		<option value="MR. JUSTICE TASSADUQ HUSSAIN JILLANI">MR. JUSTICE TASSADUQ HUSSAIN JILLANI</option>
+		<option value="Mr. Justice Umar Ata Bandial">Mr. Justice Umar Ata Bandial</option>
+
+	</select>
+                </div>
+                <div class="col-md-4">
+                    <label class="form-label">Reported</label>
+                    <select name="ctl00$ContentPlaceHolder1$ddlReported" id="ContentPlaceHolder1_ddlReported" class="form-select">
+		<option value="">-- Select --</option>
+		<option selected="selected" value="Y">Yes</option>
+		<option value="N">No</option>
+
+	</select>
+                </div>
+            </div>
+        
+</div>
+
+        <!-- More Search Options - Collapsible -->
+        <div id="ContentPlaceHolder1_pnlMoreOptions" class="filter-section">
+	
+            <div class="d-flex justify-content-between align-items-center w-100" id="toggleMoreOptions" style="cursor: pointer; user-select: none;">
+                <h5 class="mb-0">
+                    <i class="fa fa-plus-circle me-2"></i>More Search Options
+                </h5>
+            </div>
+            <div id="moreOptionsContent" class="mt-3 mb-4" style="display: none;">
+                <div class="row g-4">
+                    <div class="col-md-4">
+                        <label class="form-label">Parties Name</label>
+                        <input name="ctl00$ContentPlaceHolder1$txtPartiesName" type="text" id="ContentPlaceHolder1_txtPartiesName" class="form-control" placeholder="Enter parties name...">
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Tagline</label>
+                        <input name="ctl00$ContentPlaceHolder1$txtTagline" type="text" id="ContentPlaceHolder1_txtTagline" class="form-control" placeholder="Enter tagline text...">
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Keywords</label>
+                        <input name="ctl00$ContentPlaceHolder1$txtKeywords" type="text" id="ContentPlaceHolder1_txtKeywords" class="form-control" placeholder="Enter keywords...">
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Case Type</label>
+                        <select name="ctl00$ContentPlaceHolder1$ddlCaseType" id="ContentPlaceHolder1_ddlCaseType" class="form-select">
+		<option selected="selected" value=""></option>
+		<option value="C.A.">C.A.</option>
+		<option value="C.M.A.">C.M.A.</option>
+		<option value="C.M.Appeal.">C.M.Appeal.</option>
+		<option value="C.P.">C.P.</option>
+		<option value="C.P.L.A.">C.P.L.A.</option>
+		<option value="C.R.P.">C.R.P.</option>
+		<option value="C.Sh.A.">C.Sh.A.</option>
+		<option value="C.Sh.P.">C.Sh.P.</option>
+		<option value="C.Sh.R.P.">C.Sh.R.P.</option>
+		<option value="C.U.O.">C.U.O.</option>
+		<option value="Crl.A.">Crl.A.</option>
+		<option value="Crl.I.C.A.">Crl.I.C.A.</option>
+		<option value="Crl.M.A.">Crl.M.A.</option>
+		<option value="Crl.M.Appeal.">Crl.M.Appeal.</option>
+		<option value="Crl.O.P.">Crl.O.P.</option>
+		<option value="Crl.P.L.A.">Crl.P.L.A.</option>
+		<option value="Crl.R.P.">Crl.R.P.</option>
+		<option value="Crl.S.M.R.P.">Crl.S.M.R.P.</option>
+		<option value="Crl.S.M.Sh.R.P.">Crl.S.M.Sh.R.P.</option>
+		<option value="Crl.Sh.A.">Crl.Sh.A.</option>
+		<option value="Crl.Sh.P.">Crl.Sh.P.</option>
+		<option value="Crl.Sh.R.P.">Crl.Sh.R.P.</option>
+		<option value="D.S.A.">D.S.A.</option>
+		<option value="H.R.C.">H.R.C.</option>
+		<option value="H.R.M.A.">H.R.M.A.</option>
+		<option value="I.C.A.">I.C.A.</option>
+		<option value="J.P.">J.P.</option>
+		<option value="J.Sh.P.">J.Sh.P.</option>
+		<option value="Reference.">Reference.</option>
+		<option value="Report">Report</option>
+		<option value="S.M.C.">S.M.C.</option>
+		<option value="S.M.R.P.">S.M.R.P.</option>
+		<option value="T.A.(C)">T.A.(C)</option>
+		<option value="T.A.(F)">T.A.(F)</option>
+		<option value="T.Case">T.Case</option>
+
+	</select>
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Case Number</label>
+                        <input name="ctl00$ContentPlaceHolder1$txtCaseNumber" type="text" id="ContentPlaceHolder1_txtCaseNumber" class="form-control" placeholder="e.g., C.P.L.A.4677/2025">
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Case Year</label>
+                        <select name="ctl00$ContentPlaceHolder1$ddlCaseYear" id="ContentPlaceHolder1_ddlCaseYear" class="form-select">
+		<option selected="selected" value=""></option>
+		<option value="2026">2026</option>
+		<option value="2025">2025</option>
+		<option value="2024">2024</option>
+		<option value="2023">2023</option>
+		<option value="2022">2022</option>
+		<option value="2021">2021</option>
+		<option value="2020">2020</option>
+		<option value="2019">2019</option>
+		<option value="2018">2018</option>
+		<option value="2017">2017</option>
+		<option value="2016">2016</option>
+		<option value="2015">2015</option>
+		<option value="2014">2014</option>
+		<option value="2013">2013</option>
+		<option value="2012">2012</option>
+		<option value="2011">2011</option>
+		<option value="2010">2010</option>
+		<option value="2009">2009</option>
+		<option value="2008">2008</option>
+		<option value="2007">2007</option>
+		<option value="2006">2006</option>
+		<option value="2005">2005</option>
+		<option value="2004">2004</option>
+		<option value="2003">2003</option>
+		<option value="2002">2002</option>
+		<option value="2001">2001</option>
+		<option value="2000">2000</option>
+		<option value="1999">1999</option>
+		<option value="1998">1998</option>
+		<option value="1997">1997</option>
+		<option value="1996">1996</option>
+		<option value="1995">1995</option>
+		<option value="1994">1994</option>
+		<option value="1993">1993</option>
+		<option value="1992">1992</option>
+		<option value="1991">1991</option>
+		<option value="1990">1990</option>
+		<option value="1989">1989</option>
+		<option value="1988">1988</option>
+		<option value="1987">1987</option>
+		<option value="1986">1986</option>
+		<option value="1985">1985</option>
+		<option value="1984">1984</option>
+		<option value="1983">1983</option>
+		<option value="1982">1982</option>
+		<option value="1981">1981</option>
+		<option value="1980">1980</option>
+
+	</select>
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Date of Announcement</label>
+                        <div class="input-group">
+                            <input name="ctl00$ContentPlaceHolder1$txtDateOfAnnouncement" type="text" id="ContentPlaceHolder1_txtDateOfAnnouncement" class="form-control hasDatepicker" placeholder="dd-mm-yyyy">
+                            <button type="button" class="btn btn-outline-secondary clear-date-btn" onclick="clearDate('ContentPlaceHolder1_txtDateOfAnnouncement')">
+                                <i class="fa fa-times"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">Citation</label>
+                        <input name="ctl00$ContentPlaceHolder1$txtCitation" type="text" id="ContentPlaceHolder1_txtCitation" class="form-control" placeholder="Enter citation...">
+                    </div>
+                    <div class="col-md-4">
+                        <label class="form-label">SC Citation</label>
+                        <input name="ctl00$ContentPlaceHolder1$txtSCCitation" type="text" id="ContentPlaceHolder1_txtSCCitation" class="form-control" placeholder="Enter SC citation...">
+                    </div>
+                </div>
+            </div>
+        
+</div>
+
+        <!-- Captcha -->
+        <div class="text-center my-4">
+            <div id="divRecaptchaWrapper" class="captcha-container">
+                <div class="g-recaptcha" data-sitekey="6LfMh2McAAAAACQzVAj3DQ-uhkadQFoj0b8O8O6v" data-callback="onCaptchaSuccess" data-expired-callback="onCaptchaExpired"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" width="304" height="78" role="presentation" name="a-3iloug7gkrb0" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfMh2McAAAAACQzVAj3DQ-uhkadQFoj0b8O8O6v&amp;co=aHR0cHM6Ly9zY3AuZ292LnBrOjQ0Mw..&amp;hl=en&amp;v=gTpTIWhbKpxADzTzkcabhXN4&amp;size=normal&amp;anchor-ms=20000&amp;execute-ms=30000&amp;cb=h6d9jzdghrvo"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+            </div>
+            <div class="mt-2">
+                <span class="text-danger" id="spnCaptchaError" style="display: none;">Please verify that you are not a robot.</span>
+            </div>
+        </div>
+
+        <!-- Search Button -->
+        <div class="text-center mb-4">
+            <input type="submit" name="ctl00$ContentPlaceHolder1$btnSearch" value="Search Judgments" onclick="return validateSearch();" id="ContentPlaceHolder1_btnSearch" class="btn btn-success search-btn px-5">
+            <input type="submit" name="ctl00$ContentPlaceHolder1$btnReset" value="Reset Filters" id="ContentPlaceHolder1_btnReset" class="btn btn-outline-secondary ms-3 px-4">
+        </div>
+
+        <!-- Loading Panel -->
+        
+
+        <!-- No Records Panel -->
+        
+
+        <!-- Results Panel -->
+        <div id="ContentPlaceHolder1_pnlResults">
+	
+        <div class="card shadow-sm mt-4">
+            <div class="card-header mb-0">
+                <div class="d-flex justify-content-between align-items-center">
+                    <h5 class="mb-0"><i class="fa fa-list me-2"></i>Search Results</h5>
+                    <div class="d-flex align-items-center">
+                        <span id="ContentPlaceHolder1_lblRecordInfo" class="me-3">Showing 1 to 25 of 94 records</span>
+                        <select name="ctl00$ContentPlaceHolder1$ddlPageSize" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolder1$ddlPageSize\',\'\')', 0)" id="ContentPlaceHolder1_ddlPageSize" class="form-select page-size-selector">
+		<option selected="selected" value="25">25 per page</option>
+		<option value="50">50 per page</option>
+		<option value="100">100 per page</option>
+
+	</select>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card-body p-0">
+
+                <div class="grid-container">
+<div>
+		<table class="judgment-grid" cellspacing="0" id="ContentPlaceHolder1_gvJudgments" style="width:100%;border-collapse:collapse;">
+			<tbody><tr class="grid-pager" align="center">
+				<td><table>
+					<tbody><tr>
+						<td><span>1</span></td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$gvJudgments','Page$2')">2</a></td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$gvJudgments','Page$3')">3</a></td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$gvJudgments','Page$4')">4</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr><tr>
+				<th scope="col">
+                <table style="width:100%;">
+                    <tbody><tr>
+                        <th style="width:60px;">Sr. No.</th>
+                        <th style="width:150px;">Case Subject</th>
+                        <th style="width:110px;">Case No</th>
+                        <th style="width:200px;">Case Title</th>
+                        <th style="width:150px;">Author Judge</th>
+                        <th style="width:90px;">Judgment Date</th>
+                        <th style="width:90px;">Upload Date</th>
+                        <th style="width:90px;">Citation</th>
+                        <th style="width:90px;">SC Citation</th>
+                        <th style="width:80px;">Download</th>
+                    </tr>
+                </tbody></table>
+            </th>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            1
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Execution / Objection Petition(s)
+                                 / Civil
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.3744/2023
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Agha Abid Majeed Khan v. Idrees Ahmed and another
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            18-02-2026
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            20-02-2026
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_0" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._3744_2023.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    18.96 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl03$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_0" value="c.p._3744_2023.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            2
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Tax
+                                 / Sales Tax Act
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.663-P/2025
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Commissioner Inland Revenue (Peshawar Zone) v. M/s Diamond Filling &amp; CNG Station, Peshawar
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            07-01-2026
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            28-01-2026
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_1" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._663_p_2025.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    26.04 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl04$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_1" value="c.p._663_p_2025.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row has-tagline">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            3
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Tax
+                                 / Income Tax
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.3169/2022
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Coca Cola Pakistan Limited (The Coca-Cola Export Corporation, PB), Lahore v. Commissioner Inland Revenue, Large Taxpayers Office, Lahore
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            12-11-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            12-11-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 419
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_2" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._3169_2022.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    36.76 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl05$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_2" value="c.p._3169_2022.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    <tr class="tagline-row">
+					<td colspan="10">
+                            <div class="tagline-container">
+                                <i class="fa fa-quote-left"></i>
+                                Income Tax Ordinance 2001. Section 67, apportionment of expenses. 
+                            </div>
+                        </td>
+				</tr>
+				
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row has-tagline">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            4
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Tax
+                                 / Income Tax
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.22-L/2025
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            M/s Worldcall Telecom Limited v. The Commissioner of Income Tax, Lahore
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            11-11-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            11-11-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 417
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_3" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._22_l_2025.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    45.72 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl06$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_3" value="c.p._22_l_2025.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    <tr class="tagline-row">
+					<td colspan="10">
+                            <div class="tagline-container">
+                                <i class="fa fa-quote-left"></i>
+                                Income Tax Ordinance 2001. Advance payment of tax, principles.
+                            </div>
+                        </td>
+				</tr>
+				
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row has-tagline">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            5
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Tax
+                                 / Income Tax
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.985-K/2023
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Pakistan Stock Exchange Limited v. Commissioner Inland Revenue Zone -VI, Karachi
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            24-10-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            24-10-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 397
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_4" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._985_k_2023.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    60.91 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl07$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_4" value="c.p._985_k_2023.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    <tr class="tagline-row">
+					<td colspan="10">
+                            <div class="tagline-container">
+                                <i class="fa fa-quote-left"></i>
+                                Company law: Cotman v Brougham clause. Income tax law: exemption clause, "charitable purpose".
+                            </div>
+                        </td>
+				</tr>
+				
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row has-tagline">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            6
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Tax
+                                 / Income Tax
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.2442-L/2022
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Commissioner Inland Revenue, Lahore v. Power Line Construction Company (Pvt) Limited, Lahore
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            21-10-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            21-10-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 390
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_5" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._2442_l_2022.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    92.17 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl08$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_5" value="c.p._2442_l_2022.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    <tr class="tagline-row">
+					<td colspan="10">
+                            <div class="tagline-container">
+                                <i class="fa fa-quote-left"></i>
+                                How does the Income Tax Ordinance, 2001 apply in relation to a tax year: as it stands on the last day thereof (June 30th) or  on the next following day (July 1st) ? 
+                            </div>
+                        </td>
+				</tr>
+				
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row has-tagline">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            7
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Tax
+                                 / Income Tax
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.2845-L/2022
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Commissioner Inland Revenue, Lahore v. M/s Coca Cola Pakistan Limited, Lahore
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            03-10-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            07-10-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 364
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_6" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._2845_l_2022.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    23.16 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl09$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_6" value="c.p._2845_l_2022.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    <tr class="tagline-row">
+					<td colspan="10">
+                            <div class="tagline-container">
+                                <i class="fa fa-quote-left"></i>
+                                Income Tax Ordinance, 2001: application of s.153.
+                            </div>
+                        </td>
+				</tr>
+				
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row has-tagline">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            8
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Tax
+                                 / Sales Tax Act
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.4168/2021
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Commissioner Inland Revenue, Regional Tax Office, Peshawar v. M/s Cherat Cement Company Ltd Nowshera
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            23-09-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            23-09-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 339
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_7" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._4168_2021.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    51.71 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl10$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_7" value="c.p._4168_2021.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    <tr class="tagline-row">
+					<td colspan="10">
+                            <div class="tagline-container">
+                                <i class="fa fa-quote-left"></i>
+                                Sales Tax Act, 1990 — General Principles of VAT — Application of s.66 to a period of exemption
+                            </div>
+                        </td>
+				</tr>
+				
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row has-tagline">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            9
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Tax
+                                 / Income Tax
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.A.2026/2022
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Commissioner Inland Revenue, Zone-I, Regional  Tax Office, Sialkot v. M/s White Gold Steel Mills, S.I.E. Daska
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            05-06-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            05-06-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 217
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_8" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.a._2026_2022l.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    84.08 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl11$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_8" value="c.a._2026_2022l.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    <tr class="tagline-row">
+					<td colspan="10">
+                            <div class="tagline-container">
+                                <i class="fa fa-quote-left"></i>
+                                 Income Tax Ordinance, 2001- Jurisdiction of Commissioner under s.221 to rectify mistake in deemed Assessment Order under s.120.
+                            </div>
+                        </td>
+				</tr>
+				
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            10
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Customs
+                                 / Customs
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.466-K/2025
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Director, Directorate General, Intelligence &amp; Investigation (Customs) v. Altaf Hussain &amp; another
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            29-05-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            31-05-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 210
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_9" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._466_k_2025.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    15.07 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl12$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_9" value="c.p._466_k_2025.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            11
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Customs
+                                 / Customs
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.2475-L/2024
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Additional Collector of Customs, Faisalabad through Collector of Customs v. M/s. Fatima Enterprises, Multan &amp; another
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            26-05-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            30-05-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 200
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_10" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._2475_l_2024.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    29.04 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl13$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_10" value="c.p._2475_l_2024.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            12
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Tax
+                                 / Sales Tax Act
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.A.634/2018
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            M/s WAK Limited Multan Road, Lahore v. Collector Central Excise &amp; Sales Tax, Lahore (Now Commissioner Inland Revenue, LTU, Lahore) and others
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            14-05-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            14-05-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 184
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_11" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.a._634_2018.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    106.12 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl14$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_11" value="c.a._634_2018.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            13
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Tax
+                                 / Sales Tax Act
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.109-L/2024
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Commissioner Inland Revenue, Lahore v. M/S Educational Services (Private) Limited, Lahore
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            24-04-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            06-05-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 161
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_12" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._109_l_2024.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    32.38 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl15$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_12" value="c.p._109_l_2024.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            14
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Service
+                                 / Against Reinstatment into Service
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.121/2024
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            National Bank of Pakistan thr. its President, Karachi &amp; others v. Muhammad Shafiq
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            09-01-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            30-04-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 155
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_13" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._121_2024.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    20.76 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl16$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_13" value="c.p._121_2024.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            15
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Suit for specific performance
+                                 / Suit for specific performance
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.1808-L/2015
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Abdul Shakoor (decd) through his L.Rs. etc v. Muhammad Hanif (decd) through his L.Rs. etc
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            25-02-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            08-03-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 68
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_14" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._1808_l_2015.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    679.57 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl17$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_14" value="c.p._1808_l_2015.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            16
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                OGRA
+                                 / OGRA
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.R.P.540/2023
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Oil &amp; Gas Regulatory Authority, Islamabad v. Gas &amp; Oil Pakistan Limited, Lahore and another
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            14-02-2025
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            19-02-2025
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2025 SCP 42
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_15" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.r.p._540_2023.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    18.38 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl18$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_15" value="c.r.p._540_2023.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            17
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Suit for Declaration
+                                 / Allotment of Land
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.A.766/2021
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Ghulam Sarwar (deceased) thr. his L.Rs. v. Province of Punjab through District Collector Lodhran and others
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            15-11-2024
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            18-11-2024
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2024 SCP 383
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_16" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.a._766_2021.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    14.73 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl19$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_16" value="c.a._766_2021.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            18
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Writ Petition
+                                 / Service
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.1417-K/2022
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Dr. Khalid Iqbal Talpur v. Province of Sindh through Chief Secretary, Government of Sindh &amp; others
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            15-11-2024
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            15-11-2024
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2024 SCP 381
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_17" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._1417_k_2022.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    49.02 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl20$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_17" value="c.p._1417_k_2022.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            19
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                WAPDA
+                                 / Others
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.A.256/2011
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Province of Punjab thr. Secy. Irrigation &amp; Power  &amp; another v. M/s. Kunjah Textile Mills Ltd. &amp; others
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            08-10-2024
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            08-10-2024
+                        </td>
+
+                        <td style="width:100px;">
+                            
+                        </td>
+
+                        <td style="width:100px;">
+                            2024 SCP 348
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_18" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.a._256_2011.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    37.28 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl21$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_18" value="c.a._256_2011.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            20
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Election-National Assembly
+                                 / Reserved Seats
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.A.333/2024
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Sunni Ittehad Council through its Chairman, Faisalabad and another v. Election Commission of Pakistan through its Secretary, Islamabad and others
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            (1) Mr. Justice Qazi Faez Isa (2) Mr. Justice Syed Mansoor Ali Shah (3) Mr. Justice Munib Akhtar (4) Mr. Justice Yahya Afridi (5) Mr. Justice Amin-Ud-Din Khan (6) Mr. Justice Jamal Khan Mandokhail (7) Mr. Justice Muhammad Ali Mazhar (8) Mrs. Justice Ayesha A. Malik (9) Mr. Justice Athar Minallah (10) Mr. Justice Syed Hasan Azhar Rizvi (11) Mr. Justice Shahid Waheed (12) Mr. Justice Irfan Saadat Khan (13) Mr. Justice Naeem Akhter Afghan
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            12-07-2024
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            12-07-2024
+                        </td>
+
+                        <td style="width:100px;">
+                            PLD 2025 SC 67
+                        </td>
+
+                        <td style="width:100px;">
+                            2024 SCP 237
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_19" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.a._333_2024_12072024.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    71.92 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl22$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_19" value="c.a._333_2024_12072024.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            21
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Election-National Assembly
+                                 / Reserved Seats
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.A.333/2024
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Sunni Ittehad Council through its Chairman, Faisalabad and another v. Election Commission of Pakistan through its Secretary, Islamabad and others
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            (1) Mr. Justice Syed Mansoor Ali Shah (2) Mr. Justice Munib Akhtar (3) Mr. Justice Muhammad Ali Mazhar (4) Mrs. Justice Ayesha A. Malik (5) Mr. Justice Athar Minallah (6) Mr. Justice Syed Hasan Azhar Rizvi (7) Mr. Justice Shahid Waheed (8) Mr. Justice Irfan Saadat Khan
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            12-07-2024
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            12-07-2024
+                        </td>
+
+                        <td style="width:100px;">
+                            PLD 2025 SC 67
+                        </td>
+
+                        <td style="width:100px;">
+                            2024 SCP 236
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_20" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.a._333_2024_mv.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    43.53 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl23$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_20" value="c.a._333_2024_mv.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            22
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Election-National Assembly
+                                 / Rejection of Nomination Papers
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.210/2024
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Umar Farooq v. Sajjad Ahmad Qamar and others
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            30-01-2024
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            15-05-2024
+                        </td>
+
+                        <td style="width:100px;">
+                            PLD 2024 SC 688
+                        </td>
+
+                        <td style="width:100px;">
+                            2024 SCP 170
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_21" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._210_2024_r.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    31.38 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl24$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_21" value="c.p._210_2024_r.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            23
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Election-Provincial Assembly
+                                 / Rejection of Nomination Papers
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.244/2024
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Malik Ahmad Usman Nawaz v. The Appellate Tribunal (Elections Act, 2017) for PP-254 (Bahawalpur-X) Bahawalpur and others
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            30-01-2024
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            07-05-2024
+                        </td>
+
+                        <td style="width:100px;">
+                            2024 SCMR 1202
+                        </td>
+
+                        <td style="width:100px;">
+                            2024 SCP 158
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_22" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._244_2024_07052024.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    15.93 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl25$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_22" value="c.p._244_2024_07052024.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            24
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Election-National Assembly
+                                 / Rejection of Nomination Papers
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.255/2024
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Shahbaz Ahmad Khan v. Learned Election Appellate Tribunal NA-144 (Khanewal-I) and others
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            31-01-2024
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            31-01-2024
+                        </td>
+
+                        <td style="width:100px;">
+                            NA
+                        </td>
+
+                        <td style="width:100px;">
+                            2024 SCP 54
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_23" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._255_2024.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    5.67 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl26$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_23" value="c.p._255_2024.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class=" data-row">
+				<td>
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody><tr class="data-row ">
+
+                        <td class="sr-no" style="width:60px; text-align:center;">
+                            25
+                        </td>
+
+                        <td class="subject-cell" style="width:180px;">
+                            <span class="subject-text">
+                                Election-Provincial Assembly
+                                 / Rejection of Nomination Papers
+                            </span>
+                        </td>
+
+                        <td class="case-no" style="width:120px;">
+                            C.P.L.A.254/2024
+                        </td>
+
+                        <td class="case-title" style="width:250px;">
+                            Shahbaz Ahmad Khan v. Learned Election Appellate Tribunal PP-212 (Khanewal-VIII) and others
+                        </td>
+
+                        <td class="author-judge" style="width:200px;">
+                            Mr. Justice Munib Akhtar
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            31-01-2024
+                        </td>
+
+                        <td style="width:100px; text-align:center;">
+                            31-01-2024
+                        </td>
+
+                        <td style="width:100px;">
+                            NA
+                        </td>
+
+                        <td style="width:100px;">
+                            2024 SCP 53
+                        </td>
+
+                        <td class="download-cell" style="width:100px; text-align:center;">
+                            <a id="ContentPlaceHolder1_gvJudgments_hlDownload_24" class="download-link" href="https://www.supremecourt.gov.pk/downloads_judgements/c.p._254_2024.pdf" target="_blank">
+                                <i class="fa fa-file-pdf-o"></i>
+                                PDF
+                                <span class="file-size">
+                                    5.62 KB
+                                </span>
+                            </a>
+
+                            <input type="hidden" name="ctl00$ContentPlaceHolder1$gvJudgments$ctl27$hfCaseFile" id="ContentPlaceHolder1_gvJudgments_hfCaseFile_24" value="c.p._254_2024.pdf">
+                        </td>
+
+                    </tr>
+
+                    <!-- TAGLINE ROW -->
+                    
+                </tbody></table>
+            </td>
+			</tr><tr class="grid-pager" align="center">
+				<td><table>
+					<tbody><tr>
+						<td><span>1</span></td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$gvJudgments','Page$2')">2</a></td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$gvJudgments','Page$3')">3</a></td><td><a href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$gvJudgments','Page$4')">4</a></td>
+					</tr>
+				</tbody></table></td>
+			</tr>
+		</tbody></table>
+	</div>
+                    </div>
+                </div>
+            </div>
+        
+</div>
+    </div>
+
+        </div>
+
+        <!-- Footer -->
+        <footer class="main-footer text-center">
+            <strong>Copyright © 2026
+                <a href="http://portal.scp.com/">Supreme Court of Pakistan</a>.
+            </strong>
+            &nbsp;|&nbsp;
+            Developed By: <i class="fa fa-desktop" style="color: black;"></i>IT Directorate
+        </footer>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+scrollToResults();//]]>
+</script>
+</form>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" integrity="sha512-8DS7rgIrAmghBFwoOTujcf6D9rXvH8xm8JQ1Ja01h9QX8EzXldiszufYa4IFfKdLUKTTrnSFXLDkUEOTrZQ8Qg==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;6e3acdf70eb04858bf275c9134d4d855&quot;,&quot;r&quot;:1,&quot;server_timing&quot;:{&quot;name&quot;:{&quot;cfCacheStatus&quot;:true,&quot;cfEdge&quot;:true,&quot;cfExtPri&quot;:true,&quot;cfL4&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfSpeedBrain&quot;:true},&quot;location_startswith&quot;:null}}" crossorigin="anonymous"></script>
+
+
+<div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all"></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility linear 0.3s, opacity 0.3s linear; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="recaptcha challenge expires in two minutes" name="c-3iloug7gkrb0" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=gTpTIWhbKpxADzTzkcabhXN4&amp;k=6LfMh2McAAAAACQzVAj3DQ-uhkadQFoj0b8O8O6v&amp;bft=0dAFcWeA7Wd1jkWI8NLmKsb18VU-4z1NvTxOv9y2JyZ_eIuq83p3huKorxMZFFmTUJyJX-1oHfQtQx33R4G1ARhe8a2LPqGU4ojA" style="width: 100%; height: 100%;"></iframe></div></div></body></html>

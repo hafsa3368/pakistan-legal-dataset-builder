@@ -1,0 +1,38 @@
+{
+  "generated_name": "LHC_civil_processed_139173.pdf",
+  "actual_filename": "processed_139173.pdf",
+  "court": "LHC",
+  "case_type": "civil",
+  "year": "unknown",
+  "used_ocr": false,
+  "num_chunks": 2,
+  "case_number": "Criminal Bail Application No.950 of 2019",
+  "date_of_order": "09.07.2019",
+  "judge": "",
+  "sections_cited": [
+    "sections 302, 324, 34",
+    "section 7"
+  ],
+  "citations": [],
+  "parties": [],
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "token_estimate": 431,
+      "source_pages": [
+        1,
+        2
+      ],
+      "text": "ORDER SHEET IN THE HIGH COURT OF SINDH AT KARACHI Criminal Bail Application No.950 of 2019 ------------------------------------------------------------------------------------------------ DATE ORDER WITH SIGNATURE(S) OF JUDGE(S) ------------------------------------------------------------------------------------------------ 1) For orders on M.A. No.6390/2019 (U/A) 2) For orders on M.A. No.6391/2019 (Exp/A) 3) For hearing of bail application ------------------------------ 09.07.2019 Mr. Muhammad Ijaz Tanoli advocate a/w applicant -------------------------------------------- Applicant/accused Muhammad Shahid Khan son of Alamgir Khan, seeks protective bail in F.I.R. No.310/2012, registered at P.S. Peerabad, Karachi West under sections 302, 324, 34, PPC read with section 7 of the Anti-Terrorism Act, 1997. It is contended by the learned counsel that the applicant/accused being innocent has been involved in this case falsely by the police, otherwise his name is not appearing in the FIR and he is ready to surrender before the trial court but is being prevented from doing so by the police. In view of the above, without touching the merits of the case, protective bail for a period of four days from today is granted to applicant/accused Muhammad Shahid Khan son of Alamgir Khan, subject to furnishing solvent surety in the sum of Rs.100,000/- (Rupees One Hundred Thousand) and P.R. bond in the like amount to the satisfaction of the Nazir of this Court. Applicant/accused is directed to surrender before the trial Court in the aforesaid crime. This order shall cease to have its effect after expiry of four days from today or whenever the applicant/accused surrenders before the trial Court, which one occurs earlier."
+    },
+    {
+      "chunk_index": 1,
+      "token_estimate": 83,
+      "source_pages": [
+        2,
+        3
+      ],
+      "text": "Applicant/accused is directed to surrender before the trial Court in the aforesaid crime. This order shall cease to have its effect after expiry of four days from today or whenever the applicant/accused surrenders before the trial Court, which one occurs earlier. Application is accordingly disposed of. J U D G E J U D G E Gulsher/PS"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "generated_name": "LHC_civil_case_331_1.pdf",
+  "actual_filename": "case_331_1.pdf",
+  "court": "LHC",
+  "case_type": "civil",
+  "year": "unknown",
+  "used_ocr": false,
+  "num_chunks": 1,
+  "case_number": "",
+  "date_of_order": "",
+  "judge": "",
+  "sections_cited": [],
+  "citations": [],
+  "parties": [],
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "token_estimate": 19,
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "text": "CamScanner CamScanner CamScanner CamScanner CamScanner CamScanner CamScanner"
+    }
+  ]
+}

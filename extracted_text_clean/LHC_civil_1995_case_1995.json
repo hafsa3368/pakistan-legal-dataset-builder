@@ -1,0 +1,25 @@
+{
+  "generated_name": "LHC_civil_1995_case_1995.pdf",
+  "actual_filename": "case_1995.pdf",
+  "court": "LHC",
+  "case_type": "civil",
+  "year": "1995",
+  "used_ocr": false,
+  "num_chunks": 1,
+  "case_number": "",
+  "date_of_order": "",
+  "judge": "",
+  "sections_cited": [],
+  "citations": [],
+  "parties": [],
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "token_estimate": 2,
+      "source_pages": [
+        1
+      ],
+      "text": "CamScanner"
+    }
+  ]
+}

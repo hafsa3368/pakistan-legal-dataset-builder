@@ -1,0 +1,48 @@
+{
+  "generated_name": "SHC_tax_2024_tax_general_shc_2024_295098_1.pdf",
+  "actual_filename": "tax_general_shc_2024_295098_1.pdf",
+  "court": "SHC",
+  "case_type": "tax",
+  "year": "2024",
+  "used_ocr": false,
+  "num_chunks": 3,
+  "case_number": "",
+  "date_of_order": "25-11-2025",
+  "judge": "Adnan Iqbal Chaudhry Mr",
+  "sections_cited": [
+    "section 2 of the Sales Act",
+    "section 7",
+    "sections 7, 8, 2"
+  ],
+  "citations": [],
+  "parties": [
+    "Shan Foods "
+  ],
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "token_estimate": 418,
+      "source_pages": [
+        1,
+        2
+      ],
+      "text": "THE HIGH COURT OF SINDH KARACHI Present: Mr. Justice Adnan Iqbal Chaudhry Mr. Justice Muhammad Jaffer Raza C.P. No. D – 4679 of 2025 [Shan Foods (Pvt.) Ltd., vs. Pakistan & others] Petitioner: Shan Foods (Private) Limited through Mr. Hamza Waheed, Advocate. Respondents 1, 2, 4 & 5: Nemo. Respondent 3: Commissioner Inland Revenue, Zone- IV, LTO, Karachi through Mr. Asad Aftab Solangi, Advocate. Mr. Javaid Iqbal Shaikh, Commissioner-IR, Zone-IV, LTO, Karachi and Mr. Usman Ijaz Rathore, DC-IR, Zone-IV, LTO, Karachi, both are present. Date of hearing: 25-11-2025 Date of decision: 25-11-2025 O R D E R Adnan Iqbal Chaudhry J. – Petitioner submits that under the ‘reverse charge mechanism’, it had paid provincial sales tax on royalty payments to a non-resident, which is recognized by section 2 of the Sales Act, 1990 as input tax that can be adjusted from output tax as per section 7 of said Act; however, from July 2025 onwards, the IRIS is not configured to allow such adjustment; hence the petition. The Commissioner-IR, Zone-IV, LTO, Karachi, who was summoned for the Court’s assistance, acknowledges that the IRIS does not presently allow registered persons to claim the aforesaid adjustment. He submits: “1. The Department accepts the legal admissibility of input tax adjustment on provincial sales tax paid under reverse charge, subject to statutory verification under sections 7, 8, 2(d) SRO 350 and SRO 814(I)/2016. 2. After STRIVE and SRO 350(I)/2024, Annexure-C filed by suppliers automatically populates Annexure-A for buyers. Manual feeding of Annexure-A is no longer possible anywhere in Pakistan under the uniform FBR system. C.P. No. D – 4679 of 2025 3."
+    },
+    {
+      "chunk_index": 1,
+      "token_estimate": 422,
+      "source_pages": [
+        2
+      ],
+      "text": "No. D – 4679 of 2025 3. In reverse-charge cases, since the foreign service provider does not file Annexure-C, the system requires a controlled exception, which can only be activated after invoice-wise verification by the Department and technical enabling by PRAL. 4. To facilitate the Petitioner, notices dated 13-11-2025 and 19-11-2025 were issued requesting royalty invoices, SRB challans, self-invoices, and the invoice-wise list required for enabling Annexure-A. The Petitioner did not furnish any of the required documents.” Therefore, while the Inland Revenue accepts the admissibility of input tax adjustment on provincial sales tax paid under the reverse charge mechanism, the IRIS has been deliberated tweaked not to accept online submissions for such adjustment keeping in view the fact that it cannot be cross-referenced with the supply data of the non-resident service provider who does not file a return. We have been made to understand that this has been done to put a check on unverified claims for input tax adjustment. However, as explained by the Commissioner, in cases where the registered person claims to have paid provincial sales tax under the reverse charge mechanism, it can write to the Inland Revenue with supporting documents, and after verifying such documents the Inland Revenue will issue a request to the Pakistan Revenue Automation Limited [PRAL] to enter the adjustment in the IRIS. The explanation given by the Commissioner is plausible. However, to streamline said alternative, and the consequence where the adjustment is denied, the FBR needs to issue appropriate instructions to the Inland Revenue and PRAL so that such matters are not brought to Court."
+    },
+    {
+      "chunk_index": 2,
+      "token_estimate": 147,
+      "source_pages": [
+        2
+      ],
+      "text": "The explanation given by the Commissioner is plausible. However, to streamline said alternative, and the consequence where the adjustment is denied, the FBR needs to issue appropriate instructions to the Inland Revenue and PRAL so that such matters are not brought to Court. The Commissioner shall pass on this observation to the FBR. In the meanwhile, if the Petitioner desires to claim the stated input tax adjustment, it shall provide the documents sought by the Commissioner. To enable the Commissioner to follow-up on the observations above. Re-list after two weeks. JUDGE JUDGE SHABAN*"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "generated_name": "SHC_criminal_1995_criminal_general_shc_1995_195098.pdf",
+  "actual_filename": "criminal_general_shc_1995_195098.pdf",
+  "court": "SHC",
+  "case_type": "criminal",
+  "year": "1995",
+  "used_ocr": false,
+  "num_chunks": 2,
+  "case_number": "Crl. Bail Application No. 547 of 2023",
+  "date_of_order": "30.01.2023",
+  "judge": "",
+  "sections_cited": [
+    "section 489-F, 420 and 34",
+    "section 420",
+    "section 489-F",
+    "section 497 Cr.P.C"
+  ],
+  "citations": [
+    "PLD 1995 SC 34"
+  ],
+  "parties": [],
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "token_estimate": 420,
+      "source_pages": [
+        1
+      ],
+      "text": "ORDER SHEET IN THE HIGH COURT OF SINDH KARACHI Crl. Bail Application No. 547 of 2023 DATE ORDER WITH SIGNATURE OF JUDGES For hearing of bail application. 18-05-2023 Mr. Muhammad Asif Dosani, Advocate for applicant. Mr. Ameer Mukhtiar advocate holds brief for Mr. Ali Hasnain, Advocate for complainant. Mr. Talib Ali Memon, APG. ============= Omar Sial, J: Mohammad Ali is accused of an offence under section 489-F, 420 and 34 P.P.C. pursuant to F.I.R. No. 695 of 2022 registered at the Preedy police station. Earlier, his application seeking bail was dismissed on 30.01.2023 by the learned Sessions Judge, Karachi South. 2. The applicant has been in custody for a period of 81⁄2 months in an offence which carries a potential sentence of up to 3 years. By the time the trial finishes he would have served out his sentence without having been given an opportunity to defend himself. An offence under section 420 P.P.C. is a bailable one whereas an offence under section 489-F P.P.C. though not bailable falls within the non-prohibitory clause of section 497 Cr.P.C. Keeping in view the principles enunciated in Tariq Bashir and 5 others vs The State (PLD 1995 SC 34), I find no exceptional or extraordinary ground to deny the applicant bail. The foregoing situation, which is not controverted by the learned counsel for the complainant or the learned APG, leads me to conclude that the applicant has indeed made out a case to be admitted to post arrest bail pending trial. 3. In view of the above, the applicant is admitted to bail subject to his furnishing a solvent surety in the sum of Rs. 100,000 and a P.R. Bond in the like amount to the satisfaction of the learned trial court."
+    },
+    {
+      "chunk_index": 1,
+      "token_estimate": 53,
+      "source_pages": [
+        1
+      ],
+      "text": "In view of the above, the applicant is admitted to bail subject to his furnishing a solvent surety in the sum of Rs. 100,000 and a P.R. Bond in the like amount to the satisfaction of the learned trial court. JUDGE"
+    }
+  ]
+}

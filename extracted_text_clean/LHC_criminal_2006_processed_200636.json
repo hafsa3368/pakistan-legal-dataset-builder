@@ -1,0 +1,35 @@
+{
+  "generated_name": "LHC_criminal_2006_processed_200636.pdf",
+  "actual_filename": "processed_200636.pdf",
+  "court": "LHC",
+  "case_type": "criminal",
+  "year": "2006",
+  "used_ocr": false,
+  "num_chunks": 2,
+  "case_number": "Criminal Bail Application No. 1495 of 2023",
+  "date_of_order": "07.08.2023",
+  "judge": "",
+  "sections_cited": [
+    "Section 497 Cr.P.C"
+  ],
+  "citations": [],
+  "parties": [],
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "token_estimate": 445,
+      "source_pages": [
+        1
+      ],
+      "text": "ORDER SHEET IN THE HIGH COURT OF SINDH AT KARACHI Criminal Bail Application No. 1495 of 2023 (Shahroze v. The State) Date Order with signature of Judge For hearing of bail application 07.08.2023 Mr. Qadir Hussain Khan, advocate for the applicant Mr. Khadim Hussain Khuharo, Additional Prosecutor General Sindh ----------------------------------- It is alleged that the applicant with rest of the culprits robbed complainant Imran Sanam of his cell phone, for that he was booked accordingly. On having been refused bail by learned V-Additional Sessions Judge, Karachi Central, the applicant has sought for the same from this Court by way of instant bail application under Section 497 Cr.P.C. Heard arguments and perused the record. The FIR of the incident does not contain the name and description of the applicant. On arrest, the applicant has allegedly admitted his guilt before the police, such admission, if any, in terms of Article 39 of the Qanun-e-Shahadat Order, 1984, could not be used against him as evidence. The applicant has been subjected to identification parade on 3rd day of his arrest. No explanation to such delay is offered. Co-accused Rabish Chouhan has already been admitted to bail by this Court. The case has finally been challaned and there is no likelihood of absconsion or tampering with the evidence on the part of the applicant, who is said to be in custody for more than 08 months without effective progress in trial of his case. In these circumstances, a case for release of the applicant on bail on point of further inquiry is made out. In view of above, the applicant is admitted to bail subject to his furnishing surety in sum of Rs.50,000/- (Rupees Fifty Thousand only) and P.R bond in the like amount to the satisfaction of the learned trial Court."
+    },
+    {
+      "chunk_index": 1,
+      "token_estimate": 96,
+      "source_pages": [
+        1
+      ],
+      "text": "In these circumstances, a case for release of the applicant on bail on point of further inquiry is made out. In view of above, the applicant is admitted to bail subject to his furnishing surety in sum of Rs.50,000/- (Rupees Fifty Thousand only) and P.R bond in the like amount to the satisfaction of the learned trial Court. Instant bail application is disposed of accordingly. J U D G E"
+    }
+  ]
+}

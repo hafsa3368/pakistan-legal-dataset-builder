@@ -1,0 +1,35 @@
+{
+  "generated_name": "SHC_civil_civil_general_shc_unknown_302389.pdf",
+  "actual_filename": "civil_general_shc_unknown_302389.pdf",
+  "court": "SHC",
+  "case_type": "civil",
+  "year": "unknown",
+  "used_ocr": false,
+  "num_chunks": 1,
+  "case_number": "",
+  "date_of_order": "",
+  "judge": "",
+  "sections_cited": [],
+  "citations": [],
+  "parties": [],
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "token_estimate": 30,
+      "source_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "text": "CamScanner CamScanner CamScanner CamScanner CamScanner CamScanner CamScanner CamScanner CamScanner CamScanner CamScanner"
+    }
+  ]
+}
