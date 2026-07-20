@@ -2,6 +2,11 @@
 Legal PDF Extractor — Paragraph-Aware Chunking for Pakistani Court Documents
 Handles 1000+ PDFs with crash-safe resume, OCR fallback, and rich metadata per chunk.
 
+v9 - Immediate Ctrl+C stop + progress counter:
+  - Ctrl+C ab turant rok deta hai (thread pool bhi cancel_futures se turant band hota hai)
+  - Har JSON banne ke baad "X/Y done | Z remaining" print hota hai
+  - Checkpoint hamesha save hota hai (try/finally) — agli run wahi se resume karti hai
+
 v8 - EasyOCR + ThreadPoolExecutor:
   - EasyOCR wapas (better accuracy, Urdu support)
   - Singleton model — ek baar load, saare threads share karte hain
@@ -14,6 +19,7 @@ Install:
 """
 
 import os
+import sys
 import json
 import re
 import gc
@@ -21,7 +27,16 @@ import html
 import unicodedata
 import traceback
 import datetime
+import signal
+import requests
 from concurrent.futures import ThreadPoolExecutor, as_completed
+
+# Force line-buffered stdout so progress prints show up immediately
+# in the terminal instead of sitting in a buffer.
+try:
+    sys.stdout.reconfigure(line_buffering=True)
+except Exception:
+    pass
 
 import pandas as pd
 import fitz  # PyMuPDF
@@ -33,7 +48,7 @@ try:
     OCR_SUPPORTED = True
 except ImportError:
     OCR_SUPPORTED = False
-    print("⚠  EasyOCR not found. Install: pip install easyocr pillow numpy --break-system-packages")
+    print("⚠  EasyOCR not found. Install: pip install easyocr pillow numpy --break-system-packages", flush=True)
 
 try:
     from bs4 import BeautifulSoup
@@ -66,6 +81,15 @@ OCR_LANGUAGES       = ['en', 'ur']
 
 FIX_MOJIBAKE_APOSTROPHE = False
 
+# Ollama fallback — only called when regex could not find a field, so it
+# does NOT slow down the fast path. Set OLLAMA_ENABLED = False to disable.
+OLLAMA_ENABLED   = True
+OLLAMA_URL       = "http://localhost:11434/api/generate"
+OLLAMA_TAGS_URL  = "http://localhost:11434/api/tags"   # lightweight alive-check endpoint
+OLLAMA_MODEL     = "llama3.2:3b"
+OLLAMA_TIMEOUT   = 60          # seconds
+OLLAMA_MAX_CHARS = 4000        # only send the first N chars of the doc (judge/case-no/date usually appear early)
+
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
@@ -78,10 +102,90 @@ _OCR_READER = None
 def get_ocr_reader():
     global _OCR_READER
     if _OCR_READER is None:
-        print(f"🧠 Loading EasyOCR model (one-time) — languages: {OCR_LANGUAGES} ...")
+        print(f"🧠 Loading EasyOCR model (one-time) — languages: {OCR_LANGUAGES} ...", flush=True)
         _OCR_READER = easyocr.Reader(OCR_LANGUAGES, gpu=False)
-        print("✅ EasyOCR model ready.\n")
+        print("✅ EasyOCR model ready.\n", flush=True)
     return _OCR_READER
+
+
+# ==========================
+# OLLAMA METADATA FALLBACK
+# (only called for fields regex couldn't find — keeps the fast path fast)
+# ==========================
+_OLLAMA_ALIVE = None   # cached after first check, so we don't re-check every PDF
+
+def is_ollama_alive() -> bool:
+    """
+    Quick check using the lightweight /api/tags endpoint instead of hitting
+    /api/generate — avoids a slow timeout on every single PDF if Ollama
+    isn't running. Result is cached for the rest of the run.
+    """
+    global _OLLAMA_ALIVE
+    if _OLLAMA_ALIVE is not None:
+        return _OLLAMA_ALIVE
+    try:
+        resp = requests.get(OLLAMA_TAGS_URL, timeout=3)
+        _OLLAMA_ALIVE = resp.status_code == 200
+    except Exception:
+        _OLLAMA_ALIVE = False
+    if not _OLLAMA_ALIVE:
+        print("⚠  Ollama not reachable — metadata fallback will be skipped for this run.", flush=True)
+    return _OLLAMA_ALIVE
+
+
+def ollama_fill_missing_metadata(full_text: str, missing_fields: list) -> dict:
+    """
+    Asks the local Ollama model to extract ONLY the fields regex missed.
+    Returns a dict with just those fields (empty dict on any failure —
+    caller should keep whatever regex already had in that case).
+    """
+    if not OLLAMA_ENABLED or not missing_fields:
+        return {}
+
+    if not is_ollama_alive():
+        return {}
+
+    snippet = full_text[:OLLAMA_MAX_CHARS]
+
+    field_descriptions = {
+        "judge":         "the name of the judge who authored/signed the order (not the typist's initials)",
+        "case_number":   "the case number (e.g. 'Cr.B.A.No.S-994 of 2019')",
+        "date_of_order": "the date the order/judgment was passed (DD.MM.YYYY if possible)",
+        "sections_cited": "a list of legal sections/acts cited (e.g. 'Section 497 CrPC', 'u/s 498 Cr.P.C.')",
+        "parties":       "a list of party names (petitioner/applicant/appellant)",
+    }
+    wanted = {k: field_descriptions[k] for k in missing_fields if k in field_descriptions}
+    if not wanted:
+        return {}
+
+    prompt = (
+        "You are extracting structured metadata from a Pakistani court judgment. "
+        "Return ONLY a valid JSON object, no preamble, no markdown fences. "
+        "Extract these fields:\n"
+        + "\n".join(f'- "{k}": {v}' for k, v in wanted.items())
+        + "\nIf a field cannot be found, use an empty string (or empty list for list fields).\n\n"
+        + f"Document text:\n{snippet}"
+    )
+
+    try:
+        resp = requests.post(
+            OLLAMA_URL,
+            json={
+                "model": OLLAMA_MODEL,
+                "prompt": prompt,
+                "stream": False,
+                "format": "json",
+            },
+            timeout=OLLAMA_TIMEOUT,
+        )
+        resp.raise_for_status()
+        raw = resp.json().get("response", "").strip()
+        raw = re.sub(r"^```json\s*|\s*```$", "", raw.strip())
+        parsed = json.loads(raw)
+        return {k: parsed[k] for k in wanted if k in parsed}
+    except Exception as e:
+        log_error("OLLAMA_FALLBACK", e)
+        return {}
 
 
 # ==========================
@@ -122,6 +226,34 @@ def log_page_error(pdf_path: str, page_num: int, error):
         f.write(f"[{datetime.datetime.now()}] PAGE_ERROR "
                 f"{os.path.basename(pdf_path)}:{page_num} -> {error}\n")
         f.write(traceback.format_exc() + "\n")
+
+
+def print_progress(done_count: int, total: int):
+    """Har PDF process hone ke baad ye line print hoti hai."""
+    remaining = max(total - done_count, 0)
+    print(f"📊 Progress: {done_count}/{total} done | {remaining} remaining\n", flush=True)
+
+
+# ==========================
+# CTRL+C HANDLING
+# ==========================
+# NOTE: EasyOCR/PyTorch calls run in native (C) code, which blocks Python
+# from noticing a Ctrl+C signal until that native call returns — that's
+# why Ctrl+C used to feel like it "did nothing" during OCR. A signal
+# handler itself is NOT blocked by that (the OS delivers it to the main
+# thread immediately); it just sets a flag here. The loops below check
+# this flag after every PDF/page — so the script stops as soon as the
+# current unit of work finishes, instead of hanging indefinitely.
+_INTERRUPTED = False
+
+def _handle_sigint(signum, frame):
+    global _INTERRUPTED
+    if not _INTERRUPTED:
+        print("\n⏸ Ctrl+C received — current file/page finish hote hi ruk jayega "
+              "(checkpoint save ho jayega, wait karein)...", flush=True)
+    _INTERRUPTED = True
+
+signal.signal(signal.SIGINT, _handle_sigint)
 
 
 # ==========================
@@ -215,6 +347,10 @@ def ocr_text_pages(pdf_path: str, max_pages: int = OCR_MAX_PAGES) -> list[tuple[
         total_pages = min(max_pages, len(doc))
 
         for page_num in range(1, total_pages + 1):
+            if _INTERRUPTED:
+                # stop OCR-ing further pages of THIS pdf as soon as possible;
+                # whatever pages we already OCR'd are still returned/used
+                break
             try:
                 page = doc.load_page(page_num - 1)
                 pix = page.get_pixmap()
@@ -224,7 +360,7 @@ def ocr_text_pages(pdf_path: str, max_pages: int = OCR_MAX_PAGES) -> list[tuple[
                 page_text = "\n".join([r[1] for r in ocr_result if r[1].strip()])
                 if page_text.strip():
                     results.append((page_num, page_text))
-                print(f"    [{os.path.basename(pdf_path)}] OCR page {page_num}/{total_pages} done")
+                print(f"    [{os.path.basename(pdf_path)}] OCR page {page_num}/{total_pages} done", flush=True)
             except Exception as e:
                 log_page_error(pdf_path, page_num, f"OCR page failed: {e}")
                 continue
@@ -320,25 +456,13 @@ def extract_document_metadata(full_text: str, row: dict) -> dict:
 
     # ── Judge name ─────────────────────────────────────────────────────
     judge = re.search(
-        r"JUDGE[.:]?\s*([A-Z][A-Za-z\/\s]{2,100}?)\s*(?:\n|$)",
+        r"([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,4})\s+J\s*[;:\-]+",
         full_text
     )
-    if judge:
-        candidate = judge.group(1).strip()
-        candidate = re.sub(
-            r"\s+(?:ORDER|DATE|Advocate|APG|DPG|Counsel|A\.P\.G|D\.P\.G).*",
-            "", candidate, flags=re.I
-        ).strip()
-        judge = re.match(r"([A-Z][A-Za-z\/\s]{2,100})$", candidate)
     if not judge:
         judge = re.search(
             r"\(([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,4}|"
             r"[A-Z]{2,}(?:\s+[A-Z]{2,}){1,4})\)\s*\n?\s*(?:JUDGE|Judge)",
-            full_text
-        )
-    if not judge:
-        judge = re.search(
-            r"([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,4})\s+J\s*[;:\-]+",
             full_text
         )
     if not judge:
@@ -367,11 +491,23 @@ def extract_document_metadata(full_text: str, row: dict) -> dict:
             r"([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,3})\s*\n?\s*JUDGE",
             full_text
         )
+    if not judge:
+        judge = re.search(
+            r"JUDGE[.:]?\s*([A-Z][A-Za-z\/\s]{2,100}?)\s*(?:\n|$)",
+            full_text
+        )
+        if judge:
+            candidate = judge.group(1).strip()
+            candidate = re.sub(
+                r"\s+(?:ORDER|DATE|Advocate|APG|DPG|Counsel|A\.P\.G|D\.P\.G).*",
+                "", candidate, flags=re.I
+            ).strip()
+            judge = re.match(r"([A-Z][A-Za-z\/\s]{2,100})$", candidate)
     meta["judge"] = judge.group(1).strip() if judge else ""
 
     # ── Sections cited ─────────────────────────────────────────────────
     raw_sections = re.findall(
-        r"[Ss]ections?\s+"
+        r"(?:[Ss]ections?|u/s|U/S|U/s)\s+"
         r"\d+[\w\-/]*"
         r"(?:\s*[,&]\s*\d+[\w\-/]*)*"
         r"(?:\s+(?:and|or)\s+\d+[\w\-/]*)?"
@@ -384,7 +520,7 @@ def extract_document_metadata(full_text: str, row: dict) -> dict:
     seen_s = set()
     for s in raw_sections:
         s = re.sub(r"\s+", " ", s).strip().rstrip(".,;:")
-        if 5 < len(s) < 80 and s not in seen_s:
+        if 3 < len(s) < 80 and s not in seen_s:
             seen_s.add(s)
             clean_sections.append(s)
     meta["sections_cited"] = clean_sections[:10]
@@ -431,6 +567,17 @@ def extract_document_metadata(full_text: str, row: dict) -> dict:
         )
         parties = list(dict.fromkeys(applicants))[:5]
     meta["parties"] = parties
+
+    # ── Ollama fallback for whatever regex couldn't find ────────────────
+    missing = [
+        f for f in ("judge", "case_number", "date_of_order", "sections_cited", "parties")
+        if not meta.get(f)
+    ]
+    if missing:
+        filled = ollama_fill_missing_metadata(full_text, missing)
+        for k, v in filled.items():
+            if v:   # only overwrite if Ollama actually returned something
+                meta[k] = v
 
     return meta
 
@@ -708,121 +855,148 @@ def run():
     total = len(df)
     done  = load_checkpoint()
 
-    print(f"\n📂 Total PDFs   : {total}")
-    print(f"✅ Already done : {len(done)}")
-    print(f"🔧 OCR engine   : EasyOCR {OCR_LANGUAGES}")
-    print(f"⚡ OCR threads  : {OCR_WORKERS}")
+    print(f"\n📂 Total PDFs   : {total}", flush=True)
+    print(f"✅ Already done : {len(done)}", flush=True)
+    print(f"🔧 OCR engine   : EasyOCR {OCR_LANGUAGES}", flush=True)
+    print(f"⚡ OCR threads  : {OCR_WORKERS}", flush=True)
     if not BS4_SUPPORTED:
-        print("⚠  bs4 missing: pip install beautifulsoup4 --break-system-packages")
-    print("🔥 STARTED\n")
+        print("⚠  bs4 missing: pip install beautifulsoup4 --break-system-packages", flush=True)
+    print("🔥 STARTED — Ctrl+C kabhi bhi safely rok sakte hain, agli baar wahi se resume hoga\n", flush=True)
 
     # Warm up EasyOCR model before threads start
-    # (avoids race condition where multiple threads try to load it simultaneously)
     if OCR_SUPPORTED:
         get_ocr_reader()
 
-    # ── Pass 1: Fast normal extraction ────────────────────────────────
     ocr_queue = []   # [(generated_name, pdf_path, row_dict, output_file)]
 
-    for idx, row in df.iterrows():
-        generated_name = str(row["generated_name"])
-        pdf_path       = str(row["actual_path"])
-        safe_name      = generated_name.replace(".pdf", "")
-        output_file    = os.path.join(OUTPUT_DIR, f"{safe_name}.json")
+    # try/finally guarantees checkpoint save no matter WHERE Ctrl+C hits
+    try:
+        # ── Pass 1: Fast normal extraction ────────────────────────────
+        for idx, row in df.iterrows():
+            generated_name = str(row["generated_name"])
+            pdf_path       = str(row["actual_path"])
+            safe_name      = generated_name.replace(".pdf", "")
+            output_file    = os.path.join(OUTPUT_DIR, f"{safe_name}.json")
 
-        if generated_name in done:
-            continue
+            if generated_name in done:
+                continue
 
-        if os.path.exists(output_file):
-            print(f"  ⚠ Exists — skip: {os.path.basename(output_file)}")
-            done.add(generated_name)
-            save_checkpoint(done)
-            continue
-
-        if not os.path.exists(pdf_path):
-            print(f"[{idx+1}/{total}] ⚠  File missing: {generated_name}")
-            done.add(generated_name)
-            save_checkpoint(done)
-            continue
-
-        try:
-            result = process_normal_pdf(
-                generated_name, pdf_path, row.to_dict(), output_file
-            )
-
-            if result is None:
-                # Scanned PDF — queue for OCR pass
-                print(f"[{idx+1}/{total}] 🔄 Queued for OCR : {generated_name}")
-                ocr_queue.append((
-                    generated_name,
-                    pdf_path,
-                    row.to_dict(),
-                    output_file,
-                ))
-            else:
-                print(f"[{idx+1}/{total}] ✅ {result} chunks → {os.path.basename(output_file)}")
+            if os.path.exists(output_file):
+                print(f"  ⚠ Exists — skip: {os.path.basename(output_file)}", flush=True)
                 done.add(generated_name)
                 save_checkpoint(done)
+                print_progress(len(done), total)
+                continue
 
-        except KeyboardInterrupt:
-            print("\n⏸ Interrupted. Saving checkpoint.")
-            save_checkpoint(done)
-            return
+            if not os.path.exists(pdf_path):
+                print(f"[{idx+1}/{total}] ⚠  File missing: {generated_name}", flush=True)
+                done.add(generated_name)
+                save_checkpoint(done)
+                print_progress(len(done), total)
+                continue
 
-        except Exception as e:
-            print(f"[{idx+1}/{total}] ❌ Error: {e}")
-            log_error(generated_name, e)
+            try:
+                result = process_normal_pdf(
+                    generated_name, pdf_path, row.to_dict(), output_file
+                )
 
-        finally:
-            gc.collect()
-
-        if stop_requested():
-            print("\n⏸ Stop file detected.")
-            save_checkpoint(done)
-            clear_stop_flag()
-            return
-
-    # ── Pass 2: Parallel OCR (ThreadPoolExecutor, shared EasyOCR model) ──
-    if ocr_queue:
-        print(f"\n🧠 OCR pass: {len(ocr_queue)} PDFs | "
-              f"{OCR_WORKERS} threads | EasyOCR {OCR_LANGUAGES}\n")
-
-        with ThreadPoolExecutor(max_workers=OCR_WORKERS) as executor:
-            future_to_name = {
-                executor.submit(_process_ocr_pdf, args): args[0]
-                for args in ocr_queue
-            }
-
-            for future in as_completed(future_to_name):
-                name = future_to_name[future]
-                try:
-                    gen_name, n_chunks = future.result()
-                    if n_chunks is not None:
-                        print(f"  ✅ OCR done : {gen_name} → {n_chunks} chunks")
-                    else:
-                        print(f"  ❌ OCR failed (no text): {gen_name}")
-                    done.add(gen_name)
+                if result is None:
+                    print(f"[{idx+1}/{total}] 🔄 Queued for OCR : {generated_name}", flush=True)
+                    ocr_queue.append((
+                        generated_name,
+                        pdf_path,
+                        row.to_dict(),
+                        output_file,
+                    ))
+                else:
+                    print(f"[{idx+1}/{total}] ✅ {result} chunks → {os.path.basename(output_file)}", flush=True)
+                    done.add(generated_name)
                     save_checkpoint(done)
+                    print_progress(len(done), total)
 
-                except KeyboardInterrupt:
-                    print("\n⏸ Interrupted during OCR pass.")
-                    save_checkpoint(done)
-                    return
+            except Exception as e:
+                print(f"[{idx+1}/{total}] ❌ Error: {e}", flush=True)
+                log_error(generated_name, e)
 
-                except Exception as e:
-                    print(f"  ❌ OCR error: {name} → {e}")
-                    log_error(name, e)
+            finally:
+                gc.collect()
 
-                if stop_requested():
-                    print("\n⏸ Stop file detected during OCR pass.")
-                    save_checkpoint(done)
-                    clear_stop_flag()
-                    return
+            if stop_requested():
+                print("\n⏸ Stop file detected.", flush=True)
+                clear_stop_flag()
+                return
 
-    save_checkpoint(done)
-    
-    print("\n🎉 Done. Re-run anytime to resume from checkpoint.")
+            if _INTERRUPTED:
+                print(f"\n⏸ Ctrl+C confirmed — Pass 1 rok raha hoon "
+                      f"({len(done)}/{total} done, {total - len(done)} remaining).", flush=True)
+                return
+
+        # ── Pass 2: Parallel OCR (ThreadPoolExecutor, shared EasyOCR model) ──
+        if ocr_queue:
+            print(f"\n🧠 OCR pass: {len(ocr_queue)} PDFs | "
+                  f"{OCR_WORKERS} threads | EasyOCR {OCR_LANGUAGES}\n", flush=True)
+
+            executor = ThreadPoolExecutor(max_workers=OCR_WORKERS)
+            try:
+                future_to_name = {
+                    executor.submit(_process_ocr_pdf, args): args[0]
+                    for args in ocr_queue
+                }
+
+                for future in as_completed(future_to_name):
+                    name = future_to_name[future]
+                    try:
+                        gen_name, n_chunks = future.result()
+                        if n_chunks is not None:
+                            print(f"  ✅ OCR done : {gen_name} → {n_chunks} chunks", flush=True)
+                        else:
+                            print(f"  ❌ OCR failed (no text): {gen_name}", flush=True)
+                        done.add(gen_name)
+                        save_checkpoint(done)
+                        print_progress(len(done), total)
+
+                    except Exception as e:
+                        print(f"  ❌ OCR error: {name} → {e}", flush=True)
+                        log_error(name, e)
+
+                    if stop_requested():
+                        print("\n⏸ Stop file detected during OCR pass.", flush=True)
+                        clear_stop_flag()
+                        # cancel any not-yet-started OCR jobs and exit fast
+                        executor.shutdown(wait=False, cancel_futures=True)
+                        return
+
+                    if _INTERRUPTED:
+                        print(f"\n⏸ Ctrl+C confirmed — abhi chal rahi OCR file(s) "
+                              f"khatam hote hi rukega ({len(done)}/{total} done, "
+                              f"{total - len(done)} remaining). Baaki queued files "
+                              f"cancel ho rahi hain...", flush=True)
+                        # cancel jobs that haven't started yet; jobs already
+                        # running in a thread will finish (native OCR calls
+                        # can't be killed mid-flight) but nothing NEW starts
+                        executor.shutdown(wait=False, cancel_futures=True)
+                        return
+            finally:
+                # normal completion path — just wait for the pool to close
+                executor.shutdown(wait=True)
+
+        print("\n🎉 Done. Re-run anytime to resume from checkpoint.", flush=True)
+
+    except KeyboardInterrupt:
+        # Ctrl+C — stop IMMEDIATELY, don't wait for the rest of the queue
+        print("\n⏸ Ctrl+C dabaya gaya — turant ruk raha hai.", flush=True)
+        try:
+            # if we were inside the OCR pass, kill pending threads right away
+            executor.shutdown(wait=False, cancel_futures=True)
+        except NameError:
+            pass  # Pass 1 tha, koi executor nahi bana
+
+    finally:
+        save_checkpoint(done)
+        print(f"💾 Checkpoint saved: {len(done)}/{total} done. "
+              f"Script dobara chalao to isi jagah se resume hoga.", flush=True)
 
 
 if __name__ == "__main__":
     run()
+    
