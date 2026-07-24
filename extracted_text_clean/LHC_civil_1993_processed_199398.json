@@ -8,12 +8,15 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 1159 of 2023",
   "date_of_order": "23.06.2023",
-  "judge": "",
+  "judge": "Mr. Muhammad Fahad Pirzada",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rabish Chouhan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

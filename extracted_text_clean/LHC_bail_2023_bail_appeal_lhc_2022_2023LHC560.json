@@ -6,14 +6,21 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "06.02.2023",
   "judge": "ANWAAR HUSSAIN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2006 SC 457"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Abu Sufyan",
+    "Additional District Judge",
+    "Anwaar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

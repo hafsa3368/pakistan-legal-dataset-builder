@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No. D-",
   "date_of_order": "08.08.2023",
-  "judge": "JUDGE",
+  "judge": "Khadim Hussain Tunio Justice Shamsuddin",
   "sections_cited": [
     "Section 9",
     "Section 382-B"
@@ -19,7 +19,11 @@
     "2011 SCMR 984",
     "PLD 2017 SC 671"
   ],
-  "parties": [],
+  "parties": [
+    "Altaf son of Mohammad Sarmastani Brohi",
+    "The State through Mr. Ali Anwar Kandhro, Addl. Prosecutor General Sindh",
+    "Mr. Athar Abbas Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

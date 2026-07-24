@@ -6,12 +6,17 @@
   "year": "1946",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D-778 of 2023",
   "date_of_order": "01.06.2023",
   "judge": "JUDGE Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mazhar Ali Laghari",
+    "M/s Allah Bachayo Soomro, Addl. AG Sindh",
+    "Mr. Nazar Muhammad Memon",
+    "SIP Nabi Bux SHO PS Jam Nawaz Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

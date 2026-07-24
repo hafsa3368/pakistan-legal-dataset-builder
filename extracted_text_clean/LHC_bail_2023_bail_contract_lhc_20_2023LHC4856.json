@@ -9,7 +9,10 @@
   "case_number": "W.P.No.2836 of 2017",
   "date_of_order": "26.09.2023",
   "judge": "JAWAD HASSAN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2019 SCMR 233",
     "2018 SCMR 380",
@@ -27,7 +30,10 @@
     "2016 SCMR 183",
     "2012 SCMR 280"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Ali Kazmi",
+    "Government of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

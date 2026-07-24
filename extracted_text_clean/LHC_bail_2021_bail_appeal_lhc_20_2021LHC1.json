@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "WP No. 69574 of 2020",
   "date_of_order": "01.01.2021",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -16,7 +16,15 @@
     "2004 SCMR 1352",
     "2018 CLC 1789"
   ],
-  "parties": [],
+  "parties": [
+    "Mirza Kazim Ali Baig",
+    "Mr. Adeel Ahmad Kamran",
+    "Sardar Qasim Hassan Khan",
+    "M/s. Nasrullah Khan Babar",
+    "Ch. Muhammad Shahid Iqbal",
+    "Ch. Muhammad Naseer",
+    "Faisal Anwar Minhas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.S-30 of 2023",
   "date_of_order": "13.04.2023",
-  "judge": "",
+  "judge": "Mr. Zafar Ali Malgani",
   "sections_cited": [
     "Section 382-B Cr.PC"
   ],
   "citations": [
     "1999 SCMR-2589"
   ],
-  "parties": [],
+  "parties": [
+    "Appellants",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.918 of 2010",
   "date_of_order": "26.11.2015",
-  "judge": "",
+  "judge": "Shehram Sarwar Ch.",
   "sections_cited": [
     "Section 9",
     "Section 382-B of The Code",
@@ -19,7 +19,10 @@
   "citations": [
     "PLD 2009 Lahore 362"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammad Munir",
+    "THE STATE"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

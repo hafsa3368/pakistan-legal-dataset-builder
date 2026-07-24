@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Crl. Misc. No. 46363-B/2023",
   "date_of_order": "13.05.2024",
-  "judge": "",
+  "judge": "Barrister Salman Safdar",
   "sections_cited": [
     "section 498 of the Code",
     "sections 186, 353, 148, 149, 212, 506ii, 172, 173 & 174 PPC",
@@ -38,7 +38,10 @@
     "PLD 1981 Lahore 599",
     "PLD 1982 Lahore 214"
   ],
-  "parties": [],
+  "parties": [
+    "Imran Ahmad Khan Niazi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,18 @@
   "case_number": "Cr.B.A.No. 809 of 2023",
   "date_of_order": "08.06.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2022 SCMR 592"
   ],
-  "parties": [],
+  "parties": [
+    "Asif Raza",
+    "The State",
+    "Mr. Talib Ali Memon",
+    "Mr. Nazeer Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

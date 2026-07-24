@@ -9,9 +9,16 @@
   "case_number": "Misc. Appln. No.S-",
   "date_of_order": "05.12.2019",
   "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22-A",
+    "u/s 561-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ishrat Ali Lohar",
+    "Nisar Ahmed Durrani",
+    "Sana Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "W.P. No.14014 of 2013",
   "date_of_order": "05.04.2013",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 13 of Limitation Act"
   ],
@@ -17,7 +17,11 @@
     "2007 CLC 656",
     "PLD 2006 SC 457"
   ],
-  "parties": [],
+  "parties": [
+    "AMANAT ALI",
+    "Shagufta Bibi",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -25,7 +25,11 @@
     "PLD 2021 SC 795",
     "PLD 2009 Lahore 362"
   ],
-  "parties": [],
+  "parties": [
+    "Anti-Narcotics Force",
+    "The State/ANF",
+    "Gul Nawab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

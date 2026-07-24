@@ -9,7 +9,10 @@
   "case_number": "W.P.No.10596/2017",
   "date_of_order": "25.1.2021",
   "judge": "Rizwan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2013 SCMR 1547",
     "2015 SCMR 1257",
@@ -17,7 +20,13 @@
     "2009 SCMR 320",
     "2005 SCMR 100"
   ],
-  "parties": [],
+  "parties": [
+    "Yasir Imran Butt",
+    "Chief Officer (MCS)",
+    "Muhammad Anwar",
+    "Abid Aziz Sheikh",
+    "Barrister Ameer Abbas Ali Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

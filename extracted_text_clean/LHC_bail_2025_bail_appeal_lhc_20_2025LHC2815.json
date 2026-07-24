@@ -9,7 +9,9 @@
   "case_number": "Criminal Appeal No.79724/2021",
   "date_of_order": "30.04.2025",
   "judge": "Farooq Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 13/20/65"
+  ],
   "citations": [
     "2019 SCMR 79",
     "2019 SCMR 274",
@@ -27,7 +29,14 @@
     "2014 SCMR 749",
     "2016 SCMR 1241"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Qadir",
+    "The State and another",
+    "Kashif",
+    "The State and another",
+    "Muhammad Asif",
+    "The State, etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

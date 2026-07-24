@@ -6,12 +6,18 @@
   "year": "2018",
   "used_ocr": true,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "WP Nos- 03,04.2018 Miall Tahir Waabal",
   "date_of_order": "09.09.2016",
-  "judge": "Approved for reporting JUDGE Noveed",
-  "sections_cited": [],
+  "judge": "MUZAMIL AKHTAR SHABIR",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khan AAG with M2. Muhamnad Aurangzaib Muhammad Akram Shahid",
+    "DEO(MEE), Muzaffargarh order"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

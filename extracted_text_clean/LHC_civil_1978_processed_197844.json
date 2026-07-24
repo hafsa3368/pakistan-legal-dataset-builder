@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No.D-38 of 2020",
   "date_of_order": "31.05.2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 342 Cr.PC"
   ],
@@ -16,7 +16,11 @@
     "1995 SCMR-127",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Qayoom @ Irfan s/o Allah Dino @ Majno",
+    "Barkat Ali s/o Qadir Bux Rozrani",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "1901",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "S-55 of 2023",
   "date_of_order": "31.03.2023",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulfiqar Ali Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

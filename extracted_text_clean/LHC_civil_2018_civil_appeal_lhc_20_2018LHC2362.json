@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "28.09.2018",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -20,7 +20,11 @@
     "1989 MLD 3823",
     "2016 SCMR 451"
   ],
-  "parties": [],
+  "parties": [
+    "Khadim Hussain",
+    "Muhammad Tariq",
+    "Ehsan Elahi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

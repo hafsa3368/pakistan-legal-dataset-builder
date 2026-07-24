@@ -9,13 +9,24 @@
   "case_number": "Crl.Misc.No.27751-B-2023",
   "date_of_order": "07.06.2023",
   "judge": "Asjad Javaid Ghural",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 497 Cr.P.C",
+    "U/S 489-F PPC"
+  ],
   "citations": [
     "PLD 1986 SC 173",
     "PLD 2014 SC 650",
     "PLD 2014 SC 585"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Talha",
+    "The State etc.",
+    "Malik Imran Khan Thaheem",
+    "Mr. Bilal Ahmad Sheikh",
+    "Ch. Ishtiaq A. Khan",
+    "Ch. Muhammad Ishaque",
+    "Rana Umair Abrar Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

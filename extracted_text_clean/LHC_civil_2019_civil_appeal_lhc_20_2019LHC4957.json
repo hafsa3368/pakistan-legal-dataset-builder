@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "R.F.A. No. 1233 of 2013",
   "date_of_order": "02.10.2013",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 22",
     "sections 3 and 17 of the Ordinance",
@@ -18,7 +18,10 @@
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "DECENT BUILDERS AND DEVELOPERS and others",
+    "STANDARD CHARTERED BANK (PAKISTAN) LIMITED"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -27,7 +27,10 @@
     "PLD 1995 SC 34",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Imtiaz Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

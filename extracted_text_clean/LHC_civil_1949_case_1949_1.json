@@ -6,12 +6,17 @@
   "year": "1949",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 452 of 2020",
   "date_of_order": "26.02.2021",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khalid Habib",
+    "Habib Gul",
+    "Imtiaz Gul",
+    "Asim Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

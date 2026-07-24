@@ -8,10 +8,13 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.S-27 of 2006",
   "date_of_order": "04.10.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State through Advocate General Sindh, Through Mr.Sharafuddin Kanhar",
+    "Arbab Ali son of Abhoro Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

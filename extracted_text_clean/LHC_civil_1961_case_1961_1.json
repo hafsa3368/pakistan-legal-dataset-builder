@@ -6,12 +6,17 @@
   "year": "1961",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No. D – 704 of 2022",
   "date_of_order": "12.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ahmad",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hamid Ali Memon, Mr. Shahid Hussain Jogi, a/w Zohaib Ahmed Memon, Administrator, Town Committee, Thari Mirwah",
+    "Mr. Shahriyar I.Awan, Assistant A.G-Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

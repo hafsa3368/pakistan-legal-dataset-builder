@@ -6,12 +6,18 @@
   "year": "1968",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1422 of 2017",
   "date_of_order": "20.10.2017",
   "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imtiaz Ali Channa",
+    "Mr. Muhammad Ismail Bhutto",
+    "Inspector Abdul Aziz Seenhro",
+    "S.H.O P.S Samaro",
+    "Mr. Mehboob Ali Kabri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

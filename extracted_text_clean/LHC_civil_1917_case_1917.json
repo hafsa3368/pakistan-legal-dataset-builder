@@ -6,12 +6,17 @@
   "year": "1917",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail App.No.S-325 of 2024",
   "date_of_order": "21.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "u/s 302, 114, 337-H, 148, 149 PPC",
+    "u/s 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Raheem Ansari, Advocate for applicant / accused Ali Ahmed alias Keli S/o Bakhat Ali Atrani Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

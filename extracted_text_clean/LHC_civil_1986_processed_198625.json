@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Misc. Application No. 291 of 2023",
   "date_of_order": "05.06.2023",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 22-A/B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asadullah H. Memon",
+    "Mr. Abrar Ali Khichi",
+    "Mr. Liaquat Ali Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

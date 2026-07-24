@@ -6,7 +6,7 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "",
+  "case_number": "COS No.24 of 2014",
   "date_of_order": "29.11.2005",
   "judge": "SHAHID KARIM",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Allied Bank Ltd.",
+    "Chenab Ltd.",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

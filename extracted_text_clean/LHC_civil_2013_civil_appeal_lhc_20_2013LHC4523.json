@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "20.11.2013",
   "judge": "Sadaqat Ali Khan",
   "sections_cited": [
@@ -18,7 +18,13 @@
   "citations": [
     "2012 SCMR 730"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammad Ameer Qazi",
+    "Mohammad Asif Ali",
+    "Ali Ahmed",
+    "Zulfiqar Ali",
+    "Mohammad Irfan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

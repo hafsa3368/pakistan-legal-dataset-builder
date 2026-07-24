@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 502 of 2021",
   "date_of_order": "28.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Imtiaz Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

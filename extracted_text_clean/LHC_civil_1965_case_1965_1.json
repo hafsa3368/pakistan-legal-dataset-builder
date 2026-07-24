@@ -6,12 +6,16 @@
   "year": "1965",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2018",
   "date_of_order": "01.11.2022",
-  "judge": "",
+  "judge": "ARBROHI",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aslam Jatoi",
+    "Munir Ahmed",
+    "Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

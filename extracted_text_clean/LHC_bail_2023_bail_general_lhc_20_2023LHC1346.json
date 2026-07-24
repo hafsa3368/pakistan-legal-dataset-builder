@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Crl. Misc. No. 72710/B/2022",
-  "date_of_order": "",
+  "date_of_order": "31.3.2023",
   "judge": "Tariq Saleem Sheikh",
   "sections_cited": [
     "sections 21, 21",
@@ -25,7 +25,9 @@
     "2015 SCMR 1394",
     "2017 SCMR 2060"
   ],
-  "parties": [],
+  "parties": [
+    "[\"Malik Muhammad Arshad Kundi\", \"Mr. Muhammad Mustafa Chaudhry\", \"Rana Tasawar Ali Khan\"]"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

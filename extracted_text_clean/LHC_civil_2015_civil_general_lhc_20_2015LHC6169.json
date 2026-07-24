@@ -27,7 +27,11 @@
     "PLD 1976 Lahore 1097",
     "PLD 1993 Lahore 306"
   ],
-  "parties": [],
+  "parties": [
+    "Board of Intermediate & Secondary Education, Lahore",
+    "Registrar of Trade Unions, Lahore Region",
+    "Employees Union of Board of Intermediate & Secondary Education, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

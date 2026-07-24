@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "w.P. NO. 4903",
-  "date_of_order": "",
+  "date_of_order": "11.06.2015",
   "judge": "",
   "sections_cited": [
     "section 154",
@@ -17,7 +17,10 @@
     "PLD 2005 Lahore 470",
     "PLD 2010 SC 691"
   ],
-  "parties": [],
+  "parties": [
+    "Muharnmad Shafiq, etc.",
+    "ASJ/ J.O.P, etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

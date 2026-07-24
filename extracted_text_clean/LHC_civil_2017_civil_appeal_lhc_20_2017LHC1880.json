@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "Civil Revision No.375/2015",
   "date_of_order": "30.01.2015",
-  "judge": "Approved for Reporting JUDGE Rizwan",
+  "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
     "section 19"
   ],
@@ -19,7 +19,13 @@
     "PLD 2009 Lahore 552",
     "PLD 1993 Lahore 706"
   ],
-  "parties": [],
+  "parties": [
+    "Kashif Imran",
+    "Altaf Hussain",
+    "Mian Majeeb ur Rehman Ansari",
+    "Mr. M. Asghar Hayat Harja",
+    "Abid Aziz Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

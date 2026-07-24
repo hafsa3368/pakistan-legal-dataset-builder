@@ -31,7 +31,12 @@
     "PLD 2007 SC 31",
     "PLD 2008 Lahore 557"
   ],
-  "parties": [],
+  "parties": [
+    "Sher Ali",
+    "Inspector General of Police, Punjab",
+    "Karam Ali",
+    "Amir Kazmi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

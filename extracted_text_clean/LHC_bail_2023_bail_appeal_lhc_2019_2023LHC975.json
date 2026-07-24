@@ -6,10 +6,13 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "01.03.2023",
   "judge": "ANWAAR HUSSAIN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1995 SCMR 1419",
     "1986 SCMR 1356",
@@ -17,7 +20,13 @@
     "2015 CLC 632",
     "PLD 2021 SC 715"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Beenish",
+    "Additional District Judge etc.",
+    "Anwaar Hussain",
+    "Ms. Mehreen Akbar Monga",
+    "Mr. Zulfiqar Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 1,
   "case_number": "Cr.B.A.No.S-785 of 2018",
   "date_of_order": "19.08.2019",
-  "judge": "Ahmed/Pa",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 498 Cr.P.C",
     "section 497 Cr.P.C"
@@ -16,7 +16,12 @@
   "citations": [
     "2014 SCMR 1369"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Shafique Ahmed Shah",
+    "Irshad Ali Shah",
+    "Qamaruddin",
+    "Muhammad Akram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

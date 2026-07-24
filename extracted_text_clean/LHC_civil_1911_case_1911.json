@@ -8,10 +8,12 @@
   "num_chunks": 1,
   "case_number": "Misc. App. No. S",
   "date_of_order": "23.10.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulfiqar Ali Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

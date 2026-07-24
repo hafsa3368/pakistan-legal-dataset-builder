@@ -9,12 +9,17 @@
   "case_number": "Constitutional Petition No. D",
   "date_of_order": "13.09.2018",
   "judge": "JUDGE Naeem",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 SCMR 1167",
     "PLD 1982 Lahore 214"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Malik Altaf Javed",
+    "NAB a/w I.O. Omaish Kumar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

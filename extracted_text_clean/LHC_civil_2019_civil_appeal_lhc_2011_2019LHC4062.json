@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "27.11.2019",
   "judge": "Asim Hafeez",
   "sections_cited": [
@@ -24,7 +24,14 @@
     "1986 SCMR 888",
     "2002 MLD 1860"
   ],
-  "parties": [],
+  "parties": [
+    "Mukhtar Ahmad",
+    "Province of Punjab, etc",
+    "Syed Muhammad Ali Gilani",
+    "Mr. Azhar Saleem Kamlana",
+    "M/S Muhammad Akram Khan",
+    "Ms. Kousar Parveen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "W.P. No.1421 of 2020",
   "date_of_order": "07.09.2020",
-  "judge": "Raheel Approved for Reporting Judge",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 491 of the Code",
     "section 491",
@@ -19,7 +19,21 @@
   "citations": [
     "1973 SCMR 577"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "counsel": "M/s. Raja Haseeb Sultan and Raja Amjad Mahmood"
+    },
+    {
+      "position": "Advocate for the petitioner",
+      "name": "Syed Amjad Hussain Shah"
+    },
+    {
+      "position": "Petitioner/ Applicant/Appellant"
+    },
+    {
+      "other": "Mr. Asad Jamal, Mr. Mujeebur Rehman Kiyani, Tahir Kazim SDPO Taxila, Tahir Mehmood SI/S.H.O Police Station Taxila, Nasir Hameed, SI/S.H.O Police Station Garden Town, Lahore and Superintendent Dar ulAman, Rawalpindi"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

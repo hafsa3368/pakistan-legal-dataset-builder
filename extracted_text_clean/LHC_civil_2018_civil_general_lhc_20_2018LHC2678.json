@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "19.11.2018",
-  "judge": "",
+  "judge": "CH. MUHAMMAD IQBAL",
   "sections_cited": [
     "Section 41",
     "Sections 10 & 11",
@@ -34,7 +34,14 @@
     "2007 CLC 1801",
     "PLD 1973 SC 236"
   ],
-  "parties": [],
+  "parties": [
+    "The Punjab Cooperatives Board for Liquidation",
+    "Dr. Nazir Saeed etc.",
+    "Syed Aal-e-Ahmad",
+    "Mian Subah Sadiq Wattoo",
+    "National Industrial Finance Corporation Limited",
+    "Muhammad Ashiq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

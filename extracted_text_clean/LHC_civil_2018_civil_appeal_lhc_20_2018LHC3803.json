@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "R.F.A. No. S-994 of 2019",
   "date_of_order": "13.03.2014",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 22",
     "section 10 of the Ordinance",
@@ -19,7 +19,10 @@
   "citations": [
     "2000 CLC 847"
   ],
-  "parties": [],
+  "parties": [
+    "Messrs NICE 'N' EASY FASHION (PVT.) LTD.",
+    "Standard Chartered Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

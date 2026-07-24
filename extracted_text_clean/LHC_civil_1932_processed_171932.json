@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Revision Application No.205 of 2021",
   "date_of_order": "28.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 489-F PPC",
     "Section 419",
@@ -18,7 +18,10 @@
     "section 423"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mansoruddin Ahmed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

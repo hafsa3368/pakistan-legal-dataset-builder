@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "I.C.A. No.187/2013",
   "date_of_order": "07.01.2015",
   "judge": "Ali Akbar Qureshi",
   "sections_cited": [
@@ -19,7 +19,14 @@
     "PLD 1975 SC 331",
     "PLD 1997 SC 397"
   ],
-  "parties": [],
+  "parties": [
+    "Government of Punjab",
+    "Mohammad Yousaf etc.",
+    "Rana Muhammad Hussain",
+    "Mr. Tariq Mehmood Awan",
+    "Ch. Muhammad Iqbal",
+    "Abdur Rashid Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

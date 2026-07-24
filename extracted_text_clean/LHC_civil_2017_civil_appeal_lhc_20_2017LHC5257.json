@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2011",
   "date_of_order": "13.10.1997",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 25-A of the Industrial Relations Ordinance",
     "section 2"
@@ -25,7 +25,10 @@
     "PLD 1985 SC 429",
     "PLD 1994 SC 273"
   ],
-  "parties": [],
+  "parties": [
+    "IMTIAZ ALI SHAH",
+    "CHAIRMAN BANK OF PUNJAB and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

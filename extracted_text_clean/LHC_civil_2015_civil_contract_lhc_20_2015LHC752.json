@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "R.F.A. No.05 of 2010",
   "date_of_order": "04.02.2015",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [],
   "citations": [
     "2005 YLR 1347",
@@ -17,7 +17,10 @@
     "2007 SCMR 1047",
     "1994 SCMR 111"
   ],
-  "parties": [],
+  "parties": [
+    "Mian Abdul Wahid",
+    "Muhammad Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

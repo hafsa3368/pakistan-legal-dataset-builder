@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-993 of 2019",
   "date_of_order": "18.05.2015",
   "judge": "SHAHID KARIM",
   "sections_cited": [
@@ -18,7 +18,10 @@
     "Section 32"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zaheer Brothers through Zaheer Ahmad",
+    "Multan Development Authority & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

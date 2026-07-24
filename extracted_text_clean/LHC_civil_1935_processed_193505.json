@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl.Jail Appeal No. D",
   "date_of_order": "26-04-2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 342 Cr.PC",
     "Section 382-"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khair Bux son of Qadir Bux Lohar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

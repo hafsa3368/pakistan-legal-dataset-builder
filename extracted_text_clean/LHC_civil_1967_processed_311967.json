@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Crl. AT Acq. Appeal No.152 of 2022",
   "date_of_order": "16.04.2026",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Omar Sial Mr",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State through Mr. Muhammad Khalid Javed Rana, Deputy Attorney General & Mr. Muhammad Ahmed, Assistant Attorney General",
+    "Umra Khan, Bacha Khan and Akbar Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

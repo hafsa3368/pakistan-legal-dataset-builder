@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "R.F.A. No. 556 of 2015",
   "date_of_order": "19.11.2014",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 22",
     "section 11"
@@ -16,7 +16,10 @@
   "citations": [
     "2007 CLC 1071"
   ],
-  "parties": [],
+  "parties": [
+    "TANVEER SPINNING AND WEAVING MILLS (PVT.) LIMITED",
+    "MCB BANK LIMITED"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

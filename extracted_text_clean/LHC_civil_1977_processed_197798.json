@@ -6,12 +6,17 @@
   "year": "1977",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D-329 of 2023",
   "date_of_order": "31.05.2023",
   "judge": "JUDGE",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 218 of Constitution of Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sajid Ali Gorar",
+    "the petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

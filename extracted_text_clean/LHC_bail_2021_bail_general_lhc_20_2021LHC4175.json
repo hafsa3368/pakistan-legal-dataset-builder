@@ -29,7 +29,10 @@
     "PLD 1999 Karachi 134",
     "PLD 2020 Lahore 703"
   ],
-  "parties": [],
+  "parties": [
+    "Bashir Ahmad",
+    "District Police Officer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

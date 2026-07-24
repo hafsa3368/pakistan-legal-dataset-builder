@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.857 of 2025",
   "date_of_order": "06.03.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Gulsher",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Noman Shan sonof Syed Abrar Shah",
+    "Nasreen Abrar wife of Syed Abrar Hussain",
+    "Sharafuddin Kanhar, A.P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

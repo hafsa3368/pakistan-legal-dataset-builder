@@ -21,7 +21,10 @@
     "PLD 1970 Lahore 428",
     "PLD 1975 Lahore 879"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Masood Iqbal",
+    "Osama Mehmood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -23,7 +23,12 @@
     "PLD 1995 SC 34",
     "PLD 2019 Sindh 585"
   ],
-  "parties": [],
+  "parties": [
+    "Rao Ghulam Mustafa",
+    "The State",
+    "Dr. Akhtar-ul- Islam",
+    "Shakir Mahmood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

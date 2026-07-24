@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "",
+  "case_number": "HCJDA-38",
   "date_of_order": "08.02.2018",
   "judge": "ZAHOOR",
   "sections_cited": [
@@ -34,7 +34,13 @@
     "1983 SCMR 1239",
     "PLD 2015 SC 380"
   ],
-  "parties": [],
+  "parties": [
+    "Shauqat Qamar",
+    "Federation of Pakistan",
+    "Mr. Nabeel Javed Kahloon",
+    "Ms. Sadia Malik",
+    "Jawad Hassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

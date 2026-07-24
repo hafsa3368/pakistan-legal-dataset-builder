@@ -6,16 +6,19 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "R.F.A. No. 63 of 2010",
   "date_of_order": "25.9.2013",
-  "judge": "",
+  "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
     "Section 22"
   ],
   "citations": [
     "2000 CLC 1201"
   ],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD ISHTIAQ",
+    "Z.T.B.L."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

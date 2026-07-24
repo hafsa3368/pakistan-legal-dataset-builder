@@ -6,14 +6,19 @@
   "year": "1992",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Appeal No. 304 of 2023",
   "date_of_order": "19.06.2023",
   "judge": "",
   "sections_cited": [
     "Section 5"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Haq Nawaz",
+    "The State",
+    "Mr. Mubasher Mirza",
+    "Mr. Riaz Hussain Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

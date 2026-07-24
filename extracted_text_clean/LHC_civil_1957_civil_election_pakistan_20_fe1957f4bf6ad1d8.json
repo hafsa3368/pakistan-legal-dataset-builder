@@ -6,9 +6,9 @@
   "year": "1957",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "C.M.A.No.3652 OF 2023 In/and C.A.No.364 OF 2023",
   "date_of_order": "29.05.2023",
-  "judge": "",
+  "judge": "Munib Akhtar",
   "sections_cited": [
     "sections 4, 8 & 9 of Elections Act",
     "Section 9 of the Election Act",
@@ -17,7 +17,10 @@
     "Section 38"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shujat Hussain",
+    "Provincial Election Commissioner, Balochistan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

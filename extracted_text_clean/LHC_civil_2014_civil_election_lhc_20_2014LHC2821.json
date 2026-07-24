@@ -9,13 +9,24 @@
   "case_number": "Criminal Original No.3911-W/2005",
   "date_of_order": "30.04.2014",
   "judge": "Faisal Zaman Khan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 SCMR 157",
     "2012 SCMR 686",
     "2008 SCMR 960"
   ],
-  "parties": [],
+  "parties": [
+    "Zafar Javaid and six others",
+    "Executive District Officer, Okara (Revenue) and two others",
+    "Mr. Asif Nazir Awan",
+    "Mr. Waqar Ahmad Chaudhry",
+    "Sardar Riaz Ahmad GAR",
+    "Rana Zulfiqar Ali Ahmad",
+    "Muhammad Mustafa"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

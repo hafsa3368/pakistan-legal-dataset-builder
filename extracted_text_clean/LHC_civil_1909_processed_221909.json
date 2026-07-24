@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No. 2056 of 2023",
   "date_of_order": "29.08.2024",
-  "judge": "Wasim ps",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Sections 457, 354, 337-A",
     "Section 7",
@@ -17,7 +17,16 @@
   "citations": [
     "2023 SCMR 2081"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Gul",
+    "Asif",
+    "Nasrullah",
+    "Ghulam Ali",
+    "Zulfiqar Ali",
+    "The State",
+    "Mst. Faiza",
+    "Mst. Farah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

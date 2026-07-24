@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "W.P. Nos",
   "date_of_order": "14.11.2016",
-  "judge": "",
+  "judge": "ASGHAR ALI BHATTI",
   "sections_cited": [
     "Section 46 of the Act",
     "Section 38",
@@ -30,7 +30,12 @@
     "1998 SCMR 1597",
     "2015 SCMR 233"
   ],
-  "parties": [],
+  "parties": [
+    "ELECTION TRIBUNAL, MULTAN",
+    "Punjab Local Government Act, 2013",
+    "Constitution of Pakistan, 1973",
+    "Art. 199"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

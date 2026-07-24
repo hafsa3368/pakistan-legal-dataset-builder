@@ -9,9 +9,14 @@
   "case_number": "Criminal Bail Application No. 695 of 2023",
   "date_of_order": "16.06.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saleem",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -19,7 +19,11 @@
     "2015 SCMR 1",
     "PLD 1980 Lahore 145"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Musarrat",
+    "Muhammad Shafi",
+    "Ali Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

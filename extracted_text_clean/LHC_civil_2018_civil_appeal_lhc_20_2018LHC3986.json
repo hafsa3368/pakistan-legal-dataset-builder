@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-47 of 2018",
   "date_of_order": "24.05.2018",
-  "judge": "JUDGE",
+  "judge": "Muzamil Akhtar Shabir",
   "sections_cited": [
     "Section 22",
     "section 10",
@@ -24,7 +24,10 @@
     "PLD 2018 SC 322",
     "PLD 1976 Lahore 1392"
   ],
-  "parties": [],
+  "parties": [
+    "MCB Bank Limited",
+    "Muhammad Saeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Appeal No.561 of 2010",
   "date_of_order": "08.12.2015",
-  "judge": "",
+  "judge": "Shoaib Khan and Fazal Khaliq",
   "sections_cited": [
     "Section 9",
     "Section 374",
@@ -25,7 +25,14 @@
     "2012 P Cr. L J 1035",
     "PLD 2004 Lahore 829"
   ],
-  "parties": [],
+  "parties": [
+    "Shoaib Khan",
+    "The State",
+    "Fazal Khaliq",
+    "Akmal Khan",
+    "The State",
+    "Murad Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

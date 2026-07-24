@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Appeal No2I9I",
   "date_of_order": "28.11.2014",
-  "judge": "",
+  "judge": "ftikhar ahmad",
   "sections_cited": [
     "Sections 302, 148 and 149 PPC",
     "Sections 302",
@@ -17,7 +17,10 @@
     "Section 34u of Ihe Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State vs Iftikhar Ahmad",
+    "Mst Musarat Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

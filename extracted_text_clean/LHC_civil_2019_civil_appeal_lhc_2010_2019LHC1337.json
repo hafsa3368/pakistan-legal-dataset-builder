@@ -9,13 +9,19 @@
   "case_number": "constitution of a larger Bench. 14. There is no cavil",
   "date_of_order": "22.04.2019",
   "judge": "Asim Hafeez",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2010 SCMR 1162",
     "2010 SCMR 1778",
     "PLD 1997 SC 351"
   ],
-  "parties": [],
+  "parties": [
+    "M/s State Life Insurance Corporation of Pakistan",
+    "Muhammad Sharif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "W.P No. 5078 of 2022",
   "date_of_order": "16.08.2022",
-  "judge": "APPROVED FOR REPORTING JUDGE Raheel",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 9",
     "section 382-B",
@@ -29,7 +29,11 @@
     "PLD 2007 SC 405",
     "PLD 2005 SC 173"
   ],
-  "parties": [],
+  "parties": [
+    "Rao Fakhar Nawaz",
+    "Superintendent, New Central Jail Bahawalpur",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

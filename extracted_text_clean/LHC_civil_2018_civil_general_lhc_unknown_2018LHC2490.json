@@ -7,7 +7,7 @@
   "used_ocr": true,
   "num_chunks": 14,
   "case_number": "criminal Appeals NoءI95",
-  "date_of_order": "",
+  "date_of_order": "16.10.2018",
   "judge": "Mirza Viqas Rauf",
   "sections_cited": [
     "Section 342 of Ihe Code",
@@ -21,7 +21,13 @@
     "Section 29"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Shan Zeb Khan Advocate",
+    "Mr Naveed Ahmad Warraich",
+    "District Public Prosecutor",
+    "Rehmat Ullah",
+    "A.S.I UIRZA UOAS RAUE L"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

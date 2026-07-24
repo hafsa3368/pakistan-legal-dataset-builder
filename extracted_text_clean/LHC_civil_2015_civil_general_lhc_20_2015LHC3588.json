@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "R.F.A. No.164/2006 Pak Kuwait Textiles Ltd. VS WAPDA etc.",
   "date_of_order": "25.5.2015",
-  "judge": "",
+  "judge": "CH. MUHAMMAD IQBAL",
   "sections_cited": [
     "Section 4 of the Land Acquisition Act"
   ],
@@ -16,7 +16,10 @@
     "PLD 1971 SAC 550",
     "PLD 2008 Karachi 540"
   ],
-  "parties": [],
+  "parties": [
+    "Pak Kuwait Textiles Ltd.",
+    "WAPDA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

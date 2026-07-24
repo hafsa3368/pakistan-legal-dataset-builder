@@ -25,7 +25,11 @@
     "1986 SCMR 234",
     "PLD 2017 Lahore 381"
   ],
-  "parties": [],
+  "parties": [
+    "Hamid Mustafa",
+    "University of Veterinary and Animal Sciences",
+    "the Islamic Republic of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

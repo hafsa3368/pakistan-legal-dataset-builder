@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "E.F.A. No.42241 /2017",
   "date_of_order": "04.04.2018",
   "judge": "Jawad Hassan",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "Section 51"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Azhar & CO etc.",
+    "National Bank of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

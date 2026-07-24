@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "RFA # 57-10",
   "date_of_order": "13.02.2019",
   "judge": "Asim Hafeez",
   "sections_cited": [
@@ -24,7 +24,10 @@
     "2007 SCMR 1820",
     "PLD 1973 SC 160"
   ],
-  "parties": [],
+  "parties": [
+    "Lal Din",
+    "MUHAMMAD SALEEM (DECEASED)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

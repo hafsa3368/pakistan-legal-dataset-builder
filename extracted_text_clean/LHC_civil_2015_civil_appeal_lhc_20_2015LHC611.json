@@ -6,16 +6,19 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "R.F.A. No. 199 of 2013",
   "date_of_order": "15.01.2015",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "section 22-A Cr.P.C"
   ],
   "citations": [
     "PLD 2011 SC 241"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Aslam",
+    "Muhammad Mansha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

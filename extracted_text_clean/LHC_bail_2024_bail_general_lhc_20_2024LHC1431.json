@@ -9,12 +9,23 @@
   "case_number": "Crl. Misc. No.80313-B of 2023",
   "date_of_order": "08.04.2024",
   "judge": "Farooq Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 302 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 449 CrPC"
+  ],
   "citations": [
     "2021 SCMR 1802",
     "2005 PCr.LJ 2003"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ashfaq",
+    "The State",
+    "Mazhar",
+    "Mr.Muhammad Tayyab Hanif Chaudhry",
+    "Mr.Muhammad Naveed Umar Bhatti",
+    "Mr.Muhammad Tosif Tariq Tipu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

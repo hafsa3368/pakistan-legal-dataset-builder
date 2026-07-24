@@ -25,7 +25,10 @@
     "PLD 2009 SC 440",
     "PLD 1997 SC 408"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Asif",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

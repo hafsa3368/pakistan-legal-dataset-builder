@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Environmental Appeal No. 128 of 2009",
   "date_of_order": "12.09.2013",
-  "judge": "",
+  "judge": "JAWAD HASSAN",
   "sections_cited": [
     "section 16 of the Pakistan Environment Protection Act",
     "section 16",
@@ -25,7 +25,10 @@
     "1990 CLC 1473",
     "1997 SCMR 209"
   ],
-  "parties": [],
+  "parties": [
+    "Messrs AMJAD ALI BRICK-KILN---Appellant",
+    "DIRECTOR-GENERAL E.P.A. and another---Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

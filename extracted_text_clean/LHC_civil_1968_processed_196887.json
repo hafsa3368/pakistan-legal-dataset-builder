@@ -8,12 +8,16 @@
   "num_chunks": 3,
   "case_number": "Crl. Acquittal Appeal.No.D-13 of 2021",
   "date_of_order": "24.05.2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 302"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mushtaque Ali",
+    "Najeebullah & others",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

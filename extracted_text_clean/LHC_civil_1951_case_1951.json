@@ -6,12 +6,16 @@
   "year": "1951",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl No.1779 of 2024 (Muhammad Usman vs. The State)",
   "date_of_order": "04.11.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Usman",
+    "The State",
+    "The complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

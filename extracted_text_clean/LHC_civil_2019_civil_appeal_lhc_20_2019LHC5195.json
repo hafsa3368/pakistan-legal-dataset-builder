@@ -6,16 +6,23 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.R. No. 67657 of 2017",
   "date_of_order": "9.10.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "GHULAM MUSTAFA",
+  "sections_cited": [
+    "Specific Relief Act, (I of 1877)",
+    "Ss. 42 & 54",
+    "Civil Procedure Code, 1908 (V of 1908)",
+    "Section 115"
+  ],
   "citations": [
     "2015 SCMR 1",
     "2013 SCMR 1300",
     "PLD 1969 SC 617"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners vs MUHAMMAD NAZIR"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,15 @@
   "case_number": "Cr.Acq.Appeal No.S-",
   "date_of_order": "02.12.2019",
   "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Allah Bux Baloch",
+    "Ms. Safa Hisbani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

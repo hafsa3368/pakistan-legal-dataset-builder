@@ -6,9 +6,9 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2011",
   "date_of_order": "04.09.2009",
-  "judge": "",
+  "judge": "CJDA",
   "sections_cited": [
     "section 17-A"
   ],
@@ -18,7 +18,12 @@
     "PLD 2004 Lahore 239",
     "PLD 2013 Lahore 64"
   ],
-  "parties": [],
+  "parties": [
+    "Inam-ul-Haq",
+    "Judge Family Court, Lahore",
+    "Mr. Sana Ullah Ch.",
+    "Mr. Laseeb Ali Quddusi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

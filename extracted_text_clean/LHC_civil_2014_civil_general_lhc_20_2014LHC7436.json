@@ -8,8 +8,14 @@
   "num_chunks": 9,
   "case_number": "Civil Petition No. 222-L of 2010",
   "date_of_order": "14.11.2014",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ch. Muhammad Iqbal Khan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Nabi Bakhsh Vs. Ali Buksh (PLD 1978 Revenue)",
+    "Din Muhammad Vs. MBR etc. NLR 1992 (Revenue) 124",
+    "Islam Din Vs. Muhammad Din PLD 1964 Supreme Court 842 and 1985 MLD 1574"
+  ],
   "citations": [
     "1985 MLD 1574",
     "2010 SCMR 885",
@@ -20,7 +26,16 @@
     "1988 SCMR 2596",
     "PLD 2010 Lahore 510"
   ],
-  "parties": [],
+  "parties": [
+    "Sheikh Ghulam Hussain",
+    "Chief Settlement Commissioner",
+    "Rao Ihsan Elahi Khan",
+    "Member Board of Revenue Punjab, Lahore",
+    "Ali Buksh",
+    "MBR etc.",
+    "Islam Din",
+    "Muhammad Din"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

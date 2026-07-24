@@ -6,7 +6,7 @@
   "year": "1943",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No. 978 of 2021",
   "date_of_order": "20.04.2022",
   "judge": "Athar Zai",
   "sections_cited": [
@@ -15,7 +15,10 @@
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saley Ebrahim Mayet s/o. E. S. Mayet",
+    "Gulab Khan s/o. Muhammad Akbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

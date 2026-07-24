@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
+  "date_of_order": "15.7.2015",
+  "judge": "Mr. Manzoor Hussain Butt",
   "sections_cited": [
     "Section 7, 8, 13 and 25 of the Punjab Consumer Protection Act",
     "Section 28 of Punjab Consumer Protection Act",
@@ -20,7 +20,10 @@
     "1996 SCMR 1165",
     "PLD 2009 SC 45"
   ],
-  "parties": [],
+  "parties": [
+    "Zaigham Imtiaz",
+    "Iqbal Ahmad Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

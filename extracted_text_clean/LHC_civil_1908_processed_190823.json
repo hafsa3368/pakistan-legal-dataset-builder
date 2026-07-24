@@ -8,12 +8,20 @@
   "num_chunks": 2,
   "case_number": "Cr.B.A.No.S-44 of 2023",
   "date_of_order": "06.04.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 SCMR-2040"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Ghaffar Gopang",
+    "Mr. Sanaullah Gilal",
+    "Mr. Ali Anwar Kandhro",
+    "The State",
+    "Fayaz Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

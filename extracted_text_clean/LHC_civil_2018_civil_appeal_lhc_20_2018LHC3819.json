@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "R.F.A. No. 33 of 2017",
   "date_of_order": "22.02.2016",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 22",
     "section 9 of the Ordinance",
@@ -21,7 +21,10 @@
     "section 2 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "United Bank Limited",
+    "RIAZ HUSSAIN and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

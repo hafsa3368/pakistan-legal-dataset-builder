@@ -8,10 +8,15 @@
   "num_chunks": 7,
   "case_number": "W.P.No.6732019",
   "date_of_order": "10.01.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Jamil",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed M. Athar Taqvi vs Nasrullah Hirtn Babar",
+    "Ms. Zarish Latif Khan vs Syed M. Athar Taqvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

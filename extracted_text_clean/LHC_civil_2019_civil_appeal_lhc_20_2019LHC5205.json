@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal proceedings are not",
   "date_of_order": "9.12.2019",
-  "judge": "",
+  "judge": "IMRAN SHAHZAD",
   "sections_cited": [
     "Section 3"
   ],
@@ -17,7 +17,10 @@
     "2013 SCMR 1300",
     "PLD 1969 SC 617"
   ],
-  "parties": [],
+  "parties": [
+    "Masud Abid Naqvi",
+    "BOARD OF INTERMEDIATE & SECONDARY EDUCATION GUJRANWALA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

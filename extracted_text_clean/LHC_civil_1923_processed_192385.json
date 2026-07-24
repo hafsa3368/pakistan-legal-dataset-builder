@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "Criminal Jail Appeal.No.D-22 of 2020",
   "date_of_order": "18.04.2023",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Manzoor Brohi",
+    "The State",
+    "Mr. Ahsan Ahmed Qureshi",
+    "Mr. Ali Anwar Kandhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

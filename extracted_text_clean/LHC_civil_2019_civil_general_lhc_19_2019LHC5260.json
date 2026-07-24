@@ -6,15 +6,22 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "WP No. 19414 of 2019",
   "date_of_order": "03.04.2019",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 SCMR 1739",
     "2008 SCMR 1584"
   ],
-  "parties": [],
+  "parties": [
+    "Imtiaz Ahmad",
+    "Addl: District Judge",
+    "Mr. Abdul Qadus Rawal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

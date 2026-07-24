@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 10,
   "case_number": "W.P.No.174343/2018",
-  "date_of_order": "",
+  "date_of_order": "06.03.2018",
   "judge": "TARIQ SALEEM SHEIKH",
   "sections_cited": [
     "Section 233",
@@ -25,7 +25,14 @@
     "2002 PCr.LJ 1712",
     "PLD 1964 SC 120"
   ],
-  "parties": [],
+  "parties": [
+    "Major (R) Muhammad Zulfiqar Ali",
+    "Mr. S.M. Zeeshan Mirza, Advocate",
+    "Mr. Zahir Abbas, Advocate",
+    "NAB",
+    "Mr. Arif Mehmood Rana",
+    "Special Prosecutor for NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

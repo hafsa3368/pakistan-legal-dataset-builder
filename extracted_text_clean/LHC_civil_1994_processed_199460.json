@@ -9,9 +9,14 @@
   "case_number": "Criminal Bail Application No. 939 of 2023",
   "date_of_order": "26.06.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Umer @ Lehri",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

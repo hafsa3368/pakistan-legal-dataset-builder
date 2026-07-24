@@ -30,7 +30,11 @@
     "PLD 2005 Lahore 93",
     "PLD 2001 SC 607"
   ],
-  "parties": [],
+  "parties": [
+    "Liaquat Ali",
+    "The State etc.",
+    "FYNK Pharmaceuticals"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

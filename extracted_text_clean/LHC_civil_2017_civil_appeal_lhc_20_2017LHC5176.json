@@ -6,12 +6,17 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "19.02.2019",
   "judge": "ZAHOOR",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Saeed",
+    "Addl. District Judge etc.",
+    "Ch. Muhammad Akmal Dhariwal",
+    "Mr. Abid Hussain Khichi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

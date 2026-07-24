@@ -23,7 +23,10 @@
     "PLD 1990 SC 28",
     "PLD 1995 SC 629"
   ],
-  "parties": [],
+  "parties": [
+    "Hamid Majeed",
+    "Maroof Ashraf Mian"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

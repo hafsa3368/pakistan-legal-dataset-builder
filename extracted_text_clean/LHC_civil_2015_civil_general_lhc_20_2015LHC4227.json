@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "12.04.2011",
   "judge": "Riaz Ahmad",
   "sections_cited": [
@@ -31,7 +31,11 @@
     "PLD 2009 Lahore 176",
     "PLD 2001 SC 131"
   ],
-  "parties": [],
+  "parties": [
+    "Bank Al-Habib Ltd.",
+    "Abu Bakar Textile Pvt. Ltd.",
+    "Mrs. Naseem Qasim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

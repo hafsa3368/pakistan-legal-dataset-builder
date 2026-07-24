@@ -6,7 +6,7 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "11.02.2016",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -24,7 +24,11 @@
     "2014 SCMR 1481",
     "1989 CLC 1630"
   ],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD RAMZAN",
+    "ALI HAMZA",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

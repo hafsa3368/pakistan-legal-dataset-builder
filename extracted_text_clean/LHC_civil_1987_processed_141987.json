@@ -6,12 +6,18 @@
   "year": "1987",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "R.A. No.S- 111 of 2018",
   "date_of_order": "05.12.2019",
   "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 397 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Barrister Jawad Ahmed Qureshi",
+    "Mr. Dildar Ali Khan",
+    "Mr. Ghulam Shabbir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

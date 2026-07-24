@@ -6,12 +6,14 @@
   "year": "1923",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 148 of 2020",
   "date_of_order": "26.08.2020",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Tayyab Khaliq Sarwana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

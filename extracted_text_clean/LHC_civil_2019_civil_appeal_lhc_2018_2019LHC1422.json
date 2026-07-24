@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "19.10.2018",
   "judge": "Rasaal Hasan Syed",
   "sections_cited": [
@@ -19,7 +19,11 @@
   "citations": [
     "PLD 1990 SC 778"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Fareed",
+    "Muslim commercial Bank, Ltd.",
+    "Mian Muhammad Mujahid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

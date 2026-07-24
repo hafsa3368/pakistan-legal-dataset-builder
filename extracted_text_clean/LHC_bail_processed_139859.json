@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2018",
   "date_of_order": "21.08.2019",
   "judge": "JUDGE Ahmed/Pa",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2017 P.Cr.L.J 1276"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Yousif Leghari",
+    "Mr. Ghous Bux Mahar",
+    "Special Prosecutor NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

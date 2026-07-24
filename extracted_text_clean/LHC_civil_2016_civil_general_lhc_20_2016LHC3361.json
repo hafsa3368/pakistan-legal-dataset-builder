@@ -25,7 +25,48 @@
     "2012 SCMR 6",
     "PLD 1997 SC 582"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "petitioner",
+      "name": [
+        "Dr. Aurangzeb Aalamgir",
+        "Muhammad Azhar Siddique",
+        "Aftab Ahmad Bajwa",
+        "Hafiz Abdul Rehman Ansari",
+        "Malik Ghulam Abbas Nissuana",
+        "Anum Azhar",
+        "Aitzaz Aslam Ch.",
+        "Waqas Asghar Jathol",
+        "Tahir Ishaq Butt",
+        "S. Perveen Mughal",
+        "Munir Ahmad",
+        "Mian Shabbir Asmail",
+        "Irfan Mukhtar",
+        "Humayun Faiz Rasul",
+        "Safdar Shaheen Pirzada"
+      ]
+    },
+    {
+      "type": "respondent",
+      "name": [
+        "Mr. Shakil ur Rehman Khan",
+        "Advocate General, Punjab",
+        "M/s Muhammad Jamal ud Din Mamdot",
+        "Anwaar Hussain",
+        "Ahmad Hassan Khan",
+        "Iftikhar Ahmad Mian",
+        "M/s Khurram Saeed",
+        "Malik Muhammad Awais Khalid",
+        "Mr. Sajid Ijaz Hotiana",
+        "Advocate for HEC",
+        "M. Amir Sohail",
+        "Mian Abdul Shakoor",
+        "Advocate for PHEC",
+        "Aurangzeb Rashid",
+        "Advocate for respondent No.8 in W.P No.32719 of 2016"
+      ]
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

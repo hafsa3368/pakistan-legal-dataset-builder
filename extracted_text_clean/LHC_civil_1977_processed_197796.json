@@ -8,14 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl.B.A.No.S-196 of 2023",
   "date_of_order": "01.06.2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 22-A/B Cr.PC"
   ],
   "citations": [
     "2009 SCMR-448"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Raza Wadho",
+    "The State",
+    "Ghulam Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Revision No.13684 of 2022",
   "date_of_order": "09.04.2025",
-  "judge": "Approved for reporting JUDGE Abdul Rehman",
+  "judge": "ABHER GUL KHAN",
   "sections_cited": [
     "section 435 Cr.P.C",
     "section 13",
@@ -18,7 +18,11 @@
   "citations": [
     "2000 YLR 2676"
   ],
-  "parties": [],
+  "parties": [
+    "Kameer Khan",
+    "The State",
+    "Aamir Hayat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

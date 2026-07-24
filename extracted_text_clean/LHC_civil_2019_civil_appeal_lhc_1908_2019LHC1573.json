@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "21.05.2019",
   "judge": "Asim Hafeez",
   "sections_cited": [
@@ -27,7 +27,10 @@
     "2000 SCMR 1904",
     "PLD 1992 LAHORE 178"
   ],
-  "parties": [],
+  "parties": [
+    "Sajjad Ahmad",
+    "HBL"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

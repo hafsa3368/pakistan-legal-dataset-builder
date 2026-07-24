@@ -6,17 +6,22 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-16337/2015",
   "date_of_order": "14.07.2015",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "CH. MUHAMMAD IQBAL",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2005 YLR 344",
     "2010 YLR 1525",
     "PLD 2010 Lahore 160",
     "PLD 2004 Lahore 335"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammad Iqbal",
+    "District Coordinator Officer/District Collector, Faisalabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal.No.S-43 of 2021",
   "date_of_order": "08.05.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahid Ahmed",
+    "Shakeel Ahmed",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

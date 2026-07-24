@@ -8,8 +8,12 @@
   "num_chunks": 5,
   "case_number": "W.P. No.21045 of 2014",
   "date_of_order": "22.01.2014",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "1995 SCMR 584",
     "2003 SCMR 1140",
@@ -18,7 +22,11 @@
     "2003 SCMR 291",
     "PLD 1991 SC 329"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Tahir Siddique",
+    "Government of the Punjab",
+    "GOVERNMENT OF THE PUNJAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Revision No.890/2007",
   "date_of_order": "21.05.2015",
-  "judge": "",
+  "judge": "CH. MUHAMMAD IQBAL",
   "sections_cited": [
     "Section 35-A CPC",
     "Section 13"
@@ -17,7 +17,10 @@
     "2008 SCMR 488",
     "2007 MLD 1710"
   ],
-  "parties": [],
+  "parties": [
+    "Sanaullah",
+    "Zia Ullah etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

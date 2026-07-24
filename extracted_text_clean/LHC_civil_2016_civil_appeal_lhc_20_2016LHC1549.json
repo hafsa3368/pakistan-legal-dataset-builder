@@ -28,7 +28,11 @@
     "PLD 1978 Karachi 267",
     "PLD 2012 Peshawar 151"
   ],
-  "parties": [],
+  "parties": [
+    "Nazir Ahmad",
+    "Muhammad Rafique",
+    "Abdul Wahid Chaudhary"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

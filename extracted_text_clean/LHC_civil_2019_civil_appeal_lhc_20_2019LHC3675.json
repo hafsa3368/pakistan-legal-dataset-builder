@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Crl. Appeal No. 24 of 2015",
   "date_of_order": "22.10.2019",
-  "judge": "JUDGE",
+  "judge": "FAROOQ HAIDER",
   "sections_cited": [
     "Sections 365-A, 395, 342 PPC",
     "Sections 21",
@@ -33,7 +33,10 @@
     "2019 SCMR 129",
     "PLD 2019 SC 64"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Hafiz Imran alias Abbas alias Hamza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

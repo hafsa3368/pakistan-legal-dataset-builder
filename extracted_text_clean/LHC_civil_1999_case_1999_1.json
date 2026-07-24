@@ -6,12 +6,22 @@
   "year": "1999",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D – 725 of 2018",
   "date_of_order": "21.03.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ARBROHI",
+  "sections_cited": [
+    "Section 212",
+    "Article 212 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muzafar Ali Dehraj",
+    "Mr. Ali Raza Baloch",
+    "The Petitioners",
+    "Naushahro Feroze",
+    "District Education Officer (Primary)",
+    "Respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

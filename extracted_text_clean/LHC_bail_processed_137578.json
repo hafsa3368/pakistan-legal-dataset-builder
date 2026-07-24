@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.Bail Appln. No.S-713 of 2018",
   "date_of_order": "19.03.2019",
   "judge": "Tufail/PA",
   "sections_cited": [
@@ -17,7 +17,12 @@
     "Section 337-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bilawal Bajeer",
+    "Mr. Poonjo Ruplani",
+    "Miss Sana Memon",
+    "SHAMSUDDIN ABBASI"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

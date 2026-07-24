@@ -6,16 +6,23 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "23.05.2019",
   "judge": "Asim Hafeez",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2005 SCMR 512",
     "PLD 1991 SC 731",
     "PLD 2010 Karachi 153"
   ],
-  "parties": [],
+  "parties": [
+    "Sher Ali",
+    "D.G. Pakistan Rangers, etc.",
+    "Abdul Ghaffar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

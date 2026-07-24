@@ -8,12 +8,15 @@
   "num_chunks": 1,
   "case_number": "Constitution is not",
   "date_of_order": "01.06.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 4 of the Sindh Service Tribunal Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Iftikhar Ali Arain",
+    "Mr. Mehboob Ali Wassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

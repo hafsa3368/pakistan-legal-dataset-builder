@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "01.09.2015",
-  "judge": "",
+  "judge": "Mr. Muhammad Akram Chaudhry",
   "sections_cited": [
     "Section 50 of the Stamp Act",
     "Section 49"
@@ -16,7 +16,11 @@
   "citations": [
     "2010 CLC 1575"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Idrees",
+    "District Officer (Revenue)",
+    "Ms. Asma Hamid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

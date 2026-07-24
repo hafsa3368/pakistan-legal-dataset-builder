@@ -31,7 +31,10 @@
     "PLD 2003 SC 849",
     "PLD 1969 Karachi 474"
   ],
-  "parties": [],
+  "parties": [
+    "Allied Bank Limited",
+    "Bankers Equity Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,8 +8,12 @@
   "num_chunks": 8,
   "case_number": "Constitutional petition was not",
   "date_of_order": "22.09.2015",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Art. 199"
+  ],
   "citations": [
     "2014 SCMR 122",
     "2011 SCMR 848",
@@ -17,7 +21,11 @@
     "PLD 2001 SC 1012",
     "PLD 1969 SC 223"
   ],
-  "parties": [],
+  "parties": [
+    "Kamran Martin",
+    "Mst Siera Bibi",
+    "Punjab Public Service Commission"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

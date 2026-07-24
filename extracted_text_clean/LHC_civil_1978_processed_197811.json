@@ -8,14 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal.No.D-20 of 2020",
   "date_of_order": "31.05.2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 302",
     "Section 374 Cr.PC",
     "Section 537 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dadan Budh",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

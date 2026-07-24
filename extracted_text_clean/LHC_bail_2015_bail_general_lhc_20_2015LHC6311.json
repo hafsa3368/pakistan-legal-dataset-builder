@@ -6,12 +6,17 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Cr.B.A.No.S-994 of 2019",
+  "date_of_order": "24-07-2015",
+  "judge": "Mianwali",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Muhammad Safat Chaudlary Advocate, for the petitioner Mr -Lariq Javed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "R.F.A.No.327 of 2014",
   "date_of_order": "07.03.2017",
   "judge": "Zeeshan Khan",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "Section 10"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Arbab Cotton Industries and Oil Mills.",
+    "Askari Bank Limited."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

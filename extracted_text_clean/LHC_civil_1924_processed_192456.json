@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Crl. Appeal No. S",
   "date_of_order": "20-04-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 376 PPC",
     "section 161 Cr.P.C",
@@ -19,7 +19,13 @@
     "1996 SCMR 1553",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Aziz Ahmed s/o Muhammad Ali Pirzado",
+    "The State",
+    "PW Lal Bux",
+    "PW Mst.Farzana",
+    "ASI Khan Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

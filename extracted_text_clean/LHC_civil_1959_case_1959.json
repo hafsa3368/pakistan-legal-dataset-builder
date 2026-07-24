@@ -6,12 +6,18 @@
   "year": "1959",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.S-511 of 2024",
   "date_of_order": "26.12.2024",
   "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aijaz Ali",
+    "Ms. Sana Memon",
+    "PI Muhammad Changal",
+    "SSP Hyderabad",
+    "ASI Muhammad Arshad PS A-Section Nawabshah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

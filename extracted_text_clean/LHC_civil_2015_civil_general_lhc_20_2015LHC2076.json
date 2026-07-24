@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Crl. Org. No.946/W/2013",
   "date_of_order": "24.3.2015",
-  "judge": "",
+  "judge": "CH. MUHAMMAD IQBAL",
   "sections_cited": [
     "Section 41 of the Land Acquisition Act",
     "Section 43-A of the Land Acquisition Act",
@@ -21,7 +21,10 @@
     "PLD 2003 Karachi 691",
     "PLD 1992 SC 207"
   ],
-  "parties": [],
+  "parties": [
+    "Kohinoor Textile Mills Ltd.",
+    "Board of Revenue etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 22,
   "case_number": "CIVIL PETITIONS NO. 448-P/17",
   "date_of_order": "29.09.2022",
-  "judge": "",
+  "judge": "Muhammad Ali Mazhar",
   "sections_cited": [
     "Section 3",
     "Section 16 of the Pakistan Citizenship Act",
@@ -22,7 +22,13 @@
     "2022 SCMR 694",
     "PLD 1961 SC 616"
   ],
-  "parties": [],
+  "parties": [
+    "Sonia Begam",
+    "Shakila Chaman",
+    "Saira Amin",
+    "Syed Amjad Rauf Shah",
+    "Raz Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

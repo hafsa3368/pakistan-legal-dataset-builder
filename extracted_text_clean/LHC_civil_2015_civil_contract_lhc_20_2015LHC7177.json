@@ -9,7 +9,10 @@
   "case_number": "constrained the petitioner to file W.P. No.13114 of 2012",
   "date_of_order": "03.11.2015",
   "judge": "Muhammad Sajid Mehmood Sethi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2007 SCMR 1442",
     "2008 SCMR 773",
@@ -21,7 +24,15 @@
     "PLD 2014 Lahore 375",
     "PLD 2014 Lahore 394"
   ],
-  "parties": [],
+  "parties": [
+    "Saghir Ahmad",
+    "Federation of Pakistan through Secretary, Ministry of Water and Power, Pak Secretariat, Islamabad",
+    "Mr. Muhammad Shahzad Shaukat",
+    "M/s. Akhtar Ali Kureshi",
+    "Akhtar Ali Monga",
+    "Adil Bandial",
+    "Muhammad Yasin Badar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

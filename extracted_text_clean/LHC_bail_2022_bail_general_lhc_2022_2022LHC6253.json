@@ -8,10 +8,25 @@
   "num_chunks": 4,
   "case_number": "criminal case has no relevance",
   "date_of_order": "18.08.2022",
-  "judge": "Approved for reporting JUDGE Riaz",
+  "judge": "ALI ZIA BAJWA",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zulfiqar Ali",
+    "Learned Ex-officio Justice of Peace, etc.",
+    "Mr. Naveed Ahmed Khawaja",
+    "Muhammad Ahsan Younas",
+    "Mohammad Zohaib Nasrullah Ranjha",
+    "S.P/C.R.O",
+    "Lahore",
+    "Mian Tanvir Ahmed",
+    "DSP- Legal (C.P.O.)",
+    "Shahid Siddique",
+    "DSP-Legal (Additional I.G. Investigation)",
+    "Malik Khuda Yar",
+    "Sardar Khurram Latif Khan Khosa",
+    "Advocate/amicus curiae"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

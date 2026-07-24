@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "04.01.2024",
   "judge": "Sultan Tanvir Ahmad",
   "sections_cited": [
@@ -24,7 +24,11 @@
     "2019 YLR 643",
     "PLD 2017 Lahore 394"
   ],
-  "parties": [],
+  "parties": [
+    "Sajjad Ahmad",
+    "The Returning Officer, NA-174, Rahim Yar Khan",
+    "04 Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

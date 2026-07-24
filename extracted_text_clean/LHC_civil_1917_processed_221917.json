@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Anti-Terrorism Jail Appeals No. 07",
   "date_of_order": "05.08.2024",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto Mr",
   "sections_cited": [
     "Sections 324, 353, 427, 411, 34 PPC",
     "Section 7",
@@ -26,7 +26,10 @@
     "2018 SCMR 577",
     "2024 SCMR 934"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

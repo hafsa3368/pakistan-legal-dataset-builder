@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "Crl. Appeal No. S",
   "date_of_order": "05-12-2019",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 34 PPC",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Yousuf son of Haji Ahmed Wassan, Mohammad son of Haji Ahmed Wassan, Asif son of Haji Ahmed Wassan and Mohammad Bux son of Mohammad Achar Sanjrani",
+    "Through Mr. Ghulam Muhammad Ali Halepoto, advocate",
+    "The State: Through Ms. Safa Hisbani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

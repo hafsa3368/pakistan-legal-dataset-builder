@@ -37,7 +37,11 @@
     "2018 SCMR 1432",
     "1992 CLC 1073"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Salman",
+    "Election Commission of Pakistan",
+    "Islamabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

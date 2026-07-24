@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No. 485 of 2024",
   "date_of_order": "05.09.2024",
-  "judge": "",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 410 Cr.P.C",
     "Section 48 of the CNS Act",
@@ -20,7 +20,10 @@
     "2019 SCMR 2004",
     "2022 SCMR 1567"
   ],
-  "parties": [],
+  "parties": [
+    "Kamran Shah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

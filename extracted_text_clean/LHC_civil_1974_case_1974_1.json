@@ -6,12 +6,18 @@
   "year": "1974",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "C.P. No. D - 1185 of 2022",
+  "date_of_order": "17-11-2022",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Town Committee Nara",
+    "the petitioner",
+    "Mr. Muhammad Raza Soomro, Advocate",
+    "Mr. Israr Ahmed Shah, Advocate",
+    "Mr. Noor Hassan Malik, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

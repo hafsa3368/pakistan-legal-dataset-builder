@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 20,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "15.11.2018",
   "judge": "Asim Hafeez",
   "sections_cited": [
@@ -20,7 +20,13 @@
   "citations": [
     "PLD 1964 SC 520"
   ],
-  "parties": [],
+  "parties": [
+    "Member (Judicial-V)",
+    "MUHAMMAD AZAM",
+    "M/s Ch. Muhammad Shafique, Ghazanfar Khalid Saeed and M. Ammad Khan Rai, Advocates",
+    "Mr. Sarfraz Ahmad Cheema, Advocate",
+    "Mr. Muhammad Yaqoob Kanjoo, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "CRIMINAL PETITIONS NO. 1121",
   "date_of_order": "08.11.2023",
-  "judge": "",
+  "judge": "Muhammad Ali Mazhar",
   "sections_cited": [
     "Section 365-B of the Pakistan Penal Code",
     "Section 164 of the Code",
@@ -16,7 +16,11 @@
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Salman Mushtaq and another",
+    "Ahmar Ali",
+    "The State through PG Punjab and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

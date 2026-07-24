@@ -8,7 +8,7 @@
   "num_chunks": 18,
   "case_number": "criminal case FIR No. 257",
   "date_of_order": "24.01.2025",
-  "judge": "",
+  "judge": "ABID HUSSAIN CHATTHA",
   "sections_cited": [
     "Section 5 of the Punjab Subordinate Judiciary Service Tribunal Act",
     "Section 9",
@@ -25,7 +25,10 @@
     "PLD 1983 SC 187",
     "PLD 2022 Sindh 165"
   ],
-  "parties": [],
+  "parties": [
+    "Gabriel Francis",
+    "The Registrar, Lahore High Court, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

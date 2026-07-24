@@ -25,7 +25,11 @@
     "PLD 1964 Lahore 138",
     "PLD 2007 SC 386"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan Pharmacists Association",
+    "Province of Punjab",
+    "NTS"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

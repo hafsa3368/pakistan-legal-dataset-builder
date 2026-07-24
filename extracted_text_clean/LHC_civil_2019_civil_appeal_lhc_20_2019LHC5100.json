@@ -6,16 +6,22 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "18.06.2019",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1994 SCMR 1991",
     "2006 SCMR 21",
     "PLD 2018 Lahore 491"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Ali Manzar Zaidi",
+    "Syed Nafees"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

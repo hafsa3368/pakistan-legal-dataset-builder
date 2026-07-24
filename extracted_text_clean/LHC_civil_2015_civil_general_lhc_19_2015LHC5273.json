@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Writ Petition No.11971 of 2015",
   "date_of_order": "18.08.2015",
   "judge": "Syed Shahbaz Ali Rizvi",
   "sections_cited": [
@@ -16,7 +16,11 @@
     "Section 489-F PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Haji Muhammad",
+    "Justice of Peace & others",
+    "Syed Aqeel Akhtar Zaidi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

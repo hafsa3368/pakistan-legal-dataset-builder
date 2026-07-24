@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-133/2013",
   "date_of_order": "16.11.2012",
-  "judge": "",
+  "judge": "Mr. Fakhar Raza Malana",
   "sections_cited": [
     "Section 25 of the Punjab Consumer Protection Act",
     "Section 28 of the Act",
@@ -20,7 +20,12 @@
     "2006 SCMR 778",
     "1999 SCMR 2353"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Mansha",
+    "Shahid Rana",
+    "OCS etc.",
+    "Malik Muhammad Riaz Khokhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

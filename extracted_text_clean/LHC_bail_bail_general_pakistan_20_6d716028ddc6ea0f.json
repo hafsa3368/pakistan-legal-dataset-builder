@@ -9,9 +9,15 @@
   "case_number": "Criminal Petition No. 645-L of 2025",
   "date_of_order": "25.06.2025",
   "judge": "Yahya Afridi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zahid Khan",
+    "The State through Prosecutor General, Punjab and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

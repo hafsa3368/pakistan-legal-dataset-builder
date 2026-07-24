@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "12.01.2022",
   "judge": "Farooq Haider",
   "sections_cited": [
@@ -20,7 +20,16 @@
     "2021 SCMR 1979",
     "PLD 2021 SC 886"
   ],
-  "parties": [],
+  "parties": [
+    "Abid Farooq",
+    "Federation of Pakistan",
+    "Mr.Afzaal Ahmad Butt",
+    "Mr.Tariq Shafique Bhandara",
+    "Mr.Safdar Hayat Bosaal",
+    "Aftab S.I.",
+    "Qasim S.I.",
+    "Farooq Haider"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

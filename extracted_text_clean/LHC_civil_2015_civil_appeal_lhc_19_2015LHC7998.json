@@ -26,7 +26,11 @@
     "2012 SCMR 1276",
     "PLD 2009 Lahore 362"
   ],
-  "parties": [],
+  "parties": [
+    "Abid Ashraf",
+    "The State",
+    "Waris Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

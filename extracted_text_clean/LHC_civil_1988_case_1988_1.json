@@ -6,7 +6,7 @@
   "year": "1988",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D-1443 of 2022",
   "date_of_order": "01.12.2022",
   "judge": "JUDGE Ahmad",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "Section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khalil Ahmed Maitlo",
+    "State",
+    "ASI/I.O Nasrullah Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

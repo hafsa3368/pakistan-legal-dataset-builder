@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No 445",
   "date_of_order": "11.08.2007",
-  "judge": "",
+  "judge": "Shorkul, Disiicl Jhang",
   "sections_cited": [
     "Section 544",
     "Section 34",
@@ -17,7 +17,15 @@
   "citations": [
     "2009 SCMR 99"
   ],
-  "parties": [],
+  "parties": [
+    "Mohsin Ali",
+    "The State",
+    "Mehr Khurshid Bhango",
+    "Muhammad Hanif",
+    "Khizer Hayat",
+    "Muhamad Arif",
+    "Akhfar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

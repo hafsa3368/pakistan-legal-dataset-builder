@@ -30,7 +30,11 @@
     "PLD 2007 SC 582",
     "PLD 2007 SC 302"
   ],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD NAWAZ",
+    "KHIZAR HAYAT",
+    "MUKHTAR ABBAS"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

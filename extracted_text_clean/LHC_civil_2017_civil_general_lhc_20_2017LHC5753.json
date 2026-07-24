@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "WP No. 6849 of 2017",
   "date_of_order": "09.06.2017",
-  "judge": "",
+  "judge": "MUZAMIL AKHTAR SHABBIR",
   "sections_cited": [
     "Section 3",
     "Section 4",
@@ -25,7 +25,10 @@
     "2004 SCMR 186",
     "PLD 2014 SC 585"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Razzaq",
+    "Secretary Agriculture etc"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

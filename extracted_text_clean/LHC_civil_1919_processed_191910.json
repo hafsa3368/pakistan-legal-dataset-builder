@@ -9,9 +9,16 @@
   "case_number": "Constt.Petition No.D-08 of 2022",
   "date_of_order": "12.04.2023",
   "judge": "JUDGE",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rehman Bhutto",
+    "Mr. Asif Hussain Chandio",
+    "Mr. Liaquat Ali Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

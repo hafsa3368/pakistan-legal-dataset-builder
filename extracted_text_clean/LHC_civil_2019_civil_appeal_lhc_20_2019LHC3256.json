@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "23.05.2019",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -17,7 +17,10 @@
   "citations": [
     "2013 SCMR 338"
   ],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD ASHRAF",
+    "ADDITIONAL COMMISSIONER (Revenue), Rawalpindi Division, Rawalpindi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

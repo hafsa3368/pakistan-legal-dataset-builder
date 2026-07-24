@@ -6,12 +6,21 @@
   "year": "1933",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 43 of 2018",
   "date_of_order": "10.04.2018",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shaikh Abdul Malik and Mrs. Mehmooda Sulleman",
+    "Shafqat Zaman",
+    "Mrs. Waheeda Sultana",
+    "Mrs. Almas Saeed",
+    "Mrs. Rubina Haider",
+    "Mrs. Naheed Farzana",
+    "Mrs. Farhana Jawaid",
+    "Rehan Zaman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

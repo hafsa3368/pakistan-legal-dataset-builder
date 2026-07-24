@@ -9,12 +9,22 @@
   "case_number": "Civil Revision No. 1122 of 2011",
   "date_of_order": "03.02.2022",
   "judge": "ASIM HAFEEZ",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2010 SCMR 18",
     "2011 SCMR 1162"
   ],
-  "parties": [],
+  "parties": [
+    "Ilyas Ahmad",
+    "Additional District Judge, Sialkot",
+    "Mr. Dawood Iqbal Qureshi, Advocate",
+    "M/s Zeeshan Afzaal Hashmi and Muhammad Nouman Shams Qazi, Advocate",
+    "Mr. Aqeel Afzal Awan",
+    "Mr. Zeeshan Ghani Sulehria, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

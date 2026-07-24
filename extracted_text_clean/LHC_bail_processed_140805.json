@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Rev. A. No.D -12 of 2019",
   "date_of_order": "15.10.2019",
   "judge": "JUDGE Ahmed/Pa",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 75 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mian Taj Muhammad Keerio",
+    "Mr. Nazar Muhammad Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

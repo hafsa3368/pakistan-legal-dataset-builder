@@ -6,17 +6,23 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "16.06.2025",
   "judge": "Sultan Tanvir Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1986 MLD 2997",
     "1984 MLD 1124",
     "1991 MLD 480",
     "PLD 1971 Quetta 10"
   ],
-  "parties": [],
+  "parties": [
+    "Fayyaz Ahmed",
+    "Azam Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

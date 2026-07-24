@@ -6,14 +6,19 @@
   "year": "2017",
   "used_ocr": true,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "30.07.2015",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "1996 SCMR 762"
   ],
-  "parties": [],
+  "parties": [
+    "Rana Mulutntiiad Shakecel",
+    "Mst Jatnal Bihi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "C.R. No. 495-D/2011",
   "date_of_order": "03.12.2019",
   "judge": "Asim Hafeez",
   "sections_cited": [],
@@ -14,7 +14,12 @@
     "1992 SCMR 1629",
     "PLD 2007 Lahore 93"
   ],
-  "parties": [],
+  "parties": [
+    "Punjab and one other",
+    "Manzoor Hussain",
+    "Mr. Azhar Saleem Kamlana, A.A.G",
+    "Mr. Zulfiqar Ahmad Choudhary, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

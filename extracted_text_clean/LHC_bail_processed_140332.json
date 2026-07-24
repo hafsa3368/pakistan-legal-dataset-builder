@@ -8,12 +8,20 @@
   "num_chunks": 3,
   "case_number": "Cr.B.A.No.S-759 of 2019",
   "date_of_order": "20.09.2019",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "U/s 498 Cr.P.C",
+    "u/s 161 Cr.P.C"
+  ],
   "citations": [
     "2016 SCMR 748"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mujjan Ali Panhwar",
+    "Ms. Safa Hisbani",
+    "Mr. Khalid Saeed Soomro",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

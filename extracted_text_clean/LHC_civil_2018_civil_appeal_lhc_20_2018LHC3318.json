@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 16,
   "case_number": "Criminal Appeal No. 169 of 2009",
-  "date_of_order": "",
+  "date_of_order": "18.12.2018",
   "judge": "TARIQ SALEEM SHEIKH",
   "sections_cited": [
     "Sections 420/467/468/471/409 PPC",
@@ -38,7 +38,24 @@
     "PLD 1984 SC 428",
     "PLD 1997 SC 275"
   ],
-  "parties": [],
+  "parties": [
+    "Punjab Provincial Cooperative Bank Ltd.",
+    "The State & 2 others",
+    "Ch. Khalid Mehmood, Arain, Advocate",
+    "Mr. Muhammad Ahsan-ul-Haq, Deputy District Public Prosecutor for the State",
+    "Mr. Muhammad Suleman Bhatti, Advocate",
+    "Mr. Nishat Ahmad Siddiqui, Advocate",
+    "Mr. Muhammad Anwar Awan, Advocate",
+    "Mehr Ashfaq Ahmad Utra, Advocate",
+    "Tariq Saleem Sheikh",
+    "Haji Ghulam Rasool",
+    "Sheikh Irshad Ahmad Paracha",
+    "Mubashir Iqbal",
+    "Syed Ijaz Abbas",
+    "Syed Murtaza Hussain Shah",
+    "Mian Ghulam Mustafa",
+    "Muhammad Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "R.F.A. No.519 of 2013",
   "date_of_order": "5th December, 2016",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 5 of the Limitation Act",
     "section 5 of the Act",
@@ -24,7 +24,9 @@
   "citations": [
     "2001 SCMR 286"
   ],
-  "parties": [],
+  "parties": [
+    "Appellant Versus Barclays Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

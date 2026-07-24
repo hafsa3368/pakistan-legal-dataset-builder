@@ -8,7 +8,7 @@
   "num_chunks": 22,
   "case_number": "W.P. No.101 of 2017",
   "date_of_order": "11.01.2017",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 4 of the Industrial Relations Act",
     "Section 13 of the Act",
@@ -28,7 +28,11 @@
     "PLD 2010 Karachi 236",
     "PLD 2000 Lahore 90"
   ],
-  "parties": [],
+  "parties": [
+    "ABDUL QAYYUM",
+    "WATER AND POWER DEVELOPMENT AUTHORITY",
+    "Mst. Ummatullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "1924",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Rcv A,Nu, D-02 of 2016",
   "date_of_order": "",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Habibullah Ghouri Advocate for Ihe apphicant",
+    "Mr Khadim Hussuin Khoharo Addl Prosecutor General",
+    "Mr Saced Ahmned Leghari Advocate for the complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

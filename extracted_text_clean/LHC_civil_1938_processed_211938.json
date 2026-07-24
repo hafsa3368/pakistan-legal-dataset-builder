@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No. S-928 of 2023",
   "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Justice of Peace",
+  "sections_cited": [
+    "u/s 561-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Murtaza Korai",
+    "Mr. Khan Muhammad Sangi",
+    "Mr. Aftab Ahmed Shar",
+    "the applicant",
+    "the respondent No.3",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "1909",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 345 of 2017",
   "date_of_order": "31.01.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Athar Zai",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Arif Mehmood Ali",
+    "Iffat K. Khan",
+    "Amna Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

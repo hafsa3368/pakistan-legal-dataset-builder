@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "28.03.2017",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -29,7 +29,10 @@
     "2014 CLC 1392",
     "PLD 2008 Karachi 540"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Bahawalpur Cotton Company",
+    "United Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

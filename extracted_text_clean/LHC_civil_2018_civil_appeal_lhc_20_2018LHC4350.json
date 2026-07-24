@@ -6,16 +6,19 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "R.F.A. No. 28 of 2015",
   "date_of_order": "7.3.2018",
-  "judge": "",
+  "judge": "Masud Abid Naqvi",
   "sections_cited": [
     "Section 10",
     "Section 4 of the Act",
     "Sections 10 and 11"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD ABBAS",
+    "NATIONAL BANK OF PAKISTAN"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

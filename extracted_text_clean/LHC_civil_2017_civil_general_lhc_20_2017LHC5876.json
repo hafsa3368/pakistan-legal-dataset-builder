@@ -8,15 +8,22 @@
   "num_chunks": 4,
   "case_number": "W.P. No. 14839 of 2015",
   "date_of_order": "9.10.2017",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ABDUL KHALIQ",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 1",
     "2013 SCMR 1300",
     "PLD 2013 SC 255",
     "PLD 1969 SC 617"
   ],
-  "parties": [],
+  "parties": [
+    "Masud Abid Naqvi, J.",
+    "ADDITIONAL DISTRICT JUDGE, KABIRWALA, DISTRICT KHANEWAL",
+    "another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

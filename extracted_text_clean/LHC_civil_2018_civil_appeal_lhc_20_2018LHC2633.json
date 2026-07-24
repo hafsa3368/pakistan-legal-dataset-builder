@@ -31,7 +31,10 @@
     "PLD 2006 SC 427",
     "PLD 2015 Lahore 1"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Azam",
+    "Shahzad Akhtar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

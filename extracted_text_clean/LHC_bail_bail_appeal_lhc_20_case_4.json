@@ -20,7 +20,11 @@
     "1995 SCMR 170",
     "PLD 1995 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "Hammad Elahi",
+    "Tariq Javed",
+    "Muhammad Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -19,7 +19,10 @@
     "PLD 1990 SC 1051",
     "PLD 2004 Lahore 1"
   ],
-  "parties": [],
+  "parties": [
+    "Yar Muhammad",
+    "Muhammad Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

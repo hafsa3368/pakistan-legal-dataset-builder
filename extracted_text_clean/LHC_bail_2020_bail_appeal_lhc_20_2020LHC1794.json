@@ -38,7 +38,11 @@
     "PLD 1949 Lahore 21",
     "PLD 1953 FC 170"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Malik Tariq Hanif Awan",
+    "Shahzad Hassan Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

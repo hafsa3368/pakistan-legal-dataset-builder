@@ -9,9 +9,20 @@
   "case_number": "Civil Revision No.1792 of 2016",
   "date_of_order": "31.01.2017",
   "judge": "Muzamil Akhtar Shabir",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Shamim & Company (Pvt) Ltd",
+    "Malik Ghulam Mustafa Tahir",
+    "Muhammad Khalid Ashraf Khan",
+    "Malik Ahsan Mehmood",
+    "Usman Ali Bhoon",
+    "Mr. Mughees Aslam Malik",
+    "Mr. Irfan Wyne"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

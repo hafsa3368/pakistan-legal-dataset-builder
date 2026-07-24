@@ -9,7 +9,10 @@
   "case_number": "W.P No.1440/2012",
   "date_of_order": "27.01.2015",
   "judge": "SHAHID KARIM",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2009 SCMR 1077",
     "2001 SCMR 338",
@@ -19,7 +22,10 @@
     "1998 SCMR 2514",
     "PLD 1973 SC 24"
   ],
-  "parties": [],
+  "parties": [
+    "Shafaq Aqeel",
+    "Shafqat Ali Amjad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

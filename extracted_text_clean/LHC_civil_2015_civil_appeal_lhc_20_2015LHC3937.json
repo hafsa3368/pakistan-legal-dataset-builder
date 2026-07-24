@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "R.F.A. No.96 of 2007",
   "date_of_order": "18.06.2015",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -20,7 +20,14 @@
   "citations": [
     "PLD 2013 Sindh 104"
   ],
-  "parties": [],
+  "parties": [
+    "Standard Cotton Oil Mills",
+    "Allied Bank of Pakistan",
+    "Mr. Muhammad Manzoor-ul-Haq",
+    "Mr. Muhammad Waseem Shahab",
+    "MUHAMMAD SAJID MEHMOOD SETHI",
+    "respondents No. 2 and 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

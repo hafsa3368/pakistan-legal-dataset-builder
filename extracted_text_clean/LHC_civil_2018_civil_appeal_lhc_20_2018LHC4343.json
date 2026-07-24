@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2017",
   "date_of_order": "5.4.2018",
-  "judge": "",
+  "judge": "MANZOOR HUSSAIN",
   "sections_cited": [
     "section 115"
   ],
@@ -16,7 +16,10 @@
     "2014 SCMR 513",
     "2012 SCMR 730"
   ],
-  "parties": [],
+  "parties": [
+    "Masud Abid Naqvi",
+    "MUHAMMAD KHURSHEED"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

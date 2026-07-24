@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "R.F.A. No.961 of 2013",
   "date_of_order": "20.05.2013",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 9",
     "section 10",
@@ -21,7 +21,10 @@
     "2009 YLR 982",
     "2006 MLD 1447"
   ],
-  "parties": [],
+  "parties": [
+    "Messrs IJAZ NIZAM",
+    "NIB BANK and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

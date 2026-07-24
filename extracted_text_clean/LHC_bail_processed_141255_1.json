@@ -9,9 +9,17 @@
   "case_number": "Civil Petition No.2152/2019",
   "date_of_order": "05.11.2019",
   "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Syed Mahmood Alam, Noor-ul-Haq Qureshi, Abdul Majeed Khoso, Jazib Aftab & Saad Salman",
+    "Mr. Jangu Khan, Special Prosecutor NAB a/w IO Mir Osaf Ahmed",
+    "Mr. Zulfiqar Ali Rajput, Assistant Attorney General",
+    "Mr. Muhammad Ismail Bhutto, Additional A.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

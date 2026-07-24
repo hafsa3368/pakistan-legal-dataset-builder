@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "FA No.37/2014",
   "date_of_order": "21.05.2015",
   "judge": "Mirza Viqas Rauf Case",
   "sections_cited": [
@@ -25,7 +25,10 @@
     "2007 CLC 89",
     "2001 SCMR 2020"
   ],
-  "parties": [],
+  "parties": [
+    "Khursheed Anwar",
+    "Muhammad Rafique Khawar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

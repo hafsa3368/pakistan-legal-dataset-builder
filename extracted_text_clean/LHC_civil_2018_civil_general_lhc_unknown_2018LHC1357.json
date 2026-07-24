@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": true,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "17.05.2018",
   "judge": "",
   "sections_cited": [
@@ -16,7 +16,10 @@
   "citations": [
     "1983 SCMR 559"
   ],
-  "parties": [],
+  "parties": [
+    "RAJA MUHAMMAD NASEER and another",
+    "GHULAM SHAH and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

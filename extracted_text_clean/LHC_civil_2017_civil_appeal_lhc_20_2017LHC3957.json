@@ -9,13 +9,20 @@
   "case_number": "W.P.No.817 of 2017",
   "date_of_order": "10.10.2017",
   "judge": "MIRZA VIQAS RAUF",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "MANNAN FEROZ v. SHOMAILA"
+  ],
   "citations": [
     "2015 YLR 1235",
     "2008 SCMR 186",
     "PLD 2012 Lahore 245"
   ],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD ASIF",
+    "MST NAZIA RIASAT, ETC."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

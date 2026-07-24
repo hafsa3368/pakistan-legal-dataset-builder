@@ -29,7 +29,12 @@
     "2013 SCMR 1707",
     "PLD 1981 Karachi 750"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Zahid Javaid",
+    "Province of Punjab",
+    "Mr. Khalid Mian",
+    "Ms. Asma Hamid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

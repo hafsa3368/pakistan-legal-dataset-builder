@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No. 172 of 2012",
   "date_of_order": "28.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "Section 382-B Cr.P.C"
@@ -19,7 +19,10 @@
     "2017 SCMR 486",
     "2017 SCMR 2026"
   ],
-  "parties": [],
+  "parties": [
+    "Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

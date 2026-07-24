@@ -8,14 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.D-47 of 2022",
   "date_of_order": "10-05-2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 342 Cr.PC"
   ],
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Imran Shah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

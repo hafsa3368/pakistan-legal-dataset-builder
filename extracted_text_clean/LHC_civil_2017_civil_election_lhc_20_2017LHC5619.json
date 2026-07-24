@@ -8,12 +8,18 @@
   "num_chunks": 4,
   "case_number": "W.P. No.25814 of 2016",
   "date_of_order": "17.02.2015",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 871"
   ],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD QASIM",
+    "GOVERNMENT OF PUNJAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "20.06.2018",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [],
@@ -14,7 +14,14 @@
     "PLD 1971 SC 811",
     "PLD 1966 SC 725"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Wasif Khan",
+    "IG Police",
+    "Malik Muhammad Latif Khokhar",
+    "Mr. Tanveer Haider Buzdar",
+    "Riaz Ali Minhas",
+    "Muhammad Aurangzaib Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

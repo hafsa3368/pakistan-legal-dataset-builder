@@ -6,7 +6,7 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "Intra Court Appeal No.123 of 2014",
   "date_of_order": "22.12.2014",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -20,7 +20,10 @@
     "2013 SCMR 120",
     "PLD 1970 Quetta 115"
   ],
-  "parties": [],
+  "parties": [
+    "Saeed Ahmed Sheerazi",
+    "Government of Punjab etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

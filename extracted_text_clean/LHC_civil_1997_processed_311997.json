@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.1231 of 2022",
   "date_of_order": "04.03.2026",
-  "judge": "",
+  "judge": "Gulsher",
   "sections_cited": [
     "Section 452, 354, 337-A",
     "Section 497"
@@ -16,7 +16,10 @@
   "citations": [
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Sharafuddin Kanhar",
+    "Syeda Farwa Miraj and Rubina Miraj"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

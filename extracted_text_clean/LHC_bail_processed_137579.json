@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1127 of 2017",
   "date_of_order": "20.03.2019",
   "judge": "Tufail/PA",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nazar Muhammad Memon",
+    "SIP Muhammad Khan Panhwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

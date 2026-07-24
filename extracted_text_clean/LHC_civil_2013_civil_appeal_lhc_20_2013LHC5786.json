@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "7th May, 2013",
   "judge": "",
   "sections_cited": [
@@ -24,7 +24,12 @@
     "2004 CLC 671",
     "PLD 2005 Lah 331"
   ],
-  "parties": [],
+  "parties": [
+    "HABIB BANK LIMITED",
+    "PAK POLY PRODUCTS (PVT.) LTD.",
+    "HABIB BANK LIMITED",
+    "PAK POLY PRODUCTS (PVT.) LTD."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "misc no. S",
   "date_of_order": "28.03.2016",
-  "judge": "",
+  "judge": "Athar Za",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Dilawar Hussain",
+    "State",
+    "Mr. Asadullah Lashari",
+    "Pakistan Rangers",
+    "Ali Haider Saleem",
+    "Home Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

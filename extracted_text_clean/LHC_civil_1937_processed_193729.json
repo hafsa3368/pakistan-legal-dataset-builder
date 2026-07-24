@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl. Jail Appeal No. D",
   "date_of_order": "03-05-2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 374 Cr.PC",
     "Section 537 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Roshan @ Roshan s/o Jan Muhammad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

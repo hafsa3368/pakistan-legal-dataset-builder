@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "W.P.No. 19546-2012",
   "date_of_order": "16.11.2015",
-  "judge": "APPROVED FOR REPORTING JUDGE Riaz",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "section 35",
     "section 36",
@@ -33,7 +33,11 @@
     "PLD 2015 SC 6",
     "PLD 2007 SC 79"
   ],
-  "parties": [],
+  "parties": [
+    "Ch. Basharat Ali",
+    "Pakistan Telecommunication Company Limited",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

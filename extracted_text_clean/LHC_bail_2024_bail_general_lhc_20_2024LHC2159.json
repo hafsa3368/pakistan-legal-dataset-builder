@@ -27,7 +27,10 @@
     "PLD 2014 SC 760",
     "PLD 2018 SC 178"
   ],
-  "parties": [],
+  "parties": [
+    "Manzoor Ahmad",
+    "Muhammad Umar Farooq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

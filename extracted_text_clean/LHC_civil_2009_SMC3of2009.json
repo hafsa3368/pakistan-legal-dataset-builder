@@ -6,12 +6,15 @@
   "year": "2009",
   "used_ocr": true,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Suo Mnto Case N203 'f",
   "date_of_order": "04.05.2009",
-  "judge": "",
+  "judge": "Mr Justice Iftikhar Muhammad Chaudhry",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Behria Town",
+    "Forest Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

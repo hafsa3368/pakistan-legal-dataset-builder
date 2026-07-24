@@ -23,7 +23,10 @@
     "PLD 2005 SC 670",
     "PLD 2014 SC 766"
   ],
-  "parties": [],
+  "parties": [
+    "Expo Lahore (Private) Limited",
+    "Excise & Taxation Department, Government of the Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

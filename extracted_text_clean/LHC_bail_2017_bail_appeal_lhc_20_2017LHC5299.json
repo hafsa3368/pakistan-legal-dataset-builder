@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "17.02.2011",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 22",
     "Section 9 of the Ordinance",
@@ -19,7 +19,10 @@
   "citations": [
     "PLD 2004 SC 925"
   ],
-  "parties": [],
+  "parties": [
+    "Appellant",
+    "Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

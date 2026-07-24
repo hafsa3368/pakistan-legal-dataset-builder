@@ -38,7 +38,11 @@
     "PLD 2014 Supreme 6",
     "PLD 2010 Lahore 123"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Junaid Alam",
+    "Federation of Pakistan",
+    "Islamabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

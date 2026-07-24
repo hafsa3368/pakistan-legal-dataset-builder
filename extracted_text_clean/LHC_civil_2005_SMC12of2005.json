@@ -6,12 +6,19 @@
   "year": "2005",
   "used_ocr": true,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "10.10.2005",
   "judge": "Iftikhur Muhuminad Chuudhry",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst Sonia Nazy Sonia Nar Petitiuntr Versts lnspector Gencral of Police, Funjab & othcrs",
+    "Aismiu Jehin HII ASC Aw Mr Zulfiqar Ahted Bhunta ASC Ch Muhammad Akram, AOR Fur Ihu Suate Mr Makhdoum ii Khan, Alttoncy Geucral For Pakistan aw Mr Khuram Mumtaz ASC Mr Afiab Ch., AG, (Pb Ms Afshan Glazunfar, AAG Fur Ihe Respondents",
+    "Rai Muhamatnd Nawaz Kharal, ASC Ch Rtasat Alt, ASC Ch Abdullah Khalid, SP Jamished Iqbal Chishti, Inspeetor Datc cf hcaningi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

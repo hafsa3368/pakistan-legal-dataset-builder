@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Criminal Appeal No.62 of 1999",
   "date_of_order": "17.06.2015",
-  "judge": "JUDGE",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "section 9",
     "Section 382-B of The Code",
@@ -30,7 +30,13 @@
     "PLD 2005 Lahore 377",
     "PLD 2015 Lahore 1"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. IRSHAD BEGUM alias SHADAN",
+    "THE STATE",
+    "AFTAB alias GUDDU",
+    "SAJJAD AHMAD JAVED Bhatti",
+    "Consulate of Pakistan Jaddha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.S-29 of 2023",
   "date_of_order": "17.04.2023",
-  "judge": "",
+  "judge": "Mrs. Reshma Zangejo",
   "sections_cited": [
     "Section 382-B Cr.PC"
   ],
   "citations": [
     "1999 SCMR-2589"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Younis",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

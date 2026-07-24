@@ -9,7 +9,10 @@
   "case_number": "construed and complied with as such... 9. Another",
   "date_of_order": "12.12.2018",
   "judge": "RASAAL HASAN SYED",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2008 SCMR 1939",
     "2015 SCMR 1044",
@@ -17,7 +20,10 @@
     "PLD 2011 SC 241",
     "PLD 2005 Lahore 654"
   ],
-  "parties": [],
+  "parties": [
+    "Farooq Hanif",
+    "Muhammad Ibrahim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

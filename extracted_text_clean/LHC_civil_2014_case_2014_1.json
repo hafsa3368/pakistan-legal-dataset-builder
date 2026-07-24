@@ -6,9 +6,12 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": [
+    "Cr. Transfer App. No. S-24 of 2022",
+    "Cr. Transfer App. No. S-25 of 2022"
+  ],
   "date_of_order": "29.05.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 302, 324, 148, 149, 337-F",
     "Section 24 of Sindh Arms Act"

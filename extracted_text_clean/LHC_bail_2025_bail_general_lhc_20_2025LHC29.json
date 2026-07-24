@@ -9,13 +9,21 @@
   "case_number": "W.P. No. 485 of 2025",
   "date_of_order": "08.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 392 PPC"
+  ],
   "citations": [
     "1993 P Cr. L J 2065",
     "PLD 2001 Lahore 459",
     "PLD 1999 Karachi 134"
   ],
-  "parties": [],
+  "parties": [
+    "Miraj Zubair",
+    "RPO, etc.",
+    "Hafeez S.I",
+    "Nawaz S.I",
+    "Syed Ali Raza Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "WP No.5735 of 2014",
   "date_of_order": "08.06.2018",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -24,7 +24,12 @@
     "2006 SCMR 590",
     "2016 SCMR 1821"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Shamim and Company",
+    "Punjab Labour Appellate Tribunal etc",
+    "Malik Sohail Ashiq Shajra",
+    "Ch. Saleem Akhtar Warriach"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

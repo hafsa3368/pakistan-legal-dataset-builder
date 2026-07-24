@@ -8,12 +8,22 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 551 of 2023",
   "date_of_order": "15.06.2023",
-  "judge": "",
+  "judge": "Ahteshamullah Khan",
   "sections_cited": [
     "Section 498 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Faisal",
+    "Fahad",
+    "Abdul Hameed",
+    "The State",
+    "Ms. Rubina Qadir",
+    "M/s Muhammad Aslam Bhutta",
+    "M. Zareef Khan",
+    "Mazhar Larik",
+    "Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

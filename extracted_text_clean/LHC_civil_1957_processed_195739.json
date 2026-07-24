@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "Constt.Petition No.D-289 of 2023",
   "date_of_order": "17.05.2023",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naseer Ahmed",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "22.01.2015",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL",
   "sections_cited": [
     "Section 151 of CPC",
     "Section 8"
@@ -30,7 +30,10 @@
     "2006 SCMR 899",
     "PLD 1998 SC 363"
   ],
-  "parties": [],
+  "parties": [
+    "Nadeem Tariq",
+    "Full Board, Board of Revenue (Member Judl-V & VIII), Punjab, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

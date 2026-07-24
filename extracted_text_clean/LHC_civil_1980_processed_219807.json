@@ -8,14 +8,19 @@
   "num_chunks": 3,
   "case_number": "Constitution Petition No.D-3934 of 2024",
   "date_of_order": "23.09.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Naimatullah Phulpoto",
+  "sections_cited": [
+    "u/s 173 Cr.PC"
+  ],
   "citations": [
     "2014 SCMR 1499",
     "1972 SCMR 335",
     "2006 SCMR 373"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Rasool Mangi",
+    "Mr. Sardar Mushtaque Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

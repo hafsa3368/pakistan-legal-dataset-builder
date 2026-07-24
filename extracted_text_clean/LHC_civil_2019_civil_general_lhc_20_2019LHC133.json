@@ -24,7 +24,12 @@
     "PLD 2007 Karachi 139",
     "PLD 2013 Lahore 343"
   ],
-  "parties": [],
+  "parties": [
+    "Ahmad Mehmood",
+    "The Government of Punjab",
+    "Chief Secretary",
+    "TEVTA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

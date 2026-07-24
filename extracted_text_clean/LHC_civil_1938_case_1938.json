@@ -6,12 +6,21 @@
   "year": "1938",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "01.02.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Mehfooz Ahmed Awan",
+    "Advocate for Respondent No 2",
+    "Mr. Ateeq-ur Rehman Soomro, Advocate for Respondent No g",
+    "Mr Ali Raza Balouch",
+    "AAG H"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

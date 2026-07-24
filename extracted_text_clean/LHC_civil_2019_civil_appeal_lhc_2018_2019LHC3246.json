@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Criminal Appeal No. 134 of 2019",
   "date_of_order": "25.09.2019",
-  "judge": "JUDGE Raheel",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 9",
     "Section 382",
@@ -32,7 +32,11 @@
     "2008 SCMR 345",
     "PLD 2009 SC 39"
   ],
-  "parties": [],
+  "parties": [
+    "Nishat Ahmad",
+    "The State and another",
+    "Ch. Umar Hayat and Shafqat Raza Thaheem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

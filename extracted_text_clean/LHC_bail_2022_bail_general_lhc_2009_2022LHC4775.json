@@ -37,7 +37,11 @@
     "PLD 2020 Lahore 205",
     "PLD 2005 LHR 79"
   ],
-  "parties": [],
+  "parties": [
+    "Bilal Azam",
+    "Muhammad Haq Nawaz",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

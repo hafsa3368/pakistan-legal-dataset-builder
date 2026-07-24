@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Writ Petition No.7195 of 2018",
   "date_of_order": "27.08.2018",
   "judge": "Asjad Javaid Ghural",
   "sections_cited": [
@@ -21,7 +21,16 @@
     "Section 167 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Umar Hameed",
+    "Asad Aslam",
+    "Salman",
+    "Ch. Riaz Ahmad",
+    "Sardar Zafar Iqbal Tareen",
+    "Ch. Saeed Ahmed",
+    "AAG for the State",
+    "Ch. Manzoor Ahmed Warraich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

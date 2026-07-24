@@ -8,8 +8,11 @@
   "num_chunks": 6,
   "case_number": "W.P. No. 3732 of 2017",
   "date_of_order": "20.9.2017",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "JAWAD HASSAN",
+  "sections_cited": [
+    "Art. 199--Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2003 YLR 3097",
     "2003 CLC 400",
@@ -17,7 +20,9 @@
     "2009 SCMR 1243",
     "PLD 1981 SC 522"
   ],
-  "parties": [],
+  "parties": [
+    "JAWAD HASSAN vs ADDITIONAL DISTRICT JUDGE SHAH KOT, DISTRICT NANKANA SAHIB & 2 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

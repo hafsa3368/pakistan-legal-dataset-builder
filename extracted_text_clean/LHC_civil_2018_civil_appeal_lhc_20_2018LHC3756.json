@@ -8,13 +8,19 @@
   "num_chunks": 5,
   "case_number": "W.P. No.14327 of 2013",
   "date_of_order": "17.03.2008",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 SCMR 98",
     "2004 SCMR 149"
   ],
-  "parties": [],
+  "parties": [
+    "INAM-UL-HAQ",
+    "ALLIED BANK LIMITED"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

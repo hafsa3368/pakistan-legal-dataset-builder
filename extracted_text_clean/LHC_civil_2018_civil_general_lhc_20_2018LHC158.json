@@ -9,7 +9,10 @@
   "case_number": "W.P. No.109335 of 2017",
   "date_of_order": "03.01.2018",
   "judge": "JAWAD HASSAN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 SCMR 1864",
     "2015 SCMR 1418",
@@ -17,7 +20,11 @@
     "PLD 2017 Lahore 406",
     "PLD 2017 Lahore 68"
   ],
-  "parties": [],
+  "parties": [
+    "Aamir Tufail Chaudhary",
+    "Government of Punjab",
+    "2 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

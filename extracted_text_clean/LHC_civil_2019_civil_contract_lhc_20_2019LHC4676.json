@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "R.F.A. No. 1521 of 2014",
   "date_of_order": "01.07.2014",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 22",
     "section 10 of the Ordinance",
@@ -18,7 +18,10 @@
     "Section 9 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Meco (PVT.) LIMITED and others",
+    "NATIONAL BANK OF PAKISTAN"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

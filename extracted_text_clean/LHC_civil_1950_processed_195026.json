@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No. D",
   "date_of_order": "09.5.2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 48",
     "Section 9",
@@ -24,7 +24,10 @@
     "2012 SCMR 577",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Gulzar Ali son of Hubdar alias Qurban Ali Solangi/Shaikh",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

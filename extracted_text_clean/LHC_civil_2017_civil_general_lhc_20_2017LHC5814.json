@@ -6,14 +6,20 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "WP No.10317 of 2015",
   "date_of_order": "08.06.2017",
-  "judge": "",
+  "judge": "Mr. Aurangzaib Ghuman",
   "sections_cited": [
     "Section 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amtal Sabour",
+    "Deputy Director (E.M.) PHATA region, Multan etc",
+    "Mr. Muhammad Javaid Saeed Pirzada",
+    "Masood Ahmad",
+    "Naziran Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

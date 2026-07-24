@@ -24,7 +24,11 @@
     "PLD 1979 Lahore 79",
     "PLD 2006 SC 394"
   ],
-  "parties": [],
+  "parties": [
+    "Tahir Munir Malik",
+    "Province of Punjab",
+    "PHA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

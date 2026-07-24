@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "16.03.2011",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 22",
     "section 12",
@@ -24,7 +24,10 @@
   "citations": [
     "2001 SCMR 286"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammad Khalid Naeem",
+    "Habib Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

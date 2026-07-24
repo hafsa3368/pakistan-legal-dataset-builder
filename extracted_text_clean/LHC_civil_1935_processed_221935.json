@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Anti-Terrorism Appeals No. 195",
   "date_of_order": "19.09.2024",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto Mr",
   "sections_cited": [
     "sections 302, 186, 324, 353, 393, 34 PPC",
     "Section 7",
@@ -22,7 +22,13 @@
     "Section 304"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muzamil @ Mitho",
+    "Faisal @ Salman @ Lecture",
+    "Sheeraz Ali @ CG",
+    "Shahmeer @ Shamir Ali @ Nakri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

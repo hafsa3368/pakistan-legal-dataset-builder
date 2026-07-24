@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 5,
   "case_number": "Crl. Misc. No. 8811-B/2013",
-  "date_of_order": "",
+  "date_of_order": "15.08.2013",
   "judge": "Aalia Neelum",
   "sections_cited": [
     "sections 302/324/337-A",
@@ -18,7 +18,10 @@
   "citations": [
     "2009 SCMR 1202"
   ],
-  "parties": [],
+  "parties": [
+    "Naeem Anwar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

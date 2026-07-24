@@ -8,12 +8,16 @@
   "num_chunks": 1,
   "case_number": "Criminal Bail Application No. 1042 of 2023",
   "date_of_order": "27.06.2023",
-  "judge": "",
+  "judge": "Mr. Zakir Hussain Bughio",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saleem Khan",
+    "The State",
+    "Aitbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

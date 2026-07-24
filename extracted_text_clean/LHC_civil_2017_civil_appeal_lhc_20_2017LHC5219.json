@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Civil Appeal No. 84 of 2017",
   "date_of_order": "27.10.2014",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 22",
     "section 50 of the Civil Procedure Code"
@@ -18,7 +18,10 @@
     "2016 MLD 493",
     "PLD 2011 Lahore 284"
   ],
-  "parties": [],
+  "parties": [
+    "Musummam Sharif and others",
+    "Muslim Commercial Bank Limited and 5 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

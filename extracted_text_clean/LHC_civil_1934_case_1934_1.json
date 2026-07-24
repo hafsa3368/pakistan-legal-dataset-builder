@@ -6,12 +6,23 @@
   "year": "1934",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A.No. 475 of 2019",
   "date_of_order": "19.12.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Athar Zai",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Bashiruddin",
+    "Muhammad Razeeuddin",
+    "Mst. Shafqat Yassmeen",
+    "Muhammad Rizwanuddin",
+    "Mst. Shagufta Jabeen",
+    "Muhammad Shafi-ul-Bari",
+    "Shaheer Muhammad Bari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

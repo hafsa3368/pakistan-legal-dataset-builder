@@ -38,7 +38,13 @@
     "PLD 2003 Karachi 495",
     "PLD 1990 SC 1092"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem",
+    "Province of Punjab",
+    "Malik Noor Muhammad Awan",
+    "Mr. Usman Haider",
+    "TMA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

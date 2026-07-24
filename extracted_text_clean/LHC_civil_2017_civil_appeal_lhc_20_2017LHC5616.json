@@ -8,12 +8,17 @@
   "num_chunks": 4,
   "case_number": "Constitution could not",
   "date_of_order": "17.05.2017",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2005 SCMR 445"
   ],
-  "parties": [],
+  "parties": [
+    "GOVERNMENT OF PUNJAB",
+    "JAVED AHMAD RIAZ"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

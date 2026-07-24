@@ -6,12 +6,17 @@
   "year": "1942",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D-278 of 2023",
   "date_of_order": "10.05.2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Arbab Ali Hakro",
+    "petitioner",
+    "Javed Ali Gopang, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

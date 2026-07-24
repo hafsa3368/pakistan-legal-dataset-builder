@@ -32,7 +32,10 @@
     "PLD 1989 Karachi 404",
     "PLD 2013 SC 501"
   ],
-  "parties": [],
+  "parties": [
+    "Imran Ahmad Khan Niazi",
+    "Syed Asim Ghaffar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

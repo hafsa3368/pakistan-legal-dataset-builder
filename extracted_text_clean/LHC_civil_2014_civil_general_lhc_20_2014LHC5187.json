@@ -30,7 +30,11 @@
     "PLD 1966 SC 445",
     "PLD 2011 SC 132"
   ],
-  "parties": [],
+  "parties": [
+    "Noor Badshah",
+    "The United Bank Limited",
+    "State Bank of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

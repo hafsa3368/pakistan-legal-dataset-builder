@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "Criminal Appeal No.450 of 2018",
   "date_of_order": "19.09.2019",
-  "judge": "JUDGE Raheel",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 9",
     "Section 382",
@@ -33,7 +33,11 @@
     "PLD 2009 SC 39",
     "PLD 2012 SC 380"
   ],
-  "parties": [],
+  "parties": [
+    "Khalid Razzaq",
+    "The State",
+    "Ch. Muhammad Akbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

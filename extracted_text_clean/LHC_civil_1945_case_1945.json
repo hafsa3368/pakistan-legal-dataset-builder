@@ -6,12 +6,20 @@
   "year": "1945",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D-672 of 2023",
   "date_of_order": "18.05.2023",
   "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 496-A, 34 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aneel Kumar (associate of Mr. Ghulamullah Chang)",
+    "Mr. Allah Bachayo Soomro (Addl. AG Sindh)",
+    "Mr. Nazar Muhammad Memon (Addl.P.G Sindh)",
+    "Inspector Muhammad Nadeem Arain PS Khipro",
+    "Mr. Muhammad Raheem Gaju (advocate)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

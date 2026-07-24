@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Appeal No.266-J of 2010",
   "date_of_order": "03-02-2015",
-  "judge": "",
+  "judge": "MIRZA VAQAS RAUF",
   "sections_cited": [
     "Section 9-C",
     "Section 382 of The Code",
@@ -26,7 +26,10 @@
     "1995 MLD 1237",
     "2008 SCMR 1254"
   ],
-  "parties": [],
+  "parties": [
+    "Asif Khan and Ashraf alias Javed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

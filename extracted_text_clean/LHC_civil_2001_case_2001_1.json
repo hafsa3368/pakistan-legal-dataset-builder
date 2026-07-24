@@ -6,14 +6,16 @@
   "year": "2001",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.B.A.No.S-285 of 2022",
+  "date_of_order": "22-03-2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [
     "Section 33 of the EOBI Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Illahi Bux Maitlo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

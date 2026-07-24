@@ -8,10 +8,14 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No. 210 of 2021",
   "date_of_order": "20.06.2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Raju",
+    "Yaseen and another",
+    "the state"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

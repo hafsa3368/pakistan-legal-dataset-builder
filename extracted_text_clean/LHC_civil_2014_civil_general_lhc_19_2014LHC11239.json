@@ -6,9 +6,9 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2014",
   "date_of_order": "27.11.2014",
-  "judge": "",
+  "judge": "Mirza Viqas Rauf",
   "sections_cited": [
     "section 491 Cr.P.C",
     "section 7 & 25",
@@ -22,7 +22,10 @@
     "PLD 2014 Sindh 386",
     "PLD 1997 SC 852"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Fahmida",
+    "Sajj ad Ashraf and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

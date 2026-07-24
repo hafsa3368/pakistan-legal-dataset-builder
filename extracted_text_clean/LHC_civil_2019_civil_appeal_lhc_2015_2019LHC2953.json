@@ -9,12 +9,18 @@
   "case_number": "Civil Rev. No.93336 of 2017",
   "date_of_order": "17.10.2017",
   "judge": "RASAAL HASAN SYED",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR 2022",
     "PLD 1970 SC 139"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yousaf",
+    "Ch. Tajammal Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

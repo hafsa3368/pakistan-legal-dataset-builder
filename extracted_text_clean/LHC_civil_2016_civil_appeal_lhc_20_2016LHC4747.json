@@ -6,15 +6,18 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "R.F.A. No. 267 of 2013",
   "date_of_order": "10.10.2010",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 9",
     "section 10"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Qalab Hussain",
+    "Faysal Bank and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

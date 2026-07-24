@@ -33,7 +33,11 @@
     "2015 SCMR 311",
     "PLD 2012 Lahore 1"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Aurangzeb",
+    "Naveed Mohsin",
+    "Mumtaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

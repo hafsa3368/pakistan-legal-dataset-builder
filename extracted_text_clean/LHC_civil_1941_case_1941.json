@@ -31,7 +31,11 @@
     "2010 SCMR 1791",
     "PLD 2017 SC 152"
   ],
-  "parties": [],
+  "parties": [
+    "Sarfraz Uner",
+    "The State",
+    "Bahadur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

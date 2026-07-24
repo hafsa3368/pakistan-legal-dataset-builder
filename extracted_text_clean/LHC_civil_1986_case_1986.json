@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-4827 of 2016",
-  "date_of_order": "",
+  "date_of_order": "09-08-2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sundar Khan Chachar, Advocate for petitioner in C.P.No.D-4827 of 2016",
+    "Mr. Irshad Hussain Dharejo, Advocate / Legal Advisor, BISE, Sukkur along with Muhammad Salman, Secretary, BISE, Sukkur",
+    "Mr. Zulfiqar Ali Naich, Assistant Advocate General-Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

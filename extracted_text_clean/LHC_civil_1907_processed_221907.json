@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No. 1145 of 2024",
   "date_of_order": "18.09.2024",
-  "judge": "JUDGE Wasim ps",
+  "judge": "Naimatullah Phulpoto Mr",
   "sections_cited": [
     "Sections 409, 420, 468, 471, 477-A, 109, 34 PPC",
     "Section 161 Cr.P.C"
@@ -20,7 +20,12 @@
     "2015 YLR 1446",
     "2000 MLD 1572"
   ],
-  "parties": [],
+  "parties": [
+    "Pir Riaz Muhammad Shah DAG",
+    "M/s. Tahir Mehmood and Arifullah Khan advocates",
+    "Complainant (Fahad Butt)",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

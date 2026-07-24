@@ -6,12 +6,20 @@
   "year": "1919",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 396 of 2018",
   "date_of_order": "25.09.2020",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Asif Jameel Ansari",
+    "Mrs. Farrukh Aslam",
+    "Ms. Faria Farhan",
+    "Ms. Amna Owais Farooq",
+    "Isra Asif Ansari",
+    "Master Akhtar Jameel Ansari",
+    "Master Hassan Jameel Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

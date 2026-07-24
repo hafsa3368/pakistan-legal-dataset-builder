@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No. S",
   "date_of_order": "24-05-2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 382-B Cr.PC",
     "Section 342 Cr.PC"
@@ -18,7 +18,14 @@
     "2009 SCMR 120",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Israr son of Muhammad Ayaz Channo",
+    "The State",
+    "Rizwan son of Shahanshah Syed",
+    "Mushtaque Ali son of Mumtaz Ali Siyal",
+    "The State",
+    "Ashfaque Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

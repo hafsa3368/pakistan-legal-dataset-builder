@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Civil Court has no jurisdiction",
   "date_of_order": "21.10.2015",
-  "judge": "",
+  "judge": "CH. MUHAMMAD IQBAL",
   "sections_cited": [
     "Section 3",
     "Section 3 of the Repeal Act",
@@ -21,7 +21,17 @@
     "2015 SCMR 1449",
     "PLD 1976 SC 208"
   ],
-  "parties": [],
+  "parties": [
+    "Daula Masih",
+    "Sheikh Fazal Karim",
+    "Member Judicial-V, BOR/CSC, Punjab",
+    "Notified Officer, Punjab",
+    "Mr. Parvez I. Mir",
+    "Mr. Mahmood A. Sheikh",
+    "Mst. Rashida Begum",
+    "Khadim Hussain",
+    "Ghulam Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

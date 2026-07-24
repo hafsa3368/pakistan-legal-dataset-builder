@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Writ Petition No.17681 of 2015",
   "date_of_order": "29.06.2015",
   "judge": "Syed Shahbaz Ali Rizvi",
   "sections_cited": [
@@ -21,7 +21,10 @@
   "citations": [
     "PLD 2009 SC 11"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Akbar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

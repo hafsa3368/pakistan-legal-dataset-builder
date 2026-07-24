@@ -8,10 +8,13 @@
   "num_chunks": 3,
   "case_number": "Crl. Acquittal Appeal.No.D-19 of 2022",
   "date_of_order": "18.04.2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sanwal",
+    "Manzoor Ahmed & Ors"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

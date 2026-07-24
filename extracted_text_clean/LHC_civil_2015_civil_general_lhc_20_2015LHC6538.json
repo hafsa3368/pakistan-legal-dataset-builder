@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "15.10.2015",
   "judge": "Syed Shahbaz Ali Rizvi",
   "sections_cited": [
@@ -18,7 +18,11 @@
     "Sections 161 & 164 of the Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Nusrat Jan",
+    "Asghar Khan",
+    "Gull Hameed Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

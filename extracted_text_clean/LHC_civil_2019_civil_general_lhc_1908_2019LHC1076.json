@@ -16,7 +16,10 @@
     "PLD 1967 DACCA 512",
     "PLD 1972 Karachi 617"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Majeed",
+    "Additional District Judge, Shujabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

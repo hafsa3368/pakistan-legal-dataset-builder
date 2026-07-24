@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "26.04.2018",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -17,7 +17,10 @@
     "1994 SCMR 1991",
     "2006 SCMR 21"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Razzaq",
+    "Muhammad Ajmal Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.D-03 of 2022",
   "date_of_order": "02.05.2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 382-B Cr.PC",
     "Section 4"
@@ -16,7 +16,10 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "HC Abdul Qadir s/o Habibullah Chandio",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

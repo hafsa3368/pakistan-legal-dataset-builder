@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Appeal No 218",
   "date_of_order": "30.01.2015",
-  "judge": "",
+  "judge": "Abdul Ghafar",
   "sections_cited": [
     "Sections 302, 148, 149 and 1O9 PPC",
     "Section 544-A",
@@ -18,7 +18,14 @@
     "sections 1S4 & 1o1 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Ihraheem alias Ahraham alias Haman",
+    "Emanuel Pehlwan",
+    "Imdad Ali Naikokar",
+    "Muhammad Tanveer",
+    "Rustam C Qaiseer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

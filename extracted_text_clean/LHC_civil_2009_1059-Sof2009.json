@@ -6,12 +6,18 @@
   "year": "2009",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2009",
   "date_of_order": "06.07.2009",
   "judge": "Iftikhar Muhammad Chaudhry",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Javed Chandio",
+    "Mst Najma",
+    "Ghulam Nabi Khairio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "",
+  "case_number": "EFA No.15 of 2022",
   "date_of_order": "09.05.2023",
   "judge": "TARIQ SALEEM SHEIKH",
   "sections_cited": [
@@ -26,7 +26,12 @@
     "2002 YLR 2541",
     "PLD 2000 Lahore 290"
   ],
-  "parties": [],
+  "parties": [
+    "Atta Muhammad",
+    "Zarai Taraqiati Bank Ltd.",
+    "Rana Muhammad Nazir Khan Saeed",
+    "Rao Riasat Ali Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

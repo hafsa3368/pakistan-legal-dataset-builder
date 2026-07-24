@@ -33,7 +33,11 @@
     "PLD 1964 Dacca 166",
     "PLD 1958 SC 221"
   ],
-  "parties": [],
+  "parties": [
+    "Hassan Baksh",
+    "Sultan",
+    "Rana Muhammad Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

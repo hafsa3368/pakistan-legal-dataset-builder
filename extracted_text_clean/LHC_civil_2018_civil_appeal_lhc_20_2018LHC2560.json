@@ -8,7 +8,7 @@
   "num_chunks": 21,
   "case_number": "civil petition No.645 of 1980",
   "date_of_order": "27.09.2018",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "section 12 CPC",
     "Section 10 & 11 of the Land Settlement Act",
@@ -37,7 +37,16 @@
     "PLD 2009 SC 419",
     "PLD 2005 SC 347"
   ],
-  "parties": [],
+  "parties": [
+    "Abdur Rashid (deceased)",
+    "Mst. Sultana Begum",
+    "Payaray Khan etc.",
+    "Allah Wasaya",
+    "Ch. Muhammad Ismail",
+    "Raj s/o Ranjha",
+    "Nazar s/o Wallayat",
+    "Mst. Shah Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

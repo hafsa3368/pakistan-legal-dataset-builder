@@ -6,7 +6,7 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "14.05.2014",
   "judge": "Faisal Zaman Khan",
   "sections_cited": [
@@ -29,7 +29,11 @@
     "PLD 1976 SC 469",
     "PLD 2007 Lah 300"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Ghulam Rasool",
+    "M/s Rasal Hassan Syed Advocate and Imran Muhammad Sarwar Advocate",
+    "Faisal Zaman Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

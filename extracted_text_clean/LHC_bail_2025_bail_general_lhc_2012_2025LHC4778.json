@@ -17,7 +17,11 @@
     "2009 YLR 1831",
     "PLD 2012 Lahore 415"
   ],
-  "parties": [],
+  "parties": [
+    "Shahbaz Mustafa",
+    "Muhammad Mushtaq",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

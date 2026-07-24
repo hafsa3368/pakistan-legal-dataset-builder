@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Service Appeal No.18 of 2011",
   "date_of_order": "08.04.2016",
-  "judge": "",
+  "judge": "FAISAL ZAMAN KHAN",
   "sections_cited": [
     "Section 5 of the Punjab Subordinate Judiciary Service Tribunal Act"
   ],
@@ -16,7 +16,10 @@
     "2007 SCMR 1086",
     "PLD 2013 SC 255"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Haseeb Sheikh",
+    "The Registrar, Lahore High Court, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

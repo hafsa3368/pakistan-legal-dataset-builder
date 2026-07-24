@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Transfer Application No.36 of 2022",
   "date_of_order": "28.04.2023",
-  "judge": "",
+  "judge": "ZAFAR AHMED RAJPUT",
   "sections_cited": [
     "Sections 302, 149"
   ],
   "citations": [
     "2020 SCMR 1243"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Naeemuddin Chachar and Abdul Jabbar Siyal",
+    "Mr. Muhammad Suleman Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

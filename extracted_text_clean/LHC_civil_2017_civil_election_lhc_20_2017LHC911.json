@@ -8,12 +8,16 @@
   "num_chunks": 6,
   "case_number": "W.P. Nos",
   "date_of_order": "13.02.2017",
-  "judge": "",
+  "judge": "CH. MUHAMMAD IQBAL",
   "sections_cited": [
     "Section 16 of the PIDA Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farmers Organization of Peer Mahal Distributary",
+    "Government of Punjab",
+    "Punjab Irrigation & Drainage Authority (PIDA)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

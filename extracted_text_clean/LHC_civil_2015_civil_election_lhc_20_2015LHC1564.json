@@ -9,7 +9,10 @@
   "case_number": "W.P.No.9077/2013",
   "date_of_order": "25.03.2015",
   "judge": "FAISAL ZAMAN KHAN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2009 SCMR 61",
     "2007 SCMR 54",
@@ -22,7 +25,19 @@
     "PLD 2014 SC 585",
     "PLD 2010 SC 483"
   ],
-  "parties": [],
+  "parties": [
+    "Fazal Ahmad Ranjha etc.",
+    "Govt. of the Punjab etc.",
+    "Hafiz Tariq Nasim",
+    "Malik Saleem Iqbal Awan",
+    "Malik Nisar Ahmad Khokhar",
+    "Mr. Muhammad Azeem Malik",
+    "Rana M. Younas",
+    "Mr. Gulzar Ahmad",
+    "Mr. Zubair Shahid",
+    "Mr. Waqar A. Sheikh",
+    "Faisal Zaman Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

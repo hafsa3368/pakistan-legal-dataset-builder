@@ -8,8 +8,15 @@
   "num_chunks": 7,
   "case_number": "criminal case against the Respondent No.6",
   "date_of_order": "15.05.2012",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Art.199 of the Constitution",
+    "Article 199 of the Constitution",
+    "Public Service Commission and others v. Muhammad Arif and others 2011 SCMR 848 rel (b)",
+    "Judicial Review of Public Action by Mr. Justice (R) Fazal Karim at page 977 Volume 2 rel"
+  ],
   "citations": [
     "2014 SCMR 122",
     "2011 SCMR 848",

@@ -6,8 +6,8 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Writ Petition No. 9210 of 2013",
+  "date_of_order": "16.4.2013",
   "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
     "section 30",
@@ -25,7 +25,10 @@
     "PLD 1976 SC 214",
     "PLD 1981 SC 259"
   ],
-  "parties": [],
+  "parties": [
+    "Amir Saleem",
+    "Mr. Irshad Hussain Wattoo, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

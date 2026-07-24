@@ -30,7 +30,11 @@
     "PLD 1977 SC 397",
     "PLD 1993 SC 473"
   ],
-  "parties": [],
+  "parties": [
+    "Water & Power Development Authority",
+    "Excise and Taxation Department, Government of the Punjab",
+    "Federal Government"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

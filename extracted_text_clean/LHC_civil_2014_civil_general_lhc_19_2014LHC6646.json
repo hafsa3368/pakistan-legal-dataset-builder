@@ -35,7 +35,13 @@
     "PLD 2004 SC 99",
     "PLD 2001 SC 142"
   ],
-  "parties": [],
+  "parties": [
+    "Sui Northern Gas Pipelines Ltd.",
+    "Lahore Electricity Supply Company",
+    "Wafaqi Mohtasib",
+    "Oil & Gas Regulatory Authority Ordinance 2002",
+    "NEPRA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

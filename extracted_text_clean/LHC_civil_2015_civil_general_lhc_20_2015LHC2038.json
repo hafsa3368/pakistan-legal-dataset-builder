@@ -6,10 +6,12 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2011",
   "date_of_order": "09.03.2015",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ch. Muhammad Iqbal",
+  "sections_cited": [
+    "U/S 35-A of CPC"
+  ],
   "citations": [
     "2014 SCMR 914",
     "2014 SCMR 922",
@@ -19,7 +21,10 @@
     "2014 YLR 191",
     "2013 YLR 1017"
   ],
-  "parties": [],
+  "parties": [
+    "Shahid Hussain etc.",
+    "Ibrar Ali etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "R.F.A. No. 1190 of 2016",
   "date_of_order": "24.09.2016",
-  "judge": "",
+  "judge": "Masud Abid Naqvi",
   "sections_cited": [
     "section 118 of the Negotiable Instruments Act",
     "section 118 of the Act"
@@ -18,7 +18,10 @@
     "2014 CLC 1001",
     "2015 MLD 890"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Majed Akhtar",
+    "Muhammad Zaeeshan Shoukat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

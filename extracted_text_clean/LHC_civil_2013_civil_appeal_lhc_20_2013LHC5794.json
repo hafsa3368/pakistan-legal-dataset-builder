@@ -6,10 +6,13 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "3.10.2013",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abid Aziz Sheikh",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1980 CLC 1636",
     "1999 NLR 975",
@@ -18,7 +21,10 @@
     "PLD 1979 Note 10",
     "PLD 1978 Karachi 472"
   ],
-  "parties": [],
+  "parties": [
+    "BANK OF PUNJAB",
+    "SIKANDAR HAYAT KHAN and 3 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

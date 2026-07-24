@@ -23,7 +23,11 @@
     "2000 SCMR 1588",
     "PLD 2018 SC 698"
   ],
-  "parties": [],
+  "parties": [
+    "Mubashir Hussain",
+    "Syed Hussain Abbas",
+    "Syed Hassan Jahanyan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

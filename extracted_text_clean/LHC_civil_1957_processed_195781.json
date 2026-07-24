@@ -8,14 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No.S",
   "date_of_order": "18-05-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 342 Cr.PC",
     "Section 302",
     "Section 382-B Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ramzan s/o Muhammad Mithal Soomro",
+    "The State",
+    "Manzoor Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. D",
   "date_of_order": "16-05-2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 382",
     "Section 537 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Arif Iqbal s/o Shah Muhammad Chandio",
+    "Through Mr.Rukhsar Ahmed Junejo, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

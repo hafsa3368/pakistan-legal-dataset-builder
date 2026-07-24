@@ -35,7 +35,10 @@
     "PLD 2016 SC 377",
     "PLD 2014 Sindh 224"
   ],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "Iftikhar Rasool Anjum"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

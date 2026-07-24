@@ -8,7 +8,7 @@
   "num_chunks": 22,
   "case_number": "Crl. Misc. No.1979-B/2024",
   "date_of_order": "09.05.2024",
-  "judge": "JUDGE Approved for Reporting JUDGE JUDGE Riaz",
+  "judge": "SYED SHAHBAZ ALI RIZVI",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Sections 324, 353, 186, 337-H, 148 & 149 PPC",
@@ -30,7 +30,11 @@
     "PLD 2002 SC 590",
     "PLD 2005 Lahore 470"
   ],
-  "parties": [],
+  "parties": [
+    "Rahat Abbas",
+    "The State",
+    "Muhammad Ali Butt"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

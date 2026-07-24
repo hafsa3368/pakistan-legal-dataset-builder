@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 01 of 2023",
   "date_of_order": "07.06.2023",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 376 PPC",
     "Section 537 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Fareed Ahmed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

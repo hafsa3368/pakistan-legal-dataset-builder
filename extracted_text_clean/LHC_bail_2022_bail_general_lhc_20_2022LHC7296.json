@@ -27,7 +27,13 @@
     "PLD 2022 SC 112",
     "PLD 2022 SC 551"
   ],
-  "parties": [],
+  "parties": [
+    "Riaz Shah",
+    "The State",
+    "Amir Ali Shah",
+    "Zafar Hussain",
+    "Shaukat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

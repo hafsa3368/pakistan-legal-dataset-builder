@@ -18,7 +18,10 @@
     "2000 SCMR 312",
     "PLD 2011 SC 116"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "accused Fareed Anwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

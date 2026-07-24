@@ -37,7 +37,12 @@
     "PLD 2005 SC 670",
     "PLD 2014 SC 766"
   ],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "Executive District Officer (Revenue), Multan",
+    "Muhammad Yousaf Virk",
+    "Shahid Karim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

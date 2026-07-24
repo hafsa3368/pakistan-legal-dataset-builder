@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "W.P. No. 38130 of 2015",
   "date_of_order": "17.10.2016",
-  "judge": "",
+  "judge": "Khalil-ur-Rehman",
   "sections_cited": [
     "Section 26 of Electricity Act",
     "Section 26 of the Electricity Act",
@@ -18,7 +18,10 @@
     "Section 45 of NEPRA Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "ABID AZIZ SHEIKH",
+    "TAJ INTERNATIONAL (PVT.) LTD."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

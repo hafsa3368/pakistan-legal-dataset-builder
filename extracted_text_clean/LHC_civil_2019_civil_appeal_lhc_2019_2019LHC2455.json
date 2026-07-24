@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 9,
   "case_number": "Civil Revision No.850-D of 2019",
-  "date_of_order": "",
+  "date_of_order": "24.7.2019",
   "judge": "RASAAL HASAN SYED",
   "sections_cited": [],
   "citations": [
@@ -16,7 +16,10 @@
     "2016 SCMR 1225",
     "PLD 1990 SC 642"
   ],
-  "parties": [],
+  "parties": [
+    "Zahid Islam",
+    "Mst. Rehmat Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

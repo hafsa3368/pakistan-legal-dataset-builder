@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "13.03.2019",
   "judge": "Asim Hafeez",
   "sections_cited": [
@@ -25,7 +25,11 @@
     "1994 SCMR 2189",
     "PLD 2003 SC 191"
   ],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "ZIA UL HAQ NOON",
+    "Sheikh Allah Ditta Sethi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

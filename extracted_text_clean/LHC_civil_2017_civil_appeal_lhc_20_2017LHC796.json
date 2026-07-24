@@ -29,7 +29,10 @@
     "PLD 2015 Lahore 426",
     "PLD 2015 Lahore 1"
   ],
-  "parties": [],
+  "parties": [
+    "Husnain Riaz",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

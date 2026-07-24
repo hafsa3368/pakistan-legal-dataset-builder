@@ -8,10 +8,16 @@
   "num_chunks": 3,
   "case_number": "Crl. Acquittal Appeal.No.D-21 of 2019",
   "date_of_order": "02.05.2023",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Muhammad",
+    "Abdul Razzaque & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

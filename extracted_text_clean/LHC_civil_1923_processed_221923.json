@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Anti-Terrorism Appeals No. 167",
   "date_of_order": "21.08.2024",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto Mr",
   "sections_cited": [
     "Sections 353, 324, 34 PPC",
     "Section 7",
@@ -25,7 +25,13 @@
     "2024 MLD 134",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Haji Muhammad",
+    "The State through Mr. Ali Haider Saleem",
+    "Mr. Justice Naimatullah Phulpoto",
+    "Mr. Justice Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

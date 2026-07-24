@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 7,
   "case_number": "Civil Servants ICA No.733/2015",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "22.6.2015",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 21",
     "Section 4 of the Punjab Service Tribunals Act",
@@ -22,7 +22,12 @@
     "2015 SCMR 456",
     "PLD 1992 SC 207"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abid Saqi",
+    "Malik Abdul Aziz Awan",
+    "Shahzad Habibi",
+    "Zubair Iqbal Chishti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

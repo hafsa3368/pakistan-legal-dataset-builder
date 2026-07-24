@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "construe one part of the statue by another",
   "date_of_order": "23.04.2015",
-  "judge": "JUDGE Abdul Waheed",
+  "judge": "SHAHID KARIM",
   "sections_cited": [
     "section 22",
     "section 19 of the Ordinance",
@@ -24,7 +24,13 @@
     "2005 SCMR1166",
     "PLD 2003 SC 500"
   ],
-  "parties": [],
+  "parties": [
+    "Khan Muhammad",
+    "Zarai Taraqiati Bank Limited",
+    "Muhammad Suleman Bhatti",
+    "Rao Riasat Ali Khan",
+    "Shahid Karim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Writ Petition No.29929 of 2014",
   "date_of_order": "13.11.2014",
-  "judge": "",
+  "judge": "Malik Noor Muhammad Awan",
   "sections_cited": [
     "section 30 of the Thal Development Authority Act"
   ],
@@ -29,7 +29,20 @@
     "2003 P.Cr.L.J.1512",
     "PLD 1986 SC 96"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Arshad",
+    "Member Board of Revenue",
+    "Mst. Asma Hamid A.A.G.",
+    "Abdul Ghafoor",
+    "Ali Muhammad",
+    "Atta Muhammad",
+    "Bukhtawar",
+    "Hakim Abdur Rahim Khan",
+    "Imam Bibi",
+    "Muhammad Saleem",
+    "Muhammad Siddique",
+    "Sajida Parveen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

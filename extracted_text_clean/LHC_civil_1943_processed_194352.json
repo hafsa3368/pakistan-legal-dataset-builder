@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Crl.B.A.No.S-157 of 2023",
   "date_of_order": "08.05.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Akhtar Hussain",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

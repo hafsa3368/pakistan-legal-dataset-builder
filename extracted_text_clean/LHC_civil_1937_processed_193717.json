@@ -9,9 +9,16 @@
   "case_number": "Constitutional Petition No. D-",
   "date_of_order": "02.05.2023",
   "judge": "JUDGE",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S. Amel Kansi, Shah Muhammad Maitlo, Inayatullah G. Morio, Nadeem Ahmed Mangi, G.M. Bhutto, Jamshed A. Shaikh, Ihsan Soomro, Aamir Saleem, Mazhar Ali Shaikh and Wakeel Ali Shaikh",
+    "Mr. Abdul Hamid Bhurgri, Addl. A.G",
+    "Mr.Abdul Waris Bhutto, Asstt:A.G a/w Mr.Abdul Qudoos Kalwar, DSP, C.T.D, Sukkur and SHO, P.S, Ghouspur",
+    "Mr. Habibullah G. Ghouri, advocate for the respondent No.10 Ahmed Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

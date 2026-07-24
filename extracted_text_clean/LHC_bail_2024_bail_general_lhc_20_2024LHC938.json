@@ -20,7 +20,10 @@
     "PLD 1949 Lahore 21",
     "PLD 2009 SC 427"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Rafie",
+    "Ghaneem Aabir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

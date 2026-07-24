@@ -8,12 +8,20 @@
   "num_chunks": 2,
   "case_number": "Cr.B.A.No.S-1110 of 2018",
   "date_of_order": "02.09.2019",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "U/S 497 Cr.P.C"
+  ],
   "citations": [
     "2011 SCMR 1543"
   ],
-  "parties": [],
+  "parties": [
+    "Darbar Ali Shah",
+    "Mushtaque Ali Taggar",
+    "Safa Hisbani",
+    "Irshad Ali Shah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

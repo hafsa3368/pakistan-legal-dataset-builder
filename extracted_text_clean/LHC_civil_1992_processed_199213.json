@@ -6,14 +6,21 @@
   "year": "1992",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.56 of 2023",
   "date_of_order": "15.06.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": " Nazir ",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "1999 SCMR-2589"
   ],
-  "parties": [],
+  "parties": [
+    "Mukhtiar Ali Channa, Aamir Ali and Mst. Zaibun Nissa",
+    "the State",
+    "Mr. Abrar Ali Khichi",
+    "Addl. P.G"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

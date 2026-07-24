@@ -9,12 +9,18 @@
   "case_number": "W.P.No.1068-2014",
   "date_of_order": "24.03.2015",
   "judge": "Rouf",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2011 SCMR 1073",
     "PLD 2012 Lahore 154"
   ],
-  "parties": [],
+  "parties": [
+    "Manzoor Hussain",
+    "Mst. Safiya Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

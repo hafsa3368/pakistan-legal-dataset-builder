@@ -6,16 +6,19 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "F.A.O. No. 58 of 2013",
   "date_of_order": "16.06.2009",
-  "judge": "",
+  "judge": "Masood Abid Naqvi",
   "sections_cited": [
     "section 118 of Insurance Ordinance"
   ],
   "citations": [
     "2014 SCMR 637"
   ],
-  "parties": [],
+  "parties": [
+    "Messrs AL-SAEED COTTON INDUSTRIES through Partner and 2 others",
+    "E.F.U. GENERAL INSURANCE COMPANY LTD. through Chief Executive and 2 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

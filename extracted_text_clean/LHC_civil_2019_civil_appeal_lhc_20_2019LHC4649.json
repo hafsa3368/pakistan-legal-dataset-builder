@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "constitutional petition was not",
   "date_of_order": "20.11.2018",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 22 of the Pakistan Environment Protection Act",
     "section 22 of the Act",
@@ -18,7 +18,10 @@
     "2014 SCMR 122",
     "PLD 2010 SC 969"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners Versus ENVIRONMENT PROTECTION AGENCY and others",
+    "ENVIRONMENT PROTECTION AGENCY and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

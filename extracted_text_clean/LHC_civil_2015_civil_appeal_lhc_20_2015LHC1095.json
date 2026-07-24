@@ -9,12 +9,18 @@
   "case_number": "Civil Rev. No. 667/2005",
   "date_of_order": "04.03.2015",
   "judge": "Rouf",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2013 SCMR 866",
     "2014 SCMR 161"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ayub",
+    "Manzoor Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

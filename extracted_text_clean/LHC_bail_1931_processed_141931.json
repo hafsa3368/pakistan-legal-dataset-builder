@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Cr.B.A.No.S-1159 of 2019",
   "date_of_order": "06.12.2019",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 498 Cr.P.C"
+  ],
   "citations": [
     "2008 MLD 332"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Riaz Ali Panhwar",
+    "Ms. Rameshan Oad (on behalf of the State)",
+    "Mian Taj Muhammad Keerio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

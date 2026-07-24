@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2017",
   "date_of_order": "16.03.2009",
-  "judge": "",
+  "judge": "Abid Aziz Sheikh",
   "sections_cited": [
     "section 22",
     "section 12 of the Ordinance",
@@ -26,7 +26,10 @@
     "PLD 2002 SC 500",
     "PLD 2013 Lahore 129"
   ],
-  "parties": [],
+  "parties": [
+    "RAFAQAT ALI",
+    "Messrs UNITED BANK LIMITED"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "R.F.A No.154 of 2006",
   "date_of_order": "01.04.2015",
   "judge": "Abdul Waheed",
   "sections_cited": [
@@ -20,7 +20,10 @@
     "2011 CLC 837",
     "PLD 2007 Lahore 114"
   ],
-  "parties": [],
+  "parties": [
+    "Aziz Ahmad",
+    "Akbar Shamsher J"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "27.03.2017",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -19,7 +19,10 @@
     "1982 SCMR 672",
     "PLD 1981 SC 513"
   ],
-  "parties": [],
+  "parties": [
+    "NIB Bank Limited",
+    "M/s Pasban Agro Chemicals Company"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

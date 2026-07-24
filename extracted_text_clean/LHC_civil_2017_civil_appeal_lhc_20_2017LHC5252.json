@@ -8,13 +8,16 @@
   "num_chunks": 3,
   "case_number": "Civil Petition No.2187-L of 2014",
   "date_of_order": "26.02.2016",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 47 of the Punjab Industrial Relations Act",
     "section 33"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "HAQ BAHU SUGAR MILLS (PVT.) LTD.",
+    "PUNJAB LABOUR COURT NO.4, FAISALABAD"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,7 +9,10 @@
   "case_number": "W.P.No.24377/2017",
   "date_of_order": "19.09.2017",
   "judge": "Razas",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1995 SCMR 105",
     "1994 MLD 1062",
@@ -17,7 +20,14 @@
     "1994 CLC 2449",
     "PLD 1993 Lah 281"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Butt Flour Mills",
+    "Govt. of Punjab etc.",
+    "Mr. S.N. Khawar Khan",
+    "Mr. Qasim Chohan",
+    "Hafiz Asif",
+    "Zahid Qaiser"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

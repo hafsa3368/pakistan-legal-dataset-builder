@@ -9,9 +9,19 @@
   "case_number": "Crl. Misc. No.62271-B of 2023",
   "date_of_order": "13.12.2023",
   "judge": "Farooq Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 302",
+    "Section 148",
+    "Section 149 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman",
+    "The State",
+    "Mr. Rana Muhammad Ishaq",
+    "Mr. Shabbir Ahmad",
+    "Malik Shahid Iqbal Baghoor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

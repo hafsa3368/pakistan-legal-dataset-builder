@@ -20,7 +20,10 @@
     "PLD 1995 SC 314",
     "PLD 2013 SC 255"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Hussain",
+    "Muhammad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

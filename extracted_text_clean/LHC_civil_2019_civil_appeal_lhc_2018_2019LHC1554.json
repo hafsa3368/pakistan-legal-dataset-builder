@@ -7,9 +7,12 @@
   "used_ocr": false,
   "num_chunks": 9,
   "case_number": "Civil Rev. No.472 of 2018",
-  "date_of_order": "",
+  "date_of_order": "12.2.2019",
   "judge": "RASAAL HASAN SYED",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2015 MLD 247",
     "2012 CLC 844",
@@ -18,7 +21,10 @@
     "1989 SCMR 540",
     "1980 SCMR 879"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Tariq Zulfiqar Ahmad Chaudhary",
+    "Mst. Armeen Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

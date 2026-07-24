@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 5,
   "case_number": "constiiutiorral juriscliction cannot",
-  "date_of_order": "",
+  "date_of_order": "19.11.2004",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petrtioners V3",
+    "RespondentNs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

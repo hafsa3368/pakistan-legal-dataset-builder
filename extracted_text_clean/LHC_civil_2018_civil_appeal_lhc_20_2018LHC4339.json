@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "18.10.2018",
-  "judge": "",
+  "judge": "ABID AZIZ SHEIKH AND SHAMS MEHMOOD MIRZA",
   "sections_cited": [
     "Section 12 of Code",
     "Section 22 of the Ordinance",
@@ -20,7 +20,10 @@
     "2000 YLR 2938",
     "1970 SCMR 657"
   ],
-  "parties": [],
+  "parties": [
+    "ABID AZIZ SHEIKH",
+    "SHAMS MEHMOOD MIRZA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

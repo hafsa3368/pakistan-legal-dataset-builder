@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 7,
   "case_number": "Crl. Misc. No.60014/CB/2022",
-  "date_of_order": "",
+  "date_of_order": "20.1.2023",
   "judge": "Tariq Saleem Sheikh",
   "sections_cited": [
     "section 489-F PPC",
@@ -32,7 +32,10 @@
     "1993 PCr.LJ 71",
     "PLD 1974 Lahore 476"
   ],
-  "parties": [],
+  "parties": [
+    "Azeem-ud-Din",
+    "Feroze Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

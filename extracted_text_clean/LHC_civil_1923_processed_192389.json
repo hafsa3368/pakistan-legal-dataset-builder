@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Cr.B.A.No.D-10 of 2023",
   "date_of_order": "18.04.2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 497",
     "Section 561-ACr"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghous Bux",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

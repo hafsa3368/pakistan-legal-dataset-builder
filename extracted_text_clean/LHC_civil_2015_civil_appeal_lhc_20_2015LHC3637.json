@@ -29,7 +29,10 @@
     "PLD 1999 Lahore 446",
     "PLD 1997 Lahore 692"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Akram Javaid",
+    "Bashir Ahmed Shauk"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

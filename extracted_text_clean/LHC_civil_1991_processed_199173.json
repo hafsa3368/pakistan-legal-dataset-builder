@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. 464 of 2019",
   "date_of_order": "14.06.2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382-B",
     "section 342"
@@ -17,7 +17,18 @@
     "2009 SCMR 120",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Arshad Ali",
+    "The State",
+    "Mr. Abrar Ali Khichi",
+    "ASI Muhammad Javed",
+    "Asad Ali",
+    "Maqsood Ali",
+    "Riaz Hussain",
+    "Anand Lal",
+    "Umeed Ali",
+    "Hanif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

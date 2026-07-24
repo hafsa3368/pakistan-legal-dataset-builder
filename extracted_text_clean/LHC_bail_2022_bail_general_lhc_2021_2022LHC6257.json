@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Crl. Misc. No.23198-B/2022",
   "date_of_order": "18.08.2022",
-  "judge": "Approved for Reporting JUDGE Riaz",
+  "judge": "ALI ZIA BAJWA",
   "sections_cited": [
     "Sections 302 & 34 of Pakistan Penal Code",
     "Section 173 Cr.P.C",
@@ -31,7 +31,10 @@
     "PLD 2005 Lahore 470",
     "PLD 2022 SC 112"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Razzaq",
+    "The State & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

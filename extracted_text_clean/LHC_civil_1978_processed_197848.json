@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Constt.Petition No.D-310 of 2023",
   "date_of_order": "30.05.2023",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sadique Umrani",
+    "Mr. Munawar Ali Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

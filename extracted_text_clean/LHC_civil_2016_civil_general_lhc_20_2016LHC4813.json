@@ -8,12 +8,21 @@
   "num_chunks": 8,
   "case_number": "W.P. No.4496/2007",
   "date_of_order": "15.06.1994",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "2012 SCMR 280"
   ],
-  "parties": [],
+  "parties": [
+    "PRESIDENT/CHIEF EXECUTIVE OFFICER",
+    "Pakistan Telecommunication Company Limited",
+    "Azad Kashmir Government Cooperative Bank Ltd.",
+    "Ch. Muhammad Akram",
+    "Imtiaz Ali Khan",
+    "Khaibar Zaman Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

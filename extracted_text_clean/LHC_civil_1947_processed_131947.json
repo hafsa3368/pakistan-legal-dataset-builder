@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Acquittal Appeal No.S-78 of 2017",
   "date_of_order": "04.10.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 3/4 Illegal Dispossession Act"
   ],
@@ -18,7 +18,11 @@
     "2009 SCMR-1066",
     "2010 SCMR-1254"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Dino s/o Bakhshal Buriro",
+    "Zulfiqar Ali s/o Muhammad Mureed Sangi",
+    "The State through Mr.Sharafuddin Kanhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

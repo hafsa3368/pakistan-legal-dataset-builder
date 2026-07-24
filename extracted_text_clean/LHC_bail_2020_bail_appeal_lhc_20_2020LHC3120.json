@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "civil jurisdiction and not",
   "date_of_order": "03.12.2020",
-  "judge": "JUDGE APPROVED FOR REPORTING JUDGE Riaz",
+  "judge": "TARIQ SALEEM SHEIKH",
   "sections_cited": [
     "Section 3 of the Law Reforms Ordinance",
     "Sections 395, 365, 170, 171 PPC",
@@ -24,7 +24,12 @@
     "PLD 1993 SC 109",
     "PLD 1996 SC 543"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Qadir",
+    "The State & 4 others",
+    "Jamshaid Ahmad Khan Dasti",
+    "Muhammad Nasir Sikhani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Crl. Misc. No. 1218-B/2020/BWP",
   "date_of_order": "01.07.2020",
-  "judge": "Raheel APPROVED FOR REPORTING JUDGE",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 497 Cr.P.C",
     "sections 302, 109 and 34 PPC",
@@ -23,7 +23,10 @@
     "PLD 1985 SC 182",
     "PLD 2012 SC 222"
   ],
-  "parties": [],
+  "parties": [
+    "Younas Hassan",
+    "The State and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

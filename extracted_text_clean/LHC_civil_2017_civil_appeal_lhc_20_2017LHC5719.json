@@ -9,12 +9,21 @@
   "case_number": "constitutional petition bearing WP No. 9146 of 2009",
   "date_of_order": "30.10.2017",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 226(1)"
+  ],
   "citations": [
     "1996 SCMR 1185",
     "2004 SCMR1426"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ayyaz Akhtar",
+    "Chairman, State Life Insurance Corporation of Pakistan",
+    "Mr. Tahir Ali Qureshi",
+    "Malik Muhammad Tariq Rajwana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "R.F.A. No.134 of 2018/BWP",
   "date_of_order": "23.05.2018",
-  "judge": "",
+  "judge": "Muzamil Akhtar Shabir",
   "sections_cited": [
     "Section 5 of the Limitation Act",
     "Section 22",
@@ -18,7 +18,10 @@
   "citations": [
     "2016 SCMR 1821"
   ],
-  "parties": [],
+  "parties": [
+    "Mehdi Hassan through Legal Heirs and others",
+    "Punjab Co-operative Bank and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

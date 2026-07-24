@@ -28,7 +28,11 @@
     "2009 CLC 354",
     "PLD 1993 Lahore 183"
   ],
-  "parties": [],
+  "parties": [
+    "Italfarmaco S.P.A",
+    "Himont Pharmaceuticals (Pvt.) Ltd.",
+    "another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

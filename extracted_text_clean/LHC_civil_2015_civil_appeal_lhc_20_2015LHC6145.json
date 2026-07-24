@@ -28,7 +28,12 @@
     "2009 SCMR 230",
     "PLD 1960 SC 223"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Rizwan",
+    "Abdul Qadir",
+    "Muhammad Qadir Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

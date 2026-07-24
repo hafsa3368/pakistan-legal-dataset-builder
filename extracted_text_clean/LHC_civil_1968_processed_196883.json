@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No. D",
   "date_of_order": "16-05-2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 342 Cr.PC",
     "Section 374 Cr.PC",
@@ -17,7 +17,10 @@
   "citations": [
     "2014 SCMR-1034"
   ],
-  "parties": [],
+  "parties": [
+    "Sajid s/o Muhammad Ibrahim",
+    "Munwar s/o Allah Dino Mugheri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

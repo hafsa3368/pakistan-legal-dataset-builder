@@ -9,7 +9,10 @@
   "case_number": "Civil Revision No.125 of 2017",
   "date_of_order": "06.11.2018",
   "judge": "RASAAL HASAN SYED",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2003 SCMR 74",
     "2015 SCMR 1698",
@@ -17,7 +20,12 @@
     "PLD 2003 SC 688",
     "PLD 2007 SC 287"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yar",
+    "Qasim Ali, etc.",
+    "Abdul Ali Saleem",
+    "Mr. Sarfraz Ahmed Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

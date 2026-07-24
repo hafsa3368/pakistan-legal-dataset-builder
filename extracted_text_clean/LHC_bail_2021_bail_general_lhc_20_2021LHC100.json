@@ -9,9 +9,15 @@
   "case_number": "Crl. Revision No.38 of 2021",
   "date_of_order": "01.02.2021",
   "judge": "Farooq Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 435 CrPC",
+    "Section 439 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Shahid Yousaf",
+    "The State and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

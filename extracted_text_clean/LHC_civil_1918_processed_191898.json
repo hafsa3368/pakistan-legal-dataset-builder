@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. S",
   "date_of_order": "10-04-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 367-A",
     "Section 34 PPC",
@@ -20,7 +20,10 @@
     "2009 SCMR 120",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Gul son of Ashique Kalhoro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

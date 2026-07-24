@@ -9,9 +9,14 @@
   "case_number": "Constt.Petition No.D-232 of 2023",
   "date_of_order": "18.04.2023",
   "judge": "JUDGE",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nizamuddin Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

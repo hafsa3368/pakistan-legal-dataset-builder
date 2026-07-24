@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.845 of 2023",
   "date_of_order": "13.06.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Irshad Shahid",
+  "sections_cited": [
+    "u/s 498-A Cr.P.C"
+  ],
   "citations": [
     "2023 SCMR 748",
     "2019 SCMR 1129"
   ],
-  "parties": [],
+  "parties": [
+    "Arshad Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl. A.T Jail Appeal No.108 of 2023",
   "date_of_order": "26.09.2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 21-M of the Antiterrorism Act",
     "Section 382"
@@ -16,7 +16,12 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Abdullah @ Ravi",
+    "Muhammad Hammad son of Muhammad Rafiq",
+    "Ashfaque Rehman son of Abdul Ghafoor",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

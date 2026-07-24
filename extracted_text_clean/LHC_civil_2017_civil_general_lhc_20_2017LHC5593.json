@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Constitutional petition was not",
   "date_of_order": "19th January, 2017",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 6",
     "Section 6 of the PEEDA Act",
@@ -19,7 +19,11 @@
     "PLD 1987 SC 304",
     "PLD 2000 SC 55"
   ],
-  "parties": [],
+  "parties": [
+    "Professor Dr. ZAFAR IQBAL CHAUDHRY",
+    "PROVINCE OF PUNJAB",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

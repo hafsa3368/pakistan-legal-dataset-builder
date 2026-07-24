@@ -8,14 +8,21 @@
   "num_chunks": 6,
   "case_number": "W.P. No.103421 of 2017",
   "date_of_order": "06.11.2017",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [],
   "citations": [
     "2013 SCMR 1707",
     "2017 SCMR 571",
     "PLD 2017 Lahore 805"
   ],
-  "parties": [],
+  "parties": [
+    "FEDERATION OF PAKISTAN",
+    "Muhammad Riaz v. National Fertilizer Corporation of Pakistan (Pvt.) Limited and others",
+    "Pakistan Defence Officers, Housing Authority and others v. Lt. Col. Syed Jawaid Ahmed 2013 SCMR 1707",
+    "Munda Eleven Cricket Club v. Federation of Pakistan and 4 others PLD 2017 Lah. 805",
+    "Muhammad Zaman and others v. Government of Pakistan and others 2017 SCMR 571",
+    "Muhammad Riaz v. National Fertilizer Corporation of Pakistan (Pvt.) Limited and others 1992 ALD 535"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

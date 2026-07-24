@@ -9,9 +9,14 @@
   "case_number": "Crl. Acquittal Appeal.No.S-15 of 2020",
   "date_of_order": "22.05.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 561-A Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Nabi",
+    "The State and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

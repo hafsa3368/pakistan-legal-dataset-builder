@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl. Revision Appln.No.S-15 of 2023",
   "date_of_order": "07.04.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 395 CrPC",
+    "u/s 506(2)/448/344",
+    "Section 452 PPC",
+    "Section 337-H(ii) PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Bux Abro",
+    "Muhammad Hassan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

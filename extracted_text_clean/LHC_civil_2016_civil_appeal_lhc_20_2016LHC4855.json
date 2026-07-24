@@ -8,10 +8,18 @@
   "num_chunks": 4,
   "case_number": "W.P. No. 6441 of 2016",
   "date_of_order": "29.2.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "FAISALABAD ELECTRIC SUPPLY COMPANY LIMITED",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "ABID AZIZ SHEIKH",
+    "FAISALABAD ELECTRIC SUPPLY COMPANY LIMITED",
+    "ADVISORY BOARD",
+    "GOVERNMENT OF PUNJAB, LAHORE"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

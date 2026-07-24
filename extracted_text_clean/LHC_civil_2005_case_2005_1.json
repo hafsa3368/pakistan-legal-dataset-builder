@@ -8,10 +8,15 @@
   "num_chunks": 3,
   "case_number": "civil servant which C. P. No. D",
   "date_of_order": "13.04.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mr. Alam Sher Bozdar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Alam Sher Bozdar, Advocate for the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

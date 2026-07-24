@@ -23,7 +23,17 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "party_name": "Naseer Ahmad"
+    },
+    {
+      "party_name": "The State"
+    },
+    {
+      "party_name": "Muhammad Aslam"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

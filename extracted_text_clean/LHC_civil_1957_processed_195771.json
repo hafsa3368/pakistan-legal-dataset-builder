@@ -14,7 +14,10 @@
     "Section 382-B Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "applicant",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

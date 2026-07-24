@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Anti-Terrorism Appeal No. 226 of 2023",
   "date_of_order": "01.10.2024",
-  "judge": "",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 365/34 PPC",
     "Section 382",
@@ -17,7 +17,12 @@
     "section 340 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State through Mr. Abrar Ali",
+    "Fazal Waheed & Arsalan",
+    "Nemo for appellants",
+    "Jehanzaib"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,17 @@
   "num_chunks": 1,
   "case_number": "Cr.B.A.No.S-355 of 2019",
   "date_of_order": "02.09.2019",
-  "judge": "Ahmed/Pa",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 22-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hemandas",
+    "Ms. Safa Hisbani",
+    "Mr. Omparkas",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

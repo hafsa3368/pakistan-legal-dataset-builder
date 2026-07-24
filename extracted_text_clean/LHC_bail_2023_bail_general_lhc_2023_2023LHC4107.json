@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "mischief not",
   "date_of_order": "13.07.2023",
-  "judge": "",
+  "judge": "Shouzab",
   "sections_cited": [
     "section 3/4",
     "section 54",
@@ -27,7 +27,20 @@
     "PLD 1981 Lahore 599",
     "PLD 1974 Lahore 324"
   ],
-  "parties": [],
+  "parties": [
+    "Parvez Elahi",
+    "Care Taker Government of Punjab",
+    "M/s. Asif Mehmood Cheema and Amir Saeed Rawn",
+    "Mr. Muhammad Anwar Khan",
+    "Mr. Ghulam Sarwar Nahung",
+    "Mr. Sittar Sahil",
+    "Mr. Imran Abbas Sahi",
+    "M. Farrukh Khan",
+    "Malik Khuda Yar",
+    "Ahmad Waqar",
+    "Ch. Riaz",
+    "Waseem Sadiq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

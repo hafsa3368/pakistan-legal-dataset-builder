@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "05.12.2019",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 498 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Hassan Chandio",
+    "Mr. Abdul Hameed Bajwa",
+    "Ms. Sana Memon",
+    "Irshad Ali Shah",
+    "Muhammad Ramzan",
+    "Zubair Shah",
+    "Taj Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

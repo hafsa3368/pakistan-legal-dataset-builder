@@ -9,13 +9,21 @@
   "case_number": "Civil Revision No.1354 of 2014",
   "date_of_order": "06.11.2018",
   "judge": "RASAAL HASAN SYED",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2005 SCMR 1859",
     "1997 SCMR 459",
     "2013 SCMR 868"
   ],
-  "parties": [],
+  "parties": [
+    "Jameel Ahmad Zahid",
+    "Rasheeda Begum",
+    "Muhammad Din",
+    "Abdur Rasheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,16 @@
   "num_chunks": 3,
   "case_number": "Crl. Acquittal Appeal.No.D-21 of 2022",
   "date_of_order": "17.05.2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 265-K Cr.PC",
     "Section 526 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Shabir",
+    "Ghulam Murtaza & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

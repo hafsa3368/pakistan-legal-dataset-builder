@@ -7,11 +7,13 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl.B.A.No.S-101 of 2024",
-  "date_of_order": "",
+  "date_of_order": "19.03.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Athar Hussain Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

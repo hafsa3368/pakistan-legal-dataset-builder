@@ -6,15 +6,18 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "E.F.A. No. 107558 of 2017",
   "date_of_order": "18.10.2017",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 22",
     "section 19 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gulshan Polypack Pvt. Ltd.",
+    "Faysal Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

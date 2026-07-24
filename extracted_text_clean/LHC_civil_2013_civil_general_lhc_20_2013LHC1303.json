@@ -22,7 +22,10 @@
     "PLD 2007 Karachi 392",
     "PLD 1987 Karachi 86"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Aslam",
+    "Muhammad Tahir Hamid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

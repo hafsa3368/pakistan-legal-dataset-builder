@@ -8,10 +8,12 @@
   "num_chunks": 1,
   "case_number": "Civil Appeals No.19-K",
   "date_of_order": "01-11-2022",
-  "judge": "",
+  "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Achar Khan Gabol"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "constitutional petition filed against it was not",
   "date_of_order": "13.06.2016",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 3 of the Law Reforms Ordinance",
     "Section 24-A of the General Clauses Act",
@@ -21,7 +21,12 @@
     "2013 SCMR 1383",
     "2018 SCMR 736"
   ],
-  "parties": [],
+  "parties": [
+    "United Bank Limited",
+    "MUHAMMAD MANZOOR",
+    "Muhammad Mubashar Aslam",
+    "Shahid Mehmood Aleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

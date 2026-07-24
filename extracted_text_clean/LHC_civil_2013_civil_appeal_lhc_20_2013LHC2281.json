@@ -24,7 +24,10 @@
     "PLD 1996 Lahore 702",
     "PLD 2013 SC 392"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Boota",
+    "Bashrat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

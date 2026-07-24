@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "RFA No.204 of 2014",
   "date_of_order": "11.03.2019",
   "judge": "Asim Hafeez",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "section 12 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rana Adnan Ali",
+    "National Bank of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

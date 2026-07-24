@@ -8,13 +8,18 @@
   "num_chunks": 9,
   "case_number": "Civil Petition No267ء of 2017",
   "date_of_order": "01.09.2018",
-  "judge": "",
+  "judge": "Mr. Hanif Shaikh",
   "sections_cited": [
     "Section 38",
     "Section ١44"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muthamimad Oadeer Ban",
+    "V Malik ZultidaL Ali Khan",
+    "Malik Muhammad Mumtaz Khan",
+    "Junaid Alhar Khokhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

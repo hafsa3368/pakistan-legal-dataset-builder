@@ -8,12 +8,15 @@
   "num_chunks": 9,
   "case_number": "criminal intimidation have not",
   "date_of_order": "17.11.2021",
-  "judge": "",
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
   "sections_cited": [
     "Section 420/468/471/447 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gulzar Hussain",
+    "The Registrar, Lahore High Court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

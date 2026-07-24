@@ -6,15 +6,28 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "R.F.A. No.34 of 2009",
   "date_of_order": "26th September, 2013",
-  "judge": "",
+  "judge": "Abid Aziz Sheikh",
   "sections_cited": [
     "section 22",
     "section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "AHMAD DEEN",
+    "ZARAI TARAQIATI BANK LTD.",
+    "HABIB BANK AG ZURICH",
+    "MUSTAFA SHAMS-UD-DIN GHATILLA",
+    "BANK OF PUNJAB AND ANOTHER",
+    "KARACHI PIPE MILLS LTD.",
+    "PRIME COMMERCIAL BANK LIMITED",
+    "AGRICIDE (PRIVATE) LIMITED AND OTHERS",
+    "TRYCOT SYNTHETIC FIBRE COMPANY THROUGH PROPRIETOR AND ANOTHER",
+    "HABI",
+    "MUHAMMAD ASLAM SIDDIQI",
+    "SARDAR RIAZ KARAM"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Misc. Application No. 42 of 2021",
   "date_of_order": "23.06.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Sardar Muhammad Zulfiqar",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Bibi Shazia",
+    "The State and others",
+    "Mr. Abrar Ali Khichi",
+    "Syed Samiullah Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

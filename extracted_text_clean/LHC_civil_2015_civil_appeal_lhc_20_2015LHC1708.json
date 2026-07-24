@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Intra-Court Appeal No.527/2002",
   "date_of_order": "30.03.2015",
   "judge": "Faisal Zaman Khan",
   "sections_cited": [
@@ -21,7 +21,12 @@
     "1992 SCMR 227",
     "2011 SCMR 1813"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Asmat Kamal Khan",
+    "Ms. Samia Khalid",
+    "Qazi Muhammad Arif",
+    "Faisal Zaman Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

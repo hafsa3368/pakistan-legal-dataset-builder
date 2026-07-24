@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "30.01.2019",
   "judge": "Jawad Hassan",
   "sections_cited": [
@@ -15,7 +15,14 @@
   "citations": [
     "2016 MLD 425"
   ],
-  "parties": [],
+  "parties": [
+    "Khalid Mahmood",
+    "Naseem Akhtar",
+    "Ms. Sadia Malik",
+    "Moin Ahmad",
+    "Rai Shahid Saleem Khan",
+    "JAWAD HASSAN"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

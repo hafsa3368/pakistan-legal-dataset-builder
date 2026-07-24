@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl. Jail Appeal No. D",
   "date_of_order": "31-05-2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 302",
     "Section 374 Cr.PC",
@@ -16,7 +16,11 @@
     "Section 537 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Sajjad s/o Abdul Hameed Kalhoro",
+    "Mazhar Ali s/o Amanullah Kalhoro",
+    "Zubair @ Bandeh Ali s/o Amanullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

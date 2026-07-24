@@ -6,7 +6,7 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "07.10.2009",
   "judge": "Shahid Karim",
   "sections_cited": [
@@ -19,7 +19,10 @@
     "section 391"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mechanized Construction of Pakistan (Pvt) Ltd.",
+    "The Government of Balochistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

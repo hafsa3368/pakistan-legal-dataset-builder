@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Writ Petition No.12203 of 2015",
   "date_of_order": "22.06.2015",
   "judge": "Syed Shahbaz Ali Rizvi",
   "sections_cited": [
@@ -17,7 +17,22 @@
     "Section 336-A PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rabnawaz",
+    "Special Judge, ATC",
+    "Malik Matee Ullah",
+    "Mr. Sittar Sahil",
+    "Assistant Advocate General",
+    "Ch. Muhammad Mustafa",
+    "Muhammad Ashraf",
+    "A.S.I.",
+    "Mr. Muhammad Sharif Khokhar",
+    "Advocate for respondents No.3 and 4",
+    "Mian Muhammad Abdullah Kalyar",
+    "Advocate for respondent No.5",
+    "Mr. M. Tariq Mehmood",
+    "Advocate for respondent No.6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

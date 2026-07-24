@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.231 of 2023",
   "date_of_order": "14.06.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mr. Nasir Ahmed",
+  "sections_cited": [
+    "u/s 498-A Cr.P.C"
+  ],
   "citations": [
     "2023 SCMR 748"
   ],
-  "parties": [],
+  "parties": [
+    "Ansar Farooq",
+    "The State",
+    "Ms. Rubina Qadir",
+    "Muhammad Saeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

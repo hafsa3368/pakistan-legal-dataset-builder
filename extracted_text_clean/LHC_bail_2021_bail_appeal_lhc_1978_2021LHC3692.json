@@ -24,7 +24,10 @@
     "PLD 1982 SC 139",
     "PLD 2012 Lahore 279"
   ],
-  "parties": [],
+  "parties": [
+    "Mian Khurram Saeed",
+    "Muhammad Khalid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

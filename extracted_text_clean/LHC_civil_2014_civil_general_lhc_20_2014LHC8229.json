@@ -8,7 +8,7 @@
   "num_chunks": 17,
   "case_number": "Criminal Writ Petition No.4783 of 2013",
   "date_of_order": "16.12.2014",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 17 of the Pharmacy Act",
     "Section 3 of the Pharmacy Act",
@@ -32,7 +32,10 @@
     "1981 SCMR 758",
     "1980 SCMR 933"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan Institute of Pharmacy",
+    "Government of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

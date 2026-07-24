@@ -9,7 +9,10 @@
   "case_number": "W.P. No.21953/2016",
   "date_of_order": "18.01.2018",
   "judge": "Jawad Hassan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2010 SCMR 970",
     "2007 SCMR 882",
@@ -21,7 +24,16 @@
     "PLD 2010 SC 483",
     "PLD 2011 SC 132"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan Agricultural Storage and Services Corporation",
+    "Muhammad Akram",
+    "31 others",
+    "Ms. Tabinda Islam",
+    "Mr. Abid Saqi",
+    "Mr. Nabeel Javed Kahloon",
+    "Ms. Rabbiya Bajwa",
+    "Staff Union"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "",
   "judge": "SHAHID KARIM",
   "sections_cited": [
@@ -18,7 +18,11 @@
     "section 81"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Malik Aziz ul Haq & 14 others",
+    "M/s Crystal Line Chemical Industries (Pvt.) Ltd.",
+    "Chief Executive"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

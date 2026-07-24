@@ -6,12 +6,16 @@
   "year": "1926",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "C.P No.D-870 of 2023",
+  "date_of_order": "17.02.2023",
+  "judge": "JLCg",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Sheeraz Fazal Advocate for Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

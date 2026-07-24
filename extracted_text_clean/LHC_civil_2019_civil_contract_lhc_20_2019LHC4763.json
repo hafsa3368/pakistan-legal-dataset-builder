@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 5,
   "case_number": "W.P. No. 13208/2019",
-  "date_of_order": "",
+  "date_of_order": "31.07.2019",
   "judge": "TARIQ SALEEM SHEIKH",
   "sections_cited": [
     "Section 365-B PPC",
@@ -25,7 +25,15 @@
     "PLD 2004 SC 219",
     "PLD 1970 SC 323"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Khalid",
+    "Magistrate Ist Class & 2 others",
+    "Malik Muhammad Latif Khokhar",
+    "Malik Shaukat Mehmood Marha",
+    "Muhammad Asif",
+    "Nishtar Hospital Multan",
+    "Rana Asif Saeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

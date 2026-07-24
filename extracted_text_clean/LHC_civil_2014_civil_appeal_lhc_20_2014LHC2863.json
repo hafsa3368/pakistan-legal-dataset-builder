@@ -35,7 +35,10 @@
     "PLD 2011 Lah 276",
     "PLD 1987 SC 447"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ishaq",
+    "Muhammad Hayat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Revision Application No. S-74 of 2023",
-  "date_of_order": "",
+  "date_of_order": "11-03-2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 516-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Alam Sher Khan Bozdar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

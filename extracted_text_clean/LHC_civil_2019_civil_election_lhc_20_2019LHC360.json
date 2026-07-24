@@ -28,7 +28,12 @@
     "2000 SCMR 1305",
     "PLD 1995 Lahore 98"
   ],
-  "parties": [],
+  "parties": [
+    "Mushtaq Ahmed",
+    "Sardar Aftab Akbar Khan",
+    "Pakistan Muslim League Nawaz (P.M.L.N)",
+    "Pakistan Tehrik-e-Insaf (P.T.I)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

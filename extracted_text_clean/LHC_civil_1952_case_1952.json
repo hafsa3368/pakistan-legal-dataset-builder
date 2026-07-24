@@ -9,9 +9,16 @@
   "case_number": "Criminal Jail Appeal No.S-18 of 2013",
   "date_of_order": "31.10.2022",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Badal Gahoti",
+    "Mr. Nazar Muhammad Memon",
+    "Appellant",
+    "Learned defense counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

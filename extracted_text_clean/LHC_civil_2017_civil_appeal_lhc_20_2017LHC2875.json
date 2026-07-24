@@ -29,7 +29,11 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "Rehmat Ali",
+    "The State and another",
+    "Khurshid Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

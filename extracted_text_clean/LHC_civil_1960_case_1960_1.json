@@ -8,12 +8,24 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No. D-",
   "date_of_order": "18-01-2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Zafar Ahmed Rajput",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2019 SC 112"
   ],
-  "parties": [],
+  "parties": [
+    "Zafar Ahmed Rajput",
+    "M/s Nisar Ahmed Bhanbhro and Sheeaz Fazal",
+    "M/s Mujeeb-ur-Rehman Soomro",
+    "Bahawaluddin Shaikh",
+    "Fazal-ur-Rehman Narejo",
+    "Mr. Karim Bux Janwri",
+    "Abdul Razak",
+    "Muhammad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

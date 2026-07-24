@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal APPeal NNo 2II-Jof",
   "date_of_order": "10.02.2015",
-  "judge": "",
+  "judge": "Sred Shahbaz Ali Rizi",
   "sections_cited": [
     "Section 302 & 34 PPC",
     "Section 3f2fb",
@@ -17,7 +17,12 @@
   "citations": [
     "2010 SCMR 374"
   ],
-  "parties": [],
+  "parties": [
+    "Thu Stale",
+    "Muhammad Hanif alias Fouji",
+    "The State",
+    "Muhammad Nawaz Shahid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

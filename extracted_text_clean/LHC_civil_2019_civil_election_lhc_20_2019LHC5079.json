@@ -6,16 +6,20 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "13.12.2018",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 3 of the Law Reforms Ordinance"
   ],
   "citations": [
     "2014 SCMR 157"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "Nadia Iqbal",
+    "other"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

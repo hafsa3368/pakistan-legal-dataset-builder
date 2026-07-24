@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "22.07.2009",
-  "judge": "JUDGE",
+  "judge": "AALIA NEELUM",
   "sections_cited": [
     "Section 34-A of National Accountability Ordinance",
     "Section 9 of the National Accountability Ordinance",
@@ -19,7 +19,15 @@
     "PLD 2003 Karachi 526",
     "PLD 2012 SC 132"
   ],
-  "parties": [],
+  "parties": [
+    "Sikandar Hayat Maken",
+    "The State",
+    "M/s. Azid Nafees",
+    "Aftab Ahmad Butt",
+    "Muhammad Aslam Khan",
+    "Mr. Barrister Saeed ud Rehman Khan",
+    "Zahid Hussain Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

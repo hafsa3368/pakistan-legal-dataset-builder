@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-907 of 2013",
   "date_of_order": "07.08.2013",
-  "judge": "",
+  "judge": "ASIM RIAZ QURESHI",
   "sections_cited": [
     "section 22",
     "section 20 of the Contract Act",
@@ -22,7 +22,10 @@
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Appellant (BANK AL-FALAH LIMITED)",
+    "Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

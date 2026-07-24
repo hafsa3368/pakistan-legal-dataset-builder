@@ -8,13 +8,21 @@
   "num_chunks": 5,
   "case_number": "Cr.B.A.No.D-17",
   "date_of_order": "23.05.2018",
-  "judge": "JUDGE Tufail",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 6/7",
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State",
+    "Mr. Justice Naimatullah Phulpoto",
+    "Mr. Justice Shamsuddin Abbasi",
+    "Mian Taj Muhammad Keerio",
+    "Shahzado Saleem Nahiyoon",
+    "Bhai Khan",
+    "Manthar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 63,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "30.09.2011",
   "judge": "SHAHID KARIM",
   "sections_cited": [
@@ -27,7 +27,10 @@
     "1997 SCMR 976",
     "1999 SCMR 85"
   ],
-  "parties": [],
+  "parties": [
+    "Louis Dreyfus Commodities Suisse S.A.",
+    "Acro Textile Mills Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

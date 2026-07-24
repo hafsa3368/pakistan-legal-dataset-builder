@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "R.F.As. Nos. 38 and 66 of 2016",
   "date_of_order": "08.12.2015",
-  "judge": "",
+  "judge": "Masud Abid Naqvi",
   "sections_cited": [
     "Section 18 of the Land Acquisition Act",
     "section 4 of the Land Acquisition Act",
@@ -19,7 +19,10 @@
   "citations": [
     "2010 SCMR 1408"
   ],
-  "parties": [],
+  "parties": [
+    "NATIONAL HIGHWAY AUTHORITY",
+    "BASHIR AHMAD"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

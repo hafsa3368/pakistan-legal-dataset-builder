@@ -9,9 +9,16 @@
   "case_number": "constitutional petition is not",
   "date_of_order": "18.10.2018",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jam Meeran",
+    "ADJ etc",
+    "Rao Nasir Mehmood Khan, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

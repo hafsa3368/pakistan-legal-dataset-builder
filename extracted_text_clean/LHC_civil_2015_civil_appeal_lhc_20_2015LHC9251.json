@@ -8,8 +8,10 @@
   "num_chunks": 3,
   "case_number": "Civil Revision No.835-D of 2001",
   "date_of_order": "2nd March, 2015",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Masud Abid Naqvi",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2002 SCMR 1938",
     "2008 SCMR 1384",
@@ -18,7 +20,10 @@
     "2003 SCMR 41",
     "PLD 2002 SC 677"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners: Haji Iftikhar Ahmad Qureshi and 3 others",
+    "Respondents: Mst. Gulshan Bibi and 2 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

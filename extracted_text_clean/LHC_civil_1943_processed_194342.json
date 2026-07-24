@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No. S",
   "date_of_order": "11-05-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 342 Cr.PC",
     "Section 382-B Cr.PC",
@@ -20,7 +20,10 @@
     "2018 SCMR-344",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Dildar s/o Wazeer @ Dadan Khoso",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

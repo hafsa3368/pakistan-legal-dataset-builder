@@ -6,12 +6,15 @@
   "year": "1957",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D-1596 of 2014",
   "date_of_order": "22.11.2022",
   "judge": "JUDGE Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ayatullah Khowaja",
+    "Director School Education Hyderabad Region"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,17 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "R.F.A. No.115 of 2011",
   "date_of_order": "17.01.2011",
-  "judge": "",
+  "judge": "MASUD ABID NAQVI",
   "sections_cited": [
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MOHAMMAD SHAFIQ",
+    "HAJI SHEikh Mohammad Afzal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

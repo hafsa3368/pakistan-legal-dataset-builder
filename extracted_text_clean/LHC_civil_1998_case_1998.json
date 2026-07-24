@@ -6,12 +6,16 @@
   "year": "1998",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P No. D - 1269 of 2023",
   "date_of_order": "28.09.2023",
-  "judge": "",
+  "judge": "ARBROHI",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahid Aziz Kaleri, Advocate for the petitioners",
+    "Mr. Saeed Ahmed Wassan, Assistant Advocate General Sindh",
+    "Syed Sardar Ali Shah, Additional Prosecutor General for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

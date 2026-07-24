@@ -9,11 +9,17 @@
   "case_number": "Cr.B.A.No. 930 of 2023",
   "date_of_order": "08.06.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2009 SCMR 448"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Subhan",
+    "The State",
+    "Aman Shams Pervaiz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

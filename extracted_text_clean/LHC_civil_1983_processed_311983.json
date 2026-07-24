@@ -6,12 +6,14 @@
   "year": "1983",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "II Appeal No.55 of 2017",
   "date_of_order": "03.03.2026",
-  "judge": "",
+  "judge": "Gulsher",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

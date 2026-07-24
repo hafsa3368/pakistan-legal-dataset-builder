@@ -6,12 +6,16 @@
   "year": "1980",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P NO.D-5987 t2015",
   "date_of_order": "28.09.2015",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Chief Justice",
+  "sections_cited": [
+    "CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rahman Dino Mahesar, advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

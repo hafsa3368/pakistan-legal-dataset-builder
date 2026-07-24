@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Ex.A. No.2/2011",
   "date_of_order": "09.05.2017",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -25,7 +25,10 @@
     "PLD 2001 SC 131",
     "PLD 2009 Lahore 176"
   ],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "Al-Azhar Textile Mills Ltd & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

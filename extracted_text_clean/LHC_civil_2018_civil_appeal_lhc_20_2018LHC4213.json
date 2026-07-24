@@ -25,7 +25,10 @@
     "PLD 2010 SC 612",
     "PLD 2012 SC 80"
   ],
-  "parties": [],
+  "parties": [
+    "Qari Muhammad Yasin",
+    "Abdul Latif et al."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "RFA No. 79 of 2007",
   "date_of_order": "22.02.2007",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Dharala Oil Mills etc.",
+    "Bank of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,13 @@
   "num_chunks": 3,
   "case_number": "Crl. Acquittal Appeal.No.S-55 of 2022",
   "date_of_order": "11.05.2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Meeran Bux",
+    "Ghulam Qadir & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

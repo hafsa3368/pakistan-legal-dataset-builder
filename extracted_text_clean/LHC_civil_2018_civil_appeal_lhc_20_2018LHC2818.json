@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "06.12.2018",
   "judge": "Mirza Viqas Rauf",
   "sections_cited": [
@@ -28,7 +28,10 @@
     "PLD 2011 Peshawar 86",
     "PLD 2013 SC 829"
   ],
-  "parties": [],
+  "parties": [
+    "Waqas Amjad and others",
+    "Additional Sessions Judge and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

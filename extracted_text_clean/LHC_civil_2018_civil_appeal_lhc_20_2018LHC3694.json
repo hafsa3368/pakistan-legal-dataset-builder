@@ -6,17 +6,24 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "WP No.33756 of 2017",
   "date_of_order": "13.12.2017",
   "judge": "ZAHOOR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1994 CLC 1911",
     "2016 CLC 21",
     "2014 SCMR 1365",
     "2017 SCMR 1841"
   ],
-  "parties": [],
+  "parties": [
+    "LDA VS Ch. Asghar Ali Bhuta etc",
+    "Syed Imtiaz Hussain Shah, Adv.",
+    "Mr. Muhammad Rashid Bhatti, Adv."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,17 @@
   "case_number": "Crl.Misc.Appln.No.S-20 of 2023",
   "date_of_order": "14.04.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22-A Cr.PC",
+    "u/s 22-B Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Afzal Jagirani",
+    "Private Respondents",
+    "State",
+    "The Applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

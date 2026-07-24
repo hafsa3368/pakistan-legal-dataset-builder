@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.660 of 2023",
   "date_of_order": "14.06.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mr. Muhammad Imran Kalmati",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Anees",
+    "The State",
+    "Irfan Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-27 of 2023",
   "date_of_order": "02.06.2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 342 Cr.PC",
     "Section 382-B Cr.PC",
@@ -18,7 +18,10 @@
     "2020 SCMR 687",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Farooq s/o Wahid Bakhsh Kherid Mazari",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

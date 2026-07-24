@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Service Appeal No.01 of 2018",
   "date_of_order": "08.11.2024",
-  "judge": "",
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
   "sections_cited": [
     "Section 24"
   ],
@@ -19,7 +19,10 @@
     "PLD 1981 Lahore 159",
     "PLD 2003 Lahore 593"
   ],
-  "parties": [],
+  "parties": [
+    "Akhtar Ali",
+    "The Registrar, Lahore High Court, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

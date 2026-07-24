@@ -30,7 +30,10 @@
     "PLD 1975 SC 331",
     "PLD 1976 SC 208"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem",
+    "Province of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

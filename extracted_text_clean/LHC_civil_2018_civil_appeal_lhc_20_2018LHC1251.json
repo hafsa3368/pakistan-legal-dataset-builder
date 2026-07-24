@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "26.03.2018",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -19,7 +19,13 @@
     "2013 MLD 1323",
     "2006 SCMR 1304"
   ],
-  "parties": [],
+  "parties": [
+    "Sajjad Hussain",
+    "Mirza Aziz Akbar Baig",
+    "Muhammad Yousaf",
+    "Makhdoom Haider Bakhsh",
+    "Iqbal Begum"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

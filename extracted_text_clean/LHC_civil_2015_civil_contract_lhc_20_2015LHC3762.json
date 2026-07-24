@@ -9,11 +9,20 @@
   "case_number": "W.P. No.4619 of 2015",
   "date_of_order": "10.06.2015",
   "judge": "Muhammad Sajid Mehmood Sethi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 112"
   ],
-  "parties": [],
+  "parties": [
+    "Nadeem Iqbal",
+    "D.C.O.",
+    "Muhammad Jahangir Chatha",
+    "Muhammad Ashfaq EDO (Education)",
+    "Mehr Qamar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

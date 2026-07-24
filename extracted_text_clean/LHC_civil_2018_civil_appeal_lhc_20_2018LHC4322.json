@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2011",
   "date_of_order": "24.05.2018",
   "judge": "Zeeshan Khan",
   "sections_cited": [
@@ -27,7 +27,10 @@
     "PLD 1995 Lahore 56",
     "PLD 2006 SC 328"
   ],
-  "parties": [],
+  "parties": [
+    "MEPCO",
+    "Muhammad Islam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

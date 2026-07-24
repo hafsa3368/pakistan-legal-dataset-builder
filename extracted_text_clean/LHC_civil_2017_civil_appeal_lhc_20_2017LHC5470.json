@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "C.R.No.2517 of 2014",
   "date_of_order": "27.01.2022",
   "judge": "FAISAL ZAMAN KHAN",
   "sections_cited": [],
@@ -27,7 +27,10 @@
     "2010 SCMR 1370",
     "2021 SCMR 1068"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Raza",
+    "Mureed Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

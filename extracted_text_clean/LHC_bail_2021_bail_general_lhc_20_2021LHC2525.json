@@ -32,7 +32,13 @@
     "PLD 2013 Lahore 12",
     "PLD 1995 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Sanwal",
+    "Malik Javed Akhtar Bhatti",
+    "Rab Nawaz",
+    "Mr. Javed Iqbal Bhaaya"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

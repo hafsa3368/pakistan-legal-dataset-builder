@@ -9,11 +9,18 @@
   "case_number": "Cr.B.A.No. 1029 of 2023",
   "date_of_order": "09.06.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2022 SCMR 1834"
   ],
-  "parties": [],
+  "parties": [
+    "Samiullah",
+    "The State",
+    "Naseeb Zarkhan",
+    "Shahbaz Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

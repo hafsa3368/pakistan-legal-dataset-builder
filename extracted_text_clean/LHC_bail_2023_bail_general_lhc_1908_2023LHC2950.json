@@ -38,7 +38,11 @@
     "PLD 2002 SC 841",
     "PLD 1956 Lahore 394"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Nawaz",
+    "The State",
+    "Malik Mukhtar Ahmad Ranjha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

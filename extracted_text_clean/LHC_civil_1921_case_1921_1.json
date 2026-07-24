@@ -6,12 +6,18 @@
   "year": "1921",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 240 of 2019",
   "date_of_order": "07.12.2020",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hameeda Khalid (Petitioner)",
+    "Khalid Basheer Ahmed (deceased)",
+    "Farhana Saeed (legal heir)",
+    "Ahmed Bukhsh (witness)",
+    "Amjad Waheed (witness)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-438 of 2018",
   "date_of_order": "12.03.2019",
   "judge": "Tufail/PA",
   "sections_cited": [
@@ -27,7 +27,12 @@
     "2005 MLD 1267",
     "2014 YLR 1019"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulamullah Chang",
+    "Mr. Muhammad Raheem",
+    "Mr. Shawak Rathore",
+    "SHAMSUDDIN ABBASI"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

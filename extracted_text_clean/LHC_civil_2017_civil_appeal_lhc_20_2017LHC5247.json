@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "W.P. No.20645/2013",
   "date_of_order": "12.02.2015",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 18"
   ],
@@ -21,7 +21,10 @@
     "2000 SCMR 1222",
     "PLD 2004 SC 168"
   ],
-  "parties": [],
+  "parties": [
+    "COMSATS Institute of Information Technology and others",
+    "DILAWAIZ ALI KHAN"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,13 +9,19 @@
   "case_number": "W.P No.735 of 2006",
   "date_of_order": "19.11.2014",
   "judge": "SHAHID KARIM",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 26 of the Electricity Act"
+  ],
   "citations": [
     "1995 CLC 654",
     "2005 SCMR 126",
     "PLD 2006 Lahore 603"
   ],
-  "parties": [],
+  "parties": [
+    "The Chairman WAPDA",
+    "M/s Megna Tech Pvt. Ltd.",
+    "Shahid Karim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

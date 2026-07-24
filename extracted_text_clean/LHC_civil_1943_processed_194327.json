@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl. Acquittal Appeal.No.D-03 of 2022",
   "date_of_order": "09.05.2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 342 Cr.PC",
     "Section 302",
@@ -16,7 +16,16 @@
     "Section 353 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zamir Ali",
+    "Siraj Ahmed",
+    "Nisar Ahmed",
+    "Ghaffar",
+    "Habibullah G.Ghouri",
+    "Athar Abbas Solangi",
+    "Ali Madad Arijo",
+    "Ali Anwar Kandhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

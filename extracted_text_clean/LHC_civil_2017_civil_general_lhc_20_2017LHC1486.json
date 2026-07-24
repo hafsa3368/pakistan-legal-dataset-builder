@@ -31,7 +31,11 @@
     "PLD 1962 SC 119",
     "PLD 2011 Karachi 605"
   ],
-  "parties": [],
+  "parties": [
+    "Khurram Ghulam Rasool",
+    "Shazia Khurram",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

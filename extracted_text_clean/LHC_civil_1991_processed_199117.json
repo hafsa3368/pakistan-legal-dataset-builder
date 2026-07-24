@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.232 of 2023",
   "date_of_order": "12.06.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mr. Ayaz Ali Chandio",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Danish",
+    "The State",
+    "Imtiaz Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

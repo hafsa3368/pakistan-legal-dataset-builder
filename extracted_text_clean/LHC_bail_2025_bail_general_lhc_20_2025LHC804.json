@@ -9,9 +9,18 @@
   "case_number": "Crl. Misc. No.77329-B of 2024",
   "date_of_order": "11.03.2025",
   "judge": "Farooq Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 324 CrPC",
+    "u/s 498 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Kashif Shehzad",
+    "The State",
+    "Mr. Haroon Rasheed",
+    "Mumtaz",
+    "Mr. Habib Ullah Bhatti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

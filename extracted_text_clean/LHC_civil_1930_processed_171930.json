@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 348 of 2020",
   "date_of_order": "28.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 23",
     "section 382-B Cr.P.C",
     "Section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Moula Bux",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

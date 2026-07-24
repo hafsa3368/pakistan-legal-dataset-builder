@@ -27,7 +27,12 @@
     "PLD 1984 SC 192",
     "PLD 1998 SC 97"
   ],
-  "parties": [],
+  "parties": [
+    "Amir Mahmood",
+    "The State",
+    "Hassan Haider Shah",
+    "Ilyas/S.I. Tariq Saleem Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

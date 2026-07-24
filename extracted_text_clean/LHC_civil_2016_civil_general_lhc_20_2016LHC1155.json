@@ -21,7 +21,11 @@
     "PLD 1995 SC 66",
     "PLD 1973 SC 49"
   ],
-  "parties": [],
+  "parties": [
+    "Amtex Limited",
+    "Bankislami Pakistan Ltd.",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

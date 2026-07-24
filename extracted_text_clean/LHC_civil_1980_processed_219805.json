@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-4597 of 2024",
   "date_of_order": "23.09.2024",
-  "judge": "",
+  "judge": "Nadir",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Rabia Ahsan",
+    "The Government of Sindh and others",
+    "Muhammad Sabar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl. Appeal No. S",
   "date_of_order": "17-04-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382-B Cr.PC"
   ],
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Ahmed son of Nisar Ahmed Hingoro",
+    "Haneef son of Muhammad Allan Shar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

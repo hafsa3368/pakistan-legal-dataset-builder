@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "22.09.2020",
   "judge": "Asim Hafeez",
   "sections_cited": [
@@ -16,7 +16,12 @@
     "1997 CLC 1580",
     "PLD 1971 SC 730"
   ],
-  "parties": [],
+  "parties": [
+    "Mehar Ali",
+    "Karim Bakhsh (deceased)",
+    "Mr. Rafiq Ahmad Malik",
+    "Malik Muhammad Latif Khokhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
