@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "",
+  "case_number": "C.R.No.1927 of 2011",
   "date_of_order": "18.3.2022",
   "judge": "Rasaal Hasan Syed",
   "sections_cited": [],
@@ -22,7 +22,10 @@
     "PLD 1971 SC 730",
     "PLD 1972 SC 25"
   ],
-  "parties": [],
+  "parties": [
+    "Bashir Ahmad (deceased)",
+    "Muhammad Amin Akhtar and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

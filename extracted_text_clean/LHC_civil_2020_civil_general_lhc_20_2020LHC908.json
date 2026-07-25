@@ -29,7 +29,11 @@
     "PLD 2011 SC 997",
     "PLD 2019 Lahore 407"
   ],
-  "parties": [],
+  "parties": [
+    "Tanveer Chishti",
+    "City Police Officer",
+    "Sheikh Muhammad Rizwan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -35,7 +35,11 @@
     "PLD 2018 SC 322",
     "PLD 2017 SC 51"
   ],
-  "parties": [],
+  "parties": [
+    "MCB Bank Limited",
+    "Adeel Shahbaz Steel Mills",
+    "Agha Muhammad Ali Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2021",
   "date_of_order": "19.03.2024",
   "judge": "MASUD ABID NAQVI",
   "sections_cited": [
@@ -19,7 +19,10 @@
     "PLD 2014 SC 696",
     "PLD 2002 SC 84"
   ],
-  "parties": [],
+  "parties": [
+    "Iqbal Hussain",
+    "Govt. of the Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

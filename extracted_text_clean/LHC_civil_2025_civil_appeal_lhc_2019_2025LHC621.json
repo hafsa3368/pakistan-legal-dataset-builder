@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "W.P. No.234510 of 2018",
   "date_of_order": "27.02.2025",
-  "judge": "",
+  "judge": "Ch. Sultan Mahmood",
   "sections_cited": [
     "Section 164 of the Land Revenue Act",
     "section 115 of Civil Procedure Code",
@@ -24,7 +24,12 @@
     "PLD 2018 Lahore 693",
     "PLD 1975 SC 311"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Mushtaq Ahmad Mohal & Ms. Shazia Pervaiz Butt",
+    "Mr. Sittar Sahil",
+    "Mr. Muhammad Yaqoob Kanju",
+    "Mashooq Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

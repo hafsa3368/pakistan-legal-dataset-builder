@@ -30,7 +30,11 @@
     "PLD 2003 Lahore 290",
     "PLD 2010 Lahore 230"
   ],
-  "parties": [],
+  "parties": [
+    "Sheraz Ahmad",
+    "The State",
+    "Mr. Muhammad Shahid Tasawar Rao"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

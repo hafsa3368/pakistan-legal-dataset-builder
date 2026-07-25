@@ -31,7 +31,11 @@
     "2019 CLC 46",
     "PLD 1990 Lahore 66"
   ],
-  "parties": [],
+  "parties": [
+    "Sarfraz Khan",
+    "Province of Punjab",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "civil court. The Appellant also filed W.P. No.95095/2017",
   "date_of_order": "26.09.2019",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 6 of the Act",
     "Section 7"
@@ -17,7 +17,11 @@
     "PLD 2018 Lahore 284",
     "PLD 2020 Lahore 453"
   ],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD YAQOOB",
+    "COMMISSIONER LAHORE DIVISION",
+    "PIA Employees Cooperative Housing Society"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

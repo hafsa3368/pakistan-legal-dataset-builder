@@ -30,7 +30,13 @@
     "1995 MLD 1707",
     "PLD 2009 SC 419"
   ],
-  "parties": [],
+  "parties": [
+    "M.C.R. (Pvt) Ltd",
+    "Multan Development Authority",
+    "NAB",
+    "Pizza Hut",
+    "WASA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "02.12.2020",
   "judge": "Asim Hafeez",
   "sections_cited": [
@@ -21,7 +21,12 @@
     "1980 SCMR 375",
     "2003 SCMR 1772"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Bismillah Agro",
+    "Soneri Bank Ltd.",
+    "M/s Muhammad Suleman Bhatti and Majid Iftikhar",
+    "Mr. Muhammad Salim Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

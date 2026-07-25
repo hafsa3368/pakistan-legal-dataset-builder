@@ -9,7 +9,9 @@
   "case_number": "W.P. No. 63174 of 2021",
   "date_of_order": "14.04.2022",
   "judge": "Muzamil Akhtar Shabir",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [
     "2009 SCMR 382",
     "1993 SCMR 1124",
@@ -19,7 +21,24 @@
     "PLD 1969 SC 223",
     "PLD 1973 SC 144"
   ],
-  "parties": [],
+  "parties": [
+    "Ehtisham Basharat",
+    "D.I.G.",
+    "Sardar Muhammad Ramzan",
+    "Barrister Hassan Khalid Ranjha A.A.G.",
+    "Rafaqat Ali",
+    "Dr. Muhammad Azeem Raja",
+    "Shehryar Farhan Baig",
+    "Nasrullah Khan Babar",
+    "Uzma Razzaq Khan",
+    "Ch. Muhammad Shahid Iqbal",
+    "Syed Imran Ehsan",
+    "Ch. Muhammad Naseer",
+    "Salman Farooq",
+    "Mateen-ul-Haq Chaudhry",
+    "Ms. Zarish Fatima",
+    "Syed Muhammad Haider Kazmi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,7 +9,10 @@
   "case_number": "constitutional W.P. No. 2498",
   "date_of_order": "28.09.2021",
   "judge": "ABID HUSSAIN CHATTHA",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2009 SCMR 329",
     "2008 SCMR 1362",
@@ -19,7 +22,11 @@
     "2013 SCMR 120",
     "2005 SCMR 642"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Shehnaz Ashraf",
+    "Government of the Punjab",
+    "Abid Hussain Chatta"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

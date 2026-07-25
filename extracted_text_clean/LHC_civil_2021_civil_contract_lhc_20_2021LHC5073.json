@@ -9,7 +9,10 @@
   "case_number": "W.P. No.17122/2021",
   "date_of_order": "30.09.2021",
   "judge": "ABID AZIZ SHEIKH",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR 1572",
     "2003 MLD 1108",
@@ -22,7 +25,23 @@
     "PLD 2021 Islamabad 55",
     "PLD 2020 Lahore 565"
   ],
-  "parties": [],
+  "parties": [
+    "A.M. Construction Company (Pvt.) Ltd.",
+    "The Province of Punjab through Secretary Communication & Works Department etc.",
+    "Mr. Rawal Hussain Kazmi",
+    "Barrister Amar Saeed Rawn",
+    "Mian Muhammad Kashif",
+    "Ch. Muhammad Ibraheem",
+    "Ch. Muhammad Yaqoob",
+    "Mian Abdul Ghaffar",
+    "Mian Shah Behram Sukhera",
+    "Pervaiz Khalid",
+    "Naseer Ahmad Ch.",
+    "Junaid Razzaq",
+    "Abdul Hakeem",
+    "Younus Kamal",
+    "Zahid Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "C.R. No.20763 of 2024",
   "date_of_order": "30.05.2024",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -26,7 +26,10 @@
     "PLD 2002 Karachi 502",
     "PLD 1971 SC 762"
   ],
-  "parties": [],
+  "parties": [
+    "Iftikhar Ahmad",
+    "Muhammad Anwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

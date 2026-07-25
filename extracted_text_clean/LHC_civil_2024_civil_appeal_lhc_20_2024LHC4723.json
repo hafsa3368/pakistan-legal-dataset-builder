@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 21,
-  "case_number": "",
+  "case_number": "R.S.A No.69/2006",
   "date_of_order": "13.09.24",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [],
   "citations": [
     "2011 SCMR 837",
@@ -22,7 +22,10 @@
     "PLD 2000 Lahore 385",
     "PLD 1973 SC 236"
   ],
-  "parties": [],
+  "parties": [
+    "Ch. Muhammad Abdul Saleem (deceased) represented by legal heirs",
+    "Mst. Aziza Khatoon (deceased) represented by legal heirs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

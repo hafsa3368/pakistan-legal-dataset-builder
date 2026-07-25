@@ -9,11 +9,19 @@
   "case_number": "W.P. No. 2111/2013",
   "date_of_order": "02.06.2022",
   "judge": "Faisal Zaman Khan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2011 CLC 726"
   ],
-  "parties": [],
+  "parties": [
+    "Sohail Liaquat",
+    "Mst. Salma Shaheen",
+    "Malik Amjad Ali",
+    "Faisal Zaman Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

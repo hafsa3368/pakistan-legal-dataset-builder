@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2023",
   "date_of_order": "27.07.2023",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -29,7 +29,12 @@
     "PLD 1992 SC 207",
     "PLD 2012 Islamabad 50"
   ],
-  "parties": [],
+  "parties": [
+    "Pir Muhammad Construction Company Private Limited",
+    "Water and Development Authority through its Chairman, Lahore",
+    "M/s. Hassan Iqbal Warraich and Arslan Abbas Buttar",
+    "M/s. Salman Mansoor, Muhammad Nadeem Iqbal Zahid and Abdul Majeed Abid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

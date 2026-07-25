@@ -9,11 +9,17 @@
   "case_number": "Civil Revision No.935/2018",
   "date_of_order": "11.11.2025",
   "judge": "ANWAAR HUSSAIN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2021 SC 715"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Mustafa Mazhar",
+    "Samina Amjad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

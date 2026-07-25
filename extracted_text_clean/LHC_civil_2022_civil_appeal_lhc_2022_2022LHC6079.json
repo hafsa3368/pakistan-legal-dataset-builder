@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "HCJDA-38",
   "date_of_order": "03-08-2022",
   "judge": "SULTAN TANVIR AHMAD",
   "sections_cited": [
@@ -25,7 +25,9 @@
     "2018 CLC Note 133",
     "2021 YLR 1973"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Malik alias Badshah Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

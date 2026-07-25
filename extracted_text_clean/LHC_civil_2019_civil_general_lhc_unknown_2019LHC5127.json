@@ -6,12 +6,18 @@
   "year": "2019",
   "used_ocr": true,
   "num_chunks": 5,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Forin No HCJD C-12I ORDER SHEET IN LAHORE HIGH COURT, LAHORE JUDICIAL DEPARTMENT N0. 2729 [2019]",
+  "date_of_order": "08.02.2019",
+  "judge": "Waseem Ijaz",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Agha Abdul Hassan Arif",
+    "Ms Mirjam Aberras Lahdcaho"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

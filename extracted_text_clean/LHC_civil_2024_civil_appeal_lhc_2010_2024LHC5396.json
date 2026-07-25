@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "14.11.2024",
   "judge": "ASIM HAFEEZ",
   "sections_cited": [
@@ -24,7 +24,13 @@
     "2023 SCMR 102",
     "2024 MLD 1590"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Nazar Hussain",
+    "Multan Development Authority",
+    "Malik Javed Akhtar Wains",
+    "Muhammad Irshad Khan",
+    "Syed Shahid Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

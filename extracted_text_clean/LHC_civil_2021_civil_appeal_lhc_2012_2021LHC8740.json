@@ -25,7 +25,10 @@
     "PLD 2014 Lahore 196",
     "PLD 2012 Sindh 182"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ashraf",
+    "Sh. Muhammad Akram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

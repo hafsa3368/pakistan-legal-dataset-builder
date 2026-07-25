@@ -27,7 +27,11 @@
     "PLD 1993 SC 129",
     "PLD 2020 Lahore 285"
   ],
-  "parties": [],
+  "parties": [
+    "Oil Marketing Association of Pakistan",
+    "Oil Companies Advisory Council",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,18 @@
   "num_chunks": 5,
   "case_number": "constrained the petitioner to file W.P. No.19336/2022",
   "date_of_order": "13.02.2024",
-  "judge": "Approved for reporting Maqsood Judge",
-  "sections_cited": [],
+  "judge": "ANWAAR HUSSAIN",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hafiz Malik Muhammad Umar",
+    "Government of Punjab, etc.",
+    "Syed Wajid Hussain Rizvi",
+    "Muhammad Ijaz",
+    "Anwaar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -24,7 +24,10 @@
     "PLD 2021 SCMR 1077",
     "PLD 2019 SC 675"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Sheikh Abdul Waheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "05.04.2024",
   "judge": "Sultan Tanvir Ahmad",
   "sections_cited": [
@@ -27,7 +27,10 @@
     "PLD 2016 Lahore 428",
     "PLD 1983 SC 68"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar Khan",
+    "Muhammad Ibrahim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

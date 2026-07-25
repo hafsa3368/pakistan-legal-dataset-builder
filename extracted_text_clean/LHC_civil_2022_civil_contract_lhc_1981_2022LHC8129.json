@@ -24,7 +24,10 @@
     "PLD 1991 SC 582",
     "PLD 1971 SC 791"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Muhammad",
+    "Hakim-ud-Din"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

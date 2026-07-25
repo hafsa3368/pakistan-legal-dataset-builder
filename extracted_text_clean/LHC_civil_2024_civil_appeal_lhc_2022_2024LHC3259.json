@@ -19,7 +19,11 @@
     "PLD 2018 Sindh 581",
     "PLD 2019 Lahore 17"
   ],
-  "parties": [],
+  "parties": [
+    "Tariq Sheikh",
+    "Federal Ombudsman",
+    "LUMS"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

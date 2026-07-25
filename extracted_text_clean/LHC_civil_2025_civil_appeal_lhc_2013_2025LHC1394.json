@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "C.R. No.1966/2013",
   "date_of_order": "13.03.2025",
   "judge": "Hassan Nawaz Makhdoom",
   "sections_cited": [
@@ -24,7 +24,13 @@
     "PLD 2007 SC 302",
     "PLD 2020 SC 233"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Waris",
+    "Muhammad Nawaz",
+    "Talib Hussain son of Zulfiqar",
+    "Gada Hussain son of Muhammad Nawaz Hussain",
+    "Ch. Nazir Ahmed son of Barkat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

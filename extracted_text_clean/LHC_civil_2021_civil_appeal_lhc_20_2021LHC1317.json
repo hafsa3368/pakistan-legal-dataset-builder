@@ -33,7 +33,11 @@
     "PLD 2018 Lahore 735",
     "PLD 2012 Lahore 392"
   ],
-  "parties": [],
+  "parties": [
+    "Mian Rehan Arshad",
+    "Saba Gul",
+    "Ch. Abdul Majeed-III"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

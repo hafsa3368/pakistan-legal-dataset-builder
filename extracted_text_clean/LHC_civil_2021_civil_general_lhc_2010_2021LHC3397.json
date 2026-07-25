@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "02.07.2021",
   "judge": "AHMAD NADEEM ARSHAD",
   "sections_cited": [
@@ -15,7 +15,10 @@
     "Section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Majeed",
+    "Hussain Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

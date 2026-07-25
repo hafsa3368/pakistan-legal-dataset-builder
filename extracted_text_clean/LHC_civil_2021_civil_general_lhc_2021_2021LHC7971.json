@@ -31,7 +31,12 @@
     "PLD 1986 SC 256",
     "PLD 1987 Lahore 245"
   ],
-  "parties": [],
+  "parties": [
+    "Waqas alias Kashi",
+    "The State",
+    "Muhammad Amin",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

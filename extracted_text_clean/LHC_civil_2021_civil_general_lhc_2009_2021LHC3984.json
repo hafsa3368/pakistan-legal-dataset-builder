@@ -9,7 +9,10 @@
   "case_number": "criminal case then respondent No.1",
   "date_of_order": "29.07.2021",
   "judge": "ALI ZIA BAJWA",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2009 YLR 1766",
     "2005 MLD 1190",

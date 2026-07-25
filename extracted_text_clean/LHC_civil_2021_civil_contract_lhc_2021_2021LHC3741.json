@@ -9,7 +9,14 @@
   "case_number": "Criminal Revision No.42994/2021",
   "date_of_order": "28.07.2021",
   "judge": "MUHAMMAD AMJAD RAFIQ",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 420, 468,471 of PPC",
+    "u/s 476",
+    "u/s 195",
+    "u/s 249",
+    "u/s 12 of CPC",
+    "u/s 249 of Cr.P.C"
+  ],
   "citations": [
     "2013 YLR 2513",
     "2014 YLR 2241",
@@ -24,7 +31,16 @@
     "PLD 1985 SC 134",
     "PLD 2018 Sindh 360"
   ],
-  "parties": [],
+  "parties": [
+    "Tariq Irshad",
+    "Special Judge",
+    "Mr. Abdul Ghafoor Sheikh",
+    "Malik Khalid Shafiq",
+    "Sohail Sub-Inspector/FIA",
+    "M/s. Mushtaq Ahmad Mohal",
+    "Muhammad Ijaz Sabzwari",
+    "Sardar Abdul Jabbar Nabi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Stereo.HCJDA.38",
   "date_of_order": "19-02-2024",
   "judge": "Arsalan",
   "sections_cited": [
@@ -24,7 +24,10 @@
     "2021 YLR 869",
     "PLD 2004 Lahore 330"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Sibt Hassan",
+    "Saba Batool"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

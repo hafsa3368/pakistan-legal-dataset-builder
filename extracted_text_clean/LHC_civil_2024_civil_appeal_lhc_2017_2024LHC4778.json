@@ -9,14 +9,26 @@
   "case_number": "Civil Revision No.1581-D of 2019",
   "date_of_order": "04.09.2024",
   "judge": "ANWAAR HUSSAIN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1994 SCMR 818",
     "2017 CLC Note 229",
     "PLD 1995 LAH 321",
     "PLD 1975 SC 678"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Ayesha",
+    "Mst. Shama",
+    "Malik Babar Saleem",
+    "Malik Muhammad Ali Dhol",
+    "Imam Bakhsh",
+    "Allah Ditta",
+    "Amina Bibi",
+    "Raja Abdul Rasheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

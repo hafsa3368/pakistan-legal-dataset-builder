@@ -8,8 +8,11 @@
   "num_chunks": 9,
   "case_number": "constrained not",
   "date_of_order": "04.03.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "CH. MUHAMMAD IQBAL",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1972 SCMR 237",
     "1989 SCMR 640",
@@ -23,7 +26,11 @@
     "PLD 2001 SC 131",
     "PLD 2005 Lahore 331"
   ],
-  "parties": [],
+  "parties": [
+    "Sajjad Hussain Versus ADJ etc.",
+    "Malik Abdul Rasheed Khera",
+    "Mr. Muhammad Amin Khan Sial"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

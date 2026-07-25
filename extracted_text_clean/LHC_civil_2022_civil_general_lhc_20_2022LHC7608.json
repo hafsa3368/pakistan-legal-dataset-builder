@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 27,
-  "case_number": "",
+  "case_number": "C.M.No.05 of 2018",
   "date_of_order": "14.11.2022",
   "judge": "JAWAD HASSAN",
   "sections_cited": [
@@ -31,7 +31,13 @@
     "PLD 1972 SC 337",
     "PLD 1987 SC 512"
   ],
-  "parties": [],
+  "parties": [
+    "Faysal Bank Limited",
+    "Haris Steel Industry (Pvt.) Limited",
+    "M/s. Ashiq Hussain Hanjra and Qaisar Mehmood",
+    "Mr. Majid Ali Wajid, ASC/Amicus Curiae",
+    "Mr. Ruman Bilal, Advocate for SECP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

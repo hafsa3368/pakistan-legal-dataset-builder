@@ -6,12 +6,18 @@
   "year": "2019",
   "used_ocr": true,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "08.02.2019",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M s Asif Iqbal",
+    "Abdullah Chaudhry Advocates for petitioner Mr, Aurangzaib Mirza Advocate for respondent No 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

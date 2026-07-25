@@ -8,12 +8,20 @@
   "num_chunks": 15,
   "case_number": "W.P.No.80553/2023",
   "date_of_order": "09.09.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ch. Muhammad Iqbal",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "PLD 2018 Lahore 426"
   ],
-  "parties": [],
+  "parties": [
+    "Kaniz Haider",
+    "Khaliq Dad",
+    "Muhammad Asghar",
+    "Fariha Aalia",
+    "Nasreen Akhtar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

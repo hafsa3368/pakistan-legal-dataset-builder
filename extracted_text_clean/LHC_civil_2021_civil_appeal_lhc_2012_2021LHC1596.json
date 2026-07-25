@@ -23,7 +23,12 @@
     "PLD 1970 SC 180",
     "PLD 2015 SC 166"
   ],
-  "parties": [],
+  "parties": [
+    "Province of Punjab",
+    "Atta Rasool",
+    "Mian Khurram Sadiq",
+    "Anwaar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

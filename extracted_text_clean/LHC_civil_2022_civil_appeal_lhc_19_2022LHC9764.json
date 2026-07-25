@@ -31,7 +31,13 @@
     "PLD 2022 Lahore 1",
     "PLD 2021 Lahore 770"
   ],
-  "parties": [],
+  "parties": [
+    "Netherlands Financierings Maatschappij Voor Ontwikkelingslanden N.V. (F.M.O.)",
+    "Morgah Valley Limited",
+    "SECP",
+    "IDBL Bank",
+    "Dutch Development Bank"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

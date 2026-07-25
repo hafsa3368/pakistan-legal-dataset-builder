@@ -27,7 +27,11 @@
     "PLD 2007 Lahore 518",
     "PLD 2012 SC 247"
   ],
-  "parties": [],
+  "parties": [
+    "Adeel Khalid Bajwa",
+    "Bashir Ahmad Tahir",
+    "Wincom (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

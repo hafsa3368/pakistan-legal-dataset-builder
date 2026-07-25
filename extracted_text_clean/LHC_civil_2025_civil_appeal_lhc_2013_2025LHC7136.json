@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "ICA No.130 of 2025",
   "date_of_order": "27.11.2025",
   "judge": "RAHEEL KAMRAN",
   "sections_cited": [
@@ -27,7 +27,12 @@
     "PLD 1957 SC 63",
     "PLD 2022 SC 783"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Umair Farooqi",
+    "The Federation of Pakistan and others",
+    "Mr. Muhammad Atif Qureshi",
+    "Ms. Riffat Yasmeen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

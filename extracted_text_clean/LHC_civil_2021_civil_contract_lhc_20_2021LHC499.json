@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "08.02.2021",
-  "judge": "",
+  "judge": "CH. MUHAMMAD IQBAL",
   "sections_cited": [
     "Section 105",
     "Section 7 of the Muslim Family Laws Ordinance",
@@ -20,7 +20,11 @@
     "2012 CLC 837",
     "2018 CLC 1844"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sajjad",
+    "ADJ",
+    "Jam Ghulam Asghar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

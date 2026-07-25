@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "C.M.No.3 of 2022",
   "date_of_order": "07.02.2023",
-  "judge": "Approved for Reporting JUDGE Manzoor",
+  "judge": "JAWAD HASSAN",
   "sections_cited": [
     "Sections 19 and 2",
     "Section 9",
@@ -21,7 +21,11 @@
     "2015 SCMR 1243",
     "2022 SCMR 1454"
   ],
-  "parties": [],
+  "parties": [
+    "MCB Bank Limited",
+    "M/S MAZCO Industries Private Limited",
+    "JAWAD HASSAN"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

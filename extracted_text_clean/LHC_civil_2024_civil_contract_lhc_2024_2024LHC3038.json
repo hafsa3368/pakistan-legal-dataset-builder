@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "09.05.2024",
-  "judge": "JUDGE Approved for Reporting Judge",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [],
   "citations": [
     "2014 SCMR 1573",
@@ -27,7 +27,11 @@
     "PLD 1961 SC 531",
     "PLD 1966 SC 445"
   ],
-  "parties": [],
+  "parties": [
+    "Ahsan Allahi Zaheer",
+    "Government of Punjab through Secretary, Primary and Secondary Healthcare Department Punjab Lahore",
+    "Mahmood Ahmad Bhatti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

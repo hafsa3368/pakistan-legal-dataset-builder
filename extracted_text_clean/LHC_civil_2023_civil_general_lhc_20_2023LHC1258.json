@@ -25,7 +25,12 @@
     "2006 SCMR 1347",
     "PLD 2012 SC 268"
   ],
-  "parties": [],
+  "parties": [
+    "MCB Bank Limited",
+    "Tanveer Spinning and Weaving Mills and others",
+    "The Summit Bank Limited",
+    "The Bank of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "constitutional petition is not",
   "date_of_order": "24.08.2015",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 2",
     "section 30 of the Act"
@@ -26,7 +26,10 @@
     "PLD 2010 SC 676",
     "PLD 2011 SC 132"
   ],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD SHAFIQUE",
+    "GOVERNMENT OF PUNJAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

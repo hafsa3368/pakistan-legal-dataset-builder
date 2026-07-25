@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.R.No.55453 of 2022",
   "date_of_order": "12.10.2022",
   "judge": "RASAAL HASAN SYED",
   "sections_cited": [],
@@ -15,7 +15,10 @@
     "2007 SCMR 729",
     "PLD 2003 SC 688"
   ],
-  "parties": [],
+  "parties": [
+    "Raheela Begum",
+    "Nargis Bano"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

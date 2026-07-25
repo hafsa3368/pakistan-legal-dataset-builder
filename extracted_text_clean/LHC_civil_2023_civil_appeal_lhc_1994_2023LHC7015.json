@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "R.F.A.No.93 of 2021",
   "date_of_order": "12.10.2023",
   "judge": "MUHAMMAD RAZA QURESHI",
   "sections_cited": [
@@ -29,7 +29,10 @@
     "1994 SCMR 2189",
     "1996 SCMR 575"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Faisal Mahmood & another",
+    "Shahid Ali & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

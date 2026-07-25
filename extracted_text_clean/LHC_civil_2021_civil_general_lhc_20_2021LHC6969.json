@@ -6,17 +6,30 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "WP No. 15138 of 2020",
   "date_of_order": "10.11.2021",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 CLC 1841",
     "2014 CLC 860",
     "2012 SCMR 1235",
     "PLD 2016 Lahore 622"
   ],
-  "parties": [],
+  "parties": [
+    "Roshan Din",
+    "Rashida Ilyas",
+    "Ch. Shakeel Gondal",
+    "Mrs. Zarish Fatima",
+    "Mateen ul Haq Chaudhry",
+    "Rana Muhammad Majid",
+    "Ch. Shahid Iqbal",
+    "Mr. Abdul Wakeel Kamboh",
+    "Respondent Nos. 1 and 2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

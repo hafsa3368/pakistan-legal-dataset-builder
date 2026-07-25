@@ -9,7 +9,10 @@
   "case_number": "Civil Revision No.1432 of 2015",
   "date_of_order": "02.05.2023",
   "judge": "MUHAMMAD RAZA QURESHI",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 17 Qanun-e-Shahadat Order, 1984",
+    "Section 79 Qanun-e-Shahadat Order, 1984"
+  ],
   "citations": [
     "2017 CLC 996",
     "2016 SCMR 24",
@@ -21,7 +24,9 @@
     "PLD 2005 Lahore 654",
     "PLD 2008 Lahore 51"
   ],
-  "parties": [],
+  "parties": [
+    "Karam Elahi vs Ahmad Din, etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "34/2014",
   "date_of_order": "12.10.2023",
   "judge": "Tariq Saleem Sheikh",
   "sections_cited": [
@@ -27,7 +27,10 @@
     "PLD 1976 Lahore 1268",
     "PLD 1988 Karachi 24"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Zafar",
+    "Muhammad Sadiq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,14 +9,28 @@
   "case_number": "W.P. No. 78710 of 2022",
   "date_of_order": "06.04.2023",
   "judge": "Muzamil Akhtar Shabir",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Section 378 IPC"
+  ],
   "citations": [
     "2014 SCMR 157",
     "2015 SCMR 112",
     "2000 SCMR 966",
     "2008 SCMR 960"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Fareed",
+    "Government of Punjab",
+    "Mr. Muhammad Kamran-ur-Rashid Mayo",
+    "Mr. Muhammad Nawaz Shah",
+    "Malik Khuda Yar",
+    "Raja Najam Waseem",
+    "T.T. Singh",
+    "Arshad Tabassum",
+    "The Registrar, Lahore High Court, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

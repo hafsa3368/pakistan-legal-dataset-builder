@@ -6,10 +6,13 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "HCJDA-38",
   "date_of_order": "13.09.2023",
   "judge": "SULTAN TANVIR AHMAD",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 YLR 1363",
     "2003 SCMR 1836",

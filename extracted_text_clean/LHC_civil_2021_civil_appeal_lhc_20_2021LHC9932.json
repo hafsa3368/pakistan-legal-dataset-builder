@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "04.06.2021",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 2",
     "Section 3 of the Act",
@@ -20,7 +20,10 @@
     "2020 CLC 503",
     "PLD 2019 Lahore 407"
   ],
-  "parties": [],
+  "parties": [
+    "ASAD ARFEEN",
+    "PROVINCE OF PUNJAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

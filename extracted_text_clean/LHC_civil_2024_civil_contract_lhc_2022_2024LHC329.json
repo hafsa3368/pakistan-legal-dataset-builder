@@ -25,7 +25,14 @@
     "2022 MLD 1216",
     "2023 CLC 616"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "petitioner"
+    },
+    {
+      "type": "respondent"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

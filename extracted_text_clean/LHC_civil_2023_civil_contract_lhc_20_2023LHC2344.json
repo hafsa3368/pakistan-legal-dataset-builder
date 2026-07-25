@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "06.04.2023",
   "judge": "Jawad Hassan",
   "sections_cited": [
@@ -21,7 +21,10 @@
     "2021 SCMR 747",
     "PLD 2010 SC 265"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "Khalid Mahmood and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,16 +6,24 @@
   "year": "2021",
   "used_ocr": true,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "16.09.1999",
-  "judge": "",
+  "judge": "HUSSAIN CH",
   "sections_cited": [
     "Section 5",
     "Section ٧١",
     "Section 22"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Punjab",
+    "Haji Salahaud Din",
+    "Shahid Mehmoud",
+    "Furrukh Mchmood Mughal",
+    "Noor Muhammad",
+    "Kailway Crossing SKHP Taxila Glecla",
+    "District Collectu, Rutalpindi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

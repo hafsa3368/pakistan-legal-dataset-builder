@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Writ Petition No.31580 of 2021",
   "date_of_order": "24.05.2021",
   "judge": "MUHAMMAD RAZA QURESHI",
   "sections_cited": [
@@ -22,7 +22,12 @@
     "section 5 of the Regularization Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kiran Jaan",
+    "Province of the Punjab, etc.",
+    "Ch. Imtiaz Ahmad Taj, Advocate for the Petitioner",
+    "Barrister Hassan Khalid Ranjha, Assistant Advocate General, Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

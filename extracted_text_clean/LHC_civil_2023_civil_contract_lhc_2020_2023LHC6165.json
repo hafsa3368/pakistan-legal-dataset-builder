@@ -9,7 +9,10 @@
   "case_number": "misconceived inasmuch as the children cannot",
   "date_of_order": "13.11.2023",
   "judge": "ANWAAR HUSSAIN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 CLC 1260",
     "2018 CLC 767",
@@ -18,7 +21,12 @@
     "PLD 2002 SC 267",
     "PLD 2020 SC 508"
   ],
-  "parties": [],
+  "parties": [
+    "Imtiaz Hussain",
+    "District Judge",
+    "Tooba Zahra",
+    "Anwaar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

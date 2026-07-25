@@ -9,7 +9,10 @@
   "case_number": "W.P.No.505/2022",
   "date_of_order": "11.10.2022",
   "judge": "JAWAD HASSAN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 MLD 370",
     "PLD 2020 Lahore 229",
@@ -20,7 +23,10 @@
     "PLD 2021 Lahore 1",
     "CLC 2020 Lahore 157"
   ],
-  "parties": [],
+  "parties": [
+    "Zafar Khizer",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

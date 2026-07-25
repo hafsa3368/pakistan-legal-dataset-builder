@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "07.10.2021",
   "judge": "ANWAAR HUSSAIN",
   "sections_cited": [
@@ -27,7 +27,11 @@
     "2021 CLC 623",
     "PLD 2009 SC 45"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yasin",
+    "Additional District Judge, Burewala",
+    "Abdul Majeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

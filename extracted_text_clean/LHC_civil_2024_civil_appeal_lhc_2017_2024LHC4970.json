@@ -9,7 +9,9 @@
   "case_number": "Civil Appeal No. 06 of 2006",
   "date_of_order": "08-10-2024",
   "judge": "Sultan Tanvir Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 35-A of CPC"
+  ],
   "citations": [
     "2022 SCMR 1793",
     "2020 SCMR 300",
@@ -20,7 +22,10 @@
     "2009 MLD 106",
     "PLD 2013 Lahore 30"
   ],
-  "parties": [],
+  "parties": [
+    "Shahid Hussain",
+    "Abdul Jabbar Tassaduq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

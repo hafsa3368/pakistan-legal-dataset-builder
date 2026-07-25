@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "COS No.21/2017",
   "date_of_order": "13.06.2024",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -28,7 +28,13 @@
     "PLD 2000 Karachi 246",
     "PLD 2014 SC 331"
   ],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "M/s Salman Noman Enterprises Ltd.",
+    "Defendant No.1 to 7",
+    "Defendant No.11",
+    "Defendants No.8 to 10 and 12 to 14"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

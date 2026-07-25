@@ -9,14 +9,19 @@
   "case_number": "W.P.No.5287 of 2009",
   "date_of_order": "17.01.2018",
   "judge": "AHMAD NADEEM ARSHAD",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 12 CPC"
+  ],
   "citations": [
     "2016 SCMR 834",
     "2005 SCMR 720",
     "1982 CLC 550",
     "1993 CLC 1202"
   ],
-  "parties": [],
+  "parties": [
+    "Ashiq Muhammad (deceased) through L.Rs & others",
+    "Muhammad Usman (deceased) through L.Rs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

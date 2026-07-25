@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "22.02.2021",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "Section 159 of Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tariq Mehmood",
+    "Siraj ud Din",
+    "Malik Javed Aslam Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

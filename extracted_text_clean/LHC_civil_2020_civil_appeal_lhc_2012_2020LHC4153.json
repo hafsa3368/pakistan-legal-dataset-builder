@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Revision No.02 of 2020",
   "date_of_order": "01.12.2020",
-  "judge": "Approved for Reporting Judge",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "sections 435 and 439",
     "Section 30 of the Code",
@@ -24,7 +24,10 @@
   "citations": [
     "2008 SCMR 784"
   ],
-  "parties": [],
+  "parties": [
+    "Ashiq Hussain",
+    "Arshad Mehmood and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

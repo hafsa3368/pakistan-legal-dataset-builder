@@ -33,7 +33,11 @@
     "PLD 2017 SC 28",
     "PLD 1971 SC 677"
   ],
-  "parties": [],
+  "parties": [
+    "Al-Arabia Sugar Mills Limited",
+    "Federal Investigation Agency",
+    "Securities & Exchange Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

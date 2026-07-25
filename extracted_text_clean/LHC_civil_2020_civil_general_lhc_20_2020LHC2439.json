@@ -30,7 +30,13 @@
     "PLD 2007 Karachi 116",
     "PLD 2011 SC 619"
   ],
-  "parties": [],
+  "parties": [
+    "Al-Bakio International",
+    "Punjab Curriculum & Textbook Board",
+    "Ministry of Federal Education and Professional Training National Curriculum Council Secretariat",
+    "Government of Pakistan",
+    "PCTB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -19,7 +19,10 @@
     "1994 CLC 2281",
     "PLD 1993 Karachi 38"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Zaheer",
+    "Abdul Majeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

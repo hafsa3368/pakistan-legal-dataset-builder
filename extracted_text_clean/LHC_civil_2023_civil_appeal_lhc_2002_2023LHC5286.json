@@ -25,7 +25,10 @@
     "PLD 2002 SC 655",
     "PLD 2016 Lahore 428"
   ],
-  "parties": [],
+  "parties": [
+    "Fayyaz Ahmad",
+    "Subay Deen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

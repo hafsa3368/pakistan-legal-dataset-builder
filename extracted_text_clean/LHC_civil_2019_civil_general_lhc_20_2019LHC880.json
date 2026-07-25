@@ -27,7 +27,12 @@
     "PLD 1988 SC 416",
     "PLD 2013 Lahore 343"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Uneeb Ahmed",
+    "Federation of Pakistan",
+    "Government of Pakistan",
+    "Pakistan Engineering Council"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

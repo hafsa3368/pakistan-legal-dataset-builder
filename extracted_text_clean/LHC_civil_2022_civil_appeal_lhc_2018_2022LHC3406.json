@@ -8,12 +8,18 @@
   "num_chunks": 10,
   "case_number": "Civil Judge shall either C.R. No.29162 of 2019",
   "date_of_order": "21.4.2022",
-  "judge": "APPROVED FOR REPORTING JUDGE Imran",
-  "sections_cited": [],
+  "judge": "RASAAL HASAN SYED",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1985 SCMR 1228"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yaqoob",
+    "Muhammad Ashiq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -28,7 +28,11 @@
     "2019 MLD 194",
     "PLD 2014 Peshawar 210"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Enterprises",
+    "Federation of Pakistan",
+    "NTC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

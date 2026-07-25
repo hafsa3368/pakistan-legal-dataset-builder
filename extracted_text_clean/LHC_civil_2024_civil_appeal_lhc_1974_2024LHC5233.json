@@ -25,7 +25,10 @@
     "2020 CLC Note 12",
     "PLD 2018 Lahore 819"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal",
+    "Imam Bakhsh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

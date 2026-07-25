@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "C.M.No.72-C of 2010 in RSA No.146 of 2006",
   "date_of_order": "26.06.2023",
   "judge": "Syed Zameer",
   "sections_cited": [
@@ -29,7 +29,15 @@
     "PLD 2013 SC 478",
     "PLD 2016 SC 358"
   ],
-  "parties": [],
+  "parties": [
+    "Government of Pakistan through Secretary Ministry of Housing and Works",
+    "Muhammad Anwar Khan, etc.",
+    "Federation of Pakistan",
+    "Secretary, Ministry of Housing and Works, Islamabad",
+    "Mr. Mian Khalid Habib Elahi, Advocate",
+    "Respondents No.2 to 5 Mr.Manzoor Hussain Dogar, Advocate",
+    "Mr. Waqar Saeed Khan, Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

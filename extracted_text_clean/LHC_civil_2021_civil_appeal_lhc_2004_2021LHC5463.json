@@ -27,7 +27,11 @@
     "PLD 1971 Lahore 148",
     "PLD 1990 Lahore 222"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Ghafoor",
+    "Province of the Punjab",
+    "Assistant Advocate General of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

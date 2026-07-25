@@ -9,7 +9,10 @@
   "case_number": "Constitutional jurisdiction was not",
   "date_of_order": "08.09.2022",
   "judge": "MIRZA VIQAS RAUF",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1996 SCMR 1433",
     "2010 CLC 1798",
@@ -19,7 +22,13 @@
     "2008 CLC 200",
     "PLD 2006 Lahore 298"
   ],
-  "parties": [],
+  "parties": [
+    "Azeem Khan and another",
+    "Government of the Punjab through Secretary Mines & Minerals, Punjab Secretariat, Lahore",
+    "Mr. Fazli Qadir Khan, Advocate for the petitioner",
+    "Ms. Amna Ali, Assistant Advocate General for Punjab alongwith M. Ahsan Saleem, Assistant Director Mines and Minerals.",
+    "Mr. Mujeeb ur Rehman Kiani, Advocate for respondent No.6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "29.10.2021",
   "judge": "Tariq Saleem Sheikh",
   "sections_cited": [
@@ -33,7 +33,17 @@
     "PLD 1953 Lahore 495",
     "PLD 2006 Lahore 304"
   ],
-  "parties": [],
+  "parties": [
+    "Nirma Shahzadi",
+    "The State etc.",
+    "Mr. Zain Sheikh",
+    "Mr. Kashif Anwar Sipra",
+    "Ch. Waheed Akram Gill",
+    "Mr. Muddasar Elahi Warraich",
+    "Ilyas/ASI",
+    "Mr. Faisal Ghafoor Khokhar",
+    "Tariq Saleem Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

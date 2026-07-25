@@ -8,15 +8,32 @@
   "num_chunks": 11,
   "case_number": "civil miscellaneous application No. 02 of 2023",
   "date_of_order": "18-04-2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "SULTAN TANVIR AHMAD",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2006 SCMR 219",
     "2015 CLC 34",
     "1983 SCMR 137",
     "1984 CLC 1479"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Aslam",
+    "Govt. of the Punjab",
+    "Raja Mansoor Ahmad",
+    "Aftab Ahmad",
+    "Sajid Rehman",
+    "Rashid Latif",
+    "Mines & Mineral Department",
+    "Muhammad Fahad",
+    "Kashif Sajin",
+    "EPA",
+    "Punjab Lahore",
+    "Mr. Muhammad Naseem Kashmiri",
+    "Addl. Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

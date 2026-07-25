@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "RFA No.58154/2019",
   "date_of_order": "13.1.2021",
   "judge": "Rizwan",
   "sections_cited": [
@@ -22,7 +22,13 @@
     "2018 CLC 1409",
     "2020 CLC 300"
   ],
-  "parties": [],
+  "parties": [
+    "Ambreen Moazzam Ali",
+    "Ahmad Zia Ch.",
+    "Abid Aziz Sheikh",
+    "Ch. Muhammad Sarwar",
+    "Mr. Muhammad Tariq Bashir Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "",
+  "case_number": "C.R.No. 47469 of 2022",
   "date_of_order": "04.08.2022",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -29,7 +29,12 @@
     "PLD 2016 SC 995",
     "PLD 2013 SC 255"
   ],
-  "parties": [],
+  "parties": [
+    "Ameer Ali",
+    "Mr. Ansar Ali Sidhu",
+    "Barrister Hassan Khalid Ranjha",
+    "Ms. Zarish Fatima"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

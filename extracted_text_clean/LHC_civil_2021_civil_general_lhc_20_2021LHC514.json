@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "W.P.No.681/2020",
   "date_of_order": "22.02.2021",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 10",
     "Section 23 of the Contract Act",
@@ -32,7 +32,12 @@
     "PLD 2001 SC 131",
     "PLD 2005 Lahore 331"
   ],
-  "parties": [],
+  "parties": [
+    "Punjab Provincial Cooperative Bank Limited",
+    "Member (Colonies), Board of Revenue Punjab",
+    "Abdul Saboor",
+    "Muhammad Anwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

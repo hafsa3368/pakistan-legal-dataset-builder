@@ -9,7 +9,10 @@
   "case_number": "Civil Revision No. 714 of 2017",
   "date_of_order": "08.10.2025",
   "judge": "Sultan Tanvir Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 1986",
     "2019 MLD 824",
@@ -20,7 +23,10 @@
     "2009 SCMR 589",
     "PLD 1995 SC 381"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Ahmed",
+    "Zulfiqar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

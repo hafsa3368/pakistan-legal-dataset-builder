@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Civil Petition No.941 of 2010",
   "date_of_order": "08.11.2023",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 7"
   ],
@@ -24,7 +24,10 @@
     "2008 SCMR 960",
     "2014 SCMR 157"
   ],
-  "parties": [],
+  "parties": [
+    "Usama Bin Maalik",
+    "Federal Public Service Commission"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

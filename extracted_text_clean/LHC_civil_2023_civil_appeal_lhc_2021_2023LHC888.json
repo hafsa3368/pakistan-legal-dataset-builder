@@ -36,7 +36,10 @@
     "PLD 2000 Lah 449",
     "PLD 2021 Islamabad 431"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sajid",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

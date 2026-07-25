@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Revision No. 154419 of 2018",
   "date_of_order": "27.09.2002",
-  "judge": "",
+  "judge": "Masud Abid Naqvi",
   "sections_cited": [
     "Section 19 of Limitation Act",
     "section 19 of the Act",
@@ -26,7 +26,17 @@
     "PLD 1983 SC 344",
     "PLD 1969 SC 617"
   ],
-  "parties": [],
+  "parties": [
+    "Ahsanullah",
+    "Umar Hayat",
+    "Muslim Commercial Bank Ltd.",
+    "Haji Abdul Karim and others",
+    "Messrs Florida Builders (Pvt.) Limited",
+    "Dr. Muhammad Javaid Shafi and others",
+    "Syed Rashid Arshad and others",
+    "Mst. Asiya Kausar and 2 others",
+    "Malik Shahbaz Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,13 +9,20 @@
   "case_number": "W.P. No. 65575/2021",
   "date_of_order": "01.11.2021",
   "judge": "Asim Hafeez",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2011 SCMR 1743",
     "2021 SCMR 775",
     "PLD 2014 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "M/s 3N-LIFEMED PHARMACEUTICALS",
+    "Government of Punjab through Secretary Primary & Secondary Healthcare department",
+    "Mr. Muhammad Faizan Saleem",
+    "Mr. Zafar Rahim Sukhera"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

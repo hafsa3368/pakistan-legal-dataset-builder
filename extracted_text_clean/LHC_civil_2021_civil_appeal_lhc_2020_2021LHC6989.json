@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2020",
   "date_of_order": "27.10.2021",
   "judge": "AHMAD NADEEM ARSHAD",
   "sections_cited": [
@@ -20,7 +20,11 @@
     "Section 74"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MCB Bank Limited",
+    "M/s Mushtaq& Company",
+    "02 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

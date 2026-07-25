@@ -9,12 +9,18 @@
   "case_number": "Civil Revision No.1376 of 2022",
   "date_of_order": "12.10.2022",
   "judge": "AHMAD NADEEM ARSHAD",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2019 SCMR 84",
     "1994 SCMR 1555"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Sara Akhtar",
+    "Mehmood Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

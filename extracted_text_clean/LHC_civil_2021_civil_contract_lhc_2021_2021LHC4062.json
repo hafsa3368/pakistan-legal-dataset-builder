@@ -27,7 +27,12 @@
     "PLD 2008 Quetta 14",
     "PLD 2002 SC 1111"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Superior Connections (Pvt) Limited",
+    "Federation of Pakistan etc.",
+    "Pakistan Medical Commission",
+    "Soar Testing and Evaluation Platform (SMC-Private) Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

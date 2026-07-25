@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "20.09.2021",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "Section 10"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Jamal Tube (Pvt) Ltd, Lahore",
+    "First Punjab Modaraba, Lahore",
+    "MUHAMMAD SAJID MEHMOOD SETHI"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "Writ Petition No. 3109-H of 2024",
   "date_of_order": "02.05.2024",
   "judge": "Muhammad Amjad Rafiq",
   "sections_cited": [
@@ -25,7 +25,14 @@
     "2022 SCMR 2123",
     "PLD 1995 Lahore 151"
   ],
-  "parties": [],
+  "parties": [
+    "Sadia Aziz",
+    "DPO etc.",
+    "Mr. Muhammad Ajmal Khan Bhutta, Advocate",
+    "Mehboob, ASI",
+    "Sardar Basit Khan Baloch, Nazar Aslam",
+    "Ms. Mehreen Riaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

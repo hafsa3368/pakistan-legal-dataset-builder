@@ -9,7 +9,10 @@
   "case_number": "criminal RSA No.62/2018",
   "date_of_order": "13.09.2022",
   "judge": "ANWAAR HUSSAIN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2003 MLD 399",
     "2017 CLC 996",
@@ -20,7 +23,10 @@
     "PLD 2011 SC 296",
     "PLD 1969 SC 617"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Shamim Akhtar",
+    "Muhammad Younis Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

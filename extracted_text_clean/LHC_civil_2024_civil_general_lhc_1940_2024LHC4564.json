@@ -26,7 +26,10 @@
     "PLD 2006 Lahore 534",
     "PLD 2004 Lahore 404"
   ],
-  "parties": [],
+  "parties": [
+    "Tafazzal Abbas",
+    "Saif-ur-Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

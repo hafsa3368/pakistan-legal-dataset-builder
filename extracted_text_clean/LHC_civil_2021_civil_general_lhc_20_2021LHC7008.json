@@ -8,8 +8,12 @@
   "num_chunks": 8,
   "case_number": "Constitutional petition was not",
   "date_of_order": "02.05.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 18 & 199 of the Constitution of Pakistan"
+  ],
   "citations": [
     "2001 CLC 608",
     "2014 SCMR 122",
@@ -17,7 +21,12 @@
     "PLD 1969 SC 223",
     "PLD 2007 SC 52"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan through Secretary Ministry of Finance Islamabad and 11 others",
+    "Petitioners",
+    "Haji Muhammad Asif Sehar and another",
+    "Ms. Sofia Waqar Khattak, PSO to Chief Justice"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

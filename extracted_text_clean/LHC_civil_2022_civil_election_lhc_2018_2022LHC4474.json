@@ -19,7 +19,28 @@
     "PLD 1995 SC 66",
     "PLD 1998 SC 1263"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "petitioner",
+      "name": "Zain Qureshi"
+    },
+    {
+      "type": "applicant",
+      "name": "Muhammad Salman and another"
+    },
+    {
+      "type": "appellant",
+      "name": "Sajeel Sheryar Swati"
+    },
+    {
+      "type": "respondent No.1",
+      "name": "Mughees Aslam Malik"
+    },
+    {
+      "type": "respondent No.2",
+      "name": "Muzaffar Hussain"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

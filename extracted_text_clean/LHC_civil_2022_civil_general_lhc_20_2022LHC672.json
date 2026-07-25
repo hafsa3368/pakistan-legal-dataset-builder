@@ -9,13 +9,22 @@
   "case_number": "W.P.No.321/2022",
   "date_of_order": "04.02.2022",
   "judge": "JAWAD HASSAN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2019 Lahore 407",
     "PLD 2015 SC 401",
     "PLD 2021 Lahore 156"
   ],
-  "parties": [],
+  "parties": [
+    "Hafeez-ur-Rehman Choudhary",
+    "Federation of Pakistan",
+    "Barrister Muhammad Ahmad Pansota",
+    "Mr. Mujeeb-ur-Rehman Kiayani",
+    "Malik Ahtesham Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "E.F.A.No.01 of 2018/BWP",
   "date_of_order": "19.01.2021",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -29,7 +29,12 @@
     "2014 SCMR 322",
     "PLD 1996 Lahore 99"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ismail",
+    "Muhammad Adil",
+    "Meezan Bank Limited",
+    "Muhammad Tayyab Zameer Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

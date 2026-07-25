@@ -28,7 +28,10 @@
     "PLD 1998 Lahore 548",
     "PLD 1989 Lahore 103"
   ],
-  "parties": [],
+  "parties": [
+    "Samina Naz",
+    "Ali Zaman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

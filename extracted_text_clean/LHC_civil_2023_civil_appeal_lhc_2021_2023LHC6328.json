@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "14.11.2023",
   "judge": "Abid Hussain Chattha",
   "sections_cited": [
@@ -31,7 +31,12 @@
     "PLD 1977 Lahore 305",
     "PLD 1971 Lahore 813"
   ],
-  "parties": [],
+  "parties": [
+    "Umar Asghar Qureshi",
+    "Federation of Pakistan and 03 others",
+    "Basar Ali",
+    "Federation of Pakistan and 03 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

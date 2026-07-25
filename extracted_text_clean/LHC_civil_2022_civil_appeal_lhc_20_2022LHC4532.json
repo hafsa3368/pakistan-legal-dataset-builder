@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "WP No. 36507 of 2022",
   "date_of_order": "13.06.2022",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -21,7 +21,11 @@
     "2003 SCMR 1050",
     "PLD 2008 SC 591"
   ],
-  "parties": [],
+  "parties": [
+    "Ahmad Baksh",
+    "ADJ etc",
+    "Mr. Anwaar ul Haq Khokhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

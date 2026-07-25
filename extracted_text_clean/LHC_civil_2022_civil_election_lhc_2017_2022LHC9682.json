@@ -6,12 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "02.03.2022",
   "judge": "Abid Hussain Chattha",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rizwan Akhtar",
+    "Director General, Multan Development Authority, Multan",
+    "Abid Hussain Chattha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

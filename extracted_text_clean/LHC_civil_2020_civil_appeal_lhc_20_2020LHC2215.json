@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "ICA No.49988/2020",
   "date_of_order": "14.10.2020",
   "judge": "Jawad Hassan",
   "sections_cited": [
@@ -23,7 +23,13 @@
   "citations": [
     "2019 SCMR 939"
   ],
-  "parties": [],
+  "parties": [
+    "The Chairman NAB",
+    "Ramzan Sugar Mills Limited",
+    "Barrister Yasir Siddique",
+    "Mr. Aasim Mumtaz",
+    "Security and Exchange Commission of Pakistan (SECP)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

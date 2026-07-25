@@ -8,15 +8,27 @@
   "num_chunks": 8,
   "case_number": "Civil Revision No.2534 of 2014",
   "date_of_order": "09.05.2023",
-  "judge": "Approved for reporting Judge Maqsood",
-  "sections_cited": [],
+  "judge": "ANWAAR HUSSAIN",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2010 CLC 350",
     "2005 MLD 592",
     "2012 SCMR 196",
     "PLD 1992 Lahore 63"
   ],
-  "parties": [],
+  "parties": [
+    "Nargis Bibi (deceased) through her legal heirs, etc.",
+    "Muhammad Amin, etc.",
+    "Sh. Naveed Shahryar, Advocate.",
+    "Ms. Safina Safdar Bhatti, Advocate.",
+    "Ustad Muhammad Iqbal, Advocate.",
+    "Mr. Tasawar Hussain Virk, Advocate.",
+    "Anwaar Hussain",
+    "Tehsil Nazim, Pishin and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

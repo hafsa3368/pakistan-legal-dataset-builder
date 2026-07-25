@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "I.C.A. No.4266 of 2022",
   "date_of_order": "25.01.2022",
-  "judge": "JUDGE rouf",
+  "judge": "MASUD ABID NAQVI",
   "sections_cited": [
     "Section 4",
     "Section 16 of the PEEDA Act"
@@ -30,7 +30,11 @@
     "PLD 1973 SC 236",
     "PLD 1974 SC 106"
   ],
-  "parties": [],
+  "parties": [
+    "Asma Parveen",
+    "The Secretary School Education etc",
+    "Mr. Riaz Ahmad Tahir, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

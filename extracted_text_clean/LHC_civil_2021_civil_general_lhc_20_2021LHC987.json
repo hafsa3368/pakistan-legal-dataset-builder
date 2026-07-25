@@ -9,11 +9,19 @@
   "case_number": "W.P.No.14339 of 2020",
   "date_of_order": "25.03.2021",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2008 Lahore 19"
   ],
-  "parties": [],
+  "parties": [
+    "Aqib Javed & another",
+    "Higher Education Commission of Pakistan",
+    "Bahauddin Zakariya University",
+    "Punjab Bar Council"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -38,7 +38,10 @@
     "PLD 1958 Dacca 333",
     "PLD 2010 Lahore 498"
   ],
-  "parties": [],
+  "parties": [
+    "Sana Ullah Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

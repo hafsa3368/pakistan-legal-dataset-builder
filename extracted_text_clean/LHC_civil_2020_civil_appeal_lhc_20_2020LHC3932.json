@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No.1705 of 2006",
   "date_of_order": "11.10.2017",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Sections 3 and 5 of the Explosive Substances Act",
     "Section 33 of the Punjab Industrial Relations Act",
@@ -19,7 +19,10 @@
     "1999 SCMR 1326",
     "PLD 2010 SC 705"
   ],
-  "parties": [],
+  "parties": [
+    "Rana Muhammad Ilyas",
+    "Lahore Electric Supply Company and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -23,7 +23,11 @@
     "2000 MLD 785",
     "PLD 2021 Lahore 453"
   ],
-  "parties": [],
+  "parties": [
+    "NATIONAL COMMAND AUTHORITY FOUNDATION (NCAF)",
+    "SHEIKH SAROSH IFTIKHAR",
+    "MIRZA VIQAS RAUF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

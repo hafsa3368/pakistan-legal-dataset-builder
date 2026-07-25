@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "ICAO No.81 of 2020",
   "date_of_order": "17.11.2020",
-  "judge": "JUDGE Raheel",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 3 of the Law Reforms Ordinance",
     "Section 3 of the Law Reforms Ordinance",
@@ -16,7 +16,11 @@
     "section 109"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Sher Awan",
+    "Government of the Punjab",
+    "through Chief Secretary Lahore and six others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

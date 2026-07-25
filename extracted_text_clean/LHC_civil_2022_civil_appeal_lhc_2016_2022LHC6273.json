@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Civil Revision No.1365-D/2016",
   "date_of_order": "16.05.2022",
-  "judge": "",
+  "judge": "MUHAMMAD RAZA QURESHI",
   "sections_cited": [
     "Section 115 of the Code",
     "Section 8 of Specific Relief Act",
@@ -23,7 +23,10 @@
     "2014 CLC 160",
     "PLD 2010 Lahore 197"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Azeem",
+    "Noor Muhammad (deceased)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

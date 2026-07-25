@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "Civil Petition No.1481 of 2019",
   "date_of_order": "21.02.2023",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 27",
     "Section 27 of the Act",
@@ -28,7 +28,10 @@
     "2008 SCMR 398",
     "PLD 2011 SC 296"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Zulfiqar Ahmad",
+    "Mosaddaq Parvaiz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

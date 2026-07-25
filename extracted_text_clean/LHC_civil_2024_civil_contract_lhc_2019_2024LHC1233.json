@@ -9,7 +9,11 @@
   "case_number": "W.P No.1775/2019",
   "date_of_order": "13.03.2024",
   "judge": "AHMED NADEEM ARSHAD",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "2015 SCMR 1418",
     "2011 SCMR 1581",
@@ -17,7 +21,15 @@
     "2005 SCMR 85",
     "1996 SCMR 1350"
   ],
-  "parties": [],
+  "parties": [
+    "Rozina Ahmed Vs Province of Punjab, etc.",
+    "Mr. Muhammad Yaseen Ataal, Advocate",
+    "Mr. Zafar Iqbal Awan, Addl. Advocate General",
+    "AHMAD NADEEM ARSHAD, J.",
+    "Deputy Commissioner/Chairman District Recruitment Committee, Bahawalpur (respondent No.2)",
+    "District Education Officer (M-EE), Bahawalpur (respondent No.5)",
+    "Secretary Education (Schools), Government of the Punjab, Lahore (respondent No.1)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

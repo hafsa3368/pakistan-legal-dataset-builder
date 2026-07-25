@@ -20,7 +20,10 @@
     "PLD 1984 SC 344",
     "PLD 1985 SC 107"
   ],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "Mumtaz Ahmad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

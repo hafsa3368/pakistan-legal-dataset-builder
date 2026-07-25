@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "HCJDA-38",
   "date_of_order": "15.08.2024",
   "judge": "Sultan Tanvir Ahmad",
   "sections_cited": [
@@ -21,7 +21,14 @@
     "PLD 2012 Sindh 166",
     "PLD 2018 Sindh 377"
   ],
-  "parties": [],
+  "parties": [
+    "Saadia Khalil",
+    "Learned Addl. District Judge, Lahore and 2 Others",
+    "Barrister Syeda Maqsooma Zahra Bokhari",
+    "Mr. Mubashar Hussain",
+    "Ms. Iqra Liaqat",
+    "SULTAN TANVIR AHMAD"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

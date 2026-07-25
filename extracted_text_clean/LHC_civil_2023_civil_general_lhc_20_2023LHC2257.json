@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "WRIT PETITION NO.3383 of 2022",
   "date_of_order": "10.04.2023",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -21,7 +21,12 @@
   "citations": [
     "2014 SCMR 535"
   ],
-  "parties": [],
+  "parties": [
+    "M/s INDEPENDENT NEWSPAPERS CORPORATION (PVT.) LIMITED",
+    "PROVINCE OF PUNJAB",
+    "Director General-Directorate General of Labour Welfare, Labour & Human Resource Department, Government of Punjab",
+    "Daily Jang & Press Workers Union, Rawalpindi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

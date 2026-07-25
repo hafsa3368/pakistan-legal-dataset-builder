@@ -38,7 +38,10 @@
     "PLD 1974 Quetta 28",
     "PLD 2014 Baluchistan 113"
   ],
-  "parties": [],
+  "parties": [
+    "Noor Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

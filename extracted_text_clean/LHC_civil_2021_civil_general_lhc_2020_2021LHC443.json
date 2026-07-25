@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Revision No.57 of 2020",
   "date_of_order": "02.03.2021",
-  "judge": "Mikaeel APPROVED FOR REPORTING JUDGE",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 540 of the Code",
     "sections 302, 109, 34 PPC",
@@ -19,7 +19,10 @@
     "Section 540 of the Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ejaz Ahmad",
+    "The State and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

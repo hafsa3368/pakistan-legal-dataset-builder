@@ -8,7 +8,7 @@
   "num_chunks": 20,
   "case_number": "W.P. No.905 of 2020",
   "date_of_order": "24.12.2024",
-  "judge": "Approved for reporting Judge Maqsood",
+  "judge": "ANWAAR HUSSAIN",
   "sections_cited": [
     "Section 5 of the Family Courts Act",
     "Section 17-A of the Act",
@@ -34,7 +34,11 @@
     "PLD 2024 SC 581",
     "PLD 2009 SC 760"
   ],
-  "parties": [],
+  "parties": [
+    "Mansoor Ali",
+    "Mst. Anam Hussain",
+    "the minor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

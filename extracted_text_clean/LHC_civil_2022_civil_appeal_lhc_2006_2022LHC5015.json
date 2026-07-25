@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Criminal Appeal No. 190 of 2015",
   "date_of_order": "07.03.2022",
-  "judge": "JUDGE Raheel Approved for Reporting Judge Judge",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 27",
     "section 342 of Code",
@@ -32,7 +32,10 @@
     "PLD 2019 SC 64",
     "PLD 2002 SC 1048"
   ],
-  "parties": [],
+  "parties": [
+    "Muhamad Kamran Yousaf",
+    "The State and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,14 +9,24 @@
   "case_number": "W.P.No.2290 of 2019",
   "date_of_order": "10.06.2024",
   "judge": "Approved for Reporting Judge Judge Sabir",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 12 CPC",
+    "u/s 21",
+    "u/s 12 of CPC"
+  ],
   "citations": [
     "2007 SCMR 459",
     "2006 SCMR 12",
     "PLD 1964 SC 97",
     "PLD 1997 SC 351"
   ],
-  "parties": [],
+  "parties": [
+    "Aurangzeb Shaafi Barki",
+    "District Commissioner",
+    "Murree Brewery Company Limited",
+    "M/S Kirpa Ram Brothers",
+    "Nafisa(Nafees) Banu and her husband Khan Abdul Shafi Khan Barqi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

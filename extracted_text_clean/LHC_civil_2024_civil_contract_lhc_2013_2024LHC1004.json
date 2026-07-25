@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "W.P. No.6114 of 2014",
   "date_of_order": "27.02.2024",
-  "judge": "Approved for reporting Judge Maqsood",
+  "judge": "ANWAAR HUSSAIN",
   "sections_cited": [
     "Section 142 of the Punjab Local Government Ordinance",
     "Section 74 of the Contract Act"
@@ -17,7 +17,10 @@
     "2019 SCMR 101",
     "PLD 1988 SC 138"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Iftikhar",
+    "Government of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

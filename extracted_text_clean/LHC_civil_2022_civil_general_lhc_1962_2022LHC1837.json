@@ -33,7 +33,10 @@
     "PLD 1969 SC 65",
     "PLD 1988 SC 124"
   ],
-  "parties": [],
+  "parties": [
+    "Doud Khan",
+    "Muhammad Rashid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "15.03.2021",
   "judge": "Shahzad Mahmood",
   "sections_cited": [
@@ -16,7 +16,11 @@
     "2002 MLD 988",
     "2007 MLD 1710"
   ],
-  "parties": [],
+  "parties": [
+    "Wahid Bakhsh",
+    "ADJ, Muzaffargarh",
+    "Mst. Farhat Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

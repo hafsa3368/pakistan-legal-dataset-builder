@@ -8,7 +8,7 @@
   "num_chunks": 21,
   "case_number": "W.P.No.1869 of 2018",
   "date_of_order": "01.12.2020",
-  "judge": "Approved for reporting Judge Naeem",
+  "judge": "Tariq Saleem Sheikh",
   "sections_cited": [
     "section 12 CPC",
     "section 52",
@@ -35,7 +35,11 @@
     "1997 SCMR 171",
     "2014 SCMR 33"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Naseem Sajjad",
+    "Additional District Judge",
+    "Syed Muhammad Najamul Saqib Mumtaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

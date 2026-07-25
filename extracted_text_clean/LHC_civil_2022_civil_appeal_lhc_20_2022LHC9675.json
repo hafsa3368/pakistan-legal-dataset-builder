@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "R.F.A.No.216563 of 2018",
   "date_of_order": "06.04.2022",
   "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
@@ -21,7 +21,10 @@
     "2016 SCMR 834",
     "PLD 2020 SC 559"
   ],
-  "parties": [],
+  "parties": [
+    "Astex (Pvt.) Ltd, etc.",
+    "Faysal Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

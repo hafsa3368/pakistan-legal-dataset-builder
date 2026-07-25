@@ -33,7 +33,10 @@
     "PLD 2005 LAHORE 119",
     "PLD 1962 SC 284"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Rasool",
+    "Province of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Revision No. 1789-D of 2016",
   "date_of_order": "25.06.2025",
-  "judge": "",
+  "judge": "Ch. Sultan Mahmood",
   "sections_cited": [
     "Section 12",
     "Section 10",
@@ -28,7 +28,11 @@
     "PLD 1984 SC 213",
     "PLD 1971 SC 762"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Latif Ansari",
+    "Irfan Ahmad",
+    "Muhammad Sufyan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,19 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "R.F.A. No. 30227 of 2020",
   "date_of_order": "11.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Masud Abid Naqvi",
+  "sections_cited": [
+    "S. 79 Insurance Ordinance (XXXIX of 2000)"
+  ],
   "citations": [
     "2008 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "STATE LIFE INSURANCE CORPORATION OF PAKISTAN",
+    "Mst. MAI BHAGAN"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

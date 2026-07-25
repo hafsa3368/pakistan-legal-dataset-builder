@@ -9,12 +9,19 @@
   "case_number": "W.P. No.14404 of 2019",
   "date_of_order": "26.09.2019",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 SCMR 145",
     "PLD 2013 SC 255"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sana Ullah",
+    "Addl. District Judge, etc.",
+    "Mr. Abdul Khaliq Dogar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

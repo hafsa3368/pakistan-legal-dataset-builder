@@ -7,11 +7,23 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-231 of 2024",
-  "date_of_order": "",
+  "date_of_order": "26-03-2024",
   "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 365-B PPC",
+    "u/s 161 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mir Muhammad Shaikh",
+    "Mr. Aftab Ahmed Shar",
+    "Mr. Saeed Ahmed Wassan",
+    "Spbdar Umrani, PS TM.",
+    "Ghulam Qasim",
+    "Mst. Mirzadi",
+    "respondent No.5/I.O of Crime No.43/2024",
+    "respondent No.6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

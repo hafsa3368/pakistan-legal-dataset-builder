@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "27.02.2020",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -33,7 +33,10 @@
     "PLD 1983 SC 344",
     "PLD 1973 SC 93"
   ],
-  "parties": [],
+  "parties": [
+    "Ijaz Ahmad Khan",
+    "Eden Developers (Private) Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

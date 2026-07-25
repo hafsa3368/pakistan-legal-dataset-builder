@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "21.03.2019",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -16,7 +16,12 @@
     "Section 5 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Majeed (deceased) through his legal heirs etc",
+    "Muhammad Younas etc",
+    "Mr. Ghulam Hussain Awan, Advocate for petitioners",
+    "Mr. Muhammad Mehmood Chaudhry, Advocate for respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

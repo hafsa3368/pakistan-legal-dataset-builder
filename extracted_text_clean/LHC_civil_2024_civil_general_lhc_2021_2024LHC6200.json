@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Crl. Misc. No.6425-M of 2024",
   "date_of_order": "20.11.2024",
-  "judge": "Malik Iftikhar Approved for Reporting Judge",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 561-A Cr.P.C",
     "section 173 Cr.P.C",
@@ -25,7 +25,10 @@
     "2003 P Cr. L J 768",
     "1997 PCr.LJ 1626"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sarfraz",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

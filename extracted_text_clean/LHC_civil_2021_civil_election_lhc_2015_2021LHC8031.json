@@ -6,10 +6,13 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "15.12.2021",
   "judge": "Abid Hussain Chattha",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 1418",
     "2021 SCMR 474",
@@ -19,7 +22,10 @@
     "PLD 2013 SC 829",
     "PLD 2010 SC 483"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Anam Abid and 7 others.",
+    "Government of the Punjab and 4 others."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

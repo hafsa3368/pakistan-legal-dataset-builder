@@ -6,9 +6,9 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.S-329 of 2024",
   "date_of_order": "23.09.2024",
-  "judge": "",
+  "judge": "ZAFAR AHMED RAJPUT",
   "sections_cited": [
     "sections 354-A, 147, 148, 149, 506 and 509",
     "section 354-A"
@@ -16,7 +16,16 @@
   "citations": [
     "PLD 1995 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "Sajjad Hussain",
+    "Muharram",
+    "Meer Muhammad",
+    "Mr. Abdul Majeed Magsi",
+    "Ms. Sana Memon Asst. Prosecutor General, Sindh",
+    "Ghulam Ali Laghari",
+    "Abdul Hakeem Laghari",
+    "Mevo Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

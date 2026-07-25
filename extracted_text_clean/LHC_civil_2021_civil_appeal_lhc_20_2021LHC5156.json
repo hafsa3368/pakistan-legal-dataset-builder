@@ -9,12 +9,19 @@
   "case_number": "Criminal Revision No.22730 of 2017",
   "date_of_order": "01.10.2021",
   "judge": "Farooq Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 420 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 1064",
     "2016 SCMR 116"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Jabbar",
+    "The State",
+    "Muhammad Akram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

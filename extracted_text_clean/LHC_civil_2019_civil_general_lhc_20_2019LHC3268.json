@@ -24,7 +24,13 @@
     "PLD 1973 SC 236",
     "PLD 2014 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "AITEX PAKISTAN",
+    "Government of Pakistan",
+    "Secretary Primary and Secondary Health Department",
+    "State Bank of Pakistan",
+    "Competition Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

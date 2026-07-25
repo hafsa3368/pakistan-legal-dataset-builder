@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 19,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "13.11.2023",
   "judge": "Abid Hussain Chattha",
   "sections_cited": [
@@ -27,7 +27,11 @@
     "2005 SCMR 890",
     "PLD 2000 Lahore 290"
   ],
-  "parties": [],
+  "parties": [
+    "Silk Bank Limited",
+    "M/s Haseeb Waqas Sugar Mills Limited",
+    "14 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -26,7 +26,10 @@
     "PLD 1999 Karachi 260",
     "PLD 1975 Karachi 598"
   ],
-  "parties": [],
+  "parties": [
+    "Trust Investment Bank Limited",
+    "The Bank of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

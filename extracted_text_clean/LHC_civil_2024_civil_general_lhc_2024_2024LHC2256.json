@@ -8,13 +8,24 @@
   "num_chunks": 9,
   "case_number": "W.P. No.11458 of 2024",
   "date_of_order": "18.04.2024",
-  "judge": "Approved for reporting Judge Maqsood",
-  "sections_cited": [],
+  "judge": "ANWAAR HUSSAIN",
+  "sections_cited": [
+    "Section 76 QSO",
+    "Article 77 QSO",
+    "Order XII CPC"
+  ],
   "citations": [
     "2008 YLR 296",
     "2003 YLR 1899"
   ],
-  "parties": [],
+  "parties": [
+    "Bagh Ali",
+    "Addl. District Judge, etc.",
+    "Mr. Arshad Ali Chohan",
+    "Ch. Tanveer Ahmad Hajra",
+    "Rana Muhammad Arif",
+    "Anwaar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

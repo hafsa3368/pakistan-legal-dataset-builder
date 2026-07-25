@@ -38,7 +38,10 @@
     "1983 CLC 302",
     "2000 CLC 409"
   ],
-  "parties": [],
+  "parties": [
+    "Bashir Ahmad",
+    "Iqbal Ahmad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

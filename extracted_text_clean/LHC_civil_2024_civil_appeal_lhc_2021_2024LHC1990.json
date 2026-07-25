@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Constitution Petition No. 45436 of 2023",
   "date_of_order": "25.04.2024",
-  "judge": "JUDGE Rana Zahid Bashir",
+  "judge": "SULTAN TANVIR AHMAD",
   "sections_cited": [
     "section 3",
     "sections 161, 162 and 34 of Pakistan Penal Code",
@@ -29,7 +29,16 @@
     "PLD 2019 Lahore 565",
     "PLD 2023 Balochistan 65"
   ],
-  "parties": [],
+  "parties": [
+    "Faraz Iqbal Jamil",
+    "The Federation of Pakistan",
+    "Mr. Muhammad Azhar Siddique",
+    "Ms. Salma Riaz",
+    "Ms. Amna Liaqat",
+    "Mr. Muhammad Mansoor Ali Sial",
+    "Mr. Muhammad Nawaz Shah",
+    "SULTAN TANVIR AHMAD"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

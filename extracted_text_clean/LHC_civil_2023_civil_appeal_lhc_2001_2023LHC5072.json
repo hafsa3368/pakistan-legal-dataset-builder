@@ -24,7 +24,10 @@
     "PLD 1973 LAHORE 207",
     "PLD 1991 SC 1051"
   ],
-  "parties": [],
+  "parties": [
+    "Mehmood",
+    "Seedu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

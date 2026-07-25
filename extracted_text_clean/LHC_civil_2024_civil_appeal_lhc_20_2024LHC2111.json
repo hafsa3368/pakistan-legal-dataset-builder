@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 52,
-  "case_number": "",
+  "case_number": "WRIT PETITION NO.50 of 2024",
   "date_of_order": "22.04.2024",
-  "judge": "SAJJAD APPROVED FOR REPORTING JUDGE",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "sections 2, 3, 4, 5, 6 and 8",
     "section 14",
@@ -34,7 +34,13 @@
     "PLD 2016 Lahore 865",
     "PLD 1980 SC 160"
   ],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD MAROOF and others",
+    "Mst. MARIAM FAROOQ and others",
+    "Ch. Mehboob Alam, Advocate",
+    "Sajjad Ali and Raja Muhammad Nasrullah Waseem, Advocates",
+    "M/s Agha Muhammad Ali Khan and Chaudhary Imran Hassan Ali, Advocates"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

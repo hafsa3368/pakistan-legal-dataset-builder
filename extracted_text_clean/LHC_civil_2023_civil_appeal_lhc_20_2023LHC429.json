@@ -19,7 +19,11 @@
     "PLD 2001 SC 607",
     "PLD 1996 Lahore 672"
   ],
-  "parties": [],
+  "parties": [
+    "Jan Muhammad Tayab",
+    "Federation of Pakistan",
+    "SBP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

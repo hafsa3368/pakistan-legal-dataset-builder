@@ -9,12 +9,18 @@
   "case_number": "civil revision as well as C.R. No.75701 of 2022",
   "date_of_order": "22.11.2023",
   "judge": "RASAAL HASAN SYED",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2018 SC 692",
     "PLD 2012 SC 247"
   ],
-  "parties": [],
+  "parties": [
+    "Robina Kausar",
+    "Umar Majeeb Shami"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

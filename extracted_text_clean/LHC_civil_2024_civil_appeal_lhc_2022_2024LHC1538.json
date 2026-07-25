@@ -23,7 +23,11 @@
     "2005 SCMR 1782",
     "PLD 2023 Lahore 116"
   ],
-  "parties": [],
+  "parties": [
+    "Punjab Mashhad Meat Complex",
+    "Mashhad Meat Industrial Complex",
+    "Punjab Agriculture & Meat Company Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

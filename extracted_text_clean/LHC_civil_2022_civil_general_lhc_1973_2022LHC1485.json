@@ -36,7 +36,11 @@
     "PLD 2005 SC 408",
     "PLD 1982 Lahore 120"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Usman Ghani",
+    "The State",
+    "Rana Muhammad Nadeem Kanju"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,17 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Writ Petition No.536 of 2020",
   "date_of_order": "02.01.2020",
   "judge": "Syed Shahbaz Ali Rizvi",
   "sections_cited": [
     "section 491 of the Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Iffat Yaqoob",
+    "RPO, Faisalabad & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -30,7 +30,17 @@
     "PLD 1973 Karachi 316",
     "PLD 1999 Karachi 134"
   ],
-  "parties": [],
+  "parties": [
+    "Husnain Inam",
+    "FEDERATION OF PAKISTAN",
+    "Pakistan Army",
+    "Govt. of Pakistan",
+    "Provincial Police Department",
+    "Ministry of Defence",
+    "Federal Investigation Agency (F.I.A)",
+    "Pakistan Rangers",
+    "Islamabad Police"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

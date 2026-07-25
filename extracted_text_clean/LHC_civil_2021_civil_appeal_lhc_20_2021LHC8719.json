@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "30.12.2021",
   "judge": "Muzamil Akhtar Shabir",
   "sections_cited": [
@@ -27,7 +27,13 @@
     "PLD 2005 Peshawar 194",
     "PLD 2013 Lahore 464"
   ],
-  "parties": [],
+  "parties": [
+    "Amir Sohail",
+    "Judge Family Court etc.",
+    "Mr. Jalal Badar Qureshi",
+    "Mr. Khush Bakht Khan",
+    "Muzamil Akhtar Shabir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

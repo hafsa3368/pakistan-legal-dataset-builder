@@ -27,7 +27,10 @@
     "PLD 2001 Karachi 24",
     "PLD 2019 Lahore 333"
   ],
-  "parties": [],
+  "parties": [
+    "Bank Alfalah Limited",
+    "Punjab Small Industries Corporation"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -30,7 +30,10 @@
     "PLD 2003 SC 877",
     "PLD 2024 Lahore 54"
   ],
-  "parties": [],
+  "parties": [
+    "Irfan Arshad",
+    "Zainab Noor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

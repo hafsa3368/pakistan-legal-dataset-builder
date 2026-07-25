@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 30,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "26.03.2024",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -34,7 +34,11 @@
     "PLD 1975 SC 624",
     "PLD 1964 SC 143"
   ],
-  "parties": [],
+  "parties": [
+    "ABDUL GHAFOOR",
+    "Babar Sultan Jadoon",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

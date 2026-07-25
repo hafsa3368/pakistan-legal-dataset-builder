@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": true,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "05.03.2019",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -16,7 +16,10 @@
   "citations": [
     "1999 SCMR 1834"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Tahir Abbas Kazmi",
+    "Mr. Imran Mushtaq Bhanti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

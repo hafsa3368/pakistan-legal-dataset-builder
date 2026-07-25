@@ -9,9 +9,31 @@
   "case_number": "W.P.Nos",
   "date_of_order": "30.06.2022",
   "judge": "Muhammad Sajid Mehmood Sethi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Sibtain Khan",
+    "Province of the Punjab, etc.",
+    "Mushtaq Ahmad Malik",
+    "Muhammad Hamza Shahbaz Sharif, etc.",
+    "Zainab Umair, etc.",
+    "Province of the Punjab, etc.",
+    "Mian Mahmood ur Rasheed Ahmad",
+    "Government of the Punjab, etc.",
+    "Munir Ahmad",
+    "Province of the Punjab, etc.",
+    "Chaudhary Parvez Elahi",
+    "Province of the Punjab, etc.",
+    "Muhammad Sabtain Khan",
+    "Muhammad Hamza Shahbaz Sharif, etc.",
+    "Mian Muhammad Aslam",
+    "Muhammad Hamza Shahbaz Sharif, etc.",
+    "Mian Mehmood ur Rasheed",
+    "Muhammad Hamza Shahbaz Sharif, etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

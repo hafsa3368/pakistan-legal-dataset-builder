@@ -29,7 +29,11 @@
     "2005 SCMR 306",
     "PLD 2001 Karachi 112"
   ],
-  "parties": [],
+  "parties": [
+    "Omer Nazeer",
+    "The State etc.",
+    "CMPak Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,7 +9,10 @@
   "case_number": "W.P. No.382/2016",
   "date_of_order": "21.04.2022",
   "judge": "ANWAAR HUSSAIN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 CLC 623",
     "2005 SCMR 564",
@@ -17,7 +20,13 @@
     "PLD 2007 SC 45",
     "PLD 1975 SC 9"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman",
+    "Addl. District Judge-I, Rajanpur",
+    "Malik Muhammad Shahzad Fareed Langrial",
+    "Mr. Abdul Salam Alvi",
+    "Anwaar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

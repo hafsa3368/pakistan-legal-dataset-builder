@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "24.08.2021",
-  "judge": "",
+  "judge": "Syed Khurshid Anwar Rizvi",
   "sections_cited": [
     "Section 46 of the Mental Health Ordinance",
     "Section 41",
@@ -22,7 +22,13 @@
     "Section 20"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mian Zahid Daultana",
+    "Begum Tehmina Daultana",
+    "Imran Daultana",
+    "Shaukat Ali Aqeel",
+    "Shazia Daultana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,7 +9,10 @@
   "case_number": "Civil Revision No.31090 of 2021",
   "date_of_order": "19.05.2021",
   "judge": "Jamshaid Ali Hashmi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1989 SCMR 506",
     "2015 SCMR 1",
@@ -26,7 +29,10 @@
     "2020 MLD 1230",
     "PLD 2019 SC 704"
   ],
-  "parties": [],
+  "parties": [
+    "Anwar Khan",
+    "Mst. Bholi Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

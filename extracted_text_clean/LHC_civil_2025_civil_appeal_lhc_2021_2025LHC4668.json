@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "C.R. No.1147-D of 2021",
   "date_of_order": "30.06.2025",
   "judge": "Shadi Lal",
   "sections_cited": [
@@ -26,7 +26,10 @@
     "2013 SCMR 1300",
     "PLD 1969 SC 617"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Sajid Raza",
+    "Muhammad Ali Din"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

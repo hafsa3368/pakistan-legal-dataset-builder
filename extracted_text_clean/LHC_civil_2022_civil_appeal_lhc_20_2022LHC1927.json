@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "08.03.2022",
   "judge": "Faisal Zaman Khan",
   "sections_cited": [
@@ -31,7 +31,13 @@
     "PLD 2019 Sindh 1",
     "PLD 2015 Lahore 208"
   ],
-  "parties": [],
+  "parties": [
+    "Azmat Jahan",
+    "Additional District Judge, etc.",
+    "Mr. Khushnood Ahmad",
+    "Mr. M. Saim Chaudhry",
+    "Faisal Zaman Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

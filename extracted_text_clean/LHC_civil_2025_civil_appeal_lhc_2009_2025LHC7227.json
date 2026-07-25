@@ -27,7 +27,11 @@
     "1982 SCMR 494",
     "PLD 2013 Peshawar 61"
   ],
-  "parties": [],
+  "parties": [
+    "Ejaz A. Mumtaz",
+    "Shahzad Ahmed Mumtaz",
+    "Omar Farooq Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

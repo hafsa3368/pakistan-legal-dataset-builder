@@ -6,14 +6,20 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "92292 of 2017",
   "date_of_order": "29.08.2017",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2005 SCMR 642"
   ],
-  "parties": [],
+  "parties": [
+    "EHSAN ELAHI",
+    "DISTRICT COLLECTOR and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

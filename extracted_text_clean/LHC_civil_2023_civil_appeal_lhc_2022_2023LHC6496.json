@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Civil Revision No.74007 of 2023",
   "date_of_order": "08.12.2023",
-  "judge": "Approved for reporting Judge Maqsood",
+  "judge": "ANWAAR HUSSAIN",
   "sections_cited": [
     "Section 24 of the Code",
     "Section 24"
@@ -16,7 +16,10 @@
   "citations": [
     "PLD 2022 SC 7"
   ],
-  "parties": [],
+  "parties": [
+    "Madrissa-Tul-Madina",
+    "Lahore Development Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

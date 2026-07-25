@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Writ Petition No.67828/2022",
   "date_of_order": "13.12.2022",
   "judge": "Asjad Javaid Ghural",
   "sections_cited": [
@@ -18,7 +18,13 @@
     "Section 489-F PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Azhar Nawaz",
+    "Addl. Sessions Judge, etc.",
+    "Mr. Farhan Tawakal",
+    "Mr. Muhammad Iqbal Khan",
+    "Mr. Shamshad Ullah Malhi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

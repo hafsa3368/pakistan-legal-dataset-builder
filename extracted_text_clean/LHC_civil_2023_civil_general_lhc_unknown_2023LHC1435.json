@@ -7,7 +7,7 @@
   "used_ocr": true,
   "num_chunks": 8,
   "case_number": "Constitution cmnowers",
-  "date_of_order": "",
+  "date_of_order": "08.03.2023",
   "judge": "",
   "sections_cited": [
     "Section 32",
@@ -17,7 +17,9 @@
   "citations": [
     "2019 SCMR 648"
   ],
-  "parties": [],
+  "parties": [
+    "Sardar ibdul Ricid Khan, ldvucate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

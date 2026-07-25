@@ -6,14 +6,23 @@
   "year": "2023",
   "used_ocr": true,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "30.12.2012",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Tahir Pervaiz",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2002 CLC 1139"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Hassan",
+    "Mst Zile Humna",
+    "Mst Nour Fatinia",
+    "Shams Ur Kehman",
+    "Rasheeda Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

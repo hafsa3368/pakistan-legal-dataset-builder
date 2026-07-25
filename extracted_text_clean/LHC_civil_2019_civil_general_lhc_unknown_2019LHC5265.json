@@ -6,14 +6,20 @@
   "year": "2019",
   "used_ocr": true,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Fori No HCJD C-!2I DRELKSHLL IN THE LAHORE HIGH COURT, MULTAN BENCH, MULTAN JUDICIAL DEPARTMENT |CA.Vu. 188 0/2016 Mlusiaa Kanal Multan Electric Power Company Limited & So uthers 8",
   "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ihat",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1991 SCMR 1"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Muhammad Ali Dhol, Advocate Ior appellant Ch Saleem Akntar Wamiach",
+    "Advocate for respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

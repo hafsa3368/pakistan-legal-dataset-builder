@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "",
+  "case_number": "RFA No.21810/2021",
   "date_of_order": "24.5.2022",
   "judge": "Rizwan",
   "sections_cited": [
@@ -27,7 +27,10 @@
     "2008 SCMR 456",
     "2003 MLD 52"
   ],
-  "parties": [],
+  "parties": [
+    "M/S Reliance Insurance Company Limited",
+    "M/S Ahsan Ikram Textile (Pvt.) Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

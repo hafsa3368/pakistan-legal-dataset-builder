@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "criminal case bearing FIR No.269/2023",
   "date_of_order": "29.10.2024",
-  "judge": "Approved for Reporting Judge Tahir Noor",
+  "judge": "ANWAAR HUSSAIN",
   "sections_cited": [
     "Section 392 Pakistan Penal Code",
     "Section 249-A of the Code",
@@ -17,7 +17,11 @@
     "Section 249-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ehtisham Ali",
+    "Province of Punjab",
+    "Inspector General of Police, Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

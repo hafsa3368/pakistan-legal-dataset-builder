@@ -25,7 +25,10 @@
     "PLD 2012 Lahore 240",
     "PLD 2006 Karachi 278"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Alam Bibi",
+    "KASB Bank"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": true,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "12.03.2019",
-  "judge": "",
+  "judge": "Mr Muhammad Akram Nizami",
   "sections_cited": [
     "Section 196 of the Custoins Act",
     "Section 2",
@@ -19,7 +19,10 @@
   "citations": [
     "2002 SCMR 527"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Riaz",
+    "Collector of Customs & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

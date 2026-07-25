@@ -28,7 +28,10 @@
     "PLD 2003 SC 594",
     "PLD 1978 LAHORE 113"
   ],
-  "parties": [],
+  "parties": [
+    "Zainab Bibi",
+    "Abdul Aziz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

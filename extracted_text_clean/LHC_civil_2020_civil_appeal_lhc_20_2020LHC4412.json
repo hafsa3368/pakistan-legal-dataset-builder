@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "constitutional petition did not",
   "date_of_order": "24.02.2020",
-  "judge": "",
+  "judge": "Masud Abid Naqvi",
   "sections_cited": [
     "Section 14 of Family Courts Act",
     "Section 3 of the Law Reforms Ordinance",
@@ -20,7 +20,10 @@
     "1986 CLC 442",
     "2020 SCMR 260"
   ],
-  "parties": [],
+  "parties": [
+    "AMJAD ALI",
+    "Mst. SHAHEEN BIBI and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "07.09.2021",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -28,7 +28,11 @@
     "PLD 1984 SC 344",
     "PLD 2005 SC 45"
   ],
-  "parties": [],
+  "parties": [
+    "Liaqat Ali",
+    "District Collector Gujrat",
+    "Nawaz Sharif Medical College"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

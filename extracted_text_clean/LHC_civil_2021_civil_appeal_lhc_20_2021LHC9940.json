@@ -6,15 +6,18 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "R.F.A. No. 124683 of 2017",
   "date_of_order": "7.10.2021",
-  "judge": "",
+  "judge": "JAWAD HASSAN AND MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
     "Section 22",
     "Section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "HOUSE BUILDING FINANCE COMPANY LIMITED",
+    "Khawaja JAVAID IQBAL"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

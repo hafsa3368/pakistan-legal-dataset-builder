@@ -9,7 +9,10 @@
   "case_number": "W.P. No.1554/2017",
   "date_of_order": "20.12.2022",
   "judge": "ANWAAR HUSSAIN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1988 CLC 1355",
     "2013 MLD 1200",
@@ -19,7 +22,15 @@
     "PLD 1993 Peshawar 49",
     "PLD 2022 SC 27"
   ],
-  "parties": [],
+  "parties": [
+    "Ariba Naeem",
+    "Additional District Judge",
+    "Mujeeb-ur-Rehman Kayani",
+    "Zubair Aslam Ghuman",
+    "Ch. Muhammad Aslam Ghuman",
+    "Anwaar Hussain",
+    "Yasmin Akhtar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

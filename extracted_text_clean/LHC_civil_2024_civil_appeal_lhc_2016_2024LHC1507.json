@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Intra Court Appeal No. 32 of 2024",
   "date_of_order": "01.04.2024",
-  "judge": "JUDGE Approved for reporting Judge",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "sections 152 and 290 of the Companies Ordinance",
     "Section 265 of the Companies Ordinance",
@@ -17,7 +17,14 @@
     "section 265"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Haleema",
+    "three others",
+    "Sardar Ghazanfar Ullah Khan",
+    "Sardar Arshad Ullah Khan (Late)",
+    "Mr. Muhammad Talib",
+    "Mr. Aejaz Ahmad Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,7 +9,10 @@
   "case_number": "Civil Judge through Writ Petition No.1645 of 2021",
   "date_of_order": "08.09.2022",
   "judge": "MIRZA VIQAS RAUF",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2001 SCMR 148",
     "1986 CLC 1316",
@@ -17,7 +20,11 @@
     "2021 SCMR 1775",
     "2013 SCMR 464"
   ],
-  "parties": [],
+  "parties": [
+    "M/s BEST WAY CEMENT LTD.",
+    "YASIR SALEEM",
+    "2 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

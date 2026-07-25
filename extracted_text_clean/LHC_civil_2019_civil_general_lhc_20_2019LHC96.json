@@ -34,7 +34,11 @@
     "PLD 2007 SC 133",
     "PLD 2010 SC 983"
   ],
-  "parties": [],
+  "parties": [
+    "Jamil Ahmed",
+    "Government of Pakistan",
+    "Ministry of Communication"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

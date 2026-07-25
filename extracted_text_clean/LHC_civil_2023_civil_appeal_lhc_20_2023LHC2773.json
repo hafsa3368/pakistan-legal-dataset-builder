@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Stereo.HCJDA.38",
   "date_of_order": "24-05-2023",
   "judge": "Arsalan",
   "sections_cited": [
@@ -22,7 +22,11 @@
     "PLD 2015 Balochistan 26",
     "PLD 2014 Peshawar 60"
   ],
-  "parties": [],
+  "parties": [
+    "Samina",
+    "Additional District Judge etc.",
+    "Abid Aziz Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

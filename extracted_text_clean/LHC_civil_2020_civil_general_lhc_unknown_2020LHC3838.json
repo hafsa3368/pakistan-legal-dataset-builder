@@ -9,12 +9,19 @@
   "case_number": "Crl Mise No.259/B/202I",
   "date_of_order": "28.01.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1996 SCMR 973",
     "PLD 2018 Feshalwar 138"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhaumad Ali Ilaloch",
+    "Malik Mudassir Ali",
+    "Abuul Aleem SI"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

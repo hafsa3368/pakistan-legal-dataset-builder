@@ -26,7 +26,10 @@
     "PLD 2010 Lahore 463",
     "PLD 1976 Karachi 723"
   ],
-  "parties": [],
+  "parties": [
+    "Khurram Shahzad",
+    "Zeeshan Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "23.01.2024",
   "judge": "Anwaar Hussain",
   "sections_cited": [
@@ -18,7 +18,13 @@
     "2013 SCMR 1600",
     "2022 SCMR 842"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Islam",
+    "Bagh Ali (deceased)",
+    "Mian Mumtaz Ahmad Zahid, Advocate",
+    "Mr. Muhammad Khalid Mehmood Ayyaz, Advocate",
+    "Anwaar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

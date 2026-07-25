@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Civil Petitions No.2466",
   "date_of_order": "25.09.2020",
-  "judge": "",
+  "judge": "Muhammad Iqbal",
   "sections_cited": [
     "Section 30",
     "Section 10",
@@ -33,7 +33,10 @@
     "PLD 2010 Lahore 510",
     "PLD 2013 SC 641"
   ],
-  "parties": [],
+  "parties": [
+    "Gharibwal Cement Limited",
+    "Member (Colonies), Board of Revenue, Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

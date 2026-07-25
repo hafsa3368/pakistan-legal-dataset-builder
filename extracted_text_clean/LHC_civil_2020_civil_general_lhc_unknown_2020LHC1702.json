@@ -6,14 +6,19 @@
   "year": "2020",
   "used_ocr": true,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2020",
   "date_of_order": "30.07.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "leamed Single Judgu in Chamber",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2011 SCMR 279"
   ],
-  "parties": [],
+  "parties": [
+    "Shahzada Mazhar, Advocate for the appellants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -25,7 +25,10 @@
     "PLD 1975 SC 667",
     "PLD 2011 SC 365"
   ],
-  "parties": [],
+  "parties": [
+    "Sheikh Muhammad Hafeez",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

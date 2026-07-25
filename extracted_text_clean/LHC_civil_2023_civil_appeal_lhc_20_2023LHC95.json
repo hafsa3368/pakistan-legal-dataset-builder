@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "24.01.2023",
   "judge": "Faisal Zaman Khan",
   "sections_cited": [
@@ -30,7 +30,11 @@
     "2020 SCMR 300",
     "PLD 2005 SC 719"
   ],
-  "parties": [],
+  "parties": [
+    "Arshad Mehmood",
+    "Judge Family Court and another",
+    "Nemo. Faisal Zaman Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

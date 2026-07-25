@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "misconduct---No option",
   "date_of_order": "27.06.1993",
-  "judge": "",
+  "judge": "Zulfiqar Ali",
   "sections_cited": [
     "section 15",
     "section 15 of the Ordinance"
@@ -30,7 +30,11 @@
     "PLD 1978 SC 207",
     "PLD 2003 SC 952"
   ],
-  "parties": [],
+  "parties": [
+    "ZULFIQAR ALI",
+    "FACTORY MANAGER/INDUSTRIAL RELATIONS MANAGER, PACKAGES LTD.",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

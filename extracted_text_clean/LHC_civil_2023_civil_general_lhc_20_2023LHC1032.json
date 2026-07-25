@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "12.01.2023",
   "judge": "JAWAD HASSAN",
   "sections_cited": [
@@ -19,7 +19,11 @@
     "Section 314"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mukhtar Textiles Mills Limited and 8 others",
+    "Mr. M. Asad Buttar, Advocate for Applicant",
+    "M/s Adil Umar Bandial and Hashim Rathore, Advocates for the Petitioner-SECP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

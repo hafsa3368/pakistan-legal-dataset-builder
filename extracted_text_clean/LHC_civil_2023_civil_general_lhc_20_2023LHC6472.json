@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "W.P.No.17384/2000",
   "date_of_order": "03.11.2023",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 30",
     "Section 9 of the Order",
@@ -35,7 +35,13 @@
     "PLD 1974 Lahore 370",
     "PLD 2013 SC 641"
   ],
-  "parties": [],
+  "parties": [
+    "Evacuee Trust Property Board",
+    "Ghyas Ahmad Rana",
+    "Minister for Religious Affairs",
+    "Federal Government",
+    "Wafaqi Mohtasib"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

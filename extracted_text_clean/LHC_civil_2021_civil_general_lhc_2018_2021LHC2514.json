@@ -9,14 +9,22 @@
   "case_number": "W.P. No.60976 of 2020",
   "date_of_order": "01.2.2021",
   "judge": "Rasaal Hasan Syed",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1976 SCMR 77",
     "2002 SCMR 429",
     "2000 CLC 1841",
     "PLD 1973 SC 214"
   ],
-  "parties": [],
+  "parties": [
+    "Naveed Akhtar",
+    "Special Judge (Rent)",
+    "Asad Ali",
+    "Ghulam Sarwar Bajwa"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

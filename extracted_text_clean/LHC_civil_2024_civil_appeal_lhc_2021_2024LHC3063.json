@@ -6,16 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "R.F.A. No.338 of 2021",
   "date_of_order": "29.05.2024",
-  "judge": "Approved for reporting Judge Maqsood",
+  "judge": "ANWAAR HUSSAIN",
   "sections_cited": [
     "Section 118 of the Negotiable Instruments Act",
     "Section 489-F of Pakistan Penal Code",
     "Section 118 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Liaquat Ali",
+    "Noor Ahmad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

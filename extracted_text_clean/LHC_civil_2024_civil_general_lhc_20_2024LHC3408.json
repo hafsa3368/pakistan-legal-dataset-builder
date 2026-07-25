@@ -30,7 +30,10 @@
     "PLD 2007 SC 539",
     "PLD 2024 SC 273"
   ],
-  "parties": [],
+  "parties": [
+    "Sanam Javed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

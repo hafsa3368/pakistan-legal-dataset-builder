@@ -22,7 +22,10 @@
     "PLD 1971 SC 550",
     "PLD 1999 Lahore 450"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Haq Khan",
+    "The Bank of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

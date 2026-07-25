@@ -9,11 +9,17 @@
   "case_number": "W.P.No.9355/2019",
   "date_of_order": "04.03.2021",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2010 Lahore 583"
   ],
-  "parties": [],
+  "parties": [
+    "Sayyed Sohail Hasan Gilani",
+    "Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

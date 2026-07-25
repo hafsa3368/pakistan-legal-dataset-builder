@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "15.04.2021",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -34,7 +34,10 @@
     "1991 MLD 2602",
     "1984 CLC 668"
   ],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD AYUB and others",
+    "YAQOOB ALI (Deceased) Through His Legal Heirs and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Civil Appeal No.2218 of 2018",
   "date_of_order": "05.09.2023",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 49 of the West Pakistan Land Revenue Act",
     "Section 49",
@@ -32,7 +32,10 @@
     "1995 SCMR 584",
     "2023 SCMR 860"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan Mineral Development Corporation (Pvt.) Ltd.",
+    "The Province of the Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

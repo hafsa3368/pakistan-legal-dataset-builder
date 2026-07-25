@@ -31,7 +31,10 @@
     "PLD 1994 Karachi 407",
     "PLD 2007 Lahore 280"
   ],
-  "parties": [],
+  "parties": [
+    "Lahore Development Authority",
+    "Habib Construction Services Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

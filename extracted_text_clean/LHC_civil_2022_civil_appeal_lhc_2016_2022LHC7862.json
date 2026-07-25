@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Constitution Petition No. 64269/2021",
   "date_of_order": "31.10.2022",
-  "judge": "Approved for reporting Hashmi JUDGE JUDGE",
+  "judge": "SULTAN TANVIR AHMAD",
   "sections_cited": [
     "section 3 of the Law Reforms Ordinance",
     "section 36 of the Land Revenue Act",
@@ -31,7 +31,10 @@
     "1996 SCMR 1581",
     "1972 SCMR 253"
   ],
-  "parties": [],
+  "parties": [
+    "Ahsan Khan",
+    "Government of the Punjab etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

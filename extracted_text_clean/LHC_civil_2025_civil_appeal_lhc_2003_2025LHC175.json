@@ -20,7 +20,10 @@
     "PLD 1967 Lahore 779",
     "PLD 1987 SC 22"
   ],
-  "parties": [],
+  "parties": [
+    "Ghaffar",
+    "Umar Farooq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

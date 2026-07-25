@@ -8,7 +8,7 @@
   "num_chunks": 39,
   "case_number": "W.P.No.29214/2011",
   "date_of_order": "28.11.2022",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 3 of The Superior College Lahore Act",
     "Section 4 of the Act",
@@ -33,7 +33,13 @@
     "PLD 2016 Lahore 435",
     "PLD 1987 SC 107"
   ],
-  "parties": [],
+  "parties": [
+    "University of Health Sciences, Lahore",
+    "Government of Pakistan through the Secretary, Ministry of Inter Provincial Coordination, Islamabad",
+    "The Superior College, Lahore",
+    "The Superior University, Lahore",
+    "Pakistan Medical & Dental Council"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "Writ Petition No.81113 of 2021",
   "date_of_order": "13.05.2022",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -24,7 +24,15 @@
     "2021 SCMR 775",
     "2021 SCMR 977"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Mehmood Ayaz",
+    "Government of Punjab through Secretary Health Punjab, Civil Secretariat, Lahore & others",
+    "Malik Akhter Javaid",
+    "Waqar Saeed Khan",
+    "Imran Ahmad",
+    "Mian Zahid ur Rehman",
+    "Barrister Imran Aziz Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

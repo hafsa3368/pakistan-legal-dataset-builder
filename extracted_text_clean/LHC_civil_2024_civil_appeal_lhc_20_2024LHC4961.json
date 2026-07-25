@@ -18,7 +18,10 @@
     "1999 SCMR 1555",
     "1999 SCMR 1516"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Fareed",
+    "Muhammad Bilal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

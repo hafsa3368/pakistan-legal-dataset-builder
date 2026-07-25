@@ -31,7 +31,11 @@
     "PLD 1972 SC 279",
     "PLD 1958 SC 104"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "Nasir Munir Ahmed",
+    "Army Authorities"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

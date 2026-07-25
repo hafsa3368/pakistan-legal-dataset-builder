@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "",
+  "case_number": "Constitution. Has he adequate knowledge",
   "date_of_order": "24.12.2021",
   "judge": "ALI ZIA BAJWA",
   "sections_cited": [
@@ -16,7 +16,11 @@
   "citations": [
     "PLD 2014 SC 696"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Nasir",
+    "Justice of Peace, etc.",
+    "Mian Adeel Nasir Rajar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

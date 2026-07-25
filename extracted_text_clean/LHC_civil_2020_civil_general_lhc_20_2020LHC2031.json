@@ -8,7 +8,7 @@
   "num_chunks": 20,
   "case_number": "W.P.No.470-R of 1973",
   "date_of_order": "07.09.2020",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 3",
     "Section 3 of the Act",
@@ -32,7 +32,10 @@
     "PLD 2010 Lahore 510",
     "PLD 1997 SC 304"
   ],
-  "parties": [],
+  "parties": [
+    "Liaqat Ali Khan etc.",
+    "Chief Settlement Commissioner etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

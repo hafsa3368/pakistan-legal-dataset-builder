@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "",
+  "case_number": "C.O No.46/2010",
   "date_of_order": "11th May 1934",
   "judge": "Rizwan",
   "sections_cited": [
@@ -25,7 +25,12 @@
     "2016 SCMR 670",
     "1992 SCMR 1731"
   ],
-  "parties": [],
+  "parties": [
+    "Securities Exchange Commission of Pakistan",
+    "Innovative Investment Bank Limited",
+    "International Finance Corporation",
+    "WAPDA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

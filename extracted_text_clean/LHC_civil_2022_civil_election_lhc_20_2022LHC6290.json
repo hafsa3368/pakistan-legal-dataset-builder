@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Court. He pleads that Respondent No.4",
   "date_of_order": "12.09.2021",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 4 of the Cantonments Act",
     "Section 228 of the Elections Act",
@@ -26,7 +26,9 @@
     "1999 MLD 2813",
     "1988 MLD 1415"
   ],
-  "parties": [],
+  "parties": [
+    "PROVINCE OF PUNJAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

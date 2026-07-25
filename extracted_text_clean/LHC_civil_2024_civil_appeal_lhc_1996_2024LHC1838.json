@@ -26,7 +26,10 @@
     "PLD 1996 SC 237",
     "PLD 1970 SC 241"
   ],
-  "parties": [],
+  "parties": [
+    "Asghar Ali",
+    "Ahmad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

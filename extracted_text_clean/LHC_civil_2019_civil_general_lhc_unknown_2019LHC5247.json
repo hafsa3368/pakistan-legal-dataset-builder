@@ -6,12 +6,20 @@
   "year": "2019",
   "used_ocr": true,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "12.03.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Sli Munir Ahmad",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Iunjab SmaIl Inciistrics Corporation",
+    "TEVTA",
+    "Mr Ijaz AAhmad Awun",
+    "Mr Jari Ullah Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

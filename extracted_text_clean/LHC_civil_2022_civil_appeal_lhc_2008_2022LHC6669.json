@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "",
+  "case_number": "R.F.A No.40462 of 2019",
   "date_of_order": "19.09.2022",
   "judge": "",
   "sections_cited": [
@@ -35,7 +35,10 @@
     "PLD 2003 SC 215",
     "PLD 2013 Sindh 406"
   ],
-  "parties": [],
+  "parties": [
+    "J.K. Twills and Drills (Pvt.) Ltd. and another",
+    "Premier Insurance Company of Pakistan Ltd. and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

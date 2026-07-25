@@ -32,7 +32,10 @@
     "PLD 2008 SC 371",
     "PLD 1973 SC 236"
   ],
-  "parties": [],
+  "parties": [
+    "Mushtaq Ahmad",
+    "Allah Ditta"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

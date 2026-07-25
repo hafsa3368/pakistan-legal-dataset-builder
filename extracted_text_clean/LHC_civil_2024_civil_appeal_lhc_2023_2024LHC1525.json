@@ -26,7 +26,10 @@
     "PLD 1973 SC 406",
     "PLD 2000 Karachi 288"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Zulfiqar Ali",
+    "Rashid Mehmood Sidhu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -34,7 +34,10 @@
     "1993 CLC 2015",
     "PLD 1989 Karachi 150"
   ],
-  "parties": [],
+  "parties": [
+    "Tahir Javed",
+    "Muhammad Sharif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

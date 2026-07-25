@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2025",
   "date_of_order": "24.03.2025",
   "judge": "MALIK MUHAMMAD AWAIS KHALID",
   "sections_cited": [
@@ -23,7 +23,15 @@
     "2015 CLC 632",
     "PLD 2024 SC 771"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Asghar",
+    "Addl. District Judge, etc.",
+    "Mst. Robina",
+    "Mr. Tariq Mehmood Dogar",
+    "Assistant Attorney General",
+    "Mr. Ata ul Manan Malik",
+    "M/s Muhammad Abrar Khan and Noreen Sarfraz Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,17 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "31.05.2017",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [],
   "citations": [
     "2005 SCMR 642"
   ],
-  "parties": [],
+  "parties": [
+    "BILAL HASSAN",
+    "GOVERNMENT OF THE PUNJAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

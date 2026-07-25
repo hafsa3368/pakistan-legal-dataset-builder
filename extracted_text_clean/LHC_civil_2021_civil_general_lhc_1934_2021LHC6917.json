@@ -31,7 +31,15 @@
     "1999 MLD 2276",
     "PLD 1987 SC 103"
   ],
-  "parties": [],
+  "parties": [
+    "Saif Ullah",
+    "The State",
+    "Muhammad Shazib Riaz",
+    "Muhammad Yaqoob DSP City Kasur",
+    "Ihsan Elahi Inspector/Reader",
+    "Saif Ullah Inspector Focal Person RPO office Sheikhupura",
+    "Muhammad Ashraf ASI police station Saddar Kasur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

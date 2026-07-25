@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "20.02.2024",
   "judge": "ALI ZIA BAJWA",
   "sections_cited": [
@@ -24,7 +24,12 @@
     "PLD 1992 Karachi 358",
     "PLD 2005 Lahore 470"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Imran",
+    "Inspector General of Police, etc.",
+    "Muhammad Azam",
+    "Sohail Khan Chadhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2023",
   "date_of_order": "06.11.2024",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -22,7 +22,10 @@
     "2016 YLR 1552",
     "PLD 2016 Lahore 502"
   ],
-  "parties": [],
+  "parties": [
+    "Tanveer Ahmed",
+    "Imtiaz Anwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

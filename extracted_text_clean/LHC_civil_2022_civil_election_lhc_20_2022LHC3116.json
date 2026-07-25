@@ -9,14 +9,24 @@
   "case_number": "W.P.No.24320 of 2022",
   "date_of_order": "29.04.2022",
   "judge": "JAWAD HASSAN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2012 SCMR 584",
     "2012 SCMR 1784",
     "2021 MLD 370",
     "2021 CLC 1286"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Hamza Shahbaz Sharif",
+    "Federation of Pakistan",
+    "Mirza Nasar Ahmad",
+    "Barrister Umair Khan Niazi",
+    "Anees Ali Hashmi",
+    "Mr. Muhammad Azhar Siddique"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

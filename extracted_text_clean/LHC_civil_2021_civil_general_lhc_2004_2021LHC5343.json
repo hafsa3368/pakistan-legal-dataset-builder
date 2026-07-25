@@ -6,10 +6,13 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "05.10.2021",
   "judge": "Anwaar Hussain",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 SCMR 1247",
     "2019 SCMR 648",
@@ -17,7 +20,13 @@
     "PLD 2003 Journal 95",
     "PLD 2002 SC 208"
   ],
-  "parties": [],
+  "parties": [
+    "Chief Officer, TMA, Vehari",
+    "Abdul Jabbar",
+    "Mr. Abdul Salam Alvi",
+    "Mr. Mughees Aslam Malik",
+    "ANWAAR HUSSAIN"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

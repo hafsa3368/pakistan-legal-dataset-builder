@@ -9,12 +9,17 @@
   "case_number": "Civil Judge were that the petitioners did not",
   "date_of_order": "15.11.2023",
   "judge": "RASAAL HASAN SYED",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2023 SCMR 1339",
     "PLD 1977 SC 28"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Samina Kausar",
+    "Mst. Nasreen Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

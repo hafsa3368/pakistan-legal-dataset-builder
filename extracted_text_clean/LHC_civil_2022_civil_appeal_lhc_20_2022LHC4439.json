@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "02.06.2022",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -23,7 +23,10 @@
     "PLD 2002 SC 74",
     "PLD 1962 Lahore 45"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Pride Associates (Pvt.) Ltd.",
+    "JS Bank Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

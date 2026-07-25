@@ -6,12 +6,19 @@
   "year": "2019",
   "used_ocr": true,
   "num_chunks": 3,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Cr.B.A.No.S-994 of 2019",
+  "date_of_order": "01.02.2019",
+  "judge": "Rana Muhummud Tayyab Nazir",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms AH Textiles",
+    "The Director, Directorate of Intelligence Investigation - FBR",
+    "Rana Muhummud Tayyab Nazir, Advocat for petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

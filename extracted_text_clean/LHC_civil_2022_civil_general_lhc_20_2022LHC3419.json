@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "C.O.No.30/2004",
   "date_of_order": "16.05.2022",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -20,7 +20,16 @@
     "PLD 1993 Lahore 691",
     "PLD 1988 Karachi 72"
   ],
-  "parties": [],
+  "parties": [
+    "Securities & Exchange Commission of Pakistan",
+    "Zarai Taraqiati Bank Limited (ZTBL)",
+    "Koh-i-Noor Edible Oil Limited",
+    "Muhammad Khalil Rana",
+    "M/s Irshad Ullah Chatha",
+    "Muhammad Jamil Rahi",
+    "Mohsin Ashfaq",
+    "Arshad Iqbal Tarar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

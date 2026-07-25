@@ -9,7 +9,10 @@
   "case_number": "Constitution have no application",
   "date_of_order": "23.10.2024",
   "judge": "ABID HUSSAIN CHATTHA",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 CLC 342",
     "2002 SCMR 1089",
@@ -17,7 +20,11 @@
     "PLD 1961 SC 531",
     "PLD 1981 Lahore 11"
   ],
-  "parties": [],
+  "parties": [
+    "Sibghat Elahi Chauhan",
+    "The Defence Housing Authority",
+    "02 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

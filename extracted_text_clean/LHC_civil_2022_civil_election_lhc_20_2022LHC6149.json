@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Election Appeal No.03 of 2022/BWP",
   "date_of_order": "18.08.2022",
   "judge": "JAWAD HASSAN",
   "sections_cited": [
@@ -30,7 +30,10 @@
     "PLD 2018 SC 189",
     "PLD 2017 SC 70"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Fahim Ullah Khan",
+    "The District Returning Officer and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

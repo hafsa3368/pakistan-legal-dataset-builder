@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "HCJDA-38",
   "date_of_order": "08.11.2023",
   "judge": "Sultan Tanvir Ahmad",
   "sections_cited": [
@@ -16,7 +16,10 @@
     "1999 YLR 96",
     "1973 SCMR 116"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Samsara Couture House (Pvt.) Ltd.",
+    "Syeda Khadija Batool"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,8 +8,10 @@
   "num_chunks": 20,
   "case_number": "Constitution---Validity---Petitioners could not",
   "date_of_order": "26.04.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MISS MAHNUM HUSSAIN",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2021 MLD 40",
     "2021 CLC 413",
@@ -27,7 +29,9 @@
     "PLD 2021 Sindh 1",
     "PLD 2015 SC 6"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners Versus BRITISH COUNCIL PAKISTAN and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

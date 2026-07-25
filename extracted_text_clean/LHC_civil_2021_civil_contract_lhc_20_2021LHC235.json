@@ -26,7 +26,11 @@
     "PLD 2004 Lahore 255",
     "PLD 1996 Lahore 483"
   ],
-  "parties": [],
+  "parties": [
+    "Alam Sher",
+    "Yasir Nawaz",
+    "Muhammad Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

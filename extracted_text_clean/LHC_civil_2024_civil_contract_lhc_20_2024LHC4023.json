@@ -9,7 +9,10 @@
   "case_number": "Civil Revision No.404-D of 2015",
   "date_of_order": "11.09.2024",
   "judge": "Muhammad Sajid Mehmood Sethi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2011 SCMR 837",
     "2010 SCMR 473",
@@ -17,7 +20,10 @@
     "2002 SCMR 326",
     "2014 SCMR 1217"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Arif",
+    "Javaid Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

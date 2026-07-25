@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "22.09.2020",
   "judge": "Sultan Tanvir Ahmad",
   "sections_cited": [
@@ -21,7 +21,16 @@
     "PLD 1993 Karachi 90",
     "PLD 1982 Karachi 577"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Altaf",
+    "Rana Muhammad Shakeel Ahmad",
+    "Malik Shahid Iqbal Babbar",
+    "Malik Ali Muhammad",
+    "Mr. Haroon Mehboob Butt",
+    "Barrister Muhammad Azaz",
+    "Mr. Tahir Habib",
+    "Sultan Tanvir Ahmad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "ICA No.28717/2023",
   "date_of_order": "04.05.2023",
   "judge": "Asjad Javaid Ghural",
   "sections_cited": [
@@ -24,7 +24,12 @@
     "PLD 2005 SC 45",
     "PLD 1984 SC 344"
   ],
-  "parties": [],
+  "parties": [
+    "Nauman Anjum",
+    "Area Magistrate, etc.",
+    "Mr. Azhar Iqbal",
+    "Malik Sarood Ahmad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -24,7 +24,12 @@
     "2001 YLR 2223",
     "PLD 2025 Lahore 124"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Haris",
+    "The State",
+    "Mr. Muhammad Ali Shahab",
+    "Ms. Riffat Asif Saeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

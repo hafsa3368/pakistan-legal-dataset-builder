@@ -6,15 +6,23 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "26.02.2024",
   "judge": "Anwaar Hussain",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "1995 SCMR 650",
     "1997 SCMR 1043"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Aqsa Rehman",
+    "Govt. of Punjab, etc.",
+    "M/s Muhammad Ali Siddiqui and Fatima Safeer, Advocates for appellant",
+    "Mr. Arshad Pervaiz Qureshi, A.A.G.",
+    "Mr. Asfhan Akram Kang, Law Officer on behalf of PESSI – respondents No. 1 to 7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

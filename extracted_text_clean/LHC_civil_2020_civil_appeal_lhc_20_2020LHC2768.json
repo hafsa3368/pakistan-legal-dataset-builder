@@ -6,10 +6,12 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "I.C.A.No.142 of 2014",
   "date_of_order": "12.10.2020",
-  "judge": "JUDGE Rouf",
-  "sections_cited": [],
+  "judge": "MASUD ABID NAQVI",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "1968 SCMR 817",
     "2017 MLD 899",
@@ -27,7 +29,13 @@
     "PLD 1966 SC 467",
     "PLD 1990 Karachi 436"
   ],
-  "parties": [],
+  "parties": [
+    "Defence Housing Authority",
+    "Lubna Nizami",
+    "M/s Hamad Khalid Butt",
+    "M. Zafar Iqbal",
+    "Barrister Khurram Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

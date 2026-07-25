@@ -9,13 +9,24 @@
   "case_number": "Civil Revision No.1213-D/2003",
   "date_of_order": "08.09.2021",
   "judge": "ANWAAR HUSSAIN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 SCMR 801",
     "2021 SCMR 179",
     "1998 SCMR 230"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Anwar Mai",
+    "Ghulam Sarwar",
+    "Haji Muhammad Tariq Aziz Khokhar",
+    "Mr. Arif Tareen",
+    "Mr. Muhammad Shafiq",
+    "Mr. Fakhar Bashir",
+    "Anwaar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

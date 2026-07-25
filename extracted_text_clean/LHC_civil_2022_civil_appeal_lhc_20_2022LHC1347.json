@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "RFA No.17/2021",
   "date_of_order": "22.2.2022",
   "judge": "Rizwan",
   "sections_cited": [
@@ -24,7 +24,12 @@
   "citations": [
     "2006 CLC 565"
   ],
-  "parties": [],
+  "parties": [
+    "Rana Muhammad Ausaf",
+    "House Building Finance Company Limited",
+    "Mr. Muhammad Aslam Saddiqui",
+    "Mr. Muhammad Masood Sabir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

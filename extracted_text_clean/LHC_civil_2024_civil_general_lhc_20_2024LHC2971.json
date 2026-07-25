@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "W.P.No.8177/2023",
   "date_of_order": "20.05.2024",
-  "judge": "",
+  "judge": "Chaudhary Hamayun Mahmood",
   "sections_cited": [
     "Section 4 of the Land Acquisition Act",
     "Section 17 & 6 of the Act",
@@ -34,7 +34,11 @@
     "PLD 2017 Lahore 442",
     "PLD 2013 Lahore 565"
   ],
-  "parties": [],
+  "parties": [
+    "Lahore Development Authority",
+    "Chaudhary Hamayun Mahmood and another",
+    "Ch. Muhammad Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

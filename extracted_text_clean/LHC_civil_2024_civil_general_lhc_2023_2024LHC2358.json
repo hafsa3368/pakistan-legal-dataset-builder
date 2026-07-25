@@ -8,8 +8,10 @@
   "num_chunks": 8,
   "case_number": "Civil Judge etc. Sr. No. of",
   "date_of_order": "15.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Hafizabad",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2016 CLC 1553",
     "2013 SCMR 203",
@@ -18,7 +20,14 @@
     "PLD 2017 Lahore 604",
     "PLD 2010 Karachi 61"
   ],
-  "parties": [],
+  "parties": [
+    "Kaneez Fatima",
+    "Senior Civil Judge",
+    "Mr. Babar Bilal Awan",
+    "Mr. Muhammad Jawad Yaqoob",
+    "Majeed",
+    "Fahad Ahmad Siddique"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

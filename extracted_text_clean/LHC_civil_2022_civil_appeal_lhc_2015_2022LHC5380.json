@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No. 316 of 2015",
   "date_of_order": "14.06.2022",
-  "judge": "JUDGE Raheel Approved for reporting Judge",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 27",
     "section 27 of the Drugs Act",
@@ -25,7 +25,11 @@
     "2012 PCr.LJ 352",
     "2001 MLD 1145"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Alamgir son of Qazi Muhammad Ismail",
+    "Mr. Muhammad Aamir Niaz Bhadera"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

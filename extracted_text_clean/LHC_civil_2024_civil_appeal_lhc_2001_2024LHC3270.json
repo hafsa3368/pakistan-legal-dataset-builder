@@ -6,10 +6,12 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "06.06.2024",
   "judge": "Asim Hafeez",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "1990 CLC 703",
     "1997 MLD 3066",
@@ -18,7 +20,10 @@
     "2021 SCMR 558",
     "PLD 1995 Lahore 98"
   ],
-  "parties": [],
+  "parties": [
+    "M.L. Traders, etc.",
+    "Habib Bank Ltd, etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

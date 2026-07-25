@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "31.05.2022",
   "judge": "Muzamil Akhtar Shabir",
   "sections_cited": [],
@@ -20,7 +20,10 @@
     "2021 SCMR 1270",
     "PLD 2022 Lahore 372"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Hussain",
+    "Manzoor Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

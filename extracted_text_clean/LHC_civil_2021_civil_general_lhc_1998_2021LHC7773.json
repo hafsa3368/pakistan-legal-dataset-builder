@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "23.11.2021",
   "judge": "AHMAD NADEEM ARSHAD",
   "sections_cited": [
@@ -26,7 +26,13 @@
     "PLD 1973 SC 207",
     "PLD 2003 SC 818"
   ],
-  "parties": [],
+  "parties": [
+    "Province of Punjab",
+    "District Judge, etc.",
+    "Muhammad Umer Ishaq",
+    "Mr. Altaf Hussain Raan",
+    "Muhamad Masood Bilal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

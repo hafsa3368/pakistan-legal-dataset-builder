@@ -9,7 +9,11 @@
   "case_number": "civil appeal No. 64 of 2020",
   "date_of_order": "06.04.2022",
   "judge": "Irfan Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Order VII, Rule 11 of the Code of Civil Procedure 1908"
+  ],
   "citations": [
     "2013 CLC 1417",
     "2004 CLC 466",
@@ -21,7 +25,10 @@
     "2020 CLC 884",
     "PLD 2008 SC 146"
   ],
-  "parties": [],
+  "parties": [
+    "Sohney Khan and 2 others",
+    "Ghulam Muhammad and 8 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

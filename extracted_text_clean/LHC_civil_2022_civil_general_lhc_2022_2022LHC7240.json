@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "22.09.2022",
   "judge": "ALI ZIA BAJWA",
   "sections_cited": [
@@ -33,7 +33,11 @@
     "PLD 2010 Lahore 463",
     "PLD 2021 SC 600"
   ],
-  "parties": [],
+  "parties": [
+    "Ehsan Ullah Chaudhry",
+    "The State, etc.",
+    "Javaid Akhtar son of Fazal Elahi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

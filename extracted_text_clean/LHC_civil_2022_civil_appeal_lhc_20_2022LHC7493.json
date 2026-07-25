@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "FAO No.46550/2019",
   "date_of_order": "07.11.2022",
   "judge": "Rizwan",
   "sections_cited": [
@@ -24,7 +24,10 @@
   "citations": [
     "PLD 1969 SC 270"
   ],
-  "parties": [],
+  "parties": [
+    "M/S Makkah Traders etc",
+    "MCB Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

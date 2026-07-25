@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "HCJDA-38",
   "date_of_order": "15.12.2022",
   "judge": "SULTAN TANVIR AHMAD",
   "sections_cited": [
@@ -21,7 +21,32 @@
     "2016 SCMR 2146",
     "2017 SCMR 2010"
   ],
-  "parties": [],
+  "parties": [
+    "National Engineering Services Pakistan (NESPAK)",
+    "Muhammad Nawaz Cheema",
+    "Jawad Nasim Tariq",
+    "Usman Yaqoob Butt",
+    "Mr. Hafiz Tariq Nasim",
+    "Zubdatul Hassan",
+    "Saleem Ullah Khan",
+    "Shahid Anwar Bajwa",
+    "Abdul Rehman Bajwa",
+    "Saad Chohan",
+    "Muhammad Mubashar Aslam",
+    "M. Hassan Latif",
+    "Adnan Ahmad Chaudhary",
+    "Ejaz Ahmad Awan",
+    "Adnan Qamar Malik",
+    "Sadia Zain Iftikhar",
+    "Rustam Nawab Lak",
+    "Shami Akhtar",
+    "Sultan Ali Awan",
+    "Anmol Ali Awan",
+    "Nawaz Cheema",
+    "Mazhar Hussain Haji",
+    "M. Taqi Hasnain Kazmi",
+    "Miss Sufia Masood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

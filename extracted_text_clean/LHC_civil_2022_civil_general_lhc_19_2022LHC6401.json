@@ -38,7 +38,12 @@
     "PLD 2007 SC 45",
     "PLD 1967 SC 317"
   ],
-  "parties": [],
+  "parties": [
+    "Usman Zulfiqar Khan",
+    "The State",
+    "Superstore",
+    "Federal Investigation Agency"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

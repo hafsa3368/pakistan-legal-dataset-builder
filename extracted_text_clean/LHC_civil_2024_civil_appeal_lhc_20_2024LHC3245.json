@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "constitute an admitted fact. The acknowledgement",
   "date_of_order": "03.06.2024",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -16,7 +16,10 @@
   "citations": [
     "2024 CLC 1"
   ],
-  "parties": [],
+  "parties": [
+    "GHULAM DASTGIR SIDDIQUI and others",
+    "Mst. ELIZBETH and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

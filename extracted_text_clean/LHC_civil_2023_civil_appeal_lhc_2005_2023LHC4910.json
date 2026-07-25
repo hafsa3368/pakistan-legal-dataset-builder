@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "R.F.A. No.1538/2015",
   "date_of_order": "21.09.2023",
   "judge": "Asim Hafeez",
   "sections_cited": [
@@ -26,7 +26,12 @@
     "PLD 1995 SC 423",
     "PLD 1997 SC 351"
   ],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "M/s Brite Chemicals, etc.",
+    "Mr. Irfan Ali Sheikh",
+    "Ch. Muhammad Awais Zafar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 41,
-  "case_number": "",
+  "case_number": "W.P. No. 12660 / 2023",
   "date_of_order": "05.06.2023",
   "judge": "Abid Hussain Chattha",
   "sections_cited": [
@@ -36,7 +36,10 @@
     "PLD 2022 Lahore 177",
     "PLD 2014 Lahore 375"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Ali Javaid Hamdani",
+    "The Federation of Pakistan through its Cabinet Secretary and 05 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

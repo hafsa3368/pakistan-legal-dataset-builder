@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "",
+  "case_number": "WRIT PETITION NO.1234 of 2023",
   "date_of_order": "26.09.2024",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -38,7 +38,10 @@
     "1984 CLC 2855",
     "2010 SCMR 1840"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. MISBAH IFTIKHAR and another",
+    "Mst. ALEESA and 3 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

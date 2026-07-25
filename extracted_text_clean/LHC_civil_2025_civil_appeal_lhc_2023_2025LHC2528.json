@@ -6,9 +6,9 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2023",
   "date_of_order": "03.03.2025",
-  "judge": "JUDGE APPROVED FOR REPORTING Riaz Anjum JUDGE",
+  "judge": "SYED AHSAN RAZA KAZMI",
   "sections_cited": [
     "section 96 of the Code",
     "section 151 CPC",
@@ -32,7 +32,13 @@
     "PLD 1996 SC 256",
     "PLD 2005 Lahore 654"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Irshad",
+    "Muhammad Ramzan",
+    "Muhammad Farooq Warind",
+    "Irfan Ali Warind",
+    "Muhammad Aslam Khan Dhukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

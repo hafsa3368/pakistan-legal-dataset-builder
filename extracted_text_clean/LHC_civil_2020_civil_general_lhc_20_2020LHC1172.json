@@ -24,7 +24,12 @@
     "PLD 1981 Peshawar 110",
     "PLD 2016 SC 174"
   ],
-  "parties": [],
+  "parties": [
+    "Stereo",
+    "Petitioner (Sumayyah Moses)",
+    "Respondents (The State, Mr. Zaman Khan Vardag, Mr. Zubair Afzal Rana, Mr. Tasawar Hussain Virk, Mr. Muhammad Shahzad Shaukat)",
+    "Respondent No.3 (Mr. Tariq Saleem Sheikh)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

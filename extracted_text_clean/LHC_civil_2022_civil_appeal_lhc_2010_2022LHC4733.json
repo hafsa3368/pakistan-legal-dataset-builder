@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "R.F.A. No.47 of 2012",
   "date_of_order": "21.06.2022",
   "judge": "AHMAD NADEEM ARSHAD",
   "sections_cited": [
@@ -31,7 +31,10 @@
     "PLD 1961 BJ 69",
     "PLD 1983 LAHORE 578"
   ],
-  "parties": [],
+  "parties": [
+    "National Highway Authority",
+    "Senior Civil Judge, (Referee Court), Lodhran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

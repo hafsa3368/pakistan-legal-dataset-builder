@@ -8,12 +8,17 @@
   "num_chunks": 5,
   "case_number": "Constitution of Pakistan--- ----Art. 199---Notification",
   "date_of_order": "25th February, 2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Art. 199"
+  ],
   "citations": [
     "2017 SCMR 2066"
   ],
-  "parties": [],
+  "parties": [
+    "FATIMA FARYAD and others",
+    "GOVERNMENT OF PUNJAB and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

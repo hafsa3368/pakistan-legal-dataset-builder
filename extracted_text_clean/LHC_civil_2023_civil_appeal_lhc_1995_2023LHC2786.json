@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "17.05.2023",
   "judge": "Abid Hussain Chattha",
   "sections_cited": [
@@ -24,7 +24,12 @@
     "2008 SCMR 1639",
     "2004 SCMR 1001"
   ],
-  "parties": [],
+  "parties": [
+    "Abdur Rehman",
+    "3 others",
+    "Manzoor Ahmed",
+    "6 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

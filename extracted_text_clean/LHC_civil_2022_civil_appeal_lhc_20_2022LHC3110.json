@@ -8,13 +8,27 @@
   "num_chunks": 8,
   "case_number": "Crl. Appeal No.45686-J/2021",
   "date_of_order": "21.04.2022",
-  "judge": "JUDGE Kashif",
-  "sections_cited": [],
+  "judge": "FAROOQ HAIDER",
+  "sections_cited": [
+    "Section 11-H ATA 1997",
+    "Section 11-I ATA 1997",
+    "Section 11-J ATA 1997",
+    "Section 11-N ATA 1997"
+  ],
   "citations": [
     "2018 SCMR 2039",
     "2019 SCMR 608"
   ],
-  "parties": [],
+  "parties": [
+    "Hussain Shah",
+    "The State",
+    "Ch. Muhammad Alamgir Alam",
+    "Mr. Humayun Aslam",
+    "Imran Khan",
+    "Shehzadah Qaisar Corporal No.109",
+    "Umar Waqas Corporal No.148",
+    "Babar Riaz Corporal No.171"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

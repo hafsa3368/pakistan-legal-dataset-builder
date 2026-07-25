@@ -28,7 +28,10 @@
     "PLD 1988 Lahore 186",
     "PLD 1983 Lahore 546"
   ],
-  "parties": [],
+  "parties": [
+    "Mst Saidan",
+    "Muhammad Yousaf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

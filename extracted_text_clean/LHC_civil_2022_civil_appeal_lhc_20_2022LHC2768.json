@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "constructed House No.G-68",
   "date_of_order": "30.03.2022",
-  "judge": "",
+  "judge": "Mr. Ghulam Farid Sanotra",
   "sections_cited": [
     "Section 29 & 32 of the Mental Health Ordinance",
     "Section 2",
@@ -29,7 +29,11 @@
     "PLD 1973 SC 236",
     "PLD 2011 SC 905"
   ],
-  "parties": [],
+  "parties": [
+    "Azhar Ali",
+    "Khalid Iqbal",
+    "Ghulam Abbas s/o Gull Jan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

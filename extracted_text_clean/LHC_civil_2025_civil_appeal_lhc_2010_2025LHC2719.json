@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "",
   "judge": "RASAAL HASAN SYED",
   "sections_cited": [],
@@ -16,7 +16,11 @@
     "PLD 1995 SC 629",
     "PLD 1978 SC 213"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal and others",
+    "Muhammad Ashraf and others",
+    "Mst. Bashiran Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

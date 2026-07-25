@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "13.06.2022",
   "judge": "Sultan Tanvir Ahmad",
   "sections_cited": [
@@ -21,7 +21,13 @@
   "citations": [
     "PLD 2016 SC 229"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Al-Barkat Seed Corporation",
+    "Silk Bank Limited",
+    "Mr. M. Basit Babar Chughtai",
+    "Mr. Ali Raza Kabeer",
+    "Rana Rizwan Mehmood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

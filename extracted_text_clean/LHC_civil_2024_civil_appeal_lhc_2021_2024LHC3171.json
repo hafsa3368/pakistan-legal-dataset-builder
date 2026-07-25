@@ -9,7 +9,10 @@
   "case_number": "Civil Revision No. 23551/2023",
   "date_of_order": "05.06.2024",
   "judge": "Asim Hafeez",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2000 SCMR 533",
     "2023 SCMR 1371",
@@ -23,7 +26,13 @@
     "2020 YLR 886",
     "2016 YLR 612"
   ],
-  "parties": [],
+  "parties": [
+    "Raja Muhammad Khubaib",
+    "Addl. District Judge, Lahore & others",
+    "Ms. Sabahat Rizvi",
+    "Mr. Maqsood Ahmad Ghuman",
+    "Mr. Ishfaq Amir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

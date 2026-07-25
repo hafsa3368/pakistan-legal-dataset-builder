@@ -6,12 +6,15 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "16.03.2023",
-  "judge": "Approved for reporting Judge Maqsood",
+  "judge": "ANWAAR HUSSAIN",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Nabi",
+    "Kabir Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

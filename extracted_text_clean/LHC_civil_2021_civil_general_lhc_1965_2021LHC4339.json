@@ -9,7 +9,10 @@
   "case_number": "W.P. No. 49238 of 2021",
   "date_of_order": "09.08.2021",
   "judge": "Muhammad Tariq Nadeem",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1988 P.Cr. L J 1883",
     "2019 YLR 2244",
@@ -17,7 +20,13 @@
     "2018 SCMR 427",
     "PLD 2012 SC 758"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Islam Ullah Khan Lodhi",
+    "CCPO",
+    "Malik Sohail Imran",
+    "Mr. Fayyaz Ahmad Sipra",
+    "Ahsan Masood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

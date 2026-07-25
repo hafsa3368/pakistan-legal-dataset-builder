@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "06.10.2025",
   "judge": "RASAAL HASAN SYED",
   "sections_cited": [
@@ -19,7 +19,11 @@
     "2005 SCMR 946",
     "PLD 2010 SC 657"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Sarwat Sethi",
+    "Mst. Khalida Parveen",
+    "Mr. Zafar Javaid Khan Daha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

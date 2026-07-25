@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "Civil Revision as well as Civil Revision No.113/2014",
   "date_of_order": "30.01.2023",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 28 of the Limitation Act",
     "Section 11 of CPC",
@@ -29,7 +29,11 @@
     "PLD 1979 Lahore 481",
     "PLD 2005 SC 430"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Naseem etc.",
+    "Province of Punjab through Collector, District Bhakkar etc.",
+    "Respondents/defendants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "25.05.2023",
   "judge": "Farooq Haider",
   "sections_cited": [
@@ -20,7 +20,11 @@
     "2015 PCr.LJ 923",
     "PLD 2015 Lahore 20"
   ],
-  "parties": [],
+  "parties": [
+    "Kamran Khan",
+    "Govt. of Punjab",
+    "Zeeshan Razzaq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

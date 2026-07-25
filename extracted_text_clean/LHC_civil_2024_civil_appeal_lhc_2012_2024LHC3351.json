@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "civil proceedings not",
   "date_of_order": "04.06.2024",
-  "judge": "",
+  "judge": "ABID HUSSAIN CHATTHA",
   "sections_cited": [
     "Section 41 of the Copyright Ordinance",
     "Section 39 of the Copyright Ordinance",
@@ -26,7 +26,13 @@
     "2015 YLR 1598",
     "2022 SCMR 979"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Akram Rahi",
+    "The Copyright Board",
+    "Mr. Saqib Asghar",
+    "Mr. Mudassar Hassan",
+    "Abid Hussain Chaththa"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

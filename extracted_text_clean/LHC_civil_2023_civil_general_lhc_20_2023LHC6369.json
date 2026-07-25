@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "09.01.2023",
   "judge": "Tariq Saleem Sheikh",
   "sections_cited": [
@@ -34,7 +34,13 @@
     "PLD 2007 Lahore 53",
     "PLD 1970 Lahore 726"
   ],
-  "parties": [],
+  "parties": [
+    "Shoaib Sohail",
+    "Mr Zubair Afzal Rana, Advocate",
+    "Tariq Saleem Sheikh",
+    "Respondent No.5",
+    "Respondent No.6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

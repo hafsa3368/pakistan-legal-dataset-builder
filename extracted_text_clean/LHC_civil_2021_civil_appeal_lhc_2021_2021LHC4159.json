@@ -23,7 +23,11 @@
     "PLD 2021 SC 600",
     "PLD 2020 SC 334"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Asif Ali Usama",
+    "The State",
+    "Sana Ullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

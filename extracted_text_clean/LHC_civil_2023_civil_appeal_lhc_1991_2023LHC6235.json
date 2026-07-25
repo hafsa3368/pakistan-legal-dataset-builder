@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "04.12.2023",
   "judge": "RASAAL HASAN SYED",
   "sections_cited": [
@@ -15,7 +15,15 @@
     "Section 13 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Munir (deceased)",
+    "Muhammad Zia Ullah and others",
+    "Mian Khalid Habib Elahi",
+    "Shafi Sharik",
+    "Shafi Jar",
+    "Muhammad Riaz son of Faiz Ahmad",
+    "Muhammad Sharif son of Abdul Haq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

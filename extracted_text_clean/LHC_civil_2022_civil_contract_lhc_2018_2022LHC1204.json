@@ -9,12 +9,28 @@
   "case_number": "constitutional petition along another",
   "date_of_order": "31.01.2022",
   "judge": "ASIM HAFEEZ",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR 890",
     "2016 SCMR 859"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Qurban Ali",
+    "Province of Punjab",
+    "Mr. Hafiz Tariq Naseem",
+    "M/s Muhammad Salman Ullah Khan",
+    "Usman Shafique Butt",
+    "Zeeshan Ghani Sulehria",
+    "Muhammad Nouman Shamas Qazi",
+    "Jalil- ur-Rehman Butt",
+    "Mr. Shahid Abrar Basra",
+    "Mr. Zeeshan Afzaal Hashmi",
+    "Zafar Rahim Sukhera",
+    "Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

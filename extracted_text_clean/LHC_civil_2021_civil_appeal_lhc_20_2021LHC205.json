@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "ICNo.250/2020 MEPCO VS. AKAASH JIBRAEEL ETC.",
   "date_of_order": "10.02.2021",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -27,7 +27,31 @@
     "PLD 2011 SC 997",
     "PLD 2011 SC 927"
   ],
-  "parties": [],
+  "parties": [
+    "MEPCO",
+    "Akaash Jibraeel",
+    "Ch. Saleem Akhtar Warraich",
+    "Mr. Amer Aziz Qazi",
+    "Mr. Sajjad Khan Malazai",
+    "Mr. Abdul Sattar Malik",
+    "Malik Murid Hussain Mukowal",
+    "Jamshed Ali Niazi",
+    "Rao Muhammad Iqbal",
+    "Qazi M. Waseem Abbas",
+    "Rashid Bashir Khan",
+    "Imran Ahmad JangLa",
+    "Mr. Bilal Amin",
+    "Ch. Muhammad Bakhsh Mangat",
+    "M/S Muhammad Yousaf Zubair",
+    "Muhammad Imran Hameed Sindhu",
+    "Mr. Muhammad Ashraf Qureshi",
+    "Shahzad Saleem Khan Baloch",
+    "Faisal Shahzad Awan",
+    "Khawaja Qaiser Butt",
+    "Rana Muhammad Azhar Iqbal",
+    "Ch. Khalid Mahmood Arain",
+    "Abid Aziz Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

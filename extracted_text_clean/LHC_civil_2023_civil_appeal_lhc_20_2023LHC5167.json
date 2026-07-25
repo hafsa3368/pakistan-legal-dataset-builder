@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "27.09.2023",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 5",
     "Section 2",
@@ -38,7 +38,10 @@
     "1971 SCMR 123",
     "2016 SCMR 24"
   ],
-  "parties": [],
+  "parties": [
+    "Zahid Khan",
+    "Muhammad Ahsan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

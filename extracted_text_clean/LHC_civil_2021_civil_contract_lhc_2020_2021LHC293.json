@@ -20,7 +20,13 @@
     "1974 SCMR 51",
     "PLD 2020 Lahore 400"
   ],
-  "parties": [],
+  "parties": [
+    "Habib Construction Services Limited",
+    "Lahore Development Authority",
+    "Syed Tassaduq Mustafa Naqvi",
+    "Sardar Qasim Hassan Khan",
+    "Mr. Sahabzada Muzaffar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

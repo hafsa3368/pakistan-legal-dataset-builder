@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "W.P.No.39929/2020",
   "date_of_order": "08.09.2020",
-  "judge": "",
+  "judge": "Malik Sajjad Hussain",
   "sections_cited": [
     "Section 3",
     "section 2",
@@ -33,7 +33,11 @@
     "PLD 2005 SC 337",
     "PLD 2010 Lahore 510"
   ],
-  "parties": [],
+  "parties": [
+    "Allah Ditta",
+    "Chief Settlement Commissioner Punjab",
+    "Ahmed Din"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

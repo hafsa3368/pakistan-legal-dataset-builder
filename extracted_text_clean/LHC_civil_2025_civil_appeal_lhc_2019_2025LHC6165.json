@@ -6,9 +6,9 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "22.09.2025",
-  "judge": "JUDGE Waqar",
+  "judge": "JAWAD HASSAN",
   "sections_cited": [
     "Section 124 of the Insurance Ordinance",
     "section 151",
@@ -24,7 +24,10 @@
     "PLD 2010 SC 604",
     "PLD 1992 SC 822"
   ],
-  "parties": [],
+  "parties": [
+    "Jubilee Life Insurance Company",
+    "Muhammad Masoom & 3 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

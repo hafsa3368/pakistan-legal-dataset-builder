@@ -8,13 +8,19 @@
   "num_chunks": 6,
   "case_number": "W.P.No.15351 of 2015",
   "date_of_order": "23.06.2015",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2012 SCMR 455",
     "PLD 2020 Lahore 16"
   ],
-  "parties": [],
+  "parties": [
+    "JAWED IQBAL KHAN",
+    "GOVERNMENT OF THE PUNJAB and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

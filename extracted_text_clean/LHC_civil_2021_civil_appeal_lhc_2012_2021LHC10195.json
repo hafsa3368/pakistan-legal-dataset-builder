@@ -6,14 +6,20 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "01.11.2021",
   "judge": "ABID HUSSAIN CHATTHA",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2018 CLC 994"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Hameed",
+    "Jaam Abdul Ghafoor",
+    "Ejaz Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

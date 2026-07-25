@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "constitutional petition bearing W.P. No.69876/2023",
   "date_of_order": "14.05.2024",
-  "judge": "Approved for reporting Judge Maqsood",
+  "judge": "ANWAAR HUSSAIN",
   "sections_cited": [
     "Section 15",
     "Section 19 of the Act",
@@ -17,7 +17,11 @@
     "section 13"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Maqsood Ahmad",
+    "Additional District Judge, etc.",
+    "Riasat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Civil Revision No.681-D of 2015",
   "date_of_order": "20.09.2022",
-  "judge": "Approved for reporting Judge Javed Yousaf",
+  "judge": "SULTAN TANVIR AHMAD",
   "sections_cited": [
     "section 115 of the Code",
     "section 48 of the Code",
@@ -25,7 +25,10 @@
     "1970 SCMR 582",
     "PLD 1981 SC 21"
   ],
-  "parties": [],
+  "parties": [
+    "Liaqat Hussain",
+    "Mohammad Ashiq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -34,7 +34,10 @@
     "PLD 1984 SC 344",
     "PLD 1985 SC 107"
   ],
-  "parties": [],
+  "parties": [
+    "Ishrat Bano",
+    "Fateh Muhammad Sr."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

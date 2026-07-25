@@ -38,7 +38,12 @@
     "PLD 2020 SC 456",
     "PLD 2015 SC 42"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Mustafa",
+    "Judge Family Court & another",
+    "Mr. Nasir-ud-Din Mahmood Ghazlani",
+    "Mr. Muhammad Ali Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

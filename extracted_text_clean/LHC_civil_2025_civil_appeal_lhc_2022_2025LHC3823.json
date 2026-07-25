@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "FAO No. 47 of 2025",
   "date_of_order": "14.05.2025",
   "judge": "Syed Ahsan Raza Kazmi",
   "sections_cited": [
@@ -17,7 +17,10 @@
     "2024 YLR 251",
     "2024 CLC 1293"
   ],
-  "parties": [],
+  "parties": [
+    "Naeem Abbas etc.",
+    "Altaf Hussain etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

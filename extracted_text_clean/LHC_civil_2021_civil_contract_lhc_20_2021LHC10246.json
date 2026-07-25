@@ -8,13 +8,19 @@
   "num_chunks": 5,
   "case_number": "Civil Revision No. 598 of 2012",
   "date_of_order": "17.03.1971",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Masud Abid Naqvi",
+  "sections_cited": [
+    "O. VII, Rr. 11 & 13",
+    "Section 12 Specific Relief Act (I of 1877)"
+  ],
   "citations": [
     "2015 SCMR 58",
     "2002 SCMR 1821"
   ],
-  "parties": [],
+  "parties": [
+    "GHULAM HUSSAIN through Legal heirs and others",
+    "SHER MUHAMMAD through Legal heirs and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

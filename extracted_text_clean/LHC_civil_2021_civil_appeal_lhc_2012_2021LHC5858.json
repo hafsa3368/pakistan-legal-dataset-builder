@@ -24,7 +24,10 @@
     "2007 SCMR 61",
     "PLD 1973 SC 160"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Akram",
+    "Muhammad Asif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

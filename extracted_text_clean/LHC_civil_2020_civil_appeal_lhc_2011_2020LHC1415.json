@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "FAO No.204 of 2011",
   "date_of_order": "04.06.2020",
-  "judge": "",
+  "judge": "ASIM HAFEEZ",
   "sections_cited": [
     "section 25 of the Punjab Consumer Protection Act",
     "Section 13",
@@ -22,7 +22,11 @@
     "section 107 of the Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD MUNAWAR SAEED",
+    "DISTRICT JUDGE/PRESIDING OFFICER, DISTRICT CONSUMER COURT, MULTAN",
+    "M/s Mian Abbas Ahmad & Muhammad Khalid Mahmood Ayaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

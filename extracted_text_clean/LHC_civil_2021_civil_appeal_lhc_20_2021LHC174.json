@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.R.No.441-D/2013",
   "date_of_order": "08.02.2021",
   "judge": "Raza",
   "sections_cited": [
@@ -17,7 +17,11 @@
   "citations": [
     "2006 SCMR 1304"
   ],
-  "parties": [],
+  "parties": [
+    "Farooq Ahmad",
+    "Rashid Ahmad",
+    "Malik Muhammad Latif Khokhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

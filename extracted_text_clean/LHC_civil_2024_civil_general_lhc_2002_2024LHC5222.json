@@ -33,7 +33,11 @@
     "2020 MLD 1384",
     "2009 SCMR 1073"
   ],
-  "parties": [],
+  "parties": [
+    "Kamran Mushtaq",
+    "The State",
+    "Malik Muhammad Akbar Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

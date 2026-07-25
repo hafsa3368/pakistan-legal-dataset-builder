@@ -19,7 +19,10 @@
     "1997 MLD 1835",
     "PLD 2007 Karachi 182"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Javed Azmi",
+    "Javed Arshad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

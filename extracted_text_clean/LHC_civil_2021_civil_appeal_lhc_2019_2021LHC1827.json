@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-138 of 2019",
   "date_of_order": "09.06.2021",
-  "judge": "",
+  "judge": "Sultan Tanvir Ahmad",
   "sections_cited": [
     "Section 19",
     "Section 19 of the Ordinance",
@@ -16,7 +16,11 @@
     "section 19"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amir Abbas Minhas",
+    "Deputy Commissioner Chakwal",
+    "Chakwal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

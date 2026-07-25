@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "10.12.2025",
   "judge": "RASAAL HASAN SYED",
   "sections_cited": [],
@@ -15,7 +15,13 @@
     "2012 MLD 1605",
     "2022 CLC 1529"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Hanif",
+    "Abdul Razzaq Sr.",
+    "Mr. Shabbir Ahmed Khan",
+    "Ch. Ashraf Jalal",
+    "Ms. Uzma Razzaq Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

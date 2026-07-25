@@ -8,7 +8,7 @@
   "num_chunks": 18,
   "case_number": "Civil Revision No.195-D/2009",
   "date_of_order": "13.01.2020",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 2 of the Muslim Personal Shariat Application Act",
     "Section 2 of the Act",
@@ -34,7 +34,11 @@
     "PLD 2015 SC 327",
     "PLD 1990 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Naseer",
+    "Sanwai Mai",
+    "Mst. Sanwai Mai"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

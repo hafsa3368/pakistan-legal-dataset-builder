@@ -9,14 +9,24 @@
   "case_number": "constitutional petition bearing W.P. No.60517/2022",
   "date_of_order": "26.04.2023",
   "judge": "Anwaar Hussain",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2005 SCMR 1740",
     "2017 CLC Note 25",
     "2019 CLC 1008",
     "PLD 2006 SC 457"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Afzal",
+    "Addl. District Judge, etc.",
+    "Mst. Madiha Kiran",
+    "Mr. Abdul Razzaq Younas",
+    "Mr. Muhammad Younas Bhullar",
+    "Anwaar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

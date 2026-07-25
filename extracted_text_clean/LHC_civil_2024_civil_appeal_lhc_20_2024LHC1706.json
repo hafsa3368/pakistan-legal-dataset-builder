@@ -32,7 +32,11 @@
     "PLD 2020 SC 146",
     "PLD 2021 SC 550"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem",
+    "The State",
+    "Parveen Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

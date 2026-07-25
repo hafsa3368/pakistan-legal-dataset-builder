@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2023",
   "date_of_order": "19.10.2023",
   "judge": "ALI ZIA BAJWA",
   "sections_cited": [
@@ -32,7 +32,12 @@
     "PLD 2021 Lahore 21",
     "PLD 2022 FSC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Nazar Muhammad",
+    "DPO, etc.",
+    "Mr. Shahid Nawab Cheema",
+    "Rai Atif Sher Kharal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

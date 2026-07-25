@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "RFA No.45873/2023",
   "date_of_order": "15.05.2024",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -23,7 +23,10 @@
     "2021 SCMR 1241",
     "2021 SCMR 1534"
   ],
-  "parties": [],
+  "parties": [
+    "Humayon Sajjad",
+    "Aslam Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Intra Court Appeal No.41 of 2021",
   "date_of_order": "27.11.2024",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -18,7 +18,10 @@
     "2009 SCMR 1034",
     "2015 SCMR 915"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Shamim Akhtar",
+    "Federation of Pakistan Through Secretary Ministry of Defence, Government of Pakistan, Rawalpindi Cantt. and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": true,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "28.03.2019",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,13 @@
     "Section 10"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gulistan Power Generation Limited & Others",
+    "The Bank of Punjab & Ors",
+    "Malik",
+    "A. W. Buti, Advocates",
+    "Milik Asudullah Unu Mirza Zecshan Advocates"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 24,
   "case_number": "Crl. Appeal No.476/2012",
   "date_of_order": "03.12.2021",
-  "judge": "Approved for reporting JUDGE Riaz",
+  "judge": "ALI ZIA BAJWA",
   "sections_cited": [
     "Sections 364-A, 365-B, 376-II, 452, 148, 149",
     "Section 365-B/149",
@@ -38,7 +38,12 @@
     "1992 SCMR 196",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "The State & another",
+    "Abdur Rasheed & The State & another",
+    "Riaz Hussain & The State & another",
+    "Khameesa & The State & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

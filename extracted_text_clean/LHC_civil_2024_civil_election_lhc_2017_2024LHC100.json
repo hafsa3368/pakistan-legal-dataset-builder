@@ -34,7 +34,12 @@
     "PLD 1987 SC 145",
     "PLD 2004 Karachi 260"
   ],
-  "parties": [],
+  "parties": [
+    "Imran Ahmed Khan Niazi",
+    "The Returning Officer and another",
+    "Barrister Abdul Qudoos Sohal",
+    "Muhammad Ramzan Chaudhary"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

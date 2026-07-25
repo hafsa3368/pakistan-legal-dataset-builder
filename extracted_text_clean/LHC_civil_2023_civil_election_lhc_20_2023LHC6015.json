@@ -29,7 +29,17 @@
     "PLD 2021 Lahore 770",
     "PLD 2007 Lahore 581"
   ],
-  "parties": [],
+  "parties": [
+    "Faisal Zafar",
+    "Siraj-ud-Din",
+    "Hazrat Ullah",
+    "Abu Zar Faizy Rattu",
+    "Genome Pharmaceuticals",
+    "SECP (Securities and Exchange Commission of Pakistan)",
+    "Malik Saqib Mehmood Khalid",
+    "Qurraish Mughal",
+    "Malik Shaukat Mahmood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

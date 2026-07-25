@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 10,
   "case_number": "Crl. Misc. No.560-Q/2018/BWP",
-  "date_of_order": "",
+  "date_of_order": "28.01.2020",
   "judge": "TARIQ SALEEM SHEIKH",
   "sections_cited": [
     "Section 561-A Cr.P.C",
@@ -25,7 +25,11 @@
     "1994 PCr.LJ 353",
     "PLD 1950 Lahore 34"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Mohsin Abbas",
+    "The State",
+    "Zia-ur-Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

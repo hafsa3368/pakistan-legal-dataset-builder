@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Constitutional jurisdiction cannot",
   "date_of_order": "07.10.2021",
-  "judge": "",
+  "judge": "MUHAMMAD RAZA QURESHI",
   "sections_cited": [
     "Section 21 of the Specific Relief Act",
     "section 5 of the Act"
@@ -19,7 +19,10 @@
     "PLD 2005 SC 906",
     "PLD 1975 SC 244"
   ],
-  "parties": [],
+  "parties": [
+    "Arsal Shahzad Khan",
+    "The Government of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.201-J of 2018",
   "date_of_order": "22.02.2022",
-  "judge": "JUDGE Rashid Approved for reporting Judge Judge",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 9",
     "Section 382",
@@ -20,7 +20,10 @@
     "section 29"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Amjad alias Bholli"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

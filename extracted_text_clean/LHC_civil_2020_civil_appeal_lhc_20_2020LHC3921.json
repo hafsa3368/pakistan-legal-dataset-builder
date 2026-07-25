@@ -8,8 +8,10 @@
   "num_chunks": 8,
   "case_number": "W.P. No.17987 of 2013",
   "date_of_order": "22.05.2017",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "JAWAD HASSAN",
+  "sections_cited": [
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "1990 MLD 957",
     "2000 SCMR 1743",
@@ -19,7 +21,10 @@
     "PLD 1974 SC 393",
     "PLD 2006 Karachi 511"
   ],
-  "parties": [],
+  "parties": [
+    "ABDUL QADEER",
+    "PUNJAB LABOUR APPELLATE TRIBUNAL"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

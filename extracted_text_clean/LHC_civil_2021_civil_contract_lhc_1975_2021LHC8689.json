@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "15.11.2021",
   "judge": "Muhammad Raza Qureshi",
   "sections_cited": [
@@ -20,7 +20,13 @@
     "PLD 2010 SC 676",
     "PLD 2007 SC 472"
   ],
-  "parties": [],
+  "parties": [
+    "Tehniat Zia",
+    "The President, National Bank of Pakistan, etc.",
+    "Mr. Tahir Mehmood, Advocate",
+    "Mehr Qamar Hussain Sandal, DAG",
+    "MUHAMMAD RAZA QURESHI, J"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

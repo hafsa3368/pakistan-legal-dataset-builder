@@ -29,7 +29,11 @@
     "PLD 2002 Lahore 619",
     "PLD 2005 Lahore 470"
   ],
-  "parties": [],
+  "parties": [
+    "Hafeez Ullah Shahid",
+    "Muhammad Akram ASI",
+    "Muhammad Ashraf son of Muhammad Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

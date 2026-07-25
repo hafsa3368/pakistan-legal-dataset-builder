@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "21.04.2022",
   "judge": "Rouf",
   "sections_cited": [
@@ -22,7 +22,15 @@
     "PLD 2011 SC 241",
     "PLD 2005 Lahore 654"
   ],
-  "parties": [],
+  "parties": [
+    "Salma Bibi",
+    "Rana Sagheer Hussain",
+    "Mian Tariq Ahmad",
+    "Rana Qaisar Ali Khan",
+    "Qazi Ghulam Mohayudin",
+    "M.Safdar Shaheen Gill",
+    "Mrs. Falak Naz Gill"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -26,7 +26,12 @@
     "PLD 2021 SC 550",
     "PLD 2020 SC 295"
   ],
-  "parties": [],
+  "parties": [
+    "Kamran",
+    "The State",
+    "Suleman Ali Shah",
+    "Barkat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

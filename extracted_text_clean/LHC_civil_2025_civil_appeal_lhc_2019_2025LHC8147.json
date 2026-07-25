@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "22.12.2025",
   "judge": "Syed Ahsan Raza Kazmi",
   "sections_cited": [
@@ -25,7 +25,10 @@
     "PLD 1976 SC 508",
     "PLD 2003 SC 315"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Akram",
+    "Sarfraz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

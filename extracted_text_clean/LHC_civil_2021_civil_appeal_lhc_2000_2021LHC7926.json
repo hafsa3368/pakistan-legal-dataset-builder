@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "Civil Judge is restored. No.2452 of 2011",
   "date_of_order": "26.11.2021",
   "judge": "Rasaal Hasan Syed",
   "sections_cited": [
@@ -15,7 +15,11 @@
     "section 47 of the Registration Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nazeer Ahmed",
+    "Shaukat Ali",
+    "Muhammad Ramzan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "10.01.2023",
   "judge": "Shahzad Mahmood / Abdul Hafeez",
   "sections_cited": [
@@ -23,7 +23,11 @@
     "1986 CLC 1408",
     "2009 YLR 1508"
   ],
-  "parties": [],
+  "parties": [
+    "MCB Bank Limited",
+    "The Federation of Pakistan",
+    "Dr. Farida Sharif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

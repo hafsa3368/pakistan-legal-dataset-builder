@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "15.06.2021",
   "judge": "JAWAD HASSAN",
   "sections_cited": [
@@ -18,7 +18,11 @@
     "Section 10"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "ORIX Leasing Pakistan Ltd.",
+    "M/s. Muhammad Noor Dairies",
+    "M/s. Muhammad Noor Dairies & 3 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

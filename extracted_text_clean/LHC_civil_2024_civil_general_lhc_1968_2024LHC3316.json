@@ -38,7 +38,11 @@
     "PLD 1990 Karachi 233",
     "PLD 2011 Lahore 551"
   ],
-  "parties": [],
+  "parties": [
+    "Zahid Maqsood Butt",
+    "The State",
+    "Usman Khalid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

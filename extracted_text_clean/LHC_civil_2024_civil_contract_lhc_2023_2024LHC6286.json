@@ -9,12 +9,20 @@
   "case_number": "misconceived which had no bearing",
   "date_of_order": "06.11.2024",
   "judge": "RASAAL HASAN SYED",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1999 YLR 934",
     "1999 YLR 728"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Arif and another",
+    "Haji Khalid Mahmood (deceased)",
+    "Mr. Malik Naveed Akram",
+    "Mr. Nazir Ahmad Bhatti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

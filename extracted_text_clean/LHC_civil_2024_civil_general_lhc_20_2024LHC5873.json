@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "18.12.2024",
   "judge": "JAWAD HASSAN",
   "sections_cited": [
@@ -16,7 +16,11 @@
   "citations": [
     "PLD 2022 SC 769"
   ],
-  "parties": [],
+  "parties": [
+    "Askari Bank Limited",
+    "M/s. Khawaja Flat Glass Industries (Private) Limited",
+    "First Women Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

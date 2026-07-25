@@ -9,14 +9,20 @@
   "case_number": "constitute re-sale EFA No.30/2022",
   "date_of_order": "22.10.2024",
   "judge": "Anwaar Hussain",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2011 SCMR 1675",
     "2019 SCMR 1004",
     "2006 SCMR 801",
     "PLD 2014 SC 283"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Rafi Cotton Industries (Pvt). Ltd.",
+    "Bank Al-Habib"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

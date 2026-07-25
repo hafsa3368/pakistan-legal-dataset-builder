@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "FAO No.433/2014",
   "date_of_order": "30.10.2024",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -25,7 +25,11 @@
     "2001 SCMR 1461",
     "2022 SCMR 979"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Qasim",
+    "Registrar of Trade Marks etc.",
+    "Asghar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

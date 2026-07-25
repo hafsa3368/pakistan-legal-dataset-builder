@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 19,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "07.10.2021",
   "judge": "ANWAARUL HAQ PANNUN",
   "sections_cited": [
@@ -35,7 +35,10 @@
     "2018 CLC Note 63",
     "2012 SCMR 1201"
   ],
-  "parties": [],
+  "parties": [
+    "Rana Abid Hussain and two others",
+    "National Highway Authority and three others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "I.C.A. No.121623/2017",
   "date_of_order": "10.11.2020",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 3 of the Law Reforms Ordinance",
     "Section 18"
@@ -21,7 +21,10 @@
     "PLD 2013 Lahore 339",
     "PLD 2003 SC 420"
   ],
-  "parties": [],
+  "parties": [
+    "The Water and Power Development Authority",
+    "Jehansher, Junior Engineer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

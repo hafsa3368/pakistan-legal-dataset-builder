@@ -25,7 +25,10 @@
     "1992 MLD 2455",
     "PLD 1967 Karachi 75"
   ],
-  "parties": [],
+  "parties": [
+    "Kashif Nawaz",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -27,7 +27,10 @@
     "PLD 2005 Karachi 334",
     "PLD 2019 Lahore 102"
   ],
-  "parties": [],
+  "parties": [
+    "BASHIR MASIH",
+    "SUNEELA NADEEM"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

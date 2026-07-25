@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Writ Petition No.32503/2023",
   "date_of_order": "22.05.2023",
   "judge": "Farooq Haider",
   "sections_cited": [
@@ -21,7 +21,12 @@
     "2015 PCr.LJ 923",
     "PLD 2015 Lahore 20"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rauf",
+    "Govt. of Punjab",
+    "Abdul Rehman alias Mooni",
+    "Nasir Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

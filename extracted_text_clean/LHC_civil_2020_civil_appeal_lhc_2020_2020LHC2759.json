@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "ICA No. 77 of 2020",
   "date_of_order": "11.11.2020",
-  "judge": "",
+  "judge": "Malik Ghulam Mustafa Kandwal",
   "sections_cited": [
     "section 4",
     "Section 3",
@@ -18,7 +18,10 @@
     "Section 8"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Raheel Bahadur and four others",
+    "Province of Punjab, through Secretary Environment, Punjab Secretariat, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

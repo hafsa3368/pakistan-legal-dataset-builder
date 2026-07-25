@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "17.10.2022",
   "judge": "SULTAN TANVIR AHMAD",
   "sections_cited": [
@@ -18,7 +18,12 @@
     "PLD 1994 Karachi 311",
     "PLD 1967 Karachi 155"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Akram",
+    "Additional District Judge",
+    "Sultan Tanvir Ahmad",
+    "Ms. Aasia Khan Malezai"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

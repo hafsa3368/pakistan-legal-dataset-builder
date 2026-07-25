@@ -27,7 +27,11 @@
     "PLD 2018 SC 595",
     "PLD 2004 SC 298"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ghazanfar Naveed",
+    "The State",
+    "Khalil Akbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

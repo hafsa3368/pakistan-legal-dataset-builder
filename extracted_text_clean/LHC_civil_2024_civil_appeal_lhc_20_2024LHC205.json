@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 29,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2023",
   "date_of_order": "19.12.2023",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 96 CPC",
     "Section 4",
@@ -24,7 +24,10 @@
     "PLD 1975 SC 383",
     "PLD 1995 SC 530"
   ],
-  "parties": [],
+  "parties": [
+    "Mariam Sajjad",
+    "Prof. Dr. Rasool Ahmed Chaudhary"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

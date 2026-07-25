@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "W.P No. 1976-Q of 2022",
   "date_of_order": "14.03.2022",
-  "judge": "Raheel Approved for Reporting Judge",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 406 PPC",
     "section 161 Cr.P.C",
@@ -34,7 +34,11 @@
     "PLD 2004 SC 298",
     "PLD 1971 SC 677"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Waseem",
+    "The State",
+    "Muhammad Ishaaq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

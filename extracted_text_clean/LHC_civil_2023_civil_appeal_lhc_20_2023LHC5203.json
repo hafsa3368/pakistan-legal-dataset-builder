@@ -6,14 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "FAO No. 54 of 2023",
   "date_of_order": "09.10.2023",
   "judge": "JAWAD HASSAN",
   "sections_cited": [],
   "citations": [
     "2007 CLC 348"
   ],
-  "parties": [],
+  "parties": [
+    "Shariq Builders and Property /Advisors",
+    "Dr. Muhammad Faisal Murad",
+    "M/s Muhammad Junaid Akhtar Khokhar and Chaudhary Muhammad Aamir Naeem",
+    "Agha Muhammad Ali Khan",
+    "M/s Mudassar Bashir Awan and Raja Zahid Ahmad Raja"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

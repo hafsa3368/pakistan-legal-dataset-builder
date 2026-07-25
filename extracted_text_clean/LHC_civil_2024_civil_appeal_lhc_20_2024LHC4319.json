@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "R.F.A. No.8394/2023",
   "date_of_order": "30.09.2024",
   "judge": "Qazi Faez Isa",
   "sections_cited": [
@@ -23,7 +23,10 @@
     "PLD 2022 SC 119",
     "PLD 2019 Lahore 68"
   ],
-  "parties": [],
+  "parties": [
+    "SAASA Corporation (Pvt) Limited",
+    "M/s SEFAM Pvt Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

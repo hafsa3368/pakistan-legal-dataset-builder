@@ -6,12 +6,18 @@
   "year": "2019",
   "used_ocr": true,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
+  "date_of_order": "07.01.2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan through Secretary Finance",
+    "Mr Zahid Sikandar Sheikh as Assistant Attorney General",
+    "Mis Luhore Electric Supply Company Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

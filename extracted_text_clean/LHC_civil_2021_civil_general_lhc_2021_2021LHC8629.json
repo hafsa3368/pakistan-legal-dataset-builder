@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "08.12.2021",
-  "judge": "",
+  "judge": "MUHAMMAD RAZA QURESHI",
   "sections_cited": [
     "section 16 of the Act",
     "section 7 of the Act"
@@ -19,7 +19,10 @@
     "PLD 1996 Karachi 68",
     "PLD 2008 SC 135"
   ],
-  "parties": [],
+  "parties": [
+    "Rana Ghafoor Ali",
+    "Province of Punjab etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

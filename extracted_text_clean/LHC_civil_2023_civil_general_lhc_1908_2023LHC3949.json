@@ -29,7 +29,13 @@
     "PLD 2000 Karachi 348",
     "PLD 1963 Dacca 318"
   ],
-  "parties": [],
+  "parties": [
+    "Nasira Bibi",
+    "Special Judge Rent, Lahore",
+    "Muhammad Ilyas Sulehri",
+    "Chaudhary Shah Din",
+    "Saeed Ahmad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

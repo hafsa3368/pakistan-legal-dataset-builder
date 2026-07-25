@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "FAO No.83/2016",
   "date_of_order": "04.11.2024",
   "judge": "ANWAAR HUSSAIN",
   "sections_cited": [
@@ -19,7 +19,14 @@
     "2001 SCMR 1091",
     "PLD 2007 SC 45"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ali",
+    "Iftikhar Hussain",
+    "Malik Tahir Mahmood",
+    "Mr. Tahir Malik",
+    "Anwaar Hussain J.",
+    "Ch. Muhammad Ishaq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

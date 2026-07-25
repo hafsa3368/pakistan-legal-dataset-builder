@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2022",
   "date_of_order": "09.01.2023",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -27,7 +27,11 @@
     "2000 SCMR 250",
     "2021 SCMR 1979"
   ],
-  "parties": [],
+  "parties": [
+    "COL. (R) MUHAMMAD SHABIR AWAN",
+    "RAJA SAGHIR AHMED",
+    "other four persons"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

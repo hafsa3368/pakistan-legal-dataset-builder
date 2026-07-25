@@ -9,7 +9,10 @@
   "case_number": "Civil Revision No. 26-2021",
   "date_of_order": "11-12-2024",
   "judge": "Sultan Tanvir Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1994 SCMR 2293",
     "2003 SCMR 542",
@@ -27,7 +30,16 @@
     "PLD 1985 SC 345",
     "PLD 2013 Lahore 309"
   ],
-  "parties": [],
+  "parties": [
+    "Maqbool Ahmad",
+    "Addl. District Judge and others",
+    "Malik Javaid Akhtar Wains",
+    "Mr. M. Imran Shahzad Bhatti",
+    "Sultan Tanvir Ahmad",
+    "Mr. M. Tariq Mahmood Dogar",
+    "Arif Ali",
+    "Mst. Hanifan Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

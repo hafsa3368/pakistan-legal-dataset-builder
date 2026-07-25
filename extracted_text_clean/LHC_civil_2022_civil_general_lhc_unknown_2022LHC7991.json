@@ -7,13 +7,23 @@
   "used_ocr": true,
   "num_chunks": 9,
   "case_number": "W.Ps.No 2432",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "05.01.2022",
+  "judge": "SHAHID MLHMOOD",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1999 SCMR ١٧٦١"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Zulfiqar Abbas Naqvi, Advocate",
+    "Ms Malik Abdul Aziz Awall, Additional Advocate General, Punjab",
+    "Ms AAnnia Ali, Assistant Advocate General, Punjab",
+    "Malik Muhammad Siddique",
+    "Atina Warsi",
+    "Ayesha Warsi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

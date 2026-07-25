@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Crl. Appeal No.1026/2016",
   "date_of_order": "01.06.2022",
-  "judge": "Approved for Reporting JUDGE JUDGE Riaz",
+  "judge": "ASJAD JAVAID GHURAL",
   "sections_cited": [
     "section 417 Cr.P.C",
     "section 9",
@@ -29,7 +29,10 @@
     "2011 YLR 628",
     "PLD 2007 SC 9"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Shahid alias Shada"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

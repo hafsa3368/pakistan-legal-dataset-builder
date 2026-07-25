@@ -6,12 +6,25 @@
   "year": "2019",
   "used_ocr": true,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "13.02.2019",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section of Family Courts Act 1964"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sajjad Hussain",
+    "Zarish Fatima",
+    "Assistant Attorney General",
+    "Muhammad Javaid Iqbal Sabri",
+    "AAG",
+    "Ms. Nasrullah Khan Babar",
+    "Ch Muhammad Naseer",
+    "Ms Uuna Razzaq han"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

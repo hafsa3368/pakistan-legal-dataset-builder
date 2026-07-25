@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "W.P. No. 37805 of 2020",
   "date_of_order": "31.8.2020",
-  "judge": "",
+  "judge": "JAWAD HASSAN",
   "sections_cited": [
     "Section 22 of the Act",
     "Section 12",
@@ -17,7 +17,12 @@
   "citations": [
     "2015 SCMR 1739"
   ],
-  "parties": [],
+  "parties": [
+    "Hafiz Muhammad Tahir Ashraf",
+    "PROVINCE OF PUNJAB, through Secretary EPO Punjab",
+    "Muhammad Ameen",
+    "Lahore Development Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

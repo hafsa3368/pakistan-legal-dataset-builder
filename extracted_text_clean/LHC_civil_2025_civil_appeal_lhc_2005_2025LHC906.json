@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Civil Revision No.69585/2023",
   "date_of_order": "20.02.2025",
-  "judge": "Approved for reporting Judge Maqsood",
+  "judge": "Anwaar Hussain",
   "sections_cited": [
     "Section 34 of the Code",
     "Section 34",
@@ -19,7 +19,10 @@
     "PLD 2003 SC 290",
     "PLD 1987 SC 393"
   ],
-  "parties": [],
+  "parties": [
+    "Shaheen Baig",
+    "Zaheer Ahmed Loan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

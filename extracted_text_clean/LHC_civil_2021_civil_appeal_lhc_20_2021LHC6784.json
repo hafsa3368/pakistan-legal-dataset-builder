@@ -17,7 +17,10 @@
     "PLD 1981 Lahore 336",
     "PLD 1983 SC 344"
   ],
-  "parties": [],
+  "parties": [
+    "Sardaran Bibi",
+    "Rehma"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

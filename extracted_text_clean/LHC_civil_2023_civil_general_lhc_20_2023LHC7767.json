@@ -33,7 +33,13 @@
     "PLD 2000 Quetta 12",
     "PLD 1977 Lahore 535"
   ],
-  "parties": [],
+  "parties": [
+    "Umar Hasnain",
+    "The State",
+    "Muhammad Safdar",
+    "Malik Sajid Raza Thaheem",
+    "Tariq Saleem Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

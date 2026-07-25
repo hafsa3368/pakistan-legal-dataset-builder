@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 6,
   "case_number": "W.P.No.46766/2021",
-  "date_of_order": "",
+  "date_of_order": "23.9.2021",
   "judge": "Rizwan",
   "sections_cited": [
     "section 17-A of the Family Court Act",
@@ -21,7 +21,12 @@
     "2006 SCMR 100",
     "PLD 2011 Lahore 382"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Faizan Raza",
+    "The Judge, Family Court etc",
+    "Mr. Mahmood Tahir Ch.",
+    "Barrister Zargham Lukhesar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

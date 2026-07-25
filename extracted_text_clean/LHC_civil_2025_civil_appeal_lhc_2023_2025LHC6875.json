@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "",
+  "case_number": "RFA No. 78871 of 2024",
   "date_of_order": "17.11.2025",
   "judge": "Khalid Ishaq",
   "sections_cited": [
@@ -32,7 +32,10 @@
     "PLD 2021 SC 715",
     "PLD 2020 SC 749"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Anwaar Anjum",
+    "Muhammad Shakeel Sattar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

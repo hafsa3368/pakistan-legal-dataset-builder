@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "criminal case. I have no hesitation",
   "date_of_order": "07.09.2022",
   "judge": "ALI ZIA BAJWA",
   "sections_cited": [
@@ -25,7 +25,13 @@
     "1991 P.Cr.LJ 1125",
     "2020 SCMR 2037"
   ],
-  "parties": [],
+  "parties": [
+    "Arsalan Raza",
+    "Justice of Peace, etc",
+    "Mr. Abdul Razaq Mirza",
+    "State by: Mr. Muhammad Nawaz Ch.",
+    "AAG with Khawar S.I/SHO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

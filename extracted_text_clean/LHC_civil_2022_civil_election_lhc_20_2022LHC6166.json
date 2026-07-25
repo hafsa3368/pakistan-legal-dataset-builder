@@ -35,7 +35,11 @@
     "PLD 2006 Lahore 13",
     "PLD 2021 Lahore 436"
   ],
-  "parties": [],
+  "parties": [
+    "Ch. Muhammad Ashraf",
+    "Malik Muhammad Muzaffar Khan",
+    "Sohail Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

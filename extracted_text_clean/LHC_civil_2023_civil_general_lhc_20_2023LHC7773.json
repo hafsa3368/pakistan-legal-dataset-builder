@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2023",
   "date_of_order": "20.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "RAZA CNG STATION",
+  "sections_cited": [
+    "Section 115 CrPC",
+    "Section 151 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Masud Abid Naqvi",
+    "Raza CNG Station through Legal Heirs",
+    "SNGPL through Regional Manager Rawalpindi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

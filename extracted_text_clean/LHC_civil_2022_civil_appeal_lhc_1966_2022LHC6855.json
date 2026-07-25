@@ -27,7 +27,13 @@
     "PLD 2005 Lahore 119",
     "PLD 1997 Lahore 716"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal",
+    "Islamic Republic of Pakistan",
+    "Faiz Muhammad son of Noor Ahmad",
+    "Punjomal son of Raja Kaival son of Jaisa",
+    "Ahmad son of Laal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -27,7 +27,10 @@
     "PLD 2013 SC 255",
     "PLD 2019 Lahore 486"
   ],
-  "parties": [],
+  "parties": [
+    "Naseem Bibi",
+    "Imran Qayyum"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -36,7 +36,11 @@
     "2018 YLR Note 99",
     "PLD 1976 Lahore 1354"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Muhammad Ejaz Channar",
+    "The State",
+    "Muhammad Amjad Rafiq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

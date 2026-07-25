@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2023",
   "date_of_order": "28.10.2024",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -19,7 +19,10 @@
     "2021 CLC 178",
     "2024 CLC 1246"
   ],
-  "parties": [],
+  "parties": [
+    "National Highway Authority",
+    "Mubashar Hussain Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

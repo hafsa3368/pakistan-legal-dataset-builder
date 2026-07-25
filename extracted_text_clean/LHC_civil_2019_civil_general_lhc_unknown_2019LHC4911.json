@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": true,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-8742-3 0/2019",
   "date_of_order": "08.05.2018",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,12 @@
     "Section 49T of the Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Tariq Javed",
+    "Disuriet Public Prosecutor with Ijaz",
+    "Rana Ahsan Rasheed",
+    "Asghar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

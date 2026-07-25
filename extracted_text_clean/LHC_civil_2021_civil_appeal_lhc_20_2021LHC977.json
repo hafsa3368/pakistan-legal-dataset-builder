@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "08.03.2021",
   "judge": "JAWAD HASSAN",
   "sections_cited": [
@@ -21,7 +21,10 @@
     "2015 SCMR 148",
     "2015 SCMR 319"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammad Wajid Murshid and another",
+    "Silk Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

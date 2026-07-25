@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Writ Petition No.13218/2018",
   "date_of_order": "21.03.2023",
   "judge": "Asjad Javaid Ghural",
   "sections_cited": [
@@ -26,7 +26,15 @@
     "2006 SCMR 483",
     "2021 SCMR 56"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Ishaque",
+    "M/S Ch. Shahid Aleem",
+    "Tanveer Haider Buzdar",
+    "M/S Sardar Anayat Ullah Khan",
+    "Muhammad Akmal Khan Sial",
+    "Mehr Muhammad Ashraf Sial"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

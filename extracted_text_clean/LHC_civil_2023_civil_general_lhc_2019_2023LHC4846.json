@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "W.P. No.25771 of 2022",
   "date_of_order": "04.09.2023",
-  "judge": "Approved for reporting Judge Maqsood",
+  "judge": "ANWAAR HUSSAIN",
   "sections_cited": [
     "Section 12 of the Code",
     "Section 17 of the Act",
@@ -20,7 +20,11 @@
     "2011 SCMR 1361",
     "PLD 1987 SC 512"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Waqas",
+    "Executing Court, etc.",
+    "Anwaar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

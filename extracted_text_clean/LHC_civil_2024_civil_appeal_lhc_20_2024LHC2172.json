@@ -8,7 +8,7 @@
   "num_chunks": 23,
   "case_number": "Civil Procedure are not",
   "date_of_order": "22.04.2024",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 39 of The Arbitration Act",
     "Section 18",
@@ -34,7 +34,10 @@
     "PLD 1987 SC 393",
     "PLD 1992 FSC 153"
   ],
-  "parties": [],
+  "parties": [
+    "Saif Power Limited",
+    "Sui Northern Gas Pipelines Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -28,7 +28,10 @@
     "PLD 1992 Lahore 140",
     "PLD 2021 Lahore 499"
   ],
-  "parties": [],
+  "parties": [
+    "Ameer Hussain",
+    "Government of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

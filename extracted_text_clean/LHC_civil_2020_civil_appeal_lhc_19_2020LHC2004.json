@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "W.P.No.21968/2010",
   "date_of_order": "22.09.2020",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 10",
     "section 10 of the Act"
@@ -30,7 +30,11 @@
     "PLD 2005 Lahore 728",
     "PLD 1997 SC 342"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Intesar Hussain",
+    "Province of Punjab through District Collector/DOR, Pakpattan Sharif etc.",
+    "Mr. Waseem Iqbal Butt"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

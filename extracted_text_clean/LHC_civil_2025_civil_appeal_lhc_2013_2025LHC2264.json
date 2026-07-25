@@ -9,7 +9,10 @@
   "case_number": "Civil Revision No.227-D/2013",
   "date_of_order": "19.03.2025",
   "judge": "ASIM HAFEEZ",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2020 SCMR 352",
     "1979 CLC 48",
@@ -20,7 +23,10 @@
     "2020 CLC 817",
     "2022 SCMR 2130"
   ],
-  "parties": [],
+  "parties": [
+    "Noor Muhammad",
+    "Mst. Sardar Begum"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

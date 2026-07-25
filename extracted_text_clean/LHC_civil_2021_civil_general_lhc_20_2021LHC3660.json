@@ -25,7 +25,11 @@
     "PLD 2017 Lahore 848",
     "PLD 2016 SC 778"
   ],
-  "parties": [],
+  "parties": [
+    "Ittefaq Sugar Mills (Pvt.) Ltd.",
+    "Govt. of the Punjab",
+    "Mirza Nasar Ahmad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

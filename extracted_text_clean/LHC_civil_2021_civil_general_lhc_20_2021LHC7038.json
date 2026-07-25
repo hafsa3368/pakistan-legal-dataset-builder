@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.M. No.753 of 2021 and Main Case JAWAD HASSAN, J.",
   "date_of_order": "06.03.2021",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 3"
   ],
@@ -17,7 +17,10 @@
     "PLD 2012 SC 224",
     "PLD 2021 Lahore 1"
   ],
-  "parties": [],
+  "parties": [
+    "Iqra Educational Society",
+    "BOARD OF INTERMEDIATE AND SECONDARY EDUCATION"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

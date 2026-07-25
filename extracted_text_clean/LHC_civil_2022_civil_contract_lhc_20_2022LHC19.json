@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "12.01.2022",
   "judge": "JAWAD HASSAN",
   "sections_cited": [
@@ -25,7 +25,11 @@
     "PLD 2015 Lahore 235",
     "PLD 1972 SC 279"
   ],
-  "parties": [],
+  "parties": [
+    "Bahria Town Private Limited",
+    "District Consumer Court and others",
+    "Raja Muhammad Tariq Khan, Advocate for the Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

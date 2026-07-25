@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2024",
   "date_of_order": "19.10.2010",
   "judge": "RASAAL HASAN SYED",
   "sections_cited": [],
@@ -16,7 +16,10 @@
     "2015 SCMR 284",
     "PLD 2011 SC 241"
   ],
-  "parties": [],
+  "parties": [
+    "Farzana Begum",
+    "Muhammad Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

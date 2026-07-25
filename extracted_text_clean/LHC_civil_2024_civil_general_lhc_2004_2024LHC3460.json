@@ -8,7 +8,7 @@
   "num_chunks": 20,
   "case_number": "criminal activities with the active knowledge",
   "date_of_order": "19.07.2024",
-  "judge": "Approved for Reporting JUDGE Athar",
+  "judge": "ALI ZIA BAJWA",
   "sections_cited": [
     "Section 491 of the Criminal Procedure Code",
     "Section 1",
@@ -24,7 +24,11 @@
   "citations": [
     "PLD 2012 SC 903"
   ],
-  "parties": [],
+  "parties": [
+    "Rehana Nazir",
+    "District Police Officer",
+    "Hassan Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

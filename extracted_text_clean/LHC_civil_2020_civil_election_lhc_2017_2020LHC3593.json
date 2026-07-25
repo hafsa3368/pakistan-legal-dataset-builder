@@ -35,7 +35,12 @@
     "PLD 2019 Lahore 119",
     "PLD 2015 SC 396"
   ],
-  "parties": [],
+  "parties": [
+    "Tahir Hussain Khan",
+    "Pirzada Muhammad Jahangir Bhutta",
+    "Election Commission of Pakistan",
+    "Attorney General for Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

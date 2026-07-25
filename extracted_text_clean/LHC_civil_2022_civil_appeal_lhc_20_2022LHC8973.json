@@ -6,15 +6,20 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Writ Petition 2752 of 2017",
   "date_of_order": "18.04.2017",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Industrial Relations Act (X of 2012)--- S.33"
+  ],
   "citations": [
     "2004 SCMR 98",
     "2004 SCMR 149"
   ],
-  "parties": [],
+  "parties": [
+    "Nosherwan Khan",
+    "United Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

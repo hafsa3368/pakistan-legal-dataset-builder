@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "27.06.2022",
   "judge": "AHMAD NADEEM ARSHAD",
   "sections_cited": [
@@ -19,7 +19,12 @@
     "2001 SCMR 772",
     "PLD 1961 Dacca 65"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Amjad Hussain Jaffri",
+    "Addl. District Judge",
+    "Malik Masroor Haider Usman",
+    "AHMAD NADEEM ARSHAD"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

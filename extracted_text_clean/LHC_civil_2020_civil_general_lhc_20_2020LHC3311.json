@@ -9,7 +9,10 @@
   "case_number": "W.P. No.68942 of 2019",
   "date_of_order": "08.12.2020",
   "judge": "JAWAD HASSAN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR 2066",
     "2020 CLC 157",
@@ -17,7 +20,18 @@
     "2020 CLC 836",
     "2020 SCMR 622"
   ],
-  "parties": [],
+  "parties": [
+    "Mian Ali Asghar",
+    "Government of the Punjab etc.",
+    "Mr. Javed Anwar Janjua",
+    "Barrister Umair Khan Niazi",
+    "Hassan Khalid Ranjha",
+    "Ahmad Bilal",
+    "Hussain Bahadur",
+    "Ashfaq Ahmad Khan",
+    "M/s. Usama Khawar Ghumman",
+    "Rehman Aziz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

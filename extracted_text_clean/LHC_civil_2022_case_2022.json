@@ -7,11 +7,17 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "Crl R A No D-90/2O11",
-  "date_of_order": "",
+  "date_of_order": "07.12.2017",
   "judge": "JUDGE",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 302(0//34 PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Rafiue Anmed Abro advocate",
+    "Mr Saruar Ali Shan, DPG",
+    "The complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

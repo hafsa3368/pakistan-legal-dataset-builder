@@ -9,13 +9,23 @@
   "case_number": "W.P.No. 2139 of 2021",
   "date_of_order": "12.03.2021",
   "judge": "Muzamil Akhtar Shabir",
-  "sections_cited": [],
+  "sections_cited": [
+    "2008 SCMR 1259",
+    "2015 CLC 54 [Sindh]",
+    "2006 MLD 1631 [Lah]",
+    "PLJ 2005 Lahore 554 (DB)",
+    "2005 CLD 688 (Kar)",
+    "Mst. IMTIAZ BEGUM versus Mst. SULTAN JAN and others"
+  ],
   "citations": [
     "2008 SCMR 1259",
     "2015 CLC 54",
     "2006 MLD 1631"
   ],
-  "parties": [],
+  "parties": [
+    "Munira Bibi",
+    "Additional District Judge, Bahawalpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Criminal Appeal No. 59 of 2018",
   "date_of_order": "14.02.2022",
-  "judge": "JUDGE Rashid Approved for Reporting JUDGE JUDGE",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 9",
     "Section 382-B of Code",
@@ -38,7 +38,10 @@
     "2014 SCMR 749",
     "PLD 2009 SC 39"
   ],
-  "parties": [],
+  "parties": [
+    "Umar Din son of Sohrab",
+    "The State and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

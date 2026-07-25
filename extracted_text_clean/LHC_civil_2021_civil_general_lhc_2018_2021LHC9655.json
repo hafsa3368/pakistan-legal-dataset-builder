@@ -17,7 +17,10 @@
     "PLD 2011 Lahore 14",
     "PLD 1979 Lahore 145"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Nazeer",
+    "Ghulam Mustafa"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

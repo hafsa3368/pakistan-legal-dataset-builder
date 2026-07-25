@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "03.11.2021",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 12 of the Punjab Civil Servants Act",
     "Section 12 of the Act",
@@ -20,7 +20,11 @@
     "2021 MLD 232",
     "PLD 1969 SC 187"
   ],
-  "parties": [],
+  "parties": [
+    "MRS. NAVEEDA NISA",
+    "PROVINCE OF THE PUNJAB",
+    "other(s)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

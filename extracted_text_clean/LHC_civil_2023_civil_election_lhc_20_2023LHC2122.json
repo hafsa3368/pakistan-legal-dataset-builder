@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Election Appeal No.24513/2023",
   "date_of_order": "22.03.2023",
-  "judge": "Approved For Reporting JUDGE Arsalan",
+  "judge": "Approved For Reporting",
   "sections_cited": [
     "Section 63 of the Elections Act",
     "Section 62",
@@ -21,7 +21,14 @@
     "2006 YLR 1963",
     "PLD 1999 Quetta 78"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal",
+    "Returning Officer, PP-85 Essa Khail",
+    "Mr. Faraz Ahmed Khan",
+    "Mr. Muhammad Karim",
+    "Mr. Imran Arif Ranjha",
+    "Hafiz Adeel Ashraf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

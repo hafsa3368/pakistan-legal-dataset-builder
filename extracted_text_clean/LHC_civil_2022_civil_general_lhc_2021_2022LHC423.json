@@ -25,7 +25,11 @@
     "2012 SCMR 745",
     "PLD 2012 SC 217"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Faheem Zafar",
+    "Government of the Punjab",
+    "Muhammad Kamran Ashraf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

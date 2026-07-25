@@ -8,7 +8,7 @@
   "num_chunks": 26,
   "case_number": "criminal case have had no bearing",
   "date_of_order": "12.07.2024",
-  "judge": "",
+  "judge": "ASIM HAFEEZ",
   "sections_cited": [
     "section 11 of the Punjab Undesirable Cooperative Societies Act",
     "section 39 of the Specific Relief Act",
@@ -35,7 +35,12 @@
     "1991 SCMR 2118",
     "1988 SCMR 1016"
   ],
-  "parties": [],
+  "parties": [
+    "Niagara Mills (Pvt) Limited and others",
+    "Punjab Cooperative Board for Liquidation (PCBL) and others",
+    "M/s BNP Pvt Limited and others",
+    "Kohistan Corporation Pvt Limited and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

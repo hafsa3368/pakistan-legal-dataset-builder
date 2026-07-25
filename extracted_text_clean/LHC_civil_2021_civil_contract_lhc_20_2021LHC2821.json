@@ -26,7 +26,11 @@
     "PLD 1963 SC 163",
     "PLD 2012 SC 268"
   ],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "M/S Kohinoor Spinning Mills",
+    "Standard Chartered Bank"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

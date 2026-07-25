@@ -28,7 +28,11 @@
     "PLD 1996 Lahore 702",
     "PLD 2022 Lahore 596"
   ],
-  "parties": [],
+  "parties": [
+    "Zulfiqar Ali",
+    "Mirza Altaf Hussain",
+    "the Bank of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

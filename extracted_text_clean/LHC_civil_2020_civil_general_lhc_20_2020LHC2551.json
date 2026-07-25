@@ -8,7 +8,7 @@
   "num_chunks": 32,
   "case_number": "W.P.No.115-R/2010",
   "date_of_order": "21.09.2020",
-  "judge": "",
+  "judge": "CH. MUHAMMAD IQBAL",
   "sections_cited": [
     "Section 2 of the Act",
     "section 10",
@@ -37,7 +37,12 @@
     "2007 SCMR 910",
     "2009 SCMR 1091"
   ],
-  "parties": [],
+  "parties": [
+    "Mohyuddin Mohammad Khan",
+    "Ghulam Rasool",
+    "Bor Punjab",
+    "Settlement Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -23,7 +23,12 @@
     "PLD 1975 SC 506",
     "PLD 1976 SC 57"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Amir Hayat",
+    "Abdul Sattar",
+    "Faisalabad",
+    "Sheikhpura"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

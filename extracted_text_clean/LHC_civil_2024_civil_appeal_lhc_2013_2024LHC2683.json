@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "constitutional petition bearing W.P.No.1297/2021",
   "date_of_order": "16.05.2024",
-  "judge": "JUDGE JUDGE",
+  "judge": "ASIM HAFEEZ",
   "sections_cited": [
     "Section 5 of the Limitation Act"
   ],
@@ -18,7 +18,10 @@
     "2021 SCMR 2100",
     "2000 SCMR 847"
   ],
-  "parties": [],
+  "parties": [
+    "Government of the Punjab",
+    "Muhammad Ahmad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

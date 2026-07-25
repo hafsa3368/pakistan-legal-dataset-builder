@@ -33,7 +33,12 @@
     "PLD 2013 Lahore 30",
     "PLD 2012 Lahore 12"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shakeel",
+    "03 others",
+    "Muhammad Tariq",
+    "04 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

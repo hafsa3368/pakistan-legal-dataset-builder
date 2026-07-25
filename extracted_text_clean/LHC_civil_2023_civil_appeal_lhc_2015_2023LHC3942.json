@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Crl. Appeal No.182346/2018",
   "date_of_order": "20.06.2023",
-  "judge": "JUDGE Approved for Reporting JUDGE JUDGE Riaz",
+  "judge": "Sardar Muhammad Sarfraz Dogar",
   "sections_cited": [
     "Section 48",
     "Section 374 Cr.P.C",
@@ -28,7 +28,11 @@
     "2021 SCMR 2005",
     "2009 SCMR 579"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Shakil-ur-Rehman vs. The State & another",
+    "The State vs. Shakil-ur-Rehman & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

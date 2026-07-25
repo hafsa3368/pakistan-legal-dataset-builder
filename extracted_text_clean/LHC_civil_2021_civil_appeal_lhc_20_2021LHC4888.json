@@ -25,7 +25,12 @@
     "PLD 1997 Karachi 292",
     "PLD 2016 Lahore 123"
   ],
-  "parties": [],
+  "parties": [
+    "Aqeela Abid",
+    "Ch. Bashir Ahmad",
+    "Mr. Riaz Hussain Chaudhry",
+    "ABID AZIZ SHEIKH"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

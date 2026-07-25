@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "",
+  "case_number": "High Court Appeal No.158 of 2019",
   "date_of_order": "29.04.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 62 Contract Act",
     "Section 3 of the Limitation Act"
@@ -20,7 +20,10 @@
     "2025 SCMR 395",
     "PLD 2012 SC 247"
   ],
-  "parties": [],
+  "parties": [
+    "Mrs. Naveen Irfan Puri",
+    "Mst. Shama Parveen and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

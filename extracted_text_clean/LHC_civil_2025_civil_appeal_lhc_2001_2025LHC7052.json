@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "02.12.2025",
   "judge": "AHMAD NADEEM ARSHAD",
   "sections_cited": [
@@ -16,7 +16,17 @@
     "Section 29"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Naghma Parveen",
+    "Public at Large",
+    "Mr. Khalid Ashraf Khan",
+    "M/s Rana M. Javed Iqbal",
+    "Imran Baig",
+    "Rao Ayub Gohar",
+    "Muhammad Sajid Iqbal Chaudhry",
+    "Usama Bahadur",
+    "Mr. Kashif Nadeem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

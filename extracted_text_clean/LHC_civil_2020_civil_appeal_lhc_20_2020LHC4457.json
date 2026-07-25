@@ -6,15 +6,18 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "R.F.A. No. 26 of 2012",
   "date_of_order": "4.11.2020",
-  "judge": "",
+  "judge": "ABID AZIZ SHEIKH AND SHAHID JAMIL KHAN",
   "sections_cited": [
     "Section 2",
     "Section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "HABIB BANK LTD.",
+    "ZAWAR HUSSAIN SHAH"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

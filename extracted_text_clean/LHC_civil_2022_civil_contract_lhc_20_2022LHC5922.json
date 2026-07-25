@@ -9,13 +9,25 @@
   "case_number": "constitutes an acknowledgment",
   "date_of_order": "13.05.2022",
   "judge": "Tariq Saleem Sheikh",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2001 SCMR 909",
     "2001 SCMR 1733",
     "PLD 2011 SC 132"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Hafiz Tariq Naseem, Muhammad Iqbal Mohal",
+    "Mr. Mukhtar Ahmad Ranjha",
+    "Assistant Advocate General",
+    "Khalid Mahmood Ahmad",
+    "AD (Law)",
+    "Tariq Saleem Sheikh",
+    "District Education Officer (M-EE)",
+    "Narowal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

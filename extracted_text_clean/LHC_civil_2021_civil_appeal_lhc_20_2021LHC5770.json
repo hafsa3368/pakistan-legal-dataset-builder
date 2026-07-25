@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-384 of 2019",
   "date_of_order": "14.10.2021",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 202",
     "Section 206 of the Contract Act",
@@ -26,7 +26,10 @@
     "PLD 2004 SC 682",
     "PLD 2021 SC 715"
   ],
-  "parties": [],
+  "parties": [
+    "Fayyaz-ul-Haq",
+    "Ghulam Nabi (deceased) through his legal heirs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

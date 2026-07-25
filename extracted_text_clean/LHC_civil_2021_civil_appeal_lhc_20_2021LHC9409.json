@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.R.No.24022 of 2020",
   "date_of_order": "20.12.2021",
   "judge": "Muzamil Akhtar Shabir",
   "sections_cited": [
@@ -17,7 +17,12 @@
   "citations": [
     "PLD 2018 Lahore 697"
   ],
-  "parties": [],
+  "parties": [
+    "Stereo. H C J D A 38 Lahore Judicial Department",
+    "M/s. Muhammad Arif and Company.",
+    "Barrister Hassan Khalid Ranjha, A.A.G/Government Pleader",
+    "Ch. Muhammad Akbar Gill, Riaz Kareem Qureshi and Ch. Riaz Hussain, Advocates"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

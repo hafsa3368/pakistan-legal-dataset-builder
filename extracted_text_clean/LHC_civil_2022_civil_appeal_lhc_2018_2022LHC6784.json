@@ -9,11 +9,16 @@
   "case_number": "Civil Revision No.1362 of 2018",
   "date_of_order": "22.09.2022",
   "judge": "AHMAD NADEEM ARSHAD",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 115 of Code"
+  ],
   "citations": [
     "2014 SCMR 1205"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Tufail, etc.",
+    "Begum Munawar Siddique, etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

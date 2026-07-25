@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Writ Petition No.55471 of 2024",
   "date_of_order": "22.11.2024",
   "judge": "Syed Shahbaz Ali Rizvi",
   "sections_cited": [
@@ -17,7 +17,10 @@
     "2022 P.Cr.L.J 1293",
     "PLD 1998 Lahore 223"
   ],
-  "parties": [],
+  "parties": [
+    "Sagheer Ahmad",
+    "Sessions Judge, Kasur & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

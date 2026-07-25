@@ -9,7 +9,10 @@
   "case_number": "Crl. Appeal No.18570/2019",
   "date_of_order": "27.01.2022",
   "judge": "Ali Baqar Najafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 SCMR 1361",
     "2010 SCMR 1351",
@@ -17,7 +20,10 @@
     "2013 SCMR 1113",
     "PLD 2009 SC 39"
   ],
-  "parties": [],
+  "parties": [
+    "Atif Abbas",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

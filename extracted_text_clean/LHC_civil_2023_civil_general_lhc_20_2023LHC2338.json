@@ -9,7 +9,10 @@
   "case_number": "W.P.No.1132 of 2023",
   "date_of_order": "19.04.2023",
   "judge": "Zeeshan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2005 SCMR 961",
     "2012 SCMR 6",
@@ -21,7 +24,11 @@
     "PLD 2016 Peshawar 266",
     "PLD 2011 Lahore 555"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Usman Farooq",
+    "Rawalpindi Medical University",
+    "ONE OTHER"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

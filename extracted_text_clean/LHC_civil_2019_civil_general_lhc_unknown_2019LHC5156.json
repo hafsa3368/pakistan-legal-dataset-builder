@@ -6,12 +6,17 @@
   "year": "2019",
   "used_ocr": true,
   "num_chunks": 3,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
+  "date_of_order": "25.03.2019",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst Ayesha Aliaf Fahad Ali",
+    "Ch Abdul Waheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

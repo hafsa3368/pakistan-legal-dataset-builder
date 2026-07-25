@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Writ Petition No.29571/2013",
   "date_of_order": "16.06.2022",
   "judge": "Asjad Javaid Ghural",
   "sections_cited": [
@@ -20,7 +20,11 @@
     "PLD 1977 SC 451",
     "PLD 1981 SC 617"
   ],
-  "parties": [],
+  "parties": [
+    "The State through Prosecutor General, Punjab",
+    "Judge, Anti-Terrorism Court No.1, Lahore",
+    "Kh. Saad Rafique"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

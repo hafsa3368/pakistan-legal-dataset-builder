@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "constituted under notification",
   "date_of_order": "22.03.2023",
-  "judge": "JUDGE Raheel APPROVED FOR REPORTING JUDGE",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 2",
     "Section 2",
@@ -19,7 +19,12 @@
     "2022 SCMR 1481",
     "1999 SCMR 1719"
   ],
-  "parties": [],
+  "parties": [
+    "Abid Hussain",
+    "Province of Punjab",
+    "District Collector Bahawalpur",
+    "Hamid Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

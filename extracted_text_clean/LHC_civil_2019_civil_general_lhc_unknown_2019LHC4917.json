@@ -7,11 +7,24 @@
   "used_ocr": true,
   "num_chunks": 5,
   "case_number": "Crl Mi3c. No.9835-2019/پ",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "06.06.2019",
+  "judge": "Forn Nu",
+  "sections_cited": [
+    "Section 409 CrPC",
+    "u/s 420 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr, Kuashif Ali Chaudhry",
+    "Mr. Tariq Javed",
+    "Alta Hussuut Shal",
+    "Saleem Abbis Shah",
+    "Baqar Usain Shah",
+    "Chulanl,1bba5",
+    "Ghulamn Abhils",
+    "Rustatn Zaman",
+    "Muhanad Afzal Gardawar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

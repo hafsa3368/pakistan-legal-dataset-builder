@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 22,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "11.10.2023",
   "judge": "Asim Hafeez",
   "sections_cited": [
@@ -37,7 +37,11 @@
     "2019 CLC 1613",
     "PLD 2018 Islamabad 1"
   ],
-  "parties": [],
+  "parties": [
+    "Employees Old Age Benefit Institution",
+    "M/s Mughals Pakistan (Pvt.) Ltd.",
+    "Pakistan Real Estate Investment and Management Company (Pvt). Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

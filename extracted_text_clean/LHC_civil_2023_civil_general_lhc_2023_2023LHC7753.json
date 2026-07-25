@@ -6,15 +6,25 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2023",
   "date_of_order": "20.12.2023",
   "judge": "RAHEEL KAMRAN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2023 CLC 948",
     "PLD 2020 Sindh 42"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Tariq Sahi",
+    "Govt. of Punjab and others",
+    "Mr. Imran Raza Chadhar",
+    "Mr. Muhammad Osman Khan",
+    "Mr. Rashid Bhatti",
+    "Farooq Sultan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

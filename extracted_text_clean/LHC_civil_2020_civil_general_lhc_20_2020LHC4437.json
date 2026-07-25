@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-44 of 2020",
   "date_of_order": "15.01.2020",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -18,7 +18,10 @@
     "2006 SCMR 21",
     "PLD 2018 Lahore 491"
   ],
-  "parties": [],
+  "parties": [
+    "Manzoor Ahmad",
+    "Faqir Muhammad et al."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

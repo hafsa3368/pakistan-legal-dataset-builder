@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "I.C.A.No.160 of 2021",
   "date_of_order": "06.04.2021",
   "judge": "Zeeshan Khan",
   "sections_cited": [
@@ -16,7 +16,11 @@
     "2004 SCMR 1654",
     "2016 SCMR 14"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Irshad",
+    "Government of Punjab, etc.",
+    "Mr. Mujahid Bashir Gurmani, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "FAONO.74 of 2015",
   "date_of_order": "24.03.2021",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -24,7 +24,13 @@
     "PLD 2015 Lahore 140",
     "PLD 2010 Lahore 95"
   ],
-  "parties": [],
+  "parties": [
+    "YASIR CHAUDHRY",
+    "FAISALABAD DEVELOPMENT AUTHORITY",
+    "STEREO",
+    "DEFENCE HOUSING AUTHORITY",
+    "MALIK KHALID MAHMOOD"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,24 @@
   "case_number": "Constitution is not",
   "date_of_order": "15.12.2023",
   "judge": "ANWAAR HUSSAIN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2016 SC 808"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Faisal Labar",
+    "Federation of Pakistan",
+    "Mr. Shazib Masud",
+    "Mr. Jawad Jamil Malik",
+    "Mr. Muhammad Asad Buttar",
+    "Mr. Muhammad Anwar Khan",
+    "Malik Muhammad Aslam",
+    "Mr. Muhammad Abid Hussain Saqi",
+    "Anwaar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "02.10.2019",
   "judge": "JAWAD HASSAN",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Qadir",
+    "Punjab Cooperative Board"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

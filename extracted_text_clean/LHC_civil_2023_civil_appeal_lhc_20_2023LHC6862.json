@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "17.10.2023",
-  "judge": "Approved for reporting JUDGE Zeeshan",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "section 24 of the Cantonments Rent Restriction Act",
     "section 17",
@@ -20,7 +20,10 @@
     "2012 SCMR 1498",
     "2011 SCMR 487"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Amin",
+    "Muhammad Asif Askari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

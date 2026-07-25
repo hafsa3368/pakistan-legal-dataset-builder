@@ -32,7 +32,12 @@
     "PLD 2010 SC 1066",
     "PLD 2011 SC 997"
   ],
-  "parties": [],
+  "parties": [
+    "Shaheen Merchant",
+    "Federation of Pakistan",
+    "National Tariff Commission",
+    "Waqar Saeed Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

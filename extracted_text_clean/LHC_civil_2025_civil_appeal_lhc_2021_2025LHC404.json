@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Appeal No. 728-J of 2021",
   "date_of_order": "19.02.2025",
-  "judge": "JUDGE",
+  "judge": "MUHAMMAD JAWAD ZAFAR",
   "sections_cited": [
     "section 9",
     "Section 374 of the Code",
@@ -37,7 +37,11 @@
     "2023 SCMR 1009",
     "2021 SCMR 873"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Nusrat",
+    "Naqeeb Ullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

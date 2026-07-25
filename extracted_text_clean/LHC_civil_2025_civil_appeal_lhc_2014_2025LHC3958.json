@@ -30,7 +30,10 @@
     "PLD 1963 SC 704",
     "PLD 2018 Lahore 399"
   ],
-  "parties": [],
+  "parties": [
+    "LESCO",
+    "M/s. Exporient Knitters (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

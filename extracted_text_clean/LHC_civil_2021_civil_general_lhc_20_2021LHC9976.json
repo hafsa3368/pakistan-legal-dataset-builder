@@ -9,7 +9,9 @@
   "case_number": "W.P. No. 3571 of 2021",
   "date_of_order": "8.3.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2018 YLR 1391",
     "2014 SCMR 220",
@@ -19,7 +21,12 @@
     "PLD 2014 Peshawar 199",
     "PLD 2013 Lahore 182"
   ],
-  "parties": [],
+  "parties": [
+    "FEDERATION OF PAKISTAN MINISTRY ENERGY AND POWER ISLAMABAD",
+    "JAWAD HASSAN",
+    "MUHAMMAD ISHTIAQ",
+    "SARDAR CITY PIRAN GHAIB ROAD, MULTAN"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

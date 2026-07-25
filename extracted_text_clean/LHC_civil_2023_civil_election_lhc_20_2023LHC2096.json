@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Constitution the candidate must not",
   "date_of_order": "11-04-2023",
-  "judge": "Approved For Reporting JUDGE Arsalan",
+  "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
     "Section 63 of the Elections Act",
     "Section 62 of the Act",
@@ -24,7 +24,13 @@
     "PLD 2013 Lahore 509",
     "PLD 2013 Lahore 548"
   ],
-  "parties": [],
+  "parties": [
+    "Faisal Aziz Malik",
+    "Returning Officer (PP- 82-Khushab-1)",
+    "Bank Al-Falah Limited (respondent-Bank)",
+    "SAMG-Bank Al-Falah Ltd.",
+    "Central SAMG-Bank Al-Falah Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

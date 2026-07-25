@@ -28,7 +28,10 @@
     "PLD 2010 Lahore 214",
     "PLD 2018 Islamabad 372"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Omer Chughtai",
+    "Province of the Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

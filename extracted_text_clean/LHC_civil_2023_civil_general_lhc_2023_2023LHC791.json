@@ -9,13 +9,24 @@
   "case_number": "Constitution in a manner which are not",
   "date_of_order": "07.03.2023",
   "judge": "Anwaar Hussain",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2020 Islamabad 302",
     "PLD 2020 Lahore 515",
     "PLD 2020 Lahore 528"
   ],
-  "parties": [],
+  "parties": [
+    "Khawar Mumtaz",
+    "Deputy Commissioner",
+    "Ch. Tanveer Akhtar",
+    "Rafia Haider",
+    "Sarfraz Virk",
+    "Malik Taimoor",
+    "Iqbal Najam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

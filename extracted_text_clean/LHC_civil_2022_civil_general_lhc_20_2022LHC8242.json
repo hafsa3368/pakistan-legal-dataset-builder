@@ -23,7 +23,12 @@
     "PLD 1980 Peshawar 227",
     "PLD 2015 Sindh 326"
   ],
-  "parties": [],
+  "parties": [
+    "Naeem Shehzad",
+    "Mst. Sarran Bibi",
+    "Malik Fazal Karim Awan",
+    "Ch. Muhammad Tanveer Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

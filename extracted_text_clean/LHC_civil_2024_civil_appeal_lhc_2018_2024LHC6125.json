@@ -38,7 +38,17 @@
     "2024 SCMR 156",
     "2024 SCMR 1146"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "name": "The State & another"
+    },
+    {
+      "name": "Muhammad Ammar Shafi & 02 others"
+    },
+    {
+      "name": "Wajid Hussain & 03 others"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

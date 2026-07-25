@@ -8,15 +8,21 @@
   "num_chunks": 8,
   "case_number": "W.P. No.247224/2018",
   "date_of_order": "22.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ch. Muhammad Iqbal",
+  "sections_cited": [
+    "u/s 18 MLR 115/1972",
+    "Paragraph 18 of MLR-115/1972"
+  ],
   "citations": [
     "2021 MLD 313",
     "2007 SCMR 907",
     "PLD 1992 SC 113",
     "PLD 2005 SC 337"
   ],
-  "parties": [],
+  "parties": [
+    "Faiz Ahmad",
+    "Chairman Federal Land Commission, Islamabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

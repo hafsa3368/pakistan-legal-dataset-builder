@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "W.P.No.4099 of 2023",
   "date_of_order": "14.12.2023",
-  "judge": "Approved for reporting JUDGE Zeeshan",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "Section 168 of the Act",
     "Section 17",
@@ -33,7 +33,10 @@
     "PLD 1971 Lahore 533",
     "PLD 1973 Lahore 600"
   ],
-  "parties": [],
+  "parties": [
+    "Waheed Mehmood",
+    "Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

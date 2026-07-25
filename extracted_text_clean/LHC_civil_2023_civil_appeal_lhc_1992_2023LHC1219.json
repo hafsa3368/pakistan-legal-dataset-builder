@@ -6,10 +6,13 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "R.S.A. No.25 of 2015",
   "date_of_order": "20.11.2014",
   "judge": "RASAAL HASAN SYED",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2005 SCMR 1368",
     "1994 SCMR 818",
@@ -18,7 +21,12 @@
     "2022 SCMR 64",
     "PLD 2022 SC 85"
   ],
-  "parties": [],
+  "parties": [
+    "Shehzad Nawaz and others",
+    "Mst. Raaj Begum and others",
+    "Ex parte. Rasaal Hasan Syed",
+    "Ch. Tanveer Ahmad Hanjra and Rana Muhammad Arif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-38",
   "date_of_order": "27.5.2025",
   "judge": "RASAAL HASAN SYED",
   "sections_cited": [
@@ -16,7 +16,13 @@
     "PLD 1986 SC 35",
     "PLD 1971 SC 762"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Karim Khan",
+    "Mst. Ghulam Fatima Bibi",
+    "L.Rs and others",
+    "Mr. Zia Ullah Khan Niazi",
+    "Rasaal Hasan Syed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

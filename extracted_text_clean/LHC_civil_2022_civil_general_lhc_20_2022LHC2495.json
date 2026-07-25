@@ -9,13 +9,21 @@
   "case_number": "W.P.No. 18696/2022",
   "date_of_order": "25.03.2022",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2010 SCMR 1475",
     "PLD 2008 SC 587",
     "PLD 2021 SC 391"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal",
+    "Registrar, Lahore High Court, Lahore",
+    "M/s. Safdar Shaheen Pirzada, Ch. Toseef Ahmad Bajwa, Nasir Mehmood Ch., Ali Shahzad and Muhammad Qasim, Advocates",
+    "Mr. Zubda-tul-Hassan, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

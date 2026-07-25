@@ -8,7 +8,7 @@
   "num_chunks": 21,
   "case_number": "W.P.No.76524 of 2022",
   "date_of_order": "30.09.2022",
-  "judge": "",
+  "judge": "Shahid Karim",
   "sections_cited": [
     "Section 4 of the Land Acquisition Act",
     "section 29 of the Forest Act",
@@ -22,7 +22,10 @@
     "section 92 of the Forest Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shah Jahan",
+    "Province of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -38,7 +38,11 @@
     "PLD 2017 SC 265",
     "PLD 2017 SC 692"
   ],
-  "parties": [],
+  "parties": [
+    "Ayesha Nazir",
+    "Election Commission of Pakistan",
+    "NADRA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

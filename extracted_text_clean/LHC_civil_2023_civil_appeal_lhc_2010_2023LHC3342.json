@@ -31,7 +31,12 @@
     "PLD 1987 SC 250",
     "PLD 1974 SC 87"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Tasleem",
+    "The State",
+    "Mr. Shahid Fareed",
+    "Mr. Muhammad Sharif Bhatti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

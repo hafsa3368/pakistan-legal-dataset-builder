@@ -9,13 +9,19 @@
   "case_number": "W.P.No.2556 of 2013",
   "date_of_order": "11.09.2024",
   "judge": "JAWAD HASSAN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 183",
     "2012 SCMR 280",
     "2005 SCMR 445"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Amanat Rasul",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
