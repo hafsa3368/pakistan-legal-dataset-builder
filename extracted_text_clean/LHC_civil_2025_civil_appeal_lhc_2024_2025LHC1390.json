@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.M. No.01 of 2024 and Main Case",
   "date_of_order": "20.05.2024",
   "judge": "Hassan Nawaz Makhdoom",
   "sections_cited": [
@@ -19,7 +19,9 @@
     "2007 SCMR 1574",
     "2003 SCMR 83"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. M. Nasim Kashmiri, Addl. Advocate General for the appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

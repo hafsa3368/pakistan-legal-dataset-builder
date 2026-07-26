@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "constitutional jurisdiction. Writ Petition No.4078 of 2021",
   "date_of_order": "21.01.2025",
   "judge": "JAWAD HASSAN",
   "sections_cited": [
@@ -22,7 +22,12 @@
     "2016 SCMR 183",
     "2012 SCMR 280"
   ],
-  "parties": [],
+  "parties": [
+    "Muazzam Ali Goraya",
+    "Member (Judicial-I)",
+    "Ajam Naz Malik",
+    "Raja Muqsit Nawaz Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

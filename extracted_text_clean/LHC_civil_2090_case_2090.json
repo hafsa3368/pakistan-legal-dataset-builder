@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1685 of 2023",
-  "date_of_order": "",
+  "date_of_order": "05-03-2024",
   "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "sections_cited": [
+    "C' class"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Tarique Panhwar",
+    "Mr. Badruddin Memon",
+    "Mr. Agha Ather Hussain Pathan",
+    "Liaqat Ali of PS Lakhi Ghulam Shah."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

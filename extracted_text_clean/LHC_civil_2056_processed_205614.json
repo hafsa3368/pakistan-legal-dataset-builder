@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-696 of 2023",
-  "date_of_order": "",
+  "date_of_order": "15-11-2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 365-B, 506/2, 34 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shafquat Ali Maitlo",
+    "the applicant",
+    "the learned IVth Civil Judge and Judicial Magistrate, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

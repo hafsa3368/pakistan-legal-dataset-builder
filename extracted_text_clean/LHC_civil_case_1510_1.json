@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "C.P. No. D – 1351 of 2022",
+  "date_of_order": "17-11-2022",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arif Ali Abbasi",
+    "Pakistan Railways"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,22 @@
   "num_chunks": 6,
   "case_number": "Crl. Bail Appln. No. S-",
   "date_of_order": "31.08.2023",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 302, 148 & 149",
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sohrab son of Liaquat Khoso",
+    "Liaquat son of Sohrab Khoso",
+    "Faiz Muhammad son of Sardar Khan",
+    "Shafiq-u-Rehman son of Faiz Muhammad",
+    "Jameel Ahmed son of Faiz Muhammad",
+    "Muhammad Rafique son of Arz Muhammad",
+    "Ashfaq Ahmed Khoso",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

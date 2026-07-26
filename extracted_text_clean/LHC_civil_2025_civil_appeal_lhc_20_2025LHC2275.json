@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "Civil Appeals No.1453",
   "date_of_order": "25.02.2025",
-  "judge": "JUDGE Zeeshan",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 4 of the Land Acquisition Act",
     "sections 17 & 6 of the Act",
@@ -22,7 +22,11 @@
     "section 17 & 6 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD YAQOOB KHAN",
+    "PAKISTAN through Secretary Ministry of Defence, (Civil Aviation Division), Govt. of Pakistan",
+    "CIVIL AVIATION AUTHORITY"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

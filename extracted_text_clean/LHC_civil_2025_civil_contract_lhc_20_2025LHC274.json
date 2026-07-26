@@ -8,7 +8,7 @@
   "num_chunks": 17,
   "case_number": "Civil Petition No.767 of 2022",
   "date_of_order": "15.01.2025",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 3",
     "Section 34 of Ordinance",
@@ -34,7 +34,10 @@
     "PLD 2020 SC 282",
     "PLD 2024 SC 610"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan through Secretary, Ministry of Interior, Government of Pakistan",
+    "Ashba Kamran etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

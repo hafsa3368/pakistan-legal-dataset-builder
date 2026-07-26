@@ -9,11 +9,22 @@
   "case_number": "W.P. No.1601 of 2025",
   "date_of_order": "22.05.2025",
   "judge": "RAHEEL KAMRAN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2024 SC 1276"
   ],
-  "parties": [],
+  "parties": [
+    "Usama Zahoor",
+    "District & Sessions Judge, Multan",
+    "Raja Naveed Azam",
+    "Federation of Pakistan",
+    "Malik Masroor Haider Usman",
+    "Bashir Ahmad Buzdar",
+    "Raheel Kamran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

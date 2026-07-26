@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "constitute disputed facts which cannot",
   "date_of_order": "13.01.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "u/s 23 of National Accountability Ordinance",
+    "u/s 12",
+    "u/s 23"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Afshan Ghizanfar",
+    "Mr. Shahbaz Sahotra, Special Prosecutor NAB a/w Mirza Aleem Baig I.O."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

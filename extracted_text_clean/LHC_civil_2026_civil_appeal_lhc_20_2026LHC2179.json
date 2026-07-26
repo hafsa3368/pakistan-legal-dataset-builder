@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-341-D of 2013",
   "date_of_order": "12.2.2026",
   "judge": "RASAAL HASAN SYED",
   "sections_cited": [],
@@ -14,7 +14,10 @@
     "PLD 2002 SC 303",
     "PLD 2011 SC 905"
   ],
-  "parties": [],
+  "parties": [
+    "Naureen Maqbool and another",
+    "Khuda Bakhsh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

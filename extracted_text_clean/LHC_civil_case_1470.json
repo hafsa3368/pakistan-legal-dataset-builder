@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl.No.2065 of 2025",
   "date_of_order": "17.11.2025",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 6,9"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rab Nawaz",
+    "The State",
+    "Mr. Musharaf Azhar",
+    "Mr. Shah Imroz Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

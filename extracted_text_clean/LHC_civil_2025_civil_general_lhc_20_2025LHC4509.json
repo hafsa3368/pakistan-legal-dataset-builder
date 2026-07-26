@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "",
+  "case_number": "C.O.No.S-01 of 2024",
   "date_of_order": "03.06.2025",
   "judge": "JAWAD HASSAN",
   "sections_cited": [
@@ -26,7 +26,16 @@
     "PLD 2024 Lahore 545",
     "PLD 2025 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Arsal",
+    "Sadiq Feeds Pvt. Ltd.",
+    "SECP",
+    "Mrs. Sadia Sadiq",
+    "Saad Sadiq",
+    "Sanan Sadiq",
+    "Muhammad Naeem Haider Khan",
+    "Tayyab Rasool"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

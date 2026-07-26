@@ -6,12 +6,17 @@
   "year": "2083",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1202 of 2015",
   "date_of_order": "25.01.2016",
-  "judge": "",
+  "judge": "Karar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Francis Khokhar, Advocate for petitioners",
+    "Mr. Muhammad Ali Rind, Advocate for respondents",
+    "Ch. Bashir Ahmed Asstt. A.G.",
+    "ASI Muhammad Siddiqi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

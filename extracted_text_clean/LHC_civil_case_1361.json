@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No. D- 205 of 2016",
   "date_of_order": "15.03.2016",
-  "judge": "",
+  "judge": "Karar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahsan Gul Dahri",
+    "Allah Bachayo Soomro Addl.A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

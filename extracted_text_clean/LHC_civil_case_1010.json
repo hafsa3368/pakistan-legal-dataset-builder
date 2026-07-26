@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-342 of 2022",
-  "date_of_order": "",
+  "date_of_order": "08.08.2023",
   "judge": "JUDGE Sulemen Khan/PA",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Mujtaba Jakhar, Advocate for the Petitioners",
+    "Mr. Ali Raza Baloch, Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

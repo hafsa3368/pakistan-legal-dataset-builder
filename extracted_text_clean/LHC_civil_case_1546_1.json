@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.B.A.No.D-862 of 2023",
+  "date_of_order": "23-05-2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sohail Ahmed Khoso, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

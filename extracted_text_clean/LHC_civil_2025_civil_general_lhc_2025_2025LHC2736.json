@@ -26,7 +26,12 @@
     "2017 SCMR 1218",
     "PLD 2016 Sindh 311"
   ],
-  "parties": [],
+  "parties": [
+    "United Bank Limited",
+    "President of the Islamic Republic of Pakistan",
+    "HBL",
+    "Allied Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

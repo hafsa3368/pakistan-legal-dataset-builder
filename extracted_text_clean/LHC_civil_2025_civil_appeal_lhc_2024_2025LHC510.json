@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "R.F.A. No.11082 of 2025",
   "date_of_order": "18.11.2024",
   "judge": "Malik Muhammad Awais Khalid",
   "sections_cited": [
@@ -16,7 +16,11 @@
   "citations": [
     "2020 SCMR 300"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Samia Altaf",
+    "Lahore University of Management Sciences",
+    "Hafiz Rehman Aziz, Advocate for appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

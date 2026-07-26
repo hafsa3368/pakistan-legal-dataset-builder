@@ -7,13 +7,15 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. S-663 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "07-11-2023",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amjad Khan Panhwar Vs. The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

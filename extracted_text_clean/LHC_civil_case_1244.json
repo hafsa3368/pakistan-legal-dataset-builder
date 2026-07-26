@@ -9,9 +9,17 @@
   "case_number": "Crl. Bail Application No.S-235 of 2024",
   "date_of_order": "31.03.2024",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sajjad Ali Lakho",
+    "The State",
+    "Syed Sarfraz Shah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

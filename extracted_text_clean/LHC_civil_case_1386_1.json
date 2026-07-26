@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2016",
   "date_of_order": "18.04.2018",
-  "judge": "",
+  "judge": "S.M.A.",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mumtaz Begum",
+    "Iftikhar Ahmed Khan",
+    "Aijaz Ahmed Khan",
+    "Ghazala Farough",
+    "Zarina Begum",
+    "Imtiaz Ahmed Khan",
+    "Sarfaraz Ahmed Khan",
+    "Farukh Ahmed Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

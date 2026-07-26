@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "High Court Appeal No.146 of 1997",
   "date_of_order": "18.03.2016",
-  "judge": "JUDGE",
+  "judge": "Irfan Saadat Khan Mr",
   "sections_cited": [
     "Section 3 of the Law Reforms Ordinance",
     "Section 39 of the Arbitration Act",
@@ -21,7 +21,10 @@
     "PLD 1956 Sind 17",
     "PLD 2004 Lahore 404"
   ],
-  "parties": [],
+  "parties": [
+    "Trading Corporation of Pakistan Pvt. Ltd.",
+    "Amanullah Khan, Muslim Corporation, Cotton Ginning Factory"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

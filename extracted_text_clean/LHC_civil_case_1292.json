@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl Nos.668 of 2024 (Abdul Rahim vs. The State) Cr.Bail Appl Nos.669 of 2024 (Abdul Rahim vs. The State) Cr.Bail Appl Nos.670 of 2024 (Abdul Rahim vs. The State)",
   "date_of_order": "05.04.2024",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 491 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Abdul Rahim",
+    "Hanzala"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

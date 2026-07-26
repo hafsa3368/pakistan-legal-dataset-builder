@@ -6,15 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.S-228 of 2022",
   "date_of_order": "13.01.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 302, 324, 147, 148, 337-H",
     "Sections 87 & 88"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ajeebullah Junejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

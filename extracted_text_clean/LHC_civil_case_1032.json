@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Bail Application No.S-173 of 2024",
-  "date_of_order": "",
+  "date_of_order": "26-04-2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mumtaz Ali",
+    "Mst. Jamul",
+    "Abdul Rehman",
+    "Muhammad Iqbal Kalhoro",
+    "Mr. Abdul Fatah Samo",
+    "Mr. Shafi Muhammad Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

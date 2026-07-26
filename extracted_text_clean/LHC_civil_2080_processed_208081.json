@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Revision Application No. S-58 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "12-12-2023",
+  "judge": "Nasim",
   "sections_cited": [
     "section 22"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Shamshad Ujjan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

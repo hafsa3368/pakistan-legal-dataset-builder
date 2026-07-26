@@ -8,12 +8,20 @@
   "num_chunks": 2,
   "case_number": "Misc. Application No.S-43 of 2023",
   "date_of_order": "16.10.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Bilal",
+  "sections_cited": [
+    "u/s 173 Cr.P.C",
+    "u/s 162 Cr.P.C"
+  ],
   "citations": [
     "2023 SCMR 383"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Mustafa Hingorjo",
+    "Mr. Francis Lucas Khokhar",
+    "Mr. Shahzado Saleem",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

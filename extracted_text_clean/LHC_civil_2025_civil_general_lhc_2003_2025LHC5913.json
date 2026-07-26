@@ -9,9 +9,15 @@
   "case_number": "Civil Revision and is now",
   "date_of_order": "06.10.2025",
   "judge": "Abid Hussain Chattha",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farhat Iqbal (deceased) through Legal Heirs",
+    "Javed Iqbal & 02 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

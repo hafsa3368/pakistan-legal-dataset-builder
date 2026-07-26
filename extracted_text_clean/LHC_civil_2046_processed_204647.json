@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Crl. Misc. Application No.S-465",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "07-10-2023",
+  "judge": "Naushahro Feroze",
+  "sections_cited": [
+    "u/s 173 Cr.P.C",
+    "u/s 63 Cr.P.C",
+    "u/s 561-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Sehtan Vs. The State."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "D-810 of 2016",
+  "date_of_order": "01.11.2017",
+  "judge": "Mr. Ameer Ahmed Narejo",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State Counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

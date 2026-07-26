@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D–4361 of 2025",
   "date_of_order": "28.10.2025",
-  "judge": "",
+  "judge": "Asif",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Qaiser Hassan",
+    "Mr. Muhammad Hisham Mehar",
+    "Mr. Dhani Bux Lashari",
+    "Mr. Rafique Ahmed Bhanbhro",
+    "Mr. Ashraf Ali Mirani",
+    "Engineer Irfan Ali",
+    "Engineer Arif Kassam",
+    "Arch. Zia Jaffery",
+    "Mr. Tariq Jameel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

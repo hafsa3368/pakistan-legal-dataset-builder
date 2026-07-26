@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr Bail Appln. No 4149/2018 of 2018",
+  "date_of_order": "13-09-2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahid Hussain Soonifo",
+    "Akbar Ali Dahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

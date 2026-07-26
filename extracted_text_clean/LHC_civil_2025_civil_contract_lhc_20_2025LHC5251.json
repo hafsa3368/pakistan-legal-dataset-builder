@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "W.P.NO.8998 OF 2025",
   "date_of_order": "07.08.2025",
-  "judge": "Sajjad APPROVED FOR REPORTING JUDGE",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "Section 22 of the Code",
     "Section 22-A of Cr.P.C",
@@ -17,7 +17,11 @@
   "citations": [
     "PLD 2005 Lahore 470"
   ],
-  "parties": [],
+  "parties": [
+    "Syeda Muskan Zahra",
+    "District Police Officer",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

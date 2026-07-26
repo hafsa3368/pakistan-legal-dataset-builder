@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C.P. No.D-731 of 2076",
+  "date_of_order": "22.9.2016",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mohammad Ali Pirzado, advocate for petitioners",
+    "Mr. Qaz,i Mohammad Bux, State Counsel",
+    "Mr. Habibullah G. Ghouri, advocate for respondents No.4 to 6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

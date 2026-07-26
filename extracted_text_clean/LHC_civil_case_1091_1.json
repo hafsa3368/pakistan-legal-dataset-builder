@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No. D-18 of 2021",
   "date_of_order": "03.08.2021",
-  "judge": "JUDGE",
+  "judge": "Zafar Ahmed Rajput Mr",
   "sections_cited": [
     "sections 302, 353, 324, 440, 148, 149",
     "Sections 302",
@@ -24,7 +24,10 @@
   "citations": [
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Arsallah s/o Ghulam Hyder",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -33,7 +33,10 @@
     "PLD 1979 SC 18",
     "PLD 1987 Karachi 86"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Amir",
+    "Muhammad Asghar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

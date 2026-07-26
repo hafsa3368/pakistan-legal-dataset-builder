@@ -7,14 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Misc. Application No.S-624 of 2018",
-  "date_of_order": "",
+  "date_of_order": "01-04-2019",
   "judge": "Suleman Khan/PA",
   "sections_cited": [
     "section 497 Cr.P.C",
     "sections 452, 324, 311, 506/2, 337-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Pathani",
+    "Mr. Sundar Khan Chachar",
+    "Mr. Khalil Ahmed Maitlo",
+    "respondents No.1 to 9"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

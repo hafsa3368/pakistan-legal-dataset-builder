@@ -29,7 +29,10 @@
     "PLD 1966 SC 854",
     "PLD 1971 SC 252"
   ],
-  "parties": [],
+  "parties": [
+    "DG Khan Cement Company Limited",
+    "The Province of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

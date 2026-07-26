@@ -6,17 +6,26 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "RFA No.66044 of 2025",
   "date_of_order": "12.01.2026",
   "judge": "Muhammad Sajid Mehmood Sethi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 SCMR 1793",
     "2014 SCMR 637",
     "2025 SCMR 690",
     "PLD 2025 Lahore 759"
   ],
-  "parties": [],
+  "parties": [
+    "Sui Northern Gas Pipelines Limited",
+    "M/s Value CNG",
+    "Mr. Nadeem Butt",
+    "Ch. Imran Raza Chadhar",
+    "Ch. Qasim Raza Chadhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

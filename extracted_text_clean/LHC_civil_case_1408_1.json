@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "30 of 2012",
   "date_of_order": "17.09.2020",
   "judge": "Athar Zai",
   "sections_cited": [
@@ -16,7 +16,13 @@
   "citations": [
     "1999 CLC 2077"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Samiullah Soomro, Advocate for plaintiff",
+    "Mr. Khawaja Shams-ul-Islam, Advocate for defendant",
+    "Mr. Akhtar Ali Mastoi, Advocate for Board of Revenue alongwith Muhammad Anwar Kumbhar, Mukhtiarkar Taluka Airport, Karachi",
+    "Mr. Waqar-ul-Haque, Advocate for applicants/interveners Muhammad Hassan Dahari and Mst. Sumera",
+    "Mr. Ziauddin Junejo, AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 25,
   "case_number": "Civil Petitions No.2466",
   "date_of_order": "09.02.2026",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 30 of the Act",
     "Section 30",
@@ -38,7 +38,12 @@
     "1998 SCMR 468",
     "1980 SCMR 139"
   ],
-  "parties": [],
+  "parties": [
+    "Akhtar Ali",
+    "District Collector, Bahawalnagar",
+    "Syed Mujahid Ayub Wasti",
+    "Rai Mazhar Hussain Kharal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

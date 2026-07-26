@@ -6,10 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.S-314 of 2021",
   "date_of_order": "02.09.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "A.K.",
+  "sections_cited": [
+    "U/s 15 of Sindh Rented Premises Ordinance",
+    "u/s 16",
+    "U/s 16 and 16"
+  ],
   "citations": [],
   "parties": [
     "Vs"

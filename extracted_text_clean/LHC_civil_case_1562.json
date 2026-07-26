@@ -8,14 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.D-425 of 2010",
   "date_of_order": "02.11.2017",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 342 Cr.P.C",
     "section 245",
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zulfiqar Ali",
+    "The State (Syed Meeral Shah)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

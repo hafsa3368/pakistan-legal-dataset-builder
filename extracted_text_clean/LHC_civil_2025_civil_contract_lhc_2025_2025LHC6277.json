@@ -34,7 +34,10 @@
     "PLD 2004 Lahore 404",
     "PLD 1987 SC 461"
   ],
-  "parties": [],
+  "parties": [
+    "Lahore Development Authority",
+    "M/s Zahir Khan & Brothers"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

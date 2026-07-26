@@ -30,7 +30,10 @@
     "PLD 2004 SC 925",
     "PLD 2012 SC 268"
   ],
-  "parties": [],
+  "parties": [
+    "Faysal Bank Limited",
+    "M/s Tahir Omer Industries Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

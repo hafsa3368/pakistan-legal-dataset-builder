@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-54593 of 2023",
   "date_of_order": "26.11.2025",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -38,7 +38,22 @@
     "2023 SCMR 700",
     "2023 SCMR 950"
   ],
-  "parties": [],
+  "parties": [
+    "National Highway Authority",
+    "Safdar Ali",
+    "Muhammad Saim Chaudhry",
+    "Saima Safdar Ch.",
+    "Munir Ahmad Malik",
+    "Dewan Zakir Hussain",
+    "Nazir Ali Qadri",
+    "Muhammad Zain Qazi",
+    "Assistant Attorney General",
+    "Awais Ahmad Qazi",
+    "Muhammad Ali",
+    "Deputy Director (Legal)",
+    "NHA",
+    "Mr. Najaf Muzammal Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

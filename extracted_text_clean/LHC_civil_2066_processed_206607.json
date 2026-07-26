@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No.S-380 of 2023",
-  "date_of_order": "",
+  "date_of_order": "07.12.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Major Adnan Kayani & others",
+    "SHO PS Dad Leghari & others",
+    "Choudhry Shahid Hussain Rajput",
+    "Mr. Sikandar Ali Junejo",
+    "Mr. Shafi Muhammad Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

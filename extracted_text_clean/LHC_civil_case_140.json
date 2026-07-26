@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.S-367 of 2022",
   "date_of_order": "22.08.2022",
   "judge": "Shahid",
   "sections_cited": [
@@ -20,7 +20,14 @@
     "2022 SCMR 273",
     "2022 MLD 744"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Imtiaz Ali Abbasi",
+    "Mr. Altaf Sachal Awan",
+    "Mr. Fayaz Hussain Sabki",
+    "Applicants",
+    "Afaq Ahmed, Nusrat and Shazia",
+    "The STATE"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

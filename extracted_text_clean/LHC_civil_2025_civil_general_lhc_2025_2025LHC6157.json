@@ -17,7 +17,10 @@
     "PLD 2006 Lahore 32",
     "PLD 1998 SC 1445"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman",
+    "Muhammad Ishaq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,14 @@
   "case_number": "Const Petition No D-",
   "date_of_order": "12.09.2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Abid Hussain Qadri",
+    "Municipal Corporation Larkana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

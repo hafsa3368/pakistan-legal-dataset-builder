@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "W.P.No.1917 of 2024",
   "date_of_order": "04.06.2025",
-  "judge": "Sajjad APPROVED FOR REPORTING JUDGE",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "Section 21",
     "Section 21 of the Act",
@@ -32,7 +32,11 @@
     "PLD 2007 SC 133",
     "PLD 2010 SC 983"
   ],
-  "parties": [],
+  "parties": [
+    "Jehlum Homeopathic Medical College",
+    "Federation of Pakistan",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appln. No. S – 40 of 2023",
   "date_of_order": "20.01.2023",
   "judge": "Ahmad",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "Sections 324, 114, 504, 34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Ghafoor",
+    "Mr. Muhammad Ibrahim Z. Ghambir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

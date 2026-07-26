@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "",
+  "case_number": "E.P. No.65282 of 2024",
   "date_of_order": "01.07.2025",
   "judge": "Anwaar Hussain",
   "sections_cited": [
@@ -38,7 +38,10 @@
     "PLD 1989 SC 760",
     "PLD 2011 Lahore 207"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yar",
+    "Naveed Aslam Khan Lodhi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

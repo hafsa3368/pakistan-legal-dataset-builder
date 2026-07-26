@@ -9,7 +9,10 @@
   "case_number": "constitutional jurisdiction as it is not",
   "date_of_order": "20.02.2026",
   "judge": "MALIK WAQAR HAIDER AWAN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 SCMR 201",
     "2021 SCMR 1230",
@@ -17,7 +20,10 @@
     "2022 SCMR 406",
     "PLD 2023 SC 316"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Bilal Khalid",
+    "Inspector General of Police Punjab Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

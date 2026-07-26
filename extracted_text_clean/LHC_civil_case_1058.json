@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "16.05.2024",
-  "judge": "",
+  "judge": "ARBROHI",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Markazi Jamia Masjid and Madarsa Jamiat Ahle Hadith",
+    "Federation of Pakistan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

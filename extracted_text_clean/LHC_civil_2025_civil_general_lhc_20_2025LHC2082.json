@@ -9,7 +9,10 @@
   "case_number": "W.P.No.14946 of 2025",
   "date_of_order": "12.03.2025",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2010 CLC 819",
     "2021 CLC 952",
@@ -22,7 +25,11 @@
     "2004 SCMR 1111",
     "2018 MLD 959"
   ],
-  "parties": [],
+  "parties": [
+    "Ejaz Ahmed",
+    "Addl. District Judge, etc.",
+    "Mr. Ghulam Akbar Khan Sial"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

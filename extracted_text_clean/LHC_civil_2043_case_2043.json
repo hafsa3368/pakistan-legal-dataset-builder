@@ -6,17 +6,26 @@
   "year": "2043",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-129 of 2020",
   "date_of_order": "17.02.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "U/s 5 of Limitation Act",
+    "u/s 5 of Limitation Act"
+  ],
   "citations": [
     "1974 SCMR 223",
     "2000 SCMR 647",
     "2002 SCMR 1405",
     "2000 MLD 1"
   ],
-  "parties": [],
+  "parties": [
+    "Sikander Ali & others",
+    "Waris Ali & others",
+    "M/s Muhammad Taseer Khan and M. Amin Motiwala, advocates for Appellants",
+    "Mr. Fahad Hussain, advocate for respondents",
+    "Syed Hussain Shah, AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

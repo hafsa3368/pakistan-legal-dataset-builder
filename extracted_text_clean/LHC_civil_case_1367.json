@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "000/4/ 90///1 INIUUUU SINII CINCULLKAL",
+  "date_of_order": "25.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Maitione"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

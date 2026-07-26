@@ -8,7 +8,7 @@
   "num_chunks": 20,
   "case_number": "constitutional 3 WRIT PETITIONS NO.2913",
   "date_of_order": "26.06.2025",
-  "judge": "Sajjad APPROVED FOR REPORTING JUDGE",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "Section 19 of the Punjab Rented Premises Act",
     "Section 12 of the Limitation Act",
@@ -35,7 +35,10 @@
     "PLD 1988 SC 163",
     "PLD 1973 SC 222"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Irum",
+    "Shahbaz Ali Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

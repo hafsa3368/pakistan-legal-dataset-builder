@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No D-13 of 2017",
   "date_of_order": "",
-  "judge": "",
+  "judge": "Justicu Zafar Ahmed Rajpul",
   "sections_cited": [
     "section 9",
     "section 34z",
@@ -16,7 +16,10 @@
     "Section 29"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ramzan s/o Noor Khun Brohi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

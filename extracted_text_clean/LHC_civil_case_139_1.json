@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. S-",
   "date_of_order": "13.07.2022",
-  "judge": "",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "Section 489-F PPC",
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Hassan s/o Muhammad Ibrahim Kalwar",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

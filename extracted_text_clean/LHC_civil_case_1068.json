@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
+  "date_of_order": "17.11.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Waqas Ahmad Khan vs. Dr. Qaisar Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

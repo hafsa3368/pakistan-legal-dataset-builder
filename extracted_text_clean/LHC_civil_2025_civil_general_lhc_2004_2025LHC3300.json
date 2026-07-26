@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "14.05.2025",
   "judge": "Sultan Tanvir Ahmad",
   "sections_cited": [
@@ -30,7 +30,13 @@
     "PLD 2004 Lahore 21",
     "PLD 2003 Peshawar 179"
   ],
-  "parties": [],
+  "parties": [
+    "Munir Ahmad Bhatti",
+    "Mehmood Ahmad Tahir Bhatti",
+    "Mr. Maqbool Hussain Sheikh",
+    "Mr. Agha Abu-ul-Hassan Arif",
+    "Khalid Habib"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

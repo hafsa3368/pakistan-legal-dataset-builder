@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "29.01.2026",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -31,7 +31,16 @@
     "PLD 2011 Lahore 37",
     "PLD 1967 SC 97"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Kora",
+    "Judge Family Court, Multan",
+    "Mr. Munawar Iqbal Taheem",
+    "Malik Muhammad Bakhsh Khaki",
+    "Ahmad Hassan Khan Khichi",
+    "Dr. Muhammad Azeem Raja",
+    "Rana Ghulam Hussain",
+    "Alia Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

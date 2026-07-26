@@ -9,11 +9,18 @@
   "case_number": "Civil Revision No. 418-D of 2025",
   "date_of_order": "29.09.2025",
   "judge": "Anwaar Hussain",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2025 MLD 1482"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Zahoor & 8 Others",
+    "Mst. Shamim Akhtar, etc.",
+    "Rana Nasir Iqbal, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "03.02.2026",
   "judge": "Sultan Tanvir Ahmad",
   "sections_cited": [
@@ -16,7 +16,11 @@
     "section 3 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Meezan Bank Limited",
+    "Muhammad Kashif",
+    "Sultan Tanvir Ahmad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

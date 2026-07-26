@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-310 of 2018",
   "date_of_order": "12.05.2025",
-  "judge": "JUDGE HANIF",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro Mr",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ayub Mushtaq",
+    "Shakila Gazali and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Transfer.Appl.No.S- 59 of 2019",
   "date_of_order": "13.09.2019",
   "judge": "Tufail/PA",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 395 PPC",
+    "u/s 324 & 353 PPC",
+    "u/s 324, 353, 147 & 148/149 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Rameshan Oad, A.P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

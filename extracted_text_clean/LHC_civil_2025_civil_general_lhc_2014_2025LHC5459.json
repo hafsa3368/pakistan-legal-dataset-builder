@@ -27,7 +27,14 @@
     "2014 SCMR 1474",
     "PLD 2025 Lahore 137"
   ],
-  "parties": [],
+  "parties": [
+    "Maryam Bibi",
+    "The State",
+    "Mukhtar Ahmad",
+    "Hanif Rukhsana Bibi",
+    "Tanveer Ahmad",
+    "Naveed Ahmad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

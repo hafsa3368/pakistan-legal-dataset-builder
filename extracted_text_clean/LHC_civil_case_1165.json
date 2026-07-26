@@ -6,9 +6,12 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": [
+    "Cr.Bail Appl No.826 of 2024",
+    "Cr.Bail Appl. No.827 of 2024"
+  ],
   "date_of_order": "04.06.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 497"
   ],

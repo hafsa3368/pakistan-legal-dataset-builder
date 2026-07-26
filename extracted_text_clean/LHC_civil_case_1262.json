@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Acouittal Appeal No.S-106 of 2022",
   "date_of_order": "08.06.2023",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Illegal Dispossession Act, 2005"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Yousuf's legal heir",
+    "Karim Mill",
+    "Respondents No.1 to 11",
+    "Mr. Sadam Hussain Khaskheli"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

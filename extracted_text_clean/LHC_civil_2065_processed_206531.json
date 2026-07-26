@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Revision Application No. S-97 of 2023",
-  "date_of_order": "",
+  "date_of_order": "04-12-2023",
   "judge": "",
   "sections_cited": [
     "section 265-K Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Asadullah Soomro",
+    "The His Highness Mir Ali Murad Khan Talpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

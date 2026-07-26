@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-696 of 2024",
   "date_of_order": "12.08.2024",
   "judge": "HANIF",
   "sections_cited": [
     "Sections 16 and 16 of the Sindh Rented Premises Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Naeem Suleman",
+    "Mr. Adnan Ahmed Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

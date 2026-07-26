@@ -24,7 +24,10 @@
     "PLD 2007 Lahore 300",
     "PLD 2017 Peshawar 1"
   ],
-  "parties": [],
+  "parties": [
+    "Niaz Hussain",
+    "Fazal Fareed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

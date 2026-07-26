@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C.P No.D-2624 of 2017",
+  "date_of_order": "01.04.2019",
   "judge": "Fahad Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Arshad S. Pathan, Advocate",
+    "Mr. Jangu Khan, Special Prosecutor NAB",
+    "Mr. Aslam Pervaiz Khan, Asst: Attorney General",
+    "Mr. Imtiaz Ali Channa, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,15 @@
   "case_number": "Criminal Acquittal Appeal No.D-15 of 2017",
   "date_of_order": "24.09.2018",
   "judge": "Zafar Ahmed Rajput",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Nawaz s/o Fareed Khan Soomro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

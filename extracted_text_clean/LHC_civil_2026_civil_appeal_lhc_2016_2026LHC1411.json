@@ -31,7 +31,13 @@
     "PLD 2025 Lahore 249",
     "PLD 2025 Lahore 575"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Syed Tassadaq Mustafa Naqvi",
+    "Syed Tassadaq Murtaza Naqvi",
+    "Barrister Naqsh Fatima Naqvi",
+    "Nemo",
+    "Asim Hafeez"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

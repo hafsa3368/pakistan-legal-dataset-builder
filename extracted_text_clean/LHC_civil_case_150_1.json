@@ -11,7 +11,10 @@
   "judge": "JUDGE",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Sabir Ali Shaikh",
+    "Sardar Ali Rizvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

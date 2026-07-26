@@ -6,12 +6,23 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-3056 of 2022",
   "date_of_order": "03.11.2022",
   "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed Dahri",
+    "AAG Sindh",
+    "DSP Headquarter Tando Allahyar Shahabdin",
+    "Inspector Noor Muhammad",
+    "DIGP Hyderabad",
+    "Inspector Najamuddin",
+    "SSP Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

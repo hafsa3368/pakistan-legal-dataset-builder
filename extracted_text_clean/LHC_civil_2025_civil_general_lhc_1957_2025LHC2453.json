@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "17.04.2025",
   "judge": "Abis Ali",
   "sections_cited": [
@@ -22,7 +22,11 @@
     "2014 SCMR 322",
     "2017 CLC Note 9"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Arif",
+    "Member (Judicial-V) Board of Revenue etc.",
+    "Malik Sultan Amir Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

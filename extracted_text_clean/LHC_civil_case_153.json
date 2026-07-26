@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1070 of 2022",
   "date_of_order": "31.10.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Rameshan Oad",
+    "Muhammad Hashim Laghari",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

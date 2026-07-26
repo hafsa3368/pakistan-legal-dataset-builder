@@ -9,7 +9,10 @@
   "case_number": "W.P.No. 7654 of 2018",
   "date_of_order": "22.01.2025",
   "judge": "Muzamil Akhtar Shabir",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 2164",
     "2008 SCMR 762",
@@ -17,7 +20,10 @@
     "PLD 1992 SC 30",
     "PLD 1985 SC 345"
   ],
-  "parties": [],
+  "parties": [
+    "Imam Bukhsh",
+    "Karam Khatoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

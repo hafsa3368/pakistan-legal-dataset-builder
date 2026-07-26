@@ -7,11 +7,13 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No. D-",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "13.03.2024",
+  "judge": "ARBROHI",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Hussain Bhutto vs. P.O Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

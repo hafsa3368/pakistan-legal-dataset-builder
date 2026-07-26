@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Appl. No.277of 2016",
   "date_of_order": "18.04.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Rafiq",
+  "sections_cited": [
+    "U/s 17"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aurangzeb Khan",
+    "Mr. Muhammad Qasim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

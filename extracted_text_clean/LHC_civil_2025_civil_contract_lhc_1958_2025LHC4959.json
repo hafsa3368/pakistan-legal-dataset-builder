@@ -6,9 +6,9 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "I.C.A. No.6601 of 2024",
   "date_of_order": "03.06.2025",
-  "judge": "JUDGE",
+  "judge": "MALIK WAQAR HAIDER AWAN",
   "sections_cited": [
     "Section 7",
     "Section 6 of the Act",
@@ -20,7 +20,12 @@
     "PLD 2019 Lahore 607",
     "PLD 1949 Lahore 143"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. BBJ Steel Limited",
+    "M/s. Cargill International Trading Pte. Ltd.",
+    "M/s. Shah Zaib Masood and Jawad Jameel Malik",
+    "M/s. Shah Bakhat Pirzada, Ahmed Nisar Khan and Mahaar Mustafa Kazmi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

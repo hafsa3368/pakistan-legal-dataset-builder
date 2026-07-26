@@ -9,9 +9,33 @@
   "case_number": "W.P. No.4166 of 2025",
   "date_of_order": "04.06.2025",
   "judge": "ANWAAR HUSSAIN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahid Javed vs. Government of Pakistan, etc.",
+    "Mr. Muhammad Ajmal Adil, Advocate",
+    "Mr. Muhammad Wasif Shahzad, Advocate",
+    "Mirza Nasar Ahmad, Additional Attorney General",
+    "Mr. Asad Ali Bajwa, Deputy Attorney General",
+    "Mr. Muhammad Anwar Khan, Assistant Attorney General",
+    "Khurram Agha, Secretary Interior, Government of Pakistan",
+    "H.M. Azeem, Assistant Director, FIA, Lahore",
+    "Mr. Imran Khan, Assistant Advocate General",
+    "Noor-ul-Amin Mengal, Secretary Home Department, Punjab",
+    "Ihsan Ali Jamali, Addl. Secretary (IS), Home Department",
+    "Afzal Bashir, Deputy Secretary (Legal) Home Department",
+    "Rashid Minhas, Deputy Secretary (Legal-II), Home Department",
+    "Irshad Ahmad, Section Officer (IS-I), Home Department",
+    "Sahibzada Bilal Umar, CPO, Faisalabad",
+    "Ubaid Ullah, DSP (Legal), Faisalabad",
+    "Rizwan Shaukat, SHO, Samanabad, Faisalabad",
+    "Malik Khuda Yar, Inspector Legal, IGP Office, Lahore",
+    "Babar Ali, ASI",
+    "Anwaar Hussain, J."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

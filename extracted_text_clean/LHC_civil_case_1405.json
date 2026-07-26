@@ -9,12 +9,20 @@
   "case_number": "Criminal Transfer Application No.S-89 of 2018",
   "date_of_order": "11.01.2019",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 324, 337, 504 PPC",
+    "u/s 22 Cr.P.C"
+  ],
   "citations": [
     "2017 YLR Note 438",
     "2016 YLR 1139"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Nadir Khan Burdi and Mir Buriro",
+    "Mr. Naeem Ahmed Mangi",
+    "Syed Meeral Shah A.P.G.",
+    "Accused party"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

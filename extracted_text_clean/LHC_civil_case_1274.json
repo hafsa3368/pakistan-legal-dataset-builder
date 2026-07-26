@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D – 1469 of 2023",
   "date_of_order": "06.12.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zafar Ali Shah, Advocate for petitioner",
+    "Syed Tanveer Abbas Shah, Advocate for respondents-SEPCO along with Raheem Bakhsh, SDO SEPCO, Rohri",
+    "Mr. Nisar Ahmed G. Abro, Deputy Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

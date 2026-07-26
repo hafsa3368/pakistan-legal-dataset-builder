@@ -8,13 +8,16 @@
   "num_chunks": 3,
   "case_number": "Civil Revn Appln. No S-13",
   "date_of_order": "05.12.2016",
-  "judge": "",
+  "judge": "Shahdackot",
   "sections_cited": [
     "Section 12",
     "Section 96"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Imdad Ali Masnori",
+    "Mr Rabnawaz Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

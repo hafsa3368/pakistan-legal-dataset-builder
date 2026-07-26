@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-1145 of 2022",
   "date_of_order": "12.08.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 392, 34 PPC",
     "section 382, 34 PPC",
@@ -17,7 +17,11 @@
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rao Faisal Ali",
+    "Mr. Abdul Waheed Bijarani A.P.G. Sindh",
+    "ASI Ali Hyder Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

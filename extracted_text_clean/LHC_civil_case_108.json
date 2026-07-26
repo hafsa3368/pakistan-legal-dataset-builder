@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.S-152 of 2022",
   "date_of_order": "29.08.2022",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Madina Enterprise Agency",
+    "Mr. Shabir Hussain Hashmi",
+    "Mr. Hemandas S. Sanghani",
+    "Mr. Imran Ali Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

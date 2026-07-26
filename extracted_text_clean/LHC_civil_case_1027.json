@@ -6,15 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Rev. A. No. S-188 of 2015",
   "date_of_order": "25.01.2016",
-  "judge": "",
+  "judge": "Karar",
   "sections_cited": [
     "Section 302 PPC",
     "Section 540 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Amjad Ali Sehto",
+    "Mr. Aghis-us-Salam Tahirzada",
+    "Syed Meeral Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

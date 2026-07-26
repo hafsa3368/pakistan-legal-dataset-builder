@@ -6,14 +6,22 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Writ Petition No. 13887 of 2025",
   "date_of_order": "19.01.2026",
   "judge": "Sultan Tanvir Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 CLC Note 42"
   ],
-  "parties": [],
+  "parties": [
+    "Ahmad Nawaz Malik",
+    "Addl. District Judge and 09 others",
+    "Malik Javed Akhtar Wains",
+    "Ms. Aqsa Zahid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

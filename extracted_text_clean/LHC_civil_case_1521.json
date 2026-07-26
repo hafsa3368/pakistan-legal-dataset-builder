@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Constitutional Petition NO.D-170/2015",
   "date_of_order": "05.03.2019",
-  "judge": "JUDGE Irfan Ali",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 12 of the Police Act",
     "Section 12 of Police Act"
@@ -17,7 +17,10 @@
     "2016 SCMR 1254",
     "2011 SCMR 408"
   ],
-  "parties": [],
+  "parties": [
+    "Asif Ali & others",
+    "Province of Sindh through Secretary Home Department & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

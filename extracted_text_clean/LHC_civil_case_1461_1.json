@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-1280 of 2015",
   "date_of_order": "02.10.2015",
   "judge": "JUDGE Gulzar/PA",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Akhlaque Mehdi",
+    "Mr. Ahmed Pirzada",
+    "Syed Sultan Ahmed",
+    "Mr. Anwar Ali Shah",
+    "Mr. Kazi Bashir Ahmed",
+    "ASI Abdul Qayoom"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

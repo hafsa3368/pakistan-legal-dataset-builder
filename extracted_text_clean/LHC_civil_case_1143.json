@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1834 of 2023",
-  "date_of_order": "",
+  "date_of_order": "27.02.2024",
   "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 365-B, 34 PPC",
+    "u/s 161 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mehboob Ali Wassan, Advocate for the Petitioners",
+    "Mr. Zulfiqar Ali Jatoi, Additional Prosecutor General",
+    "Mr. Shaharyar Imdad Awan, Assistant Advocate General a/w ASI/IO Mushtaque Ali o PS Kotdiji.",
+    "Respondent No.4/I.O of Crime No.248/2023"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

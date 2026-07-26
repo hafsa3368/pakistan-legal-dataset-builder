@@ -7,13 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No.S-107 of 2023",
-  "date_of_order": "",
+  "date_of_order": "12.12.2023",
   "judge": "",
   "sections_cited": [
     "section 22"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mazhar @ Roshan Ali Others",
+    "The State & others",
+    "Riaz Ali Shaikh",
+    "Safdar Ali Ujjan",
+    "Shabana Naheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-495 of 2023",
   "date_of_order": "10.05.2023",
   "judge": "JUDGE",
-  "sections_cited": [],
+  "sections_cited": [
+    "Sindh Child Marriage Restraint Act 2013"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mehnaz Solangi",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Shahzado Saleem Nahiyoon",
+    "Ali Murad Dahri PS Sukhan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

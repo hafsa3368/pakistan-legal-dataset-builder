@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-467 of 2023",
-  "date_of_order": "",
+  "date_of_order": "21.05.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. J.K. Jarwar, Advocate for respondents No. 1&5.",
+    "Mr. Aftab Ahmed Shar, Additional P.G.",
+    "None present for the applicant."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

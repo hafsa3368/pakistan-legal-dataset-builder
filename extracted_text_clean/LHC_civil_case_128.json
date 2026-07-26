@@ -9,9 +9,16 @@
   "case_number": "Civil Transfer Application No.S-15 of 2021",
   "date_of_order": "05.11.2021",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zamir Ahmed Kalhoro",
+    "Mr. Aamir Ali Memon",
+    "Mr. Muhammad Ismail Bhutto",
+    "MUHAMMAD IQBAL KALHORO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

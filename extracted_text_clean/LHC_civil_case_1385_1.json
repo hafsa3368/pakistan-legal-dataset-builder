@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "constitute reasonable notice",
   "date_of_order": "27.01.2016",
-  "judge": "JUDGE HANIF",
+  "judge": "Irfan Saadat Khan Mr",
   "sections_cited": [
     "section 21",
     "section 2",
@@ -22,7 +22,10 @@
     "Sections 176 of the Contract Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "A. Habib Ahmed",
+    "Another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

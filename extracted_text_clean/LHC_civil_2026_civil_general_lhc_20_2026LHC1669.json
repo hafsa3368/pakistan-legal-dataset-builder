@@ -23,7 +23,10 @@
     "2011 CLC 950",
     "PLD 1987 Karachi 86"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yousaf",
+    "Shehbaz Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

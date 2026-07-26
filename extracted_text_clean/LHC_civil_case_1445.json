@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-2385 of 2025",
   "date_of_order": "24.11.2025",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 9"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nazeer Ahmed",
+    "The State",
+    "Mr. Shahnawaz Ayoob Dahri",
+    "Mr. Ali Haider Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

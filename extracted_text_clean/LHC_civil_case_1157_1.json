@@ -7,13 +7,23 @@
   "used_ocr": true,
   "num_chunks": 2,
   "case_number": "Criminal Mise Applicution No. S-1U8",
-  "date_of_order": "",
+  "date_of_order": "27-08-2018",
   "judge": "",
   "sections_cited": [
     "section 49٦"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst Mehnaz",
+    "Abdul Jabbar S",
+    "Ahmed Sulangi",
+    "Ali Ahmed",
+    "Ghulam Muhammad Soomro",
+    "Nawab Ali",
+    "Asghar Ali",
+    "Nadeem Ahmed",
+    "Fajar Khani Pathan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

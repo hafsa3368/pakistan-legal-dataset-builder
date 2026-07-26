@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No. S-902 of 2023",
-  "date_of_order": "",
+  "date_of_order": "18-12-2023",
   "judge": "",
   "sections_cited": [
     "section 22",
@@ -15,7 +15,9 @@
     "section 200 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shamsuddin Memon Vs. The State & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

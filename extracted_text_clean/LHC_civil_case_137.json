@@ -6,14 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.S-554 of 2021",
   "date_of_order": "22.10.2021",
   "judge": "Shahid",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gul Muhammad",
+    "Abdul Latif",
+    "Atta Rasool",
+    "Pirbhulal U. Goklani",
+    "Mushtaque Hussain Khaskheli",
+    "Nazar Muhammad Memon",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

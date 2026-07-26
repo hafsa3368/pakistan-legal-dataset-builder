@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "constrained to institute Suit No. B-130 of 2009",
   "date_of_order": "17.08.2020",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman, JJ",
   "sections_cited": [
     "Section 22",
     "Section 151 of the Code",
@@ -23,7 +23,10 @@
   "citations": [
     "1999 SCMR 2215"
   ],
-  "parties": [],
+  "parties": [
+    "Bank Alfalah Limited",
+    "Syed Zulfiqar Ali Rizvi and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

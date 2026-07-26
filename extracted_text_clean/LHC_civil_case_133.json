@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.S-1092 of 2021",
   "date_of_order": "13.12.2021",
   "judge": "Shahid",
   "sections_cited": [
     "Section 337-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Wajid Ali Khaskheli",
+    "Mr. Zahid Hussain Laghari",
+    "Mr. Nazar Muhammad Memon",
+    "MUHAMMAD IQBAL KALHORO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

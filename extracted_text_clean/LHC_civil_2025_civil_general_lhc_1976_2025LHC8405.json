@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "24.10.2025",
   "judge": "Malik Muhammad Awais Khalid",
   "sections_cited": [
@@ -22,7 +22,13 @@
     "PLD 2006 SC 697",
     "PLD 2016 Lahore 699"
   ],
-  "parties": [],
+  "parties": [
+    "Sardar Aftab Ishaq Khan",
+    "Government of the Punjab",
+    "3 others",
+    "Mr. Asad Iqbal Abbasi",
+    "MALIK MUHAMMAD AWAIS KHALID"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

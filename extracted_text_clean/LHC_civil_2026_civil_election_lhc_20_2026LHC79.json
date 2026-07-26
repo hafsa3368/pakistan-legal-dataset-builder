@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2026",
   "date_of_order": "22.01.2026",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -15,7 +15,16 @@
     "Section 151 of the CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Qatar Lubricants Company W.L.L.",
+    "Atif Naeem Rana",
+    "Kausar Rana Resources (Private) Limited",
+    "Lahore Qalandars franchise",
+    "Halliburton Company",
+    "Chubb Bermuda Insurance Ltd",
+    "Insurance Co.",
+    "Lloyd's Syndicate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

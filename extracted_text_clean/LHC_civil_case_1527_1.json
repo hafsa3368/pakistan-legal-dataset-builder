@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S-334 of 2022",
   "date_of_order": "19.05.2022",
   "judge": "Abrar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. G.M. Bhutto",
+    "Mr. Ghulam Akbar AAG",
+    "Mirza Farasat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

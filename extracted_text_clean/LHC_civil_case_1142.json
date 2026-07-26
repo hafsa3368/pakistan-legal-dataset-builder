@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No. D- 2560 of 2018",
   "date_of_order": "18.09.2019",
-  "judge": "",
+  "judge": "karar_hussain",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mumtaz Ahmed Lashari, advocate for petitioner",
+    "Mr. Allah Bachayo Soomro, Addl.A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

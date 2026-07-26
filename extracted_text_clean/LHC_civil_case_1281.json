@@ -9,9 +9,14 @@
   "case_number": "Criminal Bail Application No.D-60 of 2017",
   "date_of_order": "30.10.2017",
   "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tariq Ali Mirjat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

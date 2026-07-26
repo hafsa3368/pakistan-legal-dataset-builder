@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-2844 of 2025",
   "date_of_order": "04.12.2025",
-  "judge": "JUDGE Rafiq/PA",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro Mr",
+  "sections_cited": [
+    "u/s 93"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sanaullah Jan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

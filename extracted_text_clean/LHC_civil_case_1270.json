@@ -7,11 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1377 of 2023",
-  "date_of_order": "",
+  "date_of_order": "10-10-2023",
   "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 365-B PPC",
+    "u/s 161 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Fayyaz Ahmed Maitlo",
+    "Mr. Shafi Muhammad Mahar",
+    "Mr. Mehboob Ali Wassan",
+    "a/w SIP Khan Muhammad Dasti",
+    "Mr. Abdul Sami Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

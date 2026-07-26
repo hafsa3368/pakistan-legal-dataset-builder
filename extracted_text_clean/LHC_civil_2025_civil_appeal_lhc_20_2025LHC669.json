@@ -6,9 +6,9 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2014",
   "date_of_order": "25.02.2025",
-  "judge": "Sajjad APPROVED FOR REPORTING JUDGE",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "Section 20 of The Arbitration Act",
     "Section 20 of the Act",
@@ -20,7 +20,12 @@
     "1999 MLD 254",
     "PLD 2005 Karachi 670"
   ],
-  "parties": [],
+  "parties": [
+    "CHOUDHRY MUHAMMAD NISAR",
+    "WAQAR ALI KHAN",
+    "RAJA ABDUL WAHID",
+    "CH. FAZAL MUHAMMAD"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

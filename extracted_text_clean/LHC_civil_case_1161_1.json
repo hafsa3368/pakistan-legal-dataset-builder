@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
+  "date_of_order": "09.10.2010",
+  "judge": "Muhammad Iqbal Mahar",
   "sections_cited": [
     "Sections 302, 427, 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gulab Junti",
+    "Rastol Bux Soumro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

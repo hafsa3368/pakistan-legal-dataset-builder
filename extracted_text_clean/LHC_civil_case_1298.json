@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-142 of 2016",
   "date_of_order": "11.03.2016",
-  "judge": "",
+  "judge": "Karar",
   "sections_cited": [],
   "citations": [
     "2002 P.Cr.L.J. 292"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Meeral Shah, D.P.G.",
+    "Mr. Jawaid Chaudhary",
+    "Syed Meeral Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

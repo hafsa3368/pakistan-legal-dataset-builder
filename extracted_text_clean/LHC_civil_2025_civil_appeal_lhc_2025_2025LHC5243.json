@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "06.08.2025",
   "judge": "RAHEEL KAMRAN",
   "sections_cited": [
@@ -21,7 +21,10 @@
     "Section 34 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naeem Ullah",
+    "Chaudhary Zulifqar Ahmad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

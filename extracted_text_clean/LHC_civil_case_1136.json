@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1648 of 2020",
   "date_of_order": "24.05.2021",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 7"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tariq Mehmood",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

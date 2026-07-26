@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "C.R. No.507 of 2022",
   "date_of_order": "18.11.2025",
   "judge": "ANWAAR HUSSAIN",
   "sections_cited": [
@@ -16,7 +16,10 @@
     "2020 SCMR 2155",
     "PLD 2013 SC 255"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Muhammad Irshad Faiz",
+    "Khadim Hussain J"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

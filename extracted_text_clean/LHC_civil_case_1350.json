@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "Criminal Misc. Application No.1021 of 2024",
   "date_of_order": "18.12.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 22-A & 22-B CrPC",
+    "u/s 200 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Mr. Muhammad Shahzad Gujjar",
+    "the CTD Police Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

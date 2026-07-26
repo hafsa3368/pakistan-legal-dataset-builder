@@ -27,7 +27,11 @@
     "PLD 2012 SC 66",
     "PLD 2011 Lahore 423"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Afzal",
+    "Judge Family Court",
+    "Maryam Zahid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "21.04.2025",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "section 24 of the Act",
     "Section 14 and 18 of Act",
@@ -18,7 +18,10 @@
     "Section 124 of the Insurance Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Tufail Thakur",
+    "Asia Insurance Company Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

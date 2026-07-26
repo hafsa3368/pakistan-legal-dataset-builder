@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D – 1548 of 2023",
   "date_of_order": "15.05.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hafeez Bandhani, Advocate for petitioner",
+    "Mr. Muhammad Zohaib Azam Rajput, Advocate for respondent No.7",
+    "Mr. Khuda Bux Chohan, Advocate for respondent No.8",
+    "Mr. Zeeshan Haider Qureshi, Assistant Director (Law), ECP",
+    "Mr. Ahmed Ali Shahani, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

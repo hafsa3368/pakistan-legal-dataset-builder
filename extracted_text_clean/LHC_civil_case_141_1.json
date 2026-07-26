@@ -6,15 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1342 of 2022",
   "date_of_order": "24.11.2022",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 13",
     "Section 14 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sarfraz A. Akhund, Advocates for the petitioners",
+    "Mr. Ahmed Ali Shahani, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

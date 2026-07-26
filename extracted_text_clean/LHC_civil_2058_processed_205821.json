@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No.S-211 of 2023",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "01.11.2023",
+  "judge": "Nasim",
+  "sections_cited": [
+    "u/s 561-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Abbas Jatoi",
+    "The State & others",
+    "Mukhtiarkar (Revenue) Taluka Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

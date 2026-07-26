@@ -6,15 +6,23 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "19.06.2025",
   "judge": "Farhan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2020 SCMR 2155",
     "1981 SCMR 150"
   ],
-  "parties": [],
+  "parties": [
+    "Nasir Jabbar",
+    "Khalid Mahmood Akhtar (deceased) through his real father as his LR",
+    "M/s. Muhammad Yasir and Ikram ul Haq Sheikh, Advocates",
+    "M/s. Ajam Naz Malik, Shahbaz Ahmad Rajpoot, Ms. Sidra Shaikh and Ansa Mehnaz Satti, Advocates"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

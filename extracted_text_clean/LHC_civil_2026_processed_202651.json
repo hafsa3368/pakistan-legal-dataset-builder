@@ -8,8 +8,10 @@
   "num_chunks": 12,
   "case_number": "Civil Appeal No. 3860-3862 of 2020",
   "date_of_order": "04.05.2023",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Naimatullah Phulpoto Mr",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "1992 SCMR 1652",
     "2022 SCMR 694",
@@ -20,7 +22,30 @@
     "PLD 1962 SC 35",
     "PLD 2014 Balochistan 173"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan and others",
+    "Union Fabric Pvt. Ltd and another",
+    "M/s Younus Textile Mills Ltd",
+    "Nadeem Textile Mills Ltd & others",
+    "M/s Noor Processing",
+    "M/s Ganitex Industries",
+    "M/s Lakhani Silk Mills (Pvt) Ltd & others",
+    "M/s Asco International & others",
+    "M/s Ismail’s Knitworth & others",
+    "M/s Hafiz Tannery & others",
+    "M/s Al-Abbas Fabrics & others",
+    "Unique Weaving",
+    "Ishtiaq Textile Mills Ltd and others",
+    "Artistic Garments Ind (AGI Denim) Pvt Ltd",
+    "Vohra Tex and others",
+    "Adnan Textile Mills Pvt Ltd",
+    "Western Textile Industries Pvt. Ltd and Ors",
+    "Gul Ahmed Textile Mills Ltd and others",
+    "M/s New Fazale Rabi Dyeing & Ors",
+    "M/s Castle Ind",
+    "Al-Karam Towel Industry Pvt Ltd & Ors",
+    "M/s Yunus Textile"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

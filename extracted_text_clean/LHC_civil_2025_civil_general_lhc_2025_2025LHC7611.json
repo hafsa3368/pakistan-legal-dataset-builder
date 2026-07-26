@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Revision No. 48 of 2025",
   "date_of_order": "30.09.2025",
-  "judge": "Approved for Reporting Judge Rashid",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "sections 435 and 439 Cr.P.C",
     "section 173 Cr.P.C",
@@ -18,7 +18,11 @@
   "citations": [
     "2002 SCMR 468"
   ],
-  "parties": [],
+  "parties": [
+    "Kaneez Bibi",
+    "The State",
+    "Muhammad Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

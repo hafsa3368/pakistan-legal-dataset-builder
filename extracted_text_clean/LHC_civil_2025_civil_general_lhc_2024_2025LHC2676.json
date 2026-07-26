@@ -9,11 +9,17 @@
   "case_number": "W.P.No.6561 of 2024",
   "date_of_order": "16.04.2025",
   "judge": "Syed Ahsan Raza Kazmi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2012 SCMR 186"
   ],
-  "parties": [],
+  "parties": [
+    "Zain ul Abiden",
+    "Province of the Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

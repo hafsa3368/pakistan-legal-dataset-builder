@@ -9,7 +9,14 @@
   "case_number": "Constitution ought not",
   "date_of_order": "17.05.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "2016 CLC 1",
+    "2015 PLC 45",
+    "2015 CLD 257",
+    "2011 SCMR 1990",
+    "2001 SCMR 574",
+    "PLD 2001 Supreme Court 415"
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
@@ -17,7 +24,9 @@
     "PLD 2016 SC 581",
     "PLD 2001 Karachi 60"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Aamir Pervaiz Kayani, advocate for the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

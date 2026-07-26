@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 28,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "23.04.2025",
   "judge": "KHALID ISHAQ",
   "sections_cited": [
@@ -34,7 +34,12 @@
     "1992 SCMR 1199",
     "1996 SCMR 1239"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Hafeez",
+    "Muhammad Ramzan",
+    "17 others",
+    "Mst. Ishrat Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

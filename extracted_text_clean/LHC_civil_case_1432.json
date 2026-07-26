@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-260 of 2021",
   "date_of_order": "11.08.2025",
   "judge": "",
   "sections_cited": [
     "Section 115 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Saphooran",
+    "Asif & Others",
+    "Mr. Sohail Muhammad Leghari",
+    "Mr. Waseem Ahmed Phulphoto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

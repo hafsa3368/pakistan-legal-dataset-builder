@@ -26,7 +26,11 @@
     "PLD 2016 Lahore 101",
     "PLD 1973 Lahore 837"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Siddique",
+    "The State",
+    "Sipah-e-Sahaba Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

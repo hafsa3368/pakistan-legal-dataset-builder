@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-881 of 2024",
-  "date_of_order": "",
+  "date_of_order": "29-05-2024",
   "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arif Ali Abbasi, Advocate for petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

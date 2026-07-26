@@ -22,7 +22,11 @@
     "PLD 2010 SC 676",
     "PLD 2018 Lahore 435"
   ],
-  "parties": [],
+  "parties": [
+    "Sui Northern Gas Pipelines Ltd.",
+    "Waseem Majid Malik",
+    "Federal Government"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

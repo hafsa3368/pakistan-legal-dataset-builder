@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No.S-739 of 2023",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "07-12-2023",
+  "judge": "Nasim",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Surat Ram",
+    "SHO PS A-Section Sukkur & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

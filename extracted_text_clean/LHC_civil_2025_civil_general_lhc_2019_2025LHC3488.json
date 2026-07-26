@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "C.O.S. No. 55735 / 2022 & P.L.A. Nos. 67952, 66029, 75802 & 68570 of 2022",
   "date_of_order": "14.05.2025",
   "judge": "Abid Hussain Chattha",
   "sections_cited": [
@@ -17,7 +17,15 @@
     "Section 19 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The Bank of Punjab",
+    "M/s Hira Textile Mills Limited",
+    "Mr. Hasham Ahmad Khan",
+    "Mr. Isa Ahmad Jalil",
+    "Mr. Muhammad Imran Malik",
+    "Mr. Nawaz Asif",
+    "ABID HUSSAIN CHATTHA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

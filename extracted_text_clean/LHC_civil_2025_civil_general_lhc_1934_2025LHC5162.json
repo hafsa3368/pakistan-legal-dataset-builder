@@ -20,7 +20,10 @@
     "PLD 2023 Lahore 512",
     "PLD 2025 Peshawar 67"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman Faryad",
+    "Government of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

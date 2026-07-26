@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "criminal case. I do not",
   "date_of_order": "05.05.2025",
-  "judge": "",
+  "judge": "Muhammad Iqbal",
   "sections_cited": [
     "Section 489-F PPC"
   ],
@@ -20,7 +20,10 @@
     "2016 SCMR 24",
     "PLD 2024 SC 45"
   ],
-  "parties": [],
+  "parties": [
+    "Salamat Ali",
+    "Sabohi Naz Ch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

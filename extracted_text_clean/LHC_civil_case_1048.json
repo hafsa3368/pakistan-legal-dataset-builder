@@ -8,14 +8,21 @@
   "num_chunks": 8,
   "case_number": "Criminal Jail Appeal No.S-275-A of 2017",
   "date_of_order": "17.10.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 302",
     "section 544-A Cr.P.C",
     "section 342 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Salman",
+    "Imran",
+    "The State",
+    "Nazar Muhammad Memon A.P.G. Sindh",
+    "Complainant",
+    "Azizullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

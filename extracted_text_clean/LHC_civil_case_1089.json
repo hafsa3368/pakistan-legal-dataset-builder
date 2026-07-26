@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "H.C.A No.473 of 2024",
   "date_of_order": "04.02.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -17,7 +17,12 @@
     "section 49 of the Motor Vehicles Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The United Insurance of Company of Pakistan Limited",
+    "Province of Sindh and others",
+    "Mr. Ahmed Ali Hussain",
+    "Syed Hassan Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

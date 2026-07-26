@@ -9,12 +9,21 @@
   "case_number": "Criminal Accountability Acquittal Appeal No.11 of 2020",
   "date_of_order": "01.06.2023",
   "judge": "Naimatullah Phulpoto Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "The Land Acquisition Act, 1984",
+    "Colonization and Disposal of Government Lands (Sind) Act, 1912 (and its Rules 2005)"
+  ],
   "citations": [
     "1995 SCMR 635",
     "1998 SCMR 1281"
   ],
-  "parties": [],
+  "parties": [
+    "Chairman NAB through Mr. Muhammad Anwar Shaheen",
+    "Faisal Ahmed Uquaili",
+    "Mr. Justice Naimatullah Phulpoto",
+    "Mr. Justice Shamsuddin Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

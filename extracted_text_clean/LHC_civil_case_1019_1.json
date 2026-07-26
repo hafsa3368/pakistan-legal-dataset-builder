@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Bail Application No.1283 of 2025",
   "date_of_order": "23.06.2025",
-  "judge": "JUDGE Kamran/PS",
+  "judge": "Zafar Ahmed Rajput Mr",
   "sections_cited": [
     "Section 353, 324, 345 PPC",
     "Section 7"
@@ -19,7 +19,16 @@
     "PLD 1995 SC 1",
     "PLD 1986 SC 146"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Shabbirullah",
+    "Mati-ur-Rehman",
+    "Mr. Muhammad Asghar",
+    "Inspector Abid Hussain",
+    "Adnan",
+    "Ahmed Ali",
+    "Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

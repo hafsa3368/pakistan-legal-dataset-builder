@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Revision No.392-D of 2017",
   "date_of_order": "20.10.2025",
-  "judge": "Approved for reporting JUDGE Zeeshan",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "section 115 of the Code",
     "section 2",
@@ -28,7 +28,11 @@
     "2020 SCMR 445",
     "2012 SCMR 1387"
   ],
-  "parties": [],
+  "parties": [
+    "Munir Ahmed",
+    "Mst. Toheeda-tul-Hassan",
+    "Mirza Viqas Rauf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

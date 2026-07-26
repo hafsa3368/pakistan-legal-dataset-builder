@@ -6,12 +6,24 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D-562 of 2020",
   "date_of_order": "13.07.2020",
   "judge": "JUDGE Tufail",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 452, 365-B PPC",
+    "u/s 161 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ayaz Ali Gopang, Advocate",
+    "Inspector Manzoor Ali",
+    "SSP Hyderabad",
+    "I.O/ASI Muhammad Nawaz of P.S Naushahro Feroze",
+    "Mr. Masood Rasool Babar, Advocate",
+    "Learned Additional A.G.",
+    "PS Naushahro Feroze",
+    "Sho P.S Naushahro Feroze"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

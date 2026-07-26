@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr Jail Appeal No.816 of 2019 Confirmation Case No.34 of 2019",
   "date_of_order": "22.10.2020",
-  "judge": "JUDGE Abrar",
+  "judge": "Nazar Akbar Mr",
   "sections_cited": [
     "section 302/397/34",
     "section 302",
@@ -24,7 +24,10 @@
     "2015 SCMR 710",
     "2013 SCMR 1602"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Jamal S/o Abdul Rehman",
+    "The State, through Muhammad Iqbal Awan, DPG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

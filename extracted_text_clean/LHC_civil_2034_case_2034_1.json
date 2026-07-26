@@ -6,7 +6,7 @@
   "year": "2034",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.S-324 of 2018",
   "date_of_order": "30.07.2018",
   "judge": "Shahid",
   "sections_cited": [
@@ -18,7 +18,11 @@
     "2008 YLR 1462",
     "2017 P.Cr.L.J 721"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Sajjad Ahmed Chandio, Advocate",
+    "Mr. Omparkash H. Karmani, Advocate",
+    "Ms. Rameshan Oad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

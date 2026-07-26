@@ -8,7 +8,7 @@
   "num_chunks": 22,
   "case_number": "Constt. Petition No.D-",
   "date_of_order": "21.05.2024",
-  "judge": "",
+  "judge": "Aqeel Ahmed Abbasi",
   "sections_cited": [
     "section 26 of the Sindh Civil Servants Act",
     "section 5 of Sindh Civil Servants Act"
@@ -17,7 +17,16 @@
     "1995 SCMR 362",
     "PLD 1995 SC 423"
   ],
-  "parties": [],
+  "parties": [
+    "Mehboob Ali Channa",
+    "Aamir Ali",
+    "Suhail Muhammad Leghari",
+    "Province of Sindh",
+    "Saifullah",
+    "Deeba Ali Jaffri",
+    "Manzooran Gopang",
+    "Abdul Sattar Pathan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
+  "date_of_order": "16.01.2016",
+  "judge": "Justice",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nir. Abdul Qadeer Khan Bahadur, Advocate for the petitioner",
+    "Nar. Abdul Haneef Bhulwala, Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

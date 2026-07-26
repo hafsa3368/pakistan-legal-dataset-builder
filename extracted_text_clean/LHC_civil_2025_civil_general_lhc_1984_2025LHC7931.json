@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "10.12.2025",
   "judge": "RAHEEL KAMRAN",
   "sections_cited": [
@@ -14,7 +14,12 @@
     "Section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Razia Bibi",
+    "Addl. District Judge",
+    "Ch. Abdul Jabbar",
+    "Raheel Kamran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

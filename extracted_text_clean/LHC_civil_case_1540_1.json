@@ -6,14 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1678 of 2021",
   "date_of_order": "30.03.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 SCMR 406"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Arslan Khokhar, Advocate for the petitioners.",
+    "Mr. Khuda Bux Chohan, Advocate for respondents No.2 to 4.",
+    "Mr. Ali Raza Baloch, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

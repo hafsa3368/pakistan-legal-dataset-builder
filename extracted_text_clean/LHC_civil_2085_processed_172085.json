@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 332 of 2022",
   "date_of_order": "29.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 376 PPC",
     "section 382-B Cr.P.C",
     "Section 537 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shoukat Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

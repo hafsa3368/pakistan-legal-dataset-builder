@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "18.02.2026",
   "judge": "RAHEEL KAMRAN",
   "sections_cited": [
@@ -38,7 +38,12 @@
     "PLD 1971 SC 709",
     "PLD 2008 Lahore 146"
   ],
-  "parties": [],
+  "parties": [
+    "Noor Ahmad",
+    "The State",
+    "Mst. Humaira Shareef",
+    "Maria Razi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

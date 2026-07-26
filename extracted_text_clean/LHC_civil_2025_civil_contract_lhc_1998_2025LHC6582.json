@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-188 of 2016",
   "date_of_order": "24.09.2025",
   "judge": "Syed Ahsan Raza Kazmi",
   "sections_cited": [
@@ -34,7 +34,10 @@
     "PLD 1990 SC 859",
     "PLD 1984 SC 289"
   ],
-  "parties": [],
+  "parties": [
+    "Shamim Bibi",
+    "Niaz Ahmad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

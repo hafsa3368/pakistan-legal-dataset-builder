@@ -8,12 +8,16 @@
   "num_chunks": 5,
   "case_number": "misconduct comes to the notice",
   "date_of_order": "29.08.2019",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "section 15"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Dadex Eternit Ltd.",
+    "Muhammad Rashid",
+    "Chief Election Commissioner of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

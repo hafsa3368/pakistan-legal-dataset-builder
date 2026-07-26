@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2022",
   "date_of_order": "20.05.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Naeem",
+    "M/s. Bakri Trading Co.",
+    "Mr. Saqib ali Awan",
+    "Mr. M. Zahid Kabeer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

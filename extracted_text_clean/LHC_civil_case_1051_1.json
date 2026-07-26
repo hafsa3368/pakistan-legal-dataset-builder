@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-379 of 2018",
   "date_of_order": "18.04.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mr. Abdul Naeem Pirzada",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada, Advocate for the petitioner",
+    "Mr. Noor Hassan Malik, Assistant Advocate General Sindh along with SIP Mir Hashmat Ali on behalf of SSP Naushahro Feroze"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

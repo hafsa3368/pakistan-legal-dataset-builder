@@ -26,7 +26,10 @@
     "PLD 2022 Lahore 817",
     "PLD 2025 Lahore 630"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "Sheikh Rasheed Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

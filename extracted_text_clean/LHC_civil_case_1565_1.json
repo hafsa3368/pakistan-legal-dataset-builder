@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Misc. Application No. 368 of 2024",
   "date_of_order": "14.06.2024",
-  "judge": "",
+  "judge": "ZAFAR AHMED RAJPUT",
   "sections_cited": [
     "section 22-A",
     "section 154",
@@ -22,7 +22,12 @@
   "citations": [
     "PLD 2003 Lahore 228"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Naseem vs. SP, Complaint Cell Hyderabad and others",
+    "proposed accused No. 1",
+    "Hina",
+    "Muskan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

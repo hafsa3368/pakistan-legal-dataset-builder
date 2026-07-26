@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-3132 of 2024 C.P.No.D-2249 of 2024",
   "date_of_order": "14.05.2025",
   "judge": "JUDGE Hafiz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Ali Hussain",
+    "Syed Ahsan Ali Shah",
+    "Mr. Zaeem Hyder",
+    "Mr. Akhtar Hussain",
+    "Respondent No.4&5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

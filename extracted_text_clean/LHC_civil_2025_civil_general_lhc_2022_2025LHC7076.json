@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "05.11.2025",
   "judge": "MUHAMMAD JAWAD ZAFAR",
   "sections_cited": [
@@ -38,7 +38,14 @@
     "PLD 1997 Karachi 204",
     "PLD 2005 Lahore 470"
   ],
-  "parties": [],
+  "parties": [
+    "Khurram Khursheed",
+    "Ex-Officio Justice of Peace, etc.",
+    "Rao Jamshed Ali Khan",
+    "Mr. Bashir Ahmed Buzdar",
+    "AAG Mr. Khaliq uz Zaman",
+    "Mr. Fayyaz Mansab Sukhera"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

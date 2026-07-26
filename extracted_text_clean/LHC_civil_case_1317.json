@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CMA No.241/2024",
   "date_of_order": "17.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mirwah",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Tanveer Abbas Shah and Badaruddin Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

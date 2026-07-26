@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-",
   "date_of_order": "29.12.2020",
-  "judge": "",
+  "judge": "Ahmad",
   "sections_cited": [
     "Section 123 of the Sindh Local Government Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Pervaiz Ali Jatoi",
+    "Syed Shafqat Ali Shah",
+    "Ali Gulzar Qazi",
+    "Imtiaz Ali Soomro",
+    "Mr. Ahmed Ali Shahani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

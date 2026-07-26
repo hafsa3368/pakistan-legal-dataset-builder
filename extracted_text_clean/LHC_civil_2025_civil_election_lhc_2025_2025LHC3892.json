@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "HCJDA-38",
   "date_of_order": "18.02.2025",
   "judge": "Sultan Tanvir Ahmad",
   "sections_cited": [
@@ -21,7 +21,13 @@
     "2017 YLR 2019",
     "PLD 2019 Lahore 119"
   ],
-  "parties": [],
+  "parties": [
+    "Shahzad Nazir",
+    "Election Commission of Pakistan",
+    "Mr. Shamim-ur-Rehman Malik",
+    "Mr. Muhammad Imran Arif Ranjha",
+    "Raja Rashid Hafeez"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

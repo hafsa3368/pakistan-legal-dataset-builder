@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 20,
-  "case_number": "",
+  "case_number": "WRIT PETITION NO.1180 of 2022",
   "date_of_order": "16.04.2025",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -31,7 +31,16 @@
     "PLD 2020 Sindh 616",
     "PLD 2013 Lahore 343"
   ],
-  "parties": [],
+  "parties": [
+    "RAHIL BUTT and 21 others",
+    "THE FEDERATION OF PAKISTAN Through Secretary Establishment Division, Islamabad and 114 others",
+    "Mr. S.A. Mahmood Khan Saddozai",
+    "Mr. Zain Mansoor",
+    "M/s Abdul Rahim Bhatti",
+    "Yasser Rahim Bhatti",
+    "Qaiser Rahim Bhatti",
+    "MIRZA VIQAS RAUF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

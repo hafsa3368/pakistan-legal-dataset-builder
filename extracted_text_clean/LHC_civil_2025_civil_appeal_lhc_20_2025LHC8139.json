@@ -6,16 +6,22 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "F.A.O. No. 81 of 2025",
   "date_of_order": "17.06.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Fahim Ahmed Saeed",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2025 MLD 1973",
     "2024 MLD 32",
     "PLD 2019 Lahore 407"
   ],
-  "parties": [],
+  "parties": [
+    "Appellants",
+    "Mian Humayun Mahmud and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

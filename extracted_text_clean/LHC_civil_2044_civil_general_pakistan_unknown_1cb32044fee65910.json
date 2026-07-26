@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Constitution ncither under the Constitution nor",
   "date_of_order": "26.07.2014",
-  "judge": "",
+  "judge": "Justice Afridi, CJ",
   "sections_cited": [
     "section 2b",
     "section 254 of the Family Cuurts Act",
@@ -20,7 +20,10 @@
     "section 4A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst Sidra Hamteed CIC",
+    "Abaul Muteer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

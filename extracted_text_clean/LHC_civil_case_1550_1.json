@@ -8,13 +8,20 @@
   "num_chunks": 1,
   "case_number": "Criminal Pre- Arrest Bail Application No.127/2023",
   "date_of_order": "27.03.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 457, 380, 215, 506/2",
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Gohar",
+    "Saeed",
+    "Umed Ali",
+    "Gul Hassan",
+    "Mr. Rukhsar Ahmed M. Junejo",
+    "Mr. Shafi Muhammad Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

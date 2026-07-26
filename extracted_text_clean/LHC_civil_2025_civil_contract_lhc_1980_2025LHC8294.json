@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-990 of 2014",
   "date_of_order": "16.12.2025",
   "judge": "",
   "sections_cited": [
@@ -21,7 +21,10 @@
     "2004 SCMR 1668",
     "2020 SCMR 2046"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Shabbir",
+    "Barkat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

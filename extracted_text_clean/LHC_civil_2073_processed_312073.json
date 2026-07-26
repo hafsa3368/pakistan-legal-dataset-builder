@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Bail Application No.477 of 2026",
   "date_of_order": "06.03.2026",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 324, 109, 34, 302",
     "Section 302",
@@ -19,7 +19,10 @@
   "citations": [
     "2023 SCMR 1421"
   ],
-  "parties": [],
+  "parties": [
+    "Aajid Hussain son of Sabir Hussain",
+    "Mst. Saira Tufail daughter of Tufail Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-439 of 2022",
   "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Nasim",
+  "sections_cited": [
+    "u/s 561-A Cr.P.C",
+    "u/s 302, 337A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Hassan Kharose and another",
+    "The State and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

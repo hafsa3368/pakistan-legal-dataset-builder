@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Transfer Application No.70 of 2025",
   "date_of_order": "10.03.2026",
-  "judge": "",
+  "judge": "Abrar",
   "sections_cited": [
     "Sections 302/34"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Yaseen S/o Ashiq Ali",
+    "respondent No.2",
+    "respondent No.3",
+    "applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

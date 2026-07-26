@@ -9,9 +9,17 @@
   "case_number": "Crl Bail Appln No.D-20",
   "date_of_order": "14.07.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 384-6",
+    "Anu Terroriam Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nisar Ahmed",
+    "Khair Muhammad Bhutto",
+    "Niaz Hussain Bhutto",
+    "Moula Bux Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

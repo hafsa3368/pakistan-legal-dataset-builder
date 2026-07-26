@@ -7,11 +7,16 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "Constitutional Petition No D1",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "09.05.2019",
+  "judge": "Justice Mahamuad Iabul Kathoru",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nawab Khohanu",
+    "Province of Sindh through Its the Deputy Commissioner District Matiari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

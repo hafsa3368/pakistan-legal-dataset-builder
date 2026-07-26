@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "civil Petition No.3rz",
-  "date_of_order": "",
+  "date_of_order": "09.09.2022",
   "judge": "JUDGE",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zarai Tarqiati Bank Limited through Mr. Faheem Majeed Memon, advocate",
+    "Federation of Pakistan through Mr. Aamir Bhutto DAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

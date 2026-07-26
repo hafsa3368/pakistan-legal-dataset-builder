@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1153 of 2015",
   "date_of_order": "25.01.2016",
-  "judge": "",
+  "judge": "Karar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ch. Bashir Ahmed Asstt. A.G.",
+    "SIP Shafi Bangash",
+    "SSP Hyderabad and ASI Asghar Jamali",
+    "Mr. Muhammad Ramzan Chandio",
+    "Mr. Safar Khokhar Junior Partner of Mr. Muhammad Ramzan Chandio",
+    "Mr. Mumtaz Lashari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

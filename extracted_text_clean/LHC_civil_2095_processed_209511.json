@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No. D-1923 of 2017",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "18-01-2024",
+  "judge": "Nasim",
+  "sections_cited": [
+    "Article 25 of the Constitution of Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Israr Ahmed & others Vs. Government of Pakistan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

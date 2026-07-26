@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "HCA No.194 of 2020",
   "date_of_order": "16.04.2025",
-  "judge": "JUDGE Imran",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zeeshan Pervez",
+    "Muhammad Nasir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

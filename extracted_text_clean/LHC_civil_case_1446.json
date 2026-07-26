@@ -6,16 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "26.11.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1993 SCMR 1996",
     "PLD 1981 Kar 277",
     "PLD 2013 Sindh 80"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Irfanullah Khan & Lubna Aman",
+    "Mr. Adil Channa"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

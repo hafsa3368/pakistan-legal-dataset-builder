@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "civil suit No.161/2016",
   "date_of_order": "19.09.2024",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 6 of the Act",
     "Section 6 of the Act",
@@ -26,7 +26,10 @@
     "PLD 2015 SC 401",
     "PLD 1973 SC 49"
   ],
-  "parties": [],
+  "parties": [
+    "Salahuddin Ahmed",
+    "Khurram Sultan Abbasi & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

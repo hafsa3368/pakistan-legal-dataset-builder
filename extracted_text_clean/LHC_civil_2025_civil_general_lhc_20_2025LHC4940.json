@@ -31,7 +31,11 @@
     "PLD 1988 SC 370",
     "PLD 2023 SC 378"
   ],
-  "parties": [],
+  "parties": [
+    "Gharibwal Cement Limited",
+    "The Province of Punjab",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

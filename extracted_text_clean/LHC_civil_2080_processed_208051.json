@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No. S-909 of 2023",
-  "date_of_order": "",
+  "date_of_order": "14-12-2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Roshan Ali Jiskani",
+    "SHO PS Rohri & others",
+    "Mr. Abdul Sattar Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

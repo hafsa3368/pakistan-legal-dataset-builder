@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "05.10.2020",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
@@ -15,7 +15,10 @@
     "section 6"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Salman",
+    "Mohsin Ali Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

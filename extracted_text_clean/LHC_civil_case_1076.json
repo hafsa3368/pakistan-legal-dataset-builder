@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "9 C 80 81 &496 600 2.",
   "date_of_order": "",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    ""
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-2047 of 2019",
   "date_of_order": "12.09.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Allah Bachayo Soomro, Addl.A.G.",
+    "Insp. Sohail Sarwar Jamali for SSP Hyderabad",
+    "ASI Ghulam Shabbir Magsi for SHO PS Tando Jam",
+    "ASi Muhammad Yaqoob Soomro, PS Naushahro Feroze"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

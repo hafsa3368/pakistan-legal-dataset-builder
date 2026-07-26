@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D - 465 of 2022",
   "date_of_order": "29.05.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Ali Bozdar",
+    "Mr. Achar Khan Gabol",
+    "Mr. Ghulam Abbas Akhtar",
+    "Pakistan Railways",
+    "Dareshani Ali Haider ‘Ada’"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

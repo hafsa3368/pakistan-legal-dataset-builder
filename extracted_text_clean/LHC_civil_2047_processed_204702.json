@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-584 of 2022",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "31.10.2023",
+  "judge": "Nasim",
+  "sections_cited": [
+    "u/s 561-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wahabuddin and another",
+    "SHO PS Rohri & others",
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Khan Muhammad Sangi",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

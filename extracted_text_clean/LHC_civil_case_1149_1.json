@@ -6,15 +6,19 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
+  "date_of_order": "22.06.2026",
   "judge": "",
   "sections_cited": [
     "section 304, 324, 342, 337",
     "Section 67"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aliaf Hussain Surahiyo",
+    "Gul Bahar alias Behari",
+    "Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

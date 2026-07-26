@@ -6,12 +6,17 @@
   "year": "2082",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D – 1048 of 2022",
   "date_of_order": "30.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ali Bozdar, Advocate for petitioner",
+    "Mr. Zulfiqar Ali Naich, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

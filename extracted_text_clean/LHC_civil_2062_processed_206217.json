@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No.S-397 of 2023",
-  "date_of_order": "",
+  "date_of_order": "27-11-2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ameer Hamza & others",
+    "The State & others",
+    "private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

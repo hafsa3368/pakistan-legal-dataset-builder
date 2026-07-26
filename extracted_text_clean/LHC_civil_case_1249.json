@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-665 of 2020",
   "date_of_order": "08.12.2021",
   "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sachal R. Awan",
+    "Mr. Wali Muhammad Jamari",
+    "Agha Iftikhar H. Tareen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Crl. Jail Appeal No.D-112 of 2022",
   "date_of_order": "4th September, 2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "sections 302, 311 & 114 PPC",
     "sections 302 & 311 PPC",
@@ -19,7 +19,11 @@
     "section 311 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wakeel Ahmed Kandhro",
+    "Jamaluddin Kandhro",
+    "Mst. Shahul"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

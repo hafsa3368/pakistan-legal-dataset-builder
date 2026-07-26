@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D-1704 of 2015",
   "date_of_order": "03.02.2016",
-  "judge": "",
+  "judge": "Karar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Katcha Peshi",
+    "Mr. Ali Zaman Khan Patoli",
+    "Mr. Muhammad Aslam Bhatti",
+    "Deputy Manager SSGC Legal Services Department, Hyderabad",
+    "Mr. Anwar H. Ansari",
+    "Mr. Zulfiqar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

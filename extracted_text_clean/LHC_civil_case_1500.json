@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1006 of 2022",
   "date_of_order": "21.12.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Israr Ahmed Shah, Advocate for the petitioner",
+    "Mr. Khuda Bux Chohan, Advocate for respondent No.9 & 10",
+    "Mr. Dareshani Ali Haider ‘Ada’, Advocate for the intervenor",
+    "Mr. Noor Hassan Malik, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

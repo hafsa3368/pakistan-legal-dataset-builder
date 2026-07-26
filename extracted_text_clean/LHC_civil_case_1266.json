@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-32 of 2025",
   "date_of_order": "28.04.2025",
   "judge": "",
   "sections_cited": [
     "section 7"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Daud Narejo, a/w Zeeshan Asad, Advocate",
+    "Mr. Ali Haider Saleem, APG.",
+    "Mr. Mukesh Kumar Khatri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

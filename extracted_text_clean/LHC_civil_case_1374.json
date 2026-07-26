@@ -7,13 +7,25 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No.S-",
-  "date_of_order": "",
+  "date_of_order": "21-08-2023",
   "judge": "Ahmad",
   "sections_cited": [
     "Sections 324, 504, 337A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ameenuddin Khaskheli, Advocate along with applicants",
+    "Photo",
+    "Muhammad Ismail",
+    "Hidayatullah",
+    "Manthar Ali",
+    "Manzoor",
+    "Khamiso",
+    "Saleem",
+    "Raja alias Shahid",
+    "Shamsuddin",
+    "Soomar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

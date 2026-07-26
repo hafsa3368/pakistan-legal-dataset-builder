@@ -9,9 +9,14 @@
   "case_number": "Civil Appeals Nos",
   "date_of_order": "03.09.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Allah Bachayo Soomro, Addl.A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

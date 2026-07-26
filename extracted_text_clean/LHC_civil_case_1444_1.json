@@ -6,12 +6,25 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 88 of 2020",
   "date_of_order": "07.10.2020",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Mohiuddin Sheikh",
+    "Sara Khatoon",
+    "Azra Begum",
+    "Saleem-ud-din",
+    "Kaneez Ayesha",
+    "Muhammad Imran- ud-din Sheikh",
+    "Asma Nasir",
+    "Kaneez Amna",
+    "Erum Hasan",
+    "Inam Sheikh",
+    "Altaf-ur-Rehman",
+    "Ahsan Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

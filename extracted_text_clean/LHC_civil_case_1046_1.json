@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "D- 1034 of 2022 / S- 186 of 2022",
+  "date_of_order": "05.01.2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [
     "Section 365-B PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khalil Ahmed Maitlo, Deputy P.G for the State",
+    "Liaquat Ali, P.S, Lakhi Ghulam Shah ad Inspector Sikandar Ali on behalf of SSP, Sukkur",
+    "SIP-Liaquat Ali Napar, SHO & I.O Lakhi Ghula Shah (respondent No.3)",
+    "Lakhi Ghulam Shah",
+    "SSP, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

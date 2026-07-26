@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Service Appeal No.09 of 2022",
   "date_of_order": "07.03.2025",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [],
@@ -27,7 +27,12 @@
     "2005 SCMR 678",
     "PLD 2012 Lahore 515"
   ],
-  "parties": [],
+  "parties": [
+    "Faisal Rehman Raheem",
+    "The Competent Authority of Lahore High Court",
+    "Qazi Muhammad Arshad Bhatti",
+    "Mr. Muhammad Momin Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

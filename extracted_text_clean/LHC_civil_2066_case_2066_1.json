@@ -6,12 +6,20 @@
   "year": "2066",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr Boil AppIn 572/2017 Dqie Order witn signature of Hon ble Judge | For order On office objection 0s flog 2.FO[ OICEIS 0n M.A No, 4103/20|7 3.F0[ 0rdErs 0n MA No. 4104/2017",
   "date_of_order": "24.11.2017",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "ACE KoriDer Shondcdkon Leumeo"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Skkonder Ali Shoh",
+    "police",
+    "Hirni solverit"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

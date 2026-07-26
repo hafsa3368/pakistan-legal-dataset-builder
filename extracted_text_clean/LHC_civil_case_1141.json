@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-679 of 2023",
-  "date_of_order": "",
+  "date_of_order": "13-03-2024",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Qayoom Arain",
+    "Mr. Dareshani Ali Haider ‘Ada’",
+    "Mr. Khuda Bux Chohan",
+    "Mr. Ghulam Abbas Akhtar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

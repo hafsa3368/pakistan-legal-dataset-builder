@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2025",
   "date_of_order": "09.12.2025",
   "judge": "Abid Hussain Chattha",
   "sections_cited": [
@@ -26,7 +26,12 @@
     "2013 SCMR 1419",
     "2014 MLD 192"
   ],
-  "parties": [],
+  "parties": [
+    "The Bank of Punjab",
+    "M/s Agri International etc.",
+    "Syed Muhammad Kaswar Gardezi, Advocate",
+    "Mr. Mughees Aslam Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

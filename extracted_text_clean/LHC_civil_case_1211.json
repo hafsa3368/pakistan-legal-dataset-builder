@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P N.D- 295 of 2023",
   "date_of_order": "17.08.2023",
-  "judge": "",
+  "judge": "ARBROHI",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

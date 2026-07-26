@@ -6,12 +6,16 @@
   "year": "2069",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.S- 498 of 2014",
   "date_of_order": "07.07.2014",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Inderjeet Lohano",
+    "SSP, Hyderabad",
+    "SHO Naseem Nagar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

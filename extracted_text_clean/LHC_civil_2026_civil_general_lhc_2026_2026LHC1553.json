@@ -9,7 +9,10 @@
   "case_number": "civil revision preferred by respondent No.1",
   "date_of_order": "26.02.2026",
   "judge": "RAHEEL KAMRAN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2005 SCMR 152",
     "2016 SCMR 1",
@@ -19,7 +22,11 @@
     "PLD 1992 SC 96",
     "PLD 1963 SC 382"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Arif Ch.",
+    "Syed Ulfat Hussain Mashhadi",
+    "Syed Muhammad Ali Abdullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

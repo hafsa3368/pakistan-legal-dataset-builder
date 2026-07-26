@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.S-806 of 2021",
   "date_of_order": "15.11.2021",
   "judge": "Shahid",
   "sections_cited": [
     "Section 337-L"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD IQBAL KALHORO",
+    "Mst. Fouzia"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

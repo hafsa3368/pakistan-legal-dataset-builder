@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Writ Petition No.32312 of 2025",
   "date_of_order": "27.05.2025",
   "judge": "Syed Shahbaz Ali Rizvi",
   "sections_cited": [
@@ -20,7 +20,10 @@
     "Sections 342 & 506 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Azhar Fazal",
+    "ASJ"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

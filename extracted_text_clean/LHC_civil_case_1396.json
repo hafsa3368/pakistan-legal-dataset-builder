@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2015",
   "date_of_order": "27.01.2016",
-  "judge": "",
+  "judge": "Karar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imamuddin Otho, Advocate for petitioners",
+    "Mr. Sher Muhammad Leghari, State Counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

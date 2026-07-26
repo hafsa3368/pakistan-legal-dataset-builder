@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.S-151 of 2022",
   "date_of_order": "",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ali Dayo",
+    "Mr. Noor Hassan Malik",
+    "Mr. Sardar Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

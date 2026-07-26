@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl No.1093 of 2019 Cr.Bail Appl No.1094 of 2019 Cr.Bail Appl No.1095 of 2019",
   "date_of_order": "18.10.2019",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 7"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Zareen Satti Advocate",
+    "Mr. Abrar Ali Khichi, Additional Prosecutor General Sindh",
+    "Police Station Ibrahim Haideri, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

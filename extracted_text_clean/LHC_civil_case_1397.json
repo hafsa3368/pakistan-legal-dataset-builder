@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Misc. Application No. 1720 of 2018",
   "date_of_order": "26.12.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "karar_hussain",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "PLD 2019 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Hassan Chang",
+    "Mr. Muhammad Hanif Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

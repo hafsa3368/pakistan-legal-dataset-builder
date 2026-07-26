@@ -6,14 +6,20 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "C.R. No.981-D of 2024",
   "date_of_order": "03.02.2026",
   "judge": "ANWAAR HUSSAIN",
   "sections_cited": [],
   "citations": [
     "2004 SCMR 1370"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Sapiyan (deceased)",
+    "Abdul Khaliq J",
+    "Mr. Muhammad Mudassar Hassan Sumra",
+    "Mr. Muhammad Nadeem Farid",
+    "Anwaar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

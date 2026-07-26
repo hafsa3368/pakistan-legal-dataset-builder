@@ -6,10 +6,12 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "F.R.A. No.48 of 2023",
   "date_of_order": "23.12.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2001 SCMR 1434",
     "2010 SCMR 1443",
@@ -21,7 +23,10 @@
     "PLD 2015 Sindh 451",
     "PLD 2003 Karachi 444"
   ],
-  "parties": [],
+  "parties": [
+    "Rehman Dino",
+    "Mst. Fehmida"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

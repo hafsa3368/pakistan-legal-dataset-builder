@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Crl. Bail A. No.S-287 of 2021",
   "date_of_order": "09.08.2021",
-  "judge": "",
+  "judge": "ZAFAR AHMED RAJPUT",
   "sections_cited": [
     "Sections 302, 324, 148, 149, 337H"
   ],
@@ -21,7 +21,10 @@
     "2008 P.Cr.LJ 1201",
     "2014 P.Cr.LJ 1415"
   ],
-  "parties": [],
+  "parties": [
+    "Sher Muhammad",
+    "Abdul Hameed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

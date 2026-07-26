@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Transfer App. No. S-34 of 2023",
   "date_of_order": "22.05.2023",
-  "judge": "",
+  "judge": "Mr. Shabbir Ali Bozdar",
   "sections_cited": [
     "Sections 302, 324, 114, 504, 148, 149, 337-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ali Bozdar, Advocate for the applicant",
+    "Mr. Abdul Baqi Jan Kakar, Advocate for respondent No.2",
+    "Mr. Imran Mobeen Khan, Assistant Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

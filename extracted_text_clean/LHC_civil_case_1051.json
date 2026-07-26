@@ -9,9 +9,18 @@
   "case_number": "Civil Suit bearing No.122 of 2020",
   "date_of_order": "22.09.2022",
   "judge": "HANIF",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farhat Rashid",
+    "Controller of Rent",
+    "M/s. Logistica Pakistan",
+    "Rafiq Ahmed Kalwar",
+    "Haider Waheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

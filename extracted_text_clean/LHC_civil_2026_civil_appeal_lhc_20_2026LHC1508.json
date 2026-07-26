@@ -8,8 +8,10 @@
   "num_chunks": 10,
   "case_number": "W.P.No. 13761 of 2026",
   "date_of_order": "04.03.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Malik Haq Nawaz",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2004 SCMR 1111",
     "2018 MLD 959",
@@ -17,7 +19,9 @@
     "PLD 1964 SC 329",
     "PLD 1975 Lahore 492"
   ],
-  "parties": [],
+  "parties": [
+    "Asif Ali Vs. Amjad Ali (deceased) through legal heirs, etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

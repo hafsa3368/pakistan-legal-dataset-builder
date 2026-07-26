@@ -7,15 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No.S-351 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "06-11-2023",
+  "judge": "Nasim",
   "sections_cited": [
     "Section 498-A Cr.P.C"
   ],
   "citations": [
     "1986 SCMR 1380"
   ],
-  "parties": [],
+  "parties": [
+    "Zaheer Abbas Lashari Vs. The State",
+    "Mst. Faizan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

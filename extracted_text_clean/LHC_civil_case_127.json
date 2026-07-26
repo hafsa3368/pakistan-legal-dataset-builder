@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.S-1093 of 2021",
   "date_of_order": "13.12.2021",
   "judge": "Shahid",
   "sections_cited": [
@@ -14,7 +14,13 @@
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Muhammad",
+    "Mr. Ayazuddin Samoon",
+    "Mr. Gulab Khan Qaimkhani",
+    "Nazar Muhammad Memon",
+    "MUHAMMAD IQBAL KALHORO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

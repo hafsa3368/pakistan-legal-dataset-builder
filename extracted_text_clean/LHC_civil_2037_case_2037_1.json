@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No. 1150 of 2023",
   "date_of_order": "11.06.2024",
-  "judge": "",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "Section 324, 506",
     "section 324",
@@ -23,7 +23,14 @@
     "2020 SCMR 1278",
     "PLD 1995 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Razzak s/o Jean Khan",
+    "Nadir Ali",
+    "Ghulam Hussain",
+    "Muhammad Nasir",
+    "The State",
+    "Mst. Farah w/o Nadir Ali d/o Muhammad Yasir Meo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

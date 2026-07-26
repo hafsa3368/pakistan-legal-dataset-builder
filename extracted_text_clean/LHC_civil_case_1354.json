@@ -8,10 +8,12 @@
   "num_chunks": 1,
   "case_number": "Civil Revision No. S",
   "date_of_order": "22.04.2024",
-  "judge": "",
+  "judge": "ARBROHI",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

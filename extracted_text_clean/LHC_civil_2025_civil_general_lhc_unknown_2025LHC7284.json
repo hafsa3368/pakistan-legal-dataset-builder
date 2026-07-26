@@ -7,8 +7,8 @@
   "used_ocr": true,
   "num_chunks": 13,
   "case_number": "Criminal Appeal No. 551",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "07.03.2016",
+  "judge": "Shect",
   "sections_cited": [
     "Section 324, 33u٠B",
     "Section 173",
@@ -22,7 +22,14 @@
     "Section 336-B"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amna Javed Hashmi",
+    "Mr Ansar Yaseen",
+    "Deputy Prosecutor General",
+    "Rara Muhamiad Asif Sueel",
+    "Liaqat Ali",
+    "Muhammad Shahid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 294 of 2019",
   "date_of_order": "23.12.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Athar Zai",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Mehmooda Haider Khataw",
+    "Ghulm Ali Muhammad Jaffar A",
+    "Mst. Nargis M. Jaffer",
+    "Mst. Sukain F. A. Hussain",
+    "Mst. Zehra Fahmid Rashid",
+    "Haider Khataw s/o. Qasim Ali Khataw",
+    "Zubair Ahmed s/o. Hassan Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

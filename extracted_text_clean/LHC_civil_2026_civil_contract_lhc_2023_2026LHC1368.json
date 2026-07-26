@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "F.A.O. No. 975 of 2025",
   "date_of_order": "23.02.2026",
   "judge": "Abid Hussain Chattha",
   "sections_cited": [
@@ -22,7 +22,10 @@
     "PLD 2021 Lahore 713",
     "PLD 2010 Lahore 95"
   ],
-  "parties": [],
+  "parties": [
+    "Lucky Motor Corporation Limited",
+    "Muhammad Akmal Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

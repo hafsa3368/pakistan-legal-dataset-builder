@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Civil Judge instead of High Court. But since now",
   "date_of_order": "07.10.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Nasir",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Umair Usman, Shahmir Memon and Areeba Maqbool",
+    "Mr. Mayhar Kazi",
+    "MUHAMMAD IQBAL KALHORO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

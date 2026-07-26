@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-2682 of 2025",
   "date_of_order": "27.11.2025",
-  "judge": "",
+  "judge": "Rafiq",
   "sections_cited": [
     "Section 17"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Akhtar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "Const Felition No D",
   "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Justice (Retd) Mian Azmat Sultan Khan Khokhar",
+  "sections_cited": [
+    "Section 397 CrPC",
+    "Section 202 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Naushad Ali Tagar",
+    "Mr Nisar Ahmed G Abro",
+    "Muhammad Sulleman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

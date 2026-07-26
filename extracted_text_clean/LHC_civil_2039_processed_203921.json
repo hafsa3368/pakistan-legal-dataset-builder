@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-447 of 2023",
-  "date_of_order": "",
+  "date_of_order": "16.10.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Shabbir Ali Bozdar and Rana Sajid Ali advocates",
+    "Mr. Anwr Ali Lohar, advocate for the complainant",
+    "Syed Sardar Ali Shah Rizve, Additional P.G for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

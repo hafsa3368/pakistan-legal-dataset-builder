@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "W. P. No. 43188 of 2023",
   "date_of_order": "28.11.2025",
   "judge": "Faisal Zaman Khan",
   "sections_cited": [
@@ -25,7 +25,12 @@
     "2002 SCMR 371",
     "1998 SCMR 1593"
   ],
-  "parties": [],
+  "parties": [
+    "Sayed Arshad Shah etc.",
+    "Addl. District Judge etc.",
+    "Ch. Ali Hassan Jajja, Advocate",
+    "Mr. Shoaib Akram Bhalli, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "D-6419 of 2020",
   "date_of_order": "22.12.2021",
   "judge": "JUDGE Athar Zai",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 151"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Waseem Akhtar",
+    "Syed Mubarak Ali Shah",
+    "K.D.A."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

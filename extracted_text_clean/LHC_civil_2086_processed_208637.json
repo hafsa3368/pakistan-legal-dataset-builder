@@ -6,12 +6,15 @@
   "year": "2086",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "Election Appeal No.S-34 of 2024",
+  "date_of_order": "09-01-2024",
+  "judge": "Mr. Justice Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Safeeullah Mirani",
+    "Federation of Pakistan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

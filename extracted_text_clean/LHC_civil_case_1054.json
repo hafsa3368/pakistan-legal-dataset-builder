@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.B.A.No.S-327 of 2015",
+  "date_of_order": "24.11.2016",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Abdul Hamid Bhurgri",
+    "Fur Katcha Peshi Mohammad Afzal Jagirani",
+    "ASI Manzoor Ahmed Domki",
+    "Mr Nisar Ahmed G Abro DAG",
+    "No.9"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

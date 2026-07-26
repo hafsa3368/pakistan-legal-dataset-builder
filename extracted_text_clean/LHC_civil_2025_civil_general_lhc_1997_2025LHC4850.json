@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Constitution cannot",
   "date_of_order": "08.07.2025",
-  "judge": "APPROVED FOR REPORTING JUDGE",
+  "judge": "MALIK WAQAR HAIDER AWAN",
   "sections_cited": [],
   "citations": [
     "1998 CLC 61",
@@ -27,7 +27,10 @@
     "PLD 1999 Lahore 1",
     "PLD 2003 Karachi 477"
   ],
-  "parties": [],
+  "parties": [
+    "Arshad Iqbal Rana",
+    "Salman Sajjad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

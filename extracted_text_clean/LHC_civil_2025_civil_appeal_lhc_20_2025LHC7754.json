@@ -9,7 +9,10 @@
   "case_number": "W.P. No. 75498 of 2025",
   "date_of_order": "18.12.2025",
   "judge": "Muzamil Akhtar Shabir",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 1",
     "1995 SCMR 991",
@@ -18,7 +21,24 @@
     "PLD 1970 SC 139",
     "PLD 2022 Sindh 135"
   ],
-  "parties": [],
+  "parties": [
+    "Kaneez Begum",
+    "Addl. District Judge, etc.",
+    "Mr. Mohammad Osman Khan",
+    "Ch. Muhammad Naseer Kamboh",
+    "Syed Ali Allow-u- Din",
+    "Ms. Sadia Malik",
+    "Syed Sabahat Hussain Hamdani",
+    "Syed Imran Ehsan",
+    "Ch. Imtiazullah Warraich",
+    "Sh. Waseem Ahmed",
+    "Aitzaz Aslam Chaudhry",
+    "Syed Muhammad Haider Kazmi",
+    "Mirza Sheharyar Farhan Baig",
+    "Dr. Muhammad Azeem Raja",
+    "Ms. Zarish Fatima",
+    "Mir Haroon-ur-Rasheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

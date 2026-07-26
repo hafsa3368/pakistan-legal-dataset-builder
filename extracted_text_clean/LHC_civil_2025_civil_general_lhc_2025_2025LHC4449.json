@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "W.P. No.7256 of 2025",
   "date_of_order": "26.06.2025",
-  "judge": "",
+  "judge": "Ch. Sultan Mahmood",
   "sections_cited": [
     "Section 16 of Punjab Civil Administration Act"
   ],
@@ -20,7 +20,11 @@
     "PLD 1994 Lahore 15",
     "PLD 2020 Lahore 355"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Nazir Hussain Shah",
+    "Deputy Commissioner, etc.",
+    "Hussain S.I. Rana Muhammad Ashraf Jameel & Syed Athar Hassan Bukhari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

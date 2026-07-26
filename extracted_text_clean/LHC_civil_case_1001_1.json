@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No. 871 & 890 of 2023",
   "date_of_order": "13.06.2023",
   "judge": "Athar Zai",
   "sections_cited": [
@@ -15,7 +15,12 @@
     "section 149"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Hadi s/o. Anwar Ali",
+    "Tahir Ali Khan s/o. Shoukat Ali Khan",
+    "The State",
+    "Mrs. Shagufta @ Abiha w/o. Muhammad Javed Ayubi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

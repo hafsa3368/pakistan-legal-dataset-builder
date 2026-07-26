@@ -6,10 +6,13 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "25.09.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ch Muhammad Iqbal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 14",
     "2011 SCMR 837",
@@ -23,7 +26,10 @@
     "PLD 2000 Lahore 385",
     "PLD 2010 SC 604"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Ghulam Rasool & Company (Pvt.) Limited",
+    "The Pakistan Water and Power Development Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

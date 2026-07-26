@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 22,
-  "case_number": "",
+  "case_number": "Office Objection No.10 of 2026",
   "date_of_order": "16.01.2026",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -24,7 +24,18 @@
   "citations": [
     "1983 SCMR 133"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Nazeeran Mai",
+    "Muhammad Mumtaz",
+    "Mr. Ashfaq Hussain Bhatti",
+    "Rana Ghulam Hussain",
+    "Mr. Musleh ud Din Khan",
+    "Malik Muhammad Bakhsh Khakhi",
+    "Syed Faiz-ul-Hassan",
+    "Nasr Ullah Khan Niazi",
+    "Masoom Usmani",
+    "Imran Asghar Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

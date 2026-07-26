@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "Spl. HCA No. 51 of 2018",
   "date_of_order": "10.09.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -35,7 +35,15 @@
     "2018 SCMR 762",
     "2003 SCMR 318"
   ],
-  "parties": [],
+  "parties": [
+    "Haji Abdul Razzak (deceased) through legal heirs",
+    "MCB Bank Limited",
+    "Mr. Asim Mansoor Khan, Advocate",
+    "Zeeshan Bashir Khan, Advocate",
+    "Mr. Salman Aslam Butt, Advocate",
+    "M. Shoaib Rashid, Advocate",
+    "Shahid Iqbal Rana, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,16 @@
   "case_number": "Civil appeal Nooi",
   "date_of_order": "",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr Waqar-ul Islam",
+    "Mr Ghulam Dastagir A Shahani",
+    "Muhammad Khalid Amin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No.444 of 2016",
   "date_of_order": "01.06.2016",
-  "judge": "",
+  "judge": "Rafiq",
   "sections_cited": [
     "Section 6/9-C CNS Act",
     "Section 302, 109 and 34 PPC",
     "Section 23-1"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Kalhoro",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

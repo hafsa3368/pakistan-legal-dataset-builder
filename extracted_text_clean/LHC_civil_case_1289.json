@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail Appl No.743 of 2020",
   "date_of_order": "18.08.2020",
-  "judge": "",
+  "judge": "Rabika Wahab",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Mehmood Alam Rizvi and Syed Junaid Alam, advocate for applicant",
+    "M/s. Noor Muhammad Dayo and Asif Ali, advocate for complainant",
+    "Mr. Ali Haider Salim, DPG a/w PI Ghazalla Parveen and SI Imtiaz Hussain P.S. Darkshan, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "21.03.2025",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [],
@@ -15,7 +15,10 @@
     "2002 SCMR 82",
     "2021 SCMR 1313"
   ],
-  "parties": [],
+  "parties": [
+    "Riaz Ahmad",
+    "Registrar, Lahore High Court, Lahore & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

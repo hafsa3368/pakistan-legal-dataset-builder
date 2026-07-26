@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Writ Petition No.31717/2024",
   "date_of_order": "02.10.2021",
   "judge": "Farooq Haider",
   "sections_cited": [
@@ -16,7 +16,10 @@
     "Section 30"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Asif",
+    "Farmaish Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

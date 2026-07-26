@@ -9,9 +9,19 @@
   "case_number": "Criminal Bail Application No.S-238 of 2023",
   "date_of_order": "02.06.2023",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 337-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Noor Nabi Samoo",
+    "Ms. Sana Memon",
+    "Complainant",
+    "Fateh Muhammad",
+    "Ghulam Shabbir",
+    "Mst. Rashida",
+    "Mst. Sakina"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

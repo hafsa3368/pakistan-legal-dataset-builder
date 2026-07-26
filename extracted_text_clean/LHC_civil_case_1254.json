@@ -9,9 +9,17 @@
   "case_number": "Criminal Bail Application No.S-161 of 2023",
   "date_of_order": "15.05.2023",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 489-F PPC",
+    "u/s 22-A CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sulleman Unar",
+    "Mr. Asad Ali Jatoi",
+    "Barrister Muhammad Azmatullah Channa",
+    "Ms. Sana Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,15 +6,19 @@
   "year": "2041",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No. 1861 of 2017",
   "date_of_order": "04.01.2018",
-  "judge": "",
+  "judge": "Justice Shab Alam",
   "sections_cited": [
     "Section 436/34 PPC",
     "Section 7"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Hussain Bhai",
+    "Mr. Muhammad Iqbal Awan",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

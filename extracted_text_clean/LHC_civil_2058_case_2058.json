@@ -6,12 +6,17 @@
   "year": "2058",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D-371 of 2015",
   "date_of_order": "09.05.2019",
   "judge": "Fahad Memon",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Sachal R. Awan",
+    "Mr. Allah Bachayo Soomro",
+    "Mr. Ali Khan Leghari",
+    "ASI Muhammad Salim of PS Badin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

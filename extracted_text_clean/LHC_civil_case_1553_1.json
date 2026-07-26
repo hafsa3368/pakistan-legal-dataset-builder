@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Suit No. 814/2023",
   "date_of_order": "23.10.2023",
-  "judge": "HANIF JUDGE",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 55 of the Specific Relief Act",
     "section 151",
@@ -23,7 +23,11 @@
     "2013 SCMR 1159",
     "1974 SCMR 519"
   ],
-  "parties": [],
+  "parties": [
+    "Zaheer Uddin Memon",
+    "Security Papers Limited",
+    "Yasir Ali Qureshi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

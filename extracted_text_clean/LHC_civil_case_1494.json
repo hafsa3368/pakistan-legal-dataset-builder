@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.728 of 2026",
   "date_of_order": "08.04.2026",
   "judge": "JUDGE HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Yameen",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

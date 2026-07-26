@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "W.P.No.62973/2024",
   "date_of_order": "20.02.2025",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 17",
     "Section 25 of the Act",
@@ -31,7 +31,11 @@
     "PLD 2011 Islamabad 6",
     "PLD 2014 Sindh 120"
   ],
-  "parties": [],
+  "parties": [
+    "Nazir Ahmad et al.",
+    "The learned Additional District Judge, Kasur et al.",
+    "The learned Guardian Judge, Kasur et al."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

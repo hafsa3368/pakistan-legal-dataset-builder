@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "WP No.836 of 2026",
   "date_of_order": "22.01.2026",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -17,7 +17,14 @@
     "2009 CLC 905",
     "PLD 2009 Lahore 484"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ahmad Tariq",
+    "Judge Family Court, D.G. Khan",
+    "Mr. Nafees Ahmad Ansari",
+    "Mr. Musleh ud Din Khan and Malik Muhammad Bakhsh Khaki",
+    "Ahmad Hassan Khan Khichi and Dr. Muhammad Azeem Raja",
+    "Rana Ghulam Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

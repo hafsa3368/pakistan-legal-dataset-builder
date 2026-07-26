@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1054 of 2020",
-  "date_of_order": "",
+  "date_of_order": "07.12.2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulfiqar Ali Naich",
+    "Mr. Irshad Hussain Dharejo",
+    "Mr. Achar Khan Gabol"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

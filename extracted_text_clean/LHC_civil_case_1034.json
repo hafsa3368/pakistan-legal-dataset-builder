@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Misc. App. No. S",
   "date_of_order": "21.05.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aslam Jatoi",
+    "Aijaz Ali",
+    "FIA",
+    "applicant",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

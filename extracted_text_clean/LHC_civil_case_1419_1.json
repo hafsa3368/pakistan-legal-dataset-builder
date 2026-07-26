@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "10.10.2020",
   "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Abdul Majeed & Sami Majeed Advocates",
+    "M/s. Mushtaq A. Memon & Shahid Ali Ansari, Advocates",
+    "Mr. Muhammad Zafar Alam",
+    "None",
+    "Tayyab A. Ahsan",
+    "Sabeen M. Rasool"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

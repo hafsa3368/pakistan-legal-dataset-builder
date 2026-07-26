@@ -37,7 +37,11 @@
     "PLD 1989 Lahore 69",
     "PLD 1985 Karachi 201"
   ],
-  "parties": [],
+  "parties": [
+    "Government of Punjab",
+    "M/s Azgard Nine Limited",
+    "Mian Muhammad Sabir Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

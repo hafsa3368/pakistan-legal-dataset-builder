@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "not found",
   "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "not found",
+  "sections_cited": [
+    "not found"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "not found"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

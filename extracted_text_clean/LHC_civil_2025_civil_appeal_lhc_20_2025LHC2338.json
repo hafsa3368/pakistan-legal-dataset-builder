@@ -6,10 +6,13 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "W.P. No. 12400 of 2012",
   "date_of_order": "16.04.2025",
   "judge": "Faisal Zaman Khan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 SCMR 1292",
     "2003 SCMR 1351",
@@ -27,7 +30,10 @@
     "2011 SCMR 374",
     "PLD 2021 Lahore 544"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Hafeezan Bibi",
+    "Nazar Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,19 @@
   "case_number": "Criminal Bail Application No.S-371 of 2021",
   "date_of_order": "29.10.2021",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2020 SCMR 761"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Kalhoro",
+    "Ghulamullah Chang",
+    "Pir Bux Bhurgari",
+    "Mst. Irfana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

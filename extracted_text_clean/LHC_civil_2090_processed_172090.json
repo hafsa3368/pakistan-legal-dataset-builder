@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.406 of 2022",
   "date_of_order": "30.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 397",
     "section 382-B Cr.PC"
@@ -16,7 +16,13 @@
   "citations": [
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Muzzamil son of Muhammad Jan",
+    "The State",
+    "Muhammad Hadi",
+    "Macha Khan",
+    "Asghar Hussain Manika"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

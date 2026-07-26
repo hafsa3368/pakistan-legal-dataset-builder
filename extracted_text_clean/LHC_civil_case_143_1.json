@@ -9,9 +9,17 @@
   "case_number": "Const. Petition No.D-300 of 2017",
   "date_of_order": "29.09.2022",
   "judge": "JUDGE Suleman Khan/PA",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Sawan Khan Jagirani",
+    "SIDA Mr. Noor Hassan Malik",
+    "Riaz Ahmed Assistant Survey Superintendent Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

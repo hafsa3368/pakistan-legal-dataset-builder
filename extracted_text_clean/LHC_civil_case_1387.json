@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-204 of 2023",
   "date_of_order": "14.06.2023",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 164 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed Dahri AAG Sindh",
+    "SIP Muhammad Bux Lakho",
+    "Syed Sarfaraz Ali Shah",
+    "Mr. Kewal Kumar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

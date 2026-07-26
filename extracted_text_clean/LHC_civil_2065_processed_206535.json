@@ -7,11 +7,13 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No.S-250 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "05-01-2023",
+  "judge": "Nasim",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nazir Ahmed Lanjwani Vs. P.O Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

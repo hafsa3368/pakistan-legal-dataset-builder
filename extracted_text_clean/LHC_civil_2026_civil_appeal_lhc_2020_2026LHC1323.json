@@ -21,7 +21,10 @@
     "PLD 2014 SC 335",
     "PLD 2023 Lahore 669"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Jabbar",
+    "Mst. Saba Kausar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

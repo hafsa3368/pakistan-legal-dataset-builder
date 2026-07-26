@@ -9,7 +9,9 @@
   "case_number": "Crl. Misc. No.50989-M of 2024",
   "date_of_order": "23.09.2025",
   "judge": "Farooq Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 561-A Cr.P.C"
+  ],
   "citations": [
     "2006 SCMR 1468",
     "2010 P Cr.L.J 4",
@@ -17,7 +19,13 @@
     "2008 SCMR 1086",
     "PLD 2016 Lahore 518"
   ],
-  "parties": [],
+  "parties": [
+    "Zainab Bibi",
+    "Addl. Sessions Judge, etc.",
+    "Barrister Muhammad Sajjad Maitla",
+    "Mr. Nisar Ahmad Virk",
+    "M/s Muhammad Arbaz Khan and M. Barjees Iftikhar Bhatti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

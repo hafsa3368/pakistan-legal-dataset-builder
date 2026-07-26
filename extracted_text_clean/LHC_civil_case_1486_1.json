@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 495 of 2020",
   "date_of_order": "22.02.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Athar Zai",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Asfa Amir",
+    "Amir Hussain",
+    "Syed Salman Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

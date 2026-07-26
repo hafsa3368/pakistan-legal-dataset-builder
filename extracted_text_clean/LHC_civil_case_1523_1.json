@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "Constitutional Petition No. D",
   "date_of_order": "08.06.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "NADEEM AKHTAR",
+  "sections_cited": [
+    "Sub-Rule of Rule 16 ibid"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sunder Khan Chachar, Advocate for the petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

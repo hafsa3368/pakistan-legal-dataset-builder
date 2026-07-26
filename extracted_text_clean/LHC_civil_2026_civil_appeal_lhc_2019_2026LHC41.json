@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "F.A.O. No.2 of 2025",
   "date_of_order": "19.1.2026",
   "judge": "RASAAL HASAN SYED",
   "sections_cited": [
@@ -20,7 +20,12 @@
     "1992 SCMR 707",
     "PLD 1958 SC 104"
   ],
-  "parties": [],
+  "parties": [
+    "Allied Bank Ltd.",
+    "Muhammad Azam",
+    "Mirza Muhammad Nadeem Asif",
+    "Rasaal Hasan Syed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

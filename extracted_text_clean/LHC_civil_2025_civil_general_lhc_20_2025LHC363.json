@@ -25,7 +25,10 @@
     "PLD 2022 SC 13",
     "PLD 2022 SC 21"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Riaz",
+    "Arshad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

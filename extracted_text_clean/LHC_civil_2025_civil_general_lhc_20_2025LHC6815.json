@@ -9,12 +9,21 @@
   "case_number": "constitution petition against the same is not",
   "date_of_order": "25.11.2025",
   "judge": "Muzamil Akhtar Shabir",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 SCMR 1274",
     "2010 YLR 2946"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Mehmood Akhtar Naqvi",
+    "Government of Punjab",
+    "M/s. Aftab Mustafa and Muhammad Mohsin Sheikh",
+    "Mr. Muhammad Osman Khan",
+    "Mir Haroon ul Rashid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

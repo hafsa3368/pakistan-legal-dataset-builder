@@ -6,14 +6,19 @@
   "year": "2078",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2024 Cr. Bail Appl. No.27 of 2025",
   "date_of_order": "20.01.2025",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 295-A, 295-B, 295-C, 298-A, 34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zeeshan Ahmed",
+    "Ms. Farzana Abbasi",
+    "Mr. Gul Faraz Khattak",
+    "Mr. Abdul Hameed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

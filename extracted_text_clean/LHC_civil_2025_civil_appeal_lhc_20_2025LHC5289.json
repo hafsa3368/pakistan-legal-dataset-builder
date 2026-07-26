@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "R.F.A. No.58 of 2025/BWP",
   "date_of_order": "05.06.2025",
   "judge": "Malik Muhammad Awais Khalid",
   "sections_cited": [
@@ -15,7 +15,11 @@
   "citations": [
     "2012 SCMR 455"
   ],
-  "parties": [],
+  "parties": [
+    "Mirza Muhammad Nadeem Asif",
+    "Rai Mazhar Hussain Kharal and Mr. Jamshed Iqbal Khakwani",
+    "Mr. Imtiaz Ali Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

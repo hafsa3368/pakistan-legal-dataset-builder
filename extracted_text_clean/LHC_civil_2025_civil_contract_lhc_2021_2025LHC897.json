@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Civil Revision bearing No.1593 of 2005",
   "date_of_order": "22.01.2025",
-  "judge": "Approved for reporting Judge Maqsood",
+  "judge": "ANWAAR HUSSAIN",
   "sections_cited": [
     "Section 12 of the Code",
     "Section 12",
@@ -17,7 +17,10 @@
   "citations": [
     "2022 SCMR 1009"
   ],
-  "parties": [],
+  "parties": [
+    "Bashiran Bibi",
+    "Muhammad Aameen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

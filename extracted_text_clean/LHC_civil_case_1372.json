@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-791 of 2024",
   "date_of_order": "08.08.2024",
   "judge": "HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muneeb Ahmed Dhamra",
+    "Zulfiqar Ahmed Abbasi",
+    "Meeran Muhammad Shah",
+    "Saima Imdad Mangi",
+    "Muhammad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

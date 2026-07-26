@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.B.A.No.S-1074 of 2013",
+  "date_of_order": "4.7.2014",
   "judge": "",
   "sections_cited": [
     "Section 324, 353, 147, 148 and 149 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Hakeem Chandio",
+    "Mr. Shahid Shaikh, A.P.G.",
+    "Nasser Ahmed Chandio",
+    "Dr. Deedar Ali Malkani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

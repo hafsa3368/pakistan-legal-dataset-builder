@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "D. No. 111493 of 2025",
   "date_of_order": "12.09.2025",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [
@@ -21,7 +21,10 @@
     "Sections 3 & 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Abbas",
+    "Ghulam Haider"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

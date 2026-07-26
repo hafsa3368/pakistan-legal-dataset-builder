@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Crl. Jail Appeal No. S-",
   "date_of_order": "25.09.2023",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 324",
     "Section 337-D",
@@ -21,7 +21,10 @@
     "2015 SCMR 315",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Aijaz Jagirani",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

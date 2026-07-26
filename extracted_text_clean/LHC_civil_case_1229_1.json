@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.B.A.No.S-203 of 2016",
+  "date_of_order": "28-08-2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abid Hussain Qadri, State Counsel",
+    "Mr. Nisar Ahmed G. Abro, Deputy Attorney General for Pakistan",
+    "Luqman Hakeem",
+    "Deputy Superintendent Rangers"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

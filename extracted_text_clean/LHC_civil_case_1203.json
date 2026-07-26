@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No.313 of 2016",
   "date_of_order": "06.04.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Rafiq",
+  "sections_cited": [
+    "U/s 6/9-C",
+    "U/s 22-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nasrullah Malik",
+    "APG Muhammad Iqbal Kalhoro",
+    "Zahoor Ahmed Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

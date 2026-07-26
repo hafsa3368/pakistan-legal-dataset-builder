@@ -6,14 +6,20 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "17.04.2025",
   "judge": "Muzamil Akhtar Shabir",
   "sections_cited": [
     "Section 13"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Farzana Nasir",
+    "Sui Northern Gas Pipelines Ltd.",
+    "Ch. Muhammad Imran Nawab",
+    "Mr. Jamshed Iqbal Khakwani",
+    "Mr. Mukhtar Ahmad Khan Muchar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

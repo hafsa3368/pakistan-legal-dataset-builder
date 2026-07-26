@@ -8,12 +8,21 @@
   "num_chunks": 2,
   "case_number": "Civil Appeal No.02",
   "date_of_order": "11.11.2016",
-  "judge": "",
+  "judge": "ZAFAR AHMED RAPUT",
   "sections_cited": [
     "Section 11 of CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Ghulam Dastagir Shahani",
+    "M/ Murghazani and company",
+    "UCCNUFUUOn",
+    "Haji Abdul Sattar son of Amcer Ali",
+    "Abdul Aziz",
+    "Tanveer Kousar",
+    "Tasneem Kousar",
+    "Shamim KOuSaI Hnd Naseem Kousar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

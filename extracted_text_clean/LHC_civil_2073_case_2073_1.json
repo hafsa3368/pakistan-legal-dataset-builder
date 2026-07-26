@@ -6,14 +6,19 @@
   "year": "2073",
   "used_ocr": true,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "06.09.1996",
   "judge": "",
   "sections_cited": [
     "section 372"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst Kaneez Fatima",
+    "Mst Kanee/ Fatinia Uroosa Muhummad Ali",
+    "Muhammad Ibrahim Ahmed Ali",
+    "Ashfaque Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

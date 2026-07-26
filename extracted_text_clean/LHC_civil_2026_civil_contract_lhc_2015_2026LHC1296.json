@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Revision No.13296 of 2023",
   "date_of_order": "13.2.2026",
-  "judge": "Approved for reporting JUDGE SN",
+  "judge": "MALIK MUHAMMAD AWAIS KHALID",
   "sections_cited": [],
   "citations": [
     "2024 CLC 1246",
@@ -19,7 +19,10 @@
     "2023 SCMR 1371",
     "PLD 2024 SC 771"
   ],
-  "parties": [],
+  "parties": [
+    "Javed Iqbal",
+    "Data Chemical (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

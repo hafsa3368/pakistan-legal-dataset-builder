@@ -6,15 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "1st Appeal No.D-09 of 2009",
   "date_of_order": "13.03.2019",
-  "judge": "JUDGE Irfan Ali",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 54 of Land Acquisition Act",
     "section 4 of Land Acquisition Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh through Secretary Industries, Karachi",
+    "Muhammad Younis & others",
+    "Muhammad Yousif & others",
+    "Ashrafuddin & others",
+    "Islamuddin & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

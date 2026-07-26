@@ -13,7 +13,17 @@
     "section 11 of the Civil Procedure Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    {
+      "role": "petitioner"
+    },
+    {
+      "role": "appellant"
+    },
+    {
+      "role": "respondent"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

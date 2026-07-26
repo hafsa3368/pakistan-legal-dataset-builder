@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "II APPEAL No. 92 of 2011",
   "date_of_order": "27.04.2016",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 12 of Limitation Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "NIB Bank Ltd.",
+    "A.R.Y Traders (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

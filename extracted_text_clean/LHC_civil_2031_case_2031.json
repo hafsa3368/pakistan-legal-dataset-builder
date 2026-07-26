@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-4827 of 2016",
-  "date_of_order": "",
+  "date_of_order": "09-08-2023",
   "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sundar Khan Chachar",
+    "Mr. Irshad Hussain Dharejo",
+    "Muhammad Salman",
+    "Mr. Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

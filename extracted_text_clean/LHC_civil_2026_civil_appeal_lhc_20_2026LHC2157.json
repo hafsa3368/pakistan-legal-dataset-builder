@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "F.A.O. No.54 of 2015",
   "date_of_order": "01.04.2026",
   "judge": "AHMAD NADEEM ARSHAD",
   "sections_cited": [
@@ -19,7 +19,12 @@
     "2005 CLC 1949",
     "PLD 2002 Lahore 190"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Razzaq",
+    "Umar Ali",
+    "Syed Muhammad Ali Gillani",
+    "M/s Rana Muhammad Ashraf Jameel and Malik Ghulam Nazik Kanhoo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

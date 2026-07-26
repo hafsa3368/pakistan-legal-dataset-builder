@@ -26,7 +26,11 @@
     "2022 YLR 1920",
     "PLD 2019 Lahore 145"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Asif",
+    "The State",
+    "another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

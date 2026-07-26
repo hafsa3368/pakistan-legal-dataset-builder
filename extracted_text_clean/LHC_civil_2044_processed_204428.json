@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No.S-519 of 2022",
-  "date_of_order": "",
+  "date_of_order": "24-10-2023",
   "judge": "",
   "sections_cited": [
     "section 561-A Cr.P.C"
@@ -15,7 +15,12 @@
   "citations": [
     "2020 SCMR 590"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Israr Ahmed Shah",
+    "Mr. Shaif Muhammad Mahar",
+    "State",
+    "Ghulam Shabbir Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "C.P No.D-448 of 2021",
+  "date_of_order": "29-11-2022",
+  "judge": "Abdullah Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Meer Ahmed Mangrio advocate for petitioners",
+    "Mr. Aghis-u-Salam Tahirzada advocate for respondent No.11",
+    "Mr. Sundar Das advocate for intervener(s)",
+    "Mr. Muhammad Ismail Bhutto, Additional Advocate General Sindh",
+    "Israr Ahmed Mahesar Inharge Litigation Branch, Director Settlement Survey & Land Records Sindh, Hyderabad",
+    "SIP Sajidullah Ghambhir on behalf of SSP Jamshoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

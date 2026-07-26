@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2026",
   "date_of_order": "31.03.2026",
   "judge": "JUDGE Rafiq/PA",
-  "sections_cited": [],
+  "sections_cited": [
+    "CNS Act, 1997"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sher Muhammad",
+    "The State",
+    "Mr.Athar Hussain",
+    "Ms. Firdous Faridi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

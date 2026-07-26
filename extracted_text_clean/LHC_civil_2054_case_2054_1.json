@@ -6,12 +6,19 @@
   "year": "2054",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Cr. Boil AppIn. No.5-570 o/2015",
+  "date_of_order": "29.11.2015",
+  "judge": "Lorkana",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Foiz Mohommod Lorik",
+    "P S Womnen Lorkono",
+    "the family members of the victim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

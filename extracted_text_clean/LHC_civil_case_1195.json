@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No.917 of 2015",
   "date_of_order": "03.05.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "U/s 302"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saifullah",
+    "Mr. M.R. Sayed",
+    "Ms. Seema Zaidi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

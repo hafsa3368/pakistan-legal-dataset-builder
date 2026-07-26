@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1131 of 2022",
   "date_of_order": "17.09.2022",
-  "judge": "",
+  "judge": "Abdullah Channa",
   "sections_cited": [
     "section 365-B PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Kalhoro",
+    "Mr. Ghulam Farooq Abbasi",
+    "Mr. Imran Ali Abbasi A.P.G. Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

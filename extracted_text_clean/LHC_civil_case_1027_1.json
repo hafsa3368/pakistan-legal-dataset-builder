@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Transfer Application No. 12 of 2026",
   "date_of_order": "22.04.2026",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [
     "Section 526 of CrPC",
     "Sections 302, 34",
@@ -17,7 +17,11 @@
     "Section 526"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Subhan Jawed, Advocate for applicant",
+    "Mr. Ali Raza Abbasi, APG",
+    "State v. Abdul Rahim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "HC Sind Bench Maln, 2023",
   "date_of_order": "",
-  "judge": "",
+  "judge": "Niaz Shahrayar Awan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hussain Maitlo",
+    "University"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Criminal Misc. Application No.102 of 2023",
   "date_of_order": "08.11.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Rahman",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

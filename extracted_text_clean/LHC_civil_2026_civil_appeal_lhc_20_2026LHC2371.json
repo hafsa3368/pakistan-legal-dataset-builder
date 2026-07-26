@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 21,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2022",
   "date_of_order": "04.03.2026",
   "judge": "MUHAMMAD WAHEED KHAN",
   "sections_cited": [
@@ -33,7 +33,13 @@
     "2025 SCMR 1742",
     "PLD 2007 Peshawar 83"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Mujahid",
+    "The State",
+    "Atta Ullah",
+    "Makhoor Elahi",
+    "Shafi Ullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "10.08.2022",
   "judge": "JUDGE Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Farhad Ali Abro advocate",
+    "Mr. Faisal Nadeem Abro, advocate",
+    "Mr. Ayaz Ali Rajpar, Assistant A.G. Sindh",
+    "Mr. Nazar Muhammad Memon, Addl.P.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

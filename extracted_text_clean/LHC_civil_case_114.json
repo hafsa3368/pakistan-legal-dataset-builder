@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "C.P. No.D-4390 of 2022",
+  "date_of_order": "22.7.2022",
+  "judge": "Shakeel",
   "sections_cited": [
     "Section 489/420/34"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Afzal Ali Lanjor",
+    "petitioner/complainant in FIRs No.50/2022 and 51/2022",
+    "respondents, police officials"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

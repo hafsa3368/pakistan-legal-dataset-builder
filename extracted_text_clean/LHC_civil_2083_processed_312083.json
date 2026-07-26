@@ -9,9 +9,14 @@
   "case_number": "Criminal Bail Application No.1884 of 2023",
   "date_of_order": "09.03.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mian Kamran Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

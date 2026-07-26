@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2026",
   "date_of_order": "05.03.2026",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 9",
+    "u/s 497",
+    "u/s 17"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Syed Fiaz-ul-Hassan Shah",
+    "Mr. Muhammad Zahir",
+    "Mr. Ali Haider Salim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

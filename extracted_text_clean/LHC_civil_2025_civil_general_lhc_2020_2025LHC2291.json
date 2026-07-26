@@ -25,7 +25,11 @@
     "PLD 1997 SC 582",
     "PLD 2014 SC 531"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Olympia Chemical Ltd.",
+    "Government of the Punjab",
+    "Board of Revenue"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2022",
   "date_of_order": "07.10.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Visionary Baluchistan Media Corporation",
+    "Mst. Shanaz Abid",
+    "Mr. Anwar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

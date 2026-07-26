@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.R.No.76980 of 2024",
   "date_of_order": "28.01.2026",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -26,7 +26,10 @@
     "PLD 1972 Peshawar 115",
     "PLD 1981 FSC 23"
   ],
-  "parties": [],
+  "parties": [
+    "Hassan Hafeez",
+    "Muhammad Ishtiaq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

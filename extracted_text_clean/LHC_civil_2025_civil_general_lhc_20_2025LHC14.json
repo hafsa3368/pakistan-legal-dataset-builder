@@ -25,7 +25,10 @@
     "PLD 2020 Lahore 137",
     "PLD 2020 Lahore 229"
   ],
-  "parties": [],
+  "parties": [
+    "Tahir Jamal",
+    "Government of the Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

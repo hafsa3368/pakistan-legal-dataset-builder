@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No. S-126 of 2020",
   "date_of_order": "27.07.2020",
   "judge": "Tufail",
   "sections_cited": [
@@ -16,7 +16,17 @@
     "2017 SCMR 538",
     "1998 SCMR 500"
   ],
-  "parties": [],
+  "parties": [
+    "Hothi s/o Dilawar",
+    "Halo s/o Hothi",
+    "Shabir Ali @ Shabir s/o Punhoon",
+    "Sawan s/o Naseer",
+    "Complainant (Hameer)",
+    "State",
+    "Mr. Rai Singh Sodho",
+    "Mr. Muhammad Hassan Chandio",
+    "Ms. Sana Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

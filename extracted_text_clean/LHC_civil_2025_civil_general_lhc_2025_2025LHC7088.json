@@ -32,7 +32,13 @@
     "2002 SCMR 241",
     "PLD 2004 Peshawar 251"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Abbas",
+    "Muhammad Ijaz",
+    "Zafar Iqbal",
+    "Muhammad Aslam",
+    "Muhammad Jahangir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

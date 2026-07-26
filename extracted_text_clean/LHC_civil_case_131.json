@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.D-85 of 2022",
   "date_of_order": "14.09.2022",
-  "judge": "",
+  "judge": "Amjad Ali Sahito",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ubaidullah Brohi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

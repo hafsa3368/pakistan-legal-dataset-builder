@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D_s76O /20",
   "date_of_order": "",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner/applicant/appellant: Mr. Tariq G. Mangi, advocate.",
+    "Respondent: Mr. Qazt Bashir Ahmed, AAG."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

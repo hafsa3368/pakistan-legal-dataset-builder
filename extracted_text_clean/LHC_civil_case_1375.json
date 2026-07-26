@@ -11,7 +11,11 @@
   "judge": "HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Waqar Ali Abbasi",
+    "Mr. Muhammad Naeem Memon",
+    "Ms. Amna Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

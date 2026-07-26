@@ -9,11 +9,18 @@
   "case_number": "W.P. No.14118 of 2025",
   "date_of_order": "21.11.2025",
   "judge": "AHMAD NADEEM ARSHAD",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 1967 SC 97"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Irfan",
+    "Judge Family Court",
+    "Mr. Shakeel Javed Chaudhry"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

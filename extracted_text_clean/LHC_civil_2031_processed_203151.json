@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Appln. No. S-",
   "date_of_order": "11.09.2023",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 320, 279, 337-G, 427, 337-A",
     "Section 337-F",
@@ -19,7 +19,10 @@
     "2003 MLD- 1665",
     "2018 YLR-2501"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rasheed Khoso",
+    "H.C Habibullah Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

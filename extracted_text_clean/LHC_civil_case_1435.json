@@ -6,14 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A. No.274 of 2023, H.C.A. No.275 of 2023, H.C.A. No.276 of 2023",
   "date_of_order": "26.08.2025",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 12 of Civil Procedure Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Fahad Iqbal",
+    "Roqaia Maqsood Trading Establishment & another",
+    "Nisar Ahmed",
+    "Roqaia Maqsood Trading Establishment & another",
+    "Muhammad Talha Shafi",
+    "Roqaia Maqsood Trading Establishment & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

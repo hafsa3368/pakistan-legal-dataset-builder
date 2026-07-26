@@ -6,15 +6,24 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D – 1500 of 2020",
   "date_of_order": "15.12.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 977",
     "2021 SCMR 1376"
   ],
-  "parties": [],
+  "parties": [
+    "Khushal Khan Khattak University through Vice- Chancellor and others",
+    "Jabran Ali Khan and others",
+    "Agriculture, Livestock and Cooperative Department Peshawar and others",
+    "Saeed-ul-Hassan and others",
+    "the petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

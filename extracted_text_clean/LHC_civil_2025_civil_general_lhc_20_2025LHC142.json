@@ -19,7 +19,12 @@
     "PLD 2016 SC 808",
     "PLD 2020 Lahore 229"
   ],
-  "parties": [],
+  "parties": [
+    "Adnan Mughal",
+    "Primary and Secondary Healthcare Department, Government of the Punjab",
+    "Rawalpindi Bar Association",
+    "High Court Bar Association of Rawalpindi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D-1281 of 2025",
   "date_of_order": "23.10.2025",
   "judge": "JUDGE HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hafiz Ziauddin Sultan",
+    "NED University of Engineering & Technology"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

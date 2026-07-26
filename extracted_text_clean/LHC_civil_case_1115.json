@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-1791 of 2022",
   "date_of_order": "23.08.2022",
   "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 173 Cr.P.C",
+    "u/s 193 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mir Shahzad Ahmed Talpur",
+    "Mr. Muhammad Ismail Bhutto, Addl. A.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

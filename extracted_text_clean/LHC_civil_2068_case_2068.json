@@ -6,12 +6,16 @@
   "year": "2068",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.Bail App.No.S-442 of 2023",
   "date_of_order": "25.09.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arif Ali Abbasi, Advocate for applicant",
+    "Mr. Shafi Muhammad Mahar, Deputy Prosecutor General",
+    "Mr. Sohail Ahmed Khoso, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

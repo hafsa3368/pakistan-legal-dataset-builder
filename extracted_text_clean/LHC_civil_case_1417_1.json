@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "08.02.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mr. Asadullah Soomro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Plaintiff",
+    "Defendants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

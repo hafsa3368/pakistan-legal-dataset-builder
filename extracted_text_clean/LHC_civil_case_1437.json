@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "15.09.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 12 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Shama Karim Daudpota",
+    "Faysal Bank Limited & others",
+    "Muhammad Ibrahim Sahito"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,14 @@
   "case_number": "Civil Revision No01 of 2020",
   "date_of_order": "23.01.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 151 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Private Respondents",
+    "Applicants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

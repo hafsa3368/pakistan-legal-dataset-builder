@@ -29,7 +29,12 @@
     "PLD 2006 Lahore 789",
     "PLD 2009 Lahore 622"
   ],
-  "parties": [],
+  "parties": [
+    "Kakakhail Traders",
+    "Province of Punjab",
+    "M/s Noor Traders",
+    "Punjab Procurement Regulatory Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

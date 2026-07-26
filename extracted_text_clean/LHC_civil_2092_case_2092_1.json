@@ -6,12 +6,18 @@
   "year": "2092",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.٢ No.D-506 of 2014 DATF ORDER WITH SIGNATURE OF HONBLE JUDGE OF HEARING",
   "date_of_order": "",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Ahsan Ahmed Qureshi, advocate for petitioner",
+    "Lamed advocate fur petitioner is"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

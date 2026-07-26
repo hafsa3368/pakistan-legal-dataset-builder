@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.1855 of 2016(CIA)",
   "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Justice Muhammad Saeed Khan Kharki",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Abdul Hamid Bhurgri",
+    "Mr Habibullah G Ghouri",
+    "Addl.A.G Zahid Ali Bhatti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

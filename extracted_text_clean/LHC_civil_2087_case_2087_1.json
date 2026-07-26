@@ -8,12 +8,19 @@
   "num_chunks": 3,
   "case_number": "Civil Revision Application No. 8-122",
   "date_of_order": "13.01.2020",
-  "judge": "",
+  "judge": "Mr, Zafar Khalil Ahmed Jakhrani",
   "sections_cited": [
     "section 115 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Applicant No1",
+    "Applicant No2",
+    "Applicant No3",
+    "Respondent No1",
+    "Respondent No2",
+    "Respondent No3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

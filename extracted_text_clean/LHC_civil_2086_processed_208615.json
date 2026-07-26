@@ -6,14 +6,18 @@
   "year": "2086",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "Election Appeal No.S-08 of 2024 (Siraj Ahmed Vs Federation of Pakistan & others)",
+  "date_of_order": "08-01-2024",
+  "judge": "Mr. Justice Irshad Ali Shah",
   "sections_cited": [
     "section 62"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Siraj Ahmed",
+    "Federation of Pakistan",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

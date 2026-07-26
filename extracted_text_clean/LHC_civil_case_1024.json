@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2023",
   "date_of_order": "21.10.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "U/s 302, 109 PPC",
+    "u/s 302",
+    "u/s 544-A Cr.P.C",
+    "u/s 342 Cr.P.C",
+    "u/s 161 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Imtiaz Ali",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

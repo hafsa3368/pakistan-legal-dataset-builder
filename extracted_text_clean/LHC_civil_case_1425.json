@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2016",
   "date_of_order": "09-04-2018",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
@@ -15,7 +15,15 @@
   "citations": [
     "1986 SCMR 1380"
   ],
-  "parties": [],
+  "parties": [
+    "Iqbal Z. Ahmed",
+    "Khalid Rahman",
+    "Malik Usman Hasan",
+    "Yusuf Jamil Ansari",
+    "Basharat A. Mirza",
+    "Jamshoro Joint Venture Limited (JJVL)",
+    "National Accountability Bureau"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

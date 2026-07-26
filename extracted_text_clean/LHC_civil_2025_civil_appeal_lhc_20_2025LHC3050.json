@@ -20,7 +20,10 @@
     "PLD 1976 Lahore 580",
     "PLD 2024 SC 588"
   ],
-  "parties": [],
+  "parties": [
+    "Sher Muhammad",
+    "Karam Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

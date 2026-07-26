@@ -19,7 +19,10 @@
     "PLD 1975 Quetta 29",
     "PLD 2021 Islamabad 236"
   ],
-  "parties": [],
+  "parties": [
+    "Umer Farooq Azam",
+    "Qaiser Rasheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

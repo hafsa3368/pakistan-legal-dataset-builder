@@ -6,12 +6,17 @@
   "year": "2074",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "S-975 of 2014",
   "date_of_order": "28.03.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Karar",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "None",
+    "Mr. Sher M. Leghari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,29 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1185 of 2017",
   "date_of_order": "06.03.2019",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "The Sindh (prohibition of taking minerals including Reti / sand and Bajri from any land) Act, 2003"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Iqbal Kalhoro",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Ali Sher",
+    "Province of Sindh",
+    "Mr. Muhammad Aslam Bhatti",
+    "Allah Bachayo Soomro",
+    "Mumtaz Ali Jamali",
+    "Muhammad Khalid Nizam",
+    "Jhirk",
+    "SSP Thatta",
+    "Government of Sindh",
+    "Wahid Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -33,7 +33,13 @@
     "PLD 2015 Lahore 146",
     "PLD 2010 SC 1058"
   ],
-  "parties": [],
+  "parties": [
+    "Shabbir Alibhai & another",
+    "Pakistan Employees Cooperative Housing Society",
+    "Government of Sindh",
+    "Ministry of Housing and Works",
+    "Central Secretariat, Islamabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

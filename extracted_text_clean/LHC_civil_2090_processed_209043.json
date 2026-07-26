@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-58 of 2023",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "12-01-2024",
+  "judge": "Nasim",
+  "sections_cited": [
+    "u/s 200"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gaman Bohar & others",
+    "SHO PS Sarhad & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

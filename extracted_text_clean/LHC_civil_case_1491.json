@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Revision Application No.212 of 2025",
   "date_of_order": "05.03.2026",
   "judge": "JUDGE HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Aslam",
+    "The State",
+    "Mr. Akber Zameen Khattak",
+    "Mr. Ali Haider Salim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

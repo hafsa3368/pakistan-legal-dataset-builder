@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Misc. Appln. No. S",
   "date_of_order": "27.01.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ARBROHI",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nusrat Hussain J. Memon",
+    "respondent No.2 / SHO Police Station Bhiria Road",
+    "Nadeem Ali Mallah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

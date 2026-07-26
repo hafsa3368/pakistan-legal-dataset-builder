@@ -8,10 +8,13 @@
   "num_chunks": 4,
   "case_number": "Civil Transfer Appln. No. S-",
   "date_of_order": "03.03.2022",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khan Muhammad Brohi",
+    "Town Committee Kashmore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

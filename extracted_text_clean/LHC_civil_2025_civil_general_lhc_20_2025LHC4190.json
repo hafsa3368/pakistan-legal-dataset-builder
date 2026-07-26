@@ -8,7 +8,7 @@
   "num_chunks": 18,
   "case_number": "W.P.No.1617 of 2020",
   "date_of_order": "27.05.2025",
-  "judge": "APPROVED FOR REPORTING JUDGE Sajjad",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "Section 33 of the Stamp Act",
     "Section 40 of the Act",
@@ -27,7 +27,12 @@
     "PLD 1984 Lahore 407",
     "PLD 1996 Lahore 663"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar",
+    "GOVERNMENT OF PUNJAB",
+    "Municipality of Lahore",
+    "Punjab Taxes Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

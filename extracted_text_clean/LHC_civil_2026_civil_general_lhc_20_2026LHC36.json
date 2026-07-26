@@ -9,11 +9,19 @@
   "case_number": "Civil No. 100-26",
   "date_of_order": "21.01.2026",
   "judge": "Muzamil Akhtar Shabir",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2024 Lahore 228"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shafiq Shah",
+    "Govt. of Punjab, etc.",
+    "Mr. Muhammad Mudassir Sumra",
+    "Mr. Musleh-ud-Din Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

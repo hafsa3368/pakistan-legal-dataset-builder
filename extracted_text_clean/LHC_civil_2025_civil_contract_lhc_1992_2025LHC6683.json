@@ -23,7 +23,11 @@
     "2016 SCMR 179",
     "PLD 1996 Lahore 321"
   ],
-  "parties": [],
+  "parties": [
+    "Mubashar Ali",
+    "Tahir Islam",
+    "another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

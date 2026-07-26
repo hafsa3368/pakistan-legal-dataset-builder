@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Constitution is not",
   "date_of_order": "15.04.2025",
-  "judge": "",
+  "judge": "Ch. Muhammad Iqbal",
   "sections_cited": [
     "Section 3",
     "Section 13"
@@ -20,7 +20,10 @@
     "2024 SCMR 89",
     "PLD 2023 SC 461"
   ],
-  "parties": [],
+  "parties": [
+    "Shahbaz Akmal Jandran",
+    "Province of Punjab through Director General, Excise and Taxation, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

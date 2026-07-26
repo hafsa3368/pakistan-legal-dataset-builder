@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.163 of 2011",
   "date_of_order": "05.12.2024",
   "judge": "Hafiz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Munir Ahmed S/o Eden Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

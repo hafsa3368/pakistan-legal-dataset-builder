@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.33/2023",
   "date_of_order": "13.02.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ARBROHI",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 3 of the Ordinance",
+    "Article 4"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Ali Shah",
+    "Mr. Ubedullah Malano"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

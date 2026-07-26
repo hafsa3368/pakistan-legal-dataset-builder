@@ -6,16 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-70 of 2076",
   "date_of_order": "",
-  "judge": "",
+  "judge": "Juge Juclge",
   "sections_cited": [
     "Section 249-4"
   ],
   "citations": [
     "PLD 2016 SC 55"
   ],
-  "parties": [],
+  "parties": [
+    "Peshi fti. (petitioner/applicant/appellant)",
+    "Ahmed Korejo (Applicant's Counsel)",
+    "Khir R. Iliyas (Standing Counsel for the State)",
+    "Nir. Khawarharo DPG (for the State)",
+    "Chouri (learned counsel for the complainant as well as learntec Standing and lt.,r lnctl)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

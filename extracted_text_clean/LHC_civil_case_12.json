@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-59/2015",
   "date_of_order": "23.11.2015",
   "judge": "MUSHARRAF ALI",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "Section 8 of the Illegal Dispossession Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Rasool",
+    "Mr. Pir Tariq Ahmed",
+    "Mr. M. Iqbal Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

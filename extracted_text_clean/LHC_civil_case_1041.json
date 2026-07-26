@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Rev. Appl. No.158 of 2024",
   "date_of_order": "04.11.2024",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "Section 14",
     "Section 3,4 & 7",
@@ -16,7 +16,15 @@
     "section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Rasool Sohu, advocate for complainant.",
+    "Syed Ali Murtaza Shah advocate for accused.",
+    "Mr. Haq Nawaz Talpur a/w M/s Uzair Rasool, Asad jakhrani, & Najam Naek Markhand, advocate for accused No.2.",
+    "Mr. Qurban Ali Malano a/w Ms. Samreen Abro, advocate for accused",
+    "Hina Shah.",
+    "Mr. Faiz H. Shah Prosecutor General Sindh a/w Muhammad Iqbal Awan",
+    "Aijaz Ali Qazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

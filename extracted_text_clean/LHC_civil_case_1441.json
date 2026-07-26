@@ -6,14 +6,25 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "10.09.2025",
   "judge": "JUDGE HANIF",
   "sections_cited": [
     "section 33"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aqeel Ahmed Khan",
+    "Mr. Muhammad Ramzan Sethi",
+    "Mr. Umer Ilyas",
+    "Sh. Muhammad Ramzan",
+    "Mr. Arshad Hussain Shahzad",
+    "Mr. Muhammad Farhan",
+    "Ms. Shazia Hanjrah",
+    "M/s. Ziaul Haq makhdoom",
+    "Barrister S. Ahsan Ali Shah",
+    "Hira Aga"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

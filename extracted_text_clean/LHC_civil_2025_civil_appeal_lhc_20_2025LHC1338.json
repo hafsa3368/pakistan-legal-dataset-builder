@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "",
+  "case_number": "ICA No.99/2024",
   "date_of_order": "25.03.2025",
   "judge": "Jawad Hassan",
   "sections_cited": [
@@ -35,7 +35,12 @@
     "PLD 2018 Lahore 1",
     "PLD 2016 SC 808"
   ],
-  "parties": [],
+  "parties": [
+    "Jadeed Feeds Industries (Private) Limited",
+    "Board of Revenue, Punjab",
+    "Sindh High Court at Karachi",
+    "Fauji Cement Company Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

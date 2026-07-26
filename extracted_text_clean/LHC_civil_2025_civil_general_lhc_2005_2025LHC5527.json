@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "W.P. No.42652 of 2024",
   "date_of_order": "28.06.2024",
-  "judge": "",
+  "judge": "Ex-Officio Justice of Peace",
   "sections_cited": [
     "Sections 22-A and 22-B Cr.P.C",
     "Section 363 PPC",
@@ -30,7 +30,14 @@
     "PLD 2007 SC 539",
     "PLD 1966 SC 589"
   ],
-  "parties": [],
+  "parties": [
+    "Amir Khan",
+    "The State, etc.",
+    "Mr. Abrar Ahmad Lurka",
+    "M. Azam",
+    "Muhammad Nawaz Ch.",
+    "Muhammad Shoaib Khalid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

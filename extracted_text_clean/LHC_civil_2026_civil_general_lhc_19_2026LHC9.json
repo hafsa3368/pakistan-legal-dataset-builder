@@ -9,7 +9,10 @@
   "case_number": "W.P.No.1975 of 2022",
   "date_of_order": "19.01.2026",
   "judge": "JAWAD HASSAN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1988 SCMR 322",
     "1987 MLD 2492",
@@ -25,7 +28,10 @@
     "PLD 1975 SC 311",
     "PLD 2003 Lahore 192"
   ],
-  "parties": [],
+  "parties": [
+    "Sadaqat Ali Khan",
+    "Zia Safdar Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

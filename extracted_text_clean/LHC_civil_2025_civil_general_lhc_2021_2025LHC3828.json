@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Crl. Revision No.45 of 2025",
   "date_of_order": "23.04.2025",
-  "judge": "",
+  "judge": "Mian Muhammad Tayyab Watto",
   "sections_cited": [
     "sections 324, 148 & 149 PPC",
     "section 173 Cr.P.C",
@@ -32,7 +32,12 @@
     "PLD 1966 SC 708",
     "PLD 1971 SC 713"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shafiq",
+    "The State, etc.",
+    "Mr. Zafar Iqbal Somro",
+    "Mirza Muhammad Azam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

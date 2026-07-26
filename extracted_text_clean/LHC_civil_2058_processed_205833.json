@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-698 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "02-11-2023",
+  "judge": "Nasim",
   "sections_cited": [
     "section 561-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Azhar Ali Chachar",
+    "The State & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

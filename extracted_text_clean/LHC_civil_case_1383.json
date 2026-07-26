@@ -9,9 +9,15 @@
   "case_number": "Criminal Transfer Application No.S-28",
   "date_of_order": "22.08.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 324, 506/2, 337-H"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Ghulam Qadir & others",
+    "Zubair Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

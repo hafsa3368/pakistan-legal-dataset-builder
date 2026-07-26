@@ -8,10 +8,16 @@
   "num_chunks": 3,
   "case_number": "Civil Revision No01 of 2020",
   "date_of_order": "23.01.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Shahdadkot",
+  "sections_cited": [
+    "Section 151 CPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Gulsher Juncjo",
+    "the applicants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

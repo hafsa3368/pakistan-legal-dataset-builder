@@ -21,7 +21,11 @@
     "2006 YLR 2896",
     "PLD 2005 Lahore 470"
   ],
-  "parties": [],
+  "parties": [
+    "Asifa Khalid",
+    "Muhammad Shahid Azeem",
+    "Khalid Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
