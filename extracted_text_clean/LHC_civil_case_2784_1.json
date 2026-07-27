@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Crl. Bail A. No.S-511 of 2021",
   "date_of_order": "04.10.2021",
-  "judge": "",
+  "judge": "ZAFAR AHMED RAJPUT",
   "sections_cited": [
     "Sections 9"
   ],
@@ -17,7 +17,11 @@
     "2015 SCMR 1077",
     "2021 SCMR 1212"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aslam Shahani Advocate for applicant",
+    "Mr. Shafi Muhammad Mahar D.P.G",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

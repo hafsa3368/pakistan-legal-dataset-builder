@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2020",
   "date_of_order": "20.05.2021",
-  "judge": "",
+  "judge": "Malik Altaf Hussain",
   "sections_cited": [
     "Sections 3 and 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Malik Altaf Hussain",
+    "Mr. Jawad A. Sarwana",
+    "petitioner/applicant",
+    "alleged contemnor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

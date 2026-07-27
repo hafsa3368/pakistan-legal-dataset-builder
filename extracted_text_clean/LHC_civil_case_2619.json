@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Criminal Bail Application stands dismissed as not",
   "date_of_order": "21.08.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Jam Zuhaib Ahmed",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

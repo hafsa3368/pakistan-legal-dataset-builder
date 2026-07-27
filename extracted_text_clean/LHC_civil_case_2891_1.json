@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 460 of 2020",
   "date_of_order": "02.06.2021",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shams Rafi",
+    "Mussarat Rafi",
+    "Nazia Maqbool",
+    "Salman Rafi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

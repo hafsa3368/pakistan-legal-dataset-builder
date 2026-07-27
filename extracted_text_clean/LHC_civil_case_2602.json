@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-85 of 2024",
-  "date_of_order": "",
+  "date_of_order": "27-02-2024",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Ali Bozdar",
+    "Mr. Asfaydyar Kharal",
+    "Mr. Athar Hussain Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

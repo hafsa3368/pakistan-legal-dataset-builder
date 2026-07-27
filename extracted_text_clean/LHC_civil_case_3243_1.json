@@ -6,12 +6,25 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 149 of 2016",
   "date_of_order": "16.02.2018",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aurangzeb Khan Bugti",
+    "Mst. Nafeesa Begum (widow)",
+    "Sohrab Khan Bugti",
+    "Dr. Allah Nawaz Bugti",
+    "Mst. Afroz Haleem",
+    "Muhammad Yousuf Khan Bugti",
+    "Mst. Tasneem Kausar",
+    "Mst. Lubna Naz",
+    "Muhammad Babar Bugti",
+    "Taimoor Bugti",
+    "Aurangzeb Khan Bugti (petitioner)",
+    "Mahnaz Dawood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
+  "date_of_order": "23-04-2019",
   "judge": "Fahad Memon",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rizwan Ahmed, Advocate for Petitioner",
+    "Mr. Allah Bachayo Soomro, Addl: Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

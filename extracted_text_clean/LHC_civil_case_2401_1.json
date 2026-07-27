@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 272 of 2021",
   "date_of_order": "18.05.2021",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mohammad Ashraf Hussein",
+    "Mrs. Salima Mohammad Hussein",
+    "Muhammad Asif Hussein",
+    "Mrs. Asifa"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

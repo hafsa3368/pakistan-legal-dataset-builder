@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "First Appeal No.21 of 2025",
   "date_of_order": "07.05.2025",
-  "judge": "HANIF JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro Mr",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mian Amjad Farooq",
+    "Syed Shahbhat Hussain Naqvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

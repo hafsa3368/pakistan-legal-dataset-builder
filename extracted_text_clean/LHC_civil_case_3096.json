@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.S-51 of 2017",
   "date_of_order": "26.09.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 345 & 345 Cr.P.C",
     "Section 345 Cr.PC",
     "Section 345 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Masroor Ahmed Brohi",
+    "Abdul Kareem Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

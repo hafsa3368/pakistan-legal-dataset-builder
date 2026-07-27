@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-725 of 2025",
   "date_of_order": "27.02.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Malik Altaf Hussain, advocate for petitioners",
+    "Mr. Muhammad Akram Tarique, advocate for respondent No.2",
+    "Mr. Muhammad Qasim, DAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

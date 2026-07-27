@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-115 of 2024",
-  "date_of_order": "",
+  "date_of_order": "25-03-2024",
   "judge": "Ahmad",
   "sections_cited": [
     "sections 397, 337H"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Niaz Ali Chandio",
+    "The State & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

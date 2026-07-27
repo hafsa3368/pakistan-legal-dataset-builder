@@ -7,14 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Bail Application No.S-",
-  "date_of_order": "",
+  "date_of_order": "11.08.2023",
   "judge": "Ahmad",
   "sections_cited": [
     "Sections 337A",
     "Section 337A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shafi Muhammad Mahar",
+    "the State a/w complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

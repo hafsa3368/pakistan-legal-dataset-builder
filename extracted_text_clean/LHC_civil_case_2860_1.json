@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "D-203 of 2017",
   "date_of_order": "20.12.2021",
   "judge": "JUDGE Athar Zai",
   "sections_cited": [
@@ -15,7 +15,11 @@
     "Section 11 and 12"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Furqan Ali",
+    "Mr. Ashraf Ali Butt",
+    "Mr. Khursheed Javed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

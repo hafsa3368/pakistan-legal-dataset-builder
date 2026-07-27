@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D-1453 of 2022",
   "date_of_order": "02.08.2021",
   "judge": "JUDGE",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faisal Shams",
+    "Mr. Nisar Ahmed G. Abro",
+    "Muhammad Irfan-ul-Haq",
+    "Pakistan Railways"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

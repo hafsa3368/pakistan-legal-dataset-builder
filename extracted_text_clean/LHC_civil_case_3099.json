@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "26.10.2022",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "section 10 and 11",
     "section 2 of the Ordinance",
@@ -20,7 +20,10 @@
     "1985 SCMR 758",
     "2010 CLC 1810"
   ],
-  "parties": [],
+  "parties": [
+    "Prof. Dr. Syed Hasanuddin Ahmed",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

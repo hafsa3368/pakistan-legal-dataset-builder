@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail Appln: No.S-522 of 2024",
   "date_of_order": "23.09.2024",
-  "judge": "",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "sections 506, 504, 147, 148, 149, 337-A",
     "section 169",
@@ -18,7 +18,12 @@
   "citations": [
     "PLD 1995 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "Iftikhar Hussain",
+    "Ashfaque Mari",
+    "Qadir Bux",
+    "Rashid Ali Sethar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

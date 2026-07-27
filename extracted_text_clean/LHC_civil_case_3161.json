@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-56 of 2016",
   "date_of_order": "29-11-2023",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Asad Ali",
+    "P.O. Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Misc. Appl. No.314 of 2022",
   "date_of_order": "17.01.2025",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 392, 34 PPC"
   ],
@@ -17,7 +17,10 @@
     "1983 SCMR 370",
     "2015 YLR 2312"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Asim Khan",
+    "The State & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,16 @@
   "case_number": "Const Petition No. D-",
   "date_of_order": "02.11.2010",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Muhammad Ashique Dhamraho",
+    "Respondent No1",
+    "Ali Pathan",
+    "State counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

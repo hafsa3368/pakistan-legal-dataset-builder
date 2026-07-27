@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-359 of 2024",
   "date_of_order": "16.04.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Irshad Hussain Dharejo Advocate for the Petitionier",
+    "Mr Liaquat Ali Shar, Addl Advocate General",
+    "Hakim Ali Mahar",
+    "District Food Controller Khairpur",
+    "Learned Additional Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

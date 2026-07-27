@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.919 of 2026",
   "date_of_order": "28.05.2025",
-  "judge": "HANIF JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro Mr",
+  "sections_cited": [
+    "u/s 365 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ibrahim",
+    "The State",
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Khalid Hussain Shahani",
+    "Ibrahim through Mr. Jamil Ahmed Javed",
+    "The State through Mr. Ali Haider Salim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

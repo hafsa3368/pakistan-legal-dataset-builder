@@ -7,14 +7,20 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Bail Application No. D-",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "09.07.2075",
+  "judge": "Abdu'l Hafiz Siddiqui",
   "sections_cited": [
     "sections 221,225",
     "section 6/Z"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muzafar Ali",
+    "Chulam",
+    "bbas:lias Muno",
+    "Muhammad saleh",
+    "Ayaz Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

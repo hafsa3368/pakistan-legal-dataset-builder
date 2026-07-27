@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Const. Petition No. D-707 of 2023",
   "date_of_order": "26-09-2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 2"
   ],
@@ -26,7 +26,13 @@
     "2000 SCMR 1780",
     "PLD 1990 SC 998"
   ],
-  "parties": [],
+  "parties": [
+    "Raja Rafique Ahmed",
+    "Federation of Pakistan",
+    "Pakistan Science Foundation",
+    "Ministry of Science & Technology",
+    "Pakistan Railways"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

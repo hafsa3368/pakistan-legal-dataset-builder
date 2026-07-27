@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1015 of 2015",
   "date_of_order": "",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "40N'8L.E"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ihie pelitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

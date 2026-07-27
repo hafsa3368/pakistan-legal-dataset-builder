@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2025",
   "date_of_order": "28.04.2026",
-  "judge": "JUDGE HANIF",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "section 13"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mahesh Kumar Hasija",
+    "The State through Syed Manzoor Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

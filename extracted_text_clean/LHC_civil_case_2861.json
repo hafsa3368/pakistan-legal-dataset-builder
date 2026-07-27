@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-2186 of 2022",
   "date_of_order": "17.08.2022",
   "judge": "JUDGE Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Nadeem-ul.Haque",
+    "Mr. Muhammad Ismail Bhutto, Addl. A.G Sindh.",
+    "Mr. Nazar Muhammad Memon, Addl.P.G Sindh",
+    "Mr. Shakeel Baig, Assistant Superintendent CP Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -19,7 +19,24 @@
     "2015 CLC 663",
     "PLD 2009 SC 45"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "petitioner",
+      "name": "Mst. Syed Muhammad Naheed Meer w/o Syed Muhammad Meer"
+    },
+    {
+      "type": "party",
+      "name": "Syed Muhammad Meer s/o Syed Ahmed Ashraf, through Mr. Aamir Mansoob Qureshi, advocate"
+    },
+    {
+      "type": "respondent",
+      "name": "Rubina Zafar Zehri @ Rubina Irfan d/o Mir Zafar Iqbal Zehri, through Mr. Iftekhar Javed Qazi, advocate"
+    },
+    {
+      "type": "nemo",
+      "name": "Additional Controller of Rents, Clifton Cantonment Board"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

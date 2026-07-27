@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-130 of 2024",
-  "date_of_order": "",
+  "date_of_order": "31-01-2024",
   "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Mureed Ali Shah",
+    "Mr. Zeeshan Haider Qureshi",
+    "Mr. Dareshani Ali Haider ‘Ada’",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

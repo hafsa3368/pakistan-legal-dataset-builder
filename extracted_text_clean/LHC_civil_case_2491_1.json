@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "Civil Revision Application No.S-",
   "date_of_order": "08-05-2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Zafar Ahmed Rajput",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Merajun Nisa",
+    "Khawaja Moinuddin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

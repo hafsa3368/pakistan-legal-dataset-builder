@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-5204 of 2024",
   "date_of_order": "25.11.2024",
   "judge": "JUDGE Tahseen",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aftab Channa, Advocate for the Petitioners",
+    "Mr. Muhammad Qasim Khan, DAG",
+    "Mr. Asad Iftikhar, AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

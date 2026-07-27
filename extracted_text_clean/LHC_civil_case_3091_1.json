@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C. P. No.D-1262 of 2012",
   "date_of_order": "01.11.2016",
   "judge": "JUDGE f",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Akbar Kalhoro",
+    "State Counsel",
+    "Dr. Naseer Ahmed",
+    "District Health Officer, Dadu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

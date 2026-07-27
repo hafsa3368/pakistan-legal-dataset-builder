@@ -7,11 +7,17 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "Civil Appeal No. 0",
-  "date_of_order": "",
+  "date_of_order": "16-08-2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Banik",
+    "Mr Manoj Kumar Tejwan",
+    "Khadimn Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

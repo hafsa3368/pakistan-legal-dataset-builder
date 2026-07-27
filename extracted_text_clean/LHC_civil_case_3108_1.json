@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-788 of 2014",
   "date_of_order": "",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Abdul Rasheedl Soomro",
+    "Luared counsel for the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

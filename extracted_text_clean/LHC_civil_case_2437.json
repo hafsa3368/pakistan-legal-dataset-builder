@@ -9,9 +9,15 @@
   "case_number": "Crl. Bail Application No.S-",
   "date_of_order": "19.05.2023",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shafi Muhammad Mahar",
+    "Mr. Saeed Ahmed B. Bijarani",
+    "Raz Ali Bijarani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

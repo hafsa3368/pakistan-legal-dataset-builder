@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A. No.506 of 2024",
   "date_of_order": "30.01.2025",
   "judge": "JUDGE HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahzeb Akhtar Khan",
+    "Malik Naeem Iqbal",
+    "Syed Hussain Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

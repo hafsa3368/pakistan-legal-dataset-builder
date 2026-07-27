@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Misc. App. No. S",
   "date_of_order": "22.04.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 154 CrPC",
+    "u/s 489-F PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tariq Mehmood Arain",
+    "The State & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

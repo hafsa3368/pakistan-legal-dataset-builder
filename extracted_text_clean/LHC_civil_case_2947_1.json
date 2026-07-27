@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Anti-Terrorism Jail Appeal No. 161 of 2023",
   "date_of_order": "23.02.2024",
-  "judge": "JUDGE Athar Zai",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "Section 4/5 of the Explosive Substance Act",
     "Section 7",
@@ -22,7 +22,10 @@
     "Section 2"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Rabbani",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

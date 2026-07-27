@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-603 of 2022",
   "date_of_order": "06.02.2023",
-  "judge": "",
+  "judge": "ZAFAR AHMED RAJPUT",
   "sections_cited": [
     "Sections 489-B and 489-C PPC",
     "Section 489-B",
@@ -21,7 +21,14 @@
   "citations": [
     "1996 P Cr. L J 815"
   ],
-  "parties": [],
+  "parties": [
+    "Irfan Ali S/o Wazir Ahmed",
+    "Farman Ali S/o Hajan",
+    "The State",
+    "Syed Sardar Ali Shah",
+    "Deputy Prosecutor General for the State",
+    "SIP Pir Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

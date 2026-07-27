@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Acquittal Appeal No.206 of 2023",
   "date_of_order": "27.08.2025",
-  "judge": "ACTING CHIEF JUSTICE Faheem/PA",
+  "judge": "Zafar Ahmed Rajput Justice Miran",
   "sections_cited": [
     "sections 376/511",
     "section 377-A",
@@ -36,7 +36,12 @@
     "PLD 2010 SC 47",
     "PLD 2021 SC 550"
   ],
-  "parties": [],
+  "parties": [
+    "Aslam Masih s/o Nazeer Masih",
+    "Muhammad Amir s/o Muhammad Anwar",
+    "The State",
+    "Court of Addl. District & Sessions Judge-VII, Karachi-East"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

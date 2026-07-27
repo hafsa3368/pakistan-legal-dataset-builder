@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail App. No. D – 38 of 2022",
   "date_of_order": "31.01.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 498"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hassan Ali",
+    "The State v. Nisar Ahmed Sodher and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

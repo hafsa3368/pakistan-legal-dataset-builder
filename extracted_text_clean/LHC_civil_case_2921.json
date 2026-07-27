@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-737 of 2025",
   "date_of_order": "26.05.2025",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Mehmood @ Sanata",
+    "The State",
+    "Mr. Muhammad Lateefuddin Pasha",
+    "Mr. Ch. Mehmood Anwar",
+    "Ms. Amna Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

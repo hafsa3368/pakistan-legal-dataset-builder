@@ -33,7 +33,12 @@
     "PLD 2018 SC 40",
     "PLD 2002 SC 1111"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan State Oil Company Limited (PSO)",
+    "M/s. Gillani (Pvt. Ltd.)",
+    "M/s. Aqib Hussain",
+    "Abdur Razzak"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

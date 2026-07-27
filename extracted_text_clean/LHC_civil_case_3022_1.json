@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C.P.No.D-27 of 2015",
+  "date_of_order": "18.08.20",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Naushad AAli",
+    "Mr Munwar Ali Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

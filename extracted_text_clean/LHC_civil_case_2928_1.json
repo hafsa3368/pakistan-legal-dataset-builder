@@ -7,14 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No. S-",
-  "date_of_order": "",
+  "date_of_order": "15-03-2023",
   "judge": "Ahmad",
   "sections_cited": [
     "Sections 22-A",
     "Section 200"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asif Javed Randhawa"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

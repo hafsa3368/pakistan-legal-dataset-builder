@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.P.No.D-2680 of 2023",
   "date_of_order": "04.03.2025",
-  "judge": "JUDGE Imran",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 10",
     "Section 10 of the Act"
@@ -18,7 +18,14 @@
     "2014 SCMR 1478",
     "2000 SCMR 1929"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Muhammad Osman Ali Hadi",
+    "Mr.Abdul Naeem Qureshi",
+    "Mr.Muhammad Akram Tariq",
+    "Khaliq Ahmed",
+    "Syed Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

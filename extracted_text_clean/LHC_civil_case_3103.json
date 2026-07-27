@@ -6,12 +6,25 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.S-657 of 2022",
   "date_of_order": "12.09.2022",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 337-F(iii) PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mian Taj Muhammad Keerio, Advocate",
+    "Mr. Aziz Ahmed Laghari, Advocate a/w complainant",
+    "Mr. Shahzado Saleem Nahiyoon, Additional P.G.",
+    "PW Habibullah",
+    "MW Muhammad Waseem",
+    "Muneer Ahmed",
+    "Ibrahim",
+    "Abdul Razzak"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

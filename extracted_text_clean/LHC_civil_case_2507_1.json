@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No. S- 622 of 2024",
   "date_of_order": "12.08.2024",
   "judge": "Hafiz Fahad",
   "sections_cited": [
@@ -14,7 +14,12 @@
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mumtaz Ali s/o Ibrahim",
+    "Mr. Hemandas S. Sanghani, Advocate",
+    "Ms. Sana Memon, Asst. Prosecutor General, Sindh",
+    "ZAFAR AHMED RAJPUT"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-2442 of 2025",
   "date_of_order": "20.02.2026",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 7"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Salman Ahmed",
+    "The State",
+    "Abdul Samad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

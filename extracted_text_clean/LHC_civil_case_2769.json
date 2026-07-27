@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl. No.1647/2024 Cr. Bail Appl. No.1631/2024",
   "date_of_order": "13.11.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "U/s 319, 34 PPC",
+    "u/s 319, 34 PPC",
+    "u/s 322 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Tarique Masood and Altaf Ahmed Shaikh, Advocates",
+    "Mr. Faisal Aziz",
+    "Mr. Muhammad Siddique Memon",
+    "Mr. Saleem Akhtar Buriro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

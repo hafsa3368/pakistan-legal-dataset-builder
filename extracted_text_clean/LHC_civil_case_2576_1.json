@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Crl اد 1 Bail Appln N0,D-57 of 2016",
   "date_of_order": "04.10.2016",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,9 @@
     "Section 161"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zahid Hu;s4in Thaheem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

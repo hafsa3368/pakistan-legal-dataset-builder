@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D-2046 of 2018",
   "date_of_order": "19.03.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "petitioners",
+    "respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

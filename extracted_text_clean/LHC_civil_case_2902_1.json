@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.S-338 of 2022",
   "date_of_order": "19.05.2022",
-  "judge": "",
+  "judge": "Mr. Justice Sajjad Ahmed Sethi",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner (Mr. G.M. Bhutto)",
+    "Private Respondent (Mr. Ghulam Akbar AAG, Mr. Mirza Farasat Ali)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

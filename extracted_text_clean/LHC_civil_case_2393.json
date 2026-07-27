@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-",
-  "date_of_order": "",
+  "date_of_order": "27-11-2023",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sikandar Ali Junejo",
+    "Mr. Shafi Muhammad Mahar",
+    "the State",
+    "learned II-Additional Sessions Judge/ex-Officio Justice of Peace, Ghotki"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

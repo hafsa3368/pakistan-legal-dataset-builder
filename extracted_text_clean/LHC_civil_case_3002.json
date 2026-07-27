@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D-155 of 2016",
   "date_of_order": "",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faiz Muhammad Larik, advocate for the petitioner",
+    "Mr. Abdul Hamid Bhurgari, Addl. A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

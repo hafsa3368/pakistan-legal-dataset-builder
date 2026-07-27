@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "criminal bail application by submitting that now",
   "date_of_order": "17.10.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Justice (Retd.) Rashidullah Khan, JJ.",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mir Munir Ahmed Abbasi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

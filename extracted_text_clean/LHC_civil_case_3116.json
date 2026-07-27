@@ -8,10 +8,13 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1072 of 2022",
   "date_of_order": "31.10.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD IQBAL KALHORO",
+    "Mr. Syed Babar Ali Kazmi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

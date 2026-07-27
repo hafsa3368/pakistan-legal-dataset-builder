@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2022 Cr.P No.D - 177 of 2022",
   "date_of_order": "17.08.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mr. Kashif Hussain Shaikh",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Administrators of the Technical Training College, Daharki (‘the College’)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

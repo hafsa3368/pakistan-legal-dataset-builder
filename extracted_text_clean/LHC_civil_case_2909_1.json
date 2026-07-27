@@ -8,12 +8,19 @@
   "num_chunks": 3,
   "case_number": "Civil Suit No. 60 of 1985",
   "date_of_order": "13.10.2022",
-  "judge": "",
+  "judge": "Mr. Muhammad Asim Malik",
   "sections_cited": [
     "Section 164 of the Sindh Land Revenue Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Deputy Commissioner, District Ghotki @ Mirpur Mathelo",
+    "Mukhtiarkar (Estate), District Ghotki @ Mirpur Mathelo",
+    "Project Director, Tarbella Dam, Project Resettlement Organization",
+    "Guddu Barrage Authorities",
+    "Local persons"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

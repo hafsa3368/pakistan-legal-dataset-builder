@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Ist Appeal No.50 of 2024",
   "date_of_order": "12.11.2025",
-  "judge": "",
+  "judge": "Asif",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "appellant",
+    "Ms. Shumaila Sagheer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

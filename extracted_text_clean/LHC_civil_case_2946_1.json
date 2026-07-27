@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-2403",
-  "date_of_order": "",
+  "date_of_order": "16-11-2022",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kamran Mobeen Khan, Advocate for the Petitioners",
+    "Mr. Noor Hassan Malik, Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

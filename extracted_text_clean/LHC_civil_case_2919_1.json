@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1058 of 2021",
   "date_of_order": "17.11.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ARBROHI",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Qayyum Arain",
+    "Respondents /SEPCO",
+    "Electric Inspector, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

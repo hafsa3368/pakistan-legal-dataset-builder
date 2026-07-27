@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail App. No. D – 102 of 2023",
   "date_of_order": "07.11.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 324, 353, 186, 148, 149 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saeed Jamal Lund",
+    "Sher Muhammad S/o Muhammad Siddique Jamro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

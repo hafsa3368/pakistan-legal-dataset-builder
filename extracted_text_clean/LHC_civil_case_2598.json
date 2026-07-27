@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "18.03.2025",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
@@ -16,7 +16,10 @@
     "section 20 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shabbir Ahmed & another",
+    "M/s JS Global Capital Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

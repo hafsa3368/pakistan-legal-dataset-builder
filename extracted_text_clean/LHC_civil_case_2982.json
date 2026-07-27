@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl.No.590 of 2026",
   "date_of_order": "25.03.2026",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Qasoor Hussain",
+    "The State",
+    "Ms. Rubina Qadir, DPG",
+    "Mr. Moazzam Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

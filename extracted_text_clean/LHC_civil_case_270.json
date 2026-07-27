@@ -9,9 +9,18 @@
   "case_number": "Crl. Bail Application No.S-",
   "date_of_order": "07.05.2023",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. J. K. Jarwar",
+    "Mr. Shafi Muhammad Mahar",
+    "State",
+    "Complainant (Muhammad Iqbal Kalhoro)",
+    "Sultan Makrani Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

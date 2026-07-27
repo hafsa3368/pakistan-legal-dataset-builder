@@ -8,12 +8,17 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail A. No.S-428 of 2021",
   "date_of_order": "09.08.2021",
-  "judge": "",
+  "judge": "Ihsan",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Waqar Ali",
+    "Muhammad Siddique",
+    "State",
+    "Amir Mustafa Kamario"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

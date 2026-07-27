@@ -6,9 +6,11 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": [
+    "Cr.Bail Application Nos.S-241, 244, 249 & 256 of 2019"
+  ],
   "date_of_order": "12.03.2020",
-  "judge": "",
+  "judge": "Zaeer Ahmed Rajpur",
   "sections_cited": [
     "Sections 409, 420",
     "Section 5 Act"

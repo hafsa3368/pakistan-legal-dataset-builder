@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Rev. Appl. No. D- 101 of 2014",
   "date_of_order": "19.01.2016",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "Section 32 and 33 of CNS Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Katcha Peshi",
+    "Hearing of MA 3334/14",
+    "Mr. Amjad Ali Sehto, Special Prosecutor ANF for applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

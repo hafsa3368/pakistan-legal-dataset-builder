@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.S-796 of 2022",
   "date_of_order": "19.08.2022",
   "judge": "Shahid",
   "sections_cited": [
     "Section 337-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mian Taj Muhammad Keerio",
+    "Ms. Sana Memon",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

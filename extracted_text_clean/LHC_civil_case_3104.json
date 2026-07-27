@@ -8,10 +8,15 @@
   "num_chunks": 4,
   "case_number": "Constitutional Petition No.D-769 of 2023",
   "date_of_order": "06.02.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mr. Muhammad Arshad Khan Tanoli",
+  "sections_cited": [
+    "Article 199 (a)(ii) of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "NICVD",
+    "Respondent No. 06 to 11"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

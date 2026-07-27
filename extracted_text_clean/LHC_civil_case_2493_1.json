@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Crl. Bail Application No.8 of 2022",
   "date_of_order": "23.10.2023",
-  "judge": "JUDGE",
+  "judge": "Zafar Ahmed Rajput Justice Amjad",
   "sections_cited": [
     "sections 409, 420, 468, 471, 34",
     "section 5",
@@ -20,7 +20,11 @@
     "2017 SCMR 1179",
     "PLD 2016 SC 570"
   ],
-  "parties": [],
+  "parties": [
+    "Farhan Qaisar and 5 others, through Mr. Ahmed Masood, Advocate",
+    "Federation of Pakistan, through Secretary No.1 Ministry Of Interior Division, through Mr. Muhammad Qasim Khan, D.A.G.",
+    "Special Judge Anti-Corruption (Provincial) No. 2 & 3 Karachi and Enquiries & Anti-Corruption Establishment Sindh, through Muhammad Javed, A.A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

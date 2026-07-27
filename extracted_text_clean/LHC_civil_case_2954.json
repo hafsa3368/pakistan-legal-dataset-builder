@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "H.C.A. No.43 of 2022",
   "date_of_order": "17.10.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -30,7 +30,10 @@
     "2022 SCMR 1558",
     "1992 SCMR 652"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Syed Maqbool Hussain Shah, Burhan Khan Jagerani and Talha Azim",
+    "Mr. Abdul Wajid Wyne"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

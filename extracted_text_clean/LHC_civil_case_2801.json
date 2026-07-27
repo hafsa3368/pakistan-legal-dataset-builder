@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Misc. Appln. No. S",
   "date_of_order": "14.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ARBROHI",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Ali Shah Rizvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

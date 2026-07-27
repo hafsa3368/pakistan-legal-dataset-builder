@@ -6,12 +6,24 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 194 of 2017",
   "date_of_order": "24.01.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Athar Zai",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Younus Shariff",
+    "Mst. Anwar Shariff",
+    "Yasmin Shariff",
+    "Huma Javed",
+    "Aneela Irfan",
+    "Faisal Shariff",
+    "Younus Sharriff",
+    "Samina Shariff",
+    "Mrs. Rubina Khalid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

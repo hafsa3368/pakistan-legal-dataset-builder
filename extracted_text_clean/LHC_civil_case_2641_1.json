@@ -6,15 +6,19 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cri. Bail Appln N0.5-676 2019",
   "date_of_order": "13.02.2020",
-  "judge": "",
+  "judge": "Zafar Ahmed Rाजपul",
   "sections_cited": [
     "Sections 302, 337-H",
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Mohammad Afzal Jagirani, advocate for the applicants",
+    "Mr Ali Anwar Kandhro, Audl, P G Nemo for the complainant",
+    "Rais Din Mohammad Kalar, nephew Oamaruddin Kalar and Nasrullah Kalar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

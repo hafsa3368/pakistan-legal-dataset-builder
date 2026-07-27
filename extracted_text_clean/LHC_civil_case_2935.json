@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Civil Petition No.2224/2020",
   "date_of_order": "06.11.2025",
-  "judge": "",
+  "judge": "Rafiq",
   "sections_cited": [
     "Section 39 of the NEPRA Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Monem Zafar Khan & others",
+    "Federation of Pakistan & others",
+    "K-Electric"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

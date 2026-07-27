@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl No.468 of 2018 Cr. Bail Appl No.469 of 2018 Cr. Bail Appl No.470 of 2018",
   "date_of_order": "08.05.2018",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 7"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ayaz Khan, advocate for the applicants",
+    "Mr. Ali Haider Salim, DPG along with complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

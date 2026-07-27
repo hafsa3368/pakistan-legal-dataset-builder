@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D – 212 of 2023",
   "date_of_order": "22.03.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Irshad Hussain Dharejo, Advocate for the petitioner",
+    "Mr. Zeeshan Haider Qureshi, Law Officer of Election Commission of Pakistan",
+    "Mr. Muhammad Aslam Jatoi, Assistant Attorney General",
+    "Mr. Shafi Muhammad Chandio, Additional Advocate General Sindh",
+    "Mr. Ali Raza Baloch, Assistant Advocate General Sindh",
+    "Mr. Qurban Ali Malano, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,17 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No.S-140 of 2014",
   "date_of_order": "04.05.2015",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 395 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Umed Ali",
+    "Wahid Bux, Jalal & Kazi",
+    "The State",
+    "Munawar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

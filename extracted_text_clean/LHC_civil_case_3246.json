@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-08 of 2024",
   "date_of_order": "24.05.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "sections 143 and 144 of the Election Act",
     "Sections 143 and 144 of the Election Act",
@@ -24,7 +24,10 @@
   "citations": [
     "2021 SCMR 82"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Rafique Banbhan",
+    "Ahsan Ali & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

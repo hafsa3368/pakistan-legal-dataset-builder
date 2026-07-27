@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.Bail App. No. D - 72 of 2023",
   "date_of_order": "12.10.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "U/S 161 CrPC",
+    "U/S 173 CrPC"
+  ],
   "citations": [
     "2019 SCMR 572",
     "2021 SCMR 130",
@@ -22,7 +25,10 @@
     "2016 P Cr. L J Note 66",
     "2012 SCMR 707"
   ],
-  "parties": [],
+  "parties": [
+    "Qurban Ali Malano assisted by M/s Israr Ahmed Shah and Syed Naimat Ali Shah, Advocate for applicant/accused",
+    "Mr. Shoukat Ali Bohio, Advocate for complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

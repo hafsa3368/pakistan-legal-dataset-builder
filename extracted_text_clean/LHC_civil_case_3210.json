@@ -9,9 +9,15 @@
   "case_number": "Crl. Bail Application No.S-171 of 2024",
   "date_of_order": "22.01.2024",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Asim and another",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

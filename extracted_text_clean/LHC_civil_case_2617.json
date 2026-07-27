@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl. No.2959 of 2024",
   "date_of_order": "27.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 147,149,506, 504 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Applicants",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

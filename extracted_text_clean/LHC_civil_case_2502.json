@@ -8,10 +8,17 @@
   "num_chunks": 3,
   "case_number": "Const. Petition No.D-",
   "date_of_order": "22.06.2020",
-  "judge": "JUDGE Ahmad",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Arbab Ali Hakro",
+    "Mr. Sarfraz A. Akhund",
+    "Mr. Shahnawaz Shar",
+    "M/s Karim Bux Janwari",
+    "Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

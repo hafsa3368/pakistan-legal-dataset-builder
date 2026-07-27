@@ -9,9 +9,18 @@
   "case_number": "Criminal Revision Application No.D-29 of 2021",
   "date_of_order": "16.08.2022",
   "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 200 & 202 Cr.P.C",
+    "u/s 193 Cr.P.C",
+    "u/s 200 Cr.P.C",
+    "u/s 202 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Agha Waqar Ahmed",
+    "Nazar Muhammad Memon",
+    "Altaf Sachal Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

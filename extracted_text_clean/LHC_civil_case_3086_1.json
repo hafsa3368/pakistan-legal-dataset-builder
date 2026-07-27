@@ -9,9 +9,13 @@
   "case_number": "criminal bail application is Uismissed for nonprosecution-",
   "date_of_order": "06.02.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Aniwar Kandhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

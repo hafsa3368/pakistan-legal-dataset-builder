@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "I.A.No.150 of 2024",
   "date_of_order": "05.05.2025",
   "judge": "JUDGE Hafiz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faiz Muhammad Durrani",
+    "Mr. R.D.Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

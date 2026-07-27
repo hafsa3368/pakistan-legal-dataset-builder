@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl Nos.478 of 2018 Cr. Bail Appl No.479 of 2018",
   "date_of_order": "15.05.2018",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 7"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arshad Mehmood",
+    "Mr. Ali Haider Saleem",
+    "the applicant",
+    "the police party of P.S. Landhi",
+    "SIP Kashif Barkat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

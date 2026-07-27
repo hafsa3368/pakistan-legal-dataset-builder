@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Revision Application No.236 of 2025",
   "date_of_order": "10.12.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "section 510",
     "section 94",
@@ -28,7 +28,10 @@
     "PLD 2019 SC 669",
     "PLD 2013 SC 160"
   ],
-  "parties": [],
+  "parties": [
+    "Naimatullah Khan through Mr. Shaukat Hayat, Advocate.",
+    "The State through M/s. Habib Ahmed and Musharraf Azhar, Special Prosecutor ANF."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

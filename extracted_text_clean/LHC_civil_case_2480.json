@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail App. No. S-122 of 2024",
   "date_of_order": "23.04.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Raheem Ansari, Advocate",
+    "Mr. Alam Sher Bozdar, Advocate",
+    "Mr. Shafi Muhammad Mahar",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

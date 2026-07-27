@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.S-86 of 2020",
   "date_of_order": "10.10.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "Section 382-B CrPC",
     "Section 154 CrPC"
@@ -18,7 +18,10 @@
     "2020 P Cr. L J Note 10",
     "2017 YLR 1270"
   ],
-  "parties": [],
+  "parties": [
+    "Shakeel Through Mr. Imtiaz Ali Abbasi",
+    "The State: Through Mr. Fayaz Hussain Saabki"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

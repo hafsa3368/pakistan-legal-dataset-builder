@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "D-728 0 2014",
+  "date_of_order": "16.8.2016",
   "judge": "UDGE",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abid Hussain Qadri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

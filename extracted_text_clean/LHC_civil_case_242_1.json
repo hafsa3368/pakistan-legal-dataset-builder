@@ -8,12 +8,27 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Applications No. S-10",
   "date_of_order": "05.03.2021",
-  "judge": "",
+  "judge": "ZAFAR AHMED KAIPUL",
   "sections_cited": [
     "sections 435, 147, 149, 504, 114 & 427"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Shaique Ali Domki",
+    "Abdul Razzaque",
+    "Nasarullah Jamali",
+    "Muhammad Bux Abdul Hainmed",
+    "Ghulam Hussain Nazir Ahmed Jamali",
+    "Ghulam Nabi Yancen Khan Jamali",
+    "Allahdino",
+    "Wazeer Jamali",
+    "Mr Syed Lal Shah",
+    "Ashfaque Hussain Abro",
+    "Liaquat Ali Deepar",
+    "Aitbar Ali Bullo",
+    "Sher Ali Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

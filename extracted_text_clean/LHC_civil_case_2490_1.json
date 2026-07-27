@@ -6,15 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-444 of 2023",
   "date_of_order": "02.05.2023",
-  "judge": "",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "Section 145 of the Election Act",
     "Sections 142, 143 or 144"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed Bhanbhro",
+    "Mr. Sher Muhammad Leghari",
+    "Mr. Zeeshan Hyder Qureshi",
+    "Mr. Muhammad Aslam Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

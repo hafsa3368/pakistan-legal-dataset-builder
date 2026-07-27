@@ -8,12 +8,20 @@
   "num_chunks": 1,
   "case_number": "Crl Bail Appln No S-",
   "date_of_order": "16.07.2015",
-  "judge": "",
+  "judge": "Glulam Ali Samntio",
   "sections_cited": [
     "sections 17"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zakir Hussain Kalhoro",
+    "Sahib Khan",
+    "Chandio alias Kuraro",
+    "Rahib Hulio",
+    "Masood Ahmed",
+    "Jan Muhammad",
+    "Muhammad Siddique"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

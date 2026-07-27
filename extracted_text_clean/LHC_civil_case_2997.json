@@ -7,7 +7,7 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "Crl Bail Appln No S",
-  "date_of_order": "",
+  "date_of_order": "19.07.2013",
   "judge": "",
   "sections_cited": [
     "Sections 337-A",
@@ -16,7 +16,12 @@
     "Section 497 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Lashkar Khan",
+    "State Counscl",
+    "Mr Imtiaz Ahmed Shahani",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

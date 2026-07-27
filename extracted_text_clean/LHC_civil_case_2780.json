@@ -8,10 +8,15 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition No.S-904/2012",
   "date_of_order": "03.05.2016",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Tahir Rahim",
+    "Ms. Musarrat Khan",
+    "Muhammad Iqbal Kalhoro",
+    "M/s. Tahir Rahim and Ms. Musarrat Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

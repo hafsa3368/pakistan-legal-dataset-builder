@@ -6,10 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": [
+    "Cr.Bail Appl. No.1419 of 2024",
+    "Cr. Bail Appl. No. 2384 of 2024"
+  ],
   "date_of_order": "13.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 324, 114, 34 PPC"
+  ],
   "citations": [],
   "parties": [
     "Zohaib Nabil "

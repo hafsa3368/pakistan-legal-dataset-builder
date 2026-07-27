@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D- 100 of 2024",
   "date_of_order": "30.01.2024",
-  "judge": "",
+  "judge": "Irfan",
   "sections_cited": [
     "Section 59 of Elections Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Qurban Ali Malano and Syed Israr Ali Shah, Advocates for the petitioner",
+    "Mr. Zeeshan Haider Qureshi, Law Officer, Election Commission of Pakistan",
+    "Mr. Dareshani Ali Haider 'Ada', Deputy Attorney General",
+    "Mr. Ali Raza Baloch, Assistant A.G",
+    "Syed Ahmed Fawad, Deputy Commissioner/D.R.O Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

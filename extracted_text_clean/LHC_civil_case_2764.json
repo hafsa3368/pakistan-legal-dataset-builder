@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-319 of 2023",
   "date_of_order": "12.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mr. Abdul Pirzada",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Khuda Bux Chohan",
+    "Hussain Pathan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1766 of 2023",
   "date_of_order": "25.01.2024",
-  "judge": "",
+  "judge": "Irfan",
   "sections_cited": [
     "sections 406, 420, 447, 511, 506/2 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kashif Hussain Shaikh",
+    "Mr. Agha Athar Hussain Pathan",
+    "Mr. Ahmed Mehran Goraya"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

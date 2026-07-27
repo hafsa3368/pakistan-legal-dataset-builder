@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D-251 of 2015",
   "date_of_order": "",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kalcha Peshi",
+    "Mr, Ghulam Muhammad Bozdar",
+    "Mr Munwar Ali Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-311 of 2023",
   "date_of_order": "",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Dareshani Ali Haider ‘Ada’",
+    "Mr. Muhammad Aslam Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

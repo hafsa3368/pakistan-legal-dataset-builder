@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Transfer Application No.S-",
-  "date_of_order": "",
+  "date_of_order": "13.11.2023",
   "judge": "Ahmad",
   "sections_cited": [
     "Sections 489-F & 506/2 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Miss Irshad Nawaz Kalwar",
+    "Mr. Aftab Ahmed Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

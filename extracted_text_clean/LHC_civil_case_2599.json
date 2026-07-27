@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2023 & Cr.A.No.S-122 of 2024",
   "date_of_order": "14.04.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Kalhoro",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

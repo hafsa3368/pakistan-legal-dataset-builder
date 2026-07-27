@@ -9,11 +9,19 @@
   "case_number": "Const. Petition No.D-1822 of 2018",
   "date_of_order": "03.11.2022",
   "judge": "Zafar Ahmed Rajput Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [
     "2012 SCMR 673"
   ],
-  "parties": [],
+  "parties": [
+    "Saeed Ahmed",
+    "Ahmed Khan",
+    "Aijaz Ahmed",
+    "Chief Officer, Town Municipal Administration Sukkur",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

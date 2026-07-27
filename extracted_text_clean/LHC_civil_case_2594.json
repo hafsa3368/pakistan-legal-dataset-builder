@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Bail Appl. No.1486 of 2024 (Nasir vs. The State)",
   "date_of_order": "14.10.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khadim Hussain",
+    "Sardar Shiraz Anjum",
+    "The State",
+    "Nasir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

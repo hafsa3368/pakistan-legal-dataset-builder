@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.3272 of 2025",
   "date_of_order": "15.01.2026",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 17"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Yasir alias Major",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

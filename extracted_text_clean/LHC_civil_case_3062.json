@@ -9,13 +9,18 @@
   "case_number": "misconceived and even otherwise no case",
   "date_of_order": "19.04.2021",
   "judge": "JUDGE JUDGE",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
     "2001 SCMR 574"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Qadir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

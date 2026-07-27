@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 133 of 2016",
   "date_of_order": "10.12.2021",
-  "judge": "",
+  "judge": "Mr. Raham Ali Rind",
   "sections_cited": [
     "sections 302, 324, 114, 34",
     "section 302",
@@ -19,7 +19,17 @@
     "1999 SCMR 2047",
     "2003 SCMR 856"
   ],
-  "parties": [],
+  "parties": [
+    "Hasan Daad s/o Rasool Daad",
+    "Mst. Asma (mother)",
+    "Arsh Bibi (sister)",
+    "Muhammad Bilal (brother)",
+    "Fatima Sadaf (minor-sister)",
+    "Abdul Qudoos (minor-brother)",
+    "Iqra (minor-sister)",
+    "Hamza",
+    "the complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

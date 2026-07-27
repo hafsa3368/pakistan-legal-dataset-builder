@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "H.C.A. No.429 of 2023",
   "date_of_order": "14.05.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -25,7 +25,10 @@
     "PLD 2014 Sindh 349",
     "PLD 2018 Lahore 597"
   ],
-  "parties": [],
+  "parties": [
+    "Hunaneng Fuyun Port & Shipping (Pvt.) Ltd",
+    "Jiaozuo Creation Heavy Industry Company Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

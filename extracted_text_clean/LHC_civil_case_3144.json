@@ -6,10 +6,12 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.Bail App. No. S-132 of 2023",
   "date_of_order": "06.10.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "U/S 22-A"
+  ],
   "citations": [
     "2023 SCMR 364",
     "1979 SCMR 65",
@@ -21,7 +23,14 @@
     "2016 P Cr. L J 1120",
     "2018 YLR 376"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Aftab Hussain Shar",
+    "Mr. Sundar Khan Chachar",
+    "Muhammad Ali",
+    "Gulzar Ahmed",
+    "Jameel Ahmed",
+    "Raja Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,15 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No. 1827 of 2016",
   "date_of_order": "25.01.2017",
-  "judge": "",
+  "judge": "ZAFAR AHMED RAJPUT",
   "sections_cited": [
     "sections 489-F, 420, 408, 34",
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abid Hussain",
+    "Lal Zameen Jan",
+    "Qasim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

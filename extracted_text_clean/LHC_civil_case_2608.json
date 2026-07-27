@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D- 1341 of 2023",
   "date_of_order": "25.01.2024",
-  "judge": "",
+  "judge": "Irfan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Wajid Ali Shaikh",
+    "Mr. Uzair Sheikh",
+    "Mr. Ashfaque Hussain Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl.No.2722 of 2025",
   "date_of_order": "04.12.2025",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
@@ -14,7 +14,12 @@
     "section 17 CNS Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Arsalan",
+    "The State",
+    "Mr. Qamaruddin Nohri",
+    "Mr. Nizakat Ali Mirani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail App. No. S-443 of 2022",
   "date_of_order": "04.09.2023",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 497"
   ],
@@ -18,7 +18,12 @@
     "2023 SCMR 857",
     "2023 SCMR 1243"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ali Napar",
+    "M/s Ali Gul Abbasi and Muhammad Zuhaib Azam Rajput",
+    "Mr. Aftab Ahmed Shar",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail App. No. D - 105 of 2023",
   "date_of_order": "14.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 365-A PPC",
+    "U/S 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Majeed Memon",
+    "Rasool Bux S/o Muhammad Ibraheem Kosh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

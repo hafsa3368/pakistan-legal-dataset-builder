@@ -6,15 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-04 of 2023",
   "date_of_order": "20.02.2023",
-  "judge": "",
+  "judge": "ARBROHI",
   "sections_cited": [
     "Sections 365-B PPC",
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Mujahid Ali Shah, Advocate",
+    "Mr. Liaquat Ali Shar, Advocate",
+    "Mr. Aftab Ahmed Shar",
+    "Additional Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

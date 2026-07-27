@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-424 of 2019",
   "date_of_order": "03.05.2023",
-  "judge": "",
+  "judge": "ZAFAR AHMED RAJPUT",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Syed Jaffar Ali Shah, Manzoor Hussain N. Larik and Muhammad Raza Soomro, Advocates",
+    "Mr. Ali Raza Baloch, Assistant Advocate General Sindh along with Abdul Hannan Shaikh, Deputy Secretary, and Bhuromal, Law Officer, Services, General Administration and Coordination Department, Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

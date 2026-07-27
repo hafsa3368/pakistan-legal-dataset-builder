@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-772 of 2022",
   "date_of_order": "11.10.2022",
-  "judge": "",
+  "judge": "ARBROHI",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada",
+    "Mr. Shahryar Awan",
+    "Mr. Khuda Bux Chohan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

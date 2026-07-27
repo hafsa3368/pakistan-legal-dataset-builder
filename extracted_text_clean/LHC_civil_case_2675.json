@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-163 & 228 of 2023",
   "date_of_order": "27.06.2023",
   "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdullah K. Laghari",
+    "Alleged detainee Mst. Shair Bano",
+    "Muhammad Ramzan",
+    "Ghulamullah Chang",
+    "Allah Bachayo Soomro",
+    "Siraj Ahmed Bijarani",
+    "Inspector Mir Muhammad Kaloi",
+    "SSP Badin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

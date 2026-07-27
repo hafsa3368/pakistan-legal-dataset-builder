@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1306 of 2023",
   "date_of_order": "14.12.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rukhsar Ahmed M. Junejo, Advocate for petitioner",
+    "Syed Imtiaz Ahmed Shah Jillani, Advocate for respondents / Market Committee, Gambat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

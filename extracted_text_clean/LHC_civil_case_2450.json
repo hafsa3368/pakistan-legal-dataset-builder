@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail App. No. S-624 of 2022",
   "date_of_order": "04.09.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Applicant/Mr. Ali Ahmed Khan",
+    "Complainant/Mr. Rukhsar Ahmed M. Junejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

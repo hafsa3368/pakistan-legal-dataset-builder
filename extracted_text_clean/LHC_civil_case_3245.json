@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Bail Application No.S-69 of 2024",
-  "date_of_order": "",
+  "date_of_order": "22.04.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Hassan Pathan (Lala Hassan Pathan)",
+    "Mr. Aftab Ahmed Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

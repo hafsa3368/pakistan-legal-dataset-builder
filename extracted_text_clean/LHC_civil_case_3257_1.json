@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No.460 of 2018",
   "date_of_order": "23.10.2020",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Nazar Akbar Mr",
   "sections_cited": [
     "Section 6/9-C of CNS Act",
     "Section 382-B of Cr.P.C",
@@ -26,7 +26,15 @@
     "PLD 2017 SC 671",
     "PLD 2012 SC 380"
   ],
-  "parties": [],
+  "parties": [
+    "Nadeem Bahadur s/o Ali Haider",
+    "State",
+    "Deputy Director of ANF",
+    "Justice Nazar Akbar",
+    "Justice Zafar Ahmed Rajput",
+    "Mr. Justice Nazar Akbar",
+    "Mr. Justice Zafar Ahmed Rajput"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

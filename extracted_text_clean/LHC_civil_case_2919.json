@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "HCA No. 44 of 2025",
   "date_of_order": "26.08.2025",
-  "judge": "",
+  "judge": "Nasir",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Ali Hussain, Advocate for Respondent No.1",
+    "Mr. Aqib Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

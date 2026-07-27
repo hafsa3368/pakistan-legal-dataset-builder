@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.168 of 2024",
   "date_of_order": "21.02.2025",
   "judge": "JUDGE HANIF",
   "sections_cited": [
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ali Lakhani, advocate for appellant",
+    "Zahid Ayubi, respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

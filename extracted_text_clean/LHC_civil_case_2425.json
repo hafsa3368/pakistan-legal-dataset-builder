@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-1749 of 2021",
   "date_of_order": "15.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Murad Malano",
+    "Public Health Engineering Department",
+    "Mr. Ali Raza Baloch",
+    "Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

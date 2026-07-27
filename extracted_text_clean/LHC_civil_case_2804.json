@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P No. D - 647 of 2023",
   "date_of_order": "30.08.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ARBROHI",
+  "sections_cited": [
+    "CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Niaz Hussain Maitlo",
+    "Mr. Ghulam Abbas Kuber",
+    "Respondent No.3/University"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

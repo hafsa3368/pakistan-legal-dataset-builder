@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Crl, Bail No. 449 of ZUl6",
+  "date_of_order": "05.12.2016",
+  "judge": "JEUINST",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr inanllah |uhur Auvocate for applicant",
+    "Mr aruar.Ali Rizvi",
+    "Oamaruddin Sangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

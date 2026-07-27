@@ -7,7 +7,7 @@
   "used_ocr": true,
   "num_chunks": 2,
   "case_number": "Crl Bail Appln No. 361",
-  "date_of_order": "",
+  "date_of_order": "28.11.2016",
   "judge": "",
   "sections_cited": [
     "Sections 324, 337-H",
@@ -16,7 +16,14 @@
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Mustafa Rind",
+    "L4I",
+    "Illahi Bux",
+    "Liuquat Ali",
+    "Altbar ala.",
+    "Akbar alias Ali Akbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

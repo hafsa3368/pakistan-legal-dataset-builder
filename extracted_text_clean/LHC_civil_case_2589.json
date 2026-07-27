@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.S-665 and 666 of 2024",
   "date_of_order": "01.10.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zia Dastagir, Advocate for petitioner",
+    "Mr. Waleed khanzada, Advocate for respondent No.1.",
+    "Syed Miran Muhammad Shah, AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

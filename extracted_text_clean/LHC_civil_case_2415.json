@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "",
+  "case_number": "Cr.Jail Appeal No.D-64 of 2022",
   "date_of_order": "05.12.2023",
   "judge": "JUDGE Sulemen Khan/PA",
   "sections_cited": [
@@ -38,7 +38,10 @@
     "2023 SCMR 795",
     "PLD 1962 SC 269"
   ],
-  "parties": [],
+  "parties": [
+    "Pervaiz Ahmed @ Paroo Rajper",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

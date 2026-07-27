@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Criminal Direct Complaint No.78 of 2023",
   "date_of_order": "18.03.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Maqbool Ahmed",
+    "Muneer Ahmed and others",
+    "Mr. Muhammad Tarique Panhwar",
+    "Mr. Shafi Muhammad Mahar",
+    "Mr. Ch. Shahid Hussain Rajput"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

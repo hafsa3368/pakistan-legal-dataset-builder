@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-899 of 2022",
   "date_of_order": "26.09.2022",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Kalhoro",
+    "Mr. Hussain Bux Solangi",
+    "Mr. Imran Ali Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

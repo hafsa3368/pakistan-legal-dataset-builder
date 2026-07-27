@@ -8,13 +8,16 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.D-58 of 2021",
   "date_of_order": "08.12.2021",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 342 Cr.P.C",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rafique",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

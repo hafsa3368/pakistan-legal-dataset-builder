@@ -6,15 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-3261 of 2025",
   "date_of_order": "30.01.2026",
-  "judge": "JUDGE Rafiq/PA",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro Mr",
+  "sections_cited": [
+    "u/s 6/9"
+  ],
   "citations": [
     "2024 SCMR 934",
     "2025 SCMR 721"
   ],
-  "parties": [],
+  "parties": [
+    "Sajeem Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

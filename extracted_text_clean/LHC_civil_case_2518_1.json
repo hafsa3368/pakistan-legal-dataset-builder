@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2014",
   "date_of_order": "",
   "judge": "JUDGE",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr, Muhammad Aslam H Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

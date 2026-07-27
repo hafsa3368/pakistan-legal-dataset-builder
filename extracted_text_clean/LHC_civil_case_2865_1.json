@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-262 of 2020",
   "date_of_order": "14.12.2020",
-  "judge": "",
+  "judge": "S.M.A.",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Daniyal Haider Kazmi",
+    "Legal Heir No. 2",
+    "Legal Heir No. 1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

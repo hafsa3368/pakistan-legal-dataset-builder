@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "MiscNo. 6SqS",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "07.04.2024",
+  "judge": "Rafiq",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "None present",
+    "None present"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

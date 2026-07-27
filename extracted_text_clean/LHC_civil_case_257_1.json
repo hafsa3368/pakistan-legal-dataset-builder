@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "13.10.2022",
-  "judge": "",
+  "judge": "ARBROHI",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Qadeer Khoso",
+    "Mr. Sohail Ahmed Khoso",
+    "Mr. Noor Hassan Malik",
+    "Aijaz Ali Pathan",
+    "Sindh Seed Corporation"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

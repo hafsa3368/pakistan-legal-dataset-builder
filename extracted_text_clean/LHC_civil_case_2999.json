@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-866 of 2015",
   "date_of_order": "21.08.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "For katciia peshi",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Shafi Muhammad Baloch",
+    "Mr Faiz Muhammad Larik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

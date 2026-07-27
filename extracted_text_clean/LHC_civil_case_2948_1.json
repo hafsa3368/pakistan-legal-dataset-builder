@@ -7,15 +7,18 @@
   "used_ocr": true,
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No D-13 of 2017",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "19.02.2020",
+  "judge": "Justice Zafar Ahmed Rajpul",
   "sections_cited": [
     "section 9",
     "section 34z",
     "section 3U"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ramzan s/o Noor Khun Brohi",
+    "The State through Mr uitbur AAli Bullo D"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

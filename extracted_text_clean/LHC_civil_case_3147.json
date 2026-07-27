@@ -8,15 +8,21 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No. D-",
   "date_of_order": "23.09.2018",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2023 SCMR 184",
     "2005 PCrLJ 89",
     "2010 PCrLJ 379",
     "2017 YLR Note 151"
   ],
-  "parties": [],
+  "parties": [
+    "Ashique Ali Lanjar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

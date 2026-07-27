@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Mi.A.No.2293/201!",
   "date_of_order": "07.12.2017",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "SaIe Wa3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

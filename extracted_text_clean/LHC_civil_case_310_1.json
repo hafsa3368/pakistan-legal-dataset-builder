@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Misc. App. No. S",
   "date_of_order": "13.03.2023",
-  "judge": "",
+  "judge": "ZAFAR AHMED RAJPUT",
   "sections_cited": [
     "Section 22-A & 22-B",
     "Section 154",
@@ -22,7 +22,13 @@
   "citations": [
     "PLD 2003 Lahore 228"
   ],
-  "parties": [],
+  "parties": [
+    "Allah Bachayo Dahot",
+    "The State through D.P.P. Khairpur",
+    "3 others",
+    "S.H.O.",
+    "Police Station B-Section, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "C.P No. D – 833 of 2018",
+  "date_of_order": "22-11-2022",
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Shabbeer Shar, Mr. Ali Raza Baloch, Inspector Ghulam Shabir Khuhro, SSP Khairpur, SIP Ameer Ali Shah, DIGP Sukkur Range"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

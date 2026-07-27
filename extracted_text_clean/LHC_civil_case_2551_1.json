@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Civil Appeul No 44",
   "date_of_order": "07.01.2003",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Shahtadkut",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Iraming",
+    "Sllll Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2024",
   "date_of_order": "17.01.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 62 of the Elections Act"
   ],
@@ -20,7 +20,10 @@
     "2023 CLC 723",
     "PLD 2018 Lahore 788"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Basit Lund",
+    "Federation of Pakistan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

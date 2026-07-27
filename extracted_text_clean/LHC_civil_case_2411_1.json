@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-461 of 2020",
   "date_of_order": "24.12.2021",
-  "judge": "",
+  "judge": "S.M.A.",
   "sections_cited": [
     "section 151"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Muhammad Hussain Ali",
+    "Nazir's estate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

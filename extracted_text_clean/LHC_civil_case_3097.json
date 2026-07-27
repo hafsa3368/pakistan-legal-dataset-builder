@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.S-853 of 2022 Cr. Bail Application No.S-855 of 2022",
   "date_of_order": "30.09.2022",
   "judge": "Shahid",
   "sections_cited": [
     "Section 497 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sabir Hussain",
+    "Mr. Asif Ali Magsi",
+    "Ms. Sana Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

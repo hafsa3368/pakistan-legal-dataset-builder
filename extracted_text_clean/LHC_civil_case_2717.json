@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl No.185 of 2016 Cr.Bail Appl No.186 of 2016",
   "date_of_order": "12.04.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Rafiq",
+  "sections_cited": [
+    "U/s 353, 324, 34 PPC",
+    "U/s 23-A Sindh Arms Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Tariq Abbasi",
+    "Mr. Abdullah Rajput"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

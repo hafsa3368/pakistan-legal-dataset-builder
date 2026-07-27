@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.S-1252 of 2013",
   "date_of_order": "19.05.2025",
-  "judge": "",
+  "judge": "Rafiq",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Shakeel",
+    "Commissioner for Workmen’s & another",
+    "Mr. Sanaullah Noor Ghori",
+    "respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

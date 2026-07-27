@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-2388 of 2020",
   "date_of_order": "06.03.2023",
-  "judge": "",
+  "judge": "Dr. Rana Khan",
   "sections_cited": [
     "Section 26",
     "Section 19",
@@ -22,7 +22,12 @@
     "2022 SCMR 77",
     "PLD 2016 SC 534"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Jalil Zubedi",
+    "AAG Mr. Moin Azhar Siddiqui",
+    "Prof. Dr. Abdul Waheed",
+    "Asif Mukhtiar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "14.04.2022",
   "judge": "Abrar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Sarwer Jahan",
+    "Mr. Muhammad Imran Kalmati",
+    "Mr. Ghulam Akber"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

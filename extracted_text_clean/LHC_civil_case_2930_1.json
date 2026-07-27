@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "D- 775 of 2021",
+  "date_of_order": "11-04-2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada, Advocate for the petitioner",
+    "Mr. Khuda Bux Chohan, Advocate for respondents No.4&5",
+    "Mr. Asfandyar Kharal, Assistant A.G-Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

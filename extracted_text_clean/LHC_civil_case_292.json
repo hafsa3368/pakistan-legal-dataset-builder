@@ -8,13 +8,17 @@
   "num_chunks": 3,
   "case_number": "Misc. Application Nos",
   "date_of_order": "06.11.2024",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 173 CrPC",
     "section 344 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Akbar and others",
+    "Board of Revenue"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

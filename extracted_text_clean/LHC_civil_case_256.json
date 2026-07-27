@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Appeal No. S – 99 of 2021",
   "date_of_order": "29.04.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shafique Ahmed Laghari, Advocate for applicant",
+    "Mr. Shafi Muhammad Mahar",
+    "minor Dhani Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

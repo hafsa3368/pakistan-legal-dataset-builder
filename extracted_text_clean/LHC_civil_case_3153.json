@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No. D-1586 of 2023",
-  "date_of_order": "",
+  "date_of_order": "14.11.2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ajeebullah Junejo, Advocate",
+    "M/s Aftab Ahmed Shar, Additional P.G",
+    "Agha Athar Hussain Pathan, Assistant A.G",
+    "ASI- Muhammad Yousif Chano, I.O",
+    "Mr. Shabbir Ali Bozdar, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

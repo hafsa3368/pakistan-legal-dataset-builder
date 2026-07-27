@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.Bail App. No. S-641 of 2023",
   "date_of_order": "13.11.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 324 PPC"
   ],
@@ -17,7 +17,13 @@
     "2020 SCMR 937",
     "2022 SCMR 750"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Hakeeman",
+    "Mr. Shamsuddin N. Kobhar",
+    "Mr. Zulfiqar Ali Jatoi",
+    "Muhammad Iqbal Kalhoro",
+    "Mr. Shabbir Ali Bozdar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.Bail Appln N S415 %f ZUl6",
   "date_of_order": "24.10.2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    ""
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Katcha Peshi Mr Ahmed Bux Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No.S-1346 of 2022",
   "date_of_order": "31.05.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 173 CrPC"
   ],
@@ -21,7 +21,10 @@
     "1980 SCMR 784",
     "2009 YLR 15"
   ],
-  "parties": [],
+  "parties": [
+    "complainant party",
+    "accused party"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

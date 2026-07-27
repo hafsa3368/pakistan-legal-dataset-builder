@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-600 of 2023",
   "date_of_order": "20.03.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "No.1",
+    "No.2",
+    "No.31"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

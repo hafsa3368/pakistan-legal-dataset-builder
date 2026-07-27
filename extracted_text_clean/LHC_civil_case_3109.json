@@ -8,12 +8,19 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition No.D-3946 of 2018",
   "date_of_order": "22.02.2023",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro Mr",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 1181"
   ],
-  "parties": [],
+  "parties": [
+    "Moosa",
+    "Federation of Pakistan",
+    "PIA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

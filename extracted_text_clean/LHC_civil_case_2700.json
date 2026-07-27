@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1115 of 2009",
   "date_of_order": "09.02.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Justice Arbab Ali Hakro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "C.P No.D-1115/2009"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Mushtaque Ahmed Shahani, Abdul Naeem Pirzada, Sohail Ahmed Khoso, Farzand Ali Abro, Shafique Ahmed Khan Leghari and Aamir Ali Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

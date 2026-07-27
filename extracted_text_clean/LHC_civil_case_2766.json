@@ -9,9 +9,14 @@
   "case_number": "Criminal Bail Application No.S-1247 of 2024",
   "date_of_order": "03.01.2025",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Om Parkash Goklani",
+    "Mr. Irfan Ali Talpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CMA 265/2022",
   "date_of_order": "09.08.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jucige",
+  "sections_cited": [
+    "u/s 151"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Bashir Ahmed Samejo",
+    "Mr.Mujeeb ur Rehman Soomro SP NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

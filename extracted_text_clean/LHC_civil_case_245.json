@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "constituencies has been carried out and the notification",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "03.10.2023",
+  "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Israr Ali Shah, Advocate",
+    "Mr. Zeeshan Haider Qureshi, Law Officer, Election Commission of Pakistan",
+    "Mr. Muhammad Aslam Jatoi, Assistant Attorney General",
+    "Mr. Zulfiqar Ali Naich, Assistnat A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,17 @@
   "case_number": "Criminal Bail Application No.S-106 of 2023",
   "date_of_order": "17.04.2023",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 489-F PPC"
+  ],
   "citations": [
     "2013 SCMR 51"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Zahid Mallah",
+    "Ms. Sana Memon",
+    "Complainant (Mr. Mir Muhammad Nohri)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

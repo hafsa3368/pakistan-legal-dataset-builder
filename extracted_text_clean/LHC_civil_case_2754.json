@@ -9,9 +9,15 @@
   "case_number": "Criminal Bail Application No.S-829 of 2022",
   "date_of_order": "03.10.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 337-F"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hemandas S. Sanghani",
+    "Ms. Sana Memon",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

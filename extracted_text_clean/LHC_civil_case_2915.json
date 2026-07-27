@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-894 of 2025",
   "date_of_order": "12.05.2025",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 295-A, 295-B, 295-C, 298-A, 109 and 34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Abdul Aziz",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

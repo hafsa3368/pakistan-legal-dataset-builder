@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "12.02.2021",
   "judge": "Athar Zai",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ahmed Shaikh",
+    "Mr. Muhammad Shafiq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

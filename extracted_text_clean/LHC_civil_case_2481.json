@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.499 of 2024",
   "date_of_order": "21.07.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "Section 324 PPC",
     "Section 337-A",
@@ -22,7 +22,10 @@
     "section 324 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Allah Bux @ Kano",
+    "Aftab Hussain and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

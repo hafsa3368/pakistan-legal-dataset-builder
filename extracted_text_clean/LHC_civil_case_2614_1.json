@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Ist Cl Bail Appln N0,5-99 0* 2016",
+  "date_of_order": "27.03.2017",
+  "judge": "HON BLE UDGAR NATH BHARGAVA",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Raza Paihan",
+    "Mr Khadim Hussain Khooharo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

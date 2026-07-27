@@ -8,12 +8,14 @@
   "num_chunks": 1,
   "case_number": "Criminal Transfer Application No. S-",
   "date_of_order": "02.02.2024",
-  "judge": "",
+  "judge": "Irfan",
   "sections_cited": [
     "sections 302, 324,34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khadim Hussain vs. The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

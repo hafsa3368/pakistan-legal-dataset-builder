@@ -6,12 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.Bail App. No. S-848 of 2023",
   "date_of_order": "15.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "U/S 506/2, 420, 406, 468 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Kalhoro",
+    "Mr. Rehmat Ali Shaikh",
+    "Mr. Saeed Jamal Lund",
+    "Mr. Aftab Ahmed Shar",
+    "ASI Datar Dino"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-2464 of 2025",
   "date_of_order": "27.10.2025",
-  "judge": "",
+  "judge": "Rafiq",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Murad Ali Laghar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

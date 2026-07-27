@@ -9,9 +9,19 @@
   "case_number": "Constitution no bench",
   "date_of_order": "22.04.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 199(a)(ii)"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M. M. Aqil Awan, Danish Rashid, Aijaz Ahmed Sipra, Balosch Ahmed Junejo, Ghulam Mustafa Abro, Ali Tahir Soomro",
+    "Mr. Akhtiar Hussain Soomro",
+    "Mr. Naeem Talpur Additional Advocate General Sindh",
+    "Mr. Kishore Kumar, Director HR SELD",
+    "Mr. Naveed Ahmed Litigation Officer SELD"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

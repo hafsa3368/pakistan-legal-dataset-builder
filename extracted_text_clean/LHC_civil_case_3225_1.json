@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Bail Application stands dismissed as not",
-  "date_of_order": "",
+  "date_of_order": "16.05.2019",
   "judge": "Suleman Khan/PA",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hadi Bux Bhatt",
+    "Mr. Shafi Muhammad Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

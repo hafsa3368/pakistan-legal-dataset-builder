@@ -7,9 +7,16 @@
   "used_ocr": true,
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-715",
-  "date_of_order": "",
+  "date_of_order": "06.02.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 302 CrPC",
+    "Section 364 CrPC",
+    "Section 337-J CrPC",
+    "Section 147 CrPC",
+    "Section 148 CrPC",
+    "Section 120-B CrPC"
+  ],
   "citations": [],
   "parties": [
     "Through Mr"

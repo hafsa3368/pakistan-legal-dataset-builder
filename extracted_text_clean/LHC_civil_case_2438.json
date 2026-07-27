@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No. S – 11 of 2020 & Cr. Jail Appeal No. S – 12 of 2020",
   "date_of_order": "11.09.2023",
   "judge": "",
   "sections_cited": [
@@ -20,7 +20,12 @@
     "Section 364 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahid Ali Memon",
+    "The State",
+    "Ghulam Murtaza alias Nadeem Memon",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

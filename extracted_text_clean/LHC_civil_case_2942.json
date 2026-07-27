@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "First Appeal No.133 of 2025",
   "date_of_order": "29.09.2025",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,9 @@
     "Section 53A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mukhtar Ahmed Kobhar, advocate for appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

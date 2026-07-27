@@ -9,9 +9,19 @@
   "case_number": "criminal case wouldnot",
   "date_of_order": "16.08.2016",
   "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ayatullah Khowaja",
+    "Mr. Sarmad Hani",
+    "Mr. Jangu Khan",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Zulfqiar Ahmed Rajput",
+    "Inspector NizamuddinShaikhSHOFIA Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

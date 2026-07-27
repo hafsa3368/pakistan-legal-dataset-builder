@@ -9,9 +9,18 @@
   "case_number": "Crl. Misc. Application No.S-298 of 2023",
   "date_of_order": "",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 154 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sohail Shah Rizvi",
+    "Mr. Shafi Muhammad Mahar",
+    "State",
+    "SHO, P.S, Shaheed Murtaza Mirani-Khairpur",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

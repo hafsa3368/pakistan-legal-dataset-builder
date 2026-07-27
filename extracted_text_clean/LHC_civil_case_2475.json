@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "22.05.2024",
+  "judge": "Ahmad",
   "sections_cited": [
     "sections 365-B, 363, 147, 148 & 149 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Inayata Narejo",
+    "SHO, P.S, Agra & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "S-218 of 2023",
   "date_of_order": "21.06.2023",
   "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Murtaza Shaikh",
+    "Mr. Allah Bachayo Soomro",
+    "Ms. Safa Hisbani",
+    "Inspector Muhammad Changal",
+    "ASI Muhammad Ramzan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

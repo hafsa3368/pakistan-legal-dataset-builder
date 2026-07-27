@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl.No.653 of 2026",
   "date_of_order": "16.04.2026",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 6, 9 CNS Amended Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hazrat Hussain",
+    "The State",
+    "Mr. Rehman Ghani",
+    "Mr. Musharaf Azhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

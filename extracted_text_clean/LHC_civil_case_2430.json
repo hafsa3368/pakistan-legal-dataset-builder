@@ -7,13 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Transfer Application No.S-",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "20-10-2023",
+  "judge": "Ahmad",
   "sections_cited": [
     "Sections 324, 337H"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aftab Ahmed Shar",
+    "Habib-ur-Rahman Shaikh",
+    "respondents No.2 to 4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

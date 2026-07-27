@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "11.01.2019",
   "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Rule 19 of the Public Procurement Rules 2004"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S Aneel Contractors (Petitioner)",
+    "Pakistan Railways & others (Respondents)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

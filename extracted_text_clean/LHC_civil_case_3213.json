@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1024 of 2023",
-  "date_of_order": "",
+  "date_of_order": "16.04.2024",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ali Napar",
+    "Mr. Faheem Majeed Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-390 of 2024",
   "date_of_order": "09.08.2024",
   "judge": "Hafiz Fahad",
   "sections_cited": [
@@ -18,7 +18,11 @@
   "citations": [
     "PLD 1995 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Gaber Sindh Maheshwari",
+    "Mr. Irfan Ali Talpur, Asst. Prosecutor General, Sindh",
+    "ZAFAR AHMED RAJPUT"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

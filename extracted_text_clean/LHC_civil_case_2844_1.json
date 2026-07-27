@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 348 of 2017",
   "date_of_order": "31.01.2018",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner: Mrs. Sarwat Jehan",
+    "Deceased: Muhammad Hayat Khan s/o. Muhammad Khan",
+    "Legal Heirs: Muhammad Arsalan Khan, Muhammad Salman Khan, Muhammad Adnan Khan",
+    "Mother of Deceased: Mst. Zaitoon Begum (deceased)",
+    "Brother of Deceased: Muhammad Riaz Khan",
+    "Sister of Deceased: Shah Jahan and Noor Jehan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

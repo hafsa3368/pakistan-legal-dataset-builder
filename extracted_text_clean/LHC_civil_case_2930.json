@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "10.09.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "section 9",
     "section 176 of the Contract Act"
@@ -17,7 +17,10 @@
     "1997 CLC 546",
     "PLD 2012 SC 80"
   ],
-  "parties": [],
+  "parties": [
+    "Salman Capital Investments (Pvt.) Ltd.",
+    "Habib Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

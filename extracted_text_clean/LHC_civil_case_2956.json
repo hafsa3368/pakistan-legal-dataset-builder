@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.337 of 2026",
   "date_of_order": "18.02.2026",
   "judge": "JUDGE HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aqib @ Akro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

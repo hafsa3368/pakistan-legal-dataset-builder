@@ -9,9 +9,17 @@
   "case_number": "Criminal Bail Application No.S-368 of 2021",
   "date_of_order": "29.10.2021",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahzad Ali Shah",
+    "Mr. Wali Muhammad Khoso",
+    "Mr. Badaruddin Khoso",
+    "Ms. Sobia Bhatti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

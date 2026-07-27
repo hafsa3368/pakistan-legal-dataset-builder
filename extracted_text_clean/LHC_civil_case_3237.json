@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No. S – 85 of 2021",
   "date_of_order": "27.11.2023",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Sections 302, 324, 337-A",
     "Section 382-B CrPC",
@@ -16,7 +16,10 @@
     "Sections 324, 337-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saalim S/o Muhammad Siddique Kalo",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

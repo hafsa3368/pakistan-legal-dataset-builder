@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-48 of 2022",
   "date_of_order": "23.05.2023",
-  "judge": "",
+  "judge": "Raja Jawad Ali Saahar",
   "sections_cited": [
     "sections 324, 337-D, 337-F",
     "section 337-D PPC",
@@ -20,7 +20,10 @@
   "citations": [
     "2018 SCMR 418"
   ],
-  "parties": [],
+  "parties": [
+    "appellants",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

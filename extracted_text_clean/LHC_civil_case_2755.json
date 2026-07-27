@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.80 of 2022",
   "date_of_order": "10.04.2025",
   "judge": "JUDGE HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bushra Khatoon & others",
+    "Muhammad Abdullah & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Bail Application No. 1857",
   "date_of_order": "10.01.2025",
-  "judge": "JUDGE Athar Zai",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 365-A, 342, 34",
     "section 7",
@@ -18,7 +18,12 @@
     "section 7 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Saad Imran s/o Imran Ali",
+    "Jawad Waseem s/o Muhammad Waseem",
+    "Akbar Anwar s/o Muhammad Arshad Anwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

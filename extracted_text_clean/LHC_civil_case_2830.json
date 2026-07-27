@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Jail Appeal No. D-87 of 2019",
   "date_of_order": "06.07.2021",
-  "judge": "JUDGE",
+  "judge": "Zafar Ahmed Rajput Justice Adnan",
   "sections_cited": [
     "section 6, 9",
     "section 9",
@@ -27,7 +27,10 @@
     "2004 YLR 356",
     "2009 P. Cr. L.J 1334"
   ],
-  "parties": [],
+  "parties": [
+    "Zamir s/o. Muhammad Raman Magsi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

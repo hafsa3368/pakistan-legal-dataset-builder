@@ -6,16 +6,27 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr. Bail Appl. No.560 of 2024",
   "date_of_order": "11.12.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 295-A, 295-B, 295-C, 298-A, 34 PPC",
     "section 510 Cr.P.C",
     "Section 510 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mirza Tanveer Ahmed",
+    "Ms. Farzana Abbasi",
+    "Raja Hassan Nawaz",
+    "Mr. Rashid Hussain",
+    "Mr. Zahid Farooq Mazari",
+    "Mr. Altaf Hussain",
+    "Mir Saifullah",
+    "SI-Shoaib",
+    "SI Syed Adnan Shah",
+    "Aijaz kalwar A.D. FIA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Accountability Appeal No.28 of 2017",
   "date_of_order": "15.12.2025",
-  "judge": "JUDGE Asif",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 9",
     "Section 10",
@@ -18,7 +18,10 @@
     "Section 33"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mohammad Sohail Malim",
+    "The National Accountability Bureau & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

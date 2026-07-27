@@ -9,9 +9,17 @@
   "case_number": "Criminal Bail Application No.S-711 of 2022",
   "date_of_order": "16.09.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Sana Memon",
+    "Ms. Samreen Khaskheli",
+    "Soomar",
+    "Mst. Safeeran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

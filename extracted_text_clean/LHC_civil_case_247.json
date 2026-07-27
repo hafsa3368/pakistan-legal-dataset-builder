@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Civil Suits No.1493",
   "date_of_order": "28.03.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ali Bozdar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

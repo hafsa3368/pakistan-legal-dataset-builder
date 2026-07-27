@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Rev. Appl. No.158 of 2024",
   "date_of_order": "04.11.2024",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "Section 14",
     "Section 3,4 & 7",
@@ -16,7 +16,11 @@
     "section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "complainant",
+    "accused",
+    "Aijaz Ali Qazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

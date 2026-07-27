@@ -9,9 +9,16 @@
   "case_number": "Criminal Bail Application No.S-243 of 2023",
   "date_of_order": "20.06.2023",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shakeel Ahmed Shaikh",
+    "Mr. Asif Ali Bughio",
+    "Ms. Sana Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

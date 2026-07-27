@@ -8,10 +8,17 @@
   "num_chunks": 3,
   "case_number": "Const. Petition No. D-",
   "date_of_order": "30-12-2021",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "Zafar Ahmed Rajput",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shafqat Rahim Rajput",
+    "Pakistan Railways a/w Shahzad Javed",
+    "Law Officer, Pakistan Railways"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

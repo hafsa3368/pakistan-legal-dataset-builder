@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "08.02.2021",
   "judge": "Athar Zai",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1998 SCMR 2296",
     "2013 MLD 782",
@@ -17,7 +20,10 @@
     "1994 MLD 201",
     "2019 CLC Note 54"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Amel Khan Kasi",
+    "Mr. Raj Ali Wahid Kunwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

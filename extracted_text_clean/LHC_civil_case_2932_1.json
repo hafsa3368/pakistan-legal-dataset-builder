@@ -6,15 +6,27 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "14.12.2022",
   "judge": "Zafar Ahmed Rajput Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2003 SCMR 291",
     "2002 SCMR 769"
   ],
-  "parties": [],
+  "parties": [
+    "Shafqat Ali",
+    "Moula Bux",
+    "Haji Shamsuddin Rajper",
+    "Mr. Achar Khan Gabol",
+    "Nisar Ahmed G. Abro",
+    "DG I.B Islamabad",
+    "Director I.B (Recruitment) Islamabad",
+    "Joint Director I.B Sindh at Karachi",
+    "Deputy Director I.B Sukkur Region"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

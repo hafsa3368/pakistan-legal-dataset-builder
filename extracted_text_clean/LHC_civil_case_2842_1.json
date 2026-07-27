@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 172 of 2020",
   "date_of_order": "05.03.2021",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Kashif Mateen Zaidi",
+    "Syed Asif Mateen Zaidi",
+    "Syed Farrukh Mateen",
+    "Mrs. Talath Mateen Zaidi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

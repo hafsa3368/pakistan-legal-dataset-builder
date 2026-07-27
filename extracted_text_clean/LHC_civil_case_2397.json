@@ -8,10 +8,18 @@
   "num_chunks": 3,
   "case_number": "Const. Petition No. D-431 of 2021",
   "date_of_order": "18.11.1996",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 185 CrPC",
+    "Section 44 CrPC",
+    "Section 18 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Qalander Bux Maitlo",
+    "P.O. Sindh & others",
+    "Abdul Majeed Maitlo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

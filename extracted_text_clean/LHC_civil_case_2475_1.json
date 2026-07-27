@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Civil Reference No. S",
   "date_of_order": "23.12.2022",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Noreen",
+    "Hyder Ali Pathan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

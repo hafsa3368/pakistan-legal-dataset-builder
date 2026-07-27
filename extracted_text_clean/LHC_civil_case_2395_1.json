@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-7697 of 2017",
   "date_of_order": "23.11.2021",
   "judge": "JUDGE Abrar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Samiullah Shah",
+    "Nadeem Memon",
+    "Chaudhry Arif",
+    "Dhani Bux Lashari",
+    "Miran Muhammad Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

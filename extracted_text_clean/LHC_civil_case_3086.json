@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-2357 of 2012",
   "date_of_order": "10.08.2022",
   "judge": "JUDGE Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ismail Bhutto, Addl. A.G Sindh."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

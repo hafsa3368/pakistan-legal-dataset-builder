@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-178 of 2021",
-  "date_of_order": "",
+  "date_of_order": "11.03.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Achar Khan Gabol",
+    "Mr. Zulfiqar Ali Jatoi",
+    "Mr. Sikandar Ali Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

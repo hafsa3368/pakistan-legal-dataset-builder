@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-923 of 2021",
   "date_of_order": "16.11.2022",
-  "judge": "",
+  "judge": "ARBROHI",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Raheem Mahar",
+    "Mr. Shahryar Awan",
+    "Respondent No.5 (Deputy Secretary (Coordination) Planning and Development Department, Government of Sindh)",
+    "Respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

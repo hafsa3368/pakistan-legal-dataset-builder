@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "Cr.B.A.No.D4 01 2016",
+  "date_of_order": "15.08.2016",
+  "judge": "CU Nowah",
   "sections_cited": [
     "Sections 324"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Talib alias Kajib Ali Babar",
+    "Sahib Khan SCCKs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.Ps No.D-1115/2009",
   "date_of_order": "09.02.2023",
-  "judge": "",
+  "judge": "Mr. Dareshani Ali Haider 'Ada'",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Mushtaque Ahmed Shahani",
+    "Abdul Naeem Pirzada",
+    "Sohail Ahmed Khoso",
+    "Farzand Ali Abro",
+    "Shafique Ahmed Khan Leghari",
+    "Aamir Ali Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "D-969 0/20/2014",
+  "date_of_order": "27.8.2014",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M.A No.2305/2Jl",
+    "For Kacha Peshii",
+    "Mr Syc0 Fida Hussain Shali Slate Couinsel",
+    "For Rs on M/ANo,2307/2Ul1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

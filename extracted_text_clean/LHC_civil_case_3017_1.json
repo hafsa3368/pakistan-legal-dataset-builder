@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "Crl Misc Appln N0,5-196 2018 ",
+  "date_of_order": "14.9.2018",
+  "judge": "Juge",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bux Baloch advccate for the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

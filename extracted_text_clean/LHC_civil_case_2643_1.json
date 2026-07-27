@@ -6,14 +6,16 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr Bail Appln No D 34 012017",
   "date_of_order": "28.11.2017",
   "judge": "",
   "sections_cited": [
     "section 409,420,438,471,34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wali Muhamimiad son Muhamimad Sajan Kanuhiro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

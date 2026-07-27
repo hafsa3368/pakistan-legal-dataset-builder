@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Rev. Application No.131 of 2025",
   "date_of_order": "19.01.2026",
   "judge": "JUDGE HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Haider Salim, Additional Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

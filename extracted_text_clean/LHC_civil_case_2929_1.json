@@ -6,14 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "25.10.2022",
   "judge": "Zafar Ahmed Rajput Mr",
   "sections_cited": [],
   "citations": [
     "PLD 2017 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Zafar Ahmed Rajput",
+    "Mr. Justice Khadim Hussain Tunio",
+    "Mr. Jamshed Ahmed Faiz",
+    "Mr. Achar Khan Gabol",
+    "M/s Syed Tanveer Abbas and Badaruddin Memon",
+    "Mr. Zulfiqar Ali Naich",
+    "AAG Sindh a/w Imdad Ali Larik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

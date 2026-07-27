@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-200 of 2024",
   "date_of_order": "28.08.2025",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Moiz Jaffari, Advocate for the Appellant",
+    "Mr. Ehsan Malik, Advocate for the Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-113 of 2018",
   "date_of_order": "17.04.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -17,7 +17,10 @@
     "2015 SCMR 1698",
     "PLD 2020 SC 338"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammed Fahad Faruqui & another",
+    "Pakistan Battery Manufacturing Company Pvt. Ltd. & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

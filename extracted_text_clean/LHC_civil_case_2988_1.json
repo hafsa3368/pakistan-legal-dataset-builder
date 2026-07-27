@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Cr.B.A.No.S-12 & 13 of 2016",
+  "date_of_order": "17.10.20",
+  "judge": "Habibullah Ghouri",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Munir Ahaed Abbusi ADPP for the State",
+    "Applicants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

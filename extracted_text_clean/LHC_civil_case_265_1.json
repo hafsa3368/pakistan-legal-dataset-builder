@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.B.A.No.S-142 uf 2014",
+  "date_of_order": "05.10.2018",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naushad Ali Tugar",
+    "Mr Sharafuddin Kanhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

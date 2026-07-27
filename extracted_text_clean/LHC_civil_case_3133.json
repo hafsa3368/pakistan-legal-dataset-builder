@@ -9,9 +9,17 @@
   "case_number": "Constitutional Petition No.D-5343 of 2021",
   "date_of_order": "06.03.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khawaja Zakir-ur-din & 03 others",
+    "Mr. Muhammad Akram Qureshi",
+    "Through Mr. Abdul Jalil Zubedi, AAG",
+    "Mr. Imtiaz Ali Solangi, advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

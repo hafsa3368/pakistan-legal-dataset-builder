@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1486 of 2023",
-  "date_of_order": "",
+  "date_of_order": "14-03-2024",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rehmat Ali Shaikh",
+    "Mr. Qadeer Ahmed Shaikh",
+    "Mr. Zulfiqar Ali Naich",
+    "Fayaz Ahmed Mangi",
+    "Secretary, D.R.T.A, Sukkur",
+    "Waheed Ali",
+    "SIP-Abdul Rahman",
+    "District Regional Transport Authority, Khairpur",
+    "Police Officials"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

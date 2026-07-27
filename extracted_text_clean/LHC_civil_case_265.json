@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-53 of 2024",
-  "date_of_order": "",
+  "date_of_order": "23-01-2024",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Ali Gul Abbasi and Muhammad Zuhaib Azam Rajput, Advocates for petitioner",
+    "Mr. Muhammad Zubair Malik, Advocate for respondent No.1",
+    "Mr. Zeeshan Haider Qureshi, Law Officer of ECP along with Ghulam Abbas Tunio, Returning Officer NA-200",
+    "Mr. Dareshani Ali Haider 'Ada', D.A.G for Pakistan",
+    "Mr. Ahmed Ali Shahani, Assistant A.G for Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.D-18 of 2022",
   "date_of_order": "30.08.2022",
-  "judge": "",
+  "judge": "AMJAD ALI SAHITO",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ayoub",
+    "The State",
+    "Shawak Rathore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

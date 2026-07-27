@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.S-765 of 2021",
   "date_of_order": "15.11.2021",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Nisar",
+    "Mr. Ali Nawaz Rajput",
+    "Ms. Sana Memon",
+    "MUHAMMAD IQBAL KALHORO",
+    "The Complainant",
+    "Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

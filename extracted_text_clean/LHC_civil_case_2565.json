@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Cr.B.A.No.S-994 of 2017",
+  "date_of_order": "15.02.2015",
+  "judge": "IFor",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 150 L/2015"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Aboul Rehmon Bhuilo",
+    "Ior Ine Jpplicon MI Khocim Husscin Khoonhicro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "04.01.2021",
   "judge": "Nazar Akber",
   "sections_cited": [
     "section 7"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Array Masih @ Eric",
+    "The State & others",
+    "Waqas Masih",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "D-243 of 2021",
   "date_of_order": "10.08.2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ali Bozdar",
+    "Munir Ahmed Soomro",
+    "Assistant Executive Engineer, Provincial Highways Divison, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

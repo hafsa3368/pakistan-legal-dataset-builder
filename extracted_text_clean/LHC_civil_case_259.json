@@ -8,8 +8,11 @@
   "num_chunks": 3,
   "case_number": "Const. Petition No. D-173 of 2022",
   "date_of_order": "13-09-2023",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 1257",
     "2018 SCMR 1405",
@@ -21,7 +24,10 @@
     "2022 SCMR 964",
     "2022 SCMR 1680"
   ],
-  "parties": [],
+  "parties": [
+    "Nawab Ali & others",
+    "P.O. Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,17 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "Criminal Miscellancuus Applieution No.S-34",
-  "date_of_order": "",
+  "date_of_order": "23.01.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mir Muntaz Ali Bughio",
+    "Mr Wajid Ali",
+    "Mraili Ainwar Kandhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

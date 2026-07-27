@@ -9,11 +9,18 @@
   "case_number": "Constitutional Petition No. D-3299 of 2022",
   "date_of_order": "30.10.2024",
   "judge": "JUDGE Tahseen",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2011 SC 44"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Arsalan Wahid, Advocate for the petitioner",
+    "Mr. Jawad Dero, AAG for respondent No.1",
+    "Mr. Iqbal Khurram, Advocate for the respondents No.2 & 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

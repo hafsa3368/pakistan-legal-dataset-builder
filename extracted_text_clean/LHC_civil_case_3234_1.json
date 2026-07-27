@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "09.02.2010",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S Abdul Rahim",
+    "Abdul Sattar",
+    "HESCO",
+    "WAPDA Sukkur",
+    "SEPCO",
+    "Mr. Muhammad Nasir Malik, Advocate",
+    "Mr. Abdul Mujeeb Shaikh, Advocate",
+    "Mr. Ashfaq Hussain Abro, Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

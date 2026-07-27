@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Revision Application No.124 of 2024",
   "date_of_order": "15.01.2025",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 109",
     "Section 23-H of Foreign Exchange Regulations Act",
@@ -16,7 +16,11 @@
     "section 23B"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State & another",
+    "M/s. Swiss Exchange Company",
+    "M/s. Swiss International Exchange Company"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

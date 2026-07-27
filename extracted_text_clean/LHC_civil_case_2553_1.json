@@ -9,9 +9,18 @@
   "case_number": "constituted vide Notification",
   "date_of_order": "13th July, 2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Habibullah G. Ghouri",
+    "Mr. Abdul Hamid Bhurgri",
+    "Addl. Advocate General",
+    "Abid Hussain Qadri",
+    "State Counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

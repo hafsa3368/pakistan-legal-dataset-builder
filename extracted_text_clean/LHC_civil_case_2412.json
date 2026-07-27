@@ -9,9 +9,17 @@
   "case_number": "Crl. Bail Application No.S-",
   "date_of_order": "11.05.2023",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Shaheena Qureshi",
+    "Muhammad Iqbal Kalhoro",
+    "Mr. Muhammad Qayyum Arain",
+    "Mr. Shafi Muhammad Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-2869 of 2022",
   "date_of_order": "05.06.2024",
-  "judge": "JUDGE Tufail",
-  "sections_cited": [],
+  "judge": "Zafar Ahmed Rajput",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Zafar Ahmed Rajput",
+    "Mr. Justice Muhammad Faisal Kamal Alam",
+    "Mr. Noor Ahmed Memon",
+    "Additional A.G, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

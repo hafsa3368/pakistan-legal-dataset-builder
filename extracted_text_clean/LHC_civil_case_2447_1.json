@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P. No. D – 4093 of 2016",
   "date_of_order": "",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khan Muhammad Sangi, Advocate for the petitioners",
+    "Mr. Sawan Khan Jagirani, Legal Advisor of respondents / S.I.D.A.",
+    "Muhammad Hasim Mahar, Assistant Executive Engineer on behalf of Executive Engineer, Ghotki Division (Irrigation) @ Ghotki",
+    "Mr. Zulfiqar Ali Naich, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

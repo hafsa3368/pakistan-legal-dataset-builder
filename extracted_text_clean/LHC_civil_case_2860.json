@@ -7,11 +7,13 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1229 of 2022",
-  "date_of_order": "",
+  "date_of_order": "07.09.2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shafi Muhammad Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

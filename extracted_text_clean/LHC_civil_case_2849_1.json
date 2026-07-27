@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-6018 of 2021",
   "date_of_order": "02.11.2021",
   "judge": "JUDGE Athar Zai",
-  "sections_cited": [],
+  "sections_cited": [
+    "Sindh Land Revenue Act, 1967"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Muhammad Zahid and Abdul Moeed Zahid, Advocates",
+    "Mr. Meeran Muhammad Shah, Additional Advocate General",
+    "Petitioner",
+    "Respondent No. 4 (Mukhtiarkar (Revenue), Gulzar-e-Hijri, District Karachi- East)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

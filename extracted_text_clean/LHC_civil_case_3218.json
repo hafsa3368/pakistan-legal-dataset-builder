@@ -8,15 +8,21 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No.D-",
   "date_of_order": "14.08.2023",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR 560",
     "2023 MLD 271",
     "2020 SCMR 1672",
     "2018 YLR Note 87"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yousif Kalwar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

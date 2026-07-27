@@ -8,10 +8,13 @@
   "num_chunks": 2,
   "case_number": "Crl. Transfer Application No. S-",
   "date_of_order": "",
-  "judge": "",
+  "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sheeraz Ali Kalhoro",
+    "Achar Khan Gabol"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

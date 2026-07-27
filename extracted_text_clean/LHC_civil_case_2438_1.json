@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-366 of 2020",
   "date_of_order": "06.02.2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Rehan Khan Durrani, Advocate",
+    "Mr. Sohail Ahmed Khoso, Advocate",
+    "Ali Gul",
+    "Lal Jurio",
+    "Mehboob Ali Wassan, Assistant A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

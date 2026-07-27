@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2024",
   "date_of_order": "30.09.2024",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 25",
     "Section 25",
@@ -22,7 +22,10 @@
     "PLD 2018 Sindh 377",
     "PLD 2015 Sindh 382"
   ],
-  "parties": [],
+  "parties": [
+    "Fatima Sohail",
+    "Haseeb Shafqat Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

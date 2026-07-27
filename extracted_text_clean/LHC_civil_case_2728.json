@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D-1674 of 2010",
   "date_of_order": "05.12.2017",
   "judge": "JUDGE Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Pir Bux Bhurgri",
+    "Mr. Muhammad Sajjad Soomro",
+    "Mr. Muhammad Ismail Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

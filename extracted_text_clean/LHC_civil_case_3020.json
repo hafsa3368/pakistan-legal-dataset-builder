@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Constitutional Petition. 4. No.D-862 of 2016",
   "date_of_order": "07.03.2019",
-  "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro Mr",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2013 SC 829"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Jami",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl. Misc. Application No.S-583 of 2023",
   "date_of_order": "21.05.2024",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "sections 302, 324, 395, 396, 148, 149, 114, 452, 436, 427, 337H",
     "section 173 CrPC"
@@ -26,7 +26,10 @@
     "PLD 1994 Lahore 407",
     "PLD 2013 Sindh 423"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Nabi & another",
+    "The State & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

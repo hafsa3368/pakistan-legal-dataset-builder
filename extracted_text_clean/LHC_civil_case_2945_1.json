@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D- 1589 of 2022",
   "date_of_order": "09.05.2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Sattar Mahesar",
+    "Mr. Niaz Hussain Maitlo",
+    "Mrs. Rizwana Parveen Memon",
+    "Mehboob Ali Wassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

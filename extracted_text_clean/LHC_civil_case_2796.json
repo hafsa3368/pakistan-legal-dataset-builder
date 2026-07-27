@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2023",
   "date_of_order": "01.11.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Tanveer Abbas Shah",
+    "NADRA",
+    "M/s Mir Ali Nawaz Jagirani and Najamuddin Dharejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

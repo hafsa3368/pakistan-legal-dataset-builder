@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "23.12.2024",
   "judge": "",
   "sections_cited": [],
@@ -21,7 +21,10 @@
     "PLD 2015 Sindh 451",
     "PLD 2003 Karachi 444"
   ],
-  "parties": [],
+  "parties": [
+    "Rehman Dino",
+    "Mst. Fehmida"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

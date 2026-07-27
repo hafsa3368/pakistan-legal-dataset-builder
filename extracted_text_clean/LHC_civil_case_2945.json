@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Revision Application No.219 of 2024",
   "date_of_order": "10.12.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "section 23",
     "section 365-B PPC",
@@ -16,7 +16,10 @@
     "section 365-A or 365-B"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Waseem Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

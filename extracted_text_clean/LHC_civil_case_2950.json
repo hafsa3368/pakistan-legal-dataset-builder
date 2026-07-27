@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl.No.3128 of 2025",
   "date_of_order": "10.12.2025",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Zareen Khan, Advocate",
+    "Mr. Ali Haider Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

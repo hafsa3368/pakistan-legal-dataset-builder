@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Criminal Anti-Terrorism Appeal No. 10 of 2023",
   "date_of_order": "24.05.2024",
-  "judge": "JUDGE Athar Zai",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "Section 376, 506-B, 34",
     "Section 7",
@@ -28,7 +28,10 @@
     "PLD 1998 SC 1445",
     "PLD 2017 SC 661"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muzamil s/o Zakir Hussain Aaraiz s/o Hameed Adeel s/o Abdul Sattar and Subhan s/o Muhammad Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

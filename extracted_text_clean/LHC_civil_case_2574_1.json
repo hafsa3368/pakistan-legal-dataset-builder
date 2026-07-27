@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr Revr No.24 of 2021",
   "date_of_order": "19.07.2021",
   "judge": "",
   "sections_cited": [
@@ -16,7 +16,10 @@
     "section 345"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saddique Bangwar",
+    "Mohammao Muzamil Asghar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

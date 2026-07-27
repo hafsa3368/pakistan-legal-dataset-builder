@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "Criminal Appeal No.D-79 of 2021",
   "date_of_order": "28.03.2023",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 9",
     "Section 382-B Cr.PC",
@@ -38,7 +38,11 @@
     "2021 P Cr. L J Note 22",
     "2020 YLR 311"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Abdul Raheem son of Haji Muhammad Alam",
+    "Lajbar son of Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

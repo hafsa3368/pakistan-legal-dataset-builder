@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "NoD- ə́ of 20–2019",
   "date_of_order": "",
-  "judge": "",
+  "judge": "Judicial Officer",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State v. Anwar",
+    "Anwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,19 @@
   "num_chunks": 10,
   "case_number": "Civil Appeals No.27/2021",
   "date_of_order": "12.09.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2005 SCMR 577"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ateeq & other",
+    "Muhammad Tariq & another",
+    "Muhammad Shafiq & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

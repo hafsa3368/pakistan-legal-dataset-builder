@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2018",
   "date_of_order": "30.01.2019",
   "judge": "JUDGE Sajjad Ali Jessar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muntazir Mehdi Leghari",
+    "Mr. Rasheed Ahmed Soomro",
+    "HMC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

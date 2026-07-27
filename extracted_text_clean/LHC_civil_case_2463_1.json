@@ -6,15 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2023",
   "date_of_order": "08.02.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 161",
     "Section 173"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ali Bozdar, Advocate for the petitioners along with petitioners",
+    "Respondent No.5",
+    "Mr. Ghulam Abbas Kubar, Assistant Advocate General Sindh",
+    "Mr. Shafi Muhammad Mahar",
+    "S.I.P. Muhammad Iqbal Rajput"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

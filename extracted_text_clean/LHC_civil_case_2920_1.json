@@ -8,10 +8,19 @@
   "num_chunks": 3,
   "case_number": "Civil Revision Application No. S-",
   "date_of_order": "23.01.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mr. Muhammad Zubair Malik",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Zubair Malik",
+    "Mr. Sarfraz A. Akhund",
+    "Mr. Ali Raza Baloch",
+    "Irshad Ali s/o Sikandar A li",
+    "Mst. Lal Khatoon w/o Sikandar Ali",
+    "respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

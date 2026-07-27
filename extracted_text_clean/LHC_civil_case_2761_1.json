@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "Spl. Cr. A.T. Jail Appeal No. 40 of 2024",
   "date_of_order": "12.02.2025",
   "judge": "Zafar Ahmed Rajput Justice Tasneem",
   "sections_cited": [
@@ -29,7 +29,10 @@
     "2022 SCMR 690",
     "PLD 2019 SC 488"
   ],
-  "parties": [],
+  "parties": [
+    "Mumtaz Ali s/o Qadir Bux",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
