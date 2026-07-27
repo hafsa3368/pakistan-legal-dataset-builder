@@ -6,16 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Revision Application No.182 of 2022",
   "date_of_order": "09.09.2024",
-  "judge": "",
+  "judge": "hanif",
   "sections_cited": [
     "section 6/9 CNS Act",
     "section 517-A",
     "section 516-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Naseeruddin",
+    "Mr. Abrar Ali Khichi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

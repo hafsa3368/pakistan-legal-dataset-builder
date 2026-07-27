@@ -6,16 +6,25 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "25.02.2021",
   "judge": "Athar Zai",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2001 SCMR 953",
     "2013 SCMR 464",
     "PLD 2003 Lahore 615"
   ],
-  "parties": [],
+  "parties": [
+    "Humair Associates Builders (Pvt.) Limited, through Mr. Wajahat Abbas, Advocate.",
+    "M/s. Chappal Builders and others, through No. 1 to 5 Mr. Abrar Hassan, Advocate.",
+    "Muhammad Saleem s/o. Muhammad Sharif",
+    "C.D.G.K., through D.D.O (Revenue) No.7",
+    "District Registrar (Registration) and others, No. 8 to 10 through Mr. Ziauddin Junejo, Assistant A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-30 of 2019",
   "date_of_order": "28.02.2019",
   "judge": "JUDGE Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Allah Bachayo Soomro",
+    "SIP Laloo Mal, P.S City, Umerkot",
+    "SIP Qurban Rajar, P.S Islamkot",
+    "Mr. Zaheer Uddin Nohri",
+    "Learned Additional Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

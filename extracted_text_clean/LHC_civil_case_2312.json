@@ -6,14 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "CMA 36080/2019 of 2019",
   "date_of_order": "24.01.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "PLD 1980 SC 64"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner in person alongwith Mr. Faizan Mansoor Advocate.",
+    "Mr. Muhammad Yaseen Khan Azad advocate for intervenor.",
+    "Mr. Shahbaz Sahotra, Special Prosecutor NAB",
+    "Sahibzada Muhammad Matin Mirza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

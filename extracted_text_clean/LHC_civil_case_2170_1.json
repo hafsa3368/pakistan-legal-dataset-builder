@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-5453%CB25%10/2019",
   "date_of_order": "03.11.2015",
   "judge": "",
   "sections_cited": [
@@ -17,7 +17,10 @@
     "Section 25"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Munir Ahmed Abbasi D.D.",
+    "Wali Muhammad s0n Nabi Bux Mazari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

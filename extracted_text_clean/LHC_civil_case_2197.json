@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Ist Appeal No.49 of 2024",
   "date_of_order": "12.11.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Asif",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asim Mansoor Khan, Advocate for the appellant a/w Ms. Shumaila Sagheer Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,15 @@
   "case_number": "Criminal Bail Application No.S-774l201",
   "date_of_order": "",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Irfan N. Kobhar, Advocate for complainant in Cr. Bail Application No.5-773/2018 & S-77412018",
+    "Shafl Muhammad Mahar, Deputy Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

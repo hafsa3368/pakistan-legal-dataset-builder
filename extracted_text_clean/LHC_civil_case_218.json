@@ -9,9 +9,20 @@
   "case_number": "Const. Petition No.D-341 of 2021",
   "date_of_order": "06.09.2023",
   "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Salam Shaikh, Advocate",
+    "Mr. Ali Raza Baloch, Assistant Advocate General a/w Waheed Panhwar",
+    "Waheed Panhwar, Secretary, DRTA Khairpur",
+    "Fayyaz Ahmed Mangi, Secretary, DRTA Sukkur",
+    "Zameer Brohi, Secretary DRTA",
+    "Naushahro Feroze, Aijaz Ali Surhio, Secretary, DRTA, Larkana",
+    "Haroon Ali Jamali, Secretary, DRTA, Nawabshah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

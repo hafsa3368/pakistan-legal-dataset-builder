@@ -8,13 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.D-128 of 2019",
   "date_of_order": "30.08.2022",
-  "judge": "",
+  "judge": "AMJAD ALI SAHITO",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Razzak",
+    "Mst. Moomal",
+    "The State",
+    "Abdul Razaque"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

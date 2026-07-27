@@ -6,12 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Transfer Application No.53 of 2025 (The State through PG Sindh Vs. Rehman Ahmed & another) Cr. Transfer Application No.54 of 2025 (The State through PG Sindh Vs. Syed Raza Ali alias Soldier)",
   "date_of_order": "10.06.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Rafiq",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State through PG Sindh",
+    "Rehman Ahmed & another",
+    "The State through PG Sindh",
+    "Syed Raza Ali alias Soldier"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

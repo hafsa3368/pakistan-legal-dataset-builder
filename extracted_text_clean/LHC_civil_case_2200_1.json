@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Jail Appeal No. 616 of 2024",
   "date_of_order": "26.02.2025",
-  "judge": "JUDGE Tahseen /PA",
+  "judge": "Zafar Ahmed Rajput Justice Ms",
   "sections_cited": [
     "sections 302/311",
     "Section 302",
@@ -21,7 +21,10 @@
     "2018 MLD 1025",
     "2018 MLD 422"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Muhammad s/o Khamiso Jiskani",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

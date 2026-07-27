@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "01.06.2018",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR 728",
     "1996 SCMR 1845",
@@ -27,7 +30,28 @@
     "PLD 2015 Sindh 295",
     "PLD 2009 SC 2"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Qadir Memon",
+    "Chairman NAB through Mr. Anwar Tariq and Mr. Muhammad Rehman Ghous",
+    "Ghulam Abbas Soomro",
+    "Chairman NAB through Mr. Muhammad Jameel, Advocate",
+    "Ali Hassan Brohi",
+    "Chairman NAB through Mr. Ovais Ali Shah, Advocate",
+    "Abdul Jabbar Laghari",
+    "Chairman NAB through Mr. Haider Waheed, Advocate",
+    "Ali Nawaz",
+    "Chairman NAB through Mr. Haider Waheed, Advocate",
+    "Ali Asghar Mandro",
+    "Chairman NAB through Mr. Haider Waheed, Advocate",
+    "Dr. Ghulam Mustafa Suhag",
+    "Chairman NAB & others through Mr. Raj Ali Wahid Kunwar, Advocate",
+    "Ejaz Hussain",
+    "Chairman NAB & others through Mr. Muhammad Zeeshan Abdullah, Advocate",
+    "Abdul Latif Khoso",
+    "Chairman NAB & others through Mr. Ralique Ahmed Kalwar, Advocate",
+    "Muhammad Siddique Memon",
+    "Chairman NAB & others through Hafiz AIi Ashfaq, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

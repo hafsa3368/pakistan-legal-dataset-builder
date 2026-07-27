@@ -7,9 +7,13 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "Crl Bail Appln No 549",
-  "date_of_order": "",
+  "date_of_order": "05.11.2015",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 3/16 P.P.C."
+  ],
   "citations": [],
   "parties": [
     "Shah Muhammad "

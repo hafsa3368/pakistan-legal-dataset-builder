@@ -6,12 +6,30 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "23.09.2074",
   "judge": "Muhammad Shafi Siddiqui",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Azhar Tunio",
+    "Mr. Ali Nawaz Changhro",
+    "Mr. Safdar A1i Ghouri",
+    "Mr. Athar Abbas Solangi",
+    "Mr. Rashid Mustafa Solangi",
+    "Mr. Rafique Ahmed K. Abro",
+    "Mr. Imtiaz Ahmed Shahani",
+    "Mr. Fida Hussain Shah",
+    "Mr. Ghulam Muhiyudciin Durrani",
+    "Mr. Ghayoor Abbas Shahani",
+    "Mr. Abdul Rehman A. Bhutto",
+    "Mr. Imtiaz Ahmed Bhatti",
+    "Syed Ghous Ali Shah",
+    "Mrs. Leela @ Kalpna Devi",
+    "Mr. Abdul Hamid Bhurgri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

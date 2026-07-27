@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A No.279/2023",
   "date_of_order": "14.02.2022",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 2 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Town Municipal Corporation Moriro Mirbahar",
+    "UBL Insurers Limited",
+    "Mr. Muhammad Idrees",
+    "Ms. Saira Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

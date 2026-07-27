@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-391 of 2020",
   "date_of_order": "14.09.2020",
   "judge": "Athar Zai",
   "sections_cited": [
     "Section 39 of the Specific Relief Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Noor Muhammad Dayo",
+    "plaintiff"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

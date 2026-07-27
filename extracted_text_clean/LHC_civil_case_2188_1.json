@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Civil Revision Application No. S-54",
   "date_of_order": "28.04.2023",
-  "judge": "",
+  "judge": "ZAFAR AHMED RAJPUT",
   "sections_cited": [
     "section 5",
     "Section 5 of the Act",
@@ -20,7 +20,11 @@
     "1980 SCMR 36",
     "PLD 1984 Karachi 190"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Nusrat Husain Shah",
+    "Mr. Athar Hussain Abro",
+    "Sarfraz A. Akhund"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

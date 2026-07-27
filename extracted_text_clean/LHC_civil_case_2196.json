@@ -8,12 +8,19 @@
   "num_chunks": 3,
   "case_number": "Constitution Petition No.D-4882 of 2025",
   "date_of_order": "06.11.2025",
-  "judge": "",
+  "judge": "Jude Allen Pereira",
   "sections_cited": [
     "section 47"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Rana Daniyal Akram and Daniyal Muhammad Hussain, Advocate for Petitioner",
+    "Mr. Muhammad Hisham Mahar, Asst. Advocate- General, Sindh",
+    "Mr. Javed Ahmed Mahar, Conservator Wildlife Department, Government of Sindh",
+    "Mr. Asad Ahmed, Advocate",
+    "Akhlaque Khan Yousufzai, Senior Director, Zoo, Safari & Recreation, KMC",
+    "Dr. Aamir Ismail Razvi, Deputy Director Zoo, KMC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

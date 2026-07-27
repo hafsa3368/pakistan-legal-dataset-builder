@@ -6,12 +6,31 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Constitutional jurisdiction. As noted",
   "date_of_order": "18.01.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Daud Narejo",
+    "Mr. Salman Talibuddin",
+    "Mr. Shabbir Shah",
+    "Mr. Farooq H. Naek",
+    "Mr. Altaf Hussain",
+    "Mr. Ishfaque Ahmed",
+    "Barrister Babar Hussain Shah",
+    "Mr. Irfan Ahmed Qureshi",
+    "Mr. Abdul Rehman Bhutto",
+    "Syed Ali Anwer Shah",
+    "Mr. Ali Nawaz Ghanghro",
+    "Mr. Mumtaz Ali Jessar",
+    "Mr. Amanullah Khan",
+    "Blosch Ahmed Junejo",
+    "Mr. Rizwan Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

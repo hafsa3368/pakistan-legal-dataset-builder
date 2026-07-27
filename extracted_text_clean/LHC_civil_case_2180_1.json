@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Habibullah Ghouri",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Munir Ahaed Abbusi ADPP for the State",
+    " Applicants ure present interim pre arrest bail Mr Habibullah Ghouri holding brief for Mr Safdar Ali Ghouri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

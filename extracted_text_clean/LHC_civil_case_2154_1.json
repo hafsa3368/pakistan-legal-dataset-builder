@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Crl Bail APpln No.332 of 2016",
   "date_of_order": "",
-  "judge": "",
+  "judge": "Ol Hlarng",
   "sections_cited": [
     "section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr MMazher /All Mangan advocale",
+    "Mr Khadiim Hussnin Khoohuru"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

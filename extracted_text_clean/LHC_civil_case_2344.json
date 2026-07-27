@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.S-645 of 2022",
   "date_of_order": "12.09.2022",
   "judge": "Shahid",
   "sections_cited": [
     "Section 337-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imtiaz Ali Channa",
+    "Mr. Fayaz Hussain Sabki",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Const Petition No. D-",
   "date_of_order": "",
-  "judge": "",
+  "judge": "Hein",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Naimatullah Bhurgri",
+    "Mr Inayatullah Morio, Advocate",
+    "Mr Habibullah Ghouri, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

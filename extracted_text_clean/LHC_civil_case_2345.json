@@ -9,14 +9,25 @@
   "case_number": "misconduct cannot",
   "date_of_order": "20.02.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2020 SCMR 1",
     "1985 SCMR 1158",
     "2013 SCMR 544",
     "2017 SCMR 399"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Shaista Shoukat Ali",
+    "Federation of Pakistan and 03 others",
+    "JPMC",
+    "Mr. Zamir Hussain Ghumro",
+    "Ms. Amina Saeed Ghani",
+    "Mr. Yasir Shah",
+    "Mr. Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

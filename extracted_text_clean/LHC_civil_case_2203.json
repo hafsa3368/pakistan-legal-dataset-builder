@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Spl. Cr. A.T. Jail Appeal No.09 of 2025",
   "date_of_order": "10.12.2025",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 7",
     "section 382-B Cr.P.C",
@@ -17,7 +17,10 @@
     "section 353 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mansoor & others",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

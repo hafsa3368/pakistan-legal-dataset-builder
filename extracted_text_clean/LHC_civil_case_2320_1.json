@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No. S- 599 of 2020",
   "date_of_order": "17.07.2020",
   "judge": "Hafiz Fahad",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulamullah Chang",
+    "Muzafar Ali s/o Muhammad Khan and Kashif Ali s/o Allah Jurio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

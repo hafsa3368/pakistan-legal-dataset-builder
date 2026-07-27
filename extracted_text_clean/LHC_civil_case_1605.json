@@ -8,8 +8,12 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.D-71 of 2020",
   "date_of_order": "06.09.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 173 CrPC",
+    "u/s 342 CrPC",
+    "u/s 6 & 9"
+  ],
   "citations": [
     "2020 SCMR 196",
     "2019 SCMR 326",

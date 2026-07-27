@@ -7,11 +7,13 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No. D-",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "30.9.2016",
+  "judge": "Jucige Jucige Altrd Li",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naimatullah Bhurgri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

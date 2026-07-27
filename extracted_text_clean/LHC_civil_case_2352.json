@@ -6,7 +6,11 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": [
+    "Cr.B.A.No.S-994 of 2019",
+    "Cr.B.A.No.S-328 of 2019",
+    "Cr.B.A.No.S-28 of 2020"
+  ],
   "date_of_order": "10.05.2022",
   "judge": "",
   "sections_cited": [

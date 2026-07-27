@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "",
+  "case_number": "I. A. No. 96 of 2025",
   "date_of_order": "06.09.2018",
   "judge": "",
   "sections_cited": [
@@ -27,7 +27,10 @@
     "1987 SCMR 1543",
     "2025 SCMR 955"
   ],
-  "parties": [],
+  "parties": [
+    "Zakiruddin & others",
+    "M/s. B.R.R. Gurdian Modarba & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

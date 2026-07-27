@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.2646 of 2024",
   "date_of_order": "24.01.2025",
   "judge": "HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD IQBAL KALHORO (Complainant)",
+    "Mr. S.M. Nehal Hashmi, advocate for applicant",
+    "Mr. Salim Akhtar Buriro, Addl. Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

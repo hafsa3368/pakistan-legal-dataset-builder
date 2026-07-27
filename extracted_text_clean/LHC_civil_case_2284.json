@@ -9,9 +9,14 @@
   "case_number": "Criminal Bail Application No.D-06 of 2019",
   "date_of_order": "15.01.2019",
   "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Nooreen Noor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

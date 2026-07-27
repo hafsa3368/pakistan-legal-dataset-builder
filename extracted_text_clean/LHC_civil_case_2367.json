@@ -9,11 +9,19 @@
   "case_number": "Constitutional Petition No.D-4106 of 2020",
   "date_of_order": "14.03.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Altaf Hussain",
+    "KMC",
+    "the Secretary Local Government",
+    "Dr. Taj Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

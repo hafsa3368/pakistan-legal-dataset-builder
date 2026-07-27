@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.S-735 of 2022",
   "date_of_order": "22.08.2022",
   "judge": "Shahid",
   "sections_cited": [
     "Section 354-A PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muzammil Bughio, Advocate",
+    "Mr. Hussain Bux Solangi, Advocate a/w complainant",
+    "Ms. Sana Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

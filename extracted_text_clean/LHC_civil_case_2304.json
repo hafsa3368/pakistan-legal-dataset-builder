@@ -8,8 +8,11 @@
   "num_chunks": 5,
   "case_number": "Civil Appeal No.1549/2014",
   "date_of_order": "02.12.2021",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro Mr",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 1181",
     "2015 SCMR 1257",
@@ -17,7 +20,10 @@
     "2018 SCMR 157",
     "2019 SCMR 233"
   ],
-  "parties": [],
+  "parties": [
+    "Khalil-ur-Rehman & Ors",
+    "Federation of Pakistan & Ors"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

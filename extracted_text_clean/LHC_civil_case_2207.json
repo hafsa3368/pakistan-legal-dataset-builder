@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-2235 of 2025",
   "date_of_order": "18.11.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 161"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zeeshan @ Iqbal",
+    "The State",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

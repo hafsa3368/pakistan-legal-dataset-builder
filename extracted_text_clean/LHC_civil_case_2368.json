@@ -9,9 +9,18 @@
   "case_number": "Constitutional Petition No.D-5779 of 2018",
   "date_of_order": "16.03.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nizamuddin Larik",
+    "52 others",
+    "the Province of Sindh",
+    "Mr. Abdul Samad Memon",
+    "Mr. Abdul Jalil Zubedi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

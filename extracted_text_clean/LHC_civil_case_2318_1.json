@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Crl. Jail Appeal No. 641 of 2024",
   "date_of_order": "29.05.2025",
-  "judge": "JUDGE Athar Zai",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 6/9",
     "section 382-B",
@@ -24,7 +24,10 @@
   "citations": [
     "2007 SCMR 206"
   ],
-  "parties": [],
+  "parties": [
+    "Noman s/o Abdul Razzak",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

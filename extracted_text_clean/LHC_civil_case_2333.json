@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D-242 of 2020",
   "date_of_order": "26.10.2021",
   "judge": "JUDGE Shahid",
   "sections_cited": [
@@ -19,7 +19,11 @@
   "citations": [
     "2016 SCMR 467"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Anwar H. Ansari",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Nazar Muhammad Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

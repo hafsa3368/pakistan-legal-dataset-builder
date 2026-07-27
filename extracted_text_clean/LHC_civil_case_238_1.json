@@ -7,13 +7,17 @@
   "used_ocr": true,
   "num_chunks": 3,
   "case_number": "Crl Bail Application the applicanils No1",
-  "date_of_order": "",
+  "date_of_order": "23.09.2016",
   "judge": "",
   "sections_cited": [
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Makhan son of Gul",
+    "Mr Khuadim Hussain Khoharo D \" G",
+    "Mst Hoor Khaioon wife of Curban Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

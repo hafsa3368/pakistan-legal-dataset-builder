@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "Criminal Bail Application stands dismissed as not",
   "date_of_order": "07.02.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mansoor Hussain Maitlo",
+    "Mr. Aftab Ahmed Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

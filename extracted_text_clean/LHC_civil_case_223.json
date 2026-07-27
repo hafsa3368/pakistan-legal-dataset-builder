@@ -9,9 +9,19 @@
   "case_number": "Crl. Bail Application No.S-",
   "date_of_order": "01.07.2022",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Bachal Thebo",
+    "The State",
+    "M/s Sohail Ahmed Khoso and Abdul Qadeer Khoso",
+    "Mr. Shafi Muhammad Mahar",
+    "SIP/ I.O Mushtaque Ahmed",
+    "ASI Muhammad Daim Narejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

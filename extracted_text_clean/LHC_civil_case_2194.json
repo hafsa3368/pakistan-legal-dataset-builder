@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-2670 of 2010",
   "date_of_order": "15.10.2025",
-  "judge": "",
+  "judge": "Rafiq",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Munir Ahmed Jamali",
+    "Wazir Khan",
+    "Abdul Ghaffar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.Bail Applications No.1916 and 1914 of 2024",
   "date_of_order": "14.10.2024",
   "judge": "HANIF",
   "sections_cited": [
     "section 161"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shaukat Ali Bhanbhro",
+    "Ms. Amna Ansari",
+    "MUHAMMAD IQBAL KALHORO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

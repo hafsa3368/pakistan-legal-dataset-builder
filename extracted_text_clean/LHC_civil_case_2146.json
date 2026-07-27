@@ -9,12 +9,18 @@
   "case_number": "Criminal Bail Application No.S-508 of 2021",
   "date_of_order": "15.11.2021",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2019 SCMR 1651",
     "2017 SCMR 531"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Hassan Chandio",
+    "Ms. Sana Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

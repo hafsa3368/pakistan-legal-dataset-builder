@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Bail Applications No.2930",
   "date_of_order": "03.03.2025",
-  "judge": "JUDGE Tahseen /PA",
+  "judge": "Zafar Ahmed Rajput Justice Ms",
   "sections_cited": [
     "sections 406, 420, 468, 471, 109",
     "section 406, 420, 468, 471, 109",
@@ -19,7 +19,13 @@
   "citations": [
     "2016 SCMR 447"
   ],
-  "parties": [],
+  "parties": [
+    "Javed Mahmood s/o Mahmood Ali Khan",
+    "Syed Zeeshan Afzaal Bilgrami",
+    "Muhammad Khalid s/o Ahmed Bakali",
+    "The State",
+    "Ms. Corrine (Yunyan) Chen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

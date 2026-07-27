@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.2896 of 2024",
   "date_of_order": "24.12.2024",
   "judge": "HANIF",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Abdul Rehman",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

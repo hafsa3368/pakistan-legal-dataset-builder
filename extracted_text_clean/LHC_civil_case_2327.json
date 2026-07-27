@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No.D-15 of 2020",
   "date_of_order": "13.09.2022",
-  "judge": "",
+  "judge": "AMJAD ALI SAHITO",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Sarwar",
+    "The State through Mr. Nazar Muhammad Memon A.P.G. Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

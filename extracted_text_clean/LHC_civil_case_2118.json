@@ -9,9 +9,15 @@
   "case_number": "Criminal Mic. Application No.D-17 of 2021",
   "date_of_order": "31.08.2022",
   "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahnawaz Brohi",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

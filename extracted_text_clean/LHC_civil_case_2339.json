@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P.No.D-2107 of 2022",
   "date_of_order": "31.05.2022",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 24A of the General Clauses Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kamran Nawaz",
+    "Khawaja Muhammad",
+    "Dad Muhammad Kalmati Baloch",
+    "Nazir Ahmed",
+    "Muhammad Rafique"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

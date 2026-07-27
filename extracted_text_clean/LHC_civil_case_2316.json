@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2016",
   "date_of_order": "23.02.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Dr. Rana Khan",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S Zain Mustafa Soomro",
+    "Iftikhar Ahmed Bhutto",
+    "respondents No.2 to 8"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

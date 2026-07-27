@@ -8,10 +8,16 @@
   "num_chunks": 3,
   "case_number": "construction vide No. vide",
   "date_of_order": "19.05.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 94"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rizwan Ahmed Qureshi",
+    "Muhammad Qasim & others",
+    "KDA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

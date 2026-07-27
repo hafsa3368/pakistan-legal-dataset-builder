@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Revision Application No.32 of 2026",
   "date_of_order": "20.04.2026",
-  "judge": "JUDGE HANIF",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Asma Riaz through Mr. Imtiaz Ali Jatoi",
+    "The State through Mr. Ali Haider Salim, Sindh",
+    "Muhammad Adeeb through Mr. Tarique Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

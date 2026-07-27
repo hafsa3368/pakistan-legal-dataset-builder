@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl.No.377 of 2026",
   "date_of_order": "16.04.2026",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 9"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amir",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

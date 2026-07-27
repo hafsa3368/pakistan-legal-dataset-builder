@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.1717 of 2025",
   "date_of_order": "06.10.2025",
-  "judge": "",
+  "judge": "Rafiq",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asif Ali Jokhio",
+    "Mr. Sagheer Ali Solangi",
+    "Mr. Mumtaz Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

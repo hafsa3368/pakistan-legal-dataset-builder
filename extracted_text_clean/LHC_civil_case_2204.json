@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-01 of 2025",
   "date_of_order": "10.12.2025",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 7",
     "section 382-B Cr.P.C",
@@ -17,7 +17,11 @@
     "section 353 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Kashif @ Kareem @ Kashi & another",
+    "The State",
+    "Faisal Qalandder"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

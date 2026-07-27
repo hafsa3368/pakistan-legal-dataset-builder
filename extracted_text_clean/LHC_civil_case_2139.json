@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D-885 of 2012",
   "date_of_order": "01.09.2022",
   "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Safdar Ali Laghari",
+    "Mr. Muhammad Arshad S. Pathan",
+    "respondents No.6, 9 & 10/SBCA",
+    "Mr. Zaheeruddin Sahito",
+    "Mr. Allah Bachayo Soomro",
+    "respondent No.6 Regional Director, Sindh Building Control Authority, Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

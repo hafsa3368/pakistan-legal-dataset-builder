@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "19.02.2019",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 54 of the Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Aslam Bhatti",
+    "Muzafar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

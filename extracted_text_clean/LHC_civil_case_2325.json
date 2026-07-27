@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.D-86 of 2022",
   "date_of_order": "21.09.2022",
-  "judge": "",
+  "judge": "Amjad Ali Sahito",
   "sections_cited": [
     "section 9-C CNS Act",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nasarullah @ Shakarullah through Mr. Sanaullah Bhangar",
+    "The State through Mr. Nazar Muhammad Memon A.P.G. Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

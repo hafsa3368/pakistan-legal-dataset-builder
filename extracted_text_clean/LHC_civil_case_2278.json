@@ -6,12 +6,23 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "29.01.2019",
   "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Altaf Ahmed Shahid Abro",
+    "Mr. Ishrat Ali Lohar",
+    "Mr. Allach Bachayo Soomro",
+    "Additional Advocate General Sindh",
+    "Abdul Wajid Ansari",
+    "Superintendent SPSC",
+    "Shafi Muhammad Shah",
+    "Assistant SPSC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

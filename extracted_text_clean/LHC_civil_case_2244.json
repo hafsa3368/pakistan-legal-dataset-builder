@@ -9,9 +9,17 @@
   "case_number": "Civil Appeals Nos",
   "date_of_order": "20.12.2017",
   "judge": "JUDGE",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Katcha Peshi",
+    "Mr. Ahsan Gul Dahri",
+    "Mr. Allah Bachayo Soomro",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

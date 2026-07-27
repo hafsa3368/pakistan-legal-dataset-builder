@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-102 of 2018",
   "date_of_order": "17.09.2025",
-  "judge": "",
+  "judge": "Rafiq",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Wahab Baloch",
+    "Mr. Aziz Ahmed Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

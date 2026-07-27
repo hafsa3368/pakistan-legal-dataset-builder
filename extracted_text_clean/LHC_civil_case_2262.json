@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "29.10.2025",
-  "judge": "JUDGE Kamran/PS",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro Mr",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Abdul Qadir Laghari and Mehdi Shah, Advocates (for the Appellant a/w Mr. Saulat Rizvi)",
+    "Mr. Mureed Ali Shah, Advocate for Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail App. No. S-860 of 2023",
   "date_of_order": "15.03.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 302 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Anwar Ali Lohar, Advocate for applicants in Cr. Bail Apps. No. S-860 of 2023 and S-141 of 2024.",
+    "Mr. Ali Gul Abbasi, Advocate for applicant in Cr. Bail App. No. S-860 of 2023.",
+    "Mr. Mushtaque Ahmed W. Abbasi, Advocate for applicant in Cr. Bail App. No. S-899 of 2023.",
+    "Mr. Pardeep Kumar Chouhan, Advocate for complainant in Cr. Bail App. No. S-899 of 2023.",
+    "Mr. Aftab Ahmed Shar",
+    "Additional Prosecutor General along with ASI/IO Zulfiqar Ali Chachar of Police Station ‘A’ Section, Ghotki.",
+    "M/s Pardeep Kumar Chouhan and Rustam Ali, Advocates"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

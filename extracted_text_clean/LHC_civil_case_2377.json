@@ -9,9 +9,16 @@
   "case_number": "Criminal Bail Application No.S-303 of 2023",
   "date_of_order": "19.05.2023",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22-A",
+    "u/s 174 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ishaque Khoso",
+    "Mr. Noor Muhammad Soomro",
+    "Ms. Sana Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

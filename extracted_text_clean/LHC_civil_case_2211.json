@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.2754 of 2025",
   "date_of_order": "13.01.2026",
-  "judge": "HANIF JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naseem through Mr. Qaim Ali Memon",
+    "The State through Mr. Ali Haider Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "HCA No.259 of 2022",
   "date_of_order": "21.01.2025",
   "judge": "JUDGE Tahseen/PA",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aitazaz Manzoor Memon, Advocate for the Appellant",
+    "Ms. Sara Shah, DGM HR Legal",
+    "Ms. Bushra Shafiq, Manager Legal Headquarter",
+    "Mr. Shakeel Ahmed, Assistant Manager Final Settlement",
+    "Respondent No.37"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

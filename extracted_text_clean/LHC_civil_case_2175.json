@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "constructed on Plot No.SC-II",
   "date_of_order": "29.08.2025",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 20 CrPC",
+    "Section 13 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Asmat Rehman & others",
+    "Mst. Tuahera Amir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-635 of 2023",
   "date_of_order": "12.10.2023",
-  "judge": "",
+  "judge": "ARBROHI",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada",
+    "Mr. Khuda Bux Chohan",
+    "Mr. Ghulam Abbas Kuber"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

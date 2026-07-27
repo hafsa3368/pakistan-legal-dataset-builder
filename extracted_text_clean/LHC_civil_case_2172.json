@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Transfer Application No.34 of 2025 (Amjad Iqbal Afridi vs. The State & others)",
   "date_of_order": "19.05.2025",
-  "judge": "",
+  "judge": "Rafiq",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amjad Iqbal Afridi",
+    "The State & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

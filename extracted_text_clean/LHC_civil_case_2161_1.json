@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-968 of 2019",
   "date_of_order": "22.01.2014",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Ameer Ahmed Narejo",
+    "State Counsel",
+    "Mr Rafique Ahmed K Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

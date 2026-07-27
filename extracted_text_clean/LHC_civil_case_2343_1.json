@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1261 of 2003",
   "date_of_order": "10.09.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1993 SCMR 504",
     "2003 MLD 131",
@@ -23,7 +26,10 @@
     "2017 SCMR 1696",
     "2020 YLR 2024"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Bashir Ibrahim",
+    "Faiza Qureshi & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

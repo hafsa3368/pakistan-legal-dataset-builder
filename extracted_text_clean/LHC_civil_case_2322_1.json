@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Misc. Application No.S-1118 of 2018",
-  "date_of_order": "",
+  "date_of_order": "13.12.2018",
   "judge": "Suleman Khan/PA",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sajjad Hussain Kolachi",
+    "Mr.Shafi Muhammad Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-1220 of 2022",
   "date_of_order": "30.09.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Riaz Ahmed Rind & others",
+    "The Registrar Sindh Cooperative Society & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

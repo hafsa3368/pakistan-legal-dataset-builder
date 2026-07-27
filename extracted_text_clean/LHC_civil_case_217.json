@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rasheed Kalwar",
+    "Mr. Daim Hussain Bhanbhro",
+    "Mr. Mukesh Kumar G. Karara",
+    "Mr. Ahmed Ali Shahani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

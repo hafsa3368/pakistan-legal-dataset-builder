@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.Bail Appln No.S-86 of 2021",
+  "date_of_order": "16.07.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Parceep Kumnar B Butanl",
+    "Mr Ali Ariwar Kanchro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

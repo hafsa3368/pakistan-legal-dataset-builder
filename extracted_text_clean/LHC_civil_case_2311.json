@@ -23,7 +23,12 @@
     "PLD 2002 SC 610",
     "PLD 2020 Sindh 739"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "DG NAB",
+    "The NAB",
+    "The"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

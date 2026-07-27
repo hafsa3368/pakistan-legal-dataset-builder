@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Rev. Application No.189 of 2024",
   "date_of_order": "12.11.2024",
-  "judge": "",
+  "judge": "HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ilyas Khan Tanoli",
+    "Ms. Seema Zaidi, Addl. Prosecutor General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

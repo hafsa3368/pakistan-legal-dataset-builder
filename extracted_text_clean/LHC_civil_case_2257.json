@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Constitution or not",
   "date_of_order": "25.02.2019",
-  "judge": "JUDGE Irfan Ali",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 80 of Sindh Local Government Act",
     "Section 35 and 36",
@@ -18,7 +18,10 @@
     "Section 81 and 82"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Faiz Muhammad",
+    "Province of Sindh through Secretary Local Government Department Sindh Secretariat, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

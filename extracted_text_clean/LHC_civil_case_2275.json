@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2018",
   "date_of_order": "12.02.2018",
-  "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro Mr",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Hyderabad Municipal Corporation (HMC)",
+    "Allah Bachayo Soomro",
+    "Zulfiquar Ali Ansari",
+    "Accountant General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

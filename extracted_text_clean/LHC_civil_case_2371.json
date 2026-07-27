@@ -8,13 +8,25 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-57 of 2023",
   "date_of_order": "28.04.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 SCMR 663",
     "2021 SCMR 1295"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Tariq Ahmed Shah",
+    "Ms. Sana Memon",
+    "Mr. Inam Ali Malik",
+    "Ashraf Joyo",
+    "Ali Ghulam Joyo",
+    "Nanji Kolhi",
+    "Ali Hassan",
+    "Ghulam Qadir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

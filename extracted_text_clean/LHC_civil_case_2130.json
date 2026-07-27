@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-3636 of 2017",
   "date_of_order": "14.03.2019",
   "judge": "Fahad Memon",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashok Kumar",
+    "Mr. Aslam Pervaiz Khan",
+    "NAB",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
