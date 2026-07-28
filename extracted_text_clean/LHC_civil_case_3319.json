@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "25.11.2016",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Shah Rizvi",
+    "Sikandar Ali",
+    "Imdad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl No.447 of 2025 (Niaz Ahmed vs. The State)",
   "date_of_order": "07.04.2025",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "Sections 3 & 4",
     "section 2",
@@ -17,7 +17,10 @@
     "section 5 of ANF Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Niaz Ahmed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

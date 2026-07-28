@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-467 of 2014",
   "date_of_order": "07.07.2014",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    ""
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Miss Rehana Nazeer Gujjar",
+    "Mr. Ashfaque Nabi Kazi",
+    "SSP Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-38 of 2021",
   "date_of_order": "24.12.2021",
   "judge": "Shahid",
   "sections_cited": [
     "sections 324, 504, 337-H"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hameedullah Dahri, Advocate for appellants",
+    "Mr. Nazar Muhammad Memon",
+    "The State v. Muhammad Bux and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

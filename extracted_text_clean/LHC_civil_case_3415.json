@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "C.P No.D-813 of 2023",
+  "date_of_order": "23.10.2023",
+  "judge": "Mr Badaruddin Memon",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M2. Ghulam Abbas Kuber",
+    "Hissam Memon",
+    "Executive Engineer West Division Khairpur",
+    "Riaz Hussain Solangi",
+    "Assistant Executive Engineer Paryloi Sub Division"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

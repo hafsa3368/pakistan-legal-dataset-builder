@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Cr.B.A.No.S-1329 of 2016",
+  "date_of_order": "05.04.2017",
+  "judge": "Asghar Ali Lashari Mukhiarhar Nasirabad",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Ralluue Ahmed Abro, Advocate for Ine petitioner Iunawar Ali Abhasi, Asst AG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-2254 of 2018",
   "date_of_order": "22.01.2019",
   "judge": "JUDGE Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mazhar Ali Laghari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

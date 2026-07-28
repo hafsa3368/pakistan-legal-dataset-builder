@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-438 of 2024",
   "date_of_order": "22.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Shakoor Bullo, Advocate for petitioner",
+    "Mr. Agha Athar Hussain Pathan, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

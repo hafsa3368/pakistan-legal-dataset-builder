@@ -8,13 +8,18 @@
   "num_chunks": 5,
   "case_number": "Misc. App. No. D",
   "date_of_order": "22.05.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 7",
     "Section 107 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State and others",
+    "Muhammad Saleem",
+    "Syed Sardar Ali Shah Rizvi",
+    "Atta Hussain Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

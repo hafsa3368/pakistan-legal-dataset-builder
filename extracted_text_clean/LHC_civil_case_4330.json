@@ -6,15 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl. No.2732 of 2024 (Israr Ahmed vs. The State)",
   "date_of_order": "18.12.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 302 PPC",
     "section 302 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Israr Ahmed",
+    "The State",
+    "Makhdoom Khurshid Hussain Shah",
+    "Ms. Seema Zaidi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

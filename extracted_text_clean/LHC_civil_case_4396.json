@@ -9,13 +9,21 @@
   "case_number": "Criminal Bail Application No.S-811 of 2019",
   "date_of_order": "04.10.2019",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 302, 504, 34 PPC",
+    "u/s 497 Cr.P.C",
+    "u/s 497"
+  ],
   "citations": [
     "2009 P.Cr.L.J 1058",
     "1979 SCMR 65",
     "2011 MLD 1171"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muamar Bhutto",
+    "Mr. Naeemuddin Sahito",
+    "Mr. Nazar Muhammad Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

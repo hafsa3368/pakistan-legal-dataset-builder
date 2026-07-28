@@ -9,12 +9,24 @@
   "case_number": "Criminal Complainant No.14/2014",
   "date_of_order": "29.11.2019",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 20",
+    "U/s 200",
+    "u/s 20",
+    "U/s 7",
+    "U/s 265-K",
+    "u/s 200"
+  ],
   "citations": [
     "2018 CLC 1273",
     "2017 SCMR 1218"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Azm Chemical Company",
+    "Banking Court No.1 & others",
+    "Muslim Commercial Bank Limited (MCB)",
+    "Respondent No.6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

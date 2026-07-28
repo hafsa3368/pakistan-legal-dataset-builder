@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "No.3639/2016",
+  "date_of_order": "01.10.2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ahmed Khokner",
+    "Muneer",
+    "Mr Hoblbulloh G Ghouri",
+    "Mr Khcdim Hussoin Khoonncro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

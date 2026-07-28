@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "Criminal Bail Applicatiun No S-",
   "date_of_order": "07.11.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": " Judicial Magistrate",
+  "sections_cited": [
+    "298 ZUI6"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Sajid Hussain Mahessar Advocate",
+    "Mr Khadim Hussain Khooharo DPG",
+    "State",
+    "Arsh",
+    "Danan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

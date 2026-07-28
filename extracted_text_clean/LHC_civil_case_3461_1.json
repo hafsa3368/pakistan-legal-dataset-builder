@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr Bail Appln N0. D-03 2020",
   "date_of_order": "03.02.2020",
   "judge": "",
   "sections_cited": [
     "Sections 365-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Azhar Tunlo",
+    "Iqtidar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

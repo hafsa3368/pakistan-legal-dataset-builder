@@ -20,7 +20,10 @@
     "PLD 2021 SC 916",
     "PLD 2001 SC 607"
   ],
-  "parties": [],
+  "parties": [
+    "Ahmed Nawaz Jagirani",
+    "NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

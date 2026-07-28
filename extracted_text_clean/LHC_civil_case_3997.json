@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D – 1247 of 2023",
   "date_of_order": "13.12.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shafi Muhammad Bango",
+    "Mr. Niaz Hussain Maitlo",
+    "Mr. Agha Athar Hussain Pathan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

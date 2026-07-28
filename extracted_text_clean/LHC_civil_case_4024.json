@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Revision Appl. No.311 of 2021",
   "date_of_order": "25.10.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2016 SCMR 1931"
   ],
-  "parties": [],
+  "parties": [
+    "Ms. Lali Tabassum",
+    "Mr. Rehman Ghous"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

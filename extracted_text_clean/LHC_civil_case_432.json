@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CMA No.5218/2023",
   "date_of_order": "",
-  "judge": "",
+  "judge": "ludge",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Mehboob Ali Wassan",
+    "AAG Syed Sardar Ali Shah, Addl PG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

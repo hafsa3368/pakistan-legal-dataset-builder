@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl. No.1502 of 2024",
   "date_of_order": "14.10.2024",
-  "judge": "",
+  "judge": "Rafiq",
   "sections_cited": [
     "section 324"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Owais Khan",
+    "The State",
+    "Syed Ahmed Ail Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

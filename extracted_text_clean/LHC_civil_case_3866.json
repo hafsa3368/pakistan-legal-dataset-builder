@@ -6,10 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2023",
   "date_of_order": "06.02.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 94 Cr.PC",
+    "u/s 161 Cr.PC",
+    "u/s 164 Cr.PC"
+  ],
   "citations": [
     "2006 SCMR 366",
     "2020 SCMR 431",
@@ -26,7 +30,10 @@
     "PLD 2022 SC 475",
     "PLD 2021 Islamabad 266"
   ],
-  "parties": [],
+  "parties": [
+    "Asad Ali Dawach",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

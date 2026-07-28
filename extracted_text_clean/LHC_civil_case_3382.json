@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-897 of 2015",
   "date_of_order": "11.03.2016",
   "judge": "",
   "sections_cited": [
     "Section 302, 337-J"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Asghar Mirbahar",
+    "Mr. Riazat Ali Saahar",
+    "Syed Meeral Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

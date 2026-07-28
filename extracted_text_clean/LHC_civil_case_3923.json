@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Civil Appeal No.41 of 1998",
   "date_of_order": "05.10.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 12",
     "Section 12 CPC",
@@ -35,7 +35,13 @@
     "1986 CLC 2655",
     "1993 SCMR 710"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Mouj Ali Shah and another",
+    "Mehmood Baloch, Advocates",
+    "Muhammad Ismail (deceased) and others through Mr. Muhammad Shabbir Khanzada, advocate",
+    "Pir Abrar Ali through Muhammad Rehan Khan Durrani, advocate",
+    "Pir Nasiruddin (deceased) and others through Mr. Faheem Majeed Memon, advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

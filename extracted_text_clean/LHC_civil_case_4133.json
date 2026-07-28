@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1010 of 2015",
   "date_of_order": "29.01.2016",
-  "judge": "",
+  "judge": "Karar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imtiaz Ali, Advocate",
+    "Ms. Aliya Sehar, Advocate",
+    "Mr. Abdul Hameed Bajwa, Advocate",
+    "Ch. Bashir Ahmed",
+    "A.A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

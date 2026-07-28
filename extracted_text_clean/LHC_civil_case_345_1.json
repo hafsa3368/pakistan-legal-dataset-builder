@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Civil Appeals No.19-K",
   "date_of_order": "08-11-2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ahmad",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

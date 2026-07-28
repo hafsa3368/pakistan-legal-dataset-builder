@@ -9,9 +9,17 @@
   "case_number": "Crl. Bail Application No.S-67 of 2024",
   "date_of_order": "29.04.2023",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem & another",
+    "The State",
+    "Mst. Razia Bibi",
+    "Emaan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

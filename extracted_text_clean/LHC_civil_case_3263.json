@@ -6,16 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019/Cr.Bail Appl No.1037 of 2024/Cr.Bail Appl No.1176 of 2024",
   "date_of_order": "30.10.2024",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 354-A",
     "section 354 and 354-A",
     "Section 354-A PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farhan",
+    "The State",
+    "Muhammad Irfan Mohsin",
+    "The State",
+    "Ms. Rahat Ahsan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "HCA No.151 of 2024",
   "date_of_order": "09.05.2025",
   "judge": "Muhammad Iqbal Kalhoro Justice Muhammad",
   "sections_cited": [
@@ -16,7 +16,14 @@
     "Section 10 of the CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Masood",
+    "Mr. Ovais Ali Shah",
+    "Mr. S. Ghulam Shabbir Shah",
+    "Khawaja Shamsul Islam",
+    "Mr. Naseer Ahmed",
+    "Mr. Perwaiz Mastoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

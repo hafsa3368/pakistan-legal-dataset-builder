@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "CP No. D-1678 of2015",
+  "date_of_order": "20.08.2015",
+  "judge": "Mr. Haii Khan Hingorjo",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Haii Khan Hingorjo",
+    "advocate for petitioner Mr. Allah Bachayo Soornro",
+    "Addl.A.G. Sindh JI"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-255 of 2023",
   "date_of_order": "20.12.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Altaf Sachal Awan",
+    "Mr. Nazar Muhammad Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

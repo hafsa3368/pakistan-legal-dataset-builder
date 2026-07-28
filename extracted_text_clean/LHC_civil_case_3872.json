@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Jail Appeal No.S-203 of 2017",
   "date_of_order": "16.12.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "sections 302, 324, 147, 148, 149, 504 PPC",
     "section 382-B Cr.P.C",
@@ -17,7 +17,16 @@
   "citations": [
     "2022 SCMR 1328"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Bux",
+    "The State",
+    "Gulzar Sheedi",
+    "Khan Muhammad",
+    "Sahib Dino",
+    "Ashiq Sheedi",
+    "Juman",
+    "Abdullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

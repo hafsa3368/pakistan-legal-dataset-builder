@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-772 of 2022",
   "date_of_order": "10.10.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 302 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "complainant",
+    "applicant",
+    "co-accused Muhammad Younus",
+    "co-accused Ghulam Mujtaba",
+    "deceased"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

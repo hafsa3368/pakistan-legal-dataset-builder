@@ -7,13 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Miscellaneous Application No.S-675 of 2022",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "02.12.2022",
+  "judge": "Abdullah Channa",
   "sections_cited": [
     "section 491 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Shabbir Mari",
+    "Ms. Rameshan Oad",
+    "Mr. Muhammad Akram Rajput"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

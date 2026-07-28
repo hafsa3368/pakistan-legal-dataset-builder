@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D - 989 of 2022",
   "date_of_order": "12.04.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Raza Baloch",
+    "Asadullah Khokhar",
+    "Assistant Commissioner, Taluka Mehrabpur, District Naushahro Feroze",
+    "Deputy Commissioner, Naushahro Feroze",
+    "Mr. J. K. Jarwar",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

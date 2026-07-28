@@ -9,7 +9,10 @@
   "case_number": "Civil Petition No.3658/2018",
   "date_of_order": "02.02.2022",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2011 MLD 335",
     "2021 SCMR 2011",
@@ -23,7 +26,10 @@
     "2015 SCMR 1093",
     "PLD 2019 SC 112"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Latif",
+    "Chairman, NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Case No.75 of 2022",
   "date_of_order": "28.11.2022",
-  "judge": "",
+  "judge": "Mr. Yameen Ali Khoso",
   "sections_cited": [
     "Sections 506/2, 447, 337-H, 147, 148, 149",
     "Section 249-A"
@@ -17,7 +17,10 @@
     "1990 P Cr. L J 205",
     "1990 P Cr. L J 1097"
   ],
-  "parties": [],
+  "parties": [
+    "Madad Ali & others",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

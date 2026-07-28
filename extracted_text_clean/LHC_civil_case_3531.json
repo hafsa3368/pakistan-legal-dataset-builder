@@ -9,9 +9,17 @@
   "case_number": "Criminal Bail Application No.S-1182 of 2022",
   "date_of_order": "05.12.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Altaf Sachal Awan",
+    "Ms. Razia Ali Zaman Patoli",
+    "Muhammad Hanif",
+    "Khair Muhammad",
+    "Mst. Amna"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

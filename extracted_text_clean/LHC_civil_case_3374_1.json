@@ -6,15 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1299 of 2021",
   "date_of_order": "17.05.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 302, 114, 147, 148, 149, 324, 337-F",
     "Section 176 of the Sindh Land Revenue Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Jaffar Ali Shah",
+    "Mr. Abdul Qadir Bhatti",
+    "Mr. Ali Raza Baloch",
+    "Muhammad Mustaqeem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,21 @@
   "case_number": "Constitutional Petition No.D-6118 of 2021",
   "date_of_order": "27.02.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 240 of the Constitution of the Islamic Republic of Pakistan, 1973",
+    "Article 242 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Waheed Ali",
+    "Province of Sindh",
+    "Altaf Hussain",
+    "Zamir Hussain Ghumro",
+    "Syed Abrar Ahmed Bukhari",
+    "Nemo for respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

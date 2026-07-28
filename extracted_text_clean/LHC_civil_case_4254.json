@@ -9,9 +9,16 @@
   "case_number": "Criminal Misc. Application No.D-365 of 2016",
   "date_of_order": "06.09.2022",
   "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Ghaffar Kalhoro",
+    "Mr. Abdul Waheed Bijarani",
+    "Mr. Rashid Raees"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

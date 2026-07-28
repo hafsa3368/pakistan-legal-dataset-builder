@@ -8,13 +8,16 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.D-24 of 2022",
   "date_of_order": "27.09.2022",
-  "judge": "",
+  "judge": "AMJAD ALI SAHITO",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wali Muhammad Mari",
+    "The State through Mr. Nazar Muhammad Memon A.P.G. Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

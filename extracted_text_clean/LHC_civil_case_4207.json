@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "S-756 of 2022",
   "date_of_order": "21.10.2021",
   "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Gulzar Ali Almani",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Fayaz Hussain Sabki",
+    "SHO PS Qasimabad",
+    "petitioner",
+    "respondents No.6, 7 & 8"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

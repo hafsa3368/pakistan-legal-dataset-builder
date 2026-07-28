@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Cr.Acctt.A.No.18 of 2022",
   "date_of_order": "10.03.2023",
-  "judge": "JUDGE Rafiq/PA",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "section 426 Cr.PC",
     "Section 10 of National Accountability Ordinance",
@@ -33,7 +33,17 @@
     "PLD 2013 Sindh 357",
     "PLD 2003 Karachi 266"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Salik Nukrich",
+    "The State",
+    "Shakeel Sultan",
+    "The State",
+    "Pak Ideal",
+    "Morio Khan",
+    "Amanat",
+    "Bachal Khan",
+    "NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

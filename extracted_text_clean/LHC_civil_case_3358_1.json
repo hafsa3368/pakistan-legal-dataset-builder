@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "Civil Appeal No. 12 of 2022",
   "date_of_order": "21.12.2022",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Malik Altaf Javed, Advocate for petitioner No.1",
+    "Mr. Sanwan Khan Jagirani, Advocate for petitioner No.2",
+    "Province of Sindh",
+    "Irrigation & Power Department, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

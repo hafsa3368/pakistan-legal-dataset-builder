@@ -6,12 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D-3032 of 2018",
   "date_of_order": "28.08.2019",
   "judge": "JUDGE Tufail/PA",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 452, 365-B, 34 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mumtaz Ahmed Lashari",
+    "Mr. Muhammad Aslam Bhatti",
+    "Ms. Rameshan Oad",
+    "Mr. Allah Bachayo Soomro",
+    "Farman Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

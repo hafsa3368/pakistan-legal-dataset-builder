@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "I-Appeal No.115 of 2023 (Moosaco & others vs. Standard Chartered Bank (Pakistan) Limited)",
   "date_of_order": "15.04.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -16,7 +16,10 @@
     "Section 3 & 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Moosaco",
+    "Standard Chartered Bank (Pakistan) Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

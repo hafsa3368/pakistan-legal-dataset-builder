@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D-47 of 2024",
   "date_of_order": "20.03.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arslan Khokhar",
+    "University",
+    "Sindh Assistant Advocate General Agha Athar Hussain Pathan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl.No.S-518 of 2024",
   "date_of_order": "27.06.2024",
-  "judge": "",
+  "judge": "Rafiq",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Wahab Arshad",
+    "The State",
+    "Shah Imroz Khan",
+    "Ms. Abida Parveen Channar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

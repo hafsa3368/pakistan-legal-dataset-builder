@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D-1731 of 2021",
   "date_of_order": "01.12.2021",
   "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Fareeda Naz Abbasi",
+    "Mr. Muhammad Saleem Hashmi Qureshi",
+    "Shams-u-Zaman",
+    "Rafique Khan",
+    "Mr. Muhammad Ismail Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

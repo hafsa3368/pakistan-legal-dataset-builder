@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-",
-  "date_of_order": "",
+  "date_of_order": "20-12-2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [
     "section 117 of the Land Revenue Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Imtiaz Ali Shah Jillani",
+    "Mr. Agha Athar Pathan",
+    "Asif Raza Soomro",
+    "Assistant Commissioner, Gambat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

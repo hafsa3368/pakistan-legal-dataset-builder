@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Transfer Application before the Honourable",
   "date_of_order": "31.03.2023",
-  "judge": "",
+  "judge": "Mr. Shahid Aziz Kaleri",
   "sections_cited": [
     "Section 342",
     "Section 28",
@@ -19,7 +19,10 @@
     "section 13 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imran Mobeen Khan",
+    "Assistant Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

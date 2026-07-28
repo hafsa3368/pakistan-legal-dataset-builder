@@ -7,11 +7,18 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "Crl BBail Appln NoS",
-  "date_of_order": "",
+  "date_of_order": "31.10.2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kushid Mustal Solangi",
+    "The State",
+    "Larfied counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

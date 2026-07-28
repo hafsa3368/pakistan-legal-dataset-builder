@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D-68_0Cr.B.A.No.S-994 of 2019",
   "date_of_order": "22.02.2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Messrs Ashfaque Hussain Abro and Abdul Rehman Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

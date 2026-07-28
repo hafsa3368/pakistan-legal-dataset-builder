@@ -7,11 +7,15 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "31.08.2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "8r Abid Hussain Qadri Advocate for petitioner"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Nisar Ahmed G Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

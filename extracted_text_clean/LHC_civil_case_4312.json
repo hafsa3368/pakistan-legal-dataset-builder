@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D-1017 of 2022",
   "date_of_order": "17.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Order I Rule 10 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kashif Hussain Shaikh",
+    "Mr. Shahryar Imdad Awan",
+    "Learned Counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

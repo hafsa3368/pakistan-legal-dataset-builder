@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl No.698 of 2018",
   "date_of_order": "10.08.2018",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 302, 324, 353, 34, 427 PPC",
+    "U/s 173"
+  ],
   "citations": [
     "2017 SCMR 114",
     "2016 SCMR 18",
@@ -17,7 +20,10 @@
     "2011 SCMR 537",
     "2011 SCMR 1332"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Latefuddin Pasha",
+    "Mr. Ali Haider Salim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

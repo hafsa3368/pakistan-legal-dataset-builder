@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "09.04.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "section 302 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Adamjee Insurance Company Ltd.",
+    "Dewan Zubair Farooqui",
+    "Khalid Hameed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

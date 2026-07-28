@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No.208 of 2022",
   "date_of_order": "21.11.2023",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 9",
     "Section 382-B CrPC"
@@ -27,7 +27,13 @@
     "2022 SCMR 905",
     "2022 SCMR 1097"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Sultan Bahadur Yousufzai",
+    "Parvez Ahmed",
+    "Muhammad Banaras",
+    "Hamza Mini Goods Transport Company"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-1886 of 2022",
   "date_of_order": "14.04.2022",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
@@ -17,7 +17,10 @@
     "2011 SCMR 1813",
     "PLD 2013 SC 401"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Haleem",
+    "I.G Sindh Police & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

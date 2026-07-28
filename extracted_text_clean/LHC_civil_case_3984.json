@@ -8,10 +8,16 @@
   "num_chunks": 3,
   "case_number": "Const. Petition No.D-29 of 2023",
   "date_of_order": "02.11.2014",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Faheem Abbas Bozdar",
+    "P.O. Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1531 of 2023",
-  "date_of_order": "",
+  "date_of_order": "28.11.2023",
   "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Sattar Mahesar",
+    "Petitioners",
+    "Mr. Agha Ather Pathan",
+    "Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

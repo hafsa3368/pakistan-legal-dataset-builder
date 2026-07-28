@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Bail App. No. S-527 of 2023",
   "date_of_order": "29.03.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "u/s 249-A CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Munawar Ali",
+    "Habibullah",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

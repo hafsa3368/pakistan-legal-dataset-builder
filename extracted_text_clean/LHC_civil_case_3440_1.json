@@ -8,12 +8,19 @@
   "num_chunks": 1,
   "case_number": "Criminal Bail Applicatiun Nos",
   "date_of_order": "17.01.2020",
-  "judge": "",
+  "judge": "Zafar Ahmedraipul",
   "sections_cited": [
     "Section 42D, 419"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Mohammad Barejo",
+    "Gulshan R Dayo",
+    "Nadir Ali Bhutto",
+    "Dazi Rasheed Ahmned",
+    "Sikandar Ali Jatoi",
+    "IM Aitbar Ali Bullo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

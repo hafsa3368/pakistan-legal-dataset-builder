@@ -6,12 +6,23 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Appl. No.2359 of 2024",
   "date_of_order": "14.11.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shoukat Ali",
+    "The State",
+    "M/s. Raja Masood Ahmed",
+    "Ubedullah Abro",
+    "Mr. Mujahid Anjum Gondal",
+    "Mr. Saleem Akhtar",
+    "Addl: PG Sindh",
+    "IO Akbar Ali Narejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

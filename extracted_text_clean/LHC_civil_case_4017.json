@@ -6,10 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": [
+    "Cr.Bail Appl No.540 of 2024",
+    "Cr. Bail Appl. No.700 of 2024"
+  ],
   "date_of_order": "06.06.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "U/s 302, 34 PPC"
+  ],
   "citations": [
     "2024 SCMR 205",
     "2022 P Cr. L J 121",

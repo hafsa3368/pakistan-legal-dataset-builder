@@ -6,12 +6,26 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-392 of 2023",
   "date_of_order": "22.02.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mushtaq Ali Maitlo",
+    "Province of Sindh",
+    "Mr. Muhammad Iqbal Kalhoro",
+    "Mr. Arbab Ali Hakro",
+    "Mr. Zulfiqar Ali Naich",
+    "Hafiz Shahabuddin Indhar",
+    "Imdad Ali Larik",
+    "Yar Muhammad Baladi",
+    "Muhammad Haji Buriro",
+    "Khursheed Ahmed Shaikh",
+    "Masroor ul Hassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,17 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "Crl Bail Application No. S-",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "07.11.2012",
+  "judge": "Udge",
+  "sections_cited": [
+    "CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "arjeel Sattar Bhatti",
+    "Hadin Hussain Khooharo DPG",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

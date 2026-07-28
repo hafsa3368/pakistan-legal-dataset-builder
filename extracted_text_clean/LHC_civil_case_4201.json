@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1085 of 2022",
   "date_of_order": "12.03.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jucge",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Raza Balouch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

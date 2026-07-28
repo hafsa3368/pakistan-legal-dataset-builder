@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "HCA No.230 of 2023",
   "date_of_order": "10.02.2025",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Airbiz Aviation Services Worldwide",
+    "United Airways (BD) Ltd.",
+    "another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

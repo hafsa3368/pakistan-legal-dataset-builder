@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.332 of 2013",
   "date_of_order": "06.07.2017",
-  "judge": "",
+  "judge": "Mr. Justice (Retd.) Shahid Karim Khan Khwaja",
   "sections_cited": [
     "Section 345"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Agha Akbar Ali Khan",
+    "Mr. Islam Leghari",
+    "Ms. Seema Zaidi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

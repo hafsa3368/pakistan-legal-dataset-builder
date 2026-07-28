@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.69 of 2016",
   "date_of_order": "14.10.2016",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Fatah-ullah s/o Lal Muhammad through Mr. Muhammad Waseem Samo Advocate",
+    "The State through Mr. Muzafar Ali Solangi DDPP",
+    "Karimullah s/o Muhammad Nabi through Mr. Muhammad Waseem Samo Advocate",
+    "The State through Mr. Muzafar Ali Solangi DDPP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

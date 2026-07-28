@@ -8,14 +8,19 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No. S-15 of 2023",
   "date_of_order": "10.02.2023",
-  "judge": "",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 452, 506, 337-A",
     "section 337-F",
     "section 161"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Karam Ali s/o Muhammad Ali",
+    "Akhtiar Hussain",
+    "M/s. Amjad Ahmed Bhutto and Deedar Ali N. Chohan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

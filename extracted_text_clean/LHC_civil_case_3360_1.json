@@ -6,12 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D - 1087 of 2021",
   "date_of_order": "22.11.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ARBROHI",
+  "sections_cited": [
+    "Sindh Local Government Act, 2013",
+    "Sindh Local Council Employees Rules, 2017"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khuda Bux Chohan",
+    "Respondents / SMC",
+    "Mr. Zulfiqar Ali Naich",
+    "Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,15 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "Const Fetititn No D-",
-  "date_of_order": "",
+  "date_of_order": "17.03.2014",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 52 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Ali Raza Pathuan, State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

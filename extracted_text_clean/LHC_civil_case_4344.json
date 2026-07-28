@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-155 of 2016",
   "date_of_order": "12.02.2016",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faisal Nadeem Abro, Advocate",
+    "Ch. Bashir Ahmed Asstt. A.G.",
+    "Mr. Shahid Shaikh, A.P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

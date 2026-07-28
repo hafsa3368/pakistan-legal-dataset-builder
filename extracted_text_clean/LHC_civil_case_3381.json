@@ -6,16 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Acq. Appeal No. S- 162 of 2014",
   "date_of_order": "01.02.2016",
-  "judge": "",
+  "judge": "Karar",
   "sections_cited": [
     "Section 506 and 392 PPC",
     "Section 173 Cr.P.C",
     "Section 22-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Jehangir Khan Pathan",
+    "Miss. Humaira Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

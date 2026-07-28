@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr Bcil Appln. No. 409 0/ 20/ 5sale",
   "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Juge FOL",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Akber Ali Duhcr"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

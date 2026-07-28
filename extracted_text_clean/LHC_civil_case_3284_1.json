@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "S.M.A. No. 273 of 2021",
   "date_of_order": "06.05.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Asim Farid",
+    "Begum Saeeda Fareed",
+    "Ghulam Ghous Farid",
+    "Huma Khushgai",
+    "Omar Farid",
+    "Sehba Musharaf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

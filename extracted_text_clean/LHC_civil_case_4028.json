@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-324 of 2024",
-  "date_of_order": "",
+  "date_of_order": "15-05-2024",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ajeebullah Junejo",
+    "Mr. Zulfiqar Ali Naich",
+    "Mr. Khuda Bux Chohan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

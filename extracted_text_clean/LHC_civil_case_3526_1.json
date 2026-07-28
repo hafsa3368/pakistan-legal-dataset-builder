@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D-681 of 2016",
   "date_of_order": "",
   "judge": "JUDGE",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Katcha Peshi Miss Seema Abbasi",
+    "Mr. Qazi Mohammad Bux",
+    "State Counsel a/w SIP Ghulam Muzzammil Soomro, SHO P.S Sijawal Junejo",
+    "Mr. Zahid Hussain Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

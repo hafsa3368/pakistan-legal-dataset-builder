@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ahlil Hamid Bhurgri",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ahlil Hamid Bhurgri AddlA G along with Miss Shamim Asif Kliubal",
+    "Mr Ali Azhar Tinio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

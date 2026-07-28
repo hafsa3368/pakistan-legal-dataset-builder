@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.S-1034 of 2024",
   "date_of_order": "30.09.2024",
   "judge": "Hafiz Fahad",
   "sections_cited": [
@@ -15,7 +15,15 @@
   "citations": [
     "PLD 1995 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "Haji Hussain s/o Essa",
+    "Syed Imam Dino Shah PS Baldia Hyderabad",
+    "Syed Moazam Ali Shah",
+    "Zafar Ahmed Rajput",
+    "Ahmed Hussain",
+    "Muhammad Hussain",
+    "Muneer Ahmed-ul-Rehman Kateej"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

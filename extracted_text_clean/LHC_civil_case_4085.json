@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "18.02.2018",
   "judge": "",
   "sections_cited": [
     "sections 384, 386, 506/2"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Azhar Hussain Abbasi",
+    "the applicani",
+    "applicant",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

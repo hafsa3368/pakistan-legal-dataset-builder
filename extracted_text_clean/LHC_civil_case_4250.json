@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Criminal Revision Application No. S-",
   "date_of_order": "19.02.2024",
-  "judge": "",
+  "judge": "Irfan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ferozeuddin No. Shaikh",
+    "Mr. Athar Hussain Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,17 @@
   "case_number": "Constitutional Petition No.D-7084 of 2022",
   "date_of_order": "28.02.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2013 SCMR 1707"
   ],
-  "parties": [],
+  "parties": [
+    "Ahmed Gul and 03 others",
+    "Federation of Pakistan and 03 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

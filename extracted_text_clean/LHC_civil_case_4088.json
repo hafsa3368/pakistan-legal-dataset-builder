@@ -6,9 +6,12 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": [
+    "Cr.B.A.No.S-75 of 2020",
+    "Cr.B.A.No.S-677 of 2020"
+  ],
   "date_of_order": "16.09.2024",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 8"
   ],

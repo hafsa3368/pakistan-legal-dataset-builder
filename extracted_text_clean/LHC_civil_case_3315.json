@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "SGF(Fhp )D. No,?69.5-1016",
   "date_of_order": "",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "L. F."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

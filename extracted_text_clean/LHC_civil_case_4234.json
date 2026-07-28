@@ -6,16 +6,30 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "R.A No.87 of 2018",
   "date_of_order": "22.02.2019",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "1998 SCMR 753",
+    "2016 YLR 323",
+    "PLD 2012 Lahore 378"
+  ],
   "citations": [
     "1998 SCMR 753",
     "2016 YLR 323",
     "PLD 2012 Lahore 378"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan, Regional Director NADRA",
+    "Deputy Assistant Director NADRA, Liberty Chowk Hyderabad zone",
+    "Mr. Sher Muhammad Sahito",
+    "Mr. Muhammad Hamayoon Khan",
+    "Mr. Zulfiqar Ali Rajput",
+    "Mr. Habib-ur-Rehman",
+    "The applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

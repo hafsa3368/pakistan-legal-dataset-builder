@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C.P.No. D- 870 of 2022",
+  "date_of_order": "16-05-2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shoaib Niaz Khaskheli",
+    "Mr. Niaz Hussain Maitlo",
+    "Mr. Mehboob Ali Wassan",
+    "No.1 to 3-SALU",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

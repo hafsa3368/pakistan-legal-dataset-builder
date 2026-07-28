@@ -8,13 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.D-39 of 2022",
   "date_of_order": "07.09.2022",
-  "judge": "",
+  "judge": "AMJAD ALI SAHITO",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Meeran Mari",
+    "The State",
+    "Meeran Mari through Mian Taj Muhammad Keerio",
+    "Mr. Nazar Muhammad Memon A.P.G. Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

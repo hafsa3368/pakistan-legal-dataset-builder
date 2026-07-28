@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "D-02 of 2022",
   "date_of_order": "24.10.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Sections 302, 324, 353, 147, 148, 149 PPC",
     "Section 7",
@@ -16,7 +16,10 @@
     "section 382-B CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Mardan Gopang",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

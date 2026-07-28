@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CPN0.0-432 of 2023",
   "date_of_order": "13.03.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "DrDgrs",
+    "M2 Abdul Sattar Mahesar",
+    "Mr, Riaz Ali Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

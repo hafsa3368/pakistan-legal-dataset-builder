@@ -9,9 +9,16 @@
   "case_number": "Criminal Bail Application No.S-595 of 2022",
   "date_of_order": "19.09.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahsan Gul Dahri",
+    "Mr. M. Zainuddin Baloch",
+    "Mr. Imran Ali Abbasi",
+    "Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

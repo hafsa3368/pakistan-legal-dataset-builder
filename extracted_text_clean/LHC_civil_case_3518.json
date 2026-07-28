@@ -8,13 +8,22 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.D-165 of 2019",
   "date_of_order": "20.05.2020",
-  "judge": "JUDGE Irfan Ali",
+  "judge": "Muhammad Iqbal",
   "sections_cited": [
     "section 342 Cr.P.C",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad IqbalKalhoro",
+    "Mr. Justice Khadim Hussain Tunio",
+    "The State",
+    "Mr. Saad Salman Ghani",
+    "SIP Hotchand",
+    "MashirPC Imtiaz",
+    "PC Odho Maland I.O.",
+    "SIP Khalid Mehmood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

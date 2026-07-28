@@ -8,10 +8,17 @@
   "num_chunks": 3,
   "case_number": "Civil Revision No.S-76 of 2019",
   "date_of_order": "28.05.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ZAFAR AHMED RAJPUT",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nazir Ahmed Junejo",
+    "the applicants",
+    "the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

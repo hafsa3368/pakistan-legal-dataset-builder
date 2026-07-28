@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "criminal bail application is dismissed as not",
   "date_of_order": "11.12.2024",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imtiaz Ali Advocate",
+    "Mr. Saleem Akhtar, Addl.P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

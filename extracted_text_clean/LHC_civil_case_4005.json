@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Transfer Application No.S-42 of 2024",
-  "date_of_order": "",
+  "date_of_order": "26-04-2024",
   "judge": "Ahmad",
   "sections_cited": [
     "sections 322, 337H, 147,148 & 149 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sajjad Hussain Kolachi",
+    "Mr. Shafi Muhammad Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.D-53 of 2022",
   "date_of_order": "25.10.2022",
-  "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro Mr",
+  "sections_cited": [
+    "u/s 6/7",
+    "u/s 147, 148, 149 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Muhammad Saleem Jessar",
+    "Mr. Dilber Khan Laghari",
+    "Mian Taj Muhammad Keerio",
+    "Mr. Shahzado Saleem Nahiyoon",
+    "Addl. Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1357 of 2019",
-  "date_of_order": "",
+  "date_of_order": "06.03.2024",
   "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Murtaza Samejo",
+    "SIDA",
+    "Muhammad Ali Zardari",
+    "Anwar Ali",
+    "Atta Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

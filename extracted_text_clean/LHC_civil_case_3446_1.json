@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2016",
   "date_of_order": "01.03.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "FT Na",
+  "sections_cited": [
+    "u/s 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Flag.A",
+    "Mr. Faiz Muhammad I-arik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

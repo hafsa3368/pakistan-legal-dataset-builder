@@ -7,13 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Miscellaneous Application No.S-800 of 2022",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "05-12-2022",
+  "judge": "Abdullah Channa",
   "sections_cited": [
     "sections 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "PEPSI Company Hyderabad",
+    "police",
+    "Mr. Shahida Ghani (applicant)",
+    "ASI Ghulam Shabir PS B-Section Nawabshah",
+    "Ms. Rameshan Oad (Assistant Prosecutor General Sindh)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

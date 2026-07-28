@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Criminal Miscellaneous Application No.S-309 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "14-06-2023",
+  "judge": "Abdullah Channa",
   "sections_cited": [
     "section 22-A",
     "section 154 CrPC"
@@ -18,7 +18,11 @@
     "2022 YLR 514",
     "PLD 2010 Lahore 419"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulamullah Chang",
+    "Ms. Sana Memon",
+    "Mr. Abdul Majeed Lashari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

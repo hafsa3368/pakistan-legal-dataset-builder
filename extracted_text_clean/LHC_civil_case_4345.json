@@ -9,9 +9,20 @@
   "case_number": "Criminal Miscellaneous Application No.S-110 of 2023",
   "date_of_order": "15.05.2023",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mashooque Ali Mahar",
+    "Mr. Adil Shahzad",
+    "Ms. Sana Memon",
+    "Inspector Aamir Hussain Shah",
+    "SSP Jamshoro",
+    "ASI Jawan Khan",
+    "SHO PS Thebat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

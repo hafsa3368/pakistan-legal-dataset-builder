@@ -6,15 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D - 1513 of 2022",
   "date_of_order": "17.01.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 161",
     "Section 173"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khalil Ahmed Maitlo",
+    "Sultan Ali Mallah",
+    "Police Picket, Police Station Khuhra"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

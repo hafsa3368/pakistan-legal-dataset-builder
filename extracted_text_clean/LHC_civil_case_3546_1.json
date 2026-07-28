@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-235 of 2017",
   "date_of_order": "06.12.2017",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr, Ghayoor Abbas Shahani, advocate for the petitioners",
+    "Abdul Hamid Bhurgari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

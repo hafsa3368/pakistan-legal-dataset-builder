@@ -8,13 +8,16 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No. S-134 of 2021",
   "date_of_order": "12.07.2021",
-  "judge": "",
+  "judge": "Zafarahmed Raipulus",
   "sections_cited": [
     "sections 409, 477-A, 380, 411, 403, 34",
     "section 5"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bandah Ali s/o Muhammad Ali Chandio",
+    "Aftab Ahmed s/o Ghulam Hyder Bughio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

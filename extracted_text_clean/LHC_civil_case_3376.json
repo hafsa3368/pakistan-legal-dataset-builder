@@ -6,14 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C.P No.D-2760 of 2017",
+  "date_of_order": "12-10-2017",
   "judge": "JUDGE Fahad Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 249-",
+    "u/s 265-K Cr.P.C"
+  ],
   "citations": [
     "2006 SCMR 1957"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Sajjad Ali Rind, Advocate for petitioner",
+    "Mr. Sajjad Soomro advocate holding brief o/b of Mr. Irfan Qureshi advocate for respondent No.6 to 10",
+    "Mr. Ismial Bhutto, Additional A.G alongwith Muhammad Khan Zaur SHO PS Bulri Shah Karim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

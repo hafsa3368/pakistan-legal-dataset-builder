@@ -9,9 +9,15 @@
   "case_number": "Const. Petition No.D-3125 of 2011",
   "date_of_order": "27.11.2010",
   "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Iftikhar Ali Arain",
+    "Mr. Shahriyar I. Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

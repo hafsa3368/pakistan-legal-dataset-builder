@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-501 of 2020",
   "date_of_order": "21.05.2020",
   "judge": "JUDGE",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 436, 34 PPC",
+    "u/s 249-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zahid Mallah advocate for petitioners",
+    "M/s Muhammad Ismail Bhutto, Addl.A.G",
+    "Nazar Muhammad Memon",
+    "ASI Anwar Hussain",
+    "SIP Imran Hafeez",
+    "Inspector Muhammad Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

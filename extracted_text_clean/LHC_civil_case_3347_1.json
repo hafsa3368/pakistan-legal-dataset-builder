@@ -6,14 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-687 of 2020",
   "date_of_order": "02.12.2021",
   "judge": "JUDGE Ahmad",
   "sections_cited": [
     "Section 26 of the Irrigation Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nusrat Hussain Memon",
+    "Mr. Ali Raza Baloch",
+    "Azhar Ali Mahessar",
+    "Tharu Shah Bund Sub-Division of Rohri Division Kandiaro",
+    "Moula Bux Bohio",
+    "Faqeer Muhammad Bohio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,21 @@
   "case_number": "Const. Petition No.D-1254 of 2023",
   "date_of_order": "17.01.2024",
   "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sikandar Ali Junejo",
+    "Mr. Zulfiqar Ali Naich",
+    "Shafi Muhammad, PDSP",
+    "SSP, Sukkur",
+    "DIGP, Sukkur",
+    "SSP, Khairpur",
+    "DIGP, Shaheed Benazirabad",
+    "Inspector Muhammad Akhtar",
+    "AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

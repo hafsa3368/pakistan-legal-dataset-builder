@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D – 1833 of 2023",
   "date_of_order": "28.02.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mujahid Hussain Phulpoto, Advocate for petitioner",
+    "Mr. Agha Athar Hussain Pathan, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

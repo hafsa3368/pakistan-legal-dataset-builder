@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Cr.B.A.No.D-5480 of 2016",
+  "date_of_order": "01.12.2020",
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 397 CrPC",
+    "Section 198 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent No.2 [Executive District Officer (Health), District Khairpur]"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

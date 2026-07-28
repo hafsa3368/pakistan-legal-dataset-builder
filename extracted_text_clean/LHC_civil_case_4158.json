@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-642 of 2023",
-  "date_of_order": "",
+  "date_of_order": "03-11-2023",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Tanveer Abbas Shah",
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Aftab Ahmed Shar",
+    "Hakim Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

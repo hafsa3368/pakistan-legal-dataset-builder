@@ -9,9 +9,15 @@
   "case_number": "Crl. Bail Application No.S-",
   "date_of_order": "",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Kalhoro",
+    "Anti-Narcotics Force",
+    "Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

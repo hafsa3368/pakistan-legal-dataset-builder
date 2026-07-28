@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No. S- 584 of 2018",
   "date_of_order": "12.03.2020",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Manzoor Hussain Halepoto",
+    "Mr. Noor Hassan Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

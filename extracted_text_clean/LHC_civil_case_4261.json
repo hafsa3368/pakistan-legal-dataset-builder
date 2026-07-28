@@ -9,9 +9,13 @@
   "case_number": "Criminal Bail Application No.D-43 of 2019",
   "date_of_order": "30.08.2019",
   "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Raja Jawad Ali Sahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

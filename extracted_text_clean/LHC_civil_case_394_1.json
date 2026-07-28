@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. B. A. No. S-",
-  "date_of_order": "",
+  "date_of_order": "16-01-2023",
   "judge": "Ahmad",
   "sections_cited": [
     "Section 514 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sajjad Muhammad Zangejo, Advocate",
+    "Syed Sardar Ali Shah",
+    "the complainant",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

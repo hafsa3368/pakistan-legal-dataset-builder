@@ -9,9 +9,20 @@
   "case_number": "criminal case wouldnot",
   "date_of_order": "16.08.2016",
   "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. AyatullahKhowaja",
+    "Mr. Sarmad Hani",
+    "Mr. Jangu Khan Special Prosecutor NAB",
+    "Mr. Muhammad Ismail Bhutto, Additional Advocate General, Sindh.",
+    "Mr. Zulfqiar Ahmed Rajput, Assistant Attorney General.",
+    "Inspector NizamuddinShaikhSHOFIA Hyderabad",
+    "MUHAMMAD IQBALKALHORO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

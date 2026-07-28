@@ -7,14 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Misc.A.No.180 of 2022",
-  "date_of_order": "",
+  "date_of_order": "15.01.2025",
   "judge": "Hafiz",
   "sections_cited": [
     "section 22-A",
     "section 154 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saifullah Abbasi",
+    "Ms. Rubina Qadir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

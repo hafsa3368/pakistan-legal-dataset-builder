@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl. No.57/2025, Cr.Bail Appl. No.610/2025, Cr.Bail Appl. No.540/2025",
   "date_of_order": "24.03.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Rafiq",
+  "sections_cited": [
+    "u/s 164 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tanveer Abbas & another",
+    "Ali Akbar",
+    "Sameer & Naik Zaman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

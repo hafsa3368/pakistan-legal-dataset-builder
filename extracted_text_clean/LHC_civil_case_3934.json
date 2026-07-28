@@ -7,14 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Transfer Application No.S-55 of 2023",
-  "date_of_order": "",
+  "date_of_order": "15-12-2023",
   "judge": "Ahmad",
   "sections_cited": [
     "sections 302 PPC",
     "sections 395 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Gul Mir Jatoi",
+    "Mr. Aftab Ahmed Shar",
+    "Mr. Bilal Ahmed Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

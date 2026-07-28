@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-887 of 2020",
   "date_of_order": "10.07.2020",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "SPPRA Act, 2009",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kamran Ali Jalbani",
+    "Govt. of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

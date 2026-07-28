@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "H.C.A. 69 of 2014",
   "date_of_order": "11.02.2025",
-  "judge": "JUDGE Imran",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "K-Electric Limited",
+    "Hamra Ahsan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

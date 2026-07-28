@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Bail Application No.S-159 of 2013",
   "date_of_order": "24.11.2017",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 498 Cr.P.C",
     "sections 324, 34 PPC",
@@ -29,7 +29,14 @@
     "2012 YLR 747",
     "2012 YLR 1880"
   ],
-  "parties": [],
+  "parties": [
+    "Sher Muhammad s/o Essa Khan Jogi",
+    "Sher Ali alias Ali Sher s/o Gul Muhammad Pathan",
+    "Mehboob Ali s/o Gul Muhammad Khoso",
+    "Zeeshan",
+    "The State through Syed Meeral Shah, Additional Prosecutor General, Sindh",
+    "Khalilur Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

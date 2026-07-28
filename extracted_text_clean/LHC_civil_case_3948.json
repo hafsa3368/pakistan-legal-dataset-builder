@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-348 of 2023",
   "date_of_order": "13.04.2023",
-  "judge": "",
+  "judge": "ABDULLAH CHANNA",
   "sections_cited": [
     "section 489-F PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabeer Hussain Memon",
+    "Mr. Dilbar Khan Laghari",
+    "MUHAMMAD IQBAL KALHORO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

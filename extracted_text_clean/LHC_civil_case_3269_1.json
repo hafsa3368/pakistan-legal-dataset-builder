@@ -6,12 +6,28 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 28 of 2020",
   "date_of_order": "31.05.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Athar Zai",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Asif Hashmi",
+    "Mst. Anwar Akhter Hashmi (widow)",
+    "Mst. Syed Azra Feroz (daughter)",
+    "Muhammad Atif Hashmi (son)",
+    "Mst. Munazah Salah-ud-din (daughter)",
+    "Mst. Samina Hashmi (daughter)",
+    "Mst. Surriya Rehan (daughter)",
+    "Abdul Ghafoor Hashmi",
+    "Muhammad Nadeem Hashmi",
+    "Mst. Sammar (widow)",
+    "Syed Abdul Rehman Hashmi (son)",
+    "Syed Muhammad Hummam Hashmi (son)",
+    "Legal heir No. 8(i)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

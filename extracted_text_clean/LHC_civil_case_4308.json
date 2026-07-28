@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-1210 of 2024",
   "date_of_order": "04.11.2024",
   "judge": "HANIF",
   "sections_cited": [
     "section 164"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Yaseen",
+    "Ms. Rubina Khalid",
+    "SIP Ahmed Iqbal",
+    "SHO PS Sachal Aurangzeb",
+    "SIP Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

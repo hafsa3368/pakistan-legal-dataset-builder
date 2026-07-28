@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "C.P No. D - 2068 of 2018",
+  "date_of_order": "21-09-2022",
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashfaque Hussain Abro",
+    "Pakistan Railways",
+    "Mr. Mian Imtiaz Ali Qureshi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

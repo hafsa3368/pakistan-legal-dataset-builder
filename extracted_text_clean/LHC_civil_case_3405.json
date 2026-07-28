@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-924 of 2014",
   "date_of_order": "01.02.2016",
-  "judge": "",
+  "judge": "Karar",
   "sections_cited": [
     "Section 302 and 34 PPC"
   ],
@@ -18,7 +18,11 @@
     "2011 YLR 1147",
     "2011 YLR 1306"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulamullah Chang",
+    "Mr. Zainuddin Baloch",
+    "Mr. Shahzado Saleem Nahiyoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

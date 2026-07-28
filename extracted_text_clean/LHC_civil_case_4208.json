@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Cr.B.A.No.S-994 of 2019",
+  "date_of_order": "20.06.2017",
+  "judge": "Foronlera",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MMA No 4BU2 |0 0",
+    "Mr Ali Kaza Pathan, Advocate for the Petitioncr"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

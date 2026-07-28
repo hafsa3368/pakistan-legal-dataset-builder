@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1411 of 2022",
-  "date_of_order": "",
+  "date_of_order": "05.10.2023",
   "judge": "JUDGE Sulemen Khan/PA",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shafique Ahmed Laghari",
+    "Mr. Zulfiqar Ali Naich",
+    "a/w Sajjad Ahmed Simair CMO Pano Akil and Altaf Ahmed Accounts Officer Town Committee Pano Akil"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

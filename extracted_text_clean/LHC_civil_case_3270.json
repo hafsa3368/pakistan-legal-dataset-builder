@@ -9,9 +9,16 @@
   "case_number": "Const. Petition No.D-871 of 2018",
   "date_of_order": "01.11.2023",
   "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bakhshan Khan Mahar",
+    "Mr. Iftikhar Ali Arain",
+    "Mr. Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

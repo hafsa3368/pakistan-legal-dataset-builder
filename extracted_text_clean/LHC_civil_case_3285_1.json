@@ -6,12 +6,24 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 18 of 2021",
   "date_of_order": "09.02.2021",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Fida-a-Asghar Zaiai",
+    "Mst. Syeda Sultan Fatima Naqvi",
+    "Syed Ali Imran Naqvi",
+    "Syed Saeedul Hassan",
+    "Legal Heir No. 2",
+    "Legal Heir No. 3",
+    "Legal Heir No. 4",
+    "Legal Heir No. 5",
+    "Legal Heir No. 6",
+    "Legal Heir No. 7",
+    "Legal Heir No. 8"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

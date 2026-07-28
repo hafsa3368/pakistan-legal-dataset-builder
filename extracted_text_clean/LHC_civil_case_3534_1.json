@@ -7,11 +7,16 @@
   "used_ocr": true,
   "num_chunks": 2,
   "case_number": "Civil Suit bearing No377",
-  "date_of_order": "",
+  "date_of_order": "23.12.2009",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Hamid Bhurgari",
+    "Mr. Faiz Muhammad Larik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl. No.2229 of 2024",
   "date_of_order": "06.11.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Rafiq",
+  "sections_cited": [
+    "u/s 324 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Jawaid & another",
+    "The State",
+    "Director Student Affairs & Security of Dow University of Engineering & Technology, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

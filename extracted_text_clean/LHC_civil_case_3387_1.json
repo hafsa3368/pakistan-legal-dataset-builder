@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P.No. D-207 of 2022",
   "date_of_order": "07.04.2022",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Sohailan Khatoon",
+    "Mumtaz Ali Solangi",
+    "Mr. Ali Raza Baloch",
+    "Darya Khan Chandio",
+    "Assistant Commissioner, Kotdiji"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

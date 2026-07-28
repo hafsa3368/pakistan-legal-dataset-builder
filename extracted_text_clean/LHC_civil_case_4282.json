@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "HCA No. 337 of 2023",
   "date_of_order": "09.04.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -21,7 +21,12 @@
     "PLD 1995 SC 314",
     "PLD 2012 SC 247"
   ],
-  "parties": [],
+  "parties": [
+    "Nasir Ali",
+    "Syed Qamar Hussain & others",
+    "Mr. Waqar Muhammad Khan Lodhi",
+    "Mr. Munawar Ali Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

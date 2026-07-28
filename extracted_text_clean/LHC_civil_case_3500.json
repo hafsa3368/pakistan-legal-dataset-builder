@@ -9,9 +9,20 @@
   "case_number": "Criminal Misc. Application No.S-302 of 2017",
   "date_of_order": "24.11.2017",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Nadeem Tagar",
+    "Syed Meeral Shah A.P.G.",
+    "alleged detainees",
+    "Ghulam Hussain",
+    "Mst. Beebal",
+    "Mst. Rozina",
+    "Mst. Shamil"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

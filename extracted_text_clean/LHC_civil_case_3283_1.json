@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 354 of 2018",
   "date_of_order": "04.12.2018",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Durdana Mansoor",
+    "Mansoor Ansari s/o Muhammad Abdul Raheem Ansari",
+    "Safia Ansari",
+    "Abdul Muqtadir Ansari",
+    "Abdul Muqadam Ansari",
+    "Baby Momina Mansoor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

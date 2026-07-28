@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1046 of 2022",
   "date_of_order": "20.09.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mukhtiar Ali Shahani",
+    "complainant",
+    "Ms. Rameshan Oad",
+    "Mr. Safdar Ali Charan",
+    "Abdullah Shoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CTA No.46 of 2022",
   "date_of_order": "07.11.2022",
   "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ayatullah Khowaja"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

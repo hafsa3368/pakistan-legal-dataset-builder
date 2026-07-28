@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D- 1106 of 2014",
   "date_of_order": "10.07.2014",
   "judge": "JUDGE Tufail",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 365-B, 382,34 PPC",
+    "u/s 161 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Murtaza Leghari",
+    "Mr. Allah Bachayo Soomro",
+    "SIP Muhammad Azeem Leghari SHO PS Chorr",
+    "SIP Moula Bux SHO PS Khoski",
+    "ASI Kashif Abbas",
+    "Mr. Ghulam Qadir Deeshak"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

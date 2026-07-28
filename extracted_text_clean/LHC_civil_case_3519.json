@@ -11,7 +11,10 @@
   "judge": "Irfan Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Applicant",
+    "complainant party"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

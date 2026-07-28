@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.A.No.S-1129 of 2015",
   "date_of_order": "25.01.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Karar",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zeeshan Ali Burdi, Advocate for petitioner",
+    "Ch. Bashir Ahmed",
+    "Learned A.A.G.",
+    "respondent Nos. 3 and 4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

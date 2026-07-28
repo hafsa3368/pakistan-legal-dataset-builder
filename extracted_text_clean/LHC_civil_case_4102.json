@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Bail Appl No.2788 of 2024 (Fayaz Ali Leghari vs. The State)",
   "date_of_order": "24.12.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Fayaz Ali Leghari",
+    "The State",
+    "Hakim Ali Khan",
+    "Seema Zaidi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

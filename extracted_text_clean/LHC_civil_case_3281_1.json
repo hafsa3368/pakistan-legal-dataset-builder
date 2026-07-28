@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "05.09.2019",
-  "judge": "",
+  "judge": "S.M.A",
   "sections_cited": [
     "Section 276 of the Succession Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Meher Rustom Kabraji",
+    "Miss. Ava Ardeshir Cowasjee",
+    "Raymond Jal H. P. Byramji",
+    "Mohammad Abdur Rahman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl Mise Appln No. D-",
   "date_of_order": "17.01.2018",
-  "judge": "",
+  "judge": "Justice",
   "sections_cited": [
     "Section 23"
   ],
   "citations": [
     "2012 SCMR 59١"
   ],
-  "parties": [],
+  "parties": [
+    "Athar Abbas Solangi",
+    "Abdul Sattar Soomro",
+    "Muhannad Murad Chacher",
+    "Khalim Hussain Khoohar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

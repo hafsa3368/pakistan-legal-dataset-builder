@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 524 of 2019",
   "date_of_order": "22.09.2020",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khalil-ur-Rehman",
+    "Pakistan Railways Employees Cooperative Housing Society",
+    "Mst. Hajira Khalil",
+    "Raza-ur-Rehman",
+    "Jamil-ur-Rehman",
+    "Mst. Yasmeen Fatima"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "N0,0-1689 0{ 2023 Dat\\u200a",
   "date_of_order": "27.02.2024",
-  "judge": "",
+  "judge": "OL JLCge",
   "sections_cited": [
     "Section 302, 324, 452, 147, 148, 149, 337-H2"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khan Muhammad Sangi",
+    "Inspector Rajib Ali Maitlo SHO PS, Ali Abad SBA",
+    "Inspector Muhammad Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

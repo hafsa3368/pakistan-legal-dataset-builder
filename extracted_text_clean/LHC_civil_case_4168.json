@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-403 of 2022",
   "date_of_order": "05.08.2024",
-  "judge": "",
+  "judge": "Rafiq",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hashim H. Muhammad & others",
+    "Khuram Muhammad Baig & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

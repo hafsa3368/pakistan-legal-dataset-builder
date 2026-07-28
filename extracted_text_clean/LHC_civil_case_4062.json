@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
+  "date_of_order": "07.04.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 302"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sordor Khon Ch",
+    "Burnun Cheridio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-128 of 2024",
   "date_of_order": "30.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Israr Ahmed Shah and Syed Naimat Ali Shah, Advocates for petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

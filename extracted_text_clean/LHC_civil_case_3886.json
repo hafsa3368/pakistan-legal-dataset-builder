@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.S-1168 of 2021",
   "date_of_order": "12.08.2022",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Salam Chandio, Mr. Ayaz Khaskheli"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

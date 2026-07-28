@@ -6,15 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Appln. No. S – 24 of 2023",
   "date_of_order": "30.01.2023",
-  "judge": "",
+  "judge": "ARBROHI",
   "sections_cited": [
     "Section 489-F, 506/2 PPC",
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Manthar Shah S/o Syed Aijaz Shah",
+    "Bahram Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

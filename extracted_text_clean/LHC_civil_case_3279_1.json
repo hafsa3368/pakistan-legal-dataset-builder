@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-90 of 2021",
   "date_of_order": "19.03.2021",
-  "judge": "",
+  "judge": "S.M.A.",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syeda Rabia",
+    "Syeda Iqra Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

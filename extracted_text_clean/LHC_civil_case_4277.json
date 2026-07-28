@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No. D – 634 of 2019, C.P. No. D – 1420 of 2019",
   "date_of_order": "07.11.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shah Abdul Latif University, Khairpur",
+    "Mr. Niaz Hussain Maitlo",
+    "Mr. Ali Raza Baloch",
+    "Assistant Advocate General Sindh",
+    "Mr. Sohail Ahmed Khoso"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

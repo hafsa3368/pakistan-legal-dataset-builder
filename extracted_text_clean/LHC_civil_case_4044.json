@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Cr.B.A.No.S-994 of 2018",
+  "date_of_order": "05.02.2019",
+  "judge": "Muhammad Anwar",
+  "sections_cited": [
+    "U/S 302"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhommod Lorik",
+    "Pir BUx Mosiol",
+    "Aniwdl Sgk Droleclivg"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

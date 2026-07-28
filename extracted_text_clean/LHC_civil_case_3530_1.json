@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "FC Suit No 34 2UO2",
   "date_of_order": "08.12.2017",
   "judge": "",
   "sections_cited": [
     "section 115"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Miro Khan",
+    "Mr, Abdul Rasheed Soomro",
+    "Mr, Imdad Ali Mashori",
+    "Mr Rab Nawaz Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

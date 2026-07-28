@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 310 of 2021",
   "date_of_order": "04.06.2021",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Kaneez Fatima",
+    "Muhammad Ali",
+    "Azhar",
+    "Muhammad Raza Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

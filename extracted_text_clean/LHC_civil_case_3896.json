@@ -6,16 +6,23 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "23.02.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2005 SCMR 1049",
     "1992 SCMR 227",
     "PLD 1975 Kar 279"
   ],
-  "parties": [],
+  "parties": [
+    "Telenor Microfinance Bank Limited (formerly Tameer Microfinance Bank Limited)",
+    "Federation of Pakistan & others",
+    "Nawaid Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

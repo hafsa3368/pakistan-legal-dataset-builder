@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D- 1091 of 2021",
   "date_of_order": "",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashok Kumar K. Jamba",
+    "Town Committee, Padidan a/w Ghulam Shabir Jatoi",
+    "Mr. Ziaul Haque Kamboh",
+    "Mr. Ahmed Ali Shahani",
+    "Town Officer (respondent No.5)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

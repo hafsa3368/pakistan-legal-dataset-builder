@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Spl. Cr. Jail Appeal No. D - 53 of 2023 (Sajid Hussain Mangi versus The State)",
   "date_of_order": "01.02.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 382-B CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sajid Hussain Mangi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

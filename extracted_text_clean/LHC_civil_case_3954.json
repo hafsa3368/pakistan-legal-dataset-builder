@@ -6,14 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail App. No. S-24 of 2024",
   "date_of_order": "11.03.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 YLR 2417"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Basheer Ahmed Malano",
+    "Mr. Ali Asghar K. Panhyar",
+    "Ms. Mst. Sohni (complainant)",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

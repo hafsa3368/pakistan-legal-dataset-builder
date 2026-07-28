@@ -6,15 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C.P No. D- 1102 of 2023",
+  "date_of_order": "08.08.2023",
   "judge": "JUDGE Ahmad",
   "sections_cited": [
     "Sections 452 & 365-B PPC",
     "Section 161 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imran Mobeen, Assistant P.G for the State",
+    "SIP-Abdul Ghafoor Mojai",
+    "Mst. Madiha",
+    "Naimatullah",
+    "respondent No.4/I.O of Crime No.127 of 2023",
+    "respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P-S No.316 of 2024",
   "date_of_order": "12.09.2024",
   "judge": "HANIF",
   "sections_cited": [
@@ -15,7 +15,10 @@
     "section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naseeruddin",
+    "Ziauddin and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Criminal Revision AppIn.No,5-03/2022",
   "date_of_order": "13.02.2020",
-  "judge": "",
+  "judge": "For orders",
   "sections_cited": [
     "section 1٥"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Bux Abro",
+    "Cr, Mlisc ApDIn",
+    "252/2019"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

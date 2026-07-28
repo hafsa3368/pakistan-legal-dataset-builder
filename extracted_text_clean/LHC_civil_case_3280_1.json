@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "S.M.A. No. 223 of 2020",
   "date_of_order": "17.03.2021",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Maqsood-ur-Rehman",
+    "Fazal Mehmood Khan",
+    "Muhammad Saeed Khan",
+    "Sajjad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

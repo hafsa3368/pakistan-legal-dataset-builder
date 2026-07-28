@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-115 of 2020",
-  "date_of_order": "",
+  "date_of_order": "20-04-2020",
   "judge": "Irfan Ali",
   "sections_cited": [
     "section 489-F PPC",
@@ -17,7 +17,10 @@
     "2013 SCMR 51",
     "2016 P.Cr.L.J. 769"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ejaz A. Awan",
+    "Ms. SafaHisbani, Assistant Prosecutor General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

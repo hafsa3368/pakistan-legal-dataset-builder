@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr.B.A.No.D-2542 of 2015",
+  "date_of_order": "05.10.2017",
   "judge": "JUDGE Fahad Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Meeral Shah Bukhari, A.P.G"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.App.No.S-642 of 2024",
   "date_of_order": "24.12.2024",
   "judge": "HANIF",
   "sections_cited": [
@@ -15,7 +15,10 @@
     "section 345"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Muhammad Daud Narejo and Kamran Ali",
+    "Ms. Rubina Qadir, Deputy Prosecutor General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

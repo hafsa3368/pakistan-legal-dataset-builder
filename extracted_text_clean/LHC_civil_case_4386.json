@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D-2625 of 2015",
   "date_of_order": "18.02.2016",
   "judge": "JUDGE Karar/",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imtiaz Ali Mahesar",
+    "Mr. Allah Bachayo Soomro Addl.A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

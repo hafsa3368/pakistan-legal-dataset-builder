@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "CONSTITUTION PETITION NO.0-620 /20",
+  "date_of_order": "07.02.2023",
+  "judge": "Shehnaaz Bawani",
+  "sections_cited": [
+    "Cr( S ٢"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Drhu Hamad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

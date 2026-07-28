@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019 Cr.B.A.No.S-1652 of 2019",
   "date_of_order": "13.03.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mehfooz Ahmed Awan",
+    "Mr. Israr Ahmed Shah",
+    "Mr. Ghulam Ali Bozdar",
+    "M/s Ali Gul Abbasi and Muhammad Zohaib Azam Rajput",
+    "Mr. Dareshani Ali Haider 'Ada'",
+    "Mr. Liaquat Ali Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

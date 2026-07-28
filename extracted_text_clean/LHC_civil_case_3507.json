@@ -9,9 +9,18 @@
   "case_number": "Criminal Procedure Code. No case",
   "date_of_order": "15.12.2021",
   "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bashir Ahmed Almani",
+    "petitioner",
+    "Mr. Muhammad Ismail Bhutto, Addl. A.G.",
+    "SIP Muhammad Sulleman Lashari",
+    "PS Nasim Nagar Qasimabad, Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

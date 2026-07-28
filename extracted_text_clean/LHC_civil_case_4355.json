@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl No.713 of 2024 (Danial Khalid Farooq vs. The State)",
   "date_of_order": "29.10.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 512 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Danial Khalid Farooq",
+    "The State",
+    "Waist Buster Company",
+    "Seema Zaidi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

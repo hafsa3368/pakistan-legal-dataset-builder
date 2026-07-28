@@ -9,9 +9,16 @@
   "case_number": "Cr.B.A. No.S-1120 of 2021",
   "date_of_order": "07.12.2021",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Essa",
+    "Basar Khan",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

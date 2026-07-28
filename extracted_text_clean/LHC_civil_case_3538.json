@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "CMA No.658 of 2025",
   "date_of_order": "21.04.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -16,7 +16,11 @@
   "citations": [
     "2025 SCMR 257"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Muhammad Osman Ali Hadi",
+    "Mr. Waqar Muhammad Lodhi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

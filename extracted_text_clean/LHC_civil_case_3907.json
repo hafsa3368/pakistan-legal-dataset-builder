@@ -9,9 +9,17 @@
   "case_number": "Criminal Bail Application No.S-199 of 2023",
   "date_of_order": "10.04.2023",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Karim Bux Rind",
+    "APG along with SIP Abdul Dahri PS Khadro",
+    "complainant in FIR (Muhammad Iqbal Kalhoro)",
+    "accused Ashique Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

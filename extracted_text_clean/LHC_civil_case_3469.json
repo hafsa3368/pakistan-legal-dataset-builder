@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "Ist Appeal No.09 of 2024",
   "date_of_order": "25.02.2025",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "section 28 of the Negotiable Instruments Act"
   ],
@@ -17,7 +17,10 @@
     "2004 SCMR 704",
     "PLD 1971 SC 585"
   ],
-  "parties": [],
+  "parties": [
+    "M/s OilBoy (Pvt.) Ltd.",
+    "M/s Pak Qatar Investment (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

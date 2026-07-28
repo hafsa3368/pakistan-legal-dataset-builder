@@ -7,11 +7,17 @@
   "used_ocr": true,
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No S-88",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "27.08.2018",
+  "judge": "ZAFAI AHMED RAJPUT",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ahmed Ali Rasoul Bux",
+    "Bakhshal Gopang S/o Budhal alias Achar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

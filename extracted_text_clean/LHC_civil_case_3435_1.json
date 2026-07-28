@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "",
-  "judge": "",
+  "judge": "JUDGMENT",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "CIr DUF",
+    "Constt Petitiun Nu 0-",
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

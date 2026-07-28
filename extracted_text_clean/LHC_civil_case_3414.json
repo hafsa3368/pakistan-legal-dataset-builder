@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Acq. Appeal No. S- 87 of 2015",
   "date_of_order": "25.01.2016",
-  "judge": "",
+  "judge": "Karar",
   "sections_cited": [
     "Section 395, 341, 147, 148 and 149 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Appellant",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

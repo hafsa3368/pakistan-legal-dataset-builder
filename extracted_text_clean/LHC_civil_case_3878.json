@@ -8,10 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-500 of 2022",
   "date_of_order": "05.09.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Shahzad Ali Shah",
+    "Mr. Fayaz Hussain Sabki",
+    "Agha Hussain",
+    "MUHAMMAD IQBAL KALHORO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

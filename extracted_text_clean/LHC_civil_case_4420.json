@@ -6,12 +6,23 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1763 of 2017",
   "date_of_order": "10.11.2017",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Asghar Mangi",
+    "Mr. Muhammad Ismail Bhutto",
+    "S.H.O P.S Matli",
+    "ASI Muhammad Hasil",
+    "P.S Matli",
+    "SIP Muhammad Yaseen Brohi",
+    "petitioners",
+    "respondents No.2, 4 and 5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

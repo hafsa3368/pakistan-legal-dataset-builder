@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.S-1471 of 2017",
   "date_of_order": "20.10.2017",
   "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ramzan Chandio",
+    "Mr. Muhammad Ismail Bhutto",
+    "Muhammad Saleem P.S Badin",
+    "ASI Sikander Ali P.S B-Section Latifabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

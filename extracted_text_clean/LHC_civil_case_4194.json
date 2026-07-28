@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P-S No.1390 of 2023",
   "date_of_order": "13.08.2024",
   "judge": "HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Afroz Haq",
+    "petitioner",
+    "Ms. Razia Danish",
+    "respondent No. 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

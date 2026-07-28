@@ -6,15 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail App. No. S-550 of 2023",
   "date_of_order": "17.08.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 504, 506/B, 34",
     "Section 498"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Amir Ali Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

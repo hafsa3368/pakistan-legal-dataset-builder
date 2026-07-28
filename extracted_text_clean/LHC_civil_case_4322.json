@@ -6,12 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Appl. No.37/2025 and Cr. Bail Appl. No.2725/2024",
   "date_of_order": "15.08.2023",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Tariq Hussain",
+    "Mr. Farooqullah",
+    "Mr. Athar Hussain",
+    "Complainant",
+    "Abdul Rehman",
+    "Muhammad Amir",
+    "Akhtar @ Papoo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

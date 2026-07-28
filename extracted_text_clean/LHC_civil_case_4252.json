@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No.S-",
-  "date_of_order": "",
+  "date_of_order": "07-08-2023",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Kalhoro",
+    "Mir Muhammad",
+    "Muhammad Nazir",
+    "Ghulam Fareed",
+    "Shafique Ahmed Leghari",
+    "Rukhsar Ahmed M.Junejo",
+    "Zulfiqar Ali Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

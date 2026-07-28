@@ -8,10 +8,19 @@
   "num_chunks": 7,
   "case_number": "criminal record is available and he was not",
   "date_of_order": "15.10.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "u/s 392 PPC",
+    "u/s 397 PPC",
+    "U/s 392,397, 34 PPC",
+    "u/s 342 Cr.P.C",
+    "u/s 161 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Zahid ur Rehman",
+    "State through Ms. Rubina Qadir, APG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "criminal has been initiated by respondent No.6",
   "date_of_order": "27.01.2016",
-  "judge": "",
+  "judge": "Karar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Aliya Sehar",
+    "Mr. Wali Muhammad Jamari",
+    "Ch. Bashir Ahmed Asstt. A.G.",
+    "Noor Muhammad",
+    "Imam Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,16 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No. S-",
   "date_of_order": "20-02-2023",
-  "judge": "",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "Section 395 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Karimdad alias Haji Khan",
+    "Misree",
+    "Hameed alias Abdul Hameed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -20,7 +20,10 @@
     "PLD 2012 SC 380",
     "PLD 1969 SC 599"
   ],
-  "parties": [],
+  "parties": [
+    "Asghar Hussain",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

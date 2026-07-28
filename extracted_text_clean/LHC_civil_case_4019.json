@@ -29,7 +29,12 @@
     "PLD 2022 SC 112",
     "PLD 2005 Karachi 255"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Sarfraz alias Faraz",
+    "Syed Saqlain Muhib Shah",
+    "The State & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,14 +7,19 @@
   "used_ocr": true,
   "num_chunks": 3,
   "case_number": "Crl. Ball Appln No.S-216",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "27.08.2018",
+  "judge": "Mr Khadim Hussain Khooharo",
   "sections_cited": [
     "Sections 337-F",
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wazir Ali Khuhawar",
+    "Saiuar Ali alias Ramz Ali son of Hidayatullah Khuhawar",
+    "Aijaz Ali Barkat Shoukat",
+    "Latif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

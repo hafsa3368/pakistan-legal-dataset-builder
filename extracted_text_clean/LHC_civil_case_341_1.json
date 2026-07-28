@@ -7,11 +7,18 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "Civil Appeol No S-",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "26.04.2015",
+  "judge": "Lurkond G.C.",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mar Gulob Roi 'C' Jesoni",
+    "Mr Ghulom Ali A",
+    "Somifio counsel for ihe respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

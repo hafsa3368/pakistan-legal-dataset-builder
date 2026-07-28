@@ -8,10 +8,27 @@
   "num_chunks": 4,
   "case_number": "Cr.Appeals No.S-136 of 2021",
   "date_of_order": "07.11.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 392, 34 PPC",
+    "u/s 353/34 PPC",
+    "u/s 24 of Sindh Arms Act",
+    "u/s 24 Sindh Arms Act",
+    "u/s 324 PPC",
+    "u/s 392/34 PPC",
+    "u/s 392 PPC",
+    "u/s 353 PPC",
+    "u/s 24-A Sindh Arms Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Sudheer",
+    "Rasool Bux",
+    "Yousuf",
+    "The State",
+    "Khan Muhammad Brohi",
+    "Ali Hassan Mallah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

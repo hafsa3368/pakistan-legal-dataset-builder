@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1261 of 2023",
-  "date_of_order": "",
+  "date_of_order": "16.01.2024",
   "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nazeer Ahmed Chachar, Advocate for the Petitioner",
+    "M/s Alam Sher Bozdar and Tariq Abdur Rauf Simair, Advocates for Respondent No.4",
+    "Mr. Ali Raza Baloch, Assistant Advocate General",
+    "Mehboob Ali Shaikh, AEO (ES&HS) Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

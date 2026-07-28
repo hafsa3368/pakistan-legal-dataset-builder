@@ -8,14 +8,22 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No.D-98 of 2023",
   "date_of_order": "19.06.2023",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 YLR 2046",
     "2012 YLR 1391",
     "2013 PCrLJ 1203"
   ],
-  "parties": [],
+  "parties": [
+    "Allah Wadhayo Jagirani",
+    "The State",
+    "M/s Khan Muhammad Sangi and Sikandar Sadar Siddiqui",
+    "Syed Sardar Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

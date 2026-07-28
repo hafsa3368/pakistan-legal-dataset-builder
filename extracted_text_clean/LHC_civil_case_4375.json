@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.2436 of 2024",
   "date_of_order": "13.11.2024",
   "judge": "HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Haji Younus"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Rev. App. No. D – 37 of 2023 (Mumtaz Ali Bhagat versus The State and others) Cr. Rev. App. No. D – 42 of 2023 (Mumtaz Ali Bhagat versus The State and another) Cr. Jail Appeal No. S – 82 of 2023 (Haji Khan Bhagat and others versus The State)",
   "date_of_order": "18.04.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 367 CrPC",
     "Section 302"
@@ -16,7 +16,13 @@
   "citations": [
     "2018 SCMR 318"
   ],
-  "parties": [],
+  "parties": [
+    "Mumtaz Ali Bhagat",
+    "The State and others",
+    "The State and another",
+    "Haji Khan Bhagat and others",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

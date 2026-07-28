@@ -8,13 +8,16 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.S-36 of 2014",
   "date_of_order": "31.10.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 382-B CrPC",
     "section 302"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

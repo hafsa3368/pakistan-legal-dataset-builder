@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P.No.D- 2988 of 2016",
   "date_of_order": "11.10.2017",
   "judge": "JUDGE Tufail",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 337-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Tarique Ali Mirjat",
+    "Mr. Bhagwandas Bheel",
+    "Syed Meeral Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

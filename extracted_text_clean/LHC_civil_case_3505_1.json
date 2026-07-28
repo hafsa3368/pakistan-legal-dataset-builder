@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.5 No.626/20-14",
   "date_of_order": "26.09.2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Imdad Ali Tunio",
+    "Mr Ameer Ahmed Narejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

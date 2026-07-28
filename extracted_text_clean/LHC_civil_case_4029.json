@@ -7,11 +7,13 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-885 of 2024",
-  "date_of_order": "",
+  "date_of_order": "29.05.2024",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sajjad Ahmed Khokhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

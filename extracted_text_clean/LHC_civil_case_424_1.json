@@ -7,13 +7,17 @@
   "used_ocr": true,
   "num_chunks": 2,
   "case_number": "Civil Revisior No 84",
-  "date_of_order": "",
+  "date_of_order": "06.12.2014",
   "judge": "",
   "sections_cited": [
     "Sections 0٨0"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali A\"be2 KcIhoro",
+    "Ahmec Durguhi",
+    "Rusool BUX Scomio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

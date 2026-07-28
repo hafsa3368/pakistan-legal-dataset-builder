@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "D-1439 of 2021",
   "date_of_order": "22.12.2021",
   "judge": "JUDGE Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Ahmed Zaman Patoli",
+    "Mr. Muhammad Ismail Bhutto",
+    "Akhtar Ali Rind"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

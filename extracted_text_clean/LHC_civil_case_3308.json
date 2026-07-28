@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "High P. No 0-03 of 2015",
+  "date_of_order": "24-01-2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Mazhar Ali Mangan",
+    "Additional Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

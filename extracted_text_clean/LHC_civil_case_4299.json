@@ -8,10 +8,26 @@
   "num_chunks": 3,
   "case_number": "Constitution Petition Nos",
   "date_of_order": "13.02.2025",
-  "judge": "JUDGE JUDGE Ayaz",
-  "sections_cited": [],
+  "judge": "Muhammad Junaid Ghaffar Mr",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 482 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Junaid Ghaffar",
+    "Mr. Justice Zafar Ahmed Rajput",
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Shoukat Hayat",
+    "Mr. Syed Mohammad Abdul Kabir",
+    "Mr. Raj Ali Wahid",
+    "M/s. Zamir Hussain Ghumro, Faizan Hussain Memon and Muhammad Saleem Khaskheli",
+    "Mr. Aamir Mansoob Qureshi",
+    "Mr. Adil Channa",
+    "Mr. Irshad Ahmed",
+    "Mr. Kashif Nazeer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.S-1617 of 2018",
   "date_of_order": "27.09.2019",
   "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sajjad Ahmed Chandio",
+    "Mr. Ayaz Khaskheli"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

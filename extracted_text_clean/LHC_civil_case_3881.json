@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No.S-202 of 2022",
   "date_of_order": "26.08.2022",
   "judge": "Shahid",
   "sections_cited": [
@@ -18,7 +18,13 @@
     "2019 SCMR 1923",
     "2021 SCMR 130"
   ],
-  "parties": [],
+  "parties": [
+    "Mst Kainat",
+    "Imdad Ali",
+    "Muhammad Hashim Leghari",
+    "Shawak Rathore",
+    "Mr. Hameedullah Dahri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C-650 of 2023",
   "date_of_order": "23.05.2023",
   "judge": "JUDGE Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sajjad Ali Gopang",
+    "Sindh",
+    "Mr. Allah Bachayo Soomro",
+    "Nazar Muhammad Memon",
+    "Muhammad Ashraf PS BalooJaQuba"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

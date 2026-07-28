@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-1583 of 2023",
   "date_of_order": "28.11.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Ali Raza Balouch",
+    "Mr Niaz Hussain Maitlo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,17 @@
   "case_number": "Criminal Miscellaneous Applications No.D-08",
   "date_of_order": "27.04.2023",
   "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Agha Abdul Nabi",
+    "ANF",
+    "Mr. Muhammad Sachal R. Awan",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

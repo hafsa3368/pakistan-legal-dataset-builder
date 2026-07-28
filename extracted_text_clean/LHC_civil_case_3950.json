@@ -9,7 +9,10 @@
   "case_number": "Constitutional Jurisdiction cannot",
   "date_of_order": "15.5.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 1756",
     "2016 SCMR 1602",
@@ -23,7 +26,27 @@
     "2022 SCMR 566",
     "2022 SCMR 472"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Haris and 30 others",
+    "Province of Sindh and 02 others",
+    "Naimatullah v. Province of Sindh and 02 others",
+    "Ms. Sidra Rahmat v. Province of Sindh and 02 others",
+    "Afzal Shaikh v. Province of Sindh and 02 others",
+    "Muhammad Shareef v. Province of Sindh and 02 others",
+    "Farzand Ali and another v. Province of Sindh and 02 others",
+    "Farooq Hussain v. Province of Sindh and 02 others",
+    "Naqash Mukhtiar v. Province of Sindh and 02 others",
+    "Sajid v. Province of Sindh and 02 others",
+    "Zahid Ali and 03 others v. Province of Sindh and 02 others",
+    "Adil Ishrat v. Province of Sindh and 02 others",
+    "Mohammad Owais Khan v. Province of Sindh and 02 others",
+    "Malik Naeem Iqbal, advocate for the petitioners in C.P No.D-1357/2020",
+    "Mr. Haider Waheed, advocate for respondent No.2 in C.P No.D-1357/2020",
+    "Mr. Mukesh Kumar Khatri, advocate for the petitioners in C.P Nos. 1271, 3358, 1600, 1601, 1931, 3139, 3357, 8137, 5569, 4372, 4830 of 2022",
+    "Shaikh Zahid Mehmood, advocate C.P. No.D- 1357 of 2020 and other connected petitions",
+    "Mr. Abdul Waheed Siyal, advocate for respondents / JSMU in C.P Nos. 1271, 3358, 1600, 1601, 1931, 3139, 3357, 8137, 5569, 4372, 4830 of 2022",
+    "Mr. Ali Safdar Depar, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

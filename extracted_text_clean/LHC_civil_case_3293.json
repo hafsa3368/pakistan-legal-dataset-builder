@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-1062 of 2015",
   "date_of_order": "12.03.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Juoge",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

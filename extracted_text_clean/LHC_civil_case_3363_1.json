@@ -6,15 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-419 of 2020",
   "date_of_order": "27.10.2022",
-  "judge": "",
+  "judge": "Mr. Muhammad Qayyum Arain",
   "sections_cited": [
     "Section 3",
     "Section 3 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Farooque",
+    "Asghar Ali",
+    "Government of Sindh, Health Department",
+    "Private Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

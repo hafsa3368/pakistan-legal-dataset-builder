@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Misc. Appl. No. D-",
   "date_of_order": "26.01.2016",
-  "judge": "",
+  "judge": "Karar",
   "sections_cited": [
     "Section 302, 384, 148, 149, 109 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bhagwandas Bheel",
+    "Mr. Nisar Ahmed Chandio",
+    "Mr. Shahzado Saleem Nahiyoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

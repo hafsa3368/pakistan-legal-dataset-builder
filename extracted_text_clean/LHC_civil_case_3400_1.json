@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "High Court Appeal No. 296 of 2024",
+  "date_of_order": "09-01-2025",
   "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 5 of the Limitation Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saeed Uddin Qureshi through legal heirs namely, Imtiaz Bibi and another through Mr. Minhaj-ul-Islam Farooqi, Advocate",
+    "Dr. Waqar Saeed & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

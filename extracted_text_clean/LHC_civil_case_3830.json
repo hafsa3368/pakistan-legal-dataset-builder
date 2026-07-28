@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2020",
   "date_of_order": "07.10.2020",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
@@ -16,7 +16,14 @@
     "section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ameer Hamza",
+    "The State",
+    "Bilal",
+    "The State",
+    "Muhammad Irfan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

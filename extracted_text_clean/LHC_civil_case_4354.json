@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Appl No.2121 of 2024 (Nazar Muhammad vs. The State)",
   "date_of_order": "31.10.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 324 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nazar Muhammad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

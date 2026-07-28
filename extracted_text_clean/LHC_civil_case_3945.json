@@ -8,8 +8,11 @@
   "num_chunks": 4,
   "case_number": "Const. Petition No.D-1382 of 2022",
   "date_of_order": "26.12.2012",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2023 SCMR 1442",
     "2022 SCMR 2096",
@@ -19,7 +22,10 @@
     "2005 SCMR 119",
     "PLD 2013 SC 268"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Suleman Maitlo",
+    "P.O. Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

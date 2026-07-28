@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-506 of 2015",
   "date_of_order": "18.01.2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mazhar Ali Leghari",
+    "Mr. Ashfaq Nabi Qazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

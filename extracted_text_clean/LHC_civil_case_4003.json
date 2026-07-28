@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Spl. Anti-Terrorism Jail Appeal No. D – 09 of 2023 (Rafeeq Kosh and others versus The State) & Spl. Anti-Terrorism Appeal No. D – 12 of 2023 (Rafeeq Kosh and others versus The State)",
   "date_of_order": "29.05.2024",
   "judge": "",
   "sections_cited": [
     "Section 367 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "M/s Abdur Rahman Faruq Pirzada and Rukhsar Ahmed M. Junejo",
+    "Mr. Zulfiqar Ali Jatoi",
+    "Rafeeq Kosh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

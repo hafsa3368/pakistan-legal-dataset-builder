@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No. D – 1389 of 2022",
   "date_of_order": "22.08.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Nasir Malik, Advocate for the petitioner",
+    "Mr. Ghulam Shabbir Shar, Advocate for respondents No.4 to 8"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

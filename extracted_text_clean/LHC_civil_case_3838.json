@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "civil suit No.875 of 2005",
   "date_of_order": "18.11.2021",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "Section 263 of the Succession Act",
     "Section 263 of Succession Act",
@@ -23,7 +23,10 @@
     "PLD 1959 Dacca 474",
     "PLD 1958 Lahore 33"
   ],
-  "parties": [],
+  "parties": [
+    "Mrs. Geeta Narayana Shahani",
+    "Shyam Prem Shahani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

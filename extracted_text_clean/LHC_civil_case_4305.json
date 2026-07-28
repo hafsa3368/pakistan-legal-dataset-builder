@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-929 of 2013",
   "date_of_order": "21.11.2017",
   "judge": "JUDGE Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Arshad S. Pathan",
+    "Mr. Anwar H. Ansari",
+    "Mr. Kamaluddin",
+    "Mr. Nisar Ahmed Durrani",
+    "The Principal, Government Sindh Law College, Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

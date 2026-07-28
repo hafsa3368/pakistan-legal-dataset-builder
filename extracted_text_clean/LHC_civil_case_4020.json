@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Appl No.2900 of 2023",
   "date_of_order": "24.06.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 302,324, 34 PPC",
+    "u/s 161 Cr.P.C"
+  ],
   "citations": [],
   "parties": [
     "Junaid "

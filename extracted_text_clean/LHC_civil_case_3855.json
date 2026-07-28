@@ -8,10 +8,15 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition No.D-4322 of 2018",
   "date_of_order": "07.03.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mr. Abdul Salam Memon",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Salam Memon, advocate for the applicants/petitioners",
+    "Mr. Waqas Shaikh, advocate for the alleged contemnor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

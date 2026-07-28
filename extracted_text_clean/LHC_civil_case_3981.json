@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail App. No. S – 565 of 2022",
   "date_of_order": "25.08.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 337-F",
     "Section 497"
@@ -16,7 +16,15 @@
   "citations": [
     "2011 SCMR 1332"
   ],
-  "parties": [],
+  "parties": [
+    "Barkat Ali",
+    "Ghulam Abbas",
+    "Shakas Ahmed",
+    "Mr. Aftab Hussain Bhutto",
+    "Mr. Shamsuddin N. Kobhar",
+    "Muhammad Iqbal Kalhoro",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

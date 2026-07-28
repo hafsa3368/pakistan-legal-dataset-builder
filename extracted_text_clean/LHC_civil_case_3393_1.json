@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Applications No. 1244 & 1245 of 2023",
   "date_of_order": "26.06.2023",
   "judge": "Athar Zai",
   "sections_cited": [
@@ -16,7 +16,10 @@
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farhanullah s/o Badshah",
+    "Najamuddin s/o Tajuddin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

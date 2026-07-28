@@ -7,11 +7,20 @@
   "used_ocr": true,
   "num_chunks": 2,
   "case_number": "Constitutional Petition No.D",
-  "date_of_order": "",
+  "date_of_order": "14.03.2015",
   "judge": "Muhamtad Hamyoon Khan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 22-6/6 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zafar Ahmed Rajput",
+    "Munammad Nawaz Mahar",
+    "Ghulam Kambar",
+    "Abdul Ghani",
+    "Irfan Ahmed",
+    "Abdul Jabbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

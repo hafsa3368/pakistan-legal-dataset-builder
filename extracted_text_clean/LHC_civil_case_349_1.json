@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.S-994 of 2019",
   "date_of_order": "27-09-2022",
   "judge": "Zafar Ahmed Rajput Justice Shamsuddin",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Raees Ahmed Mevo",
+    "Divisional Superintendent, Postal Services, Sukkur",
+    "Munir Ahmed",
+    "Irshad Ali",
+    "Justice Zafar Ahmed Rajput",
+    "Justice Shamsuddin Abbasi",
+    "Mr. Mushtaque Ahmed S. Baloch",
+    "Mr. Muhammad Aslam Jatoi",
+    "Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

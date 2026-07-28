@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr.Bail Application No. 2442 of 2021",
   "date_of_order": "11.04.2022",
   "judge": "Athar Zai",
   "sections_cited": [
@@ -15,7 +15,12 @@
   "citations": [
     "2016 SCMR 2064"
   ],
-  "parties": [],
+  "parties": [
+    "Amir Hasil Khan",
+    "Mr. Hakim Ali Khan",
+    "Mr. Muhammad Ilyas Khan Tanoli",
+    "Ms. Rahat Ehsan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

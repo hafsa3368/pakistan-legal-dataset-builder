@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-871 of 2018",
-  "date_of_order": "",
+  "date_of_order": "01.11.2023",
   "judge": "JUDGE Sulemen Khan/PA",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bakhshan Khan Mahar",
+    "Mr. Iftikhar Ali Arain",
+    "Mr. Zulfiqar Ali Naich",
+    "Saleem Akhtar Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

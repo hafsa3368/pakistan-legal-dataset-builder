@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No. S – 65 of 2020 (Nisar Ahmed Ghori and others versus The State) Cr. Jail Appeal No. S – 66 of 2020 (Nisar Ahmed Ghori versus The State) Cr. Jail Appeal No. S – 67 of 2020 (Abdul Jabbar alias Jabbar Ghori versus The State)",
   "date_of_order": "20.05.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 382-B CrPC"
   ],
@@ -22,7 +22,17 @@
     "2023 SCMR 831",
     "2023 SCMR 1278"
   ],
-  "parties": [],
+  "parties": [
+    "Nisar Ahmed Ghori",
+    "The State",
+    "Abdul Jabbar alias Jabbar Ghori",
+    "Ghulam Fareed",
+    "Hakim Ali",
+    "Ghulam Shabbir",
+    "Rashid",
+    "Khadim",
+    "Rabnawaz alias Dhol"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

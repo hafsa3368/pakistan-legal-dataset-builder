@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr.B.A.No.D-721 of 2023",
   "date_of_order": "16.05.2023",
   "judge": "JUDGE Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Masood Rasool Babar Memon",
+    "M/s Allah Bachayo Soomro",
+    "Nazar Muhammad Memon",
+    "Learned counsel for petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

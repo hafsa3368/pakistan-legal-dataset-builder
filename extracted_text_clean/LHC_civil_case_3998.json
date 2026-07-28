@@ -6,12 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No. S – 104 of 2022 (Muhammad Asif Chandio versus The State)",
   "date_of_order": "22.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "U/S 24 of Sindh Arms Act",
+    "U/S 397 PPC",
+    "U/S 24 of the Sindh Arms Act",
+    "U/S 342 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Asif Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

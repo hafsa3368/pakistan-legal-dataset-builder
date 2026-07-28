@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No. D - 1000 of 2022",
   "date_of_order": "06.12.2022",
-  "judge": "",
+  "judge": "ARBROHI",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Dawn & Company",
+    "Mr. Ali Raza Baloch, Assistant Advocate General along with Mehar Das, XEN Public Health Engineering Division, Ghotki",
+    "Ali Akbar Kalhoro, Assistant Engineer, Highways Sub-Division Daharki"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
