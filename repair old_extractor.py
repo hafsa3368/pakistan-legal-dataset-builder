@@ -59,15 +59,38 @@ def _handle_sigint(signum, frame):
 signal.signal(signal.SIGINT, _handle_sigint)
 
 # --------------------------------------------------------------------------
-# Import the exact same extraction logic already used by legal_extractor.py,
+# Import the exact same extraction logic already used by extractor.py,
 # so the repair uses IDENTICAL rules -- no logic duplication/drift.
 # --------------------------------------------------------------------------
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 try:
-   from extractor import extract_document_metadata, OUTPUT_DIR
+    from extractor import extract_document_metadata, OUTPUT_DIR
 except Exception as e:
     print(f"❌ Could not import extractor.py from this folder: {e}")
     print("   Make sure repair_metadata.py sits in the same directory as extractor.py")
+    sys.exit(1)
+
+
+# --------------------------------------------------------------------------
+# Checkpoint: tracks which files this repair script has ALREADY scanned,
+# so Ctrl+C / a fresh run resumes from where it left off instead of
+# starting over at file 1 every time. This checkpoint only tracks repair
+# progress -- it never touches extractor_checkpoint.json (the main
+# pipeline's own checkpoint) and never deletes any .json output file.
+# --------------------------------------------------------------------------
+REPAIR_CHECKPOINT_FILE = "repair_checkpoint.json"
+
+
+def load_repair_checkpoint() -> set:
+    if os.path.exists(REPAIR_CHECKPOINT_FILE):
+        with open(REPAIR_CHECKPOINT_FILE, "r", encoding="utf-8") as f:
+            return set(json.load(f))
+    return set()
+
+
+def save_repair_checkpoint(done_set: set):
+    with open(REPAIR_CHECKPOINT_FILE, "w", encoding="utf-8") as f:
+        json.dump(sorted(done_set), f, ensure_ascii=False, indent=2)
 
 
 # ==========================
@@ -79,10 +102,29 @@ BAD_JUDGE_TOKENS = {
     "COURT", "SHEET", "HEARING", "COUNSEL"
 }
 
-def is_valid_judge(name: str) -> bool:
-    if not name or not name.strip():
+def _coerce_scalar(val) -> str:
+    """
+    Safely turn ANY value (str, list, None, int, etc.) into a plain string
+    for validation/comparison, so a type mismatch between what's stored in
+    the JSON and what extractor.py's extract_document_metadata() currently
+    returns can never crash the script.
+    """
+    if val is None:
+        return ""
+    if isinstance(val, str):
+        return val.strip()
+    if isinstance(val, list):
+        for item in val:
+            if isinstance(item, str) and item.strip():
+                return item.strip()
+        return ""
+    return str(val).strip()
+
+
+def is_valid_judge(name) -> bool:
+    name = _coerce_scalar(name)
+    if not name:
         return False
-    name = name.strip()
     if len(name) < 4:
         return False
     if any(ch.isdigit() for ch in name):
@@ -101,16 +143,17 @@ def is_valid_judge(name: str) -> bool:
     return True
 
 
-def is_valid_case_number(val: str) -> bool:
-    if not val or not val.strip():
+def is_valid_case_number(val) -> bool:
+    val = _coerce_scalar(val)
+    if not val:
         return False
-    return len(val.strip()) >= 5
+    return len(val) >= 5
 
 
-def is_valid_date(val: str) -> bool:
-    if not val or not val.strip():
+def is_valid_date(val) -> bool:
+    val = _coerce_scalar(val)
+    if not val:
         return False
-    val = val.strip()
     if re.match(r"^\d{1,2}[.\-/]\d{1,2}[.\-/]\d{2,4}$", val):
         return True
     if re.match(r"^\d{1,2}(?:st|nd|rd|th)?\s+\w+,?\s+\d{4}$", val, re.I):
@@ -185,20 +228,38 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--apply", action="store_true",
                          help="Actually write fixes. Without this flag, runs as a dry-run preview only.")
+    parser.add_argument("--reset", action="store_true",
+                         help="Clear repair progress checkpoint and rescan ALL files from the start.")
     args = parser.parse_args()
 
-    json_files = sorted(glob.glob(os.path.join(OUTPUT_DIR, "*.json")))
-    print(f"📂 Found {len(json_files)} JSON files in '{OUTPUT_DIR}/'")
+    if args.reset and os.path.exists(REPAIR_CHECKPOINT_FILE):
+        os.remove(REPAIR_CHECKPOINT_FILE)
+        print(f"🔄 Cleared {REPAIR_CHECKPOINT_FILE} -- will rescan all files from scratch.\n")
+
+    all_json_files = sorted(glob.glob(os.path.join(OUTPUT_DIR, "*.json")))
+    total = len(all_json_files)
+
+    # Checkpoint only matters in --apply mode (that's the long-running pass
+    # you actually need to resume). Dry runs always preview everything.
+    done = load_repair_checkpoint() if args.apply else set()
+
+    pending_files = [p for p in all_json_files if os.path.basename(p) not in done]
+    already_done_count = total - len(pending_files)
+
+    print(f"📂 Found {total} JSON files in '{OUTPUT_DIR}/'")
+    if args.apply and already_done_count:
+        print(f"⏭  Resuming: {already_done_count} already scanned in a previous run, "
+              f"{len(pending_files)} remaining.")
     print(f"🔧 Mode: {'APPLY (writing changes)' if args.apply else 'DRY RUN (preview only, nothing written)'}\n")
 
-    total = len(json_files)
     total_changed = 0
     total_still_invalid = []
-    processed = 0
+    processed_this_run = 0
 
-    for idx, path in enumerate(json_files, start=1):
+    for offset, path in enumerate(pending_files, start=1):
+        idx = already_done_count + offset
         result = repair_file(path, apply_changes=args.apply)
-        processed = idx
+        processed_this_run = offset
 
         if result["status"] == "skipped_no_chunk_text":
             print(f"[{idx}/{total}] ⚠  {os.path.basename(path)} -- no chunk text found, skipped", flush=True)
@@ -213,17 +274,23 @@ def main():
         if result["still_invalid"]:
             total_still_invalid.append((result["file"], result["still_invalid"]))
 
+        if args.apply:
+            done.add(os.path.basename(path))
+            save_repair_checkpoint(done)
+
         remaining = total - idx
         print(f"    📊 Progress: {idx}/{total} done | {remaining} remaining\n", flush=True)
 
         if _INTERRUPTED:
             print(f"⏸ Ctrl+C confirmed -- rok raha hoon ({idx}/{total} scanned, "
                   f"{remaining} remaining). Koi file delete/adhoori nahi hai -- "
-                  f"script dobara chalao to yehi loop bache hue files se shuru ho jayega "
-                  f"(already-fixed files ko dobara touch nahi karega, kyunki wo ab valid hain).", flush=True)
+                  f"script dobara chalao to checkpoint se yahi se resume hoga "
+                  f"(file 1 se dobara shuru NAHI hoga).", flush=True)
             break
 
-    print(f"\n🎉 Stopped after scanning {processed}/{total} files. Files fixed: {total_changed}/{processed}")
+    print(f"\n🎉 This run scanned {processed_this_run} file(s). "
+          f"Total progress: {min(already_done_count + processed_this_run, total)}/{total}. "
+          f"Files fixed this run: {total_changed}")
 
     if total_still_invalid:
         print(f"\n⚠  {len(total_still_invalid)} file(s) still have fields that could not be "
@@ -234,6 +301,11 @@ def main():
     if not args.apply:
         print("\n👉 This was a DRY RUN. Nothing was written to disk.")
         print("   Run again with:  python repair_metadata.py --apply")
+    elif already_done_count + processed_this_run >= total:
+        print(f"\n✅ All {total} files scanned. Repair complete.")
+        print(f"   (If you ever want to rescan everything again: python repair_metadata.py --apply --reset)")
+
+
 
 
 if __name__ == "__main__":

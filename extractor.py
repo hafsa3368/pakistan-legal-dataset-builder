@@ -14,6 +14,28 @@ v8 - EasyOCR + ThreadPoolExecutor:
   - ThreadPoolExecutor use kiya ProcessPool ki jagah — model memory mein ek baar rehta hai
   - OCR_WORKERS = 2 default (EasyOCR internally bhi multi-threaded hai)
 
+v9.1 - case_number bug fix:
+  - case_number regex ab sirf document HEADER (first ~1200 chars) mein search
+    karta hai, poori body mein nahi. Pehle .search() poore full_text pe chalta
+    tha, jisse kabhi kabhi kisi doosre (precedent/co-accused) case ka number
+    utha liya jata tha jo body mein cite hua ho — is wajah se alag-alag,
+    unrelated documents mein SAME case_number aa jata tha.
+
+v9.2 - Ollama case_number hallucination fix:
+  - Regex fix (v9.1) ke bawajood, jab regex header mein case_number nahi dhoond
+    pata tha, purana code POORA full_text (4000 chars) Ollama ko bhej deta tha
+    fallback ke liye. Ollama us poore text mein kahin bhi cited/precedent case
+    number utha kar apna jawab bana deta tha — isi wajah se ek hi (unrelated)
+    case number dozens of alag files mein baar baar repeat ho raha tha.
+  - FIX: case_number ke liye ab Ollama ko sirf header_text (~1200 chars) bheja
+    jata hai, baaki fields (judge/date/sections/parties) ke liye pehle jaisa
+    full_text hi jata hai.
+  - FIX: extra safety guard — Ollama jo bhi case_number wapas kare, usse
+    header_text ke andar substring match karke verify kiya jata hai. Agar
+    match nahi hota (matlab Ollama ne kahin aur se utha ke banaya), to us
+    value ko reject kar diya jata hai aur case_number khali hi rehta hai
+    (khali behtar hai ghalat value se).
+
 Install:
   pip install easyocr pymupdf pandas openpyxl pillow numpy beautifulsoup4 --break-system-packages
 """
@@ -133,11 +155,16 @@ def is_ollama_alive() -> bool:
     return _OLLAMA_ALIVE
 
 
-def ollama_fill_missing_metadata(full_text: str, missing_fields: list) -> dict:
+def ollama_fill_missing_metadata(source_text: str, missing_fields: list) -> dict:
     """
     Asks the local Ollama model to extract ONLY the fields regex missed.
     Returns a dict with just those fields (empty dict on any failure —
     caller should keep whatever regex already had in that case).
+
+    NOTE: `source_text` is whatever text the caller decides to send —
+    for case_number this MUST be header_text only (see extract_document_metadata),
+    not the full document, to avoid picking up cited/precedent case numbers
+    from deep in the body.
     """
     if not OLLAMA_ENABLED or not missing_fields:
         return {}
@@ -145,7 +172,7 @@ def ollama_fill_missing_metadata(full_text: str, missing_fields: list) -> dict:
     if not is_ollama_alive():
         return {}
 
-    snippet = full_text[:OLLAMA_MAX_CHARS]
+    snippet = source_text[:OLLAMA_MAX_CHARS]
 
     field_descriptions = {
         "judge":         "the name of the judge who authored/signed the order (not the typist's initials)",
@@ -237,13 +264,6 @@ def print_progress(done_count: int, total: int):
 # ==========================
 # CTRL+C HANDLING
 # ==========================
-# NOTE: EasyOCR/PyTorch calls run in native (C) code, which blocks Python
-# from noticing a Ctrl+C signal until that native call returns — that's
-# why Ctrl+C used to feel like it "did nothing" during OCR. A signal
-# handler itself is NOT blocked by that (the OS delivers it to the main
-# thread immediately); it just sets a flag here. The loops below check
-# this flag after every PDF/page — so the script stops as soon as the
-# current unit of work finishes, instead of hanging indefinitely.
 _INTERRUPTED = False
 
 def _handle_sigint(signum, frame):
@@ -348,8 +368,6 @@ def ocr_text_pages(pdf_path: str, max_pages: int = OCR_MAX_PAGES) -> list[tuple[
 
         for page_num in range(1, total_pages + 1):
             if _INTERRUPTED:
-                # stop OCR-ing further pages of THIS pdf as soon as possible;
-                # whatever pages we already OCR'd are still returned/used
                 break
             try:
                 page = doc.load_page(page_num - 1)
@@ -416,6 +434,14 @@ def extract_document_metadata(full_text: str, row: dict) -> dict:
     }
 
     # ── Case number ────────────────────────────────────────────────────
+    # IMPORTANT: only search the HEADER of the document (first ~1200 chars).
+    # The real case number always appears at the very top ("ORDER SHEET ...
+    # Cr.B.A.No.S-994 of 2019 ..."). Searching the FULL body was a bug --
+    # judges often mention OTHER (precedent/co-accused) case numbers deep
+    # in the text, and re.search() would sometimes grab one of those
+    # instead of the document's own number, causing unrelated documents
+    # to end up with the identical case_number.
+    header_text = full_text[:1200]
     case_no = re.search(
         r"("
         r"(?:Crl\.?\s*|CRL\.?\s*|Cr\.B\.A\.?\s*|Cr\.R\.A\.?\s*|Cr\.A\.?\s*|"
@@ -424,7 +450,7 @@ def extract_document_metadata(full_text: str, row: dict) -> dict:
         r"No\.?\s*[\w\-]+(?:/[\w]+)*"
         r"(?:\s+of\s+\d{4})?"
         r")",
-        full_text, re.I
+        header_text, re.I
     )
     meta["case_number"] = case_no.group(1).strip() if case_no else ""
 
@@ -574,10 +600,33 @@ def extract_document_metadata(full_text: str, row: dict) -> dict:
         if not meta.get(f)
     ]
     if missing:
-        filled = ollama_fill_missing_metadata(full_text, missing)
-        for k, v in filled.items():
-            if v:   # only overwrite if Ollama actually returned something
-                meta[k] = v
+        # FIX: case_number ko baaki fields se ALAG treat karo. Purana code
+        # poora full_text (4000 chars) Ollama ko bhej deta tha, jisme body
+        # mein cited precedent/co-accused case numbers bhi hote the — Ollama
+        # unme se koi bhi utha kar apna jawab bana deta tha (isi wajah se ek
+        # hi case number dozens of unrelated files mein repeat ho raha tha).
+        other_missing = [f for f in missing if f != "case_number"]
+
+        if other_missing:
+            filled = ollama_fill_missing_metadata(full_text, other_missing)
+            for k, v in filled.items():
+                if v:   # only overwrite if Ollama actually returned something
+                    meta[k] = v
+
+        if "case_number" in missing:
+            # FIX: case_number ke liye Ollama ko sirf header_text (~1200
+            # chars) bhejo — poora document nahi. Isse body mein cited
+            # doosre case numbers uthne ka chance khatam ho jata hai.
+            cn_filled = ollama_fill_missing_metadata(header_text, ["case_number"])
+            candidate = (cn_filled.get("case_number") or "").strip()
+            # FIX: extra safety guard — Ollama ka jawab tabhi accept karo
+            # jab wo header_text mein actually mojood ho (substring check,
+            # case-insensitive). Ye hallucinated / "plausible sounding"
+            # lekin is document se belong na karne wale case numbers ko
+            # block karta hai. Match na ho to case_number khali hi rehta
+            # hai — khali behtar hai ghalat value se.
+            if candidate and candidate.lower() in header_text.lower():
+                meta["case_number"] = candidate
 
     return meta
 
@@ -863,15 +912,12 @@ def run():
         print("⚠  bs4 missing: pip install beautifulsoup4 --break-system-packages", flush=True)
     print("🔥 STARTED — Ctrl+C kabhi bhi safely rok sakte hain, agli baar wahi se resume hoga\n", flush=True)
 
-    # Warm up EasyOCR model before threads start
     if OCR_SUPPORTED:
         get_ocr_reader()
 
-    ocr_queue = []   # [(generated_name, pdf_path, row_dict, output_file)]
+    ocr_queue = []
 
-    # try/finally guarantees checkpoint save no matter WHERE Ctrl+C hits
     try:
-        # ── Pass 1: Fast normal extraction ────────────────────────────
         for idx, row in df.iterrows():
             generated_name = str(row["generated_name"])
             pdf_path       = str(row["actual_path"])
@@ -931,7 +977,6 @@ def run():
                       f"({len(done)}/{total} done, {total - len(done)} remaining).", flush=True)
                 return
 
-        # ── Pass 2: Parallel OCR (ThreadPoolExecutor, shared EasyOCR model) ──
         if ocr_queue:
             print(f"\n🧠 OCR pass: {len(ocr_queue)} PDFs | "
                   f"{OCR_WORKERS} threads | EasyOCR {OCR_LANGUAGES}\n", flush=True)
@@ -962,7 +1007,6 @@ def run():
                     if stop_requested():
                         print("\n⏸ Stop file detected during OCR pass.", flush=True)
                         clear_stop_flag()
-                        # cancel any not-yet-started OCR jobs and exit fast
                         executor.shutdown(wait=False, cancel_futures=True)
                         return
 
@@ -971,25 +1015,19 @@ def run():
                               f"khatam hote hi rukega ({len(done)}/{total} done, "
                               f"{total - len(done)} remaining). Baaki queued files "
                               f"cancel ho rahi hain...", flush=True)
-                        # cancel jobs that haven't started yet; jobs already
-                        # running in a thread will finish (native OCR calls
-                        # can't be killed mid-flight) but nothing NEW starts
                         executor.shutdown(wait=False, cancel_futures=True)
                         return
             finally:
-                # normal completion path — just wait for the pool to close
                 executor.shutdown(wait=True)
 
         print("\n🎉 Done. Re-run anytime to resume from checkpoint.", flush=True)
 
     except KeyboardInterrupt:
-        # Ctrl+C — stop IMMEDIATELY, don't wait for the rest of the queue
         print("\n⏸ Ctrl+C dabaya gaya — turant ruk raha hai.", flush=True)
         try:
-            # if we were inside the OCR pass, kill pending threads right away
             executor.shutdown(wait=False, cancel_futures=True)
         except NameError:
-            pass  # Pass 1 tha, koi executor nahi bana
+            pass
 
     finally:
         save_checkpoint(done)
@@ -999,4 +1037,3 @@ def run():
 
 if __name__ == "__main__":
     run()
-    

@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 from openpyxl import Workbook, load_workbook
 from openpyxl.styles import Font
 import os, re, time
+import subprocess          # NEW: Ollama ko auto-restart karne ke liye
 import easyocr
 from PIL import Image
 import numpy as np
@@ -17,6 +18,7 @@ load_dotenv()
 
 MODEL      = "llama3.2:3b"
 OLLAMA_URL = "http://localhost:11434/api/generate"
+OLLAMA_TAGS_URL = "http://localhost:11434/api/tags"   # NEW: alive-check ke liye lightweight endpoint
 
 SCRIPT_DIR   = Path(__file__).parent    
 ZIP_FILES    = ["pdfs.zip", "shc.zip"]
@@ -29,6 +31,12 @@ DELAY       = 0      # FIX: 1 sec tha — Groq rate-limit ke zamane ka leftover,
 MAX_PAGES   = 2
 MAX_RETRIES = 1
 SAVE_EVERY  = 1      # FIX: har PDF ke baad save (pehle 25 tha) — Ctrl+C pe kuch bhi na khoye
+
+# NEW: Ollama crash ho jaye to script khud "ollama serve" restart karne ki koshish karegi.
+# Poore run mein max itni baar restart try hoga (taake infinite crash-loop na bane).
+MAX_OLLAMA_RESTARTS  = 5
+OLLAMA_RESTART_WAIT  = 30   # seconds — restart ke baad kitni der wait karke check karna hai
+_ollama_restart_count = 0   # NEW: global counter, poore run mein track hota hai
 
 HEADERS = ["File Name", "Actual File Path", "Court", "Case Type", "Case Number", "Year", "Legal Issue", "Keywords", "Summary"]
 # NEW: "Actual File Path" — asal PDF ka pura disk path. Ab future mein kabhi "PDF nahi mili" wala
@@ -44,6 +52,58 @@ COURT_MAP = {
 }
 
 logging.basicConfig(filename=str(SCRIPT_DIR / "errors.log"), level=logging.ERROR)
+
+# ================= OLLAMA WATCHDOG =================
+# NEW: yeh poora section Ollama crash/hang handle karne ke liye hai.
+
+def is_ollama_alive():
+    """Ollama zinda hai ya nahi, ek halka sa GET request se check karta hai."""
+    try:
+        r = requests.get(OLLAMA_TAGS_URL, timeout=5)
+        return r.status_code == 200
+    except Exception:
+        return False
+
+
+def restart_ollama():
+    """Ollama band mil jaye to 'ollama serve' khud chalane ki koshish karta hai.
+    CREATE_NEW_CONSOLE se naya process apni alag window mein khulta hai —
+    is Python script ke saath mar nahi jayega. OLLAMA_KEEP_ALIVE=-1 set kar
+    diya hai taake model bar-bar unload/reload na ho (jo crash ki ek wajah hoti hai)."""
+    global _ollama_restart_count
+
+    print(f"    [!] Ollama restart ki koshish ho rahi hai ({_ollama_restart_count}/{MAX_OLLAMA_RESTARTS})...")
+
+    env = os.environ.copy()
+    env["OLLAMA_KEEP_ALIVE"] = "-1"
+
+    try:
+        creationflags = subprocess.CREATE_NEW_CONSOLE if os.name == "nt" else 0
+        subprocess.Popen(
+            ["ollama", "serve"],
+            env=env,
+            creationflags=creationflags,
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+        )
+    except FileNotFoundError:
+        print("    [!] 'ollama' command nahi mila — check karo Ollama PATH mein hai ya nahi.")
+        return False
+    except Exception as e:
+        print(f"    [!] Ollama restart command fail hui: {e}")
+        return False
+
+    # NEW: restart hone ke baad thora wait karo, har 2 sec check karo model wapas aaya ya nahi
+    waited = 0
+    while waited < OLLAMA_RESTART_WAIT:
+        time.sleep(2)
+        waited += 2
+        if is_ollama_alive():
+            print(f"    [+] Ollama wapas chal pada ({waited}s baad)")
+            return True
+
+    print(f"    [!] {OLLAMA_RESTART_WAIT}s wait ke baad bhi Ollama zinda nahi mila")
+    return False
 
 # ================= NORMALIZATION HELPERS =================
 # NEW: Ye saare functions ab shuru se hi lagte hain — taake naye process hone
@@ -277,7 +337,6 @@ def load_mapping():
     ws = wb.active
     header = [c.value for c in ws[1]]
     col_idx = {h: i for i, h in enumerate(header)}
-
     for r in range(2, ws.max_row + 1):
         actual_filename = ws.cell(row=r, column=col_idx["actual_filename"] + 1).value
         actual_path     = ws.cell(row=r, column=col_idx["actual_path"] + 1).value
@@ -357,9 +416,10 @@ def read_pdf_text(path):
         logging.error(str(e))
         return ""
 
-# ================= AI (OLLAMA FIXED) =================
+# ================= AI (OLLAMA FIXED + AUTO-RESTART) =================
 
 def ask_ai(text, filename=None):
+    global _ollama_restart_count
 
     prompt = f"""
 Extract legal metadata and return ONLY valid JSON:
@@ -387,8 +447,11 @@ TEXT:
 """
 
     last_parsed = None
+    attempt = 0   # FIX: pehle "for attempt in range(1, MAX_RETRIES+1)" tha — ab while loop taake
+                  # Ollama restart hone par attempt budget consume kiye baghair dobara try ho sake
 
-    for attempt in range(1, MAX_RETRIES + 1):
+    while attempt < MAX_RETRIES:
+        attempt += 1
         try:
             res = requests.post(
                 OLLAMA_URL,
@@ -440,8 +503,22 @@ TEXT:
             msg = str(e).lower()
 
             if "connection" in msg or "refused" in msg:
-                print("\n[!] Ollama band hai → run: ollama serve\n")
-                return None, True
+                # NEW: turant "stop" karne ke bajaye, pehle Ollama ko khud restart
+                # karne ki koshish karo (max MAX_OLLAMA_RESTARTS baar poore run mein)
+                if _ollama_restart_count < MAX_OLLAMA_RESTARTS:
+                    _ollama_restart_count += 1
+                    print(f"\n[!] Ollama band mila (auto-restart {_ollama_restart_count}/{MAX_OLLAMA_RESTARTS})")
+                    if restart_ollama():
+                        attempt -= 1   # NEW: is attempt ko count na karo, restart ke baad dobara try karo
+                        time.sleep(2)
+                        continue
+                    else:
+                        print("    [!] Restart fail — thodi der baad ek aur koshish hogi is file pe")
+                        continue
+                else:
+                    print(f"\n[!] Ollama {MAX_OLLAMA_RESTARTS} baar restart try ho chuka hai, ab bhi band hai.")
+                    print("[!] Manually check karo: 'ollama serve' terminal mein chala ke dekho kya error aata hai.\n")
+                    return None, True
 
             time.sleep(3)
 
@@ -564,6 +641,12 @@ def save_checkpoint(processed_set):
 # ================= MAIN =================
 
 def run():
+    # NEW: script shuru hote hi ek dafa check kar lo Ollama zinda hai ya nahi —
+    # agar pehle se hi band hai to processing shuru karne se pehle restart try karo
+    if not is_ollama_alive():
+        print("[!] Ollama abhi se band hai, shuru mein hi restart try kar rahe hain...")
+        restart_ollama()
+
     all_rows  = load_existing_rows()                       # FIX: purana data load karo, overwrite na ho
     processed = load_checkpoint()
 
@@ -645,7 +728,7 @@ def run():
             if stop:
                 save_excel(all_rows)
                 save_checkpoint(processed)
-                print("[!] Ollama band ho gaya — 'ollama serve' chala ke yehi script dobara chalao.")
+                print("[!] Ollama band ho gaya aur auto-restart bhi fail ho gaya — 'ollama serve' manually chala ke yehi script dobara chalao.")
                 return
 
             if ai:
@@ -705,7 +788,7 @@ def run():
                 if stop:
                     save_excel(all_rows)
                     save_checkpoint(processed)
-                    print("[!] Ollama band ho gaya — 'ollama serve' chala ke yehi script dobara chalao, wahi se resume hoga.")
+                    print("[!] Ollama band ho gaya aur auto-restart bhi fail ho gaya — 'ollama serve' manually chala ke yehi script dobara chalao, wahi se resume hoga.")
                     return
 
                 all_rows.append(row)

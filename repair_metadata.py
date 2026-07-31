@@ -1,4 +1,10 @@
 """
+
+===================
+repair_metadata.py chunks ko kabhi generate/modify nahi karta — ye sirf jo chunks pehle se extractor.py ne bana rakhe hain unko read karke jodta hai (reconstruct_full_text() function — chunk_index ke hisaab se sort karke sab chunks ka text ek saath jod deta hai)
+In-place metadata repair for already-generated JSON files in extracted_text_clean/."""
+
+"""
 repair_metadata.py
 ===================
 In-place metadata repair for already-generated JSON files in extracted_text_clean/.
@@ -42,20 +48,6 @@ import glob
 import signal
 import argparse
 
-# --------------------------------------------------------------------------
-# Safe Ctrl+C handling: sets a flag instead of killing mid-write.
-# The loop checks this flag AFTER each file finishes (read + possible
-# write is done in one quick step), so no file is ever left half-written.
-#
-# IMPORTANT: extractor.py ALSO registers its own signal.signal(SIGINT, ...)
-# handler at import time. If we register ours before importing extractor,
-# extractor's import silently overwrites ours and Ctrl+C stops responding
-# to THIS script (it would print extractor.py's own message instead and
-# set extractor's internal flag, which this script never checks). So we
-# define the handler now, import extractor.py below, and only THEN
-# register our handler -- as the LAST thing to touch signal.signal, so it
-# wins.
-# --------------------------------------------------------------------------
 _INTERRUPTED = False
 
 def _handle_sigint(signum, frame):
@@ -65,10 +57,6 @@ def _handle_sigint(signum, frame):
               "(koi file adhoori nahi likhi jayegi)...", flush=True)
     _INTERRUPTED = True
 
-# --------------------------------------------------------------------------
-# Import the exact same extraction logic already used by extractor.py,
-# so the repair uses IDENTICAL rules -- no logic duplication/drift.
-# --------------------------------------------------------------------------
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 try:
     from extractor import extract_document_metadata, OUTPUT_DIR
@@ -77,18 +65,8 @@ except Exception as e:
     print("   Make sure repair_metadata.py sits in the same directory as extractor.py")
     sys.exit(1)
 
-# Register AFTER the import so extractor.py's own signal.signal() call
-# (which runs during import) cannot override this script's handler.
 signal.signal(signal.SIGINT, _handle_sigint)
 
-
-# --------------------------------------------------------------------------
-# Checkpoint: tracks which files this repair script has ALREADY scanned,
-# so Ctrl+C / a fresh run resumes from where it left off instead of
-# starting over at file 1 every time. This checkpoint only tracks repair
-# progress -- it never touches extractor_checkpoint.json (the main
-# pipeline's own checkpoint) and never deletes any .json output file.
-# --------------------------------------------------------------------------
 REPAIR_CHECKPOINT_FILE = "repair_checkpoint.json"
 
 
@@ -114,12 +92,6 @@ BAD_JUDGE_TOKENS = {
 }
 
 def _coerce_scalar(val) -> str:
-    """
-    Safely turn ANY value (str, list, None, int, etc.) into a plain string
-    for validation/comparison, so a type mismatch between what's stored in
-    the JSON and what extractor.py's extract_document_metadata() currently
-    returns can never crash the script.
-    """
     if val is None:
         return ""
     if isinstance(val, str):
@@ -154,11 +126,29 @@ def is_valid_judge(name) -> bool:
     return True
 
 
+# Same prefix list used by extract_document_metadata()'s case_number regex.
+# A real case number must START with one of these AND contain "No." followed
+# by an alphanumeric identifier. This replaces the old length-only check
+# (len >= 5), which let garbage sentence fragments like "Constitution is not"
+# or "W.P. Nos" pass through as "valid" and never get repaired.
+CASE_NUMBER_PREFIX_RE = re.compile(
+    r"^(?:Crl\.?|CRL\.?|Cr\.B\.A\.?|Cr\.R\.A\.?|Cr\.A\.?|Civil|W\.P\.?|Const\.?|Criminal|Misc\.?)",
+    re.I
+)
+CASE_NUMBER_HAS_NO_RE = re.compile(r"No\.?\s*[\w\-]", re.I)
+
+
 def is_valid_case_number(val) -> bool:
     val = _coerce_scalar(val)
     if not val:
         return False
-    return len(val) >= 5
+    if len(val) < 5 or len(val) > 60:
+        return False
+    if not CASE_NUMBER_PREFIX_RE.match(val):
+        return False
+    if not CASE_NUMBER_HAS_NO_RE.search(val):
+        return False
+    return True
 
 
 def is_valid_date(val) -> bool:
@@ -192,10 +182,6 @@ def reconstruct_full_text(data: dict) -> str:
     return " ".join(c.get("text", "") for c in chunks_sorted)
 
 
-# Safety cap: judge/case_number/date/sections/citations/parties always appear
-# early in a Pakistani court judgment. Capping avoids rare pathological/slow
-# regex behavior on unusually large reconstructed documents, without losing
-# any real extraction accuracy.
 MAX_TEXT_CHARS = 200_000
 
 
@@ -224,7 +210,7 @@ def repair_file(path: str, apply_changes: bool):
     for field, validator in FIELD_VALIDATORS.items():
         current_val = data.get(field, "" if field not in ("sections_cited", "citations", "parties") else [])
         if validator(current_val):
-            continue  # already valid -- do not touch
+            continue
 
         new_val = fresh_meta.get(field)
         if validator(new_val):
@@ -261,8 +247,6 @@ def main():
     all_json_files = sorted(glob.glob(os.path.join(OUTPUT_DIR, "*.json")))
     total = len(all_json_files)
 
-    # Checkpoint only matters in --apply mode (that's the long-running pass
-    # you actually need to resume). Dry runs always preview everything.
     done = load_repair_checkpoint() if args.apply else set()
 
     pending_files = [p for p in all_json_files if os.path.basename(p) not in done]
@@ -329,8 +313,5 @@ def main():
         print(f"   (If you ever want to rescan everything again: python repair_metadata.py --apply --reset)")
 
 
-
-
 if __name__ == "__main__":
     main()
-    
