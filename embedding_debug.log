@@ -1,0 +1,13 @@
+2026-08-02 20:21:58,586 | INFO | Resuming with 0 chunks already processed.
+2026-08-02 20:24:15,221 | INFO | Resuming with 0 chunks already processed.
+2026-08-02 20:24:19,729 | INFO | HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-08-02 20:24:19,756 | INFO | HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-08-02 20:24:21,971 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks "HTTP/1.1 200 OK"
+2026-08-02 20:24:21,972 | INFO | Created Qdrant collection: legal_chunks
+2026-08-02 20:24:24,187 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-02 20:24:26,424 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-02 20:24:28,699 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-02 20:24:30,933 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-02 20:24:33,156 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-02 20:24:35,367 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-02 20:24:35,560 | INFO | Found 58469 JSON files in d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean
