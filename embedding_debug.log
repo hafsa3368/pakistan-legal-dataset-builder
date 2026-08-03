@@ -11,3 +11,173 @@
 2026-08-02 20:24:33,156 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
 2026-08-02 20:24:35,367 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
 2026-08-02 20:24:35,560 | INFO | Found 58469 JSON files in d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean
+2026-08-03 05:27:42,513 | INFO | Resuming with 0 chunks already processed.
+2026-08-03 05:27:42,521 | INFO | Loaded 10587 repaired filenames to process.
+2026-08-03 05:29:20,682 | INFO | Resuming with 0 chunks already processed.
+2026-08-03 05:29:20,711 | INFO | Loaded 10587 repaired filenames to process.
+2026-08-03 05:29:25,359 | INFO | HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-08-03 05:29:25,360 | INFO | HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-08-03 05:29:27,469 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:29:29,524 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:29:31,573 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:29:33,625 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:29:35,691 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:29:37,769 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:29:38,017 | INFO | Found 58469 total JSON files in d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean
+2026-08-03 05:29:38,039 | INFO | Filtered to 10587 repaired files (per repair_checkpoint.json)
+2026-08-03 05:32:03,531 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:32:03,534 | INFO | Upserted batch of 50 points. Total: 50
+2026-08-03 05:34:23,120 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:34:23,122 | INFO | Upserted batch of 50 points. Total: 100
+2026-08-03 05:36:42,757 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:36:42,759 | INFO | Upserted batch of 50 points. Total: 150
+2026-08-03 05:39:00,800 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:39:00,803 | INFO | Upserted batch of 50 points. Total: 200
+2026-08-03 05:41:17,264 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:41:17,268 | INFO | Upserted batch of 50 points. Total: 250
+2026-08-03 05:43:30,593 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:43:30,596 | INFO | Upserted batch of 50 points. Total: 300
+2026-08-03 05:45:44,548 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:45:44,549 | INFO | Upserted batch of 50 points. Total: 350
+2026-08-03 05:48:03,281 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:48:03,283 | INFO | Upserted batch of 50 points. Total: 400
+2026-08-03 05:50:17,975 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:50:17,976 | INFO | Upserted batch of 50 points. Total: 450
+2026-08-03 05:52:18,900 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 05:52:28,022 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 05:52:37,161 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 05:52:44,214 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 05:52:46,283 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 05:52:55,391 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 05:53:04,525 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 05:53:11,566 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 05:53:29,504 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:53:29,506 | INFO | Upserted batch of 50 points. Total: 500
+2026-08-03 05:55:50,175 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:55:50,178 | INFO | Upserted batch of 50 points. Total: 550
+2026-08-03 05:58:02,645 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 05:58:02,647 | INFO | Upserted batch of 50 points. Total: 600
+2026-08-03 06:00:14,441 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:00:14,443 | INFO | Upserted batch of 50 points. Total: 650
+2026-08-03 06:02:27,661 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:02:27,662 | INFO | Upserted batch of 50 points. Total: 700
+2026-08-03 06:04:40,754 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:04:40,755 | INFO | Upserted batch of 50 points. Total: 750
+2026-08-03 06:05:11,256 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 06:05:20,436 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 06:05:29,604 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 06:05:36,669 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 06:05:38,768 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 06:05:47,918 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 06:05:57,071 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 06:06:04,136 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 06:07:51,343 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:07:51,345 | INFO | Upserted batch of 50 points. Total: 800
+2026-08-03 06:10:04,617 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:10:04,619 | INFO | Upserted batch of 50 points. Total: 850
+2026-08-03 06:12:16,331 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:12:16,333 | INFO | Upserted batch of 50 points. Total: 900
+2026-08-03 06:14:28,577 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:14:28,578 | INFO | Upserted batch of 50 points. Total: 950
+2026-08-03 06:16:42,696 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:16:42,700 | INFO | Upserted batch of 50 points. Total: 1000
+2026-08-03 06:18:57,085 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:18:57,087 | INFO | Upserted batch of 50 points. Total: 1050
+2026-08-03 06:21:08,161 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:21:08,163 | INFO | Upserted batch of 50 points. Total: 1100
+2026-08-03 06:23:25,096 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:23:25,098 | INFO | Upserted batch of 50 points. Total: 1150
+2026-08-03 06:25:41,974 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:25:41,976 | INFO | Upserted batch of 50 points. Total: 1200
+2026-08-03 06:27:55,568 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:27:55,574 | INFO | Upserted batch of 50 points. Total: 1250
+2026-08-03 06:30:10,767 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:30:10,770 | INFO | Upserted batch of 50 points. Total: 1300
+2026-08-03 06:32:24,393 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:32:24,395 | INFO | Upserted batch of 50 points. Total: 1350
+2026-08-03 06:34:39,840 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:34:39,843 | INFO | Upserted batch of 50 points. Total: 1400
+2026-08-03 06:36:53,241 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:36:53,244 | INFO | Upserted batch of 50 points. Total: 1450
+2026-08-03 06:39:10,360 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:39:10,363 | INFO | Upserted batch of 50 points. Total: 1500
+2026-08-03 06:41:28,082 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:41:28,085 | INFO | Upserted batch of 50 points. Total: 1550
+2026-08-03 06:43:41,302 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:43:41,306 | INFO | Upserted batch of 50 points. Total: 1600
+2026-08-03 06:45:52,675 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:45:52,678 | INFO | Upserted batch of 50 points. Total: 1650
+2026-08-03 06:48:11,444 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:48:11,447 | INFO | Upserted batch of 50 points. Total: 1700
+2026-08-03 06:50:27,642 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:50:27,645 | INFO | Upserted batch of 50 points. Total: 1750
+2026-08-03 06:52:39,995 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:52:39,998 | INFO | Upserted batch of 50 points. Total: 1800
+2026-08-03 06:54:53,867 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:54:53,869 | INFO | Upserted batch of 50 points. Total: 1850
+2026-08-03 06:57:12,297 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:57:12,304 | INFO | Upserted batch of 50 points. Total: 1900
+2026-08-03 06:59:26,501 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 06:59:26,504 | INFO | Upserted batch of 50 points. Total: 1950
+2026-08-03 07:01:37,362 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:01:37,364 | INFO | Upserted batch of 50 points. Total: 2000
+2026-08-03 07:03:49,548 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:03:49,550 | INFO | Upserted batch of 50 points. Total: 2050
+2026-08-03 07:06:02,315 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:06:02,318 | INFO | Upserted batch of 50 points. Total: 2100
+2026-08-03 07:08:12,956 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:08:12,960 | INFO | Upserted batch of 50 points. Total: 2150
+2026-08-03 07:10:30,456 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:10:30,460 | INFO | Upserted batch of 50 points. Total: 2200
+2026-08-03 07:12:43,038 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:12:43,041 | INFO | Upserted batch of 50 points. Total: 2250
+2026-08-03 07:14:55,978 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:14:55,981 | INFO | Upserted batch of 50 points. Total: 2300
+2026-08-03 07:17:08,179 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:17:08,182 | INFO | Upserted batch of 50 points. Total: 2350
+2026-08-03 07:19:21,883 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:19:21,887 | INFO | Upserted batch of 50 points. Total: 2400
+2026-08-03 07:21:34,021 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:21:34,025 | INFO | Upserted batch of 50 points. Total: 2450
+2026-08-03 07:23:47,068 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:23:47,071 | INFO | Upserted batch of 50 points. Total: 2500
+2026-08-03 07:25:59,036 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:25:59,043 | INFO | Upserted batch of 50 points. Total: 2550
+2026-08-03 07:28:10,267 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:28:10,270 | INFO | Upserted batch of 50 points. Total: 2600
+2026-08-03 07:30:21,291 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:30:21,297 | INFO | Upserted batch of 50 points. Total: 2650
+2026-08-03 07:32:34,970 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:32:34,973 | INFO | Upserted batch of 50 points. Total: 2700
+2026-08-03 07:33:13,098 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 07:33:22,249 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 07:33:31,421 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 07:33:38,484 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 07:33:40,579 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 07:33:49,722 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 07:33:58,883 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 07:34:05,943 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 07:35:42,993 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:35:42,996 | INFO | Upserted batch of 50 points. Total: 2750
+2026-08-03 07:37:51,705 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:37:51,708 | INFO | Upserted batch of 50 points. Total: 2800
+2026-08-03 07:40:02,301 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:40:02,305 | INFO | Upserted batch of 50 points. Total: 2850
+2026-08-03 07:42:28,006 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:42:28,011 | INFO | Upserted batch of 50 points. Total: 2900
+2026-08-03 07:44:55,147 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:44:55,151 | INFO | Upserted batch of 50 points. Total: 2950
+2026-08-03 07:47:20,395 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:47:20,395 | INFO | Upserted batch of 50 points. Total: 3000
+2026-08-03 07:49:45,770 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:49:45,770 | INFO | Upserted batch of 50 points. Total: 3050
+2026-08-03 07:52:06,772 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:52:06,772 | INFO | Upserted batch of 50 points. Total: 3100
+2026-08-03 07:54:24,365 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:54:24,365 | INFO | Upserted batch of 50 points. Total: 3150
+2026-08-03 07:56:39,909 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:56:39,912 | INFO | Upserted batch of 50 points. Total: 3200
+2026-08-03 07:59:00,741 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 07:59:00,745 | INFO | Upserted batch of 50 points. Total: 3250
+2026-08-03 08:01:15,445 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 08:01:15,449 | INFO | Upserted batch of 50 points. Total: 3300

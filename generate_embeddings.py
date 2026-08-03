@@ -1,8 +1,10 @@
 """
 generate_embeddings.py
------------------------
-STEP 1: Sirf embedding generation.
 python generate_embeddings.py --json_dir "d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean"
+-----------------------
+.\qdrant.exe
+STEP 1: Sirf embedding generation.
+
 Kya karta hai:
 1. Aapke repaired JSON files (repair_metadata.py ka output) padhta hai
 2. Har chunk ka text Ollama (nomic-embed-text) se embedding banata hai
@@ -71,6 +73,28 @@ console = logging.StreamHandler()
 console.setLevel(logging.INFO)
 logging.getLogger().addHandler(console)
 log = logging.getLogger(__name__)
+
+
+# ---------------------------------------------------------------------------
+# REPAIRED FILES FILTER
+# ---------------------------------------------------------------------------
+def load_repaired_filenames(repaired_list_path: str):
+    """
+    repair_checkpoint.json ek simple JSON array hai jisme sirf un files
+    ke naam hain jo repair ho chuki hain, e.g.:
+    ["LHC_bail_1930_processed_141930.json", "LHC_bail_1931_processed_141931.json", ...]
+
+    Ye function us list ko set mein load karta hai taake sirf inhi files
+    ko embed karein, baaki (jo abhi repair nahi hui) skip ho jayen.
+    """
+    if not os.path.exists(repaired_list_path):
+        log.error(f"Repaired files list not found: {repaired_list_path}")
+        return set()
+
+    with open(repaired_list_path, "r", encoding="utf-8") as f:
+        names = json.load(f)
+
+    return set(names)
 
 
 # ---------------------------------------------------------------------------
@@ -166,15 +190,23 @@ def setup_qdrant(client: QdrantClient):
 # ---------------------------------------------------------------------------
 # READ CHUNKS FROM YOUR ACTUAL JSON FORMAT
 # ---------------------------------------------------------------------------
-def iter_chunks(json_dir: str):
+def iter_chunks(json_dir: str, repaired_filenames: set = None):
     """
     Matches repair_metadata.py output exactly:
     generated_name, actual_filename, court, case_type, year, case_number,
     date_of_order, judge, sections_cited, citations, parties,
     chunks: [{chunk_index, token_estimate, source_pages, text}, ...]
+
+    Agar repaired_filenames diya gaya ho, to sirf unhi files ko process
+    karega jo us set mein hain (baaki skip). Ye repair_checkpoint.json
+    se match karta hai.
     """
     json_files = list(Path(json_dir).glob("*.json"))
-    log.info(f"Found {len(json_files)} JSON files in {json_dir}")
+    log.info(f"Found {len(json_files)} total JSON files in {json_dir}")
+
+    if repaired_filenames is not None:
+        json_files = [jf for jf in json_files if jf.name in repaired_filenames]
+        log.info(f"Filtered to {len(json_files)} repaired files (per repair_checkpoint.json)")
 
     for jf in json_files:
         try:
@@ -229,9 +261,17 @@ def iter_chunks(json_dir: str):
 # ---------------------------------------------------------------------------
 # MAIN
 # ---------------------------------------------------------------------------
-def run(json_dir: str):
+def run(json_dir: str, repaired_list_path: str = None):
     processed_ids = load_checkpoint()
     log.info(f"Resuming with {len(processed_ids)} chunks already processed.")
+
+    repaired_filenames = None
+    if repaired_list_path:
+        repaired_filenames = load_repaired_filenames(repaired_list_path)
+        if not repaired_filenames:
+            log.error("Repaired filenames list is empty. Nothing to process. Stopping.")
+            return
+        log.info(f"Loaded {len(repaired_filenames)} repaired filenames to process.")
 
     if not is_ollama_alive():
         log.error("Ollama is not running. Start it first: ollama serve")
@@ -250,7 +290,7 @@ def run(json_dir: str):
     # isse memory usage constant rehta hai chahe 59k+ docs ho ya kam.
     # tqdm ko total nahi pata hoga (progress bar sirf count dikhayega, % nahi),
     # ye trade-off hai jo bade dataset ke liye zaroori hai.
-    for chunk_id, chunk_text, payload in tqdm(iter_chunks(json_dir), desc="Embedding chunks"):
+    for chunk_id, chunk_text, payload in tqdm(iter_chunks(json_dir, repaired_filenames), desc="Embedding chunks"):
         if chunk_id in processed_ids:
             stats["skipped_already_done"] += 1
             continue
@@ -304,7 +344,14 @@ def _flush(client, batch_points, batch_ids, processed_ids, newly_processed):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate embeddings from repaired legal JSON files.")
-    parser.add_argument("--json_dir", required=True, help="Folder containing your repaired JSON files")
+    parser.add_argument("--json_dir", required=True, help="Folder containing your JSON files (repaired + unrepaired mixed)")
+    parser.add_argument(
+        "--repaired_list",
+        default="repair_checkpoint.json",
+        help="Path to repair_checkpoint.json (list of repaired filenames). "
+             "Only these files will be embedded; pass empty string to disable filtering.",
+    )
     args = parser.parse_args()
 
-    run(args.json_dir)
+    repaired_list = args.repaired_list if args.repaired_list else None
+    run(args.json_dir, repaired_list)
