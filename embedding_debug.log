@@ -181,3 +181,579 @@
 2026-08-03 07:59:00,745 | INFO | Upserted batch of 50 points. Total: 3250
 2026-08-03 08:01:15,445 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
 2026-08-03 08:01:15,449 | INFO | Upserted batch of 50 points. Total: 3300
+2026-08-03 15:23:38,028 | INFO | Resuming with 3300 chunks already processed.
+2026-08-03 15:23:38,036 | INFO | Loaded 10587 repaired filenames to process.
+2026-08-03 15:23:42,707 | INFO | HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-08-03 15:23:42,717 | INFO | HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-08-03 15:23:44,786 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:23:46,841 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:23:48,921 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:23:51,008 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:23:53,085 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:23:55,186 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:23:55,425 | INFO | Found 58469 total JSON files in d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean
+2026-08-03 15:23:55,447 | INFO | Filtered to 10587 repaired files (per repair_checkpoint.json)
+2026-08-03 15:23:59,195 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:24:08,343 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:24:17,489 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:24:24,558 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 15:24:26,674 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:24:35,858 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:24:45,038 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:24:52,154 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 15:24:54,329 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:25:03,506 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:25:12,690 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:25:19,736 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 15:25:21,854 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:25:30,997 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:25:40,184 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:25:47,233 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 15:25:49,605 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:25:58,806 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:26:07,961 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:26:15,017 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 15:26:17,131 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:26:26,316 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:26:35,482 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 15:26:42,548 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 15:28:58,278 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:28:58,287 | INFO | Upserted batch of 50 points. Total: 3350
+2026-08-03 15:31:11,481 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:31:11,488 | INFO | Upserted batch of 50 points. Total: 3400
+2026-08-03 15:33:31,470 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:33:31,478 | INFO | Upserted batch of 50 points. Total: 3450
+2026-08-03 15:35:43,504 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:35:43,514 | INFO | Upserted batch of 50 points. Total: 3500
+2026-08-03 15:37:56,841 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:37:56,851 | INFO | Upserted batch of 50 points. Total: 3550
+2026-08-03 15:40:08,282 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:40:08,294 | INFO | Upserted batch of 50 points. Total: 3600
+2026-08-03 15:42:20,908 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:42:20,918 | INFO | Upserted batch of 50 points. Total: 3650
+2026-08-03 15:44:39,094 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:44:39,102 | INFO | Upserted batch of 50 points. Total: 3700
+2026-08-03 15:46:55,232 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:46:55,240 | INFO | Upserted batch of 50 points. Total: 3750
+2026-08-03 15:49:11,901 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:49:11,910 | INFO | Upserted batch of 50 points. Total: 3800
+2026-08-03 15:51:28,382 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:51:28,392 | INFO | Upserted batch of 50 points. Total: 3850
+2026-08-03 15:53:42,382 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:53:42,394 | INFO | Upserted batch of 50 points. Total: 3900
+2026-08-03 15:55:56,593 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:55:56,602 | INFO | Upserted batch of 50 points. Total: 3950
+2026-08-03 15:58:12,088 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 15:58:12,099 | INFO | Upserted batch of 50 points. Total: 4000
+2026-08-03 16:00:25,753 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:00:25,762 | INFO | Upserted batch of 50 points. Total: 4050
+2026-08-03 16:02:40,824 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:02:40,844 | INFO | Upserted batch of 50 points. Total: 4100
+2026-08-03 16:04:55,671 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:04:55,683 | INFO | Upserted batch of 50 points. Total: 4150
+2026-08-03 16:07:02,012 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 16:07:11,169 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 16:07:20,321 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 16:07:27,357 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 16:07:52,247 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:07:52,256 | INFO | Upserted batch of 50 points. Total: 4200
+2026-08-03 16:07:54,368 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 16:08:03,502 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 16:08:12,686 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 16:08:19,736 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 16:10:28,962 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:10:28,970 | INFO | Upserted batch of 50 points. Total: 4250
+2026-08-03 16:12:44,390 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:12:44,398 | INFO | Upserted batch of 50 points. Total: 4300
+2026-08-03 16:14:57,729 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:14:57,733 | INFO | Upserted batch of 50 points. Total: 4350
+2026-08-03 16:17:07,821 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:17:07,828 | INFO | Upserted batch of 50 points. Total: 4400
+2026-08-03 16:19:19,240 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:19:19,245 | INFO | Upserted batch of 50 points. Total: 4450
+2026-08-03 16:21:26,908 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:21:26,918 | INFO | Upserted batch of 50 points. Total: 4500
+2026-08-03 16:23:33,324 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:23:33,334 | INFO | Upserted batch of 50 points. Total: 4550
+2026-08-03 16:25:42,629 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:25:42,635 | INFO | Upserted batch of 50 points. Total: 4600
+2026-08-03 16:27:58,232 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:27:58,243 | INFO | Upserted batch of 50 points. Total: 4650
+2026-08-03 16:30:23,144 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:30:23,153 | INFO | Upserted batch of 50 points. Total: 4700
+2026-08-03 16:32:38,457 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:32:38,465 | INFO | Upserted batch of 50 points. Total: 4750
+2026-08-03 16:34:57,626 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:34:57,635 | INFO | Upserted batch of 50 points. Total: 4800
+2026-08-03 16:37:15,885 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:37:15,895 | INFO | Upserted batch of 50 points. Total: 4850
+2026-08-03 16:39:31,391 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:39:31,402 | INFO | Upserted batch of 50 points. Total: 4900
+2026-08-03 16:41:48,017 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:41:48,027 | INFO | Upserted batch of 50 points. Total: 4950
+2026-08-03 16:44:06,938 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:44:06,948 | INFO | Upserted batch of 50 points. Total: 5000
+2026-08-03 16:46:25,086 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:46:25,095 | INFO | Upserted batch of 50 points. Total: 5050
+2026-08-03 16:48:42,668 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:48:42,677 | INFO | Upserted batch of 50 points. Total: 5100
+2026-08-03 16:51:01,359 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:51:01,370 | INFO | Upserted batch of 50 points. Total: 5150
+2026-08-03 16:53:17,366 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:53:17,376 | INFO | Upserted batch of 50 points. Total: 5200
+2026-08-03 16:55:33,983 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:55:33,992 | INFO | Upserted batch of 50 points. Total: 5250
+2026-08-03 16:57:51,832 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 16:57:51,841 | INFO | Upserted batch of 50 points. Total: 5300
+2026-08-03 17:00:14,648 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:00:14,654 | INFO | Upserted batch of 50 points. Total: 5350
+2026-08-03 17:02:38,820 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:02:38,828 | INFO | Upserted batch of 50 points. Total: 5400
+2026-08-03 17:04:57,182 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:04:57,185 | INFO | Upserted batch of 50 points. Total: 5450
+2026-08-03 17:07:18,155 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:07:18,160 | INFO | Upserted batch of 50 points. Total: 5500
+2026-08-03 17:08:23,702 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:08:32,853 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:08:41,995 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:08:49,018 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 17:08:51,131 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:09:00,292 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:09:09,462 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:09:16,514 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 17:09:18,621 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:09:27,775 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:09:36,973 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:09:44,015 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 17:09:46,143 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:09:55,309 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:10:04,459 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:10:11,530 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 17:10:18,453 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:10:27,598 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:10:36,716 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:10:43,763 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 17:11:19,663 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:11:28,795 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:11:37,926 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:11:44,971 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 17:11:56,044 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:12:05,193 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:12:14,344 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:12:21,401 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 17:12:23,486 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:12:32,620 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:12:41,811 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:12:48,856 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 17:13:12,525 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:13:21,669 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:13:30,825 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:13:37,871 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 17:13:39,985 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:13:49,157 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:13:58,284 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:14:05,319 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 17:14:07,406 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:14:16,541 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:14:25,681 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:14:32,736 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 17:14:34,857 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:14:43,996 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:14:53,159 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:15:00,234 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 17:15:02,336 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:15:11,486 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:15:20,606 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 17:15:27,667 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 17:16:10,631 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:16:10,636 | INFO | Upserted batch of 50 points. Total: 5550
+2026-08-03 17:18:26,816 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:18:26,818 | INFO | Upserted batch of 50 points. Total: 5600
+2026-08-03 17:20:45,898 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:20:45,914 | INFO | Upserted batch of 50 points. Total: 5650
+2026-08-03 17:23:03,114 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:23:03,117 | INFO | Upserted batch of 50 points. Total: 5700
+2026-08-03 17:25:20,660 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:25:20,662 | INFO | Upserted batch of 50 points. Total: 5750
+2026-08-03 17:27:35,912 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:27:35,913 | INFO | Upserted batch of 50 points. Total: 5800
+2026-08-03 17:29:51,607 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:29:51,624 | INFO | Upserted batch of 50 points. Total: 5850
+2026-08-03 17:32:09,024 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:32:09,027 | INFO | Upserted batch of 50 points. Total: 5900
+2026-08-03 17:34:26,723 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:34:26,726 | INFO | Upserted batch of 50 points. Total: 5950
+2026-08-03 17:36:43,201 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:36:43,211 | INFO | Upserted batch of 50 points. Total: 6000
+2026-08-03 17:39:02,883 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:39:02,891 | INFO | Upserted batch of 50 points. Total: 6050
+2026-08-03 17:41:25,217 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:41:25,221 | INFO | Upserted batch of 50 points. Total: 6100
+2026-08-03 17:43:43,382 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:43:43,387 | INFO | Upserted batch of 50 points. Total: 6150
+2026-08-03 17:45:59,466 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:45:59,470 | INFO | Upserted batch of 50 points. Total: 6200
+2026-08-03 17:48:16,230 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:48:16,232 | INFO | Upserted batch of 50 points. Total: 6250
+2026-08-03 17:50:32,789 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:50:32,793 | INFO | Upserted batch of 50 points. Total: 6300
+2026-08-03 17:52:48,288 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:52:48,298 | INFO | Upserted batch of 50 points. Total: 6350
+2026-08-03 17:55:04,537 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:55:04,537 | INFO | Upserted batch of 50 points. Total: 6400
+2026-08-03 17:57:25,616 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:57:25,620 | INFO | Upserted batch of 50 points. Total: 6450
+2026-08-03 17:59:38,854 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 17:59:38,858 | INFO | Upserted batch of 50 points. Total: 6500
+2026-08-03 18:01:51,656 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 18:01:51,659 | INFO | Upserted batch of 50 points. Total: 6550
+2026-08-03 18:04:06,393 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 18:04:06,397 | INFO | Upserted batch of 50 points. Total: 6600
+2026-08-03 18:06:20,056 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 18:06:20,061 | INFO | Upserted batch of 50 points. Total: 6650
+2026-08-03 18:08:33,297 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 18:08:33,300 | INFO | Upserted batch of 50 points. Total: 6700
+2026-08-03 18:10:49,065 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 18:10:49,071 | INFO | Upserted batch of 50 points. Total: 6750
+2026-08-03 18:13:02,956 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 18:13:02,959 | INFO | Upserted batch of 50 points. Total: 6800
+2026-08-03 18:15:16,235 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 18:15:16,238 | INFO | Upserted batch of 50 points. Total: 6850
+2026-08-03 18:17:33,091 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 18:17:33,102 | INFO | Upserted batch of 50 points. Total: 6900
+2026-08-03 18:18:13,830 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:18:22,988 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:18:32,161 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:18:39,212 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 18:18:41,318 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:18:50,544 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:18:59,720 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:19:06,775 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 18:20:06,733 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:20:15,923 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:20:25,134 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:20:32,176 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 18:21:33,225 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:21:42,390 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:21:51,569 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:21:58,611 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 18:22:33,021 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-03 18:22:33,038 | INFO | Upserted batch of 50 points. Total: 6950
+2026-08-03 18:23:26,105 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:23:35,304 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:23:44,469 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:23:51,538 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 18:23:53,637 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:24:02,769 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:24:11,931 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:24:18,988 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 18:24:35,729 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:24:44,871 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:24:53,995 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:25:01,031 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 18:25:03,123 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:25:12,241 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:25:21,382 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:25:28,422 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 18:25:38,459 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:25:47,578 | WARNING | Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:25:56,698 | WARNING | Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 18:26:03,736 | ERROR | Embedding failed after max retries, skipping this chunk.
+2026-08-03 18:26:05,826 | WARNING | Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings
+2026-08-03 19:00:18,408 | INFO | Resuming with 6950 chunks already processed.
+2026-08-03 19:00:18,426 | INFO | Loaded 10587 repaired filenames to process.
+2026-08-03 19:00:23,112 | INFO | HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-08-03 19:00:23,135 | INFO | HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-08-03 19:00:25,167 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 19:00:27,225 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 19:00:29,275 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 19:00:31,332 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 19:00:33,390 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 19:00:35,456 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 19:00:35,713 | INFO | Found 58469 total JSON files in d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean
+2026-08-03 19:00:35,744 | INFO | Filtered to 10587 repaired files (per repair_checkpoint.json)
+2026-08-03 19:00:44,315 | WARNING | [LHC_bail_2020_bail_general_lhc_20_2020LHC711_10] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 5s)
+2026-08-03 19:00:53,447 | WARNING | [LHC_bail_2020_bail_general_lhc_20_2020LHC711_10] Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 10s)
+2026-08-03 19:01:07,604 | WARNING | [LHC_bail_2020_bail_general_lhc_20_2020LHC711_10] Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 20s)
+2026-08-03 19:01:29,691 | ERROR | [LHC_bail_2020_bail_general_lhc_20_2020LHC711_10] Embedding failed after max retries, skipping this chunk.
+2026-08-03 19:01:31,786 | WARNING | [LHC_bail_2020_bail_general_lhc_20_2020LHC711_11] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 5s)
+2026-08-03 19:01:40,943 | WARNING | [LHC_bail_2020_bail_general_lhc_20_2020LHC711_11] Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 10s)
+2026-08-03 19:01:55,133 | WARNING | [LHC_bail_2020_bail_general_lhc_20_2020LHC711_11] Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 20s)
+2026-08-03 19:02:17,191 | ERROR | [LHC_bail_2020_bail_general_lhc_20_2020LHC711_11] Embedding failed after max retries, skipping this chunk.
+2026-08-03 19:02:20,026 | WARNING | [LHC_bail_2021_bail_general_lhc_20_2021LHC271_4] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 5s)
+2026-08-03 19:02:29,199 | WARNING | [LHC_bail_2021_bail_general_lhc_20_2021LHC271_4] Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 10s)
+2026-08-03 19:02:43,319 | WARNING | [LHC_bail_2021_bail_general_lhc_20_2021LHC271_4] Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 20s)
+2026-08-03 19:03:05,413 | ERROR | [LHC_bail_2021_bail_general_lhc_20_2021LHC271_4] Embedding failed after max retries, skipping this chunk.
+2026-08-03 19:03:07,555 | WARNING | [LHC_bail_2021_bail_general_lhc_20_2021LHC271_5] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 5s)
+2026-08-03 19:03:16,705 | WARNING | [LHC_bail_2021_bail_general_lhc_20_2021LHC271_5] Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 10s)
+2026-08-03 19:03:30,878 | WARNING | [LHC_bail_2021_bail_general_lhc_20_2021LHC271_5] Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 20s)
+2026-08-03 19:03:52,936 | ERROR | [LHC_bail_2021_bail_general_lhc_20_2021LHC271_5] Embedding failed after max retries, skipping this chunk.
+2026-08-03 19:04:00,896 | WARNING | [LHC_bail_bail_general_lhc_20_case_4_6] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 5s)
+2026-08-03 19:04:10,026 | WARNING | [LHC_bail_bail_general_lhc_20_case_4_6] Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 10s)
+2026-08-03 19:04:24,178 | WARNING | [LHC_bail_bail_general_lhc_20_case_4_6] Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 20s)
+2026-08-03 19:04:46,243 | ERROR | [LHC_bail_bail_general_lhc_20_case_4_6] Embedding failed after max retries, skipping this chunk.
+2026-08-03 19:04:48,339 | WARNING | [LHC_bail_bail_general_lhc_20_case_4_7] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 5s)
+2026-08-03 19:04:57,457 | WARNING | [LHC_bail_bail_general_lhc_20_case_4_7] Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 10s)
+2026-08-03 19:05:11,577 | WARNING | [LHC_bail_bail_general_lhc_20_case_4_7] Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 20s)
+2026-08-03 19:05:33,614 | ERROR | [LHC_bail_bail_general_lhc_20_case_4_7] Embedding failed after max retries, skipping this chunk.
+2026-08-03 19:05:46,450 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 5s)
+2026-08-03 19:05:55,608 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 10s)
+2026-08-03 19:06:09,741 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 20s)
+2026-08-03 19:16:54,805 | INFO | Resuming with 6950 chunks already processed.
+2026-08-03 19:16:54,824 | INFO | Loaded 10587 repaired filenames to process.
+2026-08-03 19:16:59,333 | INFO | HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-08-03 19:16:59,349 | INFO | HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-08-03 19:17:01,419 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 19:17:03,487 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 19:17:05,536 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 19:17:07,587 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 19:17:09,653 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 19:17:11,752 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-03 19:17:12,029 | INFO | Found 58469 total JSON files in d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean
+2026-08-03 19:17:12,051 | INFO | Filtered to 10587 repaired files (per repair_checkpoint.json)
+2026-08-03 19:17:14,744 | WARNING | [LHC_bail_2020_bail_general_lhc_20_2020LHC711_10] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 5s)
+2026-08-03 19:17:23,929 | WARNING | [LHC_bail_2020_bail_general_lhc_20_2020LHC711_10] Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 10s)
+2026-08-03 19:17:38,106 | WARNING | [LHC_bail_2020_bail_general_lhc_20_2020LHC711_10] Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 20s)
+2026-08-04 05:38:39,283 | INFO | Resuming with 6950 chunks already processed.
+2026-08-04 05:38:39,293 | INFO | Loaded 10587 repaired filenames to process.
+2026-08-04 05:38:44,135 | INFO | HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-08-04 05:38:44,167 | INFO | HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-08-04 05:38:46,201 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 05:38:48,293 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 05:38:50,369 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 05:38:52,446 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 05:38:54,545 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 05:38:56,590 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 05:38:56,797 | INFO | Found 58469 total JSON files in d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean
+2026-08-04 05:38:56,811 | INFO | Filtered to 10587 repaired files (per repair_checkpoint.json)
+2026-08-04 05:39:01,319 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 5s)
+2026-08-04 05:39:10,692 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 10s)
+2026-08-04 05:39:24,821 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 20s)
+2026-08-04 05:39:46,860 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding failed — trying English translation fallback.
+2026-08-04 05:41:48,917 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Translation attempt 1 failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120) (waiting 5s)
+2026-08-04 05:43:23,688 | INFO | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding succeeded after translation fallback.
+2026-08-04 05:43:25,788 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_9] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 5s)
+2026-08-04 05:43:34,971 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_9] Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 10s)
+2026-08-04 05:43:49,091 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_9] Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 20s)
+2026-08-04 05:44:11,132 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_9] Embedding failed — trying English translation fallback.
+2026-08-04 05:46:13,172 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_9] Translation attempt 1 failed: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120) (waiting 5s)
+2026-08-04 05:47:43,733 | INFO | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_9] Embedding succeeded after translation fallback.
+2026-08-04 05:47:50,081 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_3] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 5s)
+2026-08-04 05:47:59,262 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_3] Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 10s)
+2026-08-04 05:48:13,437 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_3] Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 20s)
+2026-08-04 05:48:35,485 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_3] Embedding failed — trying English translation fallback.
+2026-08-04 05:50:35,487 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_3] Embedding succeeded after translation fallback.
+2026-08-04 05:50:37,577 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_4] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 5s)
+2026-08-04 05:50:46,741 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_4] Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 10s)
+2026-08-04 05:51:00,871 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_4] Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 20s)
+2026-08-04 05:51:22,915 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_4] Embedding failed — trying English translation fallback.
+2026-08-04 06:08:35,887 | INFO | Resuming with 6950 chunks already processed.
+2026-08-04 06:08:35,931 | INFO | Loaded 10587 repaired filenames to process.
+2026-08-04 06:08:40,724 | INFO | HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-08-04 06:08:40,725 | INFO | HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-08-04 06:08:42,804 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:08:44,853 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:08:46,909 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:08:48,971 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:08:51,036 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:08:53,106 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:08:53,314 | INFO | Found 58469 total JSON files in d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean
+2026-08-04 06:08:53,330 | INFO | Filtered to 10587 repaired files (per repair_checkpoint.json)
+2026-08-04 06:08:57,141 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 8s)
+2026-08-04 06:09:09,325 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding attempt 2 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 16s)
+2026-08-04 06:09:29,474 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding attempt 3 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 32s)
+2026-08-04 06:10:05,623 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding attempt 4 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 64s)
+2026-08-04 06:11:13,774 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding attempt 5 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 128s)
+2026-08-04 06:13:23,811 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding failed — trying English translation fallback.
+2026-08-04 06:14:14,666 | INFO | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding succeeded after translation fallback.
+2026-08-04 06:14:16,813 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_9] Embedding attempt 1 failed: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/embeddings (waiting 8s)
+2026-08-04 06:24:17,011 | INFO | Resuming with 6950 chunks already processed.
+2026-08-04 06:24:17,014 | INFO | Loaded 10587 repaired filenames to process.
+2026-08-04 06:24:21,609 | INFO | HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-08-04 06:24:21,610 | INFO | HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-08-04 06:24:23,679 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:24:25,761 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:24:27,840 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:24:29,892 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:24:31,978 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:24:34,044 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:24:34,273 | INFO | Found 58469 total JSON files in d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean
+2026-08-04 06:24:34,292 | INFO | Filtered to 10587 repaired files (per repair_checkpoint.json)
+2026-08-04 06:24:37,038 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Context length exceeded (7523 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:24:44,722 | INFO | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_3] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:24:46,846 | WARNING | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_9] Context length exceeded (8578 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:24:54,704 | INFO | [LHC_civil_1974_civil_general_pakistan_unknown_31084651974ce34a_9] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:24:56,874 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_3] Context length exceeded (6656 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:25:04,565 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_3] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:25:06,683 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_4] Context length exceeded (8391 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:25:15,472 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_4] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:25:17,607 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_5] Context length exceeded (10313 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:25:27,723 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_5] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:25:29,854 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_6] Context length exceeded (7120 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:25:37,719 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_6] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:25:39,817 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_8] Context length exceeded (6705 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:25:47,439 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC5934_8] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:25:49,544 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6441_4] Context length exceeded (6376 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:25:57,090 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6441_4] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:25:59,211 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6441_7] Context length exceeded (7044 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:26:07,036 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6441_7] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:26:09,154 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6441_8] Context length exceeded (9222 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:26:18,497 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6441_8] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:26:20,600 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_5] Context length exceeded (8287 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:26:28,963 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_5] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:26:31,064 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_6] Context length exceeded (9202 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:26:39,863 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_6] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:26:41,974 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_7] Context length exceeded (11603 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:26:52,800 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_7] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:26:54,915 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_8] Context length exceeded (13582 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:26:57,038 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_8_splitA] Context length exceeded (6789 chars) — splitting into 2 halves (split depth 2).
+2026-08-04 06:27:04,556 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-04 06:27:06,646 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_8_splitB] Context length exceeded (6792 chars) — splitting into 2 halves (split depth 2).
+2026-08-04 06:27:14,326 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-04 06:27:14,327 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_8] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:27:16,422 | WARNING | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_9] Context length exceeded (6845 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:27:24,364 | INFO | [LHC_civil_2014_civil_general_lhc_unknown_2014LHC6593_9] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:27:26,533 | WARNING | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC1065_7] Context length exceeded (8130 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:27:34,862 | INFO | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC1065_7] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:27:36,983 | WARNING | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC1065_8] Context length exceeded (9538 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:27:46,073 | INFO | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC1065_8] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:27:48,172 | WARNING | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC25_3] Context length exceeded (6381 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:27:55,609 | INFO | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC25_3] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:27:57,693 | WARNING | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC261_9] Context length exceeded (7596 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:28:05,717 | INFO | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC261_9] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:29:00,871 | WARNING | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC523_8] Context length exceeded (7013 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:29:08,895 | INFO | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC523_8] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:29:11,006 | WARNING | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC523_9] Context length exceeded (9028 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:29:20,237 | INFO | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC523_9] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:29:37,181 | WARNING | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC881_4] Context length exceeded (6491 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:29:44,830 | INFO | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC881_4] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:29:46,931 | WARNING | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC881_5] Context length exceeded (8158 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:29:55,533 | INFO | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC881_5] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:30:05,812 | WARNING | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC881_8] Context length exceeded (6639 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:30:13,203 | INFO | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC881_8] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:30:15,327 | WARNING | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC881_9] Context length exceeded (8737 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 06:30:23,849 | INFO | [LHC_civil_2015_civil_general_lhc_unknown_2015LHC881_9] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 06:30:53,190 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:30:53,194 | INFO | Upserted batch of 50 points. Total: 7000
+2026-08-04 06:33:14,408 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:33:14,415 | INFO | Upserted batch of 50 points. Total: 7050
+2026-08-04 06:35:31,004 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:35:31,012 | INFO | Upserted batch of 50 points. Total: 7100
+2026-08-04 06:37:45,771 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:37:45,787 | INFO | Upserted batch of 50 points. Total: 7150
+2026-08-04 06:40:01,949 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:40:01,953 | INFO | Upserted batch of 50 points. Total: 7200
+2026-08-04 06:42:21,624 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:42:21,628 | INFO | Upserted batch of 50 points. Total: 7250
+2026-08-04 06:44:34,904 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:44:34,907 | INFO | Upserted batch of 50 points. Total: 7300
+2026-08-04 06:46:47,749 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:46:47,752 | INFO | Upserted batch of 50 points. Total: 7350
+2026-08-04 06:48:57,638 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:48:57,640 | INFO | Upserted batch of 50 points. Total: 7400
+2026-08-04 06:51:09,455 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:51:09,458 | INFO | Upserted batch of 50 points. Total: 7450
+2026-08-04 06:53:20,136 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:53:20,141 | INFO | Upserted batch of 50 points. Total: 7500
+2026-08-04 06:55:30,110 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:55:30,113 | INFO | Upserted batch of 50 points. Total: 7550
+2026-08-04 06:57:41,206 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:57:41,209 | INFO | Upserted batch of 50 points. Total: 7600
+2026-08-04 06:59:53,526 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 06:59:53,529 | INFO | Upserted batch of 50 points. Total: 7650
+2026-08-04 07:02:05,921 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:02:05,924 | INFO | Upserted batch of 50 points. Total: 7700
+2026-08-04 07:04:18,103 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:04:18,107 | INFO | Upserted batch of 50 points. Total: 7750
+2026-08-04 07:06:31,917 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:06:31,920 | INFO | Upserted batch of 50 points. Total: 7800
+2026-08-04 07:08:43,816 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:08:43,819 | INFO | Upserted batch of 50 points. Total: 7850
+2026-08-04 07:10:57,979 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:10:57,982 | INFO | Upserted batch of 50 points. Total: 7900
+2026-08-04 07:13:09,106 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:13:09,109 | INFO | Upserted batch of 50 points. Total: 7950
+2026-08-04 07:15:22,356 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:15:22,361 | INFO | Upserted batch of 50 points. Total: 8000
+2026-08-04 07:17:35,009 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:17:35,014 | INFO | Upserted batch of 50 points. Total: 8050
+2026-08-04 07:19:46,929 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:19:46,933 | INFO | Upserted batch of 50 points. Total: 8100
+2026-08-04 07:22:04,453 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:22:04,456 | INFO | Upserted batch of 50 points. Total: 8150
+2026-08-04 07:24:21,674 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:24:21,676 | INFO | Upserted batch of 50 points. Total: 8200
+2026-08-04 07:26:32,754 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:26:32,758 | INFO | Upserted batch of 50 points. Total: 8250
+2026-08-04 07:28:44,327 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:28:44,330 | INFO | Upserted batch of 50 points. Total: 8300
+2026-08-04 07:30:57,553 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:30:57,556 | INFO | Upserted batch of 50 points. Total: 8350
+2026-08-04 07:33:13,908 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:33:13,930 | INFO | Upserted batch of 50 points. Total: 8400
+2026-08-04 07:35:33,493 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:35:33,509 | INFO | Upserted batch of 50 points. Total: 8450
+2026-08-04 07:37:53,067 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:37:53,071 | INFO | Upserted batch of 50 points. Total: 8500
+2026-08-04 07:40:20,109 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:40:20,113 | INFO | Upserted batch of 50 points. Total: 8550
+2026-08-04 07:42:37,284 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:42:37,291 | INFO | Upserted batch of 50 points. Total: 8600
+2026-08-04 07:44:56,005 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:44:56,005 | INFO | Upserted batch of 50 points. Total: 8650
+2026-08-04 07:47:13,120 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:47:13,123 | INFO | Upserted batch of 50 points. Total: 8700
+2026-08-04 07:49:32,525 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:49:32,529 | INFO | Upserted batch of 50 points. Total: 8750
+2026-08-04 07:51:52,532 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:51:52,547 | INFO | Upserted batch of 50 points. Total: 8800
+2026-08-04 07:54:13,752 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:54:13,756 | INFO | Upserted batch of 50 points. Total: 8850
+2026-08-04 07:56:33,438 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:56:33,452 | INFO | Upserted batch of 50 points. Total: 8900
+2026-08-04 07:57:35,629 | WARNING | [LHC_civil_2017_civil_appeal_lhc_20_2017LHC3957_4] Context length exceeded (4501 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 07:57:44,874 | INFO | [LHC_civil_2017_civil_appeal_lhc_20_2017LHC3957_4] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 07:57:46,961 | WARNING | [LHC_civil_2017_civil_appeal_lhc_20_2017LHC3957_5] Context length exceeded (6113 chars) — splitting into 2 halves (split depth 1).
+2026-08-04 07:57:49,057 | WARNING | [LHC_civil_2017_civil_appeal_lhc_20_2017LHC3957_5_splitA] Context length exceeded (3051 chars) — splitting into 2 halves (split depth 2).
+2026-08-04 07:57:56,354 | INFO | [LHC_civil_2017_civil_appeal_lhc_20_2017LHC3957_5_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-04 07:57:58,449 | WARNING | [LHC_civil_2017_civil_appeal_lhc_20_2017LHC3957_5_splitB] Context length exceeded (3061 chars) — splitting into 2 halves (split depth 2).
+2026-08-04 07:58:05,701 | INFO | [LHC_civil_2017_civil_appeal_lhc_20_2017LHC3957_5_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-04 07:58:05,701 | INFO | [LHC_civil_2017_civil_appeal_lhc_20_2017LHC3957_5] Embedding succeeded via split-and-average (depth 1).
+2026-08-04 07:59:21,018 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 07:59:21,031 | INFO | Upserted batch of 50 points. Total: 8950
+2026-08-04 08:01:40,506 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:01:40,532 | INFO | Upserted batch of 50 points. Total: 9000
+2026-08-04 08:03:56,947 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:03:56,952 | INFO | Upserted batch of 50 points. Total: 9050
+2026-08-04 08:06:16,185 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:06:16,188 | INFO | Upserted batch of 50 points. Total: 9100
+2026-08-04 08:08:36,085 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:08:36,105 | INFO | Upserted batch of 50 points. Total: 9150
+2026-08-04 08:10:55,567 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:10:55,567 | INFO | Upserted batch of 50 points. Total: 9200
+2026-08-04 08:13:12,455 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:13:12,473 | INFO | Upserted batch of 50 points. Total: 9250
+2026-08-04 08:15:34,769 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:15:34,774 | INFO | Upserted batch of 50 points. Total: 9300
+2026-08-04 08:17:56,523 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:17:56,537 | INFO | Upserted batch of 50 points. Total: 9350
+2026-08-04 08:20:18,339 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:20:18,355 | INFO | Upserted batch of 50 points. Total: 9400
+2026-08-04 08:22:39,595 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:22:39,610 | INFO | Upserted batch of 50 points. Total: 9450
+2026-08-04 08:25:08,855 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:25:08,870 | INFO | Upserted batch of 50 points. Total: 9500
+2026-08-04 08:27:29,024 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:27:29,037 | INFO | Upserted batch of 50 points. Total: 9550
+2026-08-04 08:29:49,746 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:29:49,761 | INFO | Upserted batch of 50 points. Total: 9600
+2026-08-04 08:32:11,175 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:32:11,190 | INFO | Upserted batch of 50 points. Total: 9650
+2026-08-04 08:34:37,787 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:34:37,806 | INFO | Upserted batch of 50 points. Total: 9700
+2026-08-04 08:36:57,524 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:36:57,540 | INFO | Upserted batch of 50 points. Total: 9750
+2026-08-04 08:39:15,214 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:39:15,233 | INFO | Upserted batch of 50 points. Total: 9800
+2026-08-04 08:41:33,111 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-04 08:41:33,129 | INFO | Upserted batch of 50 points. Total: 9850

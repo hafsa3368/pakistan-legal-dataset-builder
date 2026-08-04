@@ -3,16 +3,33 @@ generate_embeddings.py
 python generate_embeddings.py --json_dir "d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean"
 -----------------------
 .\qdrant.exe
-STEP 1: Sirf embedding generation.
+
+ROOT CAUSE FOUND (via test_single_embed.py):
+    Ollama ka error tha: {"error":"the input length exceeds the context length"}
+    Matlab lambe chunks (~7500+ chars) nomic-embed-text ke context window
+    (num_ctx) se zyada bade the, isliye Ollama unhe "500 Internal Server Error"
+    ke roop mein reject kar raha tha — memory crash ya corrupt Urdu text ka
+    masla NAHI tha.
+
+FIX (dono cheezein):
+    1. Har embedding request mein explicitly num_ctx=8192 bhejte hain,
+       taake Ollama apna default (jo chhota ho sakta hai) use na kare.
+    2. Agar phir bhi "context length" error aaye (bohot bade chunks ke liye),
+       to chunk ko 2 hisso mein split karte hain, dono ka embedding lete hain,
+       aur unka average (normalized) le kar final vector banate hain.
+       Zaroorat pade to recursively aur split hota hai (max depth tak).
+       Ye translation se zyada simple/fast/accurate hai — text same language
+       mein rehta hai, bas chota ho jata hai.
 
 Kya karta hai:
 1. Aapke repaired JSON files (repair_metadata.py ka output) padhta hai
 2. Har chunk ka text Ollama (nomic-embed-text) se embedding banata hai
-3. Embedding + metadata Qdrant mein store karta hai
-4. Checkpoint rakhta hai taake beech mein ruk jaye to dobara shuru na karna pade
+3. Agar chunk context limit se bada ho, to split-and-average fallback use karta hai
+4. Embedding + metadata Qdrant mein store karta hai
+5. Checkpoint rakhta hai taake beech mein ruk jaye to dobara shuru na karna pade
 
 REQUIREMENTS (pehle ye install/run karein):
-    pip install qdrant-client requests tqdm
+    pip install qdrant-client requests tqdm numpy
 
     Ollama:
     ollama serve
@@ -23,6 +40,9 @@ REQUIREMENTS (pehle ye install/run karein):
 
 USAGE:
     python generate_embeddings.py --json_dir "path/to/repaired/json/folder"
+
+    # failed chunks ko baad mein sirf unhi ko retry karne ke liye:
+    python generate_embeddings.py --json_dir "..." --retry_failed_only
 """
 
 import os
@@ -32,6 +52,7 @@ import hashlib
 import argparse
 import logging
 import requests
+import numpy as np
 from pathlib import Path
 from tqdm import tqdm
 
@@ -44,11 +65,15 @@ from qdrant_client.models import (
 )
 
 # ---------------------------------------------------------------------------
-# CONFIG — abhi ke liye seedha yahan, baad mein .env mein move karenge
+# CONFIG
 # ---------------------------------------------------------------------------
-OLLAMA_URL = "http://localhost:11434/api/embeddings"
+OLLAMA_EMBED_URL = "http://localhost:11434/api/embeddings"
 EMBED_MODEL = "nomic-embed-text"
 EMBED_DIM = 768
+
+# FIX: explicitly context window batate hain Ollama ko har request mein,
+# taake wo apna (chhota) default use na kare.
+NUM_CTX = 8192
 
 QDRANT_HOST = "localhost"
 QDRANT_PORT = 6333
@@ -58,8 +83,20 @@ BATCH_SIZE = 50
 CHECKPOINT_FILE = "embedding_checkpoint.json"
 DEBUG_LOG_FILE = "embedding_debug.log"
 
+# Permanently-skip hone wale chunks yahan save honge (chunk_id + reason)
+FAILED_CHUNKS_FILE = "failed_chunks.json"
+
 MAX_RETRIES = 3
-RETRY_DELAY = 5  # seconds
+RETRY_DELAY = 5  # seconds, base delay for exponential backoff
+
+# FIX: agar embedding "context length exceeded" error de, to chunk ko is
+# se zyada baar split nahi karenge (taake infinite recursion na ho).
+# 3 splits = chunk 8 hisso tak toot sakta hai worst case mein.
+MAX_SPLIT_DEPTH = 3
+
+# Bohot hi zyada bade chunks (bug se ban jayen) ko hard-cap karne ke liye —
+# safety net, is se bada koi bhi single chunk nahi jaana chahiye.
+MAX_CHUNK_CHARS = 20000
 
 # ---------------------------------------------------------------------------
 # LOGGING
@@ -113,8 +150,20 @@ def save_checkpoint(processed_ids):
         json.dump({"processed_ids": list(processed_ids)}, f)
 
 
+def load_failed_chunks():
+    if os.path.exists(FAILED_CHUNKS_FILE):
+        with open(FAILED_CHUNKS_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)  # dict: {chunk_id: reason}
+    return {}
+
+
+def save_failed_chunks(failed_dict):
+    with open(FAILED_CHUNKS_FILE, "w", encoding="utf-8") as f:
+        json.dump(failed_dict, f, indent=2, ensure_ascii=False)
+
+
 # ---------------------------------------------------------------------------
-# OLLAMA (with retry)
+# OLLAMA HELPERS
 # ---------------------------------------------------------------------------
 def is_ollama_alive():
     try:
@@ -124,23 +173,111 @@ def is_ollama_alive():
         return False
 
 
-def get_embedding(text: str):
-    for attempt in range(1, MAX_RETRIES + 1):
+def _raw_embed_request(text: str):
+    """
+    Ollama ko ek hi request bhejta hai. Return: (vector_or_None, error_message_or_None)
+    error_message mein Ollama ka asli reason hota hai (e.g. "context length exceeded"),
+    generic "500" nahi — isse hum decide kar sakte hain ke split karna hai ya
+    sirf retry karna hai.
+    """
+    try:
+        resp = requests.post(
+            OLLAMA_EMBED_URL,
+            json={
+                "model": EMBED_MODEL,
+                "prompt": text,
+                "options": {"num_ctx": NUM_CTX},
+            },
+            timeout=90,
+        )
+        if resp.status_code == 200:
+            return resp.json()["embedding"], None
+        # Ollama error body mein asli reason hota hai
         try:
-            resp = requests.post(
-                OLLAMA_URL,
-                json={"model": EMBED_MODEL, "prompt": text},
-                timeout=60,
-            )
-            resp.raise_for_status()
-            return resp.json()["embedding"]
-        except (requests.exceptions.RequestException, KeyError) as e:
-            log.warning(f"Embedding attempt {attempt} failed: {e}")
-            if not is_ollama_alive():
-                log.warning("Ollama seems down, retrying...")
-            time.sleep(RETRY_DELAY)
-    log.error("Embedding failed after max retries, skipping this chunk.")
-    return None
+            err_msg = resp.json().get("error", resp.text)
+        except ValueError:
+            err_msg = resp.text
+        return None, err_msg
+    except requests.exceptions.RequestException as e:
+        return None, str(e)
+
+
+def _average_vectors(vectors):
+    """Multiple embeddings ko average karke ek normalized vector banata hai."""
+    arr = np.array(vectors, dtype=np.float64)
+    mean_vec = arr.mean(axis=0)
+    norm = np.linalg.norm(mean_vec)
+    if norm > 0:
+        mean_vec = mean_vec / norm
+    return mean_vec.tolist()
+
+
+def get_embedding_with_split(text: str, chunk_id: str, depth: int = 0):
+    """
+    Pehle poora text embed karne ki koshish karta hai (retries ke sath).
+    Agar Ollama "context length" error de, to text ko 2 hisso mein split
+    karke recursively dono ka embedding leta hai, phir average kar deta hai.
+    Doosre errors (network, timeout, etc.) ke liye normal retry hi karta hai,
+    split nahi karta — kyunki split se wo masla theek nahi hoga.
+
+    Return: (vector, was_split) tuple. vector None ho sakta hai agar sab
+    kuch fail ho jaye.
+    """
+    last_error = None
+    for attempt in range(1, MAX_RETRIES + 1):
+        vector, error = _raw_embed_request(text)
+        if vector is not None:
+            return vector, (depth > 0)
+
+        last_error = error or ""
+        is_context_error = "context length" in last_error.lower()
+
+        if is_context_error:
+            # Retry karne ka koi fayda nahi — text hamesha itna hi bada rahega.
+            # Seedha split logic pe jao.
+            break
+
+        # Doosre errors (network/500/timeout) — normal exponential backoff retry
+        wait = RETRY_DELAY * (2 ** (attempt - 1))
+        log.warning(f"[{chunk_id}] Embedding attempt {attempt} failed: {last_error} (waiting {wait}s)")
+        if not is_ollama_alive():
+            log.warning(f"[{chunk_id}] Ollama seems down, retrying...")
+        time.sleep(wait)
+    else:
+        # Saare retries khatam, koi context error nahi tha, phir bhi fail —
+        # normal failure
+        log.error(f"[{chunk_id}] Embedding failed after max retries: {last_error}")
+        return None, False
+
+    # Yahan pahunche matlab context-length error mila
+    if depth >= MAX_SPLIT_DEPTH:
+        log.error(f"[{chunk_id}] Context length exceeded even after {depth} splits, giving up.")
+        return None, False
+
+    log.warning(
+        f"[{chunk_id}] Context length exceeded ({len(text)} chars) — "
+        f"splitting into 2 halves (split depth {depth + 1})."
+    )
+
+    mid = len(text) // 2
+    # Word boundary ke qareeb split karo taake beech mein koi word na kate
+    split_point = text.rfind(" ", 0, mid)
+    if split_point == -1:
+        split_point = mid
+
+    first_half = text[:split_point].strip()
+    second_half = text[split_point:].strip()
+
+    vec1, _ = get_embedding_with_split(first_half, f"{chunk_id}_splitA", depth + 1)
+    vec2, _ = get_embedding_with_split(second_half, f"{chunk_id}_splitB", depth + 1)
+
+    if vec1 is None or vec2 is None:
+        log.error(f"[{chunk_id}] One or both split halves failed to embed.")
+        return None, False
+
+    averaged = _average_vectors([vec1, vec2])
+    log.info(f"[{chunk_id}] Embedding succeeded via split-and-average (depth {depth + 1}).")
+    return averaged, True
 
 
 # ---------------------------------------------------------------------------
@@ -236,6 +373,14 @@ def iter_chunks(json_dir: str, repaired_filenames: set = None):
             chunk_index = chunk.get("chunk_index", 0)
             chunk_id = f"{jf.stem}_{chunk_index}"
 
+            # Bohot hi zyada bade chunks ke liye hard safety cap
+            if len(chunk_text) > MAX_CHUNK_CHARS:
+                log.warning(
+                    f"[{chunk_id}] Chunk text too long ({len(chunk_text)} chars), "
+                    f"truncating to {MAX_CHUNK_CHARS}."
+                )
+                chunk_text = chunk_text[:MAX_CHUNK_CHARS]
+
             payload = {
                 "chunk_id": chunk_id,
                 "chunk_text": chunk_text,
@@ -261,9 +406,21 @@ def iter_chunks(json_dir: str, repaired_filenames: set = None):
 # ---------------------------------------------------------------------------
 # MAIN
 # ---------------------------------------------------------------------------
-def run(json_dir: str, repaired_list_path: str = None):
+def run(
+    json_dir: str,
+    repaired_list_path: str = None,
+    retry_failed_only: bool = False,
+):
     processed_ids = load_checkpoint()
     log.info(f"Resuming with {len(processed_ids)} chunks already processed.")
+
+    failed_chunks = load_failed_chunks()
+    retry_target_ids = set(failed_chunks.keys()) if retry_failed_only else None
+    if retry_failed_only:
+        log.info(f"Retry-only mode: {len(retry_target_ids)} previously failed chunks loaded.")
+        if not retry_target_ids:
+            log.info("No failed chunks to retry. Exiting.")
+            return
 
     repaired_filenames = None
     if repaired_list_path:
@@ -283,21 +440,35 @@ def run(json_dir: str, repaired_list_path: str = None):
     batch_points, batch_ids = [], []
     newly_processed = set()
 
-    # Summary counters
-    stats = {"embedded": 0, "skipped_already_done": 0, "failed_embedding": 0, "failed_dimension": 0}
+    stats = {
+        "embedded": 0,
+        "embedded_via_split": 0,
+        "skipped_already_done": 0,
+        "failed_embedding": 0,
+        "failed_dimension": 0,
+    }
 
-    # NOTE: iter_chunks() ek generator hai, list(...) mein convert NAHI kiya —
-    # isse memory usage constant rehta hai chahe 59k+ docs ho ya kam.
-    # tqdm ko total nahi pata hoga (progress bar sirf count dikhayega, % nahi),
-    # ye trade-off hai jo bade dataset ke liye zaroori hai.
     for chunk_id, chunk_text, payload in tqdm(iter_chunks(json_dir, repaired_filenames), desc="Embedding chunks"):
         if chunk_id in processed_ids:
             stats["skipped_already_done"] += 1
             continue
 
-        vector = get_embedding(chunk_text)
+        # retry-only mode mein sirf wahi chunks process karo jo pehle fail hue thay
+        if retry_target_ids is not None and chunk_id not in retry_target_ids:
+            continue
+
+        # Chunk pehle se permanently fail ho chuka hai aur ye normal run hai
+        # (retry-only nahi) — to skip karo, taake har normal run mein
+        # dobara wahi crash na ho aur baaki chunks block na hon.
+        if retry_target_ids is None and chunk_id in failed_chunks:
+            stats["skipped_already_done"] += 1
+            continue
+
+        vector, was_split = get_embedding_with_split(chunk_text, chunk_id)
         if vector is None:
             stats["failed_embedding"] += 1
+            failed_chunks[chunk_id] = "embedding_failed"
+            save_failed_chunks(failed_chunks)
             continue
 
         if len(vector) != EMBED_DIM:
@@ -306,12 +477,24 @@ def run(json_dir: str, repaired_list_path: str = None):
                 f"got {len(vector)}, expected {EMBED_DIM}. Skipping."
             )
             stats["failed_dimension"] += 1
+            failed_chunks[chunk_id] = f"dimension_mismatch_{len(vector)}"
+            save_failed_chunks(failed_chunks)
             continue
+
+        # Agar chunk pehle failed_chunks mein tha aur ab kaamyab ho gaya,
+        # to usko failed list se hata do
+        if chunk_id in failed_chunks:
+            del failed_chunks[chunk_id]
+            save_failed_chunks(failed_chunks)
+
+        payload["was_split_for_embedding"] = was_split
 
         point_id = stable_point_id(chunk_id)
         batch_points.append(PointStruct(id=point_id, vector=vector, payload=payload))
         batch_ids.append(chunk_id)
         stats["embedded"] += 1
+        if was_split:
+            stats["embedded_via_split"] += 1
 
         if len(batch_points) >= BATCH_SIZE:
             _flush(client, batch_points, batch_ids, processed_ids, newly_processed)
@@ -323,11 +506,13 @@ def run(json_dir: str, repaired_list_path: str = None):
     # ---- Final summary ----
     log.info("=" * 50)
     log.info("EMBEDDING RUN SUMMARY")
-    log.info(f"  Newly embedded chunks:        {stats['embedded']}")
-    log.info(f"  Skipped (already processed):  {stats['skipped_already_done']}")
-    log.info(f"  Failed (embedding API):       {stats['failed_embedding']}")
-    log.info(f"  Failed (dimension mismatch):  {stats['failed_dimension']}")
-    log.info(f"  Total chunks now in checkpoint: {len(processed_ids)}")
+    log.info(f"  Newly embedded chunks:              {stats['embedded']}")
+    log.info(f"    (of which via split-and-average): {stats['embedded_via_split']}")
+    log.info(f"  Skipped (already processed/failed): {stats['skipped_already_done']}")
+    log.info(f"  Failed (embedding):                 {stats['failed_embedding']}")
+    log.info(f"  Failed (dimension mismatch):        {stats['failed_dimension']}")
+    log.info(f"  Total chunks now in checkpoint:     {len(processed_ids)}")
+    log.info(f"  Total chunks still in failed_chunks.json: {len(failed_chunks)}")
     log.info("=" * 50)
 
 
@@ -351,7 +536,16 @@ if __name__ == "__main__":
         help="Path to repair_checkpoint.json (list of repaired filenames). "
              "Only these files will be embedded; pass empty string to disable filtering.",
     )
+    parser.add_argument(
+        "--retry_failed_only",
+        action="store_true",
+        help="Sirf failed_chunks.json mein listed chunk_ids ko dobara try karo.",
+    )
     args = parser.parse_args()
 
     repaired_list = args.repaired_list if args.repaired_list else None
-    run(args.json_dir, repaired_list)
+    run(
+        args.json_dir,
+        repaired_list,
+        args.retry_failed_only,
+    )
