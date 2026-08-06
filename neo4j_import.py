@@ -255,6 +255,15 @@ def create_constraints(driver):
         "CREATE CONSTRAINT topic_name IF NOT EXISTS FOR (t:Topic) REQUIRE t.name IS UNIQUE",
         "CREATE CONSTRAINT section_name IF NOT EXISTS FOR (s:LawSection) REQUIRE s.name IS UNIQUE",
         "CREATE CONSTRAINT party_name IF NOT EXISTS FOR (p:Party) REQUIRE p.name IS UNIQUE",
+        # NEW: Chunk nodes need a unique id so MERGE doesn't create duplicate
+        # chunks on re-import/resume. chunk_id is derived from case_id +
+        # chunk_index (see build_chunk_records()) so it's stable and unique
+        # even across cases.
+        "CREATE CONSTRAINT chunk_id IF NOT EXISTS FOR (ch:Chunk) REQUIRE ch.chunk_id IS UNIQUE",
+        # NEW: Year is now a first-class node (DECIDED_IN relationship)
+        # instead of just a plain property on Case, so queries like
+        # "all cases decided in 2019" can traverse the graph directly.
+        "CREATE CONSTRAINT year_value IF NOT EXISTS FOR (y:Year) REQUIRE y.value IS UNIQUE",
     ]
 
     with driver.session() as session:
@@ -288,6 +297,83 @@ def get_field(data: Dict[str, Any], *possible_keys):
     return None
 
 
+# =========================================================
+# NEW: build_case_label() — produces a human-readable identity for the
+# Case node, used ONLY as a display/caption property in Neo4j Browser.
+#
+# This is intentionally separate from case_id (the MERGE key, which stays
+# filename-based — see the comment in build_case_record() explaining why
+# case_number cannot be used as the identity key). case_label is not
+# guaranteed unique and is never used in MERGE, so it carries zero risk
+# of causing false-merge bugs like the ones case_number caused before.
+#
+# Priority order:
+#   1) case_number, if present (e.g. "2019 PLD SC 45")
+#   2) "<case_type> - <court> - <year>" built from whatever normalized
+#      fields are available (skips any that are missing/"Unknown")
+#   3) cleaned-up filename as an absolute last resort, so the graph never
+#      shows a blank caption, but this path should rarely be hit.
+# =========================================================
+def build_case_label(case_number: str, case_type: str, court: str, year: str,
+                      generated_name: str) -> str:
+    if case_number:
+        return case_number
+
+    parts = [p for p in (case_type, court, year) if p and p != "Unknown"]
+    if parts:
+        return " - ".join(parts)
+
+    if generated_name:
+        cleaned = os.path.splitext(generated_name)[0].replace("_", " ").strip()
+        if cleaned:
+            return cleaned
+
+    return "Unlabeled Case"
+
+
+# =========================================================
+# NEW: build_chunk_records() — JSON "chunks" array ke har object ko ek
+# Chunk node record mein convert karta hai. chunk_id = case_id + chunk_index
+# se banaya jata hai taake:
+#   1) har chunk globally unique ho (do alag cases ke chunk_index=0 aapas
+#      mein clash na karein), aur
+#   2) MERGE resume-safe rahe — dobara import chalane par same chunk_id
+#      se wahi Chunk node dobara MERGE hoga, duplicate nahi banega.
+# source_pages ek list hoti hai, Neo4j properties list of primitives
+# accept karta hai isliye seedha store ho sakti hai.
+# =========================================================
+def build_chunk_records(case_id: str, data: Dict[str, Any]) -> List[Dict[str, Any]]:
+    raw_chunks = get_field(data, "chunks", "Chunks") or []
+    if not isinstance(raw_chunks, list):
+        return []
+
+    chunk_records = []
+    for chunk in raw_chunks:
+        if not isinstance(chunk, dict):
+            continue
+
+        chunk_index = chunk.get("chunk_index")
+        if chunk_index is None:
+            # skip malformed chunk entries rather than fabricating an index
+            continue
+
+        chunk_id = f"{case_id}::chunk_{chunk_index}"
+
+        source_pages = chunk.get("source_pages") or []
+        if not isinstance(source_pages, list):
+            source_pages = [source_pages]
+
+        chunk_records.append({
+            "chunk_id": chunk_id,
+            "chunk_index": int(chunk_index),
+            "text": normalize_str(chunk.get("text")),
+            "token_estimate": int(chunk.get("token_estimate") or 0),
+            "source_pages": [int(p) for p in source_pages if str(p).strip().lstrip("-").isdigit()],
+        })
+
+    return chunk_records
+
+
 def build_case_record(data: Dict[str, Any]) -> Dict[str, Any]:
     case_number = normalize_str(get_field(data, "case_number", "Case Number", "CaseNumber"))
     generated_name = normalize_str(get_field(data, "generated_name", "Generated Name", "File Name", "generated_filename"))
@@ -301,39 +387,69 @@ def build_case_record(data: Dict[str, Any]) -> Dict[str, Any]:
     # case_number is kept as a plain property for search/reference only.
     case_id = actual_filename if actual_filename else generated_name
 
+    # FIX: raw case_type -> normalize_case_type(), taake Topic nodes
+    # Excel wali standard categories (Bail, Civil Appeal, Criminal
+    # Appeal, Writ Petition, waghera) mein map hon, raw/inconsistent
+    # strings mein nahi.
+    case_type = normalize_case_type(get_field(data, "case_type", "Case Type", "CaseType"), fallback="Unknown")
+
+    # FIX: raw court -> normalize_court(), taake OCR-garbled variants
+    # ("HIGG GOURT OF STANDH...", "High Court of Indh", etc.) ek hi
+    # clean Court node mein merge hon.
+    court = normalize_court(get_field(data, "court", "Court", "Court Name"), fallback="Unknown")
+
+    year = normalize_str(get_field(data, "year", "Year"))
+
+    # NEW: case_label — see build_case_label() docstring/comment above.
+    # This is what makes the Case node readable in Neo4j Browser
+    # ("2019 PLD SC 45" instead of "LHC_bail_1930_processed_141930.pdf")
+    # without disturbing the filename-based case_id used for MERGE.
+    case_label = build_case_label(case_number, case_type, court, year, generated_name)
+
     return {
         "case_id": case_id,
+        "case_label": case_label,
         "case_number": case_number,
         "generated_name": generated_name,
         "actual_filename": actual_filename,
-        # FIX: raw case_type -> normalize_case_type(), taake Topic nodes
-        # Excel wali standard categories (Bail, Civil Appeal, Criminal
-        # Appeal, Writ Petition, waghera) mein map hon, raw/inconsistent
-        # strings mein nahi.
-        "case_type": normalize_case_type(get_field(data, "case_type", "Case Type", "CaseType"), fallback="Unknown"),
-        "year": normalize_str(get_field(data, "year", "Year")),
+        "case_type": case_type,
+        "year": year,
         "date_of_order": normalize_str(get_field(data, "date_of_order", "Date of Order", "DateOfOrder")),
         "used_ocr": bool(get_field(data, "used_ocr", "Used OCR", "usedOcr") or False),
         "num_chunks": int(get_field(data, "num_chunks", "Num Chunks", "numChunks") or 0),
-        # FIX: raw court -> normalize_court(), taake OCR-garbled variants
-        # ("HIGG GOURT OF STANDH...", "High Court of Indh", etc.) ek hi
-        # clean Court node mein merge hon.
-        "court": normalize_court(get_field(data, "court", "Court", "Court Name"), fallback="Unknown"),
+        "court": court,
         "judge": normalize_str(get_field(data, "judge", "Judge", "Judge Name")),
         "sections_cited": [normalize_str(x) for x in (get_field(data, "sections_cited", "Sections Cited", "Keywords") or []) if normalize_str(x)],
         "citations": [normalize_str(x) for x in (get_field(data, "citations", "Citations") or []) if normalize_str(x)],
         "parties": [normalize_str(x) for x in (get_field(data, "parties", "Parties") or []) if normalize_str(x)],
+        # NEW: per-case list of Chunk records built from the JSON "chunks"
+        # array. Each entry becomes its own Chunk node in Neo4j, linked to
+        # this Case via HAS_CHUNK. This is what lets future Qdrant-based
+        # retrieval attach (Query)-[:SIMILAR]->(Chunk) relationships later,
+        # since retrieval works at chunk granularity, not whole-case.
+        "chunks": build_chunk_records(case_id, data),
     }
 
 
 # =========================================================
 # BATCH IMPORT QUERY
+#
+# NEW Legal Knowledge Graph shape:
+#   (Case)-[:HAS_CHUNK]->(Chunk)
+#   (Case)-[:DECIDED_BY]->(Judge)
+#   (Case)-[:HEARD_IN]->(Court)
+#   (Case)-[:HAS_TOPIC]->(Topic)      <- renamed from BELONGS_TO
+#   (Case)-[:DECIDED_IN]->(Year)      <- NEW, Year is now its own node
+#   (Case)-[:INVOLVES]->(Party)
+#   (Case)-[:APPLIES]->(LawSection)
+#   (Case)-[:CITES]->(Case)
 # =========================================================
 BATCH_QUERY = """
 UNWIND $rows AS row
 
 MERGE (c:Case {case_id: row.case_id})
 SET c.case_number    = row.case_number,
+    c.case_label      = row.case_label,
     c.generated_name = row.generated_name,
     c.actual_filename= row.actual_filename,
     c.case_type      = row.case_type,
@@ -354,7 +470,13 @@ FOREACH (_ IN CASE WHEN row.judge <> '' THEN [1] ELSE [] END |
 
 FOREACH (_ IN CASE WHEN row.case_type <> '' THEN [1] ELSE [] END |
     MERGE (t:Topic {name: row.case_type})
-    MERGE (c)-[:BELONGS_TO]->(t)
+    MERGE (c)-[:HAS_TOPIC]->(t)
+)
+
+// NEW: Year node + DECIDED_IN relationship
+FOREACH (_ IN CASE WHEN row.year <> '' THEN [1] ELSE [] END |
+    MERGE (y:Year {value: row.year})
+    MERGE (c)-[:DECIDED_IN]->(y)
 )
 
 FOREACH (sec IN row.sections_cited |
@@ -370,6 +492,18 @@ FOREACH (p IN row.parties |
 FOREACH (cit IN row.citations |
     MERGE (cited:Case {case_id: cit})
     MERGE (c)-[:CITES]->(cited)
+)
+
+// NEW: Chunk nodes, one per entry in row.chunks, linked via HAS_CHUNK.
+// chunk_id is the MERGE key so re-running the import (resume / incremental
+// growth) never creates duplicate chunks.
+FOREACH (ch IN row.chunks |
+    MERGE (chunk:Chunk {chunk_id: ch.chunk_id})
+    SET chunk.chunk_index    = ch.chunk_index,
+        chunk.text           = ch.text,
+        chunk.token_estimate = ch.token_estimate,
+        chunk.source_pages   = ch.source_pages
+    MERGE (c)-[:HAS_CHUNK]->(chunk)
 )
 """
 
@@ -435,6 +569,15 @@ def main():
         # JSON key-names dobara mismatch ho gaye hon (jaisa is baar hua) —
         # ye counter aisi problem ko turant pakadne mein madad karega.
         unknown_court_count = 0
+        # NEW: total chunk nodes created this run, printed in the summary
+        # so it's easy to sanity-check chunk import is actually happening.
+        total_chunks = 0
+        # NEW: counts cases where JSON's stated "num_chunks" doesn't match
+        # the actual length of the "chunks" array we built Chunk nodes
+        # from. Mismatches get logged to LOG_FILE with the filename so they
+        # can be traced back to specific files (e.g. stale metadata from an
+        # earlier extraction run).
+        chunk_count_mismatches = 0
 
         batch = []
         batch_paths = []
@@ -460,6 +603,22 @@ def main():
                     completed.add(str(file_path))
                     pbar.update(1)
                     continue
+
+                actual_chunk_count = len(record["chunks"])
+                total_chunks += actual_chunk_count
+
+                # NEW: flag when JSON's own "num_chunks" field disagrees
+                # with how many chunk objects we actually found/parsed.
+                # This does NOT block the import — it only logs — since a
+                # mismatch is a metadata quality issue, not a reason to
+                # skip importing the chunks that ARE present.
+                if record["num_chunks"] != actual_chunk_count:
+                    chunk_count_mismatches += 1
+                    log_error(
+                        f"{file_path} | chunk count mismatch: "
+                        f"num_chunks field={record['num_chunks']} "
+                        f"actual chunks parsed={actual_chunk_count}"
+                    )
 
                 batch.append(record)
                 batch_paths.append(str(file_path))
@@ -511,13 +670,20 @@ def main():
         print(f"Imported : {imported}")
         print(f"Skipped  : {skipped}")
         print(f"Failed   : {failed}")
+        print(f"Chunks   : {total_chunks}")
         print(f"Completed: {len(completed)} / {total_files}")
         print(f"Court = 'Unknown': {unknown_court_count} / {imported + skipped}")
+        print(f"num_chunks mismatches: {chunk_count_mismatches} / {imported + skipped}")
 
         if imported > 0 and unknown_court_count > 0.5 * imported:
             print("\n⚠️  50% se zyada records mein Court 'Unknown' hai — mumkin hai")
             print("    JSON files ki keys get_field() ki list mein match nahi ho rahi.")
             print("    Ek JSON file khol kar uski actual keys check karo.")
+
+        if chunk_count_mismatches > 0:
+            print(f"\n⚠️  {chunk_count_mismatches} files mein JSON ka 'num_chunks' field")
+            print("    aur actual 'chunks' array ki length match nahi karti.")
+            print(f"    Details {LOG_FILE} mein 'chunk count mismatch' lines mein hain.")
 
         if STOP_REQUESTED:
             print("\n🛑 Import stopped by user. Resume by running the same command again.")
