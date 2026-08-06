@@ -1685,3 +1685,620 @@
 2026-08-06 08:31:52,875 | INFO | Upserted batch of 50 points. Total: 26850
 2026-08-06 08:34:09,841 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
 2026-08-06 08:34:09,874 | INFO | Upserted batch of 50 points. Total: 26900
+2026-08-06 13:26:12,814 | INFO | Resuming with 26900 chunks already processed.
+2026-08-06 13:26:12,841 | INFO | Loaded 10587 repaired filenames to process.
+2026-08-06 13:26:16,934 | ERROR | Ollama is not running. Start it first: ollama serve
+2026-08-06 13:30:54,656 | INFO | Resuming with 26900 chunks already processed.
+2026-08-06 13:30:54,669 | INFO | Loaded 10587 repaired filenames to process.
+2026-08-06 13:30:59,821 | INFO | HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-08-06 13:30:59,823 | INFO | HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-08-06 13:31:02,017 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:31:04,118 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:31:06,156 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:31:08,263 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:31:10,327 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:31:12,415 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:31:12,704 | INFO | Found 58469 total JSON files in d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean
+2026-08-06 13:31:12,722 | INFO | Filtered to 10587 repaired files (per repair_checkpoint.json)
+2026-08-06 13:34:24,251 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:34:24,281 | INFO | Upserted batch of 50 points. Total: 26950
+2026-08-06 13:36:42,110 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:36:42,135 | INFO | Upserted batch of 50 points. Total: 27000
+2026-08-06 13:38:58,896 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:38:58,937 | INFO | Upserted batch of 50 points. Total: 27050
+2026-08-06 13:41:16,574 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:41:16,612 | INFO | Upserted batch of 50 points. Total: 27100
+2026-08-06 13:43:41,937 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:43:41,961 | INFO | Upserted batch of 50 points. Total: 27150
+2026-08-06 13:46:03,861 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:46:03,906 | INFO | Upserted batch of 50 points. Total: 27200
+2026-08-06 13:46:13,315 | WARNING | [LHC_civil_2023_civil_general_lhc_2012_2023LHC1158_14] Context length exceeded (4759 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 13:46:20,414 | INFO | [LHC_civil_2023_civil_general_lhc_2012_2023LHC1158_14] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 13:48:29,797 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:48:29,835 | INFO | Upserted batch of 50 points. Total: 27250
+2026-08-06 13:50:47,677 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:50:47,719 | INFO | Upserted batch of 50 points. Total: 27300
+2026-08-06 13:53:04,268 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:53:04,321 | INFO | Upserted batch of 50 points. Total: 27350
+2026-08-06 13:55:26,345 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:55:26,392 | INFO | Upserted batch of 50 points. Total: 27400
+2026-08-06 13:57:43,734 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 13:57:43,776 | INFO | Upserted batch of 50 points. Total: 27450
+2026-08-06 14:00:02,610 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:00:02,644 | INFO | Upserted batch of 50 points. Total: 27500
+2026-08-06 14:02:21,009 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:02:21,050 | INFO | Upserted batch of 50 points. Total: 27550
+2026-08-06 14:04:38,163 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:04:38,234 | INFO | Upserted batch of 50 points. Total: 27600
+2026-08-06 14:06:55,238 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:06:55,293 | INFO | Upserted batch of 50 points. Total: 27650
+2026-08-06 14:09:22,242 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:09:22,278 | INFO | Upserted batch of 50 points. Total: 27700
+2026-08-06 14:11:44,182 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:11:44,202 | INFO | Upserted batch of 50 points. Total: 27750
+2026-08-06 14:13:59,653 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:13:59,689 | INFO | Upserted batch of 50 points. Total: 27800
+2026-08-06 14:16:13,660 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:16:13,700 | INFO | Upserted batch of 50 points. Total: 27850
+2026-08-06 14:18:27,431 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:18:27,454 | INFO | Upserted batch of 50 points. Total: 27900
+2026-08-06 14:20:42,947 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:20:42,982 | INFO | Upserted batch of 50 points. Total: 27950
+2026-08-06 14:22:55,730 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:22:55,751 | INFO | Upserted batch of 50 points. Total: 28000
+2026-08-06 14:25:09,942 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:25:09,975 | INFO | Upserted batch of 50 points. Total: 28050
+2026-08-06 14:27:25,802 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:27:25,826 | INFO | Upserted batch of 50 points. Total: 28100
+2026-08-06 14:29:42,011 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:29:42,045 | INFO | Upserted batch of 50 points. Total: 28150
+2026-08-06 14:31:23,412 | WARNING | [LHC_civil_2023_civil_general_lhc_20_2023LHC3837_35] Context length exceeded (4332 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 14:31:30,263 | INFO | [LHC_civil_2023_civil_general_lhc_20_2023LHC3837_35] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 14:31:32,361 | WARNING | [LHC_civil_2023_civil_general_lhc_20_2023LHC3837_36] Context length exceeded (6237 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 14:31:40,667 | INFO | [LHC_civil_2023_civil_general_lhc_20_2023LHC3837_36] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 14:32:13,974 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:32:13,996 | INFO | Upserted batch of 50 points. Total: 28200
+2026-08-06 14:34:26,632 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:34:26,639 | INFO | Upserted batch of 50 points. Total: 28250
+2026-08-06 14:36:40,917 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:36:40,945 | INFO | Upserted batch of 50 points. Total: 28300
+2026-08-06 14:38:54,638 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:38:54,664 | INFO | Upserted batch of 50 points. Total: 28350
+2026-08-06 14:41:06,976 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:41:07,000 | INFO | Upserted batch of 50 points. Total: 28400
+2026-08-06 14:43:20,275 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:43:20,278 | INFO | Upserted batch of 50 points. Total: 28450
+2026-08-06 14:45:35,759 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:45:35,784 | INFO | Upserted batch of 50 points. Total: 28500
+2026-08-06 14:47:47,598 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:47:47,630 | INFO | Upserted batch of 50 points. Total: 28550
+2026-08-06 14:49:58,703 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:49:58,723 | INFO | Upserted batch of 50 points. Total: 28600
+2026-08-06 14:52:11,738 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:52:11,742 | INFO | Upserted batch of 50 points. Total: 28650
+2026-08-06 14:52:58,016 | WARNING | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC1621_3] Context length exceeded (6500 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 14:53:05,203 | INFO | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC1621_3] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 14:53:11,687 | WARNING | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC1621_5] Context length exceeded (6618 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 14:53:19,180 | INFO | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC1621_5] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 14:53:21,303 | WARNING | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC1621_6] Context length exceeded (7557 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 14:53:29,264 | INFO | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC1621_6] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 14:53:45,223 | WARNING | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC1628_4] Context length exceeded (8692 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 14:53:52,705 | INFO | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC1628_4] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 14:53:54,817 | WARNING | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC1628_5] Context length exceeded (7953 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 14:54:02,120 | INFO | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC1628_5] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 14:54:47,528 | WARNING | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC3741_8] Context length exceeded (7034 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 14:54:54,530 | INFO | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC3741_8] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 14:54:56,652 | WARNING | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC3741_9] Context length exceeded (8673 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 14:55:04,395 | INFO | [LHC_civil_2023_civil_general_lhc_unknown_2023LHC3741_9] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 14:55:44,996 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:55:45,019 | INFO | Upserted batch of 50 points. Total: 28700
+2026-08-06 14:58:00,396 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 14:58:00,420 | INFO | Upserted batch of 50 points. Total: 28750
+2026-08-06 15:00:16,302 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:00:16,339 | INFO | Upserted batch of 50 points. Total: 28800
+2026-08-06 15:02:31,705 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:02:31,731 | INFO | Upserted batch of 50 points. Total: 28850
+2026-08-06 15:02:42,601 | WARNING | [LHC_civil_2024_civil_appeal_lhc_1999_2024LHC755_11] Context length exceeded (3867 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:02:49,338 | INFO | [LHC_civil_2024_civil_appeal_lhc_1999_2024LHC755_11] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:04:54,663 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:04:54,698 | INFO | Upserted batch of 50 points. Total: 28900
+2026-08-06 15:07:09,513 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:07:09,516 | INFO | Upserted batch of 50 points. Total: 28950
+2026-08-06 15:09:22,993 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:09:23,017 | INFO | Upserted batch of 50 points. Total: 29000
+2026-08-06 15:09:57,680 | WARNING | [LHC_civil_2024_civil_appeal_lhc_2012_2024LHC5600_8] Context length exceeded (4591 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:10:04,675 | INFO | [LHC_civil_2024_civil_appeal_lhc_2012_2024LHC5600_8] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:11:45,933 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:11:45,956 | INFO | Upserted batch of 50 points. Total: 29050
+2026-08-06 15:14:01,817 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:14:01,844 | INFO | Upserted batch of 50 points. Total: 29100
+2026-08-06 15:16:15,604 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:16:15,629 | INFO | Upserted batch of 50 points. Total: 29150
+2026-08-06 15:18:29,936 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:18:29,967 | INFO | Upserted batch of 50 points. Total: 29200
+2026-08-06 15:20:42,183 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:20:42,206 | INFO | Upserted batch of 50 points. Total: 29250
+2026-08-06 15:22:50,776 | WARNING | [LHC_civil_2024_civil_appeal_lhc_2021_2024LHC3063_5] Context length exceeded (3877 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:22:57,983 | INFO | [LHC_civil_2024_civil_appeal_lhc_2021_2024LHC3063_5] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:23:04,599 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:23:04,620 | INFO | Upserted batch of 50 points. Total: 29300
+2026-08-06 15:25:18,678 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:25:18,705 | INFO | Upserted batch of 50 points. Total: 29350
+2026-08-06 15:27:31,688 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:27:31,710 | INFO | Upserted batch of 50 points. Total: 29400
+2026-08-06 15:29:47,040 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:29:47,080 | INFO | Upserted batch of 50 points. Total: 29450
+2026-08-06 15:32:00,481 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:32:00,504 | INFO | Upserted batch of 50 points. Total: 29500
+2026-08-06 15:34:12,188 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:34:12,212 | INFO | Upserted batch of 50 points. Total: 29550
+2026-08-06 15:36:31,914 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:36:31,943 | INFO | Upserted batch of 50 points. Total: 29600
+2026-08-06 15:38:45,538 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:38:45,571 | INFO | Upserted batch of 50 points. Total: 29650
+2026-08-06 15:40:57,674 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:40:57,703 | INFO | Upserted batch of 50 points. Total: 29700
+2026-08-06 15:43:12,681 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:43:12,705 | INFO | Upserted batch of 50 points. Total: 29750
+2026-08-06 15:45:31,342 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:45:31,373 | INFO | Upserted batch of 50 points. Total: 29800
+2026-08-06 15:46:37,759 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_8] Context length exceeded (3826 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:46:45,513 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_8] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:46:47,622 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_9] Context length exceeded (4454 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:46:55,511 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_9] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:47:14,367 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_14] Context length exceeded (5163 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:47:23,681 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_14] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:47:25,802 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_15] Context length exceeded (5737 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:47:32,731 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_15_splitB] Context length exceeded (2871 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:47:39,669 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_15_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:47:39,670 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_15] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:47:41,765 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_16] Context length exceeded (8138 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:47:43,860 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_16_splitA] Context length exceeded (4064 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:47:51,673 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_16_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:47:53,789 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_16_splitB] Context length exceeded (4073 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:48:02,145 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_16_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:48:02,145 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_16] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:48:04,279 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_17] Context length exceeded (8212 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:48:06,387 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_17_splitA] Context length exceeded (4105 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:48:14,271 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_17_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:48:16,395 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_17_splitB] Context length exceeded (4106 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:48:24,743 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_17_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:48:24,744 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_17] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:48:26,868 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_18] Context length exceeded (10614 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:48:28,990 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_18_splitA] Context length exceeded (5303 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:48:38,478 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_18_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:48:40,564 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_18_splitB] Context length exceeded (5310 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:48:50,405 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_18_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:48:50,405 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_18] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:48:52,526 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_19] Context length exceeded (10779 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:48:54,655 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_19_splitA] Context length exceeded (5386 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:49:04,352 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_19_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:49:06,459 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_19_splitB] Context length exceeded (5392 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:49:16,575 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_19_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:49:16,576 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_19] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:49:18,670 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20] Context length exceeded (13181 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:49:20,772 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20_splitA] Context length exceeded (6586 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:49:22,877 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20_splitA_splitA] Context length exceeded (3292 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 15:49:29,717 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20_splitA_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 15:49:31,839 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20_splitA_splitB] Context length exceeded (3293 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 15:49:39,175 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20_splitA_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 15:49:39,176 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:49:41,277 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20_splitB] Context length exceeded (6594 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:49:43,382 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20_splitB_splitA] Context length exceeded (3292 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 15:49:50,825 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20_splitB_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 15:49:52,927 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20_splitB_splitB] Context length exceeded (3301 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 15:50:00,224 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20_splitB_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 15:50:00,225 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:50:00,225 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_20] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:50:02,324 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21] Context length exceeded (14896 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:50:04,434 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21_splitA] Context length exceeded (7443 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:50:06,535 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21_splitA_splitA] Context length exceeded (3718 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 15:50:13,881 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21_splitA_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 15:50:15,972 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21_splitA_splitB] Context length exceeded (3724 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 15:50:23,731 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21_splitA_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 15:50:23,732 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:50:25,822 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21_splitB] Context length exceeded (7452 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:50:27,929 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21_splitB_splitA] Context length exceeded (3724 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 15:50:35,768 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21_splitB_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 15:50:37,876 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21_splitB_splitB] Context length exceeded (3727 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 15:50:45,777 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21_splitB_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 15:50:45,777 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:50:45,777 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_21] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:50:47,896 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22] Context length exceeded (16578 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:50:49,973 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22_splitA] Context length exceeded (8286 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:50:52,068 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22_splitA_splitA] Context length exceeded (4142 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 15:50:59,959 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22_splitA_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 15:51:02,088 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22_splitA_splitB] Context length exceeded (4143 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 15:51:10,328 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22_splitA_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 15:51:10,328 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:51:12,451 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22_splitB] Context length exceeded (8291 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 15:51:14,543 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22_splitB_splitA] Context length exceeded (4141 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 15:51:23,011 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22_splitB_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 15:51:25,116 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22_splitB_splitB] Context length exceeded (4149 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 15:51:32,321 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22_splitB_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 15:51:32,321 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 15:51:32,321 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_22] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:51:45,263 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_26] Context length exceeded (3079 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:51:52,468 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_26] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:51:54,562 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_27] Context length exceeded (5054 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 15:52:02,438 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC2111_27] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 15:52:20,625 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:52:20,650 | INFO | Upserted batch of 50 points. Total: 29850
+2026-08-06 15:54:39,312 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:54:39,334 | INFO | Upserted batch of 50 points. Total: 29900
+2026-08-06 15:56:50,799 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:56:50,803 | INFO | Upserted batch of 50 points. Total: 29950
+2026-08-06 15:59:05,500 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 15:59:05,543 | INFO | Upserted batch of 50 points. Total: 30000
+2026-08-06 16:01:27,082 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:01:27,138 | INFO | Upserted batch of 50 points. Total: 30050
+2026-08-06 16:03:49,442 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:03:49,524 | INFO | Upserted batch of 50 points. Total: 30100
+2026-08-06 16:06:10,589 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:06:10,649 | INFO | Upserted batch of 50 points. Total: 30150
+2026-08-06 16:08:34,406 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:08:34,454 | INFO | Upserted batch of 50 points. Total: 30200
+2026-08-06 16:09:10,768 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_6] Context length exceeded (4107 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:09:19,957 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_6] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:09:22,063 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_7] Context length exceeded (4516 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:09:31,695 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_7] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:09:33,822 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_8] Context length exceeded (6915 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:09:35,934 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_8_splitA] Context length exceeded (3456 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:09:43,756 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:09:45,857 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_8_splitB] Context length exceeded (3458 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:09:53,673 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:09:53,673 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_8] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:09:55,785 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_9] Context length exceeded (7051 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:09:57,928 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_9_splitA] Context length exceeded (3517 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:10:05,641 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:10:07,750 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_9_splitB] Context length exceeded (3533 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:10:15,618 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:10:15,618 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_9] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:10:17,727 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_10] Context length exceeded (9463 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:10:19,830 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_10_splitA] Context length exceeded (4727 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:10:29,405 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_10_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:10:31,501 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_10_splitB] Context length exceeded (4735 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:10:40,976 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_10_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:10:40,977 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_10] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:10:43,088 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_11] Context length exceeded (6816 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:10:45,208 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_11_splitA] Context length exceeded (3405 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:10:52,743 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_11_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:10:54,850 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_11_splitB] Context length exceeded (3410 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:11:02,734 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_11_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:11:02,734 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_11] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:11:04,896 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_12] Context length exceeded (7993 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:11:07,005 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_12_splitA] Context length exceeded (3989 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:11:15,210 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_12_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:11:17,346 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_12_splitB] Context length exceeded (4003 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:11:25,901 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_12_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:11:25,902 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_12] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:11:28,007 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_13] Context length exceeded (6931 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:11:30,151 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_13_splitA] Context length exceeded (3461 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:11:37,872 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_13_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:11:39,963 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_13_splitB] Context length exceeded (3469 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:11:47,182 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_13_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:11:47,182 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC4723_13] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:13:10,250 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:13:10,289 | INFO | Upserted batch of 50 points. Total: 30250
+2026-08-06 16:14:26,940 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_4] Context length exceeded (4012 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:14:35,037 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_4] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:14:37,142 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_5] Context length exceeded (4596 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:14:46,266 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_5] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:14:48,379 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_6] Context length exceeded (6998 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:14:50,477 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_6_splitA] Context length exceeded (3494 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:14:58,013 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_6_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:15:00,121 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_6_splitB] Context length exceeded (3503 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:15:08,128 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_6_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:15:08,128 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_6] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:15:10,237 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_7] Context length exceeded (7177 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:15:12,329 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_7_splitA] Context length exceeded (3587 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:15:19,823 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:15:22,043 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_7_splitB] Context length exceeded (3589 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:15:30,260 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:15:30,261 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_7] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:15:32,343 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_8] Context length exceeded (9581 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:15:34,491 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_8_splitA] Context length exceeded (4788 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:15:43,753 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:15:45,864 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_8_splitB] Context length exceeded (4792 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:15:56,201 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:15:56,202 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_8] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:15:58,292 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_9] Context length exceeded (11419 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:16:00,385 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_9_splitA] Context length exceeded (5707 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:16:07,312 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_9_splitA_splitB] Context length exceeded (2858 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 16:16:14,555 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_9_splitA_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 16:16:14,555 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:16:16,669 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_9_splitB] Context length exceeded (5711 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:16:18,781 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_9_splitB_splitA] Context length exceeded (2854 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 16:16:25,965 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_9_splitB_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 16:16:28,058 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_9_splitB_splitB] Context length exceeded (2856 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 16:16:35,250 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_9_splitB_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 16:16:35,250 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:16:35,251 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_9] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:16:37,369 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_10] Context length exceeded (13433 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:16:39,499 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_10_splitA] Context length exceeded (6714 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:16:41,584 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_10_splitA_splitA] Context length exceeded (3353 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 16:16:48,771 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_10_splitA_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 16:16:50,846 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_10_splitA_splitB] Context length exceeded (3360 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 16:16:58,784 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_10_splitA_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 16:16:58,785 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_10_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:17:00,890 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_10_splitB] Context length exceeded (6718 chars) — splitting into 2 halves (split depth 2).
+2026-08-06 16:17:03,017 | WARNING | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_10_splitB_splitA] Context length exceeded (3357 chars) — splitting into 2 halves (split depth 3).
+2026-08-06 16:17:11,131 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_10_splitB_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-08-06 16:17:16,480 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_10_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-08-06 16:17:16,481 | INFO | [LHC_civil_2024_civil_appeal_lhc_20_2024LHC5013_10] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:18:05,383 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:18:05,433 | INFO | Upserted batch of 50 points. Total: 30300
+2026-08-06 16:20:27,314 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:20:27,368 | INFO | Upserted batch of 50 points. Total: 30350
+2026-08-06 16:22:47,742 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:22:47,785 | INFO | Upserted batch of 50 points. Total: 30400
+2026-08-06 16:25:08,217 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:25:08,258 | INFO | Upserted batch of 50 points. Total: 30450
+2026-08-06 16:27:29,617 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:27:29,664 | INFO | Upserted batch of 50 points. Total: 30500
+2026-08-06 16:29:51,721 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:29:51,768 | INFO | Upserted batch of 50 points. Total: 30550
+2026-08-06 16:32:09,430 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:32:09,481 | INFO | Upserted batch of 50 points. Total: 30600
+2026-08-06 16:34:33,711 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:34:33,767 | INFO | Upserted batch of 50 points. Total: 30650
+2026-08-06 16:36:54,118 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:36:54,167 | INFO | Upserted batch of 50 points. Total: 30700
+2026-08-06 16:39:12,682 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:39:12,725 | INFO | Upserted batch of 50 points. Total: 30750
+2026-08-06 16:41:32,368 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:41:32,429 | INFO | Upserted batch of 50 points. Total: 30800
+2026-08-06 16:43:51,896 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:43:51,950 | INFO | Upserted batch of 50 points. Total: 30850
+2026-08-06 16:46:11,458 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:46:11,507 | INFO | Upserted batch of 50 points. Total: 30900
+2026-08-06 16:48:30,686 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:48:30,732 | INFO | Upserted batch of 50 points. Total: 30950
+2026-08-06 16:50:50,399 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:50:50,441 | INFO | Upserted batch of 50 points. Total: 31000
+2026-08-06 16:53:09,644 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:53:09,700 | INFO | Upserted batch of 50 points. Total: 31050
+2026-08-06 16:54:14,577 | WARNING | [LHC_civil_2024_civil_contract_lhc_20_2024LHC4112_8] Context length exceeded (4073 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 16:54:21,877 | INFO | [LHC_civil_2024_civil_contract_lhc_20_2024LHC4112_8] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 16:55:39,829 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:55:39,874 | INFO | Upserted batch of 50 points. Total: 31100
+2026-08-06 16:57:57,695 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 16:57:57,751 | INFO | Upserted batch of 50 points. Total: 31150
+2026-08-06 17:00:20,095 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:00:20,139 | INFO | Upserted batch of 50 points. Total: 31200
+2026-08-06 17:02:37,722 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:02:37,776 | INFO | Upserted batch of 50 points. Total: 31250
+2026-08-06 17:04:56,623 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:04:56,682 | INFO | Upserted batch of 50 points. Total: 31300
+2026-08-06 17:07:13,780 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:07:13,818 | INFO | Upserted batch of 50 points. Total: 31350
+2026-08-06 17:09:36,457 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:09:36,508 | INFO | Upserted batch of 50 points. Total: 31400
+2026-08-06 17:12:04,442 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:12:04,500 | INFO | Upserted batch of 50 points. Total: 31450
+2026-08-06 17:14:26,523 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:14:26,569 | INFO | Upserted batch of 50 points. Total: 31500
+2026-08-06 17:16:43,686 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:16:43,731 | INFO | Upserted batch of 50 points. Total: 31550
+2026-08-06 17:19:00,601 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:19:00,651 | INFO | Upserted batch of 50 points. Total: 31600
+2026-08-06 17:21:22,645 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:21:22,697 | INFO | Upserted batch of 50 points. Total: 31650
+2026-08-06 17:23:44,431 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:23:44,487 | INFO | Upserted batch of 50 points. Total: 31700
+2026-08-06 17:25:59,235 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:25:59,280 | INFO | Upserted batch of 50 points. Total: 31750
+2026-08-06 17:28:18,751 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:28:18,797 | INFO | Upserted batch of 50 points. Total: 31800
+2026-08-06 17:30:39,945 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:30:39,974 | INFO | Upserted batch of 50 points. Total: 31850
+2026-08-06 17:32:57,221 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:32:57,249 | INFO | Upserted batch of 50 points. Total: 31900
+2026-08-06 17:35:09,967 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:35:10,004 | INFO | Upserted batch of 50 points. Total: 31950
+2026-08-06 17:37:23,423 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:37:23,483 | INFO | Upserted batch of 50 points. Total: 32000
+2026-08-06 17:39:37,631 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:39:37,670 | INFO | Upserted batch of 50 points. Total: 32050
+2026-08-06 17:41:51,991 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:41:52,021 | INFO | Upserted batch of 50 points. Total: 32100
+2026-08-06 17:44:07,304 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:44:07,332 | INFO | Upserted batch of 50 points. Total: 32150
+2026-08-06 17:46:20,654 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:46:20,682 | INFO | Upserted batch of 50 points. Total: 32200
+2026-08-06 17:48:36,440 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:48:36,477 | INFO | Upserted batch of 50 points. Total: 32250
+2026-08-06 17:50:51,077 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:50:51,104 | INFO | Upserted batch of 50 points. Total: 32300
+2026-08-06 17:53:06,679 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:53:06,708 | INFO | Upserted batch of 50 points. Total: 32350
+2026-08-06 17:55:25,113 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:55:25,116 | INFO | Upserted batch of 50 points. Total: 32400
+2026-08-06 17:57:38,818 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:57:38,822 | INFO | Upserted batch of 50 points. Total: 32450
+2026-08-06 17:59:50,882 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 17:59:50,917 | INFO | Upserted batch of 50 points. Total: 32500
+2026-08-06 18:02:06,422 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:02:06,448 | INFO | Upserted batch of 50 points. Total: 32550
+2026-08-06 18:04:21,731 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:04:21,734 | INFO | Upserted batch of 50 points. Total: 32600
+2026-08-06 18:06:38,059 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:06:38,097 | INFO | Upserted batch of 50 points. Total: 32650
+2026-08-06 18:08:53,435 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:08:53,438 | INFO | Upserted batch of 50 points. Total: 32700
+2026-08-06 18:11:10,900 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:11:10,926 | INFO | Upserted batch of 50 points. Total: 32750
+2026-08-06 18:13:31,469 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:13:31,493 | INFO | Upserted batch of 50 points. Total: 32800
+2026-08-06 18:15:44,230 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:15:44,252 | INFO | Upserted batch of 50 points. Total: 32850
+2026-08-06 18:17:58,244 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:17:58,272 | INFO | Upserted batch of 50 points. Total: 32900
+2026-08-06 18:20:12,081 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:20:12,102 | INFO | Upserted batch of 50 points. Total: 32950
+2026-08-06 18:22:22,458 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:22:22,494 | INFO | Upserted batch of 50 points. Total: 33000
+2026-08-06 18:24:34,119 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:24:34,146 | INFO | Upserted batch of 50 points. Total: 33050
+2026-08-06 18:26:46,670 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:26:46,695 | INFO | Upserted batch of 50 points. Total: 33100
+2026-08-06 18:28:26,864 | WARNING | [LHC_civil_2024_civil_general_lhc_unknown_2024LHC6139_3] Context length exceeded (6906 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 18:28:33,709 | INFO | [LHC_civil_2024_civil_general_lhc_unknown_2024LHC6139_3] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 18:28:35,793 | WARNING | [LHC_civil_2024_civil_general_lhc_unknown_2024LHC6139_4] Context length exceeded (8918 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 18:28:43,925 | INFO | [LHC_civil_2024_civil_general_lhc_unknown_2024LHC6139_4] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 18:28:46,001 | WARNING | [LHC_civil_2024_civil_general_lhc_unknown_2024LHC6139_5] Context length exceeded (10134 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 18:28:54,938 | INFO | [LHC_civil_2024_civil_general_lhc_unknown_2024LHC6139_5] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 18:29:22,283 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:29:22,329 | INFO | Upserted batch of 50 points. Total: 33150
+2026-08-06 18:31:44,308 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:31:44,332 | INFO | Upserted batch of 50 points. Total: 33200
+2026-08-06 18:34:00,491 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:34:00,533 | INFO | Upserted batch of 50 points. Total: 33250
+2026-08-06 18:36:21,587 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:36:21,649 | INFO | Upserted batch of 50 points. Total: 33300
+2026-08-06 18:37:23,735 | WARNING | [LHC_civil_2025_civil_appeal_lhc_1979_2025LHC7797_5] Context length exceeded (3366 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 18:37:30,610 | INFO | [LHC_civil_2025_civil_appeal_lhc_1979_2025LHC7797_5] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 18:38:45,548 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:38:45,602 | INFO | Upserted batch of 50 points. Total: 33350
+2026-08-06 18:41:06,473 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:41:06,519 | INFO | Upserted batch of 50 points. Total: 33400
+2026-08-06 18:43:23,535 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:43:23,587 | INFO | Upserted batch of 50 points. Total: 33450
+2026-08-06 18:45:40,542 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:45:40,616 | INFO | Upserted batch of 50 points. Total: 33500
+2026-08-06 18:47:58,645 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:47:58,696 | INFO | Upserted batch of 50 points. Total: 33550
+2026-08-06 18:50:16,749 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:50:16,863 | INFO | Upserted batch of 50 points. Total: 33600
+2026-08-06 18:52:35,115 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:52:35,166 | INFO | Upserted batch of 50 points. Total: 33650
+2026-08-06 18:54:57,628 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:54:57,678 | INFO | Upserted batch of 50 points. Total: 33700
+2026-08-06 18:57:14,122 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:57:14,179 | INFO | Upserted batch of 50 points. Total: 33750
+2026-08-06 18:59:31,920 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 18:59:31,970 | INFO | Upserted batch of 50 points. Total: 33800
+2026-08-06 19:01:48,362 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:01:48,409 | INFO | Upserted batch of 50 points. Total: 33850
+2026-08-06 19:04:06,889 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:04:06,934 | INFO | Upserted batch of 50 points. Total: 33900
+2026-08-06 19:06:23,878 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:06:23,938 | INFO | Upserted batch of 50 points. Total: 33950
+2026-08-06 19:08:41,994 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:08:42,042 | INFO | Upserted batch of 50 points. Total: 34000
+2026-08-06 19:11:00,941 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:11:00,983 | INFO | Upserted batch of 50 points. Total: 34050
+2026-08-06 19:13:18,259 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:13:18,305 | INFO | Upserted batch of 50 points. Total: 34100
+2026-08-06 19:15:36,304 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:15:36,345 | INFO | Upserted batch of 50 points. Total: 34150
+2026-08-06 19:17:55,491 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:17:55,551 | INFO | Upserted batch of 50 points. Total: 34200
+2026-08-06 19:20:10,092 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:20:10,132 | INFO | Upserted batch of 50 points. Total: 34250
+2026-08-06 19:22:27,521 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:22:27,572 | INFO | Upserted batch of 50 points. Total: 34300
+2026-08-06 19:24:45,030 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:24:45,081 | INFO | Upserted batch of 50 points. Total: 34350
+2026-08-06 19:27:03,809 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:27:03,899 | INFO | Upserted batch of 50 points. Total: 34400
+2026-08-06 19:29:19,329 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:29:19,399 | INFO | Upserted batch of 50 points. Total: 34450
+2026-08-06 19:31:36,797 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:31:36,856 | INFO | Upserted batch of 50 points. Total: 34500
+2026-08-06 19:33:53,031 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:33:53,085 | INFO | Upserted batch of 50 points. Total: 34550
+2026-08-06 19:36:08,734 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:36:08,798 | INFO | Upserted batch of 50 points. Total: 34600
+2026-08-06 19:38:27,732 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:38:27,781 | INFO | Upserted batch of 50 points. Total: 34650
+2026-08-06 19:40:45,507 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:40:45,552 | INFO | Upserted batch of 50 points. Total: 34700
+2026-08-06 19:43:04,176 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:43:04,210 | INFO | Upserted batch of 50 points. Total: 34750
+2026-08-06 19:45:21,332 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:45:21,383 | INFO | Upserted batch of 50 points. Total: 34800
+2026-08-06 19:47:39,419 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:47:39,427 | INFO | Upserted batch of 50 points. Total: 34850
+2026-08-06 19:49:58,849 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:49:58,889 | INFO | Upserted batch of 50 points. Total: 34900
+2026-08-06 19:52:20,073 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:52:20,108 | INFO | Upserted batch of 50 points. Total: 34950
+2026-08-06 19:54:39,270 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:54:39,313 | INFO | Upserted batch of 50 points. Total: 35000
+2026-08-06 19:56:58,879 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:56:58,932 | INFO | Upserted batch of 50 points. Total: 35050
+2026-08-06 19:59:19,969 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 19:59:20,020 | INFO | Upserted batch of 50 points. Total: 35100
+2026-08-06 20:00:19,449 | WARNING | [LHC_civil_2025_civil_appeal_lhc_20_2025LHC6820_4] Context length exceeded (4084 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 20:00:27,363 | INFO | [LHC_civil_2025_civil_appeal_lhc_20_2025LHC6820_4] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 20:01:49,220 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:01:49,270 | INFO | Upserted batch of 50 points. Total: 35150
+2026-08-06 20:04:06,638 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:04:06,692 | INFO | Upserted batch of 50 points. Total: 35200
+2026-08-06 20:06:28,761 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:06:28,806 | INFO | Upserted batch of 50 points. Total: 35250
+2026-08-06 20:08:46,270 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:08:46,346 | INFO | Upserted batch of 50 points. Total: 35300
+2026-08-06 20:11:02,178 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:11:02,230 | INFO | Upserted batch of 50 points. Total: 35350
+2026-08-06 20:13:17,898 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:13:17,958 | INFO | Upserted batch of 50 points. Total: 35400
+2026-08-06 20:15:35,259 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:15:35,320 | INFO | Upserted batch of 50 points. Total: 35450
+2026-08-06 20:17:53,855 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:17:53,924 | INFO | Upserted batch of 50 points. Total: 35500
+2026-08-06 20:20:08,953 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:20:08,989 | INFO | Upserted batch of 50 points. Total: 35550
+2026-08-06 20:22:20,822 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:22:20,825 | INFO | Upserted batch of 50 points. Total: 35600
+2026-08-06 20:24:35,034 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:24:35,036 | INFO | Upserted batch of 50 points. Total: 35650
+2026-08-06 20:26:50,070 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:26:50,114 | INFO | Upserted batch of 50 points. Total: 35700
+2026-08-06 20:29:08,226 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:29:08,267 | INFO | Upserted batch of 50 points. Total: 35750
+2026-08-06 20:31:22,094 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:31:22,118 | INFO | Upserted batch of 50 points. Total: 35800
+2026-08-06 20:33:37,102 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:33:37,140 | INFO | Upserted batch of 50 points. Total: 35850
+2026-08-06 20:35:50,474 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:35:50,499 | INFO | Upserted batch of 50 points. Total: 35900
+2026-08-06 20:38:02,487 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:38:02,522 | INFO | Upserted batch of 50 points. Total: 35950
+2026-08-06 20:40:16,327 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:40:16,369 | INFO | Upserted batch of 50 points. Total: 36000
+2026-08-06 20:42:28,458 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:42:28,489 | INFO | Upserted batch of 50 points. Total: 36050
+2026-08-06 20:44:40,475 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:44:40,514 | INFO | Upserted batch of 50 points. Total: 36100
+2026-08-06 20:46:52,723 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:46:52,757 | INFO | Upserted batch of 50 points. Total: 36150
+2026-08-06 20:49:05,552 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:49:05,582 | INFO | Upserted batch of 50 points. Total: 36200
+2026-08-06 20:51:18,421 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:51:18,448 | INFO | Upserted batch of 50 points. Total: 36250
+2026-08-06 20:53:32,861 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:53:32,903 | INFO | Upserted batch of 50 points. Total: 36300
+2026-08-06 20:55:26,855 | WARNING | [LHC_civil_2025_civil_general_lhc_2013_2025LHC2111_10] Context length exceeded (4172 chars) — splitting into 2 halves (split depth 1).
+2026-08-06 20:55:34,513 | INFO | [LHC_civil_2025_civil_general_lhc_2013_2025LHC2111_10] Embedding succeeded via split-and-average (depth 1).
+2026-08-06 20:55:57,774 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:55:57,802 | INFO | Upserted batch of 50 points. Total: 36350
+2026-08-06 20:58:15,711 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 20:58:15,735 | INFO | Upserted batch of 50 points. Total: 36400
+2026-08-06 21:00:31,721 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 21:00:31,750 | INFO | Upserted batch of 50 points. Total: 36450
+2026-08-06 21:02:47,194 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 21:02:47,225 | INFO | Upserted batch of 50 points. Total: 36500
+2026-08-06 21:05:02,788 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 21:05:02,834 | INFO | Upserted batch of 50 points. Total: 36550
+2026-08-06 21:07:16,923 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 21:07:16,977 | INFO | Upserted batch of 50 points. Total: 36600
+2026-08-06 21:09:38,632 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 21:09:38,686 | INFO | Upserted batch of 50 points. Total: 36650
+2026-08-06 21:11:57,255 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 21:11:57,313 | INFO | Upserted batch of 50 points. Total: 36700
+2026-08-06 21:14:15,975 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 21:14:16,042 | INFO | Upserted batch of 50 points. Total: 36750
+2026-08-06 21:16:36,240 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-08-06 21:16:36,263 | INFO | Upserted batch of 50 points. Total: 36800
