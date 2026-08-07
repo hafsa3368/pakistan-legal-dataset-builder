@@ -1,5 +1,7 @@
-"""
+r"""
 generate_embeddings.py
+
+C:\Users\Hamza\Desktop\qdrant
 python generate_embeddings.py --json_dir "d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean"
 -----------------------
 .\qdrant.exe
@@ -44,7 +46,6 @@ USAGE:
     # failed chunks ko baad mein sirf unhi ko retry karne ke liye:
     python generate_embeddings.py --json_dir "..." --retry_failed_only
 """
-
 import os
 import json
 import time
