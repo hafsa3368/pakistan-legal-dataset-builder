@@ -14,6 +14,8 @@ from tqdm import tqdm
 # =========================================================
 # CONFIG  --->  SIRF YAHAN CHEEZEIN CHANGE KARNI HAIN <---
 # =========================================================
+#C:\Users\Hamza\Desktop\qdrant
+# .\qdrant.exe
 # python neo4j_import.py
 # 1) Ye folder jahan aapki extracted JSON files pari hain (data yahan se aayega)
 JSON_FOLDER = r"D:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean"
@@ -56,7 +58,7 @@ REPAIR_CHECKPOINT_FILE = (
 
 NEO4J_URI = "bolt://127.0.0.1:7687"
 NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "se310TJ@"
+NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
 
 # =========================================================
 # QDRANT

@@ -6,7 +6,13 @@ Dispute over inheritance and division of property among siblings.
 Application for anticipatory bail in a case under Section 497 CrPC.
 Custody dispute between divorced parents over minor children.
 
-
+Step 3 — Agar successful ho, to Neo4j mein verify karo
+Neo4j Browser mein login karo (naye password se) aur ye Cypher chalao:
+cypher
+MATCH (c:Case) RETURN count(c) AS total_cases
+cypher
+MATCH (c:Citation) RETURN count(c) AS total_citations
+Ye naya wala fix confirm karega — Citation nodes ab alag ban rahe hain, Case nodes ke sath mix nahi ho rahe.
 
 Neo4j Browser mein ye query paste karo:
 
@@ -23,6 +29,8 @@ MATCH (c:Case {case_id: "civil_appeal_lhc_2020_2022LHC8835.pdf"})
 OPTIONAL MATCH (c)-[r:SIMILAR_TO]->(s:Case)
 RETURN c, r, s;
 Aur ek useful query
+
+
 
 Ye dekho Neo4j mein kitne Case nodes hain aur kitni SIMILAR_TO relationships hain:
 
