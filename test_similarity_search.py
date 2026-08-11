@@ -220,20 +220,44 @@ def run_similarity_search(client, query_vector, top_k):
     """
     Performs a read-only cosine similarity search against the existing
     Qdrant collection. Returns a list of scored points.
-    """
-    try:
-        results = client.search(
-            collection_name=COLLECTION_NAME,
-            query_vector=query_vector,
-            limit=top_k,
-            with_payload=True,
-        )
-    except Exception as e:
-        print("ERROR: Qdrant search failed.")
-        print(f"       Details: {e}")
-        sys.exit(1)
 
-    return results
+    Newer qdrant-client versions (1.10+) removed the old `.search()` method
+    in favor of `.query_points()`. This function tries the new method first
+    and falls back to the old one, so it works regardless of which
+    qdrant-client version is installed. Both are READ-ONLY calls.
+    """
+    # Try the newer API first (qdrant-client >= 1.10 style)
+    if hasattr(client, "query_points"):
+        try:
+            response = client.query_points(
+                collection_name=COLLECTION_NAME,
+                query=query_vector,
+                limit=top_k,
+                with_payload=True,
+            )
+            return response.points
+        except Exception as e:
+            print("ERROR: Qdrant search failed (query_points).")
+            print(f"       Details: {e}")
+            sys.exit(1)
+
+    # Fall back to the older API (qdrant-client < 1.10 style)
+    if hasattr(client, "search"):
+        try:
+            return client.search(
+                collection_name=COLLECTION_NAME,
+                query_vector=query_vector,
+                limit=top_k,
+                with_payload=True,
+            )
+        except Exception as e:
+            print("ERROR: Qdrant search failed (search).")
+            print(f"       Details: {e}")
+            sys.exit(1)
+
+    print("ERROR: Installed qdrant-client has neither 'query_points' nor 'search'.")
+    print("       Try: pip install --upgrade qdrant-client")
+    sys.exit(1)
 
 
 # --------------------------------------------------------------------------
