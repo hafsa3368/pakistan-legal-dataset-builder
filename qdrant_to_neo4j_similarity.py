@@ -3,8 +3,7 @@ qdrant_to_neo4j_similarity.py
 
 Purpose
 -------
-Incremental similarity-linking script for Hafsa's Pakistani Legal Research
-Assistant.
+Similarity-linking script for Hafsa's Pakistani Legal Research Assistant.
 
 This script does NOT:
   - regenerate embeddings
@@ -21,11 +20,27 @@ It ONLY:
   4. Groups chunk-level results by case_id (payload["case_id"]).
   5. Matches each case_id to an EXISTING Neo4j (:Case {case_id: ...}) node,
      and always displays that node's own case_number (never a guess).
-  6. ONLY IF the user explicitly names a specific case (by case_id or
-     case_number) does the script treat it as a "Central Case" and
-     create/merge :SIMILAR_TO relationships from it to the other retrieved
-     cases. A free-text legal query alone never produces a Central Case.
-  7. Prints a full report + suggests Cypher verification queries.
+  6. Determines the Central Case:
+       - If the user explicitly names a specific case (by case_id or
+         case_number), THAT case is always used as the Central Case
+         (manual override always wins).
+       - Otherwise (a plain free-text legal query), the script AUTOMATICALLY
+         picks the highest-similarity case that actually exists in Neo4j
+         and uses it as the Central Case. This is a deliberate design
+         choice: the pipeline flow is
+             User Query -> Qdrant similarity search -> Top relevant case
+             -> auto-selected as Central Case -> Neo4j -> SIMILAR_TO edges
+             -> Graph
+         Trade-off to be aware of: since no human confirms the anchor case,
+         a high-scoring-but-off-topic chunk (e.g. a law-review article
+         rather than an actual judgment) could occasionally become the
+         Central Case. The script still only creates SIMILAR_TO edges
+         between cases that genuinely exist in Neo4j, and never invents
+         nodes or metadata — it just no longer requires a human to name
+         the anchor.
+  7. Creates/merges SIMILAR_TO relationships from the Central Case to the
+     other retrieved cases that clear SIMILARITY_THRESHOLD.
+  8. Prints a full report + suggests Cypher verification queries.
 
 Run:
     python qdrant_to_neo4j_similarity.py
@@ -47,7 +62,7 @@ from neo4j import GraphDatabase
 from neo4j.exceptions import ServiceUnavailable, AuthError, Neo4jError
 
 # ==================================================================
-# 19. CONFIGURATION
+# CONFIGURATION
 # ==================================================================
 load_dotenv()  # loads variables from a .env file if present
 
@@ -69,7 +84,7 @@ NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")  # MUST come from env / .env, never
 MATCHED_CHUNK_TEXT_MAX_CHARS = 200
 
 # How much of the user's legal query to store on SIMILAR_TO relationships,
-# so each edge is traceable back to the query that produced it (point 3).
+# so each edge is traceable back to the query that produced it.
 QUERY_TEXT_MAX_CHARS = 300
 
 # ==================================================================
@@ -89,7 +104,7 @@ log = logging.getLogger("qdrant_to_neo4j_similarity")
 @dataclass
 class CaseHit:
     """Represents one unique case_id retrieved from Qdrant, represented by
-    its single highest-scoring matched chunk (per section 8 of the spec)."""
+    its single highest-scoring matched chunk."""
     case_id: str
     score: float                       # representative score (max among its chunks)
     matched_chunk_id: str
@@ -183,16 +198,10 @@ def get_neo4j_driver():
 
 
 # ==================================================================
-# STEP 2 — QDRANT SEARCH + GROUPING (sections 6, 7, 8)
+# STEP 2 — QDRANT SEARCH + GROUPING
 # ==================================================================
 def search_qdrant(client: QdrantClient, query_vector: list) -> list:
-    """Search Qdrant, supporting both old and new qdrant-client APIs.
-
-    qdrant-client >= 1.10 removed/deprecated `.search()` in favor of
-    `.query_points()`, which returns a QueryResponse with a `.points` list
-    instead of a plain list of ScoredPoint. We try the new API first and
-    fall back to the old one so this script works across versions.
-    """
+    """Search Qdrant, supporting both old and new qdrant-client APIs."""
     try:
         if hasattr(client, "query_points"):
             response = client.query_points(
@@ -219,8 +228,8 @@ def search_qdrant(client: QdrantClient, query_vector: list) -> list:
 
 def group_by_case_id(qdrant_results: list) -> dict:
     """Group raw Qdrant chunk hits by payload['case_id'].
-    For each case_id, keep the highest-scoring chunk as representative
-    (section 8), while tracking all scores seen for that case."""
+    For each case_id, keep the highest-scoring chunk as representative,
+    while tracking all scores seen for that case."""
     cases: dict[str, CaseHit] = {}
 
     for point in qdrant_results:
@@ -257,7 +266,7 @@ def group_by_case_id(qdrant_results: list) -> dict:
             existing.all_scores.append(score)
             if score > existing.score:
                 # A stronger chunk for this same case was found — update
-                # the representative score/chunk (section 8).
+                # the representative score/chunk.
                 existing.score = score
                 existing.matched_chunk_id = payload.get("chunk_id", "")
                 existing.matched_chunk_score = score
@@ -267,14 +276,12 @@ def group_by_case_id(qdrant_results: list) -> dict:
 
 
 # ==================================================================
-# STEP 3 — NEO4J MATCHING + SIMILAR_TO CREATION (sections 9, 10, 11)
+# STEP 3 — NEO4J MATCHING + SIMILAR_TO CREATION
 # ==================================================================
 def resolve_central_case(driver, identifier: str) -> Optional[dict]:
     """Looks up a case the USER explicitly named (by case_id or case_number)
     in the existing Neo4j graph. Returns {"case_id", "case_number"} or None
-    if nothing matches. This is the ONLY way a "Central Case" is ever
-    established — no case is ever auto-promoted to central just because it
-    scored highest in a free-text Qdrant search (point 1)."""
+    if nothing matches. Used only for the manual-override path."""
     query = """
     MATCH (c:Case)
     WHERE c.case_id = $identifier OR c.case_number = $identifier
@@ -296,7 +303,7 @@ def find_cases_in_neo4j(driver, case_ids: list) -> dict:
     """Return {case_id: {"exists": bool, "case_number": str|None}} for each
     case_id. The case_number returned here comes straight from the Neo4j
     Case node — this is the SINGLE authoritative source for case_number
-    display (point 2). Does NOT create anything."""
+    display. Does NOT create anything."""
     found = {}
     query = """
     UNWIND $case_ids AS cid
@@ -317,11 +324,10 @@ def find_cases_in_neo4j(driver, case_ids: list) -> dict:
 
 
 def update_case_importance(driver, case_id: str, score: float, timestamp: str):
-    """Updates node-importance properties for graph visualization sizing
-    (point 5). Unlike a plain overwrite, this keeps the BEST score the case
-    has ever achieved across all queries, plus how many times it has been
-    matched — both are useful signals for node size/color. Never touches
-    any other existing metadata field."""
+    """Updates node-importance properties for graph visualization sizing.
+    Keeps the BEST score the case has ever achieved across all queries,
+    plus how many times it has been matched. Never touches any other
+    existing metadata field."""
     query = """
     MATCH (c:Case {case_id: $case_id})
     SET c.current_similarity_score = CASE
@@ -340,17 +346,15 @@ def update_case_importance(driver, case_id: str, score: float, timestamp: str):
 def create_similar_to(driver, central_case_id: str, other: CaseHit,
                        query_text: str, timestamp: str) -> bool:
     """MERGE a SIMILAR_TO relationship from the central case to a similar
-    case, so re-running the script does not create duplicates (section 9).
+    case, so re-running the script does not create duplicates.
 
-    Point 3 — query-based: every relationship records the legal query that
-    (re)confirmed it, plus how many distinct queries have matched this pair.
-
-    Point 4 — matched_chunk_id preserved: if the relationship already
-    exists, the stored score/matched_chunk_id/matched_chunk_score are only
-    overwritten when this query's evidence is STRONGER than what's already
-    there. A later, weaker query can never downgrade a previously stronger
-    match; it still updates times_matched/last_query_text so the edge shows
-    it keeps getting reconfirmed.
+    Every relationship records the legal query that (re)confirmed it, plus
+    how many distinct queries have matched this pair. If the relationship
+    already exists, the stored score/matched_chunk_id/matched_chunk_score
+    are only overwritten when this query's evidence is STRONGER than what's
+    already there. A later, weaker query can never downgrade a previously
+    stronger match; it still updates times_matched/last_query_text so the
+    edge shows it keeps getting reconfirmed.
     """
     query = """
     MATCH (a:Case {case_id: $central_id})
@@ -399,7 +403,7 @@ def create_similar_to(driver, central_case_id: str, other: CaseHit,
 
 
 # ==================================================================
-# STEP 4 — REPORTING (section 16)
+# STEP 4 — REPORTING
 # ==================================================================
 def print_case_report(rank: int, case: CaseHit):
     print(f"\n{rank}.")
@@ -413,9 +417,8 @@ def print_case_report(rank: int, case: CaseHit):
 
 def is_valid_case_number(value: Optional[str]) -> bool:
     """Reject chunk-text fragments that have leaked into the case_number
-    field (e.g. 'Civil Judge did not', 'Civil Court. Any private partition
-    which is not'). This never modifies the stored value — it only decides
-    what to DISPLAY (point 2)."""
+    field. This never modifies the stored value — it only decides what to
+    DISPLAY."""
     if not value or not isinstance(value, str):
         return False
     v = value.strip()
@@ -434,7 +437,7 @@ def is_valid_case_number(value: Optional[str]) -> bool:
 
 
 def display_label(case: CaseHit) -> str:
-    """Display value for a case_number (point 2).
+    """Display value for a case_number.
 
     case.case_number must already be the AUTHORITATIVE value pulled from
     the Neo4j Case node (set in main() after the Neo4j lookup) — never the
@@ -448,7 +451,7 @@ def display_label(case: CaseHit) -> str:
 
 
 # ==================================================================
-# STEP 5 — VERIFICATION QUERIES TO PRINT (section 17)
+# STEP 5 — VERIFICATION QUERIES TO PRINT
 # ==================================================================
 VERIFICATION_QUERIES = """
 ==================================================
@@ -471,7 +474,7 @@ LIMIT 10;
 
 3. Central case and its related cases (replace the case_id):
 ----------------------------------------------------
-MATCH (a:Case {case_id: "case_1244.pdf"})-[r:SIMILAR_TO]->(b:Case)
+MATCH (a:Case {case_id: "REPLACE_WITH_CASE_ID"})-[r:SIMILAR_TO]->(b:Case)
 RETURN a, r, b
 ORDER BY r.score DESC;
 
@@ -485,7 +488,7 @@ ORDER BY score DESC;
 5. Full graph visualization (SIMILAR_TO + existing legal relationships)
    for a given central case (replace the case_id):
 ----------------------------------------------------
-MATCH (a:Case {case_id: "case_1244.pdf"})-[r:SIMILAR_TO]->(b:Case)
+MATCH (a:Case {case_id: "REPLACE_WITH_CASE_ID"})-[r:SIMILAR_TO]->(b:Case)
 OPTIONAL MATCH (a)-[other_rel]-(x)
 WHERE type(other_rel) <> "SIMILAR_TO"
 RETURN a, r, b, other_rel, x;
@@ -524,9 +527,11 @@ def main():
         print("[ABORT] Empty query provided.")
         sys.exit(1)
 
-    # --- Optional explicit central case (point 1) --------------------------
-    print("\nIf you want to anchor this search around a SPECIFIC known case,")
-    print("enter its case number or case_id now (or press Enter to skip):\n")
+    # --- Optional explicit central case (manual override) ------------
+    print("\nIf you want to MANUALLY anchor this search around a SPECIFIC")
+    print("known case, enter its case number or case_id now.")
+    print("Otherwise, press Enter and the TOP-SCORING case found in Neo4j")
+    print("will automatically become the Central Case:\n")
     central_identifier = input("> ").strip() or None
 
     print(f"\nLEGAL QUERY:\n{legal_query}\n")
@@ -566,8 +571,8 @@ def main():
     for c in ranked_cases:
         info = neo4j_info.get(c.case_id)
         # Overwrite whatever came from the Qdrant payload with the Neo4j
-        # Case node's own case_number (point 2) — or None if not found/empty,
-        # which display_label() will render as "(not available)".
+        # Case node's own case_number — or None if not found/empty, which
+        # display_label() will render as "(not available)".
         c.case_number = info["case_number"] if info and info["exists"] else None
 
     print("\nTOP RELEVANT CASES:")
@@ -585,31 +590,51 @@ def main():
         for c in missing_cases:
             print(f"  - {c.case_id}")
 
-    # --- Central case / SIMILAR_TO — ONLY if the user explicitly named a case
-    if not central_identifier:
-        print(
-            "\n[INFO] No specific case was provided, so no 'Central Case' is "
-            "shown and no SIMILAR_TO relationships were created. Provide a "
-            "case number or case_id next time to build/inspect a similarity "
-            "graph anchored on a specific case."
-        )
-        neo4j_driver.close()
-        print("\nDone.")
-        return
+    # --- Determine the Central Case -----------------------------------
+    # Priority 1: user explicitly named a case -> always wins.
+    # Priority 2: no manual identifier -> auto-select the highest-scoring
+    #             case that actually exists in Neo4j (found_cases is
+    #             already sorted by score, since it's filtered from
+    #             ranked_cases which is sorted descending).
+    central_case_id = None
+    central_case_number = None
+    auto_selected = False
 
-    central = resolve_central_case(neo4j_driver, central_identifier)
-    if central is None:
-        print(
-            f"\n[INFO] No case found in Neo4j matching '{central_identifier}' "
-            f"(checked both case_id and case_number). No Central Case shown, "
-            f"no SIMILAR_TO relationships created."
-        )
-        neo4j_driver.close()
-        print("\nDone.")
-        return
+    if central_identifier:
+        central = resolve_central_case(neo4j_driver, central_identifier)
+        if central is None:
+            print(
+                f"\n[INFO] No case found in Neo4j matching '{central_identifier}' "
+                f"(checked both case_id and case_number). No Central Case shown, "
+                f"no SIMILAR_TO relationships created."
+            )
+            neo4j_driver.close()
+            print("\nDone.")
+            return
+        central_case_id = central["case_id"]
+        central_case_number = central["case_number"]
+    else:
+        if not found_cases:
+            print(
+                "\n[INFO] No manual case was given, and none of the retrieved "
+                "cases exist in Neo4j — cannot auto-select a Central Case. "
+                "No SIMILAR_TO relationships created."
+            )
+            neo4j_driver.close()
+            print("\nDone.")
+            return
 
-    central_case_id = central["case_id"]
-    central_case_number = central["case_number"]
+        top_case = found_cases[0]  # highest-scoring case that exists in Neo4j
+        central_case_id = top_case.case_id
+        central_case_number = top_case.case_number
+        auto_selected = True
+        print(
+            f"\n[AUTO] No manual case provided — automatically selecting the "
+            f"top-scoring case as the Central Case:"
+        )
+        print(f"        Case ID: {central_case_id}")
+        print(f"        Case Number: {display_label(top_case)}")
+        print(f"        Similarity: {top_case.score:.4f}")
 
     other_cases = [c for c in found_cases if c.case_id != central_case_id]
     if not other_cases:
@@ -624,7 +649,7 @@ def main():
 
     query_timestamp = datetime.now(timezone.utc).isoformat()
 
-    # Update importance properties for visualization (point 5)
+    # Update importance properties for visualization
     update_case_importance(neo4j_driver, central_case_id, 1.0, query_timestamp)
 
     created_any = False
@@ -642,7 +667,8 @@ def main():
             kept_edges.append(other)
 
     print("\nSIMILAR CASES:\n")
-    print("Central Case:")
+    print(f"Central Case{' (auto-selected)' if auto_selected else ' (manual)'}:")
+    print(f"Case ID: {central_case_id}")
     print(f"Case Number: {central_case_number if is_valid_case_number(central_case_number) else '(not available)'}\n")
     print("Related Cases:\n")
 
@@ -654,7 +680,7 @@ def main():
     else:
         print(f"(none met SIMILARITY_THRESHOLD = {SIMILARITY_THRESHOLD})\n")
 
-    print(VERIFICATION_QUERIES)
+    print(VERIFICATION_QUERIES.replace("REPLACE_WITH_CASE_ID", central_case_id))
 
     neo4j_driver.close()
     print("\nDone.")
