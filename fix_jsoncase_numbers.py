@@ -7,48 +7,45 @@ citation to a DIFFERENT (precedent/co-accused) case mentioned in the body
 text instead of the document's own case number in the header. That caused
 many unrelated documents to end up with the exact same case_number.
 
-This script:
-  - Does NOT touch chunks, judge, parties, sections_cited, citations, dates
-  - Reconstructs full_text from each file's own stored chunks (no PDF/OCR)
-  - Recomputes ONLY case_number -- using a lean, header-only regex (mirrors
-    the v9.1 fix in extractor.py), with an OPTIONAL Ollama fallback scoped
-    ONLY to case_number (mirrors the v9.2 fix), same safety guard: Ollama's
-    answer is only accepted if it's a verbatim substring of header_text.
-  - Overwrites case_number UNCONDITIONALLY when it differs from the fresh
-    value -- unlike repair_metadata.py, this does NOT check "is it already
-    valid" first, because the old ghost values are structurally well-formed
-    (they pass a format check) even though they're factually wrong.
-  - Dry run by default; nothing is written unless --apply is passed.
+REVISION 15 (this revision) -- LIKELY FINAL PRACTICAL ROUND
+-----------------------------------------------------------------------------
+unresolved_clean_header.json is now down to 136 files (from 4330 files back
+at Revision 6). Reviewing this batch, ~90% are genuinely garbled OCR text
+that no regex can recover ("IN THI HICH COURTOI SINDH", "ORUER SHFFT",
+Arabic-comma-for-period substitutions like "C،P No.D-1275", etc.) -- these
+belong with the OCR-garbled bucket in spirit, they simply didn't trip the
+garble heuristic. Only two genuinely fixable items were found:
 
-WHY THIS VERSION IS DIFFERENT FROM THE ORIGINAL
--------------------------------------------------
-The original script called the FULL extract_document_metadata(), which also
-recomputes judge / date_of_order / sections_cited / parties -- fields this
-script has no business touching. Whenever regex missed any of THOSE fields
-(very common), the old code fired an Ollama network call (up to 60s timeout
-EACH) purely to fill fields that were going to be thrown away anyway. Across
-10,000+ files that's what made the run crawl and made Ctrl+C feel dead (it
-was stuck inside a blocking network call with no interrupt handling at all).
+    'I.T.R. A. No.327 of 2019'              <- Income Tax Reference Appeal,
+                                                 never covered
+    'Cr. Bail Appln: No.S-1249 of 2022'     <- colon instead of period after
+                                                 "Appln" -- the existing
+                                                 "Cr. Bail App*" pattern only
+                                                 accepted a literal "." here,
+                                                 not ":"
 
-This version:
-  - Only ever computes case_number. Nothing else.
-  - Ollama is OFF by default here (--use-ollama to turn it on) because for
-    a pure "fix the regex bug" pass, the deterministic header regex is
-    exactly what you want to audit -- Ollama adds latency and (small but
-    nonzero) nondeterminism on top of a fix that's supposed to be exact.
-  - Has a real Ctrl+C handler: sets a flag checked every iteration, saves
-    checkpoint immediately, and exits -- no waiting on network timeouts.
-  - Prints elapsed time per file over a threshold so slow files are visible
-    instead of the run just silently sitting there.
+Fix: added I.T.R.A. as a new prefix, and widened the punctuation accepted
+after "Cr. Bail App[a-z]*" from "\\.?" to "[.:]?" so both period and colon
+work.
 
-REQUIRES: nothing from extractor.py anymore (fully self-contained), except
+RECOMMENDATION: after this revision, further regex iteration on the
+remaining clean-header bucket has sharply diminishing returns -- most of
+what's left is OCR noise, not missing patterns. Treat any files still in
+unresolved_clean_header.json / unresolved_ocr_garbled.json /
+unresolved_no_content_extracted.json after this round as needing either
+manual review or a fresh OCR pass on the source PDFs, not more regex work.
+
+See prior revisions (kept in file history) for the full list of previously
+added prefixes and fixes.
+
+REQUIRES: nothing from extractor.py (fully self-contained), except
           OUTPUT_DIR path convention, which is kept identical below.
 
 USAGE:
-    python fix_case_numbers.py                    # dry run, regex only (fast)
-    python fix_case_numbers.py --use-ollama        # dry run, with Ollama fallback for header-miss cases
-    python fix_case_numbers.py --apply             # actually write changes
-    python fix_case_numbers.py --apply --use-ollama
+    python fix_jsoncase_numbers.py                    # dry run, regex only (fast)
+    python fix_jsoncase_numbers.py --use-ollama        # dry run, with Ollama fallback for header-miss cases
+    python fix_jsoncase_numbers.py --apply             # actually write changes
+    python fix_jsoncase_numbers.py --apply --use-ollama
 """
 
 import os
@@ -64,6 +61,7 @@ OUTPUT_DIR              = "extracted_text_clean"
 CHECKPOINT_FILE         = "fix_case_numbers_checkpoint.json"
 REPAIR_CHECKPOINT_FILE  = "repair_checkpoint.json"
 REVIEW_FILE             = "fix_case_numbers_needs_review.json"
+CHANGED_AUDIT_FILE      = "fix_case_numbers_changed_audit.json"
 
 SLOW_FILE_WARN_SECONDS  = 2.0   # print a warning if a single file takes longer than this
 
@@ -77,7 +75,7 @@ OLLAMA_TIMEOUT         = 15     # seconds -- kept short on purpose; this is a bu
 
 
 # ==========================
-# CTRL+C HANDLING (was completely missing before)
+# CTRL+C HANDLING
 # ==========================
 _INTERRUPTED = False
 
@@ -91,44 +89,101 @@ signal.signal(signal.SIGINT, _handle_sigint)
 
 
 # ==========================
-# CASE NUMBER EXTRACTION ONLY
-# (header-only regex, same pattern as extractor.py v9.1 fix)
+# NORMALIZED VERBATIM CHECK
 # ==========================
-CASE_NO_RE = re.compile(
+def _normalize_for_compare(s: str) -> str:
+    """Lowercase, normalize dash characters to a plain hyphen, and strip
+    ALL whitespace. Used ONLY for the "is this value present in the header"
+    comparison -- never used to overwrite/store a value."""
+    s = str(s or "")
+    s = s.lower()
+    s = s.replace("\u2013", "-").replace("\u2014", "-")  # en-dash, em-dash -> hyphen
+    s = re.sub(r"\s+", "", s)
+    return s
+
+
+def is_verbatim_in_header(value: str, header_text: str) -> bool:
+    """True if `value` occurs in `header_text` once both are normalized
+    (see _normalize_for_compare)."""
+    if not value:
+        return False
+    return _normalize_for_compare(value) in _normalize_for_compare(header_text)
+
+
+# ==========================
+# CASE NUMBER EXTRACTION ONLY
+# (header-only regex)
+# ==========================
+# Number-token tail: tolerates a letter+dash prefix with spaces around the
+# dash (e.g. "D – 1115"), not just contiguous "D-1115".
+_NUMBER_TAIL = r"(?:[A-Za-z]{1,3}\s*[-\u2013]\s*)?\d[\w\-/]*(?:\s+of\s+\d{4})?"
+
+# Middle-gap character class includes parentheses, so captions with a
+# parenthetical between the prefix and "No." (e.g. "C.O.S (Insurance) No.")
+# can match.
+_MIDDLE_GAP = r"(?:[\w\s\.\-\(\)]{0,40}?)"
+
+# REVISION 15 -- added I.T.R.A. (Income Tax Reference Appeal). Widened the
+# punctuation after "Cr. Bail App[a-z]*" from period-only to period-or-colon
+# ("Cr. Bail Appln: No." was previously missed).
+_CASE_NO_STANDARD_RE = re.compile(
     r"("
     r"(?:Crl\.?\s*|CRL\.?\s*|Cr\.B\.A\.?\s*|Cr\.R\.A\.?\s*|Cr\.A\.?\s*|"
-    r"Civil\s*|W\.P\.?\s*|Const\.?\s*|Criminal\s*|Misc\.?\s*)"
-    r"(?:[\w\s\.\-]{0,40}?)"
-    # BUG FIX: the token after "No." must actually contain a digit somewhere.
-    # Without this, a blank/illegible case-number field on the source page
-    # (common in scanned orders) let this regex grab the next plain word
-    # instead (e.g. "No. IN" from "...No. ___ IN THE COURT OF...").
-    r"No\.?\s*(?=[\w\-]*\d)[\w\-]+(?:/[\w\-]+)*"
-    r"(?:\s+of\s+\d{4})?"
+    r"Cr\.?\s*Appeal\s*|"
+    r"Cr\.?\s*Bail\s*App[a-z]*[.:]?\s*|"
+    r"Cr\.?\s*Transfer\s*App[a-z]*\.?\s*|"
+    r"Civil\s*|W\.?\s*P\.?\s*|Writ\s+Petition\s*|Const\.?\s*|Criminal\s*|Misc\.?\s*|"
+    r"Election\s+Appeal\s*|"
+    r"P\.?\s*S\.?\s*L\.?\s*A\.?\s*|"
+    r"C\.?\s*P\.?\s*|"
+    r"Constt:?\s*Petition\.?\s*|"
+    r"R\.?\s*F\.?\s*A\.?s?\.?\s*|"
+    r"C\.?\s*R\.?\s*|"
+    r"I\.?\s*C\.?\s*A\.?\s*|"
+    r"Service\s+Appeal\s*|"
+    r"Regular\s+First\s+Appeal\s*|"
+    r"Election\s+Petition\s*|"
+    r"Suo\s+Motu\s+Case\s*|"
+    r"Review\s+Application\s*|"
+    r"Execution\s+First\s+Appeal\s*|"
+    r"Insurance\s+Appeal\s*|"
+    r"Diary\.?\s*|"
+    r"C\.?\s*O\.?\s*S\.?\s*|"
+    r"P\.?\s*L\.?\s*A\.?\s*|"
+    r"I-?\s*Appeal\s*|"
+    r"H\.?\s*C\.?\s*A\.?\s*|"
+    r"High\s+Court\s+Appeal\s*|"
+    r"M\.?\s*A\.?\s*|"
+    r"T\.?\s*A\.?\s*|"
+    r"E\.?\s*A\.?\s*|"
+    r"I\.?\s*T\.?\s*R\.?\s*A\.?\s*"
+    r")"
+    + _MIDDLE_GAP +
+    r"Nos?\.?\s*" + _NUMBER_TAIL +
     r")",
     re.I
 )
 
-# BUG FIX: a hard 1200-char cutoff could slice a real case number in half
-# right at the boundary, or (subtler) simply not include the optional
-# " of 2023" suffix because that text happened to fall just past the cut --
-# the regex still matched successfully without it, so no truncation was
-# ever detected. Using one generously sized window instead of a tight one
-# avoids this while still staying scoped to the document header (captions,
-# parties, court name) rather than the full body where precedent/co-accused
-# case numbers get cited -- that's what the original bug was about.
+# Short abbreviations: NO middle-gap wildcard exists in this branch, so the
+# number (or "No." + number) must appear immediately after the abbreviation
+# (only whitespace/dots allowed in between). That adjacency requirement
+# alone prevents false matches inside unrelated words like "COURT" -- no
+# lookahead guard needed.
+_CASE_NO_SHORT_RE = re.compile(
+    r"("
+    r"(?:"
+    r"\bE\.?\s*F\.?\s*A\.?\s*|"
+    r"\bR\.?\s*S\.?\s*A\.?\s*|"
+    r"\bC\.?\s*O\.?\s*|"
+    r"\bF\.?\s*A\.?\s*O\.?\s*"
+    r")"
+    r"(?:Nos?\.?\s*)?" + _NUMBER_TAIL +
+    r")",
+    re.I
+)
+
 HEADER_WINDOW = 3000
 
-# ── Confidence check ──────────────────────────────────────────────────
-# The regex's middle gap (up to 40 chars between the prefix and "No.") is
-# loose enough to sometimes drift across a whole sentence and latch onto an
-# unrelated "No." mention -- a notification number, a "Crime No.", a suit
-# number inside a narrative sentence, etc. Genuine captions are short and
-# mostly capitalized abbreviations ("W.P. No.24269 of 2019"); prose drift
-# tends to be longer and full of ordinary lowercase sentence words. Rather
-# than trust every regex match equally, flag the prose-like ones as low
-# confidence so they can be reviewed by a person instead of silently
-# overwriting a (possibly correct) old value with a wrong one.
 _LOWCONF_WORDS = re.compile(
     r"\b(?:cannot|could|does|was|not|under|dispute|consent|forums|"
     r"notification|jurisdiction|matters|private|respondents|crime|panoply|"
@@ -144,6 +199,19 @@ def match_confidence(matched_text: str) -> str:
     if _LOWCONF_WORDS.search(matched_text):
         return "low"
     return "high"
+
+
+def _is_well_formed_case_number(candidate: str) -> bool:
+    """True if `candidate`, taken on its own, is a complete supported case
+    number, including short abbreviations where "No." is optional."""
+    if not candidate:
+        return False
+    candidate = candidate.strip()
+    return bool(
+        _CASE_NO_STANDARD_RE.fullmatch(candidate)
+        or _CASE_NO_SHORT_RE.fullmatch(candidate)
+    )
+
 
 _OLLAMA_ALIVE = None  # cached after first check
 
@@ -163,7 +231,7 @@ def _is_ollama_alive() -> bool:
 
 
 def _ollama_case_number(header_text: str) -> str:
-    """Ask Ollama for ONLY case_number, scoped to header_text only. Verified via substring check."""
+    """Ask Ollama for ONLY case_number, scoped to header_text only."""
     if not _is_ollama_alive():
         return ""
     try:
@@ -172,8 +240,16 @@ def _ollama_case_number(header_text: str) -> str:
             "You are extracting structured metadata from a Pakistani court judgment. "
             "Return ONLY a valid JSON object, no preamble, no markdown fences. "
             "Extract this field:\n"
-            '- "case_number": the case number (e.g. \'Cr.B.A.No.S-994 of 2019\')\n'
-            "If it cannot be found, use an empty string.\n\n"
+            '- "case_number": the case number exactly as it appears in the document '
+            "header (format varies -- e.g. prefix + 'No.' + digits, optionally "
+            "'of' + a year, such as [TYPE].No.[NUMBER] of [YEAR]).\n"
+            "Do NOT invent, guess, or reuse any example format shown here -- only "
+            "return a case number if it is literally present in the text below. "
+            "Return the COMPLETE case number including its prefix (e.g. 'Cr.B.A.' "
+            "or 'W.P.') and the 'No.' token -- never just the trailing digits/year. "
+            "If no case number can be found in the text, return an empty string for "
+            "this field. Never output a value that does not appear verbatim in the "
+            "document text.\n\n"
             f"Document text:\n{header_text}"
         )
         resp = requests.post(
@@ -186,19 +262,25 @@ def _ollama_case_number(header_text: str) -> str:
         raw = re.sub(r"^```json\s*|\s*```$", "", raw.strip())
         parsed = json.loads(raw)
         candidate = (parsed.get("case_number") or "").strip()
-        # Safety guard: only accept if it's actually present in the header text.
-        if candidate and candidate.lower() in header_text.lower():
-            return candidate
+        if not candidate or not is_verbatim_in_header(candidate, header_text):
+            return ""
+        if not _is_well_formed_case_number(candidate):
+            return ""
+        return candidate
     except Exception:
         pass
     return ""
 
 
-def extract_case_number(full_text: str, use_ollama: bool) -> str:
-    header_text = full_text[:HEADER_WINDOW]
-    m = CASE_NO_RE.search(header_text)
+def extract_case_number(header_text: str, use_ollama: bool) -> str:
+    m = _CASE_NO_STANDARD_RE.search(header_text)
     if m:
         return m.group(1).strip()
+
+    m = _CASE_NO_SHORT_RE.search(header_text)
+    if m:
+        return m.group(1).strip()
+
     if use_ollama:
         return _ollama_case_number(header_text)
     return ""
@@ -234,15 +316,61 @@ def load_repaired_filenames():
 
 
 def load_checkpoint() -> set:
-    if os.path.exists(CHECKPOINT_FILE):
+    if not os.path.exists(CHECKPOINT_FILE):
+        return set()
+    try:
         with open(CHECKPOINT_FILE, "r", encoding="utf-8") as f:
-            return set(json.load(f))
-    return set()
+            content = f.read()
+        if not content.strip():
+            print(f"⚠  {CHECKPOINT_FILE} exists but is empty — treating as no "
+                  f"progress yet (this run will re-scan all files). The empty "
+                  f"file has been preserved as {CHECKPOINT_FILE}.corrupt for "
+                  f"reference.", flush=True)
+            try:
+                os.replace(CHECKPOINT_FILE, CHECKPOINT_FILE + ".corrupt")
+            except Exception:
+                pass
+            return set()
+        return set(json.loads(content))
+    except json.JSONDecodeError as e:
+        print(f"⚠  {CHECKPOINT_FILE} is corrupted ({e}) — backing it up as "
+              f"{CHECKPOINT_FILE}.corrupt and starting with no progress "
+              f"recorded (this run will re-scan all files; already-fixed "
+              f"files will simply be re-verified, which is safe since this "
+              f"script recomputes case_number deterministically).", flush=True)
+        try:
+            os.replace(CHECKPOINT_FILE, CHECKPOINT_FILE + ".corrupt")
+        except Exception:
+            pass
+        return set()
 
 
 def save_checkpoint(done: set):
-    with open(CHECKPOINT_FILE, "w", encoding="utf-8") as f:
+    tmp_path = CHECKPOINT_FILE + ".tmp"
+    with open(tmp_path, "w", encoding="utf-8") as f:
         json.dump(sorted(done), f, ensure_ascii=False, indent=2)
+        f.flush()
+        os.fsync(f.fileno())
+
+    max_attempts = 5
+    for attempt in range(1, max_attempts + 1):
+        try:
+            os.replace(tmp_path, CHECKPOINT_FILE)
+            return
+        except PermissionError:
+            if attempt == max_attempts:
+                print(f"⚠  Could not save checkpoint after {max_attempts} attempts "
+                      f"(file locked, likely by OneDrive sync or antivirus). "
+                      f"Continuing run without saving this checkpoint update -- "
+                      f"the next successful save will catch up. If this file lives "
+                      f"in a OneDrive/cloud-synced folder, consider pausing sync "
+                      f"while this script runs.", flush=True)
+                try:
+                    os.remove(tmp_path)
+                except Exception:
+                    pass
+                return
+            time.sleep(0.5 * attempt)  # 0.5s, 1s, 1.5s, 2s backoff
 
 
 def reconstruct_full_text(data: dict) -> str:
@@ -273,7 +401,9 @@ def main():
     changed = 0
     flagged = 0
     needs_review = []
+    changed_audit = []
     t_start = time.time()
+    i = 0
 
     for i, path in enumerate(pending, 1):
         if _INTERRUPTED:
@@ -291,31 +421,80 @@ def main():
                 save_checkpoint(done)
             continue
 
-        new_case_no = extract_case_number(full_text, use_ollama=args.use_ollama)
-        old_case_no = data.get("case_number", "")
+        header_text = full_text[:HEADER_WINDOW]
+        old_case_no_raw = data.get("case_number", "")
 
-        if new_case_no and new_case_no != old_case_no:
+        if isinstance(old_case_no_raw, str):
+            old_case_no = old_case_no_raw.strip()
+            stored_is_in_own_header = is_verbatim_in_header(old_case_no, header_text)
+        else:
+            old_case_no = old_case_no_raw
+            stored_is_in_own_header = False
+
+        if stored_is_in_own_header:
+            if args.apply:
+                done.add(os.path.basename(path))
+                save_checkpoint(done)
+            elapsed = time.time() - t0
+            if elapsed > SLOW_FILE_WARN_SECONDS:
+                print(f"    ⏱ Slow file ({elapsed:.1f}s): {os.path.basename(path)}", flush=True)
+            continue
+
+        new_case_no = extract_case_number(header_text, use_ollama=args.use_ollama)
+
+        if new_case_no:
             confidence = match_confidence(new_case_no)
+            candidate_is_in_header = is_verbatim_in_header(new_case_no, header_text)
 
-            if confidence == "high":
+            if confidence == "high" and candidate_is_in_header:
                 changed += 1
-                print(f"[{i}/{len(pending)}] {os.path.basename(path)}: {old_case_no!r} -> {new_case_no!r}", flush=True)
+                print(
+                    f"[{i}/{len(pending)}] {os.path.basename(path)}: "
+                    f"{old_case_no!r} -> {new_case_no!r} "
+                    f"(stored value not verified in own header)",
+                    flush=True,
+                )
+                changed_audit.append({
+                    "file": os.path.basename(path),
+                    "old_case_number": old_case_no,
+                    "new_case_number": new_case_no,
+                })
                 if args.apply:
                     data["case_number"] = new_case_no
                     with open(path, "w", encoding="utf-8") as f:
                         json.dump(data, f, ensure_ascii=False, indent=2)
             else:
-                # LOW CONFIDENCE: looks like it may have drifted into prose
-                # rather than a real caption. Never auto-applied, even with
-                # --apply -- logged for manual review instead.
                 flagged += 1
                 needs_review.append({
                     "file": os.path.basename(path),
                     "old_case_number": old_case_no,
                     "candidate_case_number": new_case_no,
+                    "reason": (
+                        "contaminated_stored_value_low_confidence_candidate"
+                        if confidence != "high"
+                        else "candidate_not_verbatim_in_header"
+                    ),
                 })
-                print(f"[{i}/{len(pending)}] ⚠ NEEDS REVIEW {os.path.basename(path)}: "
-                      f"{old_case_no!r} -> {new_case_no!r} (not applied)", flush=True)
+                print(
+                    f"[{i}/{len(pending)}] ⚠ NEEDS REVIEW {os.path.basename(path)}: "
+                    f"stored {old_case_no!r} not verified in own header; "
+                    f"candidate {new_case_no!r} not applied",
+                    flush=True,
+                )
+        else:
+            flagged += 1
+            needs_review.append({
+                "file": os.path.basename(path),
+                "old_case_number": old_case_no,
+                "candidate_case_number": "",
+                "reason": "contaminated_stored_value_not_found_in_own_header_no_replacement",
+            })
+            print(
+                f"[{i}/{len(pending)}] 🛑 CONTAMINATED {os.path.basename(path)}: "
+                f"stored {old_case_no!r} not verified in own header; "
+                f"no replacement found",
+                flush=True,
+            )
 
         if args.apply:
             done.add(os.path.basename(path))
@@ -328,11 +507,15 @@ def main():
         if i % 500 == 0:
             rate = i / (time.time() - t_start)
             print(f"    📊 Progress: {i}/{len(pending)} scanned | {changed} changed | "
-                  f"{flagged} flagged for review | {rate:.1f} files/sec\n", flush=True)
+                  f"{flagged} flagged | {rate:.1f} files/sec\n", flush=True)
 
     if needs_review:
         with open(REVIEW_FILE, "w", encoding="utf-8") as f:
             json.dump(needs_review, f, ensure_ascii=False, indent=2)
+
+    if changed_audit:
+        with open(CHANGED_AUDIT_FILE, "w", encoding="utf-8") as f:
+            json.dump(changed_audit, f, ensure_ascii=False, indent=2)
 
     if _INTERRUPTED:
         print(f"\n⏸ Stopped early by Ctrl+C. Scanned {i}/{len(pending)} in this run.")
@@ -343,8 +526,9 @@ def main():
     else:
         print(f"\n✅ Done. {changed} file(s) had case_number corrected.")
         if flagged:
-            print(f"⚠  {flagged} file(s) had a candidate case_number that looked prose-like "
-                  f"and were NOT applied — see {REVIEW_FILE} to review manually.")
+            print(f"⚠  {flagged} file(s) were flagged because the stored case_number "
+                  f"could not be verified against the file header, or no safe replacement "
+                  f"was found — see {REVIEW_FILE} to review manually.")
         if not args.apply:
             print("👉 This was a DRY RUN. Re-run with --apply to write changes.")
 

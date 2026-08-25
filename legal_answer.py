@@ -356,6 +356,10 @@ corrective heuristic):
     section. This is a structural move of whole raw text, not content
     rewriting, and only activates on this specific, now well-established
     pattern.
+  - REVISION 16, FIX X (below) extends this exact same heuristic to also
+    check the ANSWER section, since live runs have since shown the model
+    filing this structure under ANSWER just as often as under RELEVANT
+    CASE LAW.
 
 REVISION 13 (this revision) -- TWO ISSUES FOUND FROM LIVE RUN LOGS, both
 in the answer-assembly / presentation layer only.
@@ -391,15 +395,516 @@ FIX O -- REVISION 9 GUARD GAP, GARBLED case_number STILL SLIPPING THROUGH:
     (e.g. "W.P. No.2050 of 2024", "constitutional petitions No. 25057 of
     2020" both still pass).
 
+REVISION 15 (this revision) -- FOUR ISSUES FOUND FROM A BATCH OF LIVE TEST
+RUNS (bail-related queries). Three are in a NEW evidence-text-cleaning
+step that runs once, at the earliest point full chunk text is collected
+-- upstream of BOTH the LLM-facing evidence and the deterministic
+fallback, since the fallback reuses the exact same evidence items -- so
+fixing it once fixes it in both places. The fourth is in the
+answer-assembly layer only. Retrieval, Qdrant, Neo4j, scoring, and the
+retry/validation architecture are otherwise unchanged.
+
+FIX R -- DOCUMENT-BOILERPLATE LEAKING INTO THE NARRATIVE:
+  Observed: RELEVANT CASE LAW read "In the case of Rafiq/P.A. ORDER SHEET
+  266 IN THE HIGH COURT OF SINDH, KARACHI, Cr. Bail Appl No.1042 of
+  2018, the bail application was allowed...". "Rafiq/P.A." is a typist's
+  initials tag, "ORDER SHEET" and "IN THE HIGH COURT OF..." are page
+  furniture from the original scanned judgment -- none of it is
+  substantive legal content, but because it was literally present inside
+  the chunk_text the model was given, the model narrated it as if it
+  were part of the case description. FIX Q (Revision 14) told the model
+  to paraphrase rather than copy verbatim, but that is a soft prompt
+  instruction the small local model doesn't reliably follow for this
+  specific artifact class.
+  - `strip_document_boilerplate()` (new) -- a mechanical regex cleaner
+    that removes court-header lines (e.g. "IN THE HIGH COURT OF SINDH,
+    KARACHI"), "ORDER SHEET" labels, repeated judge-signature blocks
+    (e.g. "J U D G E J U D G E"), and typist-initial tags (e.g.
+    "Rafiq/P.A."). Applied once inside `collect_full_chunk_text()`,
+    before the text is ever stored -- so it can never reach the LLM
+    prompt OR the deterministic fallback in the first place, rather than
+    relying on the model to paraphrase it away.
+
+FIX S -- DUPLICATE/OVERLAPPING EVIDENCE TEXT:
+  Observed: a single evidence item's text contained the exact same
+  paragraph twice back-to-back ("The bail applications are disposed of
+  in the above terms... Cr." appeared, verbatim, twice in a row within
+  one chunk) -- a known OCR/text-extraction duplication artifact, not
+  two different points. Separately, the deterministic fallback's
+  `combined_snippet` (built by joining up to `FALLBACK_MAX_SNIPPETS_PER_
+  CASE` chunks for a case) could combine two overlapping chunks whose
+  text substantially repeated each other (a byproduct of overlapping
+  chunk windows over the same source page), producing a visibly
+  redundant excerpt.
+  - `collapse_duplicated_text()` (new) -- if a chunk's own text is (near-
+    exactly) the same content repeated twice, collapses it to a single
+    occurrence. Compares the first and second halves of the text via
+    `difflib.SequenceMatcher`; only collapses on a high similarity
+    ratio, so it cannot accidentally cut genuinely different content in
+    half.
+  - `_dedupe_similar_candidates()` (new) -- applied in
+    `build_evidence_items()` right after candidates are score-sorted:
+    drops a later candidate chunk whose text is a near-duplicate
+    (substring match or high `difflib` similarity) of an already-kept
+    candidate's text, regardless of which case or chunk_id it came from.
+    The earlier (higher-scoring) occurrence is always the one kept. This
+    prevents both wasting an evidence slot on a near-duplicate chunk and
+    the fallback combining duplicate content within one case's snippet.
+
+FIX U -- EMPTY-AFTER-CLEANING EVIDENCE EXCLUSION:
+  A direct consequence of FIX R: a chunk that was ALMOST ENTIRELY
+  boilerplate (e.g. just a court header and a judge-signature block, no
+  real substantive sentence) could become too short or empty once
+  cleaned, which would otherwise pass through as a near-blank "piece of
+  evidence."
+  - `MIN_CLEANED_CHUNK_CHARS` (new) -- `collect_full_chunk_text()` now
+    discards a chunk entirely (never adds it to the candidate pool at
+    all) if its text, after `strip_document_boilerplate()` and
+    `collapse_duplicated_text()`, falls below this length. This is a
+    content-quality floor, distinct from and applied before the existing
+    `MIN_EVIDENCE_SCORE` relevance floor (Revision 6) -- a chunk can be
+    highly relevant by embedding score and still be worthless once its
+    boilerplate is stripped away.
+
+FIX V -- ANSWER-SECTION OVERCLAIM (extends Revision 6, FIX C):
+  Observed: for a generic ("a person is arrested and applies for bail")
+  hypothetical query, the ANSWER / SUMMARY section stated "The applicant
+  is entitled to bail under the Pakistan Penal Code (PPC)..." -- directly
+  importing one retrieved case's own specific grant-of-bail outcome as
+  if it were the answer to the user's hypothetical. `check_overassertion()`
+  (Revision 6) already existed and correctly fired for this exact run --
+  but only against the APPLICATION TO THE QUERY section. The prompt's
+  CASE FACTS VS. THE USER'S HYPOTHETICAL rule and its example were also
+  both written with RELEVANT CASE LAW as the implicit target, and ANSWER
+  had no equivalent instruction, leaving it as the one section where this
+  particular overclaim pattern wasn't explicitly guarded against on
+  either side (prompt or backstop).
+  - `build_prompt()` -- the CASE FACTS VS. THE USER'S HYPOTHETICAL rule
+    now states explicitly that it applies to every section, including
+    ANSWER, not only RELEVANT CASE LAW. The ANSWER section's own
+    instructions now separately state not to declare that a retrieved
+    case's specific party ("the applicant"/"the petitioner") is entitled
+    to, or will receive, a specific outcome, and to use general,
+    principle-level phrasing instead (e.g. "Pakistani courts have held
+    that...").
+  - `check_overassertion()` -- `build_user_facing_answer()` now also runs
+    this check against the rendered ANSWER section, not only APPLICATION
+    TO THE QUERY, and appends the same clarifying LIMITATIONS note if
+    either (or both) trip it. `debug_info` gained
+    `overassertion_sections` (e.g. `["answer"]`, `["application"]`, or
+    both) alongside the existing boolean, for visibility into which
+    section(s) triggered it.
+
+REVISION 14 (this revision) -- TWO PROMPT-ONLY GUARDRAILS ADDED, based on
+a manual review of recurring output-quality issues. Neither changes
+retrieval, evidence selection/scoring, section structure, validation
+logic, or the retry/fallback machinery in any way -- both are additive
+instructions inside `build_prompt()`'s base (non-strengthened)
+instructions only, so they apply from the FIRST attempt onward, not just
+on retry.
+
+FIX P -- OVERSTATED LEGAL STATUS (e.g. "constitutional right"):
+  Observed: the model would sometimes characterize a principle as a
+  "constitutional right" (or similarly strong legal status) even when the
+  evidence text supporting that point never used that characterization
+  itself -- a stronger claim than the evidence actually grounds, in the
+  same spirit as the existing CASE FACTS VS. THE USER'S HYPOTHETICAL rule
+  and the FIX C overassertion guard, but for legal *characterization*
+  rather than outcome language.
+  - `build_prompt()` -- added a standing instruction (base prompt, not
+    just the strengthened retry) that the model must not characterize
+    something as a "constitutional right," "fundamental right," or
+    similarly strong legal status unless the evidence text itself
+    explicitly uses that characterization.
+
+FIX Q -- VERBATIM COPYING OF BROKEN/OCR-CORRUPTED EVIDENCE TEXT:
+  Observed: because evidence chunks originate from OCR'd PDFs, some
+  contain truncated or garbled sentences; the model would occasionally
+  copy such a fragment into its own prose near-verbatim instead of
+  paraphrasing the underlying point, producing a visibly broken sentence
+  in an otherwise clean answer.
+  - `build_prompt()` -- added a standing instruction (base prompt) that
+    the model must paraphrase the substance of the evidence in its own
+    clear words rather than copying evidence text verbatim, especially
+    where it looks truncated, garbled, or OCR-corrupted.
+
+REVISION 16 (this revision) -- FIVE ISSUES FOUND FROM A BATCH OF SIX LIVE
+TEST RUNS (see test log: bail general / bail factors / benefit of doubt /
+bailable vs non-bailable / Section 497 / Article 199). All five are
+additive, in the answer-assembly / presentation layer or the base prompt
+only. Retrieval, Qdrant, Neo4j, evidence scoring/selection, and the
+retry/fallback architecture are UNCHANGED.
+
+FIX W -- STRAY MARKDOWN ARTIFACTS LEAKING INTO USER-FACING TEXT:
+  Observed: a run's ANSWER / SUMMARY section contained a bare "**" on its
+  own line, and later the same run showed "**Held:** ... **Principle:**"
+  with literal double-asterisks left in the rendered text. The 3B model
+  occasionally reaches for markdown emphasis even though this file's
+  output is plain text; `strip_leaked_metadata()` only ever strips
+  metadata-LOOKING lines (Case ID:, Court:, etc.) and was never designed
+  to catch markdown decoration.
+  - `strip_markdown_artifacts()` (new) -- a mechanical cleaner that
+    removes stray "**"/"__" emphasis markers, leading markdown heading
+    hashes ("#", "##", ...) at the start of a line, and any remaining
+    bare "*" characters, since this file never intentionally emits "*"
+    (bullets are always rendered with "- ", including in the
+    deterministic fallback). Applied in `build_user_facing_answer()`
+    immediately alongside `strip_leaked_metadata()`, before section
+    parsing, so it can never reach the user in any section.
+
+FIX X -- MISPLACED APPLICATION-SECTION CONTENT, ALSO SEEN UNDER ANSWER
+(extends Revision 12, FIX M):
+  Observed: the same Held:/Principle:/Relevance to your question:
+  structure that FIX M (Revision 12) already knows to relocate out of
+  RELEVANT CASE LAW was, in a different run, written by the model inside
+  ANSWER / SUMMARY instead -- leaving APPLICATION TO THE QUERY empty
+  while ANSWER ballooned into an unstructured block containing both the
+  real summary and the mislabeled Held/Principle/Relevance content. FIX
+  M's detection logic only ever inspected RELEVANT CASE LAW, so this
+  variant passed through unrelocated.
+  - `build_user_facing_answer()` -- the FIX M check is now applied to
+    BOTH RELEVANT CASE LAW and ANSWER (checked in that order, RELEVANT
+    CASE LAW first to preserve existing behaviour exactly where it
+    already worked). Whichever section is found to contain the full
+    Held:/Principle:/Relevance to your question: structure, while
+    APPLICATION TO THE QUERY is still empty or the standard
+    insufficiency sentence, has that structure's raw text moved into
+    APPLICATION TO THE QUERY before citation conversion runs -- same
+    mechanism as FIX M, just checked against a second candidate section.
+    This is still a structural move of whole raw text, never a rewrite.
+
+FIX Y -- MODEL-STATED COURT NAME CONTRADICTING THE VERIFIED CITATION:
+  Observed: RELEVANT CASE LAW read "The Honourable Supreme Court has
+  observed that a distinction is to be made..." immediately followed by
+  Python's own verified citation "(W.P. No. 4166 of 2019, Lahore High
+  Court)" -- the model's own prose named a DIFFERENT court than the one
+  Python's graph-verified citation actually attaches to that claim, a
+  visible contradiction. The base prompt already instructs the model
+  never to name a court (see "WHAT NOT TO DO" -> "Never state or imply
+  ... a court name"), but a 3B model treats a stock phrase like "the
+  Honourable Supreme Court has observed" as narrative filler rather than
+  a factual claim it was told not to make, so the instruction alone is
+  not reliable enough.
+  - `COURT_NAME_MENTION_PATTERN` / `neutralize_court_name_mentions()`
+    (new) -- a structural backstop, same spirit as
+    `strip_leaked_metadata()`: scans the model's RAW output (before
+    section parsing, before citations are attached) for mentions of
+    "Supreme Court," "High Court," "Sessions Court," or "this Court" /
+    "the Court" (optionally preceded by "Honourable"/"Hon'ble"/"the"),
+    and replaces each with the neutral phrase "the court" -- matching the
+    prompt's own suggested generic phrasing ("Pakistani courts have held
+    that..."). This runs BEFORE `convert_citations_to_natural()`, so it
+    only ever touches the model's own prose, never the verified citation
+    text Python appends afterward (which legitimately does say "Lahore
+    High Court" etc., because that text is graph-verified, not something
+    the model wrote).
+
+FIX Z -- HIGH ZERO-TAG RATE ON DEFINITIONAL / STATUTORY QUERIES:
+  Observed: precise, textbook-style questions ("What is the purpose of
+  Section 497 CrPC", "difference between bailable and non-bailable
+  offences") produced ZERO valid [Ex] tags on BOTH attempt 1 and the
+  retry far more often than open-ended fact-pattern questions, forcing
+  the deterministic fallback (which is safe, but strictly weaker than a
+  synthesized answer) more than necessary. The base prompt is long and
+  the VALID EVIDENCE TAGS list, while present near the top, was not
+  reinforced with a concrete worked example anywhere -- a small local
+  model following a long instruction list benefits far more from one
+  concrete example than from an additional paragraph of rules.
+  - `build_prompt()` -- added a short "EXAMPLE OF CORRECT TAGGING" block
+    (base prompt, both attempts) directly beneath the HOW TO USE THE
+    EVIDENCE instructions, showing one short, topic-neutral sentence
+    with correct bracketed tagging and explicitly noting what such a
+    sentence does NOT contain (case names, court names, citation
+    formatting). This is additive only -- no existing instruction was
+    removed or reworded.
+  - `OLLAMA_NUM_CTX` -- raised from 4096 to 8192 (the same context-window
+    fix already used in `generate_embeddings.py` for a different,
+    context-overflow reason). The evidence block plus the full
+    instruction set can approach the previous 4096-token ceiling for
+    queries with several evidence items, which risked truncating the
+    instructions themselves before generation begins.
+
+FIX AA -- UNTAGGED "RELEVANT LEGAL PRINCIPLES" SECTION:
+  Observed: a grounded, otherwise-good answer (Article 199 query) had at
+  least one section (RELEVANT LEGAL PRINCIPLES) rendered entirely as
+  free-standing prose with no `[Ex]` tag anywhere in it, even though the
+  rest of the answer was properly tagged -- so that section's specific
+  claims were not actually verifiable against any retrieved case, even
+  though the answer as a whole was marked "grounded" (grounding only
+  requires at least one valid tag ANYWHERE in the whole answer, by
+  design -- see `count_valid_tags()` / `has_any_valid_tag()`). This reads
+  as an overgeneralized paragraph to the user with no visible signal that
+  it wasn't individually verified.
+  - `build_user_facing_answer()` -- now separately checks, on the RAW
+    RELEVANT LEGAL PRINCIPLES section text, whether it contains at least
+    one valid `[Ex]` tag whenever the answer as a whole is grounded and
+    that section is non-empty. If that section has zero valid tags of
+    its own, a clarifying LIMITATIONS note is appended (same append-only
+    mechanism already used for `invalid_tags` and `overasserted`) stating
+    that this section is a general summary that could not be
+    individually verified. `debug_info` gained
+    `principles_section_untagged` (bool) for visibility. This does not
+    remove or rewrite the section's content -- the model may still be
+    accurately synthesizing several tagged evidence items into one
+    principle without repeating the tag on every sentence; the note only
+    makes the verification status explicit to the reader rather than
+    silent.
+
+REVISION 17 (this revision) -- TWO ISSUES FOUND FROM A BATCH OF SEVEN LIVE
+TEST RUNS. FIX BB is a new structural backstop in the answer-assembly
+layer. FIX CC restructures the deterministic fallback's ANSWER and
+RELEVANT LEGAL PRINCIPLES sections so they stop duplicating a raw
+evidence dump between two sections and instead give an honest,
+Python-templated summary. Retrieval, Qdrant, Neo4j, evidence scoring, and
+the retry/fallback trigger logic are UNCHANGED.
+
+FIX BB -- MODEL-STATED CASE NAME + REPORTER CITATION LEAK:
+  Observed: across a batch of seven live runs, every run where the LLM
+  successfully produced tagged output (i.e. did NOT hit the deterministic
+  fallback) also contained at least one instance of the model naming a
+  specific case party and a law-reporter citation in its own prose --
+  e.g. "Raja Khurram Ali Khan v. Tayyaba Bibi (PLD 2020 SC 146)", "Allah
+  Din v. Habib (PLD 1982 SC 465)", "State v. Mushtaq Ahmad, PLD 1973 SC
+  418". None of these are Python-verified -- Python's own
+  natural_citation() NEVER produces reporter-style citations (PLD, SCMR,
+  MLD, YLR, CLC, PLJ, PCrLJ); it only ever produces "W.P. No....",
+  "Crl. Misc....", court name, year, sourced from the graph. A
+  PLD/SCMR-style citation appearing in the rendered answer is therefore
+  guaranteed to have come from the model's own prose, not from Python --
+  most likely memorized from training data (the same class of problem
+  Revision 11's known-hallucination denylist targets, but unbounded in
+  variety, so a fixed denylist can't cover it). The base prompt already
+  says "never state or imply a case number, citation... you don't have
+  this information," but the model treats a stock "In X v. Y, the court
+  held..." narrative pattern as scene-setting rather than a forbidden
+  factual claim -- exactly the same failure mode Revision 16's FIX Y
+  (court-name mentions) found and fixed the same way.
+  - `REPORTER_CITATION_TOKEN_PATTERN` / `CASE_NAME_CITATION_PATTERN` (new)
+    -- matches a "Party v. Party" phrase immediately followed by a
+    law-reporter-style citation (either "PLD 2020 SC 146" or "2016 SCMR
+    274" ordering, covering the common Pakistani reporters: PLD, SCMR,
+    MLD, YLR, CLC, PLJ, PCrLJ, CLD), with or without surrounding
+    parentheses/commas.
+  - `neutralize_case_citation_mentions()` (new) -- replaces each match
+    with the neutral noun phrase "a reported precedent", then collapses
+    an adjacent "a reported precedent and a reported precedent" (from
+    multi-case sentences) into "reported precedents" for readability.
+    Applied on the model's RAW prose in `build_user_facing_answer()`,
+    immediately alongside `neutralize_court_name_mentions()` (Revision
+    16, FIX Y) and for the identical reason: it must run BEFORE
+    `convert_citations_to_natural()` attaches Python's own verified
+    citations, so it can only ever touch the model's own unverifiable
+    prose, never Python's own output.
+  - `build_prompt()` -- the "WHAT NOT TO DO" list gained one more
+    explicit line: do not name specific case parties (e.g. "X v. Y")
+    even without a reporter citation attached, since this is exactly the
+    pattern the model reaches for right before adding a citation to it.
+  - `debug_info` gained `case_citation_leaks_neutralized` (int) for
+    visibility into how often this backstop actually fires.
+
+FIX CC -- DETERMINISTIC FALLBACK NO LONGER DUPLICATES A RAW EVIDENCE
+DUMP ACROSS TWO SECTIONS:
+  Observed: in the fallback path (no LLM call), ANSWER / SUMMARY and
+  RELEVANT LEGAL PRINCIPLES rendered the EXACT SAME bullet list of raw,
+  untouched evidence excerpts -- e.g. a civil-vs-criminal-case query
+  showed three identical, unedited paragraph-length quotes under both
+  headings. This isn't wrong (nothing is misattributed), but it reads as
+  a bug, wastes the reader's attention, and gives no distinct "answer"
+  at all -- just an evidence transcript repeated twice. The underlying
+  problem: the fallback exists specifically because no LLM synthesis is
+  available for this query, so Python has no way to construct a genuine,
+  substantively-correct one-line legal answer -- but it CAN honestly say
+  so instead of silently repeating the transcript as if it were an
+  answer.
+  - `build_deterministic_fallback_answer()` -- ANSWER / SUMMARY is now a
+    short, honest, Python-templated statement explaining that no
+    synthesized narrative could be produced this time and pointing the
+    reader to RELEVANT CASE LAW below for the actual retrieved text, INSTEAD
+    of repeating the evidence bullets. RELEVANT LEGAL PRINCIPLES similarly
+    no longer repeats the same bullets -- it now states plainly that no
+    individually synthesized principle could be produced without the
+    language model, and points to RELEVANT CASE LAW as the authoritative
+    source. RELEVANT CASE LAW remains the ONLY section that shows the raw,
+    per-case excerpts (unchanged from Revision 4) -- so the underlying
+    evidence text is still fully visible to the reader exactly once, not
+    duplicated.
+  - `_looks_like_comparison_query()` (new) -- a lightweight keyword check
+    ("difference between", "distinguish", "compared to", " vs ", "versus")
+    against the user's own query text. When true AND the fallback path is
+    used, an additional LIMITATIONS caveat is appended: "The retrieved
+    cases may address specific instances of this topic rather than a
+    complete general comparison; review RELEVANT CASE LAW below to see
+    exactly what each retrieved case discusses." This directly targets
+    the failure mode of a comparison-style query landing in the fallback
+    path, where a generic "assembled from excerpts" disclaimer alone
+    doesn't warn the reader that a full side-by-side comparison may not
+    actually be present in what was retrieved.
+
+REVISION 18 (this revision) -- FIVE ISSUES FOUND FROM A BATCH OF FIVE LIVE
+TEST RUNS. All additive, in the answer-assembly / evidence-cleaning layer
+or the base prompt's denylist. Retrieval, Qdrant, Neo4j, evidence
+scoring, and the retry/fallback trigger logic are UNCHANGED.
+
+FIX DD -- BARE (UNCITED) FOREIGN CASE-NAME LEAK, EXTENDING REVISION 17
+FIX BB:
+  Observed: the model named foreign cases with NO citation attached at
+  all -- "Lilly v. Virginia", "Kartar Singh v. State of Punjab" -- which
+  Revision 17's `CASE_NAME_CITATION_PATTERN` could not catch, since it
+  only fires when a Pakistani-reporter citation (PLD/SCMR/etc.) is
+  attached to anchor the match.
+  - `CASE_NAME_BARE_PATTERN` (new) -- a second, broader pattern (same
+    `_CASE_NAME_PART` building block) that matches a bare "Party v.
+    Party" mention with no citation requirement at all, applied AFTER
+    `CASE_NAME_CITATION_PATTERN`'s substitution so a name+citation pair
+    is still handled as one unit by the first pass -- this only mops up
+    what's left. Replaced with "a cited case" (distinct wording from "a
+    reported precedent", since no citation was actually present to call
+    "reported"). The base prompt already forbids naming any case party
+    with or without a citation, so this is always safe to neutralize.
+  - `neutralize_case_citation_mentions()` -- runs both passes and
+    collapses an adjacent repeated "a cited case and a cited case" into
+    "cited cases" the same way Revision 17 already did for the
+    "reported precedent" phrasing.
+
+FIX EE -- GARBLED case_number DENYLIST GAP (extends Revision 9/13, FIX
+H/O):
+  Observed: "SOURCES CONSULTED" showed "- criminal case against them.
+  Respondent No.4, Lahore High Court, 2022" -- a chunk-text sentence
+  fragment (same class of problem as Revision 9/13) that passed
+  `is_plausible_case_number()` because it only tripped the 2-word
+  minimum with a single denylisted word; "against" and "them" were not
+  yet on the list.
+  - `_PROSE_FUNCTION_WORDS` -- added "against" and "them". Verified this
+    doesn't create false positives against real case-number formats.
+
+FIX FF -- FOREIGN JURISDICTION MENTIONS, EXTENDING THE REVISION 6 FOREIGN-
+LAW DENYLIST:
+  Observed: the same run that produced the FIX DD case names also
+  attributed them to "the court of the United States" and "the court of
+  India" -- neither of which is a denylisted STATUTE name (the original
+  Revision 6 `FOREIGN_LAW_PATTERN` only covered statute/code names), so
+  neither attempt 1 nor the retry treated this as an "unsupported
+  phrase" requiring correction. Unlike FIX DD/BB (cosmetic neutralization
+  after the fact), this fix operates at the STRUCTURAL retry-trigger
+  level -- the same evidence-membership check `contains_foreign_law_
+  reference()` already uses -- so a foreign-jurisdiction mention on
+  attempt 1 now forces the SAME strengthened-prompt retry the rest of the
+  foreign-law denylist already triggers, rather than only being cleaned
+  up cosmetically after an already-foreign-tainted answer is accepted.
+  - `FOREIGN_LAW_PATTERN` -- extended with jurisdiction/court-name terms:
+    "Supreme Court of India," "court of India," "Indian courts," "court
+    of the United States," "U.S. Supreme Court," "House of Lords,"
+    "English courts," etc. Same evidence-membership guard as every other
+    entry -- only flagged if the term does NOT appear in the evidence
+    text actually given to the model, so a judgment genuinely
+    comparatively citing foreign law is never falsely flagged.
+
+FIX GG -- ADJACENT CITATIONS FROM ONE TAG GROUP, PROFESSIONAL FORMATTING:
+  Observed: "...(Criminal Appeal No. 127136 of 2017, Lahore High Court,
+  2019) (Crl. Revision No.01/2020/BWP, Lahore High Court, 2020)" -- two
+  citations from the SAME [Ex][Ex] tag group rendered as two separate,
+  visually disconnected parenthesized citations bumping into each other.
+  - `convert_citations_to_natural()`'s `_replace_group()` -- when one
+    bracket group resolves to more than one citation, they're now joined
+    inside a SINGLE parenthesis with "; " (e.g. "(Criminal Appeal No.
+    127136 of 2017, Lahore High Court, 2019; Crl. Revision No.01/2020/
+    BWP, Lahore High Court, 2020)") instead of emitted as separate
+    adjacent parens. This only merges citations that came from the SAME
+    bracket group (i.e. the model's own tagging already indicated they
+    support the same claim) -- it never merges two separate, unrelated
+    citation groups appearing elsewhere in a sentence.
+
+FIX HH -- ACADEMIC FOOTNOTE-CHAIN NOISE IN RETRIEVED TEXT:
+  Observed: a deterministic-fallback RELEVANT CASE LAW excerpt echoed a
+  law-review/thesis-style footnote chain verbatim -- "...382. 91 (n 27)
+  385; ... 94 Ibid. 95 Zainab Bibi v Ferozuddin PLD 1954 Lah 704. 96 Feroz
+  Begum v Muhammad Hussain 1983 SCMR 606..." -- none of which is
+  substantive legal content; it's citation-chain noise from the source
+  document's own footnotes (this corpus includes some thesis/law-review
+  documents, not only plain judgments).
+  - `_FOOTNOTE_IBID_PATTERN` / `_FOOTNOTE_CROSS_REF_PATTERN` (new) --
+    strip a bare footnote number immediately followed by "Ibid." and a
+    parenthesized "(n NN)" cross-reference, respectively. Both are
+    intentionally narrow (require the specific "Ibid." marker or the "(n
+    NN)" cross-reference format) so they cannot accidentally remove a
+    real case number or ordinary sentence content. Applied inside
+    `strip_document_boilerplate()`, so -- like Revision 15's FIX R -- it
+    is cleaned once, upstream of both the LLM-facing evidence and the
+    deterministic fallback, and can never reach either.
+
+REVISION 19 (this revision) -- ONE CRITICAL BUG FOUND FROM A BATCH OF
+SEVEN LIVE TEST RUNS, plus two supporting fixes for the same
+neutralization backstop. All in the answer-assembly layer only.
+Retrieval, Qdrant, Neo4j, evidence scoring, and the retry/fallback
+trigger logic are UNCHANGED.
+
+FIX II (CRITICAL) -- "versus" NEVER RECOGNIZED AS A CASE-NAME SEPARATOR:
+  Observed: a complete, real-looking case citation leaked through
+  entirely unneutralized -- "In the case of Mst. AKHTAR SULTANA versus
+  Major Retd. MUZAFFAR KHAN MALIK through his legal heirs and others (PLD
+  2021 the court 715)". Root cause: every case-name pattern added in
+  Revisions 17/18 used the separator `v\.?s?\.?` -- matching only "v",
+  "v.", "vs", "vs." -- which structurally cannot match the full word
+  "versus" at all (after consuming "v", the pattern requires whitespace
+  immediately, but "ersus" follows, so the match fails outright rather
+  than partially matching). Pakistani judgments write this separator
+  both ways, and this run happened to use the full word, so NEITHER
+  `CASE_NAME_CITATION_PATTERN` nor `CASE_NAME_BARE_PATTERN` fired at all.
+  (Separately, the "SC" reporter abbreviation inside this same citation
+  had itself been garbled by the model into the word "Court" -- e.g. "PLD
+  2021 the Court 715" -- which is why `neutralize_court_name_mentions()`
+  left a cosmetic, harmless "the court" in that specific spot; that part
+  was not the bug -- the real case name and citation number leaking
+  through completely was.)
+  - `_CASE_SEPARATOR` (new, shared constant) -- `r"\s+(?:vs?\.?|versus)\s+"`,
+    used by both `CASE_NAME_CITATION_PATTERN` and `CASE_NAME_BARE_
+    PATTERN` in place of the old inline `v\.?s?\.?`. Now recognizes "v",
+    "v.", "vs", "vs.", and "versus" (case-insensitively, via the existing
+    `re.IGNORECASE` flag on both patterns).
+
+FIX JJ -- PARTY-NAME TOKEN CAP TOO LOW FOR LONG PAKISTANI PARTY NAMES:
+  Observed in the same run: even after FIX II, a party name with a long
+  trailing clause ("Major Retd. MUZAFFAR KHAN MALIK through his legal
+  heirs and others") would have exceeded the old 9-token cap
+  (`{0,8}` = up to 9 tokens total) on `_CASE_NAME_PART`, causing
+  `CASE_NAME_BARE_PATTERN`'s party2 to fail to fully consume it.
+  - `_CASE_NAME_PART` -- token cap raised from `{0,8}` (9 tokens total)
+    to `{0,14}` (15 tokens total). Safe to raise: it only affects how
+    much of a genuine case name can be captured -- it can never cause a
+    FALSE match on unrelated text, since the mandatory separator (or, for
+    the citation pattern, the mandatory trailing citation) still has to
+    appear for anything to match at all.
+
+FIX KK -- RUN-ON TEXT WHERE A NEUTRALIZED MENTION LOST ITS SENTENCE
+BREAK:
+  Observed: "...prohibited under section 439(a) a reported precedent, it
+  was observed that the civil revision..." -- two originally-separate
+  sentences read as one run-on once the case name between them was
+  neutralized, because the neutralization only replaces the matched span
+  itself and doesn't add back any punctuation the model's own sentence
+  boundary implied.
+  - `_LIKELY_MISSING_SENTENCE_BREAK_PATTERN` (new) -- a narrow, safe
+    heuristic: inserts a period wherever "a reported precedent" or "a
+    cited case" is immediately preceded (only whitespace between) by a
+    closing parenthesis or a digit -- both strong signals that a genuine
+    sentence just ended (a citation's closing paren, or a
+    section/clause number) rather than a grammatical continuation.
+    Deliberately does NOT fire when preceded by an ordinary word (e.g.
+    "as held in a reported precedent...", "such as a cited case..."),
+    which reads fine as-is and must not be split. Applied as the final
+    step of `neutralize_case_citation_mentions()`.
+
 Note on citation-string normalization: still not needed as a general
 mechanism (see Revision 3 note) -- citation validity remains structural
 (Python-owned [Ex] -> case_id mapping), not string-matched, in every
 code path including the deterministic fallback. The Revision 6/11
-denylist checks and the Revision 12 section-relocation heuristic are
-narrow, targeted exceptions for specific confirmed failure patterns, not
-a general content-matching or rewriting system.
+denylist checks, the Revision 12/16 section-relocation heuristics, and
+the Revision 16/17/18/19 court-name and case-citation neutralization
+backstops are narrow, targeted exceptions for specific confirmed failure
+patterns, not a general content-matching or rewriting system.
 """
 
+import difflib
 import re
 import sys
 import textwrap
@@ -427,9 +932,39 @@ MAX_CHUNK_CHARS_FOR_LLM = 800        # per-chunk cap sent to the LLM (was 1200)
 MAX_CHUNKS_PER_CASE = 2              # candidate chunks pulled per case (was 3)
 MAX_TOTAL_EVIDENCE_ITEMS = 8         # global cap on evidence items sent to the LLM
 MAX_GRAPH_NEIGHBORS = 5              # internal/debug only, never sent to LLM
+
+# --- Hybrid retrieval: graph-expanded evidence + re-ranking ---------------
+# Previously Neo4j only supplied metadata for cases Qdrant had already
+# found; the knowledge graph itself (CITES, SIMILAR_TO, APPLIES, INVOLVES)
+# never influenced WHICH cases became evidence. These settings turn that
+# graph into a real second retrieval signal, combined with the Qdrant
+# vector score before picking related_cases.
+GRAPH_EXPANSION_SEED_COUNT = 5        # how many top Qdrant cases (besides
+                                       # the central case) are used as seeds
+                                       # for graph traversal
+GRAPH_EXPANSION_LIMIT = 15            # max case_ids returned per relation
+                                       # type query (keeps traversal bounded)
+GRAPH_MAX_SHARED_NODE_DEGREE = 25     # a LawSection/Party touched by more
+                                       # cases than this is too generic
+                                       # (e.g. "Section 497 PPC", "The
+                                       # State") to signal real relatedness,
+                                       # so traversal skips it
+GRAPH_WEIGHT_CITES = 0.35             # co-citation (shared precedent)
+GRAPH_WEIGHT_SIMILAR_TO = 0.50        # existing SIMILAR_TO edge (r.score
+                                       # is already a 0..1 cosine-scale
+                                       # value, used directly)
+GRAPH_WEIGHT_APPLIES = 0.15           # shared, non-generic law section
+GRAPH_WEIGHT_INVOLVES = 0.20          # shared, non-generic party
+VECTOR_RERANK_WEIGHT = 0.7            # final re-rank = this * Qdrant score
+GRAPH_RERANK_WEIGHT = 0.3             #   + this * combined graph relevance
 OLLAMA_GENERATE_TIMEOUT = 180         # seconds; safety net, not the primary fix
 OLLAMA_NUM_PREDICT = 700              # bounds response length -> bounds latency
-OLLAMA_NUM_CTX = 4096                 # explicit context window
+# --- Revision 16, FIX Z: raised 4096 -> 8192. The evidence block plus the
+# full instruction set can approach the previous ceiling for queries with
+# several evidence items, which risked truncating instructions before
+# generation even begins -- same fix already used in generate_embeddings.py
+# for a different (embedding-time) context-overflow reason. ---------------
+OLLAMA_NUM_CTX = 8192
 
 # --- Revision 4: fallback/retry tuning -----------------------------------
 FALLBACK_SNIPPET_CHARS = 320          # per-evidence-excerpt cap shown in the
@@ -451,10 +986,121 @@ MIN_EVIDENCE_SCORE = 0.72
 # against and tends to lose track of the required section structure.
 MIN_EVIDENCE_ITEMS_BACKFILL_FLOOR = 3
 
+# --- Revision 15, FIX U: content-quality floor, applied BEFORE scoring ---
+# Distinct from MIN_EVIDENCE_SCORE (which filters on embedding relevance):
+# a chunk can score highly and still be near-worthless once document
+# boilerplate (court headers, judge-signature blocks, typist tags) is
+# stripped out of it. Anything shorter than this, after cleaning, is
+# dropped from the candidate pool entirely rather than sent to the LLM
+# or the fallback as a "piece of evidence."
+MIN_CLEANED_CHUNK_CHARS = 30
+
 NOT_AVAILABLE = "(not available)"
 INSUFFICIENT_EVIDENCE_TEXT = "The retrieved evidence is insufficient to determine this point."
 
 log = qn.log  # reuse the same logger/formatting as the retrieval script
+
+
+# ==================================================================
+# Revision 15, FIX R/S -- EVIDENCE-TEXT CLEANING
+# --------------------------------------------------------------------
+# Runs once, at the earliest point full chunk text is collected --
+# upstream of BOTH the LLM-facing evidence (build_evidence_items) and the
+# deterministic fallback (build_deterministic_fallback_answer), since the
+# fallback reuses the exact same EvidenceItem objects. Cleaning it once
+# here means it's cleaned everywhere; there is no separate "fallback
+# cleaning" that could drift out of sync with the LLM-facing version.
+#
+# This is a MECHANICAL cleaner, not a rewrite: it only removes page
+# furniture that is never substantive legal content (court headers,
+# "ORDER SHEET" labels, judge-signature blocks, typist-initial tags) and
+# collapses an exact/near-exact whole-text duplication. It never touches
+# or reorders the actual legal content of a chunk.
+# ==================================================================
+_COURT_HEADER_PATTERN = re.compile(
+    r"\bIN THE (?:HIGH COURT|SUPREME COURT|SESSIONS COURT|SUPERIOR COURT)S?"
+    r"\s+OF[^.,\n]{0,40}(?:,\s*[A-Z][A-Za-z]{2,15})?",
+    re.IGNORECASE,
+)
+_ORDER_SHEET_PATTERN = re.compile(r"\bORDER\s+SHEET\b", re.IGNORECASE)
+# Matches a JUDGE signature block written with spaced-out letters,
+# repeated two or more times (e.g. "J U D G E J U D G E") -- deliberately
+# requires the repeat so it can never match an ordinary use of the word
+# "judge" in normal prose.
+_JUDGE_SIGNATURE_BLOCK_PATTERN = re.compile(
+    r"(?:\bJ\s+U\s+D\s+G\s+E\b\s*){2,}", re.IGNORECASE
+)
+# Matches a short typist-initials signature tag, e.g. "Rafiq/P.A.",
+# "Aslam/P.S.". Intentionally narrow (Capitalized word + "/" + 1-2
+# capital-letter initials + periods) to avoid matching genuine legal
+# abbreviations elsewhere in the text.
+_TYPIST_INITIALS_PATTERN = re.compile(r"\b[A-Z][a-z]+/[A-Z]\.[A-Z]\.")
+
+# --------------------------------------------------------------------
+# Revision 18, FIX HH: some documents in this corpus are law-review /
+# thesis-style writing rather than plain judgments, and carry academic
+# footnote chains -- e.g. "...382. 91 (n 27) 385; ... 94 Ibid. 95 Zainab
+# Bibi v Ferozuddin PLD 1954 Lah 704. 96 Feroz Begum v Muhammad Hussain
+# 1983 SCMR 606..." -- observed verbatim in a deterministic-fallback
+# RELEVANT CASE LAW excerpt. None of this is substantive legal content;
+# it's citation-chain noise from the original document's footnotes, and
+# it makes the excerpt very hard to read. Two narrow, mechanical patterns:
+# a bare footnote number immediately followed by "Ibid." (a footnote
+# marker + Latin cross-reference, never ordinary prose), and a
+# parenthesized "(n NN)" cross-reference (a footnote's own reference back
+# to an earlier note number, likewise never ordinary prose). Both are
+# intentionally narrow so they can't accidentally remove a real case
+# number or ordinary sentence content.
+# --------------------------------------------------------------------
+_FOOTNOTE_IBID_PATTERN = re.compile(r"\b\d{1,3}\s+Ibid\.?", re.IGNORECASE)
+_FOOTNOTE_CROSS_REF_PATTERN = re.compile(r"\(n\s*\d+\)\s*\d*")
+
+
+def strip_document_boilerplate(text: str) -> str:
+    """Removes common PDF/OCR document-furniture artifacts that
+    occasionally get captured inside a chunk's own text -- court header
+    lines, "ORDER SHEET" labels, repeated judge-signature blocks,
+    typist-initial signature tags, and (Revision 18, FIX HH) academic
+    footnote-chain noise from thesis/law-review-style source documents.
+    These are page furniture or citation-chain noise from the original
+    document, never substantive legal content -- but because they are
+    literally present in the retrieved chunk text, the LLM has been
+    observed narrating them as if they were part of a case description
+    (e.g. "the case of Rafiq/P.A. ORDER SHEET ... IN THE HIGH COURT OF
+    SINDH, KARACHI"), and the deterministic fallback has been observed
+    echoing footnote chains verbatim since it quotes evidence directly."""
+    cleaned = _COURT_HEADER_PATTERN.sub(" ", text)
+    cleaned = _ORDER_SHEET_PATTERN.sub(" ", cleaned)
+    cleaned = _JUDGE_SIGNATURE_BLOCK_PATTERN.sub(" ", cleaned)
+    cleaned = _TYPIST_INITIALS_PATTERN.sub(" ", cleaned)
+    cleaned = _FOOTNOTE_IBID_PATTERN.sub(" ", cleaned)
+    cleaned = _FOOTNOTE_CROSS_REF_PATTERN.sub(" ", cleaned)
+    cleaned = re.sub(r"\s*\.\s*\.\s*", ". ", cleaned)  # stray double periods left behind
+    cleaned = re.sub(r"[ \t]{2,}", " ", cleaned)
+    return cleaned.strip()
+
+
+def collapse_duplicated_text(text: str, similarity_threshold: float = 0.9) -> str:
+    """If `text` is (near-)exactly the same content repeated twice back-
+    to-back -- a known OCR/text-extraction duplication artifact seen in
+    this corpus -- collapses it to a single occurrence. Compares the
+    first and second halves via difflib.SequenceMatcher; only collapses
+    on a high similarity ratio, so genuinely different content spanning
+    the midpoint is never cut. Leaves short text (too short for the
+    halves to be a meaningful comparison) untouched."""
+    stripped = text.strip()
+    n = len(stripped)
+    if n < 40:
+        return text
+    half = n // 2
+    first_half = re.sub(r"\s+", " ", stripped[:half]).strip().lower()
+    second_half = re.sub(r"\s+", " ", stripped[half:half * 2]).strip().lower()
+    if not first_half or not second_half:
+        return text
+    similarity = difflib.SequenceMatcher(None, first_half, second_half).ratio()
+    if similarity >= similarity_threshold:
+        return stripped[:half].strip()
+    return text
 
 
 # ==================================================================
@@ -464,7 +1110,14 @@ def collect_full_chunk_text(raw_results: list, case_ids: set) -> dict:
     """For each case_id we care about, collect its matched chunks with
     FULL (capped, not 200-char-preview) text, straight from the raw
     Qdrant points. Returns {case_id: [ {chunk_id, score, text}, ... ]},
-    each list sorted by score descending."""
+    each list sorted by score descending.
+
+    Revision 15, FIX R/S/U: text is now cleaned (boilerplate stripped,
+    intra-chunk duplication collapsed) before it is ever stored, and a
+    chunk that ends up too short after cleaning to carry real content is
+    dropped from the candidate pool entirely -- see
+    strip_document_boilerplate(), collapse_duplicated_text(), and
+    MIN_CLEANED_CHUNK_CHARS."""
     by_case: dict[str, list] = {}
     for point in raw_results:
         payload = point.payload or {}
@@ -472,6 +1125,10 @@ def collect_full_chunk_text(raw_results: list, case_ids: set) -> dict:
         if case_id not in case_ids:
             continue
         text = (payload.get("chunk_text", "") or "")[:MAX_CHUNK_CHARS_FOR_LLM]
+        text = strip_document_boilerplate(text)
+        text = collapse_duplicated_text(text)
+        if len(text) < MIN_CLEANED_CHUNK_CHARS:
+            continue
         by_case.setdefault(case_id, []).append({
             "chunk_id": payload.get("chunk_id", ""),
             "score": point.score,
@@ -544,6 +1201,170 @@ def get_existing_similar_cases(driver, case_id: str, limit: int) -> list:
     except Neo4jError as e:
         log.warning(f"Could not read existing SIMILAR_TO edges for {case_id}: {e}")
         return []
+
+
+# ==================================================================
+# HYBRID RETRIEVAL -- GRAPH EXPANSION (read-only, additive)
+# --------------------------------------------------------------------
+# Traverses CITES, SIMILAR_TO, APPLIES, INVOLVES outward from the Qdrant
+# seed cases to find cases that are legally connected but were not
+# necessarily a strong vector match on their own. Each relation type is
+# queried separately (not one big multi-hop query) so a busy shared node
+# (a common law section, a party like "The State") can't blow up into a
+# cartesian-product fan-out -- GRAPH_MAX_SHARED_NODE_DEGREE caps that at
+# the Cypher level, and GRAPH_EXPANSION_LIMIT caps result size per relation.
+# ==================================================================
+def _graph_cocitation_scores(driver, seed_ids: list) -> dict:
+    """Cases that cite at least one of the same precedents as a seed case."""
+    query = """
+    UNWIND $seed_ids AS sid
+    MATCH (seed:Case {case_id: sid})-[:CITES]->(cit:Citation)<-[:CITES]-(other:Case)
+    WHERE other.case_id <> sid
+    WITH other.case_id AS case_id, count(DISTINCT cit) AS strength
+    RETURN case_id, strength
+    ORDER BY strength DESC
+    LIMIT $limit
+    """
+    try:
+        with driver.session() as session:
+            result = session.run(query, seed_ids=seed_ids, limit=GRAPH_EXPANSION_LIMIT)
+            return {r["case_id"]: r["strength"] for r in result}
+    except Neo4jError as e:
+        log.warning(f"Graph expansion (CITES) failed: {e}")
+        return {}
+
+
+def _graph_similar_to_scores(driver, seed_ids: list) -> dict:
+    """Cases already linked by a SIMILAR_TO edge (created by past query runs
+    of qdrant_to_neo4j_similarity.py) to a seed case, in either direction."""
+    query = """
+    UNWIND $seed_ids AS sid
+    MATCH (seed:Case {case_id: sid})-[r:SIMILAR_TO]-(other:Case)
+    WHERE other.case_id <> sid
+    RETURN other.case_id AS case_id, max(r.score) AS strength
+    ORDER BY strength DESC
+    LIMIT $limit
+    """
+    try:
+        with driver.session() as session:
+            result = session.run(query, seed_ids=seed_ids, limit=GRAPH_EXPANSION_LIMIT)
+            return {r["case_id"]: r["strength"] for r in result}
+    except Neo4jError as e:
+        log.warning(f"Graph expansion (SIMILAR_TO) failed: {e}")
+        return {}
+
+
+def _graph_applies_scores(driver, seed_ids: list) -> dict:
+    """Cases that apply the same, non-generic law section as a seed case."""
+    query = """
+    UNWIND $seed_ids AS sid
+    MATCH (seed:Case {case_id: sid})-[:APPLIES]->(sec:LawSection)
+    WITH sid, sec, COUNT { (sec)<-[:APPLIES]-() } AS section_degree
+    WHERE section_degree <= $max_degree
+    MATCH (sec)<-[:APPLIES]-(other:Case)
+    WHERE other.case_id <> sid
+    WITH other.case_id AS case_id, count(DISTINCT sec) AS strength
+    RETURN case_id, strength
+    ORDER BY strength DESC
+    LIMIT $limit
+    """
+    try:
+        with driver.session() as session:
+            result = session.run(
+                query, seed_ids=seed_ids,
+                max_degree=GRAPH_MAX_SHARED_NODE_DEGREE, limit=GRAPH_EXPANSION_LIMIT,
+            )
+            return {r["case_id"]: r["strength"] for r in result}
+    except Neo4jError as e:
+        log.warning(f"Graph expansion (APPLIES) failed: {e}")
+        return {}
+
+
+def _graph_involves_scores(driver, seed_ids: list) -> dict:
+    """Cases that involve the same, non-generic party as a seed case."""
+    query = """
+    UNWIND $seed_ids AS sid
+    MATCH (seed:Case {case_id: sid})-[:INVOLVES]->(p:Party)
+    WITH sid, p, COUNT { (p)<-[:INVOLVES]-() } AS party_degree
+    WHERE party_degree <= $max_degree
+    MATCH (p)<-[:INVOLVES]-(other:Case)
+    WHERE other.case_id <> sid
+    WITH other.case_id AS case_id, count(DISTINCT p) AS strength
+    RETURN case_id, strength
+    ORDER BY strength DESC
+    LIMIT $limit
+    """
+    try:
+        with driver.session() as session:
+            result = session.run(
+                query, seed_ids=seed_ids,
+                max_degree=GRAPH_MAX_SHARED_NODE_DEGREE, limit=GRAPH_EXPANSION_LIMIT,
+            )
+            return {r["case_id"]: r["strength"] for r in result}
+    except Neo4jError as e:
+        log.warning(f"Graph expansion (INVOLVES) failed: {e}")
+        return {}
+
+
+def compute_graph_relevance(driver, seed_ids: list) -> dict:
+    """Combines all four relation types into one {case_id: score in 0..1}
+    map. Raw co-occurrence counts (CITES/APPLIES/INVOLVES) are squashed
+    into 0..1 with a saturating min(1, strength / N); SIMILAR_TO's r.score
+    is already on that scale and used as-is. Never raises -- any relation
+    query that fails just contributes nothing, so a Neo4j hiccup degrades
+    gracefully to "no graph boost" rather than breaking retrieval."""
+    if not seed_ids:
+        return {}
+
+    cocitation = _graph_cocitation_scores(driver, seed_ids)
+    similar = _graph_similar_to_scores(driver, seed_ids)
+    applies = _graph_applies_scores(driver, seed_ids)
+    involves = _graph_involves_scores(driver, seed_ids)
+
+    combined: dict[str, float] = {}
+    for case_id, strength in cocitation.items():
+        combined[case_id] = combined.get(case_id, 0.0) + min(1.0, strength / 3) * GRAPH_WEIGHT_CITES
+    for case_id, score in similar.items():
+        combined[case_id] = combined.get(case_id, 0.0) + (score or 0.0) * GRAPH_WEIGHT_SIMILAR_TO
+    for case_id, strength in applies.items():
+        combined[case_id] = combined.get(case_id, 0.0) + min(1.0, strength / 3) * GRAPH_WEIGHT_APPLIES
+    for case_id, strength in involves.items():
+        combined[case_id] = combined.get(case_id, 0.0) + min(1.0, strength / 2) * GRAPH_WEIGHT_INVOLVES
+
+    return {case_id: min(1.0, score) for case_id, score in combined.items()}
+
+
+def fetch_case_chunks_from_neo4j(driver, case_id: str, limit: int) -> list:
+    """Fallback evidence text for a case that graph expansion pulled in but
+    that Qdrant never returned a chunk hit for (so collect_full_chunk_text()
+    has nothing for it). Reads the case's own opening chunks straight from
+    the Chunk nodes written by neo4j_import.py. Returns the same shape as
+    collect_full_chunk_text()'s per-case list: [{chunk_id, score, text}, ...]
+    -- 'score' is filled in by the caller (this function doesn't know the
+    case's graph-relevance score)."""
+    query = """
+    MATCH (c:Case {case_id: $case_id})-[:HAS_CHUNK]->(ch:Chunk)
+    RETURN ch.chunk_id AS chunk_id, ch.chunk_index AS chunk_index, ch.text AS text
+    ORDER BY ch.chunk_index ASC
+    LIMIT $limit
+    """
+    try:
+        with driver.session() as session:
+            result = session.run(query, case_id=case_id, limit=limit)
+            rows = [{"chunk_id": r["chunk_id"], "text": r["text"] or ""} for r in result]
+    except Neo4jError as e:
+        log.warning(f"Could not read fallback chunks for {case_id}: {e}")
+        return []
+
+    chunks = []
+    for row in rows:
+        text = row["text"][:MAX_CHUNK_CHARS_FOR_LLM]
+        text = strip_document_boilerplate(text)
+        text = collapse_duplicated_text(text)
+        if len(text) < MIN_CLEANED_CHUNK_CHARS:
+            continue
+        chunks.append({"chunk_id": row["chunk_id"], "score": 0.0, "text": text})
+    return chunks
 
 
 # ==================================================================
@@ -633,10 +1454,57 @@ def retrieve_evidence(legal_query: str, central_identifier: Optional[str] = None
             central_case = found_cases[0]
             auto_selected = True
 
-        related_cases = [c for c in found_cases if c.case_id != central_case.case_id][: TOP_N_CASES_FOR_ANSWER - 1]
+        # --- Hybrid retrieval: graph-expanded evidence + re-ranking --------
+        # Seeds = central case + the next-best Qdrant cases. Traverse
+        # CITES/SIMILAR_TO/APPLIES/INVOLVES outward from those seeds, then
+        # re-rank the UNION of "Qdrant found this" and "graph connects to
+        # this" by a blended vector+graph score, instead of ranking by raw
+        # Qdrant score alone. A case the graph strongly connects to the
+        # seeds can now become "related" evidence even if Qdrant itself
+        # ranked it modestly.
+        seed_ids = [central_case.case_id] + [
+            c.case_id for c in found_cases[:GRAPH_EXPANSION_SEED_COUNT]
+            if c.case_id != central_case.case_id
+        ]
+        graph_relevance = compute_graph_relevance(neo4j_driver, seed_ids)
+
+        found_by_id = {c.case_id: c for c in found_cases}
+        candidate_ids = (set(found_by_id) | set(graph_relevance)) - {central_case.case_id}
+
+        def _combined_rank_score(cid: str) -> float:
+            vector_component = found_by_id[cid].score if cid in found_by_id else 0.0
+            graph_component = graph_relevance.get(cid, 0.0)
+            return VECTOR_RERANK_WEIGHT * vector_component + GRAPH_RERANK_WEIGHT * graph_component
+
+        ranked_candidate_ids = sorted(candidate_ids, key=_combined_rank_score, reverse=True)
+        ranked_candidate_ids = ranked_candidate_ids[: TOP_N_CASES_FOR_ANSWER - 1]
+
+        related_cases = [
+            found_by_id[cid] if cid in found_by_id
+            else qn.CaseHit(case_id=cid, score=0.0, matched_chunk_id="", matched_chunk_score=0.0)
+            for cid in ranked_candidate_ids
+        ]
 
         evidence_case_ids = {central_case.case_id} | {c.case_id for c in related_cases}
         chunk_text_by_case = collect_full_chunk_text(raw_results, evidence_case_ids)
+
+        # A case can enter evidence_case_ids purely through graph relevance
+        # (no Qdrant chunk hit at all) -- give it a text fallback straight
+        # from Neo4j's own Chunk nodes so it isn't dead weight in the
+        # evidence pool. Scored deliberately BELOW MIN_EVIDENCE_SCORE: this
+        # is graph-verified relatedness, not embedding similarity, so it
+        # should supplement thin vector evidence via the existing backfill
+        # floor rather than outrank a genuinely strong vector match.
+        for cid in evidence_case_ids:
+            if chunk_text_by_case.get(cid):
+                continue
+            fallback_chunks = fetch_case_chunks_from_neo4j(neo4j_driver, cid, MAX_CHUNKS_PER_CASE)
+            if not fallback_chunks:
+                continue
+            pseudo_score = min(MIN_EVIDENCE_SCORE - 0.01, 0.3 + 0.3 * graph_relevance.get(cid, 0.0))
+            for ch in fallback_chunks:
+                ch["score"] = pseudo_score
+            chunk_text_by_case[cid] = fallback_chunks
 
         graph_metadata = {cid: get_case_graph_metadata(neo4j_driver, cid) for cid in evidence_case_ids}
         existing_similar = get_existing_similar_cases(neo4j_driver, central_case.case_id, MAX_GRAPH_NEIGHBORS)
@@ -681,6 +1549,37 @@ class EvidenceItem:
     text: str            # only ever shown to the LLM, never to the end user
 
 
+def _dedupe_similar_candidates(pairs: list) -> list:
+    """Revision 15, FIX S: drops a later (case, chunk) candidate whose
+    text is a near-duplicate of an already-kept candidate's text,
+    regardless of which case or chunk_id it came from. Overlapping chunk
+    windows over the same source page can capture almost the same
+    paragraph twice -- sending both to the LLM wastes an evidence slot,
+    and in the deterministic fallback previously produced the same
+    paragraph twice inside one combined snippet. `pairs` MUST already be
+    in priority order (score descending) -- the FIRST occurrence of a
+    duplicate is always the one kept, so this never demotes a
+    higher-scoring chunk in favour of a weaker one."""
+    kept: list = []
+    kept_norms: list = []
+    for case, ch in pairs:
+        norm = re.sub(r"\s+", " ", ch["text"]).strip().lower()[:300]
+        is_dupe = False
+        for kn in kept_norms:
+            if not norm or not kn:
+                continue
+            if norm in kn or kn in norm:
+                is_dupe = True
+                break
+            if difflib.SequenceMatcher(None, norm, kn).ratio() > 0.85:
+                is_dupe = True
+                break
+        if not is_dupe:
+            kept.append((case, ch))
+            kept_norms.append(norm)
+    return kept
+
+
 def build_evidence_items(evidence: dict) -> list:
     central = evidence["central_case"]
     related = evidence["related_cases"]
@@ -719,6 +1618,12 @@ def build_evidence_items(evidence: dict) -> list:
 
     candidates = strong_candidates
     candidates.sort(key=lambda pair: pair[1]["score"], reverse=True)
+
+    # --- Revision 15, FIX S: drop near-duplicate chunks (overlapping
+    # chunk windows can capture almost the same paragraph twice) before
+    # slots are handed out, so a duplicate never occupies an evidence
+    # slot that a genuinely different chunk could have used. -----------
+    candidates = _dedupe_similar_candidates(candidates)
 
     selected = []
     central_included = False
@@ -887,7 +1792,19 @@ FOREIGN_LAW_PATTERN = re.compile(
     r"Federal Rules of (?:Criminal|Civil) Procedure|"
     r"English Law|Indian Penal Code|IPC \d|"
     r"Common Law of England|"
-    r"Miranda (?:rights|warning)"
+    r"Miranda (?:rights|warning)|"
+    # --- Revision 18, FIX FF: foreign jurisdiction / foreign court
+    # mentions. Observed live: the model cited a U.S. case ("Lilly v.
+    # Virginia") and an Indian case ("Kartar Singh v. State of Punjab"),
+    # attributing each to "the court of the United States" / "the court
+    # of India" -- neither of which is a denylisted STATUTE name, so the
+    # original pattern above (statute/code names only) never caught it.
+    # This is the same class of problem (off-corpus legal authority) as
+    # the rest of this denylist, just a jurisdiction mention rather than
+    # a statute name. -----------------------------------------------
+    r"Supreme Court of India|Indian Supreme Court|court of India|Indian courts?|"
+    r"court of the United States|U\.?S\.? Supreme Court|United States Supreme Court|"
+    r"House of Lords|English courts?|court of England"
     r")\b",
     re.IGNORECASE,
 )
@@ -978,9 +1895,9 @@ OVERASSERTION_PATTERN = re.compile(
 
 
 def check_overassertion(application_text: str) -> bool:
-    """True if the rendered APPLICATION TO THE QUERY section contains
-    conclusive ('will succeed', 'is entitled to', ...) rather than
-    conditional language about the user's own situation."""
+    """True if the rendered APPLICATION TO THE QUERY (or ANSWER) section
+    contains conclusive ('will succeed', 'is entitled to', ...) rather
+    than conditional language about the user's own situation."""
     if not application_text:
         return False
     return bool(OVERASSERTION_PATTERN.search(application_text))
@@ -1006,6 +1923,214 @@ def strip_leaked_metadata(llm_answer: str) -> str:
     cleaned = "\n".join(kept_lines)
     cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
     return cleaned.strip()
+
+
+# ==================================================================
+# Revision 16, FIX W -- MARKDOWN ARTIFACT STRIPPING
+# --------------------------------------------------------------------
+# The model occasionally reaches for markdown emphasis ("**bold**") or
+# heading hashes even though this file's output is always plain text.
+# This file never intentionally emits "*" anywhere (bullets are always
+# rendered with "- ", including in the deterministic fallback path), so
+# it is always safe to strip. Applied on the RAW model output, before
+# section parsing, so it can never surface in any section.
+# ==================================================================
+_MARKDOWN_HEADING_PATTERN = re.compile(r"(?m)^[ \t]*#{1,6}[ \t]*")
+
+
+def strip_markdown_artifacts(text: str) -> str:
+    """Removes stray markdown decoration (bold/italic asterisks and
+    underscores, leading heading hashes) that the model sometimes emits
+    even though this file's output is always plain text. Never touches
+    the "- " bullet character used deliberately elsewhere in this file."""
+    cleaned = text.replace("**", "").replace("__", "")
+    cleaned = _MARKDOWN_HEADING_PATTERN.sub("", cleaned)
+    cleaned = cleaned.replace("*", "")
+    cleaned = re.sub(r"[ \t]{2,}", " ", cleaned)
+    cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
+    return cleaned.strip()
+
+
+# ==================================================================
+# Revision 16, FIX Y -- COURT-NAME MENTION NEUTRALIZATION
+# --------------------------------------------------------------------
+# The base prompt already instructs the model never to state or imply a
+# court name (it doesn't have this information -- only Python does, from
+# the graph-verified metadata). A 3B model treats a stock narrative
+# phrase like "the Honourable Supreme Court has observed" as filler
+# rather than a factual claim it was told not to make, so the prompt
+# instruction alone isn't reliable. This is a structural backstop: it
+# runs on the model's RAW prose, BEFORE convert_citations_to_natural()
+# attaches Python's own verified citation text -- so it can never touch
+# the legitimate "Lahore High Court" (etc.) that Python itself appends
+# afterward, only the model's own, unverifiable court-name mentions.
+# ==================================================================
+COURT_NAME_MENTION_PATTERN = re.compile(
+    r"\b(?:the\s+)?(?:Hon(?:'|\u2019)?ble\s+|Honourable\s+)?"
+    r"(?:Supreme Court|High Court|Sessions Court|this Court|the Court)"
+    r"(?:\s+of\s+Pakistan)?\b",
+    re.IGNORECASE,
+)
+
+
+def neutralize_court_name_mentions(text: str) -> str:
+    """Replaces the model's own court-name mentions (which it was told
+    not to make, since it has no verified court information) with the
+    neutral phrase 'the court' -- matching the prompt's own suggested
+    generic phrasing ('Pakistani courts have held that...'). This
+    prevents the visible contradiction of the model naming one court in
+    its own prose while Python's graph-verified citation for that exact
+    claim names a different one."""
+    if not text:
+        return text
+    return COURT_NAME_MENTION_PATTERN.sub("the court", text)
+
+
+# ==================================================================
+# Revision 17, FIX BB -- CASE NAME + REPORTER CITATION LEAK NEUTRALIZATION
+# --------------------------------------------------------------------
+# Python's own natural_citation() NEVER produces a law-reporter-style
+# citation (PLD, SCMR, MLD, YLR, CLC, PLJ, PCrLJ, CLD) -- it only ever
+# produces graph-sourced forms like "W.P. No.2571 of 2021, Lahore High
+# Court, 2022". So a reporter-style citation anywhere in the rendered
+# answer is guaranteed to be the model's OWN prose, not something Python
+# attached -- most likely a memorized precedent from training data, the
+# same class of problem Revision 11's hallucination denylist targets, but
+# unbounded in variety (a fixed phrase list can't cover it; the citation
+# FORMAT itself is the reliable signal here, not any specific phrase).
+# Same placement/ordering rule as neutralize_court_name_mentions(): this
+# runs on the model's RAW prose, BEFORE convert_citations_to_natural()
+# attaches Python's own verified citations, so it can never touch
+# Python's own output -- only the model's own, unverifiable mentions.
+# ==================================================================
+_REPORTER_CODES = r"PLD|SCMR|MLD|YLR|CLC|PLJ|PCrLJ|CLD"
+# --------------------------------------------------------------------
+# Revision 19, FIX II: the separator between party names must accept the
+# full word "versus", not just abbreviated "v."/"vs." forms. Observed
+# live: a real case name -- "Mst. AKHTAR SULTANA versus Major Retd.
+# MUZAFFAR KHAN MALIK ... (PLD 2021 SC 715)" -- leaked through completely
+# untouched, because the separator pattern only ever matched "v", "v.",
+# "vs", "vs." and structurally could not match "versus" at all (a "v"
+# followed immediately by "ersus" fails the mandatory trailing whitespace
+# check right after the optional "s?.?", so the match doesn't even
+# partially fire). Pakistani judgments write this separator both ways.
+# --------------------------------------------------------------------
+_CASE_SEPARATOR = r"\s+(?:vs?\.?|versus)\s+"
+# --------------------------------------------------------------------
+# Revision 19, FIX JJ: token cap raised 9 -> 15. Observed live: a party
+# name with a long trailing clause ("Major Retd. MUZAFFAR KHAN MALIK
+# through his legal heirs and others") exceeded the old 9-token cap, so
+# CASE_NAME_BARE_PATTERN's party2 could never fully consume it and the
+# match failed outright (rather than partially matching, since the
+# pattern requires the whole party2 span up to the separator/citation
+# anchor). Raising the cap is safe: it only affects how much of a
+# genuine case name can be captured -- it can never cause a FALSE match
+# on unrelated text, since the mandatory " v./vs./versus " separator (or,
+# for the citation pattern, the mandatory trailing citation) still has to
+# appear for anything to match at all.
+# --------------------------------------------------------------------
+# NOTE: party names are almost always multiple words ("Allah Din", "Waqar
+# Zaheer", "Raja Khurram Ali Khan") -- the character class here MUST
+# include whitespace, or genuine multi-word names never match at all.
+_CASE_NAME_PART = r"[A-Z][\w.\u2019'\-]*(?:\s+[\w.\u2019'\-]+){0,14}"
+# --------------------------------------------------------------------
+# Extended variant, used ONLY by CASE_NAME_CITATION_PATTERN below: some
+# party names have their own internal comma before the citation (e.g.
+# "Station House Officer, Okara Cantt. and others (PLD 2007 SC 539)").
+# Safe to allow one extra comma-continuation clause here specifically
+# because this pattern is anchored by a MANDATORY trailing citation, so
+# the continuation can't run away into an unrelated later clause the way
+# it could on the bare (unanchored) pattern -- see CASE_NAME_BARE_PATTERN
+# below, which deliberately stays on the tighter, non-extended variant.
+# --------------------------------------------------------------------
+_CASE_NAME_PART_EXT = _CASE_NAME_PART + r"(?:,\s+[\w.\u2019'\-]+(?:\s+[\w.\u2019'\-]+){0,5})?"
+CASE_NAME_CITATION_PATTERN = re.compile(
+    r"(?:\bIn\s+(?:the\s+case\s+of\s+)?)?"
+    + _CASE_NAME_PART_EXT
+    + _CASE_SEPARATOR
+    + _CASE_NAME_PART_EXT +
+    r"\s*[\(,]\s*"
+    r"(?:\d{4}\s+(?:" + _REPORTER_CODES + r")\s+\d+"
+    r"|(?:" + _REPORTER_CODES + r")\s+\d{4}[^)\n.]{0,25})"
+    r"\)?",
+    re.IGNORECASE,
+)
+# --------------------------------------------------------------------
+# Revision 18, FIX DD: CASE_NAME_CITATION_PATTERN above only fires when a
+# Pakistani-reporter citation is attached. Observed live: the model named
+# foreign cases with NO citation attached at all -- "Lilly v. Virginia",
+# "Kartar Singh v. State of Punjab" -- which the citation-anchored pattern
+# structurally cannot catch (there's no PLD/SCMR-style citation for it to
+# anchor on). The base prompt already forbids naming ANY case party, with
+# or without a citation (see build_prompt()'s "WHAT NOT TO DO" list), so
+# it is always safe to neutralize a bare "Party v. Party" mention too.
+# This pattern is applied SECOND, only to whatever CASE_NAME_CITATION_
+# PATTERN's substitution left behind, so a name+citation pair is still
+# replaced as one unit by the first pass; this only mops up bare mentions.
+# --------------------------------------------------------------------
+CASE_NAME_BARE_PATTERN = re.compile(
+    r"(?:\bIn\s+(?:the\s+case\s+of\s+)?)?"
+    + _CASE_NAME_PART
+    + _CASE_SEPARATOR
+    + _CASE_NAME_PART,
+    re.IGNORECASE,
+)
+_DUPLICATE_PRECEDENT_PHRASE_PATTERN = re.compile(
+    r"\ba reported precedent(?:\s*,\s*|\s+and\s+)a reported precedent\b",
+    re.IGNORECASE,
+)
+_DUPLICATE_CITED_CASE_PHRASE_PATTERN = re.compile(
+    r"\ba cited case(?:\s*,\s*|\s+and\s+)a cited case\b",
+    re.IGNORECASE,
+)
+# --------------------------------------------------------------------
+# Revision 19, FIX KK: when a neutralized mention lands mid-paragraph
+# right after a closing parenthesis or digit with no sentence-ending
+# punctuation between it and the previous clause, the result reads as a
+# run-on ("...prohibited under section 439(a) a reported precedent, it
+# was observed..."). This is a narrow, safe heuristic: a closing paren or
+# digit immediately followed by "a reported precedent"/"a cited case" is
+# very unlikely to be a genuine grammatical continuation (contrast with
+# "as held in a reported precedent...", which is fine and untouched,
+# since the preceding word there is a letter, not ")" or a digit).
+# --------------------------------------------------------------------
+_LIKELY_MISSING_SENTENCE_BREAK_PATTERN = re.compile(
+    r"(?<=[)\d])\s+(?=(?:a reported precedent|a cited case)\b)"
+)
+
+
+def neutralize_case_citation_mentions(text: str) -> tuple[str, int]:
+    """Replaces a model-stated case mention with a neutral phrase, since
+    this is never something Python itself produces -- it can only be the
+    model's own, unverified prose. Two passes: a 'Party v./vs./versus
+    Party (REPORTER YEAR ...)' mention (with a Pakistani reporter
+    citation attached) becomes 'a reported precedent'; a bare 'Party
+    v./vs./versus Party' mention with NO citation attached (Revision 18,
+    FIX DD -- catches foreign cases like 'Lilly v. Virginia' that never
+    carry a Pakistani citation) becomes 'a cited case'. Collapses an
+    adjacent repeated phrase (from multi-case sentences), and inserts a
+    sentence break where a neutralized mention would otherwise read as a
+    run-on (Revision 19, FIX KK). Returns (new_text, count_neutralized)."""
+    if not text:
+        return text, 0
+    count = 0
+
+    def _replace_cited(match: re.Match) -> str:
+        nonlocal count
+        count += 1
+        return "a reported precedent"
+
+    def _replace_bare(match: re.Match) -> str:
+        nonlocal count
+        count += 1
+        return "a cited case"
+
+    new_text = CASE_NAME_CITATION_PATTERN.sub(_replace_cited, text)
+    new_text = CASE_NAME_BARE_PATTERN.sub(_replace_bare, new_text)
+    new_text = _DUPLICATE_PRECEDENT_PHRASE_PATTERN.sub("reported precedents", new_text)
+    new_text = _DUPLICATE_CITED_CASE_PHRASE_PATTERN.sub("cited cases", new_text)
+    new_text = _LIKELY_MISSING_SENTENCE_BREAK_PATTERN.sub(". ", new_text)
+    return new_text, count
 
 
 # ==================================================================
@@ -1099,9 +2224,20 @@ def is_valid_year(value) -> bool:
 # "(a retrieved <Court> case)" text instead, exactly as if that field
 # had been empty.
 # --------------------------------------------------------------------
+# --------------------------------------------------------------------
+# Revision 18, FIX EE: added "against" and "them". Observed live: the
+# fragment "criminal case against them. Respondent No.4" leaked into
+# SOURCES CONSULTED as if it were a real citation -- it contains a digit
+# ("No.4") and one denylisted word ("them" was not yet on the list, and
+# "against" was not either), so it only tripped the "the" test path
+# borderline and slipped under the 2-word minimum. Verified these two
+# additions don't create false positives against real case-number formats
+# (e.g. "W.P. No.2050 of 2024" contains neither word).
+# --------------------------------------------------------------------
 _PROSE_FUNCTION_WORDS = re.compile(
     r"\b(?:the|and|was|is|are|were|not|that|which|has|have|had|been|this|"
-    r"these|those|from|with|for|will|shall|would|could|should)\b",
+    r"these|those|from|with|for|will|shall|would|could|should|against|them|"
+    r"others)\b",
     re.IGNORECASE,
 )
 
@@ -1228,7 +2364,26 @@ def convert_citations_to_natural(text: str, evidence_by_id: dict, valid_ids: set
                 citations.append(cite)
         if not citations:
             return ""
-        return " " + " ".join(citations)
+        # --------------------------------------------------------------
+        # Revision 18, FIX GG: when ONE [Ex][Ex] group (i.e. the model
+        # tagged one claim with multiple evidence items) resolves to
+        # multiple citations, join them inside a SINGLE parenthesis with
+        # "; " rather than emitting them as separate adjacent parenthesized
+        # citations. Observed live: "...(Criminal Appeal No. 127136 of
+        # 2017, Lahore High Court, 2019) (Crl. Revision No.01/2020/BWP,
+        # Lahore High Court, 2020)" reads as two disconnected citations
+        # bumping into each other; "(Criminal Appeal No. 127136 of 2017,
+        # Lahore High Court, 2019; Crl. Revision No.01/2020/BWP, Lahore
+        # High Court, 2020)" reads as one professionally-formatted
+        # multi-source citation. This only combines citations that came
+        # from the SAME bracket group (i.e. the model's own tagging
+        # already indicated they support the same claim) -- it never
+        # merges two separate, unrelated citation groups elsewhere in the
+        # sentence. ------------------------------------------------------
+        if len(citations) == 1:
+            return " " + citations[0]
+        inner_parts = [c.strip("()") for c in citations]
+        return " (" + "; ".join(inner_parts) + ")"
 
     new_text = CITATION_GROUP_PATTERN.sub(_replace_group, text)
     new_text = re.sub(r"\s+([.,;:])", r"\1", new_text)
@@ -1271,6 +2426,17 @@ def convert_citations_to_natural(text: str, evidence_by_id: dict, valid_ids: set
 # your question) per point, so the "case fact vs. principle vs. relevance
 # to the user" distinction is structural in the model's own output, not
 # just implied by prose instructions.
+#
+# Revision 14, FIX P/Q: two more standing (base-prompt) instructions --
+# don't overstate legal status (e.g. "constitutional right") beyond what
+# the evidence itself characterizes, and don't copy broken/OCR-corrupted
+# evidence text verbatim, paraphrase it instead. Both apply from attempt
+# 1 onward, same as every other base-prompt rule.
+#
+# Revision 16, FIX Z: added a short worked example directly beneath the
+# tagging instructions, since a small local model following a long
+# instruction list benefits more from one concrete example than from an
+# additional paragraph of rules.
 # ==================================================================
 def build_prompt(
     legal_query: str,
@@ -1318,14 +2484,44 @@ def build_prompt(
           refer to, an evidence number that is not in the VALID EVIDENCE
           TAGS list above (for example, if the highest valid tag is [E5],
           never write or imply "[E6]" or "E6" anywhere).
+
+        EXAMPLE OF CORRECT TAGGING (topic-neutral -- your own answer must be
+        about the user's actual question, not this example):
+          "Under Pakistani law, an application in this area is generally
+          made to the court of first instance [E1]. Courts have treated
+          the applicant's conduct during the underlying proceedings as a
+          relevant factor in deciding such applications [E2][E4]."
+        Notice what this example does NOT contain: no case name, no court
+        name, no year, no section/citation format, no plain-text "E1" or
+        "E2" outside square brackets. Your own sentences should look like
+        this in structure -- plain prose ending in one or more bracketed
+        tags, nothing else identifying.
         - Never invent any other citation format -- do not write
           "(Source: ...)", a case number, a section number, a court name, or
           a year anywhere; you do not have this information.
         - Use ONLY the evidence text given. Do not add outside knowledge of
           Pakistani law, statutes, or legal principles that isn't present in
           the evidence.
+        - Paraphrase the substance of the evidence in your own clear,
+          concise words rather than copying evidence text verbatim --
+          especially where a passage looks truncated, garbled, or
+          OCR-corrupted (broken sentences, stray characters, cut-off
+          words). Never reproduce a broken or incomplete sentence as-is;
+          state the underlying point cleanly instead.
+        - Do not characterize something as a "constitutional right,"
+          "fundamental right," or similarly strong legal status unless the
+          evidence text itself explicitly uses that characterization. If
+          the evidence only states a principle or rule without labeling it
+          that way, describe it as what the evidence actually says (a
+          principle, a rule, a requirement) rather than upgrading its
+          legal status.
+        - Write in plain text only. Do not use markdown formatting of any
+          kind -- no "**bold**", no "*italics*", no "#" headings, no
+          bullet asterisks. Section headings and plain prose only.
 
         CASE FACTS VS. THE USER'S HYPOTHETICAL -- DO NOT MIX THESE:
+        - This rule applies to EVERY section of your answer, including
+          ANSWER, not only RELEVANT CASE LAW.
         - Evidence items describe what happened in a SPECIFIC retrieved
           case (its facts, its parties, what that court decided on those
           facts). The user's query describes a DIFFERENT, hypothetical
@@ -1393,7 +2589,15 @@ def build_prompt(
         WHAT NOT TO DO:
         - Never state or imply a specific case number, citation, court name,
           judge name, section number, or year -- you don't have this
-          information.
+          information. This includes narrative phrases like "the
+          Honourable Supreme Court has observed" or "this Court held" --
+          you do not know which court decided any retrieved case, so never
+          name one, even in passing.
+        - Never name specific case parties either (e.g. "X v. Y" or "in the
+          case of X versus Y"), even without a reporter citation attached.
+          You do not know the actual parties to any retrieved case -- only
+          the anonymous evidence text. Refer to a case only as "a retrieved
+          case" or "one of the retrieved judgments," never by a party name.
         - Never state a legal principle, holding, or rule -- however
           well-known or standard it may be -- unless the evidence items
           given to you actually say it. You may already know common legal
@@ -1430,14 +2634,26 @@ def build_prompt(
           by the user's query.
         - ANSWER: the most important section. Directly and concisely answer
           the user's question in plain professional language, grounded in
-          the cited evidence.
+          the cited evidence. State the general legal position the
+          evidence establishes -- do NOT declare that "the applicant,"
+          "the petitioner," or any other party from a retrieved case is
+          entitled to, or will receive, a specific outcome, and do not
+          present a retrieved case's own specific outcome as if it were
+          the answer to the user's hypothetical question. Use general,
+          principle-level phrasing instead (e.g. "Pakistani courts have
+          held that bail is generally treated as..." rather than "the
+          applicant is entitled to bail"). Do NOT place a Held:/Principle:/
+          Relevance to your question: structure here -- that structure
+          belongs only in APPLICATION TO THE QUERY, further below.
         - RELEVANT LEGAL PRINCIPLES: explain, in your own words, the legal
           principles the evidence establishes that bear on this issue, each
           tagged.
         - RELEVANT CASE LAW: explain what the retrieved judgments actually
           say or hold, each point tagged. Do not name or describe the cases
           yourself -- Python will attach the verified citation automatically
-          wherever you place a valid tag.
+          wherever you place a valid tag. Do NOT place a Held:/Principle:/
+          Relevance to your question: structure here either -- again, that
+          belongs only in APPLICATION TO THE QUERY.
         - APPLICATION TO THE QUERY: for each point you raise here, write
           exactly three labeled parts, each starting on its own line:
             "Held: " -- one sentence, ONLY what the retrieved case actually
@@ -1493,6 +2709,8 @@ def build_prompt(
           loosely on-topic rather than omitting tags entirely -- omitting
           tags is worse than an imperfect tag, because an answer with zero
           tags cannot be shown to the user at all and will be discarded.
+        - Re-read the EXAMPLE OF CORRECT TAGGING above and match that exact
+          shape: plain prose ending in one or more bracketed tags.
         """)
         else:
             # Revision 6/11 -- the model inserted a flagged term/phrase
@@ -1541,10 +2759,11 @@ def build_prompt(
         "{INSUFFICIENT_EVIDENCE_TEXT}" for genuine gaps only. Keep case-
         specific facts and general legal principles clearly separated per
         the CASE FACTS VS. THE USER'S HYPOTHETICAL rule above, use the
-        Held / Principle / Relevance to your question structure for
+        Held / Principle / Relevance to your question structure ONLY in
         APPLICATION TO THE QUERY, and only use the exact bracketed tags
         listed above -- never a bare or invented evidence number, and never
-        a non-Pakistani law name that isn't verbatim in the evidence.
+        a non-Pakistani law name or court name that isn't verbatim in the
+        evidence.
     """)
 
     return system_instructions + "\n" + user_content
@@ -1649,6 +2868,19 @@ def _default_legal_issue(legal_query: str) -> str:
     return f"This research question concerns: {legal_query.strip()}"
 
 
+def _has_held_principle_relevance(txt: str) -> bool:
+    """True if `txt` contains all three of the required APPLICATION TO THE
+    QUERY labels (Held:/Principle:/Relevance to your question:). Used by
+    both the RELEVANT CASE LAW check (Revision 12, FIX M) and the ANSWER
+    check (Revision 16, FIX X) to detect the same misplaced-structure
+    pattern regardless of which section the model filed it under."""
+    return bool(
+        re.search(r"\bHeld:\s", txt, re.IGNORECASE)
+        and re.search(r"\bPrinciple:\s", txt, re.IGNORECASE)
+        and re.search(r"\bRelevance to your question:\s", txt, re.IGNORECASE)
+    )
+
+
 def build_user_facing_answer(legal_query: str, evidence: dict, llm_answer_raw: str):
     """Returns (clean_answer_text, debug_info). Converts every valid [Ex]
     citation into natural, verified inline text, drops invalid/unknown
@@ -1667,7 +2899,13 @@ def build_user_facing_answer(legal_query: str, evidence: dict, llm_answer_raw: s
     Revision 6, FIX C: also runs check_overassertion() on the rendered
     APPLICATION TO THE QUERY section and, if triggered, appends a
     clarifying note to LIMITATIONS (same mechanism already used for
-    invalid_tags) rather than rewriting the model's own prose."""
+    invalid_tags) rather than rewriting the model's own prose.
+
+    Revision 16: also strips stray markdown artifacts (FIX W), neutralizes
+    the model's own court-name mentions (FIX Y), extends the misplaced-
+    Held/Principle/Relevance relocation heuristic to also check ANSWER
+    (FIX X), and flags an untagged RELEVANT LEGAL PRINCIPLES section
+    (FIX AA)."""
     evidence_items = build_evidence_items(evidence)
     evidence_by_id = {it.eid: it for it in evidence_items}
     valid_ids = set(evidence_by_id)
@@ -1675,12 +2913,24 @@ def build_user_facing_answer(legal_query: str, evidence: dict, llm_answer_raw: s
     meta_cache = build_meta_cache(evidence)
 
     cleaned_raw = strip_leaked_metadata(llm_answer_raw)
+    # --- Revision 16, FIX W: strip stray markdown decoration before any
+    # further processing, so it can never surface in any section. -------
+    cleaned_raw = strip_markdown_artifacts(cleaned_raw)
+    # --- Revision 16, FIX Y: neutralize the model's own court-name
+    # mentions BEFORE citation conversion, so this never touches the
+    # legitimate court name Python itself appends via natural_citation()
+    # further below -- only the model's own, unverifiable prose. --------
+    cleaned_raw = neutralize_court_name_mentions(cleaned_raw)
+    # --- Revision 17, FIX BB: same placement/reasoning as the court-name
+    # backstop above -- must run before citation conversion so it only
+    # ever touches the model's own unverified prose. ---------------------
+    cleaned_raw, case_citation_leak_count = neutralize_case_citation_mentions(cleaned_raw)
     cleaned_raw, multi_tag_count = normalize_multi_tag_brackets(cleaned_raw)
     cleaned_raw, bare_tag_count = normalize_bare_evidence_mentions(cleaned_raw)
     sections = parse_llm_sections(cleaned_raw)
     if not sections:
-        # Model didn't follow the structure -- fall back gracefully rather
-        # than showing nothing or raising an error.
+        # Model didn't follow the structure at all -- fall back gracefully
+        # rather than showing nothing or raising an error.
         sections = {"ANSWER": cleaned_raw}
 
     # --------------------------------------------------------------------
@@ -1692,26 +2942,32 @@ def build_user_facing_answer(legal_query: str, evidence: dict, llm_answer_raw: s
     # insufficiency sentence. Detected by the presence of all three
     # labels together in RELEVANT CASE LAW's raw content while
     # APPLICATION TO THE QUERY's raw content is empty or that sentence.
-    # This operates on RAW (pre-citation-conversion) section text, moving
-    # whole raw text between sections, so citation conversion below still
-    # runs once per (now-corrected) section exactly as normal.
+    #
+    # Revision 16, FIX X: the same misplacement was observed under ANSWER
+    # in a different run. Both candidates are checked here, RELEVANT CASE
+    # LAW first (to preserve exactly the original Revision 12 behaviour
+    # wherever it already worked), then ANSWER only if RELEVANT CASE LAW
+    # didn't match. This operates on RAW (pre-citation-conversion) section
+    # text, moving whole raw text between sections, so citation conversion
+    # below still runs once per (now-corrected) section exactly as normal.
     # --------------------------------------------------------------------
     raw_case_law = sections.get("RELEVANT CASE LAW", "")
+    raw_answer_section = sections.get("ANSWER", "")
     raw_application = sections.get("APPLICATION TO THE QUERY", "")
     _application_is_empty = (
         not raw_application.strip()
         or raw_application.strip().rstrip(".").lower() == INSUFFICIENT_EVIDENCE_TEXT.rstrip(".").lower()
     )
-    if (
-        _application_is_empty
-        and re.search(r"\bHeld:\s", raw_case_law, re.IGNORECASE)
-        and re.search(r"\bPrinciple:\s", raw_case_law, re.IGNORECASE)
-        and re.search(r"\bRelevance to your question:\s", raw_case_law, re.IGNORECASE)
-    ):
+    if _application_is_empty and _has_held_principle_relevance(raw_case_law):
         split_at = re.search(r"(?=\bHeld:\s)", raw_case_law, re.IGNORECASE)
         if split_at:
             sections["RELEVANT CASE LAW"] = raw_case_law[: split_at.start()].strip()
             sections["APPLICATION TO THE QUERY"] = raw_case_law[split_at.start():].strip()
+    elif _application_is_empty and _has_held_principle_relevance(raw_answer_section):
+        split_at = re.search(r"(?=\bHeld:\s)", raw_answer_section, re.IGNORECASE)
+        if split_at:
+            sections["ANSWER"] = raw_answer_section[: split_at.start()].strip()
+            sections["APPLICATION TO THE QUERY"] = raw_answer_section[split_at.start():].strip()
 
     used_case_ids = set()
     invalid_tags = set()
@@ -1725,6 +2981,19 @@ def build_user_facing_answer(legal_query: str, evidence: dict, llm_answer_raw: s
 
     grounded = len(used_case_ids) > 0
 
+    # --------------------------------------------------------------------
+    # Revision 16, FIX AA: flag a RELEVANT LEGAL PRINCIPLES section that
+    # carries zero of its own [Ex] tags even though the answer as a whole
+    # is grounded. Checked on the RAW section text (pre-conversion), so it
+    # counts the model's actual tags rather than post-conversion prose.
+    # --------------------------------------------------------------------
+    raw_principles_for_check = sections.get("RELEVANT LEGAL PRINCIPLES", "")
+    principles_section_untagged = bool(
+        grounded
+        and raw_principles_for_check.strip()
+        and count_valid_tags(raw_principles_for_check, valid_ids) == 0
+    )
+
     legal_issue = rendered["LEGAL ISSUE"] or _default_legal_issue(legal_query)
     answer = rendered["ANSWER"] or INSUFFICIENT_EVIDENCE_TEXT
     principles = rendered["RELEVANT LEGAL PRINCIPLES"] or INSUFFICIENT_EVIDENCE_TEXT
@@ -1732,8 +3001,19 @@ def build_user_facing_answer(legal_query: str, evidence: dict, llm_answer_raw: s
     application = rendered["APPLICATION TO THE QUERY"] or INSUFFICIENT_EVIDENCE_TEXT
     limitations = rendered["LIMITATIONS"]
 
-    # --- Revision 6, FIX C: overassertion backstop --------------------
-    overasserted = check_overassertion(application)
+    # --- Revision 6, FIX C / Revision 15, FIX V: overassertion backstop.
+    # Now checked against BOTH ANSWER and APPLICATION TO THE QUERY --
+    # Revision 15 observed the exact same overclaim pattern ("the
+    # applicant is entitled to bail") occurring in ANSWER, which this
+    # check previously never looked at. --------------------------------
+    overasserted_answer = check_overassertion(answer)
+    overasserted_application = check_overassertion(application)
+    overasserted = overasserted_answer or overasserted_application
+    overassertion_sections = [
+        name for name, flagged in
+        (("answer", overasserted_answer), ("application", overasserted_application))
+        if flagged
+    ]
     if overasserted:
         note = (
             "This section has been flagged as potentially overstating what the "
@@ -1753,9 +3033,19 @@ def build_user_facing_answer(legal_query: str, evidence: dict, llm_answer_raw: s
             "this query. Try rephrasing it with more specific legal terms."
         )
         limitations = (limitations + "\n\n" + note).strip() if limitations else note
-    elif invalid_tags:
-        note = "Some statements in this answer referenced evidence that could not be verified and were treated as unsupported."
-        limitations = (limitations + "\n\n" + note).strip() if limitations else note
+    else:
+        if invalid_tags:
+            note = "Some statements in this answer referenced evidence that could not be verified and were treated as unsupported."
+            limitations = (limitations + "\n\n" + note).strip() if limitations else note
+        # --- Revision 16, FIX AA: append-only clarifying note, same
+        # mechanism as the invalid_tags note above. Does not remove or
+        # rewrite the section's content. -----------------------------
+        if principles_section_untagged:
+            note = (
+                "The Relevant Legal Principles section above is a general summary and "
+                "could not be individually verified against a specific retrieved case."
+            )
+            limitations = (limitations + "\n\n" + note).strip() if limitations else note
 
     final_text = (
         f"LEGAL ISSUE:\n{legal_issue}\n\n"
@@ -1783,8 +3073,11 @@ def build_user_facing_answer(legal_query: str, evidence: dict, llm_answer_raw: s
         "invalid_evidence_tags": sorted(invalid_tags),
         "bare_evidence_labels_normalized": bare_tag_count,
         "multi_tag_brackets_split": multi_tag_count,
+        "case_citation_leaks_neutralized": case_citation_leak_count,
         "valid_tags_found_in_raw_answer": count_valid_tags(llm_answer_raw, valid_ids),
         "overassertion_flagged": overasserted,
+        "overassertion_sections": overassertion_sections,
+        "principles_section_untagged": principles_section_untagged,
         "evidence_items": [asdict(it) for it in evidence_items],
         "central_case_id": evidence["central_case"].case_id,
         "central_auto_selected": evidence["central_auto_selected"],
@@ -1830,6 +3123,27 @@ def clean_evidence_snippet(text: str, max_chars: int = FALLBACK_SNIPPET_CHARS) -
     return truncated.rstrip(",;: ") + "..."
 
 
+# --------------------------------------------------------------------
+# Revision 17, FIX CC -- lightweight keyword check, used only to decide
+# whether to append an extra LIMITATIONS caveat in the fallback path. Not
+# used anywhere else (in particular, it never affects retrieval, evidence
+# selection, or the LLM-grounded path) -- it only makes the fallback's
+# existing "assembled from excerpts" disclaimer more specific when the
+# query itself was asking for a general comparison, since that is exactly
+# the shape of query where a raw excerpt transcript is least likely to
+# already contain a complete side-by-side answer.
+# --------------------------------------------------------------------
+_COMPARISON_QUERY_PATTERN = re.compile(
+    r"\bdifference between\b|\bdistinguish(?:es|ed|ing)?\b|\bcompared? to\b|"
+    r"\bversus\b|\bvs\.?\b",
+    re.IGNORECASE,
+)
+
+
+def _looks_like_comparison_query(legal_query: str) -> bool:
+    return bool(_COMPARISON_QUERY_PATTERN.search(legal_query))
+
+
 def build_deterministic_fallback_answer(
     legal_query: str,
     evidence: dict,
@@ -1842,7 +3156,9 @@ def build_deterministic_fallback_answer(
     TO THE QUERY text is fully conditional/non-conclusory by construction
     (see application_text below), so it needed no change for Revision 6
     FIX C, and it contains no LLM-generated language at all, so it cannot
-    trigger the FIX A foreign-law check either."""
+    trigger the FIX A foreign-law check, the FIX Y court-name check, or
+    the FIX W markdown check either -- there is nothing here for those
+    backstops to catch."""
     meta_cache = build_meta_cache(evidence)
 
     # Group the already-selected, already-ranked evidence items by case,
@@ -1877,13 +3193,29 @@ def build_deterministic_fallback_answer(
 
     legal_issue = _default_legal_issue(legal_query)
 
+    # --------------------------------------------------------------------
+    # Revision 17, FIX CC: ANSWER and RELEVANT LEGAL PRINCIPLES no longer
+    # repeat the exact same raw evidence bullets as each other (and no
+    # longer repeat what RELEVANT CASE LAW already shows in full below).
+    # Python has no LLM available in this path, so it cannot honestly
+    # produce a substantively-correct one-line legal answer -- instead it
+    # says so plainly and points to the one place the actual retrieved
+    # text lives (RELEVANT CASE LAW), rather than silently duplicating a
+    # transcript under a heading that implies it's a real answer.
+    # --------------------------------------------------------------------
+    num_cases = len(case_order)
     answer_text = (
-        "Based directly on the Pakistani case law retrieved for this query, the following "
-        "points emerge from the judgments themselves:\n\n"
-        + "\n\n".join(f"- {b}" for b in principle_bullets)
+        f"A synthesized narrative answer could not be generated for this query. "
+        f"{num_cases} retrieved Pakistani judgment{'s' if num_cases != 1 else ''} "
+        f"directly address{'es' if num_cases == 1 else ''} this topic -- see RELEVANT "
+        f"CASE LAW below for the specific passages retrieved from each one."
     )
 
-    principles_text = "\n\n".join(f"- {b}" for b in principle_bullets)
+    principles_text = (
+        "No individually synthesized general principle could be produced for this query "
+        "without the language model. RELEVANT CASE LAW below quotes directly from the "
+        "retrieved judgments and is the authoritative source for what they actually say."
+    )
 
     case_law_text = "\n\n".join(case_law_lines)
 
@@ -1903,8 +3235,14 @@ def build_deterministic_fallback_answer(
         "and have not been further interpreted, combined, or explained in the model's own "
         "words.",
         reason_note,
-        "This is legal research information, not legal advice.",
     ]
+    if _looks_like_comparison_query(legal_query):
+        limitations_lines.append(
+            "The retrieved cases may address specific instances of this topic rather than "
+            "a complete general comparison; review RELEVANT CASE LAW below to see exactly "
+            "what each retrieved case discusses."
+        )
+    limitations_lines.append("This is legal research information, not legal advice.")
     limitations_text = "\n\n".join(l for l in limitations_lines if l)
 
     final_text = (
