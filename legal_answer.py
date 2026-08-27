@@ -1,6 +1,6 @@
 """
 legal_answer.py
-
+python legal_answer.py --debug
 Purpose
 -------
 RAG answer-generation layer for Hafsa's Pakistani Legal Research Assistant.
@@ -915,6 +915,16 @@ from typing import Optional
 import requests
 from neo4j.exceptions import Neo4jError
 
+# Windows' default console/pipe encoding (cp1252) can't represent some
+# characters that show up in OCR'd/extracted court-document text (curly
+# quotes, em/en dashes, etc.). Without this, a debug print of raw evidence
+# text can crash main() with UnicodeEncodeError AFTER the full answer was
+# already computed -- losing output that had nothing wrong with it.
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
 # ---------------------------------------------------------------------
 # Reuse the existing, working retrieval pipeline. Importing this module
 # does NOT execute anything -- qdrant_to_neo4j_similarity.py only runs
@@ -935,7 +945,7 @@ MAX_GRAPH_NEIGHBORS = 5              # internal/debug only, never sent to LLM
 
 # --- Hybrid retrieval: graph-expanded evidence + re-ranking ---------------
 # Previously Neo4j only supplied metadata for cases Qdrant had already
-# found; the knowledge graph itself (CITES, SIMILAR_TO, APPLIES, INVOLVES)
+# found; the knowledge graph itself (CITES, SIMILAR_TO, APPLIES, INVOLVES, DECIDED_BY)
 # never influenced WHICH cases became evidence. These settings turn that
 # graph into a real second retrieval signal, combined with the Qdrant
 # vector score before picking related_cases.
@@ -949,12 +959,28 @@ GRAPH_MAX_SHARED_NODE_DEGREE = 25     # a LawSection/Party touched by more
                                        # (e.g. "Section 497 PPC", "The
                                        # State") to signal real relatedness,
                                        # so traversal skips it
+GRAPH_MAX_JUDGE_CASE_DEGREE = 80      # separate, higher cap for DECIDED_BY:
+                                       # a working judge naturally decides
+                                       # far more cases than one law section
+                                       # or party naturally recurs, so the
+                                       # LawSection/Party threshold above
+                                       # would exclude every real judge;
+                                       # only the handful of extremely
+                                       # prolific ones (900+ cases) are
+                                       # excluded as too generic a signal
 GRAPH_WEIGHT_CITES = 0.35             # co-citation (shared precedent)
 GRAPH_WEIGHT_SIMILAR_TO = 0.50        # existing SIMILAR_TO edge (r.score
                                        # is already a 0..1 cosine-scale
                                        # value, used directly)
 GRAPH_WEIGHT_APPLIES = 0.15           # shared, non-generic law section
 GRAPH_WEIGHT_INVOLVES = 0.20          # shared, non-generic party
+GRAPH_WEIGHT_DECIDED_BY = 0.15        # shared, non-generic judge -- relies
+                                       # on fix_judge_names.py having been
+                                       # run to consolidate/clean :Judge
+                                       # nodes; a fragmented judge identity
+                                       # (many near-duplicate nodes for the
+                                       # same person) would otherwise dilute
+                                       # this signal rather than corrupt it
 VECTOR_RERANK_WEIGHT = 0.7            # final re-rank = this * Qdrant score
 GRAPH_RERANK_WEIGHT = 0.3             #   + this * combined graph relevance
 OLLAMA_GENERATE_TIMEOUT = 180         # seconds; safety net, not the primary fix
@@ -1206,7 +1232,7 @@ def get_existing_similar_cases(driver, case_id: str, limit: int) -> list:
 # ==================================================================
 # HYBRID RETRIEVAL -- GRAPH EXPANSION (read-only, additive)
 # --------------------------------------------------------------------
-# Traverses CITES, SIMILAR_TO, APPLIES, INVOLVES outward from the Qdrant
+# Traverses CITES, SIMILAR_TO, APPLIES, INVOLVES, DECIDED_BY outward from the Qdrant
 # seed cases to find cases that are legally connected but were not
 # necessarily a strong vector match on their own. Each relation type is
 # queried separately (not one big multi-hop query) so a busy shared node
@@ -1306,13 +1332,45 @@ def _graph_involves_scores(driver, seed_ids: list) -> dict:
         return {}
 
 
+def _graph_decided_by_scores(driver, seed_ids: list) -> dict:
+    """Cases decided by the same, non-generic judge as a seed case. Uses
+    GRAPH_MAX_JUDGE_CASE_DEGREE (not the shared LawSection/Party cap) --
+    see that constant's comment for why judges need a higher threshold.
+    Depends on fix_judge_names.py having been run to consolidate
+    near-duplicate :Judge nodes (e.g. "X", "X Mr", "JUDGE X"); without
+    that, the same real judge is split across several nodes and this
+    signal is diluted rather than wrong."""
+    query = """
+    UNWIND $seed_ids AS sid
+    MATCH (seed:Case {case_id: sid})-[:DECIDED_BY]->(j:Judge)
+    WITH sid, j, COUNT { (j)<-[:DECIDED_BY]-() } AS judge_degree
+    WHERE judge_degree <= $max_degree
+    MATCH (j)<-[:DECIDED_BY]-(other:Case)
+    WHERE other.case_id <> sid
+    WITH other.case_id AS case_id, count(DISTINCT j) AS strength
+    RETURN case_id, strength
+    ORDER BY strength DESC
+    LIMIT $limit
+    """
+    try:
+        with driver.session() as session:
+            result = session.run(
+                query, seed_ids=seed_ids,
+                max_degree=GRAPH_MAX_JUDGE_CASE_DEGREE, limit=GRAPH_EXPANSION_LIMIT,
+            )
+            return {r["case_id"]: r["strength"] for r in result}
+    except Neo4jError as e:
+        log.warning(f"Graph expansion (DECIDED_BY) failed: {e}")
+        return {}
+
+
 def compute_graph_relevance(driver, seed_ids: list) -> dict:
-    """Combines all four relation types into one {case_id: score in 0..1}
-    map. Raw co-occurrence counts (CITES/APPLIES/INVOLVES) are squashed
-    into 0..1 with a saturating min(1, strength / N); SIMILAR_TO's r.score
-    is already on that scale and used as-is. Never raises -- any relation
-    query that fails just contributes nothing, so a Neo4j hiccup degrades
-    gracefully to "no graph boost" rather than breaking retrieval."""
+    """Combines all five relation types into one {case_id: score in 0..1}
+    map. Raw co-occurrence counts (CITES/APPLIES/INVOLVES/DECIDED_BY) are
+    squashed into 0..1 with a saturating min(1, strength / N); SIMILAR_TO's
+    r.score is already on that scale and used as-is. Never raises -- any
+    relation query that fails just contributes nothing, so a Neo4j hiccup
+    degrades gracefully to "no graph boost" rather than breaking retrieval."""
     if not seed_ids:
         return {}
 
@@ -1320,6 +1378,7 @@ def compute_graph_relevance(driver, seed_ids: list) -> dict:
     similar = _graph_similar_to_scores(driver, seed_ids)
     applies = _graph_applies_scores(driver, seed_ids)
     involves = _graph_involves_scores(driver, seed_ids)
+    decided_by = _graph_decided_by_scores(driver, seed_ids)
 
     combined: dict[str, float] = {}
     for case_id, strength in cocitation.items():
@@ -1330,6 +1389,8 @@ def compute_graph_relevance(driver, seed_ids: list) -> dict:
         combined[case_id] = combined.get(case_id, 0.0) + min(1.0, strength / 3) * GRAPH_WEIGHT_APPLIES
     for case_id, strength in involves.items():
         combined[case_id] = combined.get(case_id, 0.0) + min(1.0, strength / 2) * GRAPH_WEIGHT_INVOLVES
+    for case_id, strength in decided_by.items():
+        combined[case_id] = combined.get(case_id, 0.0) + min(1.0, strength / 2) * GRAPH_WEIGHT_DECIDED_BY
 
     return {case_id: min(1.0, score) for case_id, score in combined.items()}
 
@@ -1456,7 +1517,7 @@ def retrieve_evidence(legal_query: str, central_identifier: Optional[str] = None
 
         # --- Hybrid retrieval: graph-expanded evidence + re-ranking --------
         # Seeds = central case + the next-best Qdrant cases. Traverse
-        # CITES/SIMILAR_TO/APPLIES/INVOLVES outward from those seeds, then
+        # CITES/SIMILAR_TO/APPLIES/INVOLVES/DECIDED_BY outward from those seeds, then
         # re-rank the UNION of "Qdrant found this" and "graph connects to
         # this" by a blended vector+graph score, instead of ranking by raw
         # Qdrant score alone. A case the graph strongly connects to the
@@ -2237,7 +2298,7 @@ def is_valid_year(value) -> bool:
 _PROSE_FUNCTION_WORDS = re.compile(
     r"\b(?:the|and|was|is|are|were|not|that|which|has|have|had|been|this|"
     r"these|those|from|with|for|will|shall|would|could|should|against|them|"
-    r"others)\b",
+    r"others|by|preferred)\b",
     re.IGNORECASE,
 )
 
@@ -2484,6 +2545,26 @@ def build_prompt(
           refer to, an evidence number that is not in the VALID EVIDENCE
           TAGS list above (for example, if the highest valid tag is [E5],
           never write or imply "[E6]" or "E6" anywhere).
+
+        PRIORITIZE THE MOST SPECIFIC EVIDENCE:
+        - When several evidence items are all broadly on-topic, they are not
+          equally useful. Identify which item(s) most SPECIFICALLY and
+          DIRECTLY address the exact question asked, and give those items
+          the most weight and prominence in your answer -- lead with them.
+        - A more specific, directly-on-point item must not be crowded out
+          by a more general item just because the general item was easier
+          to restate. Do not let your opening framing (e.g. what the
+          "conditions" or "grounds" are) contradict a specific item that IS
+          present in the evidence -- if a specific item answers the
+          question, say so; do not claim the evidence doesn't address it.
+        - Example: the user asks about cancellation of bail that has
+          ALREADY been granted. One evidence item states bail can be
+          cancelled if the accused misuses the concession of bail; another
+          states the general grounds for granting or refusing bail in the
+          first place. The FIRST item is the specific, correct evidence for
+          this question -- the second is a related but different legal
+          point (initial grant, not later cancellation) and must not be
+          presented as if it were the answer to the question asked.
 
         EXAMPLE OF CORRECT TAGGING (topic-neutral -- your own answer must be
         about the user's actual question, not this example):
@@ -2781,7 +2862,14 @@ def call_ollama_llm(prompt: str, model: str = LLM_MODEL, timeout: int = OLLAMA_G
                 "prompt": prompt,
                 "stream": False,
                 "options": {
-                    "temperature": 0.1,
+                    # Lowered from 0.1 and pinned to a fixed seed: live testing
+                    # showed the same query against the same evidence could
+                    # produce meaningfully different specifics (different
+                    # statutory sections mentioned, different tag counts)
+                    # between runs. temperature=0 + a fixed seed makes
+                    # generation reproducible for a given prompt.
+                    "temperature": 0.0,
+                    "seed": 42,
                     "num_predict": OLLAMA_NUM_PREDICT,  # bounds response length -> bounds latency
                     "num_ctx": OLLAMA_NUM_CTX,
                 },
@@ -2864,6 +2952,42 @@ def build_supporting_references(evidence: dict, evidence_items: list) -> str:
 # ==================================================================
 # FINAL USER-FACING ANSWER ASSEMBLY (normal, LLM-grounded path)
 # ==================================================================
+# --------------------------------------------------------------------
+# The system prompt tells the model never to name a specific court in
+# its own prose (court identity comes only from the verified citation
+# Python appends, never from the model's free text). In practice the
+# model complies by self-editing a court name it started to write (e.g.
+# evidence text mentioning "the Lahore High Court") down to "the court"
+# -- but it frequently only replaces "High Court" and leaves the
+# leading place-name/honorific word behind, producing artifacts observed
+# live in testing: "The Lahore the court", "the Sindh the court", "the
+# Hon'ble the court", "a the court". This cleans up exactly that
+# leftover-word pattern; it does not touch a bare, correctly-formed "the
+# court" or "the apex Court".
+# --------------------------------------------------------------------
+_DANGLING_COURT_PREFIX_RE = re.compile(
+    r"\b(?:the\s+)?(?:Lahore|Sindh|Peshawar|Islamabad|Balochistan|"
+    r"Hon'?ble|Honourable|a|an)\s+(the)(\s+court\b)",
+    re.IGNORECASE,
+)
+_SENTENCE_START_RE = re.compile(r"(?:^|[.!?]\s+|\n\s*)$")
+
+
+def _dangling_court_replacer(match: "re.Match") -> str:
+    the_word, rest = match.group(1), match.group(2)
+    # If the dangling phrase we're about to drop sits at the start of a
+    # sentence/line, the capital letter it carried (e.g. "The Lahore the
+    # court...") would otherwise be lost -- recapitalize the "the" that's
+    # left behind so the sentence still opens with a capital.
+    if _SENTENCE_START_RE.search(match.string[: match.start()]):
+        the_word = "The"
+    return the_word + rest
+
+
+def fix_dangling_court_references(text: str) -> str:
+    return _DANGLING_COURT_PREFIX_RE.sub(_dangling_court_replacer, text)
+
+
 def _default_legal_issue(legal_query: str) -> str:
     return f"This research question concerns: {legal_query.strip()}"
 
@@ -3055,6 +3179,7 @@ def build_user_facing_answer(legal_query: str, evidence: dict, llm_answer_raw: s
         f"APPLICATION TO THE QUERY:\n{application}\n\n"
         f"LIMITATIONS:\n{limitations if limitations else 'None identified.'}"
     )
+    final_text = fix_dangling_court_references(final_text)
 
     # Revision 5: always append a Python-built, independently-verified
     # reference list for the cases that were actually retrieved as
@@ -3253,6 +3378,7 @@ def build_deterministic_fallback_answer(
         f"APPLICATION TO THE QUERY:\n{application_text}\n\n"
         f"LIMITATIONS:\n{limitations_text}"
     )
+    final_text = fix_dangling_court_references(final_text)
 
     debug_info = {
         "mode": "deterministic_fallback",
@@ -3265,6 +3391,485 @@ def build_deterministic_fallback_answer(
         "fallback_reason": reason_note,
     }
     return final_text, debug_info
+
+
+# --------------------------------------------------------------------
+# Aggregate/listing queries ("show all cases in X court", "list all cases
+# by judge Y", "how many cases...") are structurally out of scope for
+# this pipeline: it retrieves the top-K semantically NEAREST chunks for a
+# specific legal question, it does not enumerate every case matching a
+# court/judge/date filter. Live testing showed that without this guard,
+# such a query still silently produces a confident-sounding answer built
+# from whatever few chunks happened to be semantically nearby -- e.g. the
+# broken phrase "The Lahore the court" was repeated verbatim across every
+# section of one such answer -- rather than admitting the request itself
+# doesn't fit what this assistant does. Caught up front, before spending
+# a retrieval + LLM call on a request that was never answerable this way.
+# --------------------------------------------------------------------
+_AGGREGATE_QUERY_RE = re.compile(
+    r"\b(?:show|list|display|enumerate|give\s+me)\b[^.?!]{0,30}\ball\b[^.?!]{0,30}\bcases?\b"
+    r"|\bhow\s+many\s+cases\b"
+    r"|\ball\s+cases\s+(?:heard|decided|handled|filed|involving)\b",
+    re.IGNORECASE,
+)
+
+
+def is_aggregate_listing_query(query: str) -> bool:
+    """True for 'list/show/count all cases...' style requests -- see the
+    module note above this regex for why these are declined rather than
+    answered."""
+    return bool(_AGGREGATE_QUERY_RE.search(query))
+
+
+def build_aggregate_query_decline() -> str:
+    """Last-resort text -- used only when answer_listing_query() itself
+    couldn't produce anything (Neo4j unreachable, or a query error)."""
+    return (
+        "LEGAL ISSUE:\nThis reads as a request to list or count cases (e.g. "
+        "\"all cases in a court\" or \"all cases decided by a judge\"), not a "
+        "specific legal question.\n\n"
+        "ANSWER / SUMMARY:\nThis assistant answers specific legal questions by "
+        "retrieving the most relevant evidence for them. It can also list/count "
+        "cases directly from the case database, but that lookup could not be "
+        "completed right now -- please try again shortly, or ask a specific "
+        "legal question instead, e.g. 'What are the grounds for bail under "
+        "Section 497 CrPC?'\n\n"
+        "RELEVANT LEGAL PRINCIPLES:\nNot applicable.\n\n"
+        "RELEVANT CASE LAW:\nNot applicable.\n\n"
+        "APPLICATION TO THE QUERY:\nNot applicable.\n\n"
+        "LIMITATIONS:\nListing or counting queries are outside what this "
+        "retrieval-based assistant can reliably answer."
+    )
+
+
+# --------------------------------------------------------------------
+# LISTING/COUNTING QUERIES -- answered directly from Neo4j, bypassing
+# Qdrant and the LLM entirely. This is accurate by construction (a
+# straight database read, not a semantic guess), and matches the
+# "graph-enhanced" thesis framing: structural/factual questions about
+# the case database are routed to the graph, legal-reasoning questions
+# stay on the Qdrant -> graph-expansion -> LLM path in retrieve_evidence().
+# Scope (deliberately limited): court, year, case_type filters, and a
+# judge breakdown/filter. Relationship queries (similar cases, citation
+# chains) and single-case lookups are NOT handled here -- those still go
+# through the normal RAG path via central_identifier.
+# --------------------------------------------------------------------
+_KNOWN_COURTS = [
+    "Lahore High Court", "High Court of Sindh", "Peshawar High Court",
+    "Islamabad High Court", "Balochistan High Court", "Supreme Court of Pakistan",
+]
+
+_KNOWN_CASE_TYPES = [
+    "Bail", "Civil Appeal", "Criminal Appeal", "Criminal Revision",
+    "Writ Petition", "Constitutional Petition", "Civil Suit", "Reference",
+    "Criminal Application", "Civil Case", "Criminal Case",
+]
+
+_JUDGE_NAME_RE = re.compile(r"(?:judge|justice)\s+([A-Z][A-Za-z.\s]{2,40})")
+_MENTIONS_JUDGE_RE = re.compile(r"\bjudges?\b", re.IGNORECASE)
+_HOW_MANY_RE = re.compile(r"\bhow\s+many\b", re.IGNORECASE)
+
+LISTING_QUERY_MAX_ROWS = 20
+LISTING_QUERY_MAX_GROUPS = 10
+
+
+def _extract_listing_filters(query: str) -> dict:
+    filters = {}
+    q_lower = query.lower()
+
+    for court in _KNOWN_COURTS:
+        if court.lower() in q_lower:
+            filters["court"] = court
+            break
+
+    year_match = re.search(r"\b(19|20)\d{2}\b", query)
+    if year_match:
+        filters["year"] = year_match.group(0)
+
+    for case_type in _KNOWN_CASE_TYPES:
+        if case_type.lower() in q_lower:
+            filters["case_type"] = case_type
+            break
+
+    judge_match = _JUDGE_NAME_RE.search(query)
+    if judge_match:
+        candidate = judge_match.group(1).strip().rstrip(".,;:")
+        # Reject a placeholder-y capture like "a particular judge" -- 'a'
+        # doesn't start with a capital letter so this pattern already
+        # mostly avoids that, but guard against very short/common words.
+        if len(candidate) > 2 and candidate.lower() not in ("particular", "specific"):
+            filters["judge"] = candidate
+
+    return filters
+
+
+def answer_listing_query(legal_query: str) -> Optional[str]:
+    """Attempts a direct Neo4j answer for a listing/counting query.
+    Returns the formatted six-section answer, or None if Neo4j is
+    unreachable or the query fails (caller falls back to
+    build_aggregate_query_decline() in that case)."""
+    driver = qn.get_neo4j_driver()
+    if driver is None:
+        return None
+
+    try:
+        filters = _extract_listing_filters(legal_query)
+        is_count = bool(_HOW_MANY_RE.search(legal_query))
+        judge_breakdown = _MENTIONS_JUDGE_RE.search(legal_query) and "judge" not in filters
+
+        try:
+            with driver.session() as session:
+                if judge_breakdown:
+                    result = session.run(
+                        """
+                        MATCH (c:Case)-[:DECIDED_BY]->(j:Judge)
+                        RETURN j.name AS judge, count(c) AS total
+                        ORDER BY total DESC
+                        LIMIT $limit
+                        """,
+                        limit=LISTING_QUERY_MAX_GROUPS,
+                    )
+                    rows = [{"judge": r["judge"], "total": r["total"]} for r in result]
+                    return _format_judge_breakdown(rows)
+
+                where_clauses = []
+                params: dict = {}
+                if filters.get("court"):
+                    where_clauses.append("co.name = $court")
+                    params["court"] = filters["court"]
+                if filters.get("year"):
+                    where_clauses.append("c.year = $year")
+                    params["year"] = filters["year"]
+                if filters.get("case_type"):
+                    where_clauses.append("c.case_type = $case_type")
+                    params["case_type"] = filters["case_type"]
+                if filters.get("judge"):
+                    where_clauses.append("j.name CONTAINS $judge")
+                    params["judge"] = filters["judge"]
+
+                where_sql = ("WHERE " + " AND ".join(where_clauses)) if where_clauses else ""
+
+                count_result = session.run(
+                    f"""
+                    MATCH (c:Case)
+                    OPTIONAL MATCH (c)-[:HEARD_IN]->(co:Court)
+                    OPTIONAL MATCH (c)-[:DECIDED_BY]->(j:Judge)
+                    {where_sql}
+                    RETURN count(DISTINCT c) AS total
+                    """,
+                    **params,
+                )
+                total = count_result.single()["total"]
+
+                if is_count and not where_clauses:
+                    # A bare "how many cases..." with no extractable filter
+                    # -- give the overall breakdown by court instead of a
+                    # single meaningless total.
+                    return _format_court_breakdown(session, total)
+
+                rows = []
+                if total:
+                    list_params = dict(params)
+                    list_params["limit"] = LISTING_QUERY_MAX_ROWS
+                    list_result = session.run(
+                        f"""
+                        MATCH (c:Case)
+                        OPTIONAL MATCH (c)-[:HEARD_IN]->(co:Court)
+                        OPTIONAL MATCH (c)-[:DECIDED_BY]->(j:Judge)
+                        {where_sql}
+                        RETURN c.case_number AS case_number, co.name AS court,
+                               j.name AS judge, c.year AS year, c.case_type AS case_type
+                        ORDER BY c.year DESC
+                        LIMIT $limit
+                        """,
+                        **list_params,
+                    )
+                    rows = [dict(r) for r in list_result]
+
+                return _format_listing_answer(legal_query, filters, total, rows, is_count)
+        except Neo4jError as e:
+            log.warning(f"Listing query failed: {e}")
+            return None
+    finally:
+        driver.close()
+
+
+def _format_court_breakdown(session, total: int) -> str:
+    result = session.run(
+        """
+        MATCH (c:Case)-[:HEARD_IN]->(co:Court)
+        RETURN co.name AS court, count(c) AS total
+        ORDER BY total DESC
+        """
+    )
+    lines = [f"- {r['court']}: {r['total']} case(s)" for r in result]
+    breakdown = "\n".join(lines) if lines else "No court data available."
+    return (
+        "LEGAL ISSUE:\nHow many cases are in the database, broken down by court.\n\n"
+        f"ANSWER / SUMMARY:\nThe database currently holds {total} case(s) in total. "
+        f"Breakdown by court:\n{breakdown}\n\n"
+        "RELEVANT LEGAL PRINCIPLES:\nNot applicable -- this is a database count, "
+        "not a legal determination.\n\n"
+        "RELEVANT CASE LAW:\nNot applicable.\n\n"
+        "APPLICATION TO THE QUERY:\nNot applicable.\n\n"
+        "LIMITATIONS:\nThis count reflects only the cases that have been imported "
+        "into this system's database, not all cases decided by these courts."
+    )
+
+
+def _format_judge_breakdown(rows: list) -> str:
+    lines = [f"- {r['judge']}: {r['total']} case(s)" for r in rows if r["judge"]]
+    breakdown = "\n".join(lines) if lines else "No judge data available."
+    return (
+        "LEGAL ISSUE:\nCase counts broken down by judge.\n\n"
+        f"ANSWER / SUMMARY:\nTop judges by number of cases in the database:\n{breakdown}\n\n"
+        "RELEVANT LEGAL PRINCIPLES:\nNot applicable -- this is a database count, "
+        "not a legal determination.\n\n"
+        "RELEVANT CASE LAW:\nNot applicable.\n\n"
+        "APPLICATION TO THE QUERY:\nNot applicable.\n\n"
+        "LIMITATIONS:\nNo specific judge name was recognized in the question, so "
+        "this shows the overall breakdown instead. Ask about a named judge (e.g. "
+        "'cases decided by Justice X') for a filtered list."
+    )
+
+
+def _format_listing_answer(query: str, filters: dict, total: int, rows: list, is_count: bool) -> str:
+    filter_desc = ", ".join(f"{k}={v}" for k, v in filters.items()) or "no specific filter recognized"
+
+    if total == 0:
+        summary = f"No cases matching this request were found in the database ({filter_desc})."
+        case_law = "Not applicable -- no matching cases."
+    elif is_count:
+        summary = f"There are {total} case(s) matching this request ({filter_desc})."
+        case_law = "Not applicable -- this is a count, not case content."
+    else:
+        shown = len(rows)
+        summary = (
+            f"{total} case(s) match this request ({filter_desc})."
+            + (f" Showing the {shown} most recent:" if total > shown else " Showing all of them:")
+        )
+        lines = []
+        for r in rows:
+            label = r.get("case_number") or "(case number not available)"
+            court = r.get("court") or "court not available"
+            judge = r.get("judge") or "judge not available"
+            year_val = r.get("year")
+            year = year_val if year_val and year_val.strip().lower() != "unknown" else "year not available"
+            lines.append(f"- {label} -- {court}, {judge}, {year}")
+        case_law = "\n".join(lines)
+
+    return (
+        f"LEGAL ISSUE:\nThis is a listing/counting request against the case database: \"{query}\"\n\n"
+        f"ANSWER / SUMMARY:\n{summary}\n\n"
+        "RELEVANT LEGAL PRINCIPLES:\nNot applicable -- this is a database lookup, "
+        "not a legal determination.\n\n"
+        f"RELEVANT CASE LAW:\n{case_law}\n\n"
+        "APPLICATION TO THE QUERY:\nNot applicable.\n\n"
+        "LIMITATIONS:\nThis reflects only the cases imported into this system's "
+        "database, not the complete set of cases decided by any court. Case number "
+        "or judge fields shown as 'not available' were not reliably extractable "
+        "from the source document."
+    )
+
+
+# --------------------------------------------------------------------
+# RELATIONSHIP QUERIES -- "cases similar to X" / "cases citing Y" --
+# answered directly from the graph, same spirit as the listing router
+# above: a structural question about the case database, not a legal-
+# reasoning question, so it never touches Qdrant or the LLM. The
+# similar-to path reuses compute_graph_relevance() (built for hybrid
+# retrieval's evidence re-ranking) with a single seed case, so "similar"
+# here means the same CITES/SIMILAR_TO/APPLIES/INVOLVES/DECIDED_BY graph signal the
+# RAG path itself trusts, not a separate ad hoc definition.
+# --------------------------------------------------------------------
+_SIMILAR_TO_QUERY_RE = re.compile(
+    r"(?:cases?\s+similar\s+to|similar\s+cases?\s+(?:to|as)|cases?\s+like)\s+(.+)",
+    re.IGNORECASE,
+)
+_CITING_QUERY_RE = re.compile(
+    r"(?:cases?\s+(?:that\s+|which\s+)?cit(?:e|es|ing|ed)|which\s+cases?\s+cite)\s+(.+)",
+    re.IGNORECASE,
+)
+_CITATION_RE = re.compile(
+    r"PLD\s+\d{4}\s+[A-Z][A-Za-z]+\s+\d+"
+    r"|\d{4}\s+(?:SCMR|MLD|YLR|CLC|NLR|PCrLJ)\s*\d+",
+    re.IGNORECASE,
+)
+
+RELATIONSHIP_QUERY_MAX_ROWS = 15
+
+
+def classify_relationship_query(query: str) -> Optional[tuple]:
+    """Returns ('similar_to', identifier_text) or ('citing', identifier_text)
+    if the query matches, else None. identifier_text is the raw trailing
+    text the user gave (a case number, or a citation) -- not yet
+    validated against the graph."""
+    m = _SIMILAR_TO_QUERY_RE.search(query)
+    if m:
+        return ("similar_to", m.group(1).strip().rstrip("?.!"))
+    m = _CITING_QUERY_RE.search(query)
+    if m:
+        return ("citing", m.group(1).strip().rstrip("?.!"))
+    return None
+
+
+def answer_relationship_query(kind: str, identifier_text: str) -> Optional[str]:
+    """Attempts a direct Neo4j answer for a relationship query. Returns
+    the formatted six-section answer, or None if Neo4j is unreachable
+    (caller falls back to build_aggregate_query_decline())."""
+    driver = qn.get_neo4j_driver()
+    if driver is None:
+        return None
+
+    try:
+        if kind == "similar_to":
+            return _answer_similar_to_query(driver, identifier_text)
+        return _answer_citing_query(driver, identifier_text)
+    finally:
+        driver.close()
+
+
+def _answer_similar_to_query(driver, identifier_text: str) -> str:
+    try:
+        with driver.session() as session:
+            record = session.run(
+                """
+                MATCH (c:Case)
+                WHERE c.case_id = $id OR c.case_number = $id OR c.case_number CONTAINS $id
+                RETURN c.case_id AS case_id, c.case_number AS case_number
+                LIMIT 1
+                """,
+                id=identifier_text,
+            ).single()
+    except Neo4jError as e:
+        log.warning(f"Relationship query (similar_to resolve) failed: {e}")
+        return build_aggregate_query_decline()
+
+    if record is None:
+        return (
+            f"LEGAL ISSUE:\nA request for cases similar to \"{identifier_text}\".\n\n"
+            f"ANSWER / SUMMARY:\nNo case matching \"{identifier_text}\" was found in "
+            "the database, so similar cases could not be looked up. Please check the "
+            "case number and try again.\n\n"
+            "RELEVANT LEGAL PRINCIPLES:\nNot applicable.\n\nRELEVANT CASE LAW:\nNot applicable.\n\n"
+            "APPLICATION TO THE QUERY:\nNot applicable.\n\n"
+            "LIMITATIONS:\nThe case identifier given could not be matched against "
+            "the case database."
+        )
+
+    seed_case_id = record["case_id"]
+    seed_label = record["case_number"] or seed_case_id
+    graph_relevance = compute_graph_relevance(driver, [seed_case_id])
+
+    if not graph_relevance:
+        summary = f"No graph-connected cases were found for {seed_label} (no shared citations, sections, parties, or existing similarity links)."
+        case_law = "Not applicable."
+    else:
+        ranked = sorted(graph_relevance.items(), key=lambda kv: kv[1], reverse=True)[:RELATIONSHIP_QUERY_MAX_ROWS]
+        try:
+            with driver.session() as session:
+                result = session.run(
+                    """
+                    UNWIND $ids AS cid
+                    MATCH (c:Case {case_id: cid})
+                    OPTIONAL MATCH (c)-[:HEARD_IN]->(co:Court)
+                    RETURN c.case_id AS case_id, c.case_number AS case_number, co.name AS court
+                    """,
+                    ids=[cid for cid, _ in ranked],
+                )
+                meta_by_id = {r["case_id"]: r for r in result}
+        except Neo4jError as e:
+            log.warning(f"Relationship query (similar_to metadata) failed: {e}")
+            meta_by_id = {}
+
+        # Revision note: distinct case_ids in this corpus can share an
+        # identical case_number (duplicate/split source documents) -- dedupe
+        # by the rendered label so the same case doesn't appear to the user
+        # multiple times, same convention as build_supporting_references().
+        lines = []
+        seen_labels = set()
+        for cid, score in ranked:
+            meta = meta_by_id.get(cid, {})
+            label = meta.get("case_number") or cid
+            if label in seen_labels:
+                continue
+            seen_labels.add(label)
+            court = meta.get("court") or "court not available"
+            lines.append(f"- {label} -- {court} (relevance {score:.2f})")
+        summary = f"{len(lines)} case(s) graph-connected to {seed_label}, ranked by combined relevance (shared citations, law sections, parties, and existing similarity links):"
+        case_law = "\n".join(lines)
+
+    return (
+        f"LEGAL ISSUE:\nA request for cases similar to {seed_label}.\n\n"
+        f"ANSWER / SUMMARY:\n{summary}\n\n"
+        "RELEVANT LEGAL PRINCIPLES:\nNot applicable -- this is a graph relationship "
+        "lookup, not a legal determination.\n\n"
+        f"RELEVANT CASE LAW:\n{case_law}\n\n"
+        "APPLICATION TO THE QUERY:\nNot applicable.\n\n"
+        "LIMITATIONS:\n\"Similar\" here means graph-connected (shared citations, law "
+        "sections, or parties, or a previously computed similarity link) -- it is not "
+        "a legal-substance judgment about whether these cases are actually "
+        "analogous to your situation."
+    )
+
+
+def _answer_citing_query(driver, identifier_text: str) -> str:
+    m = _CITATION_RE.search(identifier_text)
+    if not m:
+        return (
+            f"LEGAL ISSUE:\nA request for cases citing \"{identifier_text}\".\n\n"
+            "ANSWER / SUMMARY:\nNo recognizable citation format (e.g. 'PLD 2020 SC 1' "
+            "or '2020 SCMR 123') was found in this request, so it could not be looked "
+            "up.\n\nRELEVANT LEGAL PRINCIPLES:\nNot applicable.\n\nRELEVANT CASE LAW:\nNot applicable.\n\n"
+            "APPLICATION TO THE QUERY:\nNot applicable.\n\n"
+            "LIMITATIONS:\nOnly a small set of standard Pakistani citation formats "
+            "(PLD, SCMR, MLD, YLR, CLC, NLR, PCrLJ) are recognized here."
+        )
+    citation = m.group(0).strip()
+
+    try:
+        with driver.session() as session:
+            result = session.run(
+                """
+                MATCH (c:Case)-[:CITES]->(cit:Citation)
+                WHERE cit.citation_id CONTAINS $citation
+                OPTIONAL MATCH (c)-[:HEARD_IN]->(co:Court)
+                RETURN c.case_number AS case_number, co.name AS court
+                LIMIT $limit
+                """,
+                citation=citation, limit=RELATIONSHIP_QUERY_MAX_ROWS,
+            )
+            rows = [dict(r) for r in result]
+    except Neo4jError as e:
+        log.warning(f"Relationship query (citing) failed: {e}")
+        return build_aggregate_query_decline()
+
+    if not rows:
+        summary = f"No cases in the database were found citing {citation}."
+        case_law = "Not applicable."
+    else:
+        # Same duplicate-case_number dedupe as _answer_similar_to_query().
+        lines = []
+        seen_labels = set()
+        for r in rows:
+            label = r.get("case_number") or "(case number not available)"
+            if label in seen_labels:
+                continue
+            seen_labels.add(label)
+            lines.append(f"- {label} -- {r.get('court') or 'court not available'}")
+        summary = f"{len(lines)} case(s) in the database cite {citation}:"
+        case_law = "\n".join(lines)
+
+    return (
+        f"LEGAL ISSUE:\nA request for cases citing {citation}.\n\n"
+        f"ANSWER / SUMMARY:\n{summary}\n\n"
+        "RELEVANT LEGAL PRINCIPLES:\nNot applicable -- this is a citation lookup, "
+        "not a legal determination.\n\n"
+        f"RELEVANT CASE LAW:\n{case_law}\n\n"
+        "APPLICATION TO THE QUERY:\nNot applicable.\n\n"
+        "LIMITATIONS:\nThis reflects only citations extracted from cases imported "
+        "into this system's database."
+    )
 
 
 def user_facing_error(message: str) -> str:
@@ -3322,6 +3927,16 @@ def answer_legal_query(
     Returns the clean answer string, or (answer, debug_info) if
     return_debug=True.
     """
+    if is_aggregate_listing_query(legal_query):
+        text = answer_listing_query(legal_query) or build_aggregate_query_decline()
+        return (text, {"mode": "listing_query"}) if return_debug else text
+
+    relationship_query = classify_relationship_query(legal_query)
+    if relationship_query:
+        kind, identifier_text = relationship_query
+        text = answer_relationship_query(kind, identifier_text) or build_aggregate_query_decline()
+        return (text, {"mode": "relationship_query", "relationship_kind": kind}) if return_debug else text
+
     try:
         evidence = retrieve_evidence(legal_query, central_identifier)
     except RetrievalError as e:

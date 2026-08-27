@@ -48,6 +48,11 @@ import glob
 import signal
 import argparse
 
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
 _INTERRUPTED = False
 
 def _handle_sigint(signum, frame):
@@ -69,16 +74,46 @@ signal.signal(signal.SIGINT, _handle_sigint)
 
 REPAIR_CHECKPOINT_FILE = "repair_checkpoint.json"
 
+# repair_checkpoint.json is also the file neo4j_import.py and
+# fix_jsoncase_numbers.py trust as "the ~10.5k files that actually matter"
+# (everything else in OUTPUT_DIR is a leftover/duplicate extraction run
+# that was never matched into Neo4j). This script now treats it as a
+# READ-ONLY scope filter -- it must never be overwritten with a smaller
+# list, or those other scripts would lose files they currently trust.
+# This script's OWN resume progress lives in a separate file instead.
+PROGRESS_FILE = "repair_metadata_progress.json"
+
+
+def load_scope_filenames() -> set:
+    """The set of basenames repair_metadata.py should actually touch --
+    read-only from repair_checkpoint.json, same convention as
+    fix_jsoncase_numbers.py's load_repaired_filenames()."""
+    if not os.path.exists(REPAIR_CHECKPOINT_FILE):
+        return set()
+    with open(REPAIR_CHECKPOINT_FILE, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    names = set()
+    if isinstance(data, list):
+        names.update(data)
+    elif isinstance(data, dict):
+        for key in ("completed", "fixed", "processed", "done", "repaired"):
+            value = data.get(key)
+            if isinstance(value, list):
+                names.update(value)
+            elif isinstance(value, dict):
+                names.update(value.keys())
+    return {os.path.basename(n) for n in names}
+
 
 def load_repair_checkpoint() -> set:
-    if os.path.exists(REPAIR_CHECKPOINT_FILE):
-        with open(REPAIR_CHECKPOINT_FILE, "r", encoding="utf-8") as f:
+    if os.path.exists(PROGRESS_FILE):
+        with open(PROGRESS_FILE, "r", encoding="utf-8") as f:
             return set(json.load(f))
     return set()
 
 
 def save_repair_checkpoint(done_set: set):
-    with open(REPAIR_CHECKPOINT_FILE, "w", encoding="utf-8") as f:
+    with open(PROGRESS_FILE, "w", encoding="utf-8") as f:
         json.dump(sorted(done_set), f, ensure_ascii=False, indent=2)
 
 
@@ -240,19 +275,25 @@ def main():
                          help="Clear repair progress checkpoint and rescan ALL files from the start.")
     args = parser.parse_args()
 
-    if args.reset and os.path.exists(REPAIR_CHECKPOINT_FILE):
-        os.remove(REPAIR_CHECKPOINT_FILE)
-        print(f"🔄 Cleared {REPAIR_CHECKPOINT_FILE} -- will rescan all files from scratch.\n")
+    if args.reset and os.path.exists(PROGRESS_FILE):
+        os.remove(PROGRESS_FILE)
+        print(f"🔄 Cleared {PROGRESS_FILE} -- will rescan all in-scope files from scratch.\n")
 
-    all_json_files = sorted(glob.glob(os.path.join(OUTPUT_DIR, "*.json")))
+    scope = load_scope_filenames()
+    all_files_on_disk = sorted(glob.glob(os.path.join(OUTPUT_DIR, "*.json")))
+    all_json_files = [p for p in all_files_on_disk if os.path.basename(p) in scope]
     total = len(all_json_files)
+    print(
+        f"📂 {len(all_files_on_disk)} JSON files on disk in '{OUTPUT_DIR}/'; "
+        f"{total} are in scope (listed in {REPAIR_CHECKPOINT_FILE}, the set "
+        f"neo4j_import.py actually trusts)."
+    )
 
     done = load_repair_checkpoint() if args.apply else set()
 
     pending_files = [p for p in all_json_files if os.path.basename(p) not in done]
     already_done_count = total - len(pending_files)
 
-    print(f"📂 Found {total} JSON files in '{OUTPUT_DIR}/'")
     if args.apply and already_done_count:
         print(f"⏭  Resuming: {already_done_count} already scanned in a previous run, "
               f"{len(pending_files)} remaining.")

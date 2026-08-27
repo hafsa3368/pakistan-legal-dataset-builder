@@ -262,6 +262,123 @@ def extract_case_number_from_header(header_text: str) -> str:
             return candidate
         return ""
 
+
+# ==========================
+# JUDGE NAME -- CLEANING + VALIDATION
+# ==========================
+# Built from auditing the already-extracted corpus (see fix_judge_names.py
+# and fix_judge_names_json.py, which had to clean this up after the fact
+# for ~700 Judge identities): the raw regex cascade above frequently
+# captures more than a name -- a typist-initials tag ("/PA", "/PS"), the
+# literal word "JUDGE" itself glued on, a title ("Mr.", "Justice"), a
+# case-type word that leaked in ("Criminal Petition"), a role+place that
+# isn't a person at all ("Justice of Peace, Larkana"), or two judges
+# concatenated by a bench sitting together ("X AND Y"). Cleaning and
+# validating here means new extractions don't need the same after-the-
+# fact repair pass.
+BAD_JUDGE_TOKENS = {
+    "PA", "PS", "APG", "DPG", "ASC", "ORDER", "DATE", "JUDGE", "PRESENT",
+    "COURT", "SHEET", "HEARING", "COUNSEL",
+}
+_JUDGE_TYPIST_TAG_STRIP_RE = re.compile(r"\s*/\s*(?:PA|PS)\b", re.IGNORECASE)
+_JUDGE_JUSTICE_OF_PEACE_RE = re.compile(r"justice\s+of\s+peace", re.IGNORECASE)
+_JUDGE_PROSE_WORDS_RE = re.compile(
+    r"\b(?:the|and|was|is|are|were|not|that|which|has|have|had|been|this|"
+    r"these|those|from|with|for|will|shall|would|could|should|against|"
+    r"them|others|by|preferred|reporting|approved)\b",
+    re.IGNORECASE,
+)
+_JUDGE_INITIALS_SURNAME_RE = re.compile(r"^(?:[A-Z]\.){1,3}[A-Z][a-z]+$")
+# Case-caption role words -- "Petitioner Versus [Respondent]" is a caption
+# fragment, never a judge's name. Unlike the general prose-word check
+# above (which needs 2+ hits to reject, since common English words could
+# coincidentally appear once), a SINGLE hit here is decisive: no real
+# judge's name contains any of these words.
+_JUDGE_CAPTION_ROLE_WORDS_RE = re.compile(
+    r"\b(?:petitioner|respondent|versus|vs\.?|applicant|complainant|"
+    r"accused|appellant|plaintiff|defendant)\b",
+    re.IGNORECASE,
+)
+
+# Words stripped from BOTH ends of the candidate, repeatedly, until
+# nothing more comes off -- handles stacked titles ("Mr. Justice X") and
+# trailing case-type leaks ("X Criminal Petition") in one pass. Deliberately
+# the same word list fix_judge_names.py's Neo4j cleanup already proved out.
+_JUDGE_NOISE_WORDS = {
+    "mr", "mrs", "miss", "sir", "dr", "justice", "j", "jj", "the",
+    "hon'ble", "honble", "honourable", "judge",
+    "petition", "petitions", "appeal", "appeals", "criminal", "civil",
+    "application", "applications", "bail", "jail", "revision", "case",
+    "cases", "court", "judicial", "department", "const", "constitutional",
+}
+
+
+def clean_judge_candidate(raw: str) -> str:
+    """Strips typist tags, a glued-on 'JUDGE' word, titles, and trailing
+    case-type leaks, and keeps only the FIRST name when a bench of several
+    judges got concatenated with 'AND'/'&'. Checks for 'Justice of Peace'
+    BEFORE stripping 'Justice' as a title, so that role doesn't survive
+    disguised as a name once its title-word is gone."""
+    if not raw:
+        return ""
+    if _JUDGE_JUSTICE_OF_PEACE_RE.search(raw):
+        return ""
+
+    candidate = re.split(r"\s+(?:AND|&)\s+", raw.strip(), flags=re.IGNORECASE)[0]
+    candidate = _JUDGE_TYPIST_TAG_STRIP_RE.sub(" ", candidate).strip()
+
+    prev = None
+    while prev != candidate:
+        prev = candidate
+        words = [w for w in candidate.split() if w]
+        while words and re.sub(r"[^A-Za-z']", "", words[0]).lower() in _JUDGE_NOISE_WORDS:
+            words.pop(0)
+        while words and re.sub(r"[^A-Za-z']", "", words[-1]).lower() in _JUDGE_NOISE_WORDS:
+            words.pop()
+        candidate = " ".join(words)
+
+    return candidate.strip()
+
+
+def is_valid_judge_name(name: str) -> bool:
+    """True only for something that plausibly IS a judge's name -- not a
+    typist tag, a bare title, a role+place ('Justice of Peace, ...'), a
+    prose fragment, or a single stray word (a real name is virtually
+    always first+last, except the 'K.N.Shah' initials-surname style)."""
+    if not name:
+        return False
+    if len(name) < 4 or len(name) > 60:
+        return False
+    if any(ch.isdigit() for ch in name):
+        return False
+    if "/" in name or "\\" in name:
+        return False
+    if _JUDGE_JUSTICE_OF_PEACE_RE.search(name):
+        return False
+    if _JUDGE_CAPTION_ROLE_WORDS_RE.search(name):
+        return False
+    if len(_JUDGE_PROSE_WORDS_RE.findall(name)) >= 2:
+        return False
+    words = [w for w in re.split(r"\s+", name) if w]
+    if len(words) < 2 and not _JUDGE_INITIALS_SURNAME_RE.match(name):
+        return False
+    for w in words:
+        letters_only = re.sub(r"[^A-Za-z]", "", w)
+        if len(letters_only) < 2:
+            return False
+        if letters_only.upper() in BAD_JUDGE_TOKENS:
+            return False
+    return True
+
+
+def extract_clean_judge(raw_candidate: str) -> str:
+    """Runs a raw regex/Ollama judge candidate through cleaning +
+    validation. Returns '' rather than a garbled/wrong value -- empty is
+    better than a place name or a role title stored as if it were a
+    judge's identity."""
+    cleaned = clean_judge_candidate(raw_candidate)
+    return cleaned if is_valid_judge_name(cleaned) else ""
+
     return ""
 
 
@@ -660,7 +777,7 @@ def extract_document_metadata(full_text: str, row: dict) -> dict:
                 "", candidate, flags=re.I
             ).strip()
             judge = re.match(r"([A-Z][A-Za-z\/\s]{2,100})$", candidate)
-    meta["judge"] = judge.group(1).strip() if judge else ""
+    meta["judge"] = extract_clean_judge(judge.group(1)) if judge else ""
 
     # ── Sections cited ─────────────────────────────────────────────────
     raw_sections = re.findall(
@@ -741,8 +858,17 @@ def extract_document_metadata(full_text: str, row: dict) -> dict:
         if other_missing:
             filled = ollama_fill_missing_metadata(full_text, other_missing)
             for k, v in filled.items():
-                if v:   # only overwrite if Ollama actually returned something
-                    meta[k] = v
+                if not v:   # only overwrite if Ollama actually returned something
+                    continue
+                if k == "judge":
+                    # Same clean+validate gate as the regex path -- Ollama
+                    # was observed returning place names ("Shahdadkot") and
+                    # role titles ("Justice of Peace, Larkana") as if they
+                    # were a judge's name; empty is safer than storing that.
+                    v = extract_clean_judge(v)
+                    if not v:
+                        continue
+                meta[k] = v
 
         if "case_number" in missing:
             # FIX: case_number ke liye Ollama ko sirf header_text (~3000

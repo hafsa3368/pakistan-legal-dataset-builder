@@ -1,0 +1,692 @@
+[
+  {
+    "name": "Mianwali",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Approved for Reporting Riaz",
+    "reason": "prose_fragment_leak",
+    "case_count": 2
+  },
+  {
+    "name": "Shouzab",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Naeem",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 68
+  },
+  {
+    "name": "JUDGE NAK /PA",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Nasim/PA",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JUDG",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "Shegtقشgسآ",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Gulzar",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Khurram",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JLCg",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Justice of Peace",
+    "reason": "role_title_not_a_name",
+    "case_count": 1
+  },
+  {
+    "name": "Not available",
+    "reason": "placeholder",
+    "case_count": 5
+  },
+  {
+    "name": "JUDGE Saleem",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE Akber",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Shahdadkot",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Approved for reporting JUDGE Shahzad Mahmood",
+    "reason": "prose_fragment_leak",
+    "case_count": 2
+  },
+  {
+    "name": "JUDGE Rafiq/PA",
+    "reason": "single_token_likely_fragment",
+    "case_count": 3
+  },
+  {
+    "name": "ARBrohi",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Nazir",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "HANIF JUDGE",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "CJ Saved These Trees Before, Will He Do It Again?",
+    "reason": "prose_fragment_leak",
+    "case_count": 1
+  },
+  {
+    "name": "StunnuJ",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "Judge Judge Islamabad",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Approved for reporting irshad",
+    "reason": "prose_fragment_leak",
+    "case_count": 3
+  },
+  {
+    "name": "Ramzan",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "CJDA",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Approved for reporting Rouf",
+    "reason": "prose_fragment_leak",
+    "case_count": 1
+  },
+  {
+    "name": "Junge",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "Hein",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Approved for Reporting Judge Judge Sabir",
+    "reason": "prose_fragment_leak",
+    "case_count": 2
+  },
+  {
+    "name": "Azeem",
+    "reason": "single_token_likely_fragment",
+    "case_count": 3
+  },
+  {
+    "name": "Farhan",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "Gujranwala",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Ihat",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "APPROVED FOR REPORTING",
+    "reason": "prose_fragment_leak",
+    "case_count": 1
+  },
+  {
+    "name": "Amjad",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JtDg",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "Tariq",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE Nasir/",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Rafiq/PA",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "Justice of Peace Badin",
+    "reason": "role_title_not_a_name",
+    "case_count": 1
+  },
+  {
+    "name": "Jucige",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE JUDGE",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE asim/PA",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "Judge Ayub",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "A.K.",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "ZAFARAHMEDRAIPUL",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE Nadir",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Raza",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "Judge Approved",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "Not Available",
+    "reason": "placeholder",
+    "case_count": 4
+  },
+  {
+    "name": "karar_hussain",
+    "reason": "single_token_likely_fragment",
+    "case_count": 3
+  },
+  {
+    "name": "Shlei",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE Asif",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "S.M.A",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Juoge",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "Lith",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "empty",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Shect",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Udge",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "Mehar",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "ZAFARAHMEDRAJPUT",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGMENT",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Hashmi",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Riaz",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "hanif",
+    "reason": "single_token_likely_fragment",
+    "case_count": 3
+  },
+  {
+    "name": "JUUGE",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE Tahseen/PA",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Athar",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "Empty",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "FRES",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JEUINST",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Joge",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "Bhullo",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Judse",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "Ria-pant",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Johua",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Faisol",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE PA/Amjad",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Bilal",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Approved for Reporting Ramzan",
+    "reason": "prose_fragment_leak",
+    "case_count": 1
+  },
+  {
+    "name": "Approved For Reporting Ramzan",
+    "reason": "prose_fragment_leak",
+    "case_count": 1
+  },
+  {
+    "name": "ROUF",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "Saeed",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "Approved for reporting Judge",
+    "reason": "prose_fragment_leak",
+    "case_count": 1
+  },
+  {
+    "name": "Arsalan",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "Hafizabad",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Mchar",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "ShleI",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Ahjil",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "SHARIF",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Juge",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "Justice of Peace Larkana",
+    "reason": "role_title_not_a_name",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE f",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Shikarpur",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "UDGE",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "ERESH",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "udgق",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "JL؟ge",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "Approved For Reporting",
+    "reason": "prose_fragment_leak",
+    "case_count": 1
+  },
+  {
+    "name": "Razas",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Zeeshan Approved for reporting",
+    "reason": "prose_fragment_leak",
+    "case_count": 1
+  },
+  {
+    "name": "JuJustice",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE Approved for Reporting",
+    "reason": "prose_fragment_leak",
+    "case_count": 1
+  },
+  {
+    "name": "SHETTY",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Shahtadkut",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "IFor",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Sheft",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "filinB",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Lorkana",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "ludge",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 2
+  },
+  {
+    "name": "Shahdackot",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JLLBe",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "CamScanner",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "SIJEE-f",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Mirwah",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Approved for reporting",
+    "reason": "prose_fragment_leak",
+    "case_count": 2
+  },
+  {
+    "name": "Shahzad",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "Approved for Reporting",
+    "reason": "prose_fragment_leak",
+    "case_count": 1
+  },
+  {
+    "name": "Khalil-ur-Rehman",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE Shahzad",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Nadeem",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Approved for reporting Sajid",
+    "reason": "prose_fragment_leak",
+    "case_count": 1
+  },
+  {
+    "name": "Judge Arbab",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE Shahid",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Jdge",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "(Not provided)",
+    "reason": "placeholder",
+    "case_count": 1
+  },
+  {
+    "name": "Surfaceo",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Ihsan",
+    "reason": "single_token_likely_fragment",
+    "case_count": 2
+  },
+  {
+    "name": "Nadir/PA",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Jucge",
+    "reason": "ocr_corrupted_word_judge",
+    "case_count": 1
+  },
+  {
+    "name": "Foronlera",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "JUDGE Karar/",
+    "reason": "single_token_likely_fragment",
+    "case_count": 1
+  },
+  {
+    "name": "Chief Justice",
+    "reason": "empty_after_normalization",
+    "case_count": 1
+  },
+  {
+    "name": "CHIEF JUSTICE",
+    "reason": "empty_after_normalization",
+    "case_count": 8
+  },
+  {
+    "name": "Justice",
+    "reason": "empty_after_normalization",
+    "case_count": 5
+  }
+]
