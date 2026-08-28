@@ -1913,7 +1913,12 @@ def contains_foreign_law_reference(text: Optional[str], evidence_items: list) ->
 # --------------------------------------------------------------------
 KNOWN_HALLUCINATION_PATTERNS = [
     re.compile(
-        r"welfare of (?:the |a |)minor(?:'s|) is(?: treated as|) the paramount consideration",
+        # Article before "paramount consideration" made flexible ("the" or
+        # "a") after live testing showed the model paraphrasing this same
+        # memorized formula with "a paramount consideration" instead of
+        # "the paramount consideration" -- same hallucination, different
+        # article, which the stricter original pattern missed entirely.
+        r"welfare of (?:the |a |)minor(?:'s|) is(?: treated as|) (?:the|a) paramount consideration",
         re.IGNORECASE,
     ),
 ]
@@ -2160,6 +2165,36 @@ _LIKELY_MISSING_SENTENCE_BREAK_PATTERN = re.compile(
 )
 
 
+# --------------------------------------------------------------------
+# Revision 21: a leak class distinct from case-name mentions above --
+# the model attributing a statement to a specific NAMED PERSON (a real
+# judge from its own training data) rather than the generic "the court"
+# the prompt requires, with no "v./vs." case-name marker to anchor on.
+# Observed live: "a cited case, Lord Brightman stated that judicial
+# review is concerned with..." -- the case-name neutralization above
+# correctly swapped the case name for "a cited case", but left the named
+# judge sitting right next to it untouched. Matches broadly on
+# "<Capitalized Name> <reporting verb> that", then only neutralizes if
+# the captured subject is NOT one of the generic terms the model is
+# supposed to use -- so "the court held that" / "the apex Court ruled
+# that" are left alone, only an actual proper name is replaced.
+# --------------------------------------------------------------------
+_NAMED_PERSON_ASSERTION_PATTERN = re.compile(
+    r"\b((?:[A-Z][a-z]+\s+){0,3}[A-Z][a-z]+)\s+"
+    r"(stated|held|observed|ruled|noted|opined|remarked)\s+that\b"
+)
+_SAFE_ASSERTION_SUBJECTS = {
+    "the court", "court", "the apex court", "apex court",
+    "the supreme court", "supreme court", "the high court", "high court",
+    "the majority", "majority", "the bench", "bench",
+    "the honble court", "the honourable court",
+}
+
+
+def _normalize_assertion_subject(name: str) -> str:
+    return re.sub(r"[^a-z ]", "", name.lower()).strip()
+
+
 def neutralize_case_citation_mentions(text: str) -> tuple[str, int]:
     """Replaces a model-stated case mention with a neutral phrase, since
     this is never something Python itself produces -- it can only be the
@@ -2186,8 +2221,17 @@ def neutralize_case_citation_mentions(text: str) -> tuple[str, int]:
         count += 1
         return "a cited case"
 
+    def _replace_named_person(match: re.Match) -> str:
+        nonlocal count
+        subject, verb = match.group(1), match.group(2)
+        if _normalize_assertion_subject(subject) in _SAFE_ASSERTION_SUBJECTS:
+            return match.group(0)
+        count += 1
+        return f"the court {verb} that"
+
     new_text = CASE_NAME_CITATION_PATTERN.sub(_replace_cited, text)
     new_text = CASE_NAME_BARE_PATTERN.sub(_replace_bare, new_text)
+    new_text = _NAMED_PERSON_ASSERTION_PATTERN.sub(_replace_named_person, new_text)
     new_text = _DUPLICATE_PRECEDENT_PHRASE_PATTERN.sub("reported precedents", new_text)
     new_text = _DUPLICATE_CITED_CASE_PHRASE_PATTERN.sub("cited cases", new_text)
     new_text = _LIKELY_MISSING_SENTENCE_BREAK_PATTERN.sub(". ", new_text)
@@ -2726,6 +2770,16 @@ def build_prompt(
           applicant is entitled to bail"). Do NOT place a Held:/Principle:/
           Relevance to your question: structure here -- that structure
           belongs only in APPLICATION TO THE QUERY, further below.
+          ANSWER must itself contain the actual substance you found in the
+          evidence -- never leave it as an empty procedural remark (e.g.
+          "the application was disposed of in the above terms") while the
+          real substantive rule only appears later in RELEVANT CASE LAW.
+          If a specific rule, test, or limitation is present in the
+          evidence (e.g. "Section 498 applies only to X, and is confined
+          to Y"), that belongs in ANSWER, stated as the general position --
+          not held back for a later section. A reader who stops after
+          ANSWER should already have the real answer, not just a
+          placeholder sentence.
         - RELEVANT LEGAL PRINCIPLES: explain, in your own words, the legal
           principles the evidence establishes that bear on this issue, each
           tagged.
@@ -3406,9 +3460,18 @@ def build_deterministic_fallback_answer(
 # doesn't fit what this assistant does. Caught up front, before spending
 # a retrieval + LLM call on a request that was never answerable this way.
 # --------------------------------------------------------------------
+# Users often ask "how many writ petitions..." / "show all bail applications"
+# using the SPECIFIC type noun instead of the generic word "cases" -- this
+# alternation is shared by both branches below so either phrasing is
+# recognized as a listing/counting request, not just the literal word
+# "case(s)".
+_CASE_NOUN_ALTERNATION = (
+    r"cases?|petitions?|applications?|appeals?|suits?|revisions?|references?"
+)
 _AGGREGATE_QUERY_RE = re.compile(
-    r"\b(?:show|list|display|enumerate|give\s+me)\b[^.?!]{0,30}\ball\b[^.?!]{0,30}\bcases?\b"
-    r"|\bhow\s+many\s+cases\b"
+    r"\b(?:show|list|display|enumerate|give\s+me)\b[^.?!]{0,30}\ball\b[^.?!]{0,30}\b(?:"
+    + _CASE_NOUN_ALTERNATION + r")\b"
+    r"|\bhow\s+many\b[^.?!]{0,20}\b(?:" + _CASE_NOUN_ALTERNATION + r")\b"
     r"|\ball\s+cases\s+(?:heard|decided|handled|filed|involving)\b",
     re.IGNORECASE,
 )
@@ -3547,7 +3610,17 @@ def answer_listing_query(legal_query: str) -> Optional[str]:
                     where_clauses.append("j.name CONTAINS $judge")
                     params["judge"] = filters["judge"]
 
-                where_sql = ("WHERE " + " AND ".join(where_clauses)) if where_clauses else ""
+                # NOTE: a WHERE placed directly after OPTIONAL MATCH does
+                # NOT filter out non-matching rows -- it only controls
+                # whether that optional pattern's variables end up null,
+                # per Neo4j's OPTIONAL MATCH semantics. Without the WITH
+                # below, every filter here was silently a no-op and this
+                # always returned the full unfiltered case count (caught
+                # live: "cases under Writ Petition" returned all 10,562
+                # cases instead of the filtered subset). WITH re-binds the
+                # matched variables into a fresh row so WHERE afterward
+                # filters normally, like it would after a plain MATCH.
+                where_sql = ("WITH c, co, j\nWHERE " + " AND ".join(where_clauses)) if where_clauses else ""
 
                 count_result = session.run(
                     f"""
@@ -3683,7 +3756,8 @@ def _format_listing_answer(query: str, filters: dict, total: int, rows: list, is
 # RAG path itself trusts, not a separate ad hoc definition.
 # --------------------------------------------------------------------
 _SIMILAR_TO_QUERY_RE = re.compile(
-    r"(?:cases?\s+similar\s+to|similar\s+cases?\s+(?:to|as)|cases?\s+like)\s+(.+)",
+    r"(?:cases?\s+(?:are\s+|is\s+|would\s+be\s+)?similar\s+to|"
+    r"similar\s+cases?\s+(?:to|as)|cases?\s+like)\s+(.+)",
     re.IGNORECASE,
 )
 _CITING_QUERY_RE = re.compile(
@@ -3872,6 +3946,164 @@ def _answer_citing_query(driver, identifier_text: str) -> str:
     )
 
 
+# --------------------------------------------------------------------
+# SINGLE-CASE LOOKUP -- "tell me about case X" / "details of case X" --
+# same spirit as the listing/relationship routers: a request for a
+# specific case's own metadata is a database lookup, not a legal-
+# reasoning question, so it's answered directly from Neo4j rather than
+# going through Qdrant retrieval + LLM synthesis. Deliberately narrow: it
+# returns the case's verified metadata (court, judge, sections, parties,
+# citations) -- it does NOT summarize the case's legal substance, since
+# that would require the same evidence-grounding/hallucination-safety
+# machinery the normal RAG path already has, and duplicating a weaker
+# version of it here would be worse than just not attempting it.
+# --------------------------------------------------------------------
+_CASE_LOOKUP_QUERY_RE = re.compile(
+    r"(?:tell\s+me\s+about|details?\s+(?:of|for|about)|information\s+(?:about|on|for)|"
+    r"summarize|describe|what\s+is)\s+(?:the\s+)?case\s+(.+)",
+    re.IGNORECASE,
+)
+
+
+def classify_case_lookup_query(query: str) -> Optional[str]:
+    """Returns the raw case identifier text if this looks like a single-
+    case lookup request, else None."""
+    m = _CASE_LOOKUP_QUERY_RE.search(query)
+    if not m:
+        return None
+    identifier = m.group(1).strip().rstrip("?.!")
+    # "What is case X about?" captures "X about" -- strip the trailing
+    # "about" left over from that phrasing.
+    identifier = re.sub(r"\s+about$", "", identifier, flags=re.IGNORECASE).strip()
+    return identifier or None
+
+
+def answer_case_lookup_query(identifier_text: str) -> Optional[str]:
+    """Attempts a direct Neo4j answer for a single-case lookup. Returns
+    the formatted six-section answer, or None if Neo4j is unreachable
+    (caller falls back to build_aggregate_query_decline())."""
+    driver = qn.get_neo4j_driver()
+    if driver is None:
+        return None
+    try:
+        return _answer_case_lookup(driver, identifier_text)
+    finally:
+        driver.close()
+
+
+def _answer_case_lookup(driver, identifier_text: str) -> str:
+    try:
+        with driver.session() as session:
+            exact = session.run(
+                """
+                MATCH (c:Case)
+                WHERE c.case_number = $id OR c.case_id = $id
+                RETURN c.case_id AS case_id
+                LIMIT 1
+                """,
+                id=identifier_text,
+            ).single()
+
+            if exact is None:
+                candidates = list(session.run(
+                    """
+                    MATCH (c:Case)
+                    WHERE c.case_number CONTAINS $id
+                    RETURN c.case_id AS case_id, c.case_number AS case_number
+                    LIMIT 5
+                    """,
+                    id=identifier_text,
+                ))
+            else:
+                candidates = [exact]
+
+            if not candidates:
+                return (
+                    f"LEGAL ISSUE:\nA request for details of case \"{identifier_text}\".\n\n"
+                    f"ANSWER / SUMMARY:\nNo case matching \"{identifier_text}\" was found in "
+                    "the database. Please check the case number and try again.\n\n"
+                    "RELEVANT LEGAL PRINCIPLES:\nNot applicable.\n\nRELEVANT CASE LAW:\nNot applicable.\n\n"
+                    "APPLICATION TO THE QUERY:\nNot applicable.\n\n"
+                    "LIMITATIONS:\nThe case identifier given could not be matched against "
+                    "the case database."
+                )
+
+            if len(candidates) > 1:
+                lines = "\n".join(f"- {c['case_number'] or c['case_id']}" for c in candidates)
+                return (
+                    f"LEGAL ISSUE:\nA request for details of case \"{identifier_text}\".\n\n"
+                    f"ANSWER / SUMMARY:\n\"{identifier_text}\" matches more than one case in "
+                    f"the database. Please specify the full case number:\n{lines}\n\n"
+                    "RELEVANT LEGAL PRINCIPLES:\nNot applicable.\n\nRELEVANT CASE LAW:\nNot applicable.\n\n"
+                    "APPLICATION TO THE QUERY:\nNot applicable.\n\n"
+                    "LIMITATIONS:\nThe case identifier given was ambiguous."
+                )
+
+            case_id = candidates[0]["case_id"]
+            record = session.run(
+                """
+                MATCH (c:Case {case_id: $case_id})
+                OPTIONAL MATCH (c)-[:HEARD_IN]->(co:Court)
+                OPTIONAL MATCH (c)-[:DECIDED_BY]->(j:Judge)
+                OPTIONAL MATCH (c)-[:APPLIES]->(s:LawSection)
+                OPTIONAL MATCH (c)-[:INVOLVES]->(p:Party)
+                OPTIONAL MATCH (c)-[:CITES]->(cit:Citation)
+                RETURN c.case_number AS case_number, c.case_type AS case_type,
+                       c.year AS year, c.date_of_order AS date_of_order,
+                       c.num_chunks AS num_chunks, c.used_ocr AS used_ocr,
+                       co.name AS court, j.name AS judge,
+                       collect(DISTINCT s.name) AS sections,
+                       collect(DISTINCT p.name) AS parties,
+                       collect(DISTINCT cit.citation_id) AS citations
+                """,
+                case_id=case_id,
+            ).single()
+    except Neo4jError as e:
+        log.warning(f"Case lookup query failed: {e}")
+        return build_aggregate_query_decline()
+
+    def _clean(val):
+        val = (val or "").strip()
+        return val if val and val.lower() != "unknown" else None
+
+    case_number = _clean(record["case_number"]) or "(case number not available)"
+    court = _clean(record["court"]) or "not available"
+    judge = _clean(record["judge"]) or "not available"
+    year = _clean(record["year"]) or "not available"
+    date_of_order = _clean(record["date_of_order"]) or "not available"
+    case_type = _clean(record["case_type"]) or "not available"
+    sections = [s for s in record["sections"] if s]
+    parties = [p for p in record["parties"] if p]
+    citations = [c for c in record["citations"] if c]
+
+    summary_lines = [
+        f"Case number: {case_number}",
+        f"Court: {court}",
+        f"Judge: {judge}",
+        f"Year: {year}",
+        f"Date of order: {date_of_order}",
+        f"Case type: {case_type}",
+        f"Sections applied: {', '.join(sections) if sections else 'not available'}",
+        f"Parties: {', '.join(parties) if parties else 'not available'}",
+        f"Citations: {', '.join(citations) if citations else 'none recorded'}",
+        f"Chunks of extracted text on record: {record['num_chunks']}",
+    ]
+    summary = "\n".join(summary_lines)
+
+    return (
+        f"LEGAL ISSUE:\nA request for details of case {case_number}.\n\n"
+        f"ANSWER / SUMMARY:\n{summary}\n\n"
+        "RELEVANT LEGAL PRINCIPLES:\nNot applicable -- this is a database lookup, "
+        "not a legal determination. Ask a substantive legal question (e.g. 'What are "
+        "the grounds for bail under Section 497 CrPC?') to get a reasoned answer "
+        "grounded in retrieved case law.\n\n"
+        "RELEVANT CASE LAW:\nNot applicable.\n\n"
+        "APPLICATION TO THE QUERY:\nNot applicable.\n\n"
+        "LIMITATIONS:\nThis reflects only the metadata extracted for this case in "
+        "this system's database, not a legal summary of its holding or reasoning."
+    )
+
+
 def user_facing_error(message: str) -> str:
     """Same six-section shape, used only for genuine RETRIEVAL failures
     (no evidence was ever found) so the caller never sees a raw
@@ -3936,6 +4168,11 @@ def answer_legal_query(
         kind, identifier_text = relationship_query
         text = answer_relationship_query(kind, identifier_text) or build_aggregate_query_decline()
         return (text, {"mode": "relationship_query", "relationship_kind": kind}) if return_debug else text
+
+    case_lookup_identifier = classify_case_lookup_query(legal_query)
+    if case_lookup_identifier:
+        text = answer_case_lookup_query(case_lookup_identifier) or build_aggregate_query_decline()
+        return (text, {"mode": "case_lookup_query"}) if return_debug else text
 
     try:
         evidence = retrieve_evidence(legal_query, central_identifier)

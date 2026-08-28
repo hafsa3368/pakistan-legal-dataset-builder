@@ -65,7 +65,10 @@ NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD")
 # READ ONLY
 # =========================================================
 
-QDRANT_HOST = "localhost"
+QDRANT_HOST = "127.0.0.1"  # force IPv4 -- "localhost" intermittently resolves to
+                            # IPv6 ::1 on this machine, where nothing is listening
+                            # (Qdrant binds 0.0.0.0 / IPv4 only), which hangs the
+                            # connection forever instead of failing fast
 QDRANT_PORT = 6333
 QDRANT_COLLECTION = "legal_chunks"
 QDRANT_SCROLL_BATCH = 500

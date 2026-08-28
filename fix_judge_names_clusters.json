@@ -1,7 +1,7 @@
 [
   {
     "canonical_name": "Muhammad Iqbal Kalhoro",
-    "total_case_count": 930,
+    "total_case_count": 944,
     "merged_from": [
       "MUHAMMAD IQBAL KALHORO",
       "MUHAMMAD IQBAL KALHORO,J",
@@ -13,19 +13,19 @@
     ]
   },
   {
+    "canonical_name": "Abdul Basit",
+    "total_case_count": 446,
+    "merged_from": [
+      "Abdul Basit",
+      "JUDGE Abdul Basit"
+    ]
+  },
+  {
     "canonical_name": "Ahmad",
     "total_case_count": 389,
     "merged_from": [
       "Ahmad",
       "JUDGE Ahmad"
-    ]
-  },
-  {
-    "canonical_name": "Abdul Basit",
-    "total_case_count": 371,
-    "merged_from": [
-      "Abdul Basit",
-      "JUDGE Abdul Basit"
     ]
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "canonical_name": "Athar Zai",
-    "total_case_count": 324,
+    "total_case_count": 325,
     "merged_from": [
       "Athar Za",
       "Athar Zai",
@@ -50,7 +50,7 @@
   },
   {
     "canonical_name": "Irshad Ali Shah",
-    "total_case_count": 253,
+    "total_case_count": 258,
     "merged_from": [
       "IRSHAD ALI SHAH",
       "Irshad Ali Shah",
@@ -99,14 +99,6 @@
     ]
   },
   {
-    "canonical_name": "Tariq Saleem Sheikh",
-    "total_case_count": 174,
-    "merged_from": [
-      "TARIQ SALEEM SHEIKH",
-      "Tariq Saleem Sheikh"
-    ]
-  },
-  {
     "canonical_name": "Anwaar Hussain",
     "total_case_count": 174,
     "merged_from": [
@@ -115,8 +107,16 @@
     ]
   },
   {
+    "canonical_name": "Tariq Saleem Sheikh",
+    "total_case_count": 174,
+    "merged_from": [
+      "TARIQ SALEEM SHEIKH",
+      "Tariq Saleem Sheikh"
+    ]
+  },
+  {
     "canonical_name": "Zafar Ahmed Rajput",
-    "total_case_count": 149,
+    "total_case_count": 151,
     "merged_from": [
       "Afarr Ahmed Rajpul",
       "Justice Zafar Ahmed Rajpul",
@@ -208,7 +208,7 @@
   },
   {
     "canonical_name": "Abid Aziz Sheikh",
-    "total_case_count": 95,
+    "total_case_count": 96,
     "merged_from": [
       "ABID AZIZ SHEIKH",
       "ABID AZIZ SHEIKH AND SHAHID JAMIL KHAN",
@@ -343,19 +343,19 @@
     ]
   },
   {
-    "canonical_name": "Asjad Javaid Ghural",
-    "total_case_count": 38,
-    "merged_from": [
-      "ASJAD JAVAID GHURAL",
-      "Asjad Javaid Ghural"
-    ]
-  },
-  {
     "canonical_name": "Muhammad Tariq Nadeem",
     "total_case_count": 38,
     "merged_from": [
       "MUHAMMAD TARIQ NADEEM",
       "Muhammad Tariq Nadeem"
+    ]
+  },
+  {
+    "canonical_name": "Asjad Javaid Ghural",
+    "total_case_count": 38,
+    "merged_from": [
+      "ASJAD JAVAID GHURAL",
+      "Asjad Javaid Ghural"
     ]
   },
   {
@@ -367,10 +367,18 @@
   },
   {
     "canonical_name": "Ali Zia Bajwa",
-    "total_case_count": 34,
+    "total_case_count": 35,
     "merged_from": [
       "ALI ZIA BAJWA",
       "Ali Zia Bajwa"
+    ]
+  },
+  {
+    "canonical_name": "Abdullah Channa",
+    "total_case_count": 34,
+    "merged_from": [
+      "ABDULLAH CHANNA",
+      "Abdullah Channa"
     ]
   },
   {
@@ -417,14 +425,6 @@
     "merged_from": [
       "TANVEER AHMAD SHEIKH",
       "Tanveer Ahmad Sheikh"
-    ]
-  },
-  {
-    "canonical_name": "Abdullah Channa",
-    "total_case_count": 28,
-    "merged_from": [
-      "ABDULLAH CHANNA",
-      "Abdullah Channa"
     ]
   },
   {
@@ -565,20 +565,20 @@
     ]
   },
   {
-    "canonical_name": "Ahmed",
-    "total_case_count": 15,
-    "merged_from": [
-      "Ahmed",
-      "Ahmed/Pa",
-      "JUDGE Ahmed/Pa"
-    ]
-  },
-  {
     "canonical_name": "Abher Gul Khan",
     "total_case_count": 14,
     "merged_from": [
       "ABHER GUL KHAN",
       "Abher Gul Khan"
+    ]
+  },
+  {
+    "canonical_name": "Ahmed",
+    "total_case_count": 14,
+    "merged_from": [
+      "Ahmed",
+      "Ahmed/Pa",
+      "JUDGE Ahmed/Pa"
     ]
   },
   {
@@ -614,13 +614,6 @@
     ]
   },
   {
-    "canonical_name": "Rizwan",
-    "total_case_count": 13,
-    "merged_from": [
-      "Rizwan"
-    ]
-  },
-  {
     "canonical_name": "Malik Javid Iqbal Wains",
     "total_case_count": 12,
     "merged_from": [
@@ -633,6 +626,13 @@
     "total_case_count": 12,
     "merged_from": [
       "MUHAMMAD JAWAD ZAFAR"
+    ]
+  },
+  {
+    "canonical_name": "Rizwan",
+    "total_case_count": 12,
+    "merged_from": [
+      "Rizwan"
     ]
   },
   {
@@ -675,19 +675,19 @@
     ]
   },
   {
+    "canonical_name": "Yahya Afridi",
+    "total_case_count": 7,
+    "merged_from": [
+      "Yahya Afridi"
+    ]
+  },
+  {
     "canonical_name": "Malik Shahzad Ahmad Khan",
     "total_case_count": 7,
     "merged_from": [
       "MALIK SHAHZAD AHMAD KHAN",
       "Malik Shahzad Ahmad Khan",
       "Malik Shahzad Ahmed Khan"
-    ]
-  },
-  {
-    "canonical_name": "Yahya Afridi",
-    "total_case_count": 7,
-    "merged_from": [
-      "Yahya Afridi"
     ]
   },
   {
@@ -753,6 +753,13 @@
     ]
   },
   {
+    "canonical_name": "Zeeshan Khan",
+    "total_case_count": 6,
+    "merged_from": [
+      "Zeeshan Khan"
+    ]
+  },
+  {
     "canonical_name": "Iftikhar Muhammad Chaudhry",
     "total_case_count": 6,
     "merged_from": [
@@ -773,13 +780,6 @@
     "total_case_count": 6,
     "merged_from": [
       "Abdul Rehman"
-    ]
-  },
-  {
-    "canonical_name": "Zeeshan Khan",
-    "total_case_count": 6,
-    "merged_from": [
-      "Zeeshan Khan"
     ]
   },
   {
@@ -805,25 +805,18 @@
     ]
   },
   {
-    "canonical_name": "Riaz Ahmad",
-    "total_case_count": 5,
-    "merged_from": [
-      "Riaz Ahmad"
-    ]
-  },
-  {
-    "canonical_name": "Acting",
-    "total_case_count": 5,
-    "merged_from": [
-      "ACTING CHIEF JUSTICE"
-    ]
-  },
-  {
     "canonical_name": "Muhammad Shafi Siddiqui",
     "total_case_count": 5,
     "merged_from": [
       "Muhammad Shafi Siddiqui",
       "Muhammad Shafi Siddiqui Mr"
+    ]
+  },
+  {
+    "canonical_name": "Riaz Ahmad",
+    "total_case_count": 5,
+    "merged_from": [
+      "Riaz Ahmad"
     ]
   },
   {
@@ -841,17 +834,17 @@
     ]
   },
   {
+    "canonical_name": "Acting",
+    "total_case_count": 5,
+    "merged_from": [
+      "ACTING CHIEF JUSTICE"
+    ]
+  },
+  {
     "canonical_name": "Musharraf Ali",
     "total_case_count": 5,
     "merged_from": [
       "MUSHARRAF ALI"
-    ]
-  },
-  {
-    "canonical_name": "Petitioner Versus",
-    "total_case_count": 4,
-    "merged_from": [
-      "Petitioner Versus"
     ]
   },
   {
@@ -886,10 +879,10 @@
     ]
   },
   {
-    "canonical_name": "Nasir",
+    "canonical_name": "Sajid",
     "total_case_count": 4,
     "merged_from": [
-      "Nasir"
+      "Sajid"
     ]
   },
   {
@@ -901,17 +894,31 @@
     ]
   },
   {
+    "canonical_name": "Nishat",
+    "total_case_count": 4,
+    "merged_from": [
+      "Nishat"
+    ]
+  },
+  {
+    "canonical_name": "Petitioner Versus",
+    "total_case_count": 4,
+    "merged_from": [
+      "Petitioner Versus"
+    ]
+  },
+  {
+    "canonical_name": "Nasir",
+    "total_case_count": 4,
+    "merged_from": [
+      "Nasir"
+    ]
+  },
+  {
     "canonical_name": "Asif",
     "total_case_count": 4,
     "merged_from": [
       "Asif"
-    ]
-  },
-  {
-    "canonical_name": "Gulsher",
-    "total_case_count": 4,
-    "merged_from": [
-      "Gulsher"
     ]
   },
   {
@@ -920,6 +927,13 @@
     "merged_from": [
       "Muhammad Junaid Ghaffar",
       "Muhammad Junaid Ghaffar Mr"
+    ]
+  },
+  {
+    "canonical_name": "Gulsher",
+    "total_case_count": 4,
+    "merged_from": [
+      "Gulsher"
     ]
   },
   {
@@ -939,10 +953,10 @@
     ]
   },
   {
-    "canonical_name": "Nishat",
+    "canonical_name": "Zafar Ahmed Rajput Adnan",
     "total_case_count": 4,
     "merged_from": [
-      "Nishat"
+      "Zafar Ahmed Rajput Justice Adnan"
     ]
   },
   {
@@ -950,20 +964,6 @@
     "total_case_count": 4,
     "merged_from": [
       "Abis Ali"
-    ]
-  },
-  {
-    "canonical_name": "Sajid",
-    "total_case_count": 4,
-    "merged_from": [
-      "Sajid"
-    ]
-  },
-  {
-    "canonical_name": "Zafar Ahmed Rajput Adnan",
-    "total_case_count": 4,
-    "merged_from": [
-      "Zafar Ahmed Rajput Justice Adnan"
     ]
   },
   {
@@ -983,10 +983,11 @@
     ]
   },
   {
-    "canonical_name": "Irfan Shah",
+    "canonical_name": "Abdul Hamid Bhurgari",
     "total_case_count": 3,
     "merged_from": [
-      "Irfan Shah"
+      "Abdul Hamid Bhurgari",
+      "Mr Abdul Hamid Bhurgri"
     ]
   },
   {
@@ -994,13 +995,6 @@
     "total_case_count": 3,
     "merged_from": [
       "Faisal Arab"
-    ]
-  },
-  {
-    "canonical_name": "Salahuddin Panhwar",
-    "total_case_count": 3,
-    "merged_from": [
-      "Salahuddin Panhwar"
     ]
   },
   {
@@ -1012,10 +1006,33 @@
     ]
   },
   {
+    "canonical_name": "Zahid Baig",
+    "total_case_count": 3,
+    "merged_from": [
+      "Zahid Baig"
+    ]
+  },
+  {
     "canonical_name": "Khurshld Anwar Bhinder",
     "total_case_count": 3,
     "merged_from": [
       "Khurshld Anwar Bhinder"
+    ]
+  },
+  {
+    "canonical_name": "Abdul Naeem Pirzada",
+    "total_case_count": 3,
+    "merged_from": [
+      "Mr Abdul Naeem Pirzada",
+      "Mr. Abdul Naeem Pirzada"
+    ]
+  },
+  {
+    "canonical_name": "Raham Ali Rind",
+    "total_case_count": 3,
+    "merged_from": [
+      "Mr. Raham Ali Rind",
+      "Raham Ali Rind"
     ]
   },
   {
@@ -1035,18 +1052,25 @@
     ]
   },
   {
+    "canonical_name": "Salahuddin Panhwar",
+    "total_case_count": 3,
+    "merged_from": [
+      "Salahuddin Panhwar"
+    ]
+  },
+  {
+    "canonical_name": "Irfan Shah",
+    "total_case_count": 3,
+    "merged_from": [
+      "Irfan Shah"
+    ]
+  },
+  {
     "canonical_name": "For Katcha Peshi",
     "total_case_count": 3,
     "merged_from": [
       "For Katcha Peshi",
       "For katciia peshi"
-    ]
-  },
-  {
-    "canonical_name": "Sardar Muhammad Sarfraz Dogar",
-    "total_case_count": 2,
-    "merged_from": [
-      "Sardar Muhammad Sarfraz Dogar"
     ]
   },
   {
@@ -1087,28 +1111,6 @@
     ]
   },
   {
-    "canonical_name": "Fazal Karim",
-    "total_case_count": 2,
-    "merged_from": [
-      "Fazal Karim"
-    ]
-  },
-  {
-    "canonical_name": "Muhamitad Waheed Khan Cast No",
-    "total_case_count": 2,
-    "merged_from": [
-      "Muhamitad Waheed Khan Cast No",
-      "Muhammad Waheed Khan Cist No"
-    ]
-  },
-  {
-    "canonical_name": "Javed Yousaf",
-    "total_case_count": 2,
-    "merged_from": [
-      "Javed Yousaf"
-    ]
-  },
-  {
     "canonical_name": "Sarfraz Khan Jatoi",
     "total_case_count": 2,
     "merged_from": [
@@ -1117,26 +1119,40 @@
     ]
   },
   {
-    "canonical_name": "Khadim Hussain Tunio",
+    "canonical_name": "Ali Anwar Kandhro",
     "total_case_count": 2,
     "merged_from": [
-      "Khadim Hussain Tunio"
+      "Mr Ali Aniwar Kandhro",
+      "Mr. Ali Anwar Kandhro"
     ]
   },
   {
-    "canonical_name": "Zaeer Ahmed Rajpul",
+    "canonical_name": "Jamshaid Ali Hashmi",
     "total_case_count": 2,
     "merged_from": [
-      "Zaeer Ahmed Rajpul",
-      "Zaeer Ahmed Rajpur"
+      "Jamshaid Ali Hashmi"
     ]
   },
   {
-    "canonical_name": "Wazir Hussain Khoso",
+    "canonical_name": "Aqeel Ahmed Abbasi",
     "total_case_count": 2,
     "merged_from": [
-      "Mr. Wazir Hussain Khoso",
-      "Wazir Hussain Khoso"
+      "Aqeel Ahmed Abbasi",
+      "Aqeel Ahmed Abbasi Mr"
+    ]
+  },
+  {
+    "canonical_name": "Sana Akram Minhas",
+    "total_case_count": 2,
+    "merged_from": [
+      "Sana Akram Minhas"
+    ]
+  },
+  {
+    "canonical_name": "Sardar Muhammad Sarfraz Dogar",
+    "total_case_count": 2,
+    "merged_from": [
+      "Sardar Muhammad Sarfraz Dogar"
     ]
   },
   {
@@ -1156,10 +1172,53 @@
     ]
   },
   {
+    "canonical_name": "Zafar Ahmed Rajput Amjad",
+    "total_case_count": 2,
+    "merged_from": [
+      "Zafar Ahmed Rajput Justice Amjad"
+    ]
+  },
+  {
+    "canonical_name": "Abdul Salam Memon",
+    "total_case_count": 2,
+    "merged_from": [
+      "Mr. Abdul Salam Memon"
+    ]
+  },
+  {
+    "canonical_name": "Zaeer Ahmed Rajpur",
+    "total_case_count": 2,
+    "merged_from": [
+      "Zaeer Ahmed Rajpul",
+      "Zaeer Ahmed Rajpur"
+    ]
+  },
+  {
+    "canonical_name": "Shamsul Hadi",
+    "total_case_count": 2,
+    "merged_from": [
+      "Mr. Shamsul Hadi"
+    ]
+  },
+  {
     "canonical_name": "Muhammad Imran Kalmati",
     "total_case_count": 2,
     "merged_from": [
       "Mr. Muhammad Imran Kalmati"
+    ]
+  },
+  {
+    "canonical_name": "Abdul Nabi Joyo",
+    "total_case_count": 2,
+    "merged_from": [
+      "Mr. Abdul Nabi Joyo"
+    ]
+  },
+  {
+    "canonical_name": "Qaim Ali Memon",
+    "total_case_count": 2,
+    "merged_from": [
+      "Qaim Ali Memon"
     ]
   },
   {
@@ -1185,47 +1244,18 @@
     ]
   },
   {
-    "canonical_name": "Abdul Naeem Pirzada",
+    "canonical_name": "Khadim Hussain Tunio",
     "total_case_count": 2,
     "merged_from": [
-      "Mr Abdul Naeem Pirzada",
-      "Mr. Abdul Naeem Pirzada"
+      "Khadim Hussain Tunio"
     ]
   },
   {
-    "canonical_name": "Aqeel Ahmed Abbasi",
+    "canonical_name": "Wazir Hussain Khoso",
     "total_case_count": 2,
     "merged_from": [
-      "Aqeel Ahmed Abbasi",
-      "Aqeel Ahmed Abbasi Mr"
-    ]
-  },
-  {
-    "canonical_name": "Abdul Salam Memon",
-    "total_case_count": 2,
-    "merged_from": [
-      "Mr. Abdul Salam Memon"
-    ]
-  },
-  {
-    "canonical_name": "Fax Ilaoxn",
-    "total_case_count": 2,
-    "merged_from": [
-      "Fax Ilaoxn"
-    ]
-  },
-  {
-    "canonical_name": "John Marshall",
-    "total_case_count": 2,
-    "merged_from": [
-      "John Marshall"
-    ]
-  },
-  {
-    "canonical_name": "Ghulam Qadir Jamali",
-    "total_case_count": 2,
-    "merged_from": [
-      "Ghulam Qadir Jamali"
+      "Mr. Wazir Hussain Khoso",
+      "Wazir Hussain Khoso"
     ]
   },
   {
@@ -1237,38 +1267,18 @@
     ]
   },
   {
-    "canonical_name": "Muhammad Danish",
+    "canonical_name": "Sardar Ali Shah",
     "total_case_count": 2,
     "merged_from": [
-      "Muhammad Danish"
+      "Mr. Sardar Ali Shah",
+      "Sardur Ali Shah"
     ]
   },
   {
-    "canonical_name": "Jamshaid Ali Hashmi",
+    "canonical_name": "John Marshall",
     "total_case_count": 2,
     "merged_from": [
-      "Jamshaid Ali Hashmi"
-    ]
-  },
-  {
-    "canonical_name": "Habibullah Ghouri",
-    "total_case_count": 2,
-    "merged_from": [
-      "Habibullah Ghouri"
-    ]
-  },
-  {
-    "canonical_name": "Zafar Ahmed Rajput Amjad",
-    "total_case_count": 2,
-    "merged_from": [
-      "Zafar Ahmed Rajput Justice Amjad"
-    ]
-  },
-  {
-    "canonical_name": "Sana Akram Minhas",
-    "total_case_count": 2,
-    "merged_from": [
-      "Sana Akram Minhas"
+      "John Marshall"
     ]
   },
   {
@@ -1279,10 +1289,54 @@
     ]
   },
   {
-    "canonical_name": "Raja Jawad Ali Saahar",
+    "canonical_name": "Fazal Karim",
     "total_case_count": 2,
     "merged_from": [
-      "Raja Jawad Ali Saahar"
+      "Fazal Karim"
+    ]
+  },
+  {
+    "canonical_name": "Muhamitad Waheed Khan Cast No",
+    "total_case_count": 2,
+    "merged_from": [
+      "Muhamitad Waheed Khan Cast No",
+      "Muhammad Waheed Khan Cist No"
+    ]
+  },
+  {
+    "canonical_name": "Javed Yousaf",
+    "total_case_count": 2,
+    "merged_from": [
+      "Javed Yousaf"
+    ]
+  },
+  {
+    "canonical_name": "Fax Ilaoxn",
+    "total_case_count": 2,
+    "merged_from": [
+      "Fax Ilaoxn"
+    ]
+  },
+  {
+    "canonical_name": "Naushad Ali Tagar",
+    "total_case_count": 2,
+    "merged_from": [
+      "Naushad Ali Tagar"
+    ]
+  },
+  {
+    "canonical_name": "Juclge Juclge",
+    "total_case_count": 2,
+    "merged_from": [
+      "Juclge Juclge",
+      "Juge Juclge"
+    ]
+  },
+  {
+    "canonical_name": "Ghulam Qadir Jamali",
+    "total_case_count": 2,
+    "merged_from": [
+      "Ghulam Qadir Jamali"
     ]
   },
   {
@@ -1293,6 +1347,13 @@
     ]
   },
   {
+    "canonical_name": "Ali Akber Kolhoro",
+    "total_case_count": 2,
+    "merged_from": [
+      "Ali Akber Kolhoro"
+    ]
+  },
+  {
     "canonical_name": "Mt Judge T",
     "total_case_count": 2,
     "merged_from": [
@@ -1300,10 +1361,17 @@
     ]
   },
   {
-    "canonical_name": "Zahid Baig",
+    "canonical_name": "Muhammad Danish",
     "total_case_count": 2,
     "merged_from": [
-      "Zahid Baig"
+      "Muhammad Danish"
+    ]
+  },
+  {
+    "canonical_name": "Habibullah Ghouri",
+    "total_case_count": 2,
+    "merged_from": [
+      "Habibullah Ghouri"
     ]
   },
   {
@@ -1333,6 +1401,20 @@
     "total_case_count": 2,
     "merged_from": [
       "Mohammad Karim Khan Agha"
+    ]
+  },
+  {
+    "canonical_name": "Raja Jawad Ali Saahar",
+    "total_case_count": 2,
+    "merged_from": [
+      "Raja Jawad Ali Saahar"
+    ]
+  },
+  {
+    "canonical_name": "Malik Khuda Yar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Malik Khuda Yar"
     ]
   },
   {
@@ -1399,6 +1481,370 @@
     ]
   },
   {
+    "canonical_name": "Abid Hussain Kalhoro",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Abid Hussain Kalhoro"
+    ]
+  },
+  {
+    "canonical_name": "Reshma Zangejo",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mrs. Reshma Zangejo"
+    ]
+  },
+  {
+    "canonical_name": "Afzal Karim Virk",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Afzal Karim Virk"
+    ]
+  },
+  {
+    "canonical_name": "Riaz Hussain Khoso",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Riaz Hussain Khoso"
+    ]
+  },
+  {
+    "canonical_name": "Abdul Rehman Bhutto",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Abdul Rehman Bhutto"
+    ]
+  },
+  {
+    "canonical_name": "Mehfooz Ahmed Awan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mehfooz Ahmed Awan"
+    ]
+  },
+  {
+    "canonical_name": "Shahid Waheed Musarrat Hilali",
+    "total_case_count": 1,
+    "merged_from": [
+      "Shahid Waheed Justice Musarrat Hilali"
+    ]
+  },
+  {
+    "canonical_name": "Javed Ali Soomro",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Javed Ali Soomro"
+    ]
+  },
+  {
+    "canonical_name": "Orderr",
+    "total_case_count": 1,
+    "merged_from": [
+      "THE ORDERR"
+    ]
+  },
+  {
+    "canonical_name": "Ali Bux Mugheri",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Ali Bux Mugheri"
+    ]
+  },
+  {
+    "canonical_name": "Omar Sial",
+    "total_case_count": 1,
+    "merged_from": [
+      "Omar Sial Mr"
+    ]
+  },
+  {
+    "canonical_name": "Munir Ahmad Kakar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Munir Ahmad Kakar"
+    ]
+  },
+  {
+    "canonical_name": "Manzoor Hussain Butt",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Manzoor Hussain Butt"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Akram Chaudhry",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Muhammad Akram Chaudhry"
+    ]
+  },
+  {
+    "canonical_name": "Abdul Ghafar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Abdul Ghafar"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Suleman Nassemi",
+    "total_case_count": 1,
+    "merged_from": [
+      "Muhammad Suleman Nassemi"
+    ]
+  },
+  {
+    "canonical_name": "Faisalabad Electric Supply Company Limited",
+    "total_case_count": 1,
+    "merged_from": [
+      "FAISALABAD ELECTRIC SUPPLY COMPANY LIMITED"
+    ]
+  },
+  {
+    "canonical_name": "Shahid Waheed",
+    "total_case_count": 1,
+    "merged_from": [
+      "Shahid Waheed"
+    ]
+  },
+  {
+    "canonical_name": "Manzoor Hussain",
+    "total_case_count": 1,
+    "merged_from": [
+      "MANZOOR HUSSAIN"
+    ]
+  },
+  {
+    "canonical_name": "Rehim Yar Khan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Rehim Yar Khan"
+    ]
+  },
+  {
+    "canonical_name": "Shoukat Ali",
+    "total_case_count": 1,
+    "merged_from": [
+      "SHOUKAT ALI"
+    ]
+  },
+  {
+    "canonical_name": "Leamed Single Judgu In Chamber",
+    "total_case_count": 1,
+    "merged_from": [
+      "leamed Single Judgu in Chamber"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Bilal",
+    "total_case_count": 1,
+    "merged_from": [
+      "Muhammad Bilal"
+    ]
+  },
+  {
+    "canonical_name": "Anwaarul Haq Pannun",
+    "total_case_count": 1,
+    "merged_from": [
+      "ANWAARUL HAQ PANNUN"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Shan Gul",
+    "total_case_count": 1,
+    "merged_from": [
+      "MUHAMMAD SHAN GUL"
+    ]
+  },
+  {
+    "canonical_name": "Syed Ali Zafar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Syed Ali Zafar"
+    ]
+  },
+  {
+    "canonical_name": "Shahid Mlhmood",
+    "total_case_count": 1,
+    "merged_from": [
+      "SHAHID MLHMOOD"
+    ]
+  },
+  {
+    "canonical_name": "Raza Cng Station",
+    "total_case_count": 1,
+    "merged_from": [
+      "RAZA CNG STATION"
+    ]
+  },
+  {
+    "canonical_name": "Mirau Viqus Rauf",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mirau Viqus Rauf"
+    ]
+  },
+  {
+    "canonical_name": "Tahir Pervaiz",
+    "total_case_count": 1,
+    "merged_from": [
+      "Tahir Pervaiz"
+    ]
+  },
+  {
+    "canonical_name": "Tariq Muhammad",
+    "total_case_count": 1,
+    "merged_from": [
+      "Tariq Muhammad"
+    ]
+  },
+  {
+    "canonical_name": "Justicu Zafar Ahmed Rajpul",
+    "total_case_count": 1,
+    "merged_from": [
+      "Justicu Zafar Ahmed Rajpul"
+    ]
+  },
+  {
+    "canonical_name": "Shab Alam",
+    "total_case_count": 1,
+    "merged_from": [
+      "Justice Shab Alam"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Bashir Paracha",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Muhammad Bashir Paracha"
+    ]
+  },
+  {
+    "canonical_name": "Syed Dilshad Hussain Shah",
+    "total_case_count": 1,
+    "merged_from": [
+      "Syed Dilshad Hussain Shah"
+    ]
+  },
+  {
+    "canonical_name": "Afridi Cj",
+    "total_case_count": 1,
+    "merged_from": [
+      "Justice Afridi, CJ"
+    ]
+  },
+  {
+    "canonical_name": "For Hagarlng",
+    "total_case_count": 1,
+    "merged_from": [
+      "For Hagarlng"
+    ]
+  },
+  {
+    "canonical_name": "Alluf Hussoin Suruho",
+    "total_case_count": 1,
+    "merged_from": [
+      "Alluf Hussoin Suruho"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Farooq",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr Muhammad Farooq"
+    ]
+  },
+  {
+    "canonical_name": "Asadullah Soomro",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Asadullah Soomro"
+    ]
+  },
+  {
+    "canonical_name": "Mlazhar Ilanigall",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mlazhar Ilanigall"
+    ]
+  },
+  {
+    "canonical_name": "Bank Thu Uppeal And",
+    "total_case_count": 1,
+    "merged_from": [
+      "Bank Thu petition uppeal and"
+    ]
+  },
+  {
+    "canonical_name": "High Larkana",
+    "total_case_count": 1,
+    "merged_from": [
+      "HIGH LARKANA"
+    ]
+  },
+  {
+    "canonical_name": "Dato Ululta'",
+    "total_case_count": 1,
+    "merged_from": [
+      "Dato ululta'}"
+    ]
+  },
+  {
+    "canonical_name": "Hakim Ali Patopo",
+    "total_case_count": 1,
+    "merged_from": [
+      "Hakim Ali Patopo"
+    ]
+  },
+  {
+    "canonical_name": "Jade Heaxta",
+    "total_case_count": 1,
+    "merged_from": [
+      "Jade Heaxta"
+    ]
+  },
+  {
+    "canonical_name": "Teh Oo",
+    "total_case_count": 1,
+    "merged_from": [
+      "Teh Oo"
+    ]
+  },
+  {
+    "canonical_name": "Mir Sardar Ali Shah",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mir Sardar Ali Shah"
+    ]
+  },
+  {
+    "canonical_name": "Thattalla Ior",
+    "total_case_count": 1,
+    "merged_from": [
+      "Thattalla Ior"
+    ]
+  },
+  {
+    "canonical_name": "Jude Allen Pereira",
+    "total_case_count": 1,
+    "merged_from": [
+      "Jude Allen Pereira"
+    ]
+  },
+  {
+    "canonical_name": "Azmat Sultan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Justice Azmat Sultan"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Saeed Khan Khoso",
+    "total_case_count": 1,
+    "merged_from": [
+      "Justice Muhammad Saeed Khan Khoso"
+    ]
+  },
+  {
     "canonical_name": "Miza Rau No Mrit",
     "total_case_count": 1,
     "merged_from": [
@@ -1417,6 +1863,1154 @@
     "total_case_count": 1,
     "merged_from": [
       "Mehboob Elahi"
+    ]
+  },
+  {
+    "canonical_name": "Rana Muhammad Mehtab",
+    "total_case_count": 1,
+    "merged_from": [
+      "Rana Muhammad Mehtab"
+    ]
+  },
+  {
+    "canonical_name": "Fahim Ahmed Saeed",
+    "total_case_count": 1,
+    "merged_from": [
+      "Fahim Ahmed Saeed"
+    ]
+  },
+  {
+    "canonical_name": "Ihia Baquie",
+    "total_case_count": 1,
+    "merged_from": [
+      "Ihia Baquie"
+    ]
+  },
+  {
+    "canonical_name": "No Information Found",
+    "total_case_count": 1,
+    "merged_from": [
+      "No information found"
+    ]
+  },
+  {
+    "canonical_name": "Hon Ble For Hancock",
+    "total_case_count": 1,
+    "merged_from": [
+      "Hon ble Justice For Hancock"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Azmat Saeed",
+    "total_case_count": 1,
+    "merged_from": [
+      "Justice Muhammad Azmat Saeed"
+    ]
+  },
+  {
+    "canonical_name": "Officer",
+    "total_case_count": 1,
+    "merged_from": [
+      "Judicial Officer"
+    ]
+  },
+  {
+    "canonical_name": "Shams Hei In",
+    "total_case_count": 1,
+    "merged_from": [
+      "SHAMS HEI IN"
+    ]
+  },
+  {
+    "canonical_name": "Syed Muhammad Abbas",
+    "total_case_count": 1,
+    "merged_from": [
+      "Syed Muhammad Abbas"
+    ]
+  },
+  {
+    "canonical_name": "Judgec Lache Sx",
+    "total_case_count": 1,
+    "merged_from": [
+      "JUDGEC Lache Sx"
+    ]
+  },
+  {
+    "canonical_name": "Saeed Ahmed Illem",
+    "total_case_count": 1,
+    "merged_from": [
+      "Saeed Ahmed Illem"
+    ]
+  },
+  {
+    "canonical_name": "Uf Haring",
+    "total_case_count": 1,
+    "merged_from": [
+      "Uf Héaring"
+    ]
+  },
+  {
+    "canonical_name": "Brohi Juogi",
+    "total_case_count": 1,
+    "merged_from": [
+      "Brohi JUOGI"
+    ]
+  },
+  {
+    "canonical_name": "Rlaz Hussain Khuso",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr Rlaz Hussain Khuso"
+    ]
+  },
+  {
+    "canonical_name": "Drder Liih",
+    "total_case_count": 1,
+    "merged_from": [
+      "Drder Liih"
+    ]
+  },
+  {
+    "canonical_name": "Dda Udgl",
+    "total_case_count": 1,
+    "merged_from": [
+      "سdda UDGL"
+    ]
+  },
+  {
+    "canonical_name": "Cu Nowah",
+    "total_case_count": 1,
+    "merged_from": [
+      "CU Nowah"
+    ]
+  },
+  {
+    "canonical_name": "Abdul Pirzada",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Abdul Pirzada"
+    ]
+  },
+  {
+    "canonical_name": "Sajjad Ahmed Sethi",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Justice Sajjad Ahmed Sethi"
+    ]
+  },
+  {
+    "canonical_name": "Il-Ttr Lql",
+    "total_case_count": 1,
+    "merged_from": [
+      "il,:-ttr lql"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Asim Malik",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Muhammad Asim Malik"
+    ]
+  },
+  {
+    "canonical_name": "Masood Ahmed",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Masood Ahmed"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Zubair Malik",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Muhammad Zubair Malik"
+    ]
+  },
+  {
+    "canonical_name": "Za Channa",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Z.A. Channa"
+    ]
+  },
+  {
+    "canonical_name": "B-K Soomro",
+    "total_case_count": 1,
+    "merged_from": [
+      "B-K Soomro"
+    ]
+  },
+  {
+    "canonical_name": "Shahabudin Tunio",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Shahabudin Tunio"
+    ]
+  },
+  {
+    "canonical_name": "Nisalr Alinied",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr Nisalr Alinied"
+    ]
+  },
+  {
+    "canonical_name": "Glulam Ali Samntio",
+    "total_case_count": 1,
+    "merged_from": [
+      "Glulam Ali Samntio"
+    ]
+  },
+  {
+    "canonical_name": "Dato Flawavou",
+    "total_case_count": 1,
+    "merged_from": [
+      "Dato FlawAvou"
+    ]
+  },
+  {
+    "canonical_name": "Malik Altaf Hussain",
+    "total_case_count": 1,
+    "merged_from": [
+      "Malik Altaf Hussain"
+    ]
+  },
+  {
+    "canonical_name": "Walayat Khan",
+    "total_case_count": 1,
+    "merged_from": [
+      "WALAYAT KHAN"
+    ]
+  },
+  {
+    "canonical_name": "Syed Khurshid Anwar Rizvi",
+    "total_case_count": 1,
+    "merged_from": [
+      "Syed Khurshid Anwar Rizvi"
+    ]
+  },
+  {
+    "canonical_name": "Gm Bhutto",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. G.M. Bhutto"
+    ]
+  },
+  {
+    "canonical_name": "Waqas Ali Chaudhry",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Waqas Ali Chaudhry"
+    ]
+  },
+  {
+    "canonical_name": "Raheel Samsam Ali Khan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Raheel Samsam Ali Khan"
+    ]
+  },
+  {
+    "canonical_name": "Zahid Hussain Soomro",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Zahid Hussain Soomro"
+    ]
+  },
+  {
+    "canonical_name": "Nasrullah Malik",
+    "total_case_count": 1,
+    "merged_from": [
+      "Nasrullah Malik"
+    ]
+  },
+  {
+    "canonical_name": "Ashraf Ali Shah",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Ashraf Ali Shah"
+    ]
+  },
+  {
+    "canonical_name": "Ghulam Fareed Baloch",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Ghulam Fareed Baloch"
+    ]
+  },
+  {
+    "canonical_name": "Retd Mazhar Ali Shah",
+    "total_case_count": 1,
+    "merged_from": [
+      "Justice (Retd.) Mazhar Ali Shah"
+    ]
+  },
+  {
+    "canonical_name": "Shah Nawaz Teenvio",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Shah Nawaz Teenvio"
+    ]
+  },
+  {
+    "canonical_name": "Ayaz Ali Chandio",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Ayaz Ali Chandio"
+    ]
+  },
+  {
+    "canonical_name": "Syed Khurram Kamal",
+    "total_case_count": 1,
+    "merged_from": [
+      "Syed Khurram Kamal"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Irshad Shahid",
+    "total_case_count": 1,
+    "merged_from": [
+      "Muhammad Irshad Shahid"
+    ]
+  },
+  {
+    "canonical_name": "Nasir Ahmed",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Nasir Ahmed"
+    ]
+  },
+  {
+    "canonical_name": "Syed Muhammad Abdul Kabir",
+    "total_case_count": 1,
+    "merged_from": [
+      "Syed Muhammad Abdul Kabir"
+    ]
+  },
+  {
+    "canonical_name": "Abdur Rahim Abid",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Abdur Rahim Abid"
+    ]
+  },
+  {
+    "canonical_name": "Ahteshamullah Khan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Ahteshamullah Khan"
+    ]
+  },
+  {
+    "canonical_name": "Faqir Qurban Ali",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Faqir Qurban Ali"
+    ]
+  },
+  {
+    "canonical_name": "Faran Sardar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Faran Sardar"
+    ]
+  },
+  {
+    "canonical_name": "Liaquat Ali Khan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Liaquat Ali Khan"
+    ]
+  },
+  {
+    "canonical_name": "Hussain Bux Saryo",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Hussain Bux Saryo"
+    ]
+  },
+  {
+    "canonical_name": "Bacha Zaib",
+    "total_case_count": 1,
+    "merged_from": [
+      "Bacha Zaib"
+    ]
+  },
+  {
+    "canonical_name": "Sagheer Ali Solangi",
+    "total_case_count": 1,
+    "merged_from": [
+      "Sagheer Ali Solangi"
+    ]
+  },
+  {
+    "canonical_name": "Sardar Muhammad Zulfiqar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Sardar Muhammad Zulfiqar"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Fahad Pirzada",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Muhammad Fahad Pirzada"
+    ]
+  },
+  {
+    "canonical_name": "Abdul Samad Memon",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Abdul Samad Memon"
+    ]
+  },
+  {
+    "canonical_name": "Ajeeb Junejo",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Ajeeb Junejo"
+    ]
+  },
+  {
+    "canonical_name": "Alqamah Bin Mehmood",
+    "total_case_count": 1,
+    "merged_from": [
+      "Alqamah Bin Mehmood"
+    ]
+  },
+  {
+    "canonical_name": "Shamshad Ali Qureshi",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Shamshad Ali Qureshi"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Hanif Qureshi",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Muhammad Hanif Qureshi"
+    ]
+  },
+  {
+    "canonical_name": "Zakir Hussain Bughio",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Zakir Hussain Bughio"
+    ]
+  },
+  {
+    "canonical_name": "Ghulam Asghar Khoso",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Ghulam Asghar Khoso"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Shakir Khan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Muhammad Shakir Khan"
+    ]
+  },
+  {
+    "canonical_name": "Sharafuddin Kanhar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Sharafuddin Kanhar"
+    ]
+  },
+  {
+    "canonical_name": "Sh Riaz Ahmad",
+    "total_case_count": 1,
+    "merged_from": [
+      "Sh Riaz Ahmad"
+    ]
+  },
+  {
+    "canonical_name": "Iftikhur Muhuminad Chuudhry",
+    "total_case_count": 1,
+    "merged_from": [
+      "Iftikhur Muhuminad Chuudhry"
+    ]
+  },
+  {
+    "canonical_name": "Tassaduq Hussain Jillani Justicc",
+    "total_case_count": 1,
+    "merged_from": [
+      "Tassaduq Hussain Jillani Mr Justicc"
+    ]
+  },
+  {
+    "canonical_name": "Mahamuad Iabul Kathoru",
+    "total_case_count": 1,
+    "merged_from": [
+      "Justice Mahamuad Iabul Kathoru"
+    ]
+  },
+  {
+    "canonical_name": "Shabbir Ali Bozdar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Shabbir Ali Bozdar"
+    ]
+  },
+  {
+    "canonical_name": "Faiz Muhammad Durrani",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Faiz Muhammad Durrani"
+    ]
+  },
+  {
+    "canonical_name": "Zafak Ahmed Resselick",
+    "total_case_count": 1,
+    "merged_from": [
+      "Zafak Ahmed Resselick"
+    ]
+  },
+  {
+    "canonical_name": "Adnan Iqbal Choudhry",
+    "total_case_count": 1,
+    "merged_from": [
+      "Adnan Iqbal Choudhry"
+    ]
+  },
+  {
+    "canonical_name": "Fur Urders On Ubgclion",
+    "total_case_count": 1,
+    "merged_from": [
+      "Fur urders on ubgclion"
+    ]
+  },
+  {
+    "canonical_name": "Safdar Saleem Shahid",
+    "total_case_count": 1,
+    "merged_from": [
+      "Safdar Saleem Shahid"
+    ]
+  },
+  {
+    "canonical_name": "Usman Yasin",
+    "total_case_count": 1,
+    "merged_from": [
+      "USMAN YASIN"
+    ]
+  },
+  {
+    "canonical_name": "Ex-Officio Of Peace",
+    "total_case_count": 1,
+    "merged_from": [
+      "Ex-Officio Justice of Peace"
+    ]
+  },
+  {
+    "canonical_name": "Atir Mahmood",
+    "total_case_count": 1,
+    "merged_from": [
+      "ATIR MAHMOOD"
+    ]
+  },
+  {
+    "canonical_name": "Ghulam Mustafa",
+    "total_case_count": 1,
+    "merged_from": [
+      "GHULAM MUSTAFA"
+    ]
+  },
+  {
+    "canonical_name": "Abdul Rasheed",
+    "total_case_count": 1,
+    "merged_from": [
+      "ABDUL RASHEED"
+    ]
+  },
+  {
+    "canonical_name": "Imran Shahzad",
+    "total_case_count": 1,
+    "merged_from": [
+      "IMRAN SHAHZAD"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Jamil",
+    "total_case_count": 1,
+    "merged_from": [
+      "Muhammad Jamil"
+    ]
+  },
+  {
+    "canonical_name": "Muzamil Aki",
+    "total_case_count": 1,
+    "merged_from": [
+      "Muzamil Aki"
+    ]
+  },
+  {
+    "canonical_name": "Rana Muhammad Sarfraz Shaukat",
+    "total_case_count": 1,
+    "merged_from": [
+      "Rana Muhammad Sarfraz Shaukat"
+    ]
+  },
+  {
+    "canonical_name": "Naushahro Feroze",
+    "total_case_count": 1,
+    "merged_from": [
+      "Naushahro Feroze"
+    ]
+  },
+  {
+    "canonical_name": "Ijaz Athar Khan Khokhar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Justice Ijaz Athar Khan Khokhar"
+    ]
+  },
+  {
+    "canonical_name": "Jan Muhammad",
+    "total_case_count": 1,
+    "merged_from": [
+      "Jan Muhammad"
+    ]
+  },
+  {
+    "canonical_name": "Ch Ho",
+    "total_case_count": 1,
+    "merged_from": [
+      "Ch حسho"
+    ]
+  },
+  {
+    "canonical_name": "Zafar Khalil Ahmed Jakhrani",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr, Zafar Khalil Ahmed Jakhrani"
+    ]
+  },
+  {
+    "canonical_name": "Zulficar Ali Naich",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr Zulficar Ali Naich"
+    ]
+  },
+  {
+    "canonical_name": "Foo Oclx",
+    "total_case_count": 1,
+    "merged_from": [
+      "Foo Oclx"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Ashiq Dhamrah",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Muhammad Ashiq Dhamrah"
+    ]
+  },
+  {
+    "canonical_name": "Jucge Ecl",
+    "total_case_count": 1,
+    "merged_from": [
+      "JUcge ECL"
+    ]
+  },
+  {
+    "canonical_name": "Maqbool-Ur-Rehman",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Maqbool-ur-Rehman"
+    ]
+  },
+  {
+    "canonical_name": "Juge Fol",
+    "total_case_count": 1,
+    "merged_from": [
+      "Juge FOL"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Faisal Bokhari",
+    "total_case_count": 1,
+    "merged_from": [
+      "Justice Muhammad Faisal Bokhari"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Qayyum Arain",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Muhammad Qayyum Arain"
+    ]
+  },
+  {
+    "canonical_name": "Shahid Aziz Kaleri",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Shahid Aziz Kaleri"
+    ]
+  },
+  {
+    "canonical_name": "Mirpur Mathelo",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mirpur Mathelo"
+    ]
+  },
+  {
+    "canonical_name": "Munawar Alam Khan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Munawar Alam Khan"
+    ]
+  },
+  {
+    "canonical_name": "Haii Khan Hingorjo",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Haii Khan Hingorjo"
+    ]
+  },
+  {
+    "canonical_name": "Muhamtad Hamyoon Khan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Muhamtad Hamyoon Khan"
+    ]
+  },
+  {
+    "canonical_name": "Kamber Shahdadkot",
+    "total_case_count": 1,
+    "merged_from": [
+      "Kamber Shahdadkot"
+    ]
+  },
+  {
+    "canonical_name": "Lurkond Gc",
+    "total_case_count": 1,
+    "merged_from": [
+      "Lurkond G.C."
+    ]
+  },
+  {
+    "canonical_name": "Jug Ha Alkfe",
+    "total_case_count": 1,
+    "merged_from": [
+      "Jugâ Ha\talküfe"
+    ]
+  },
+  {
+    "canonical_name": "Khadim Hussain Khooharo",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr Khadim Hussain Khooharo"
+    ]
+  },
+  {
+    "canonical_name": "Ol Jlcge",
+    "total_case_count": 1,
+    "merged_from": [
+      "OL JLCge"
+    ]
+  },
+  {
+    "canonical_name": "Ft Na",
+    "total_case_count": 1,
+    "merged_from": [
+      "FT Na"
+    ]
+  },
+  {
+    "canonical_name": "Iudgmeni Zafakahmedraiput",
+    "total_case_count": 1,
+    "merged_from": [
+      "IUDGMENI ZAFAKAHMEDRAIPUT"
+    ]
+  },
+  {
+    "canonical_name": "For Orders",
+    "total_case_count": 1,
+    "merged_from": [
+      "For orders"
+    ]
+  },
+  {
+    "canonical_name": "Qaisar Mirbahar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Qaisar Mirbahar"
+    ]
+  },
+  {
+    "canonical_name": "Ali Raza Balouch",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr Ali Raza Balouch"
+    ]
+  },
+  {
+    "canonical_name": "Ghulat Ali Rind",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr Ghulat Ali Rind"
+    ]
+  },
+  {
+    "canonical_name": "Bhagwan Das Bheel",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Bhagwan Das Bheel"
+    ]
+  },
+  {
+    "canonical_name": "Ahlil Hamid Bhurgri",
+    "total_case_count": 1,
+    "merged_from": [
+      "Ahlil Hamid Bhurgri"
+    ]
+  },
+  {
+    "canonical_name": "Mushtaq Ahmed Shahani",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mushtaq Ahmed Shahani"
+    ]
+  },
+  {
+    "canonical_name": "Abdul Sattar Janvri",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr, Abdul Sattar Janvri"
+    ]
+  },
+  {
+    "canonical_name": "Abjul Ranman Bhiutto",
+    "total_case_count": 1,
+    "merged_from": [
+      "AbJul Ranman Bhiutto"
+    ]
+  },
+  {
+    "canonical_name": "Shafi Mohammad Chandio",
+    "total_case_count": 1,
+    "merged_from": [
+      "Shafi Mohammad Chandio"
+    ]
+  },
+  {
+    "canonical_name": "Magistrate",
+    "total_case_count": 1,
+    "merged_from": [
+      "Judicial Magistrate"
+    ]
+  },
+  {
+    "canonical_name": "Ol Dresseu",
+    "total_case_count": 1,
+    "merged_from": [
+      "Ol Dresseu"
+    ]
+  },
+  {
+    "canonical_name": "Tasngum Sultana Appellant Ibad Ali",
+    "total_case_count": 1,
+    "merged_from": [
+      "Tasngum Sultana Appellant Ibad Ali"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Ismail Bhutto Addl Ag Sindh",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Muhammad Ismail Bhutto, Addl. A.G Sindh"
+    ]
+  },
+  {
+    "canonical_name": "Zia-Ul-Haq Makhdoom",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Zia-ul-Haq Makhdoom"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Khalid Mehmood Khan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Muhammad Khalid Mehmood Khan"
+    ]
+  },
+  {
+    "canonical_name": "Mian Nazir Akhtar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mian Nazir Akhtar"
+    ]
+  },
+  {
+    "canonical_name": "Ch Muhammad Iqbal Khan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Ch. Muhammad Iqbal Khan"
+    ]
+  },
+  {
+    "canonical_name": "Malik Noor Muhammad Awan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Malik Noor Muhammad Awan"
+    ]
+  },
+  {
+    "canonical_name": "Ftikhar Ahmad",
+    "total_case_count": 1,
+    "merged_from": [
+      "ftikhar ahmad"
+    ]
+  },
+  {
+    "canonical_name": "Shorkul Disiicl Jhang",
+    "total_case_count": 1,
+    "merged_from": [
+      "Shorkul, Disiicl Jhang"
+    ]
+  },
+  {
+    "canonical_name": "Khadim Hussain Tunio Shamsuddin",
+    "total_case_count": 1,
+    "merged_from": [
+      "Khadim Hussain Tunio Justice Shamsuddin"
+    ]
+  },
+  {
+    "canonical_name": "Asim Riaz Qureshi",
+    "total_case_count": 1,
+    "merged_from": [
+      "ASIM RIAZ QURESHI"
+    ]
+  },
+  {
+    "canonical_name": "Ayat Ullah",
+    "total_case_count": 1,
+    "merged_from": [
+      "AYAT ULLAH"
+    ]
+  },
+  {
+    "canonical_name": "Asghar Ali Bhatti",
+    "total_case_count": 1,
+    "merged_from": [
+      "ASGHAR ALI BHATTI"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Mansoor Alam",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Muhammad Mansoor Alam"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Ramzan",
+    "total_case_count": 1,
+    "merged_from": [
+      "MUHAMMAD RAMZAN"
+    ]
+  },
+  {
+    "canonical_name": "Ahmad Yar",
+    "total_case_count": 1,
+    "merged_from": [
+      "AHMAD YAR"
+    ]
+  },
+  {
+    "canonical_name": "Manzoor Ahmad Malik",
+    "total_case_count": 1,
+    "merged_from": [
+      "Manzoor Ahmad Malik Mr"
+    ]
+  },
+  {
+    "canonical_name": "Forn Nu",
+    "total_case_count": 1,
+    "merged_from": [
+      "Forn Nu"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Akram Nizami",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr Muhammad Akram Nizami"
+    ]
+  },
+  {
+    "canonical_name": "Waseem Ijaz",
+    "total_case_count": 1,
+    "merged_from": [
+      "Waseem Ijaz"
+    ]
+  },
+  {
+    "canonical_name": "Rana Muhummud Tayyab Nazir",
+    "total_case_count": 1,
+    "merged_from": [
+      "Rana Muhummud Tayyab Nazir"
+    ]
+  },
+  {
+    "canonical_name": "Sli Munir Ahmad",
+    "total_case_count": 1,
+    "merged_from": [
+      "Sli Munir Ahmad"
+    ]
+  },
+  {
+    "canonical_name": "Malik Ghulam Mustafa Kandwal",
+    "total_case_count": 1,
+    "merged_from": [
+      "Malik Ghulam Mustafa Kandwal"
+    ]
+  },
+  {
+    "canonical_name": "Sheikh Tanveer Ahmad",
+    "total_case_count": 1,
+    "merged_from": [
+      "Sheikh Tanveer Ahmad"
+    ]
+  },
+  {
+    "canonical_name": "Ghulam Murtaza Jokhyo",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr Ghulam Murtaza Jokhyo"
+    ]
+  },
+  {
+    "canonical_name": "Syed Yasir Ali Shah",
+    "total_case_count": 1,
+    "merged_from": [
+      "Syed Yasir Ali Shah"
+    ]
+  },
+  {
+    "canonical_name": "Syed Shabbir Hussain Shah",
+    "total_case_count": 1,
+    "merged_from": [
+      "Syed Shabbir Hussain Shah"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Abbasi",
+    "total_case_count": 1,
+    "merged_from": [
+      "Muhammad Abbasi"
+    ]
+  },
+  {
+    "canonical_name": "Utn",
+    "total_case_count": 1,
+    "merged_from": [
+      "Dr. Utīn"
+    ]
+  },
+  {
+    "canonical_name": "Syed Amir Ali Shah Jeelani",
+    "total_case_count": 1,
+    "merged_from": [
+      "Syed Amir Ali Shah Jeelani"
+    ]
+  },
+  {
+    "canonical_name": "Yameen Ali Khoso",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Yameen Ali Khoso"
+    ]
+  },
+  {
+    "canonical_name": "Behbicvai Sawc",
+    "total_case_count": 1,
+    "merged_from": [
+      "Behbicvai Sawc"
+    ]
+  },
+  {
+    "canonical_name": "Saeed Ahmed Pannwar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Saeed Ahmed Pannwar"
+    ]
+  },
+  {
+    "canonical_name": "Fakhar Raza Malana",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Fakhar Raza Malana"
+    ]
+  },
+  {
+    "canonical_name": "Shoaib Khan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Shoaib Khan and Fazal Khaliq"
+    ]
+  },
+  {
+    "canonical_name": "Fazal Khaliq",
+    "total_case_count": 1,
+    "merged_from": [
+      "Shoaib Khan and Fazal Khaliq"
+    ]
+  },
+  {
+    "canonical_name": "Shehram Sarwar Ch",
+    "total_case_count": 1,
+    "merged_from": [
+      "Shehram Sarwar Ch."
+    ]
+  },
+  {
+    "canonical_name": "Ali Akbar Qureshi",
+    "total_case_count": 1,
+    "merged_from": [
+      "Ali Akbar Qureshi"
+    ]
+  },
+  {
+    "canonical_name": "Chaudhary Hamayun Mahmood",
+    "total_case_count": 1,
+    "merged_from": [
+      "Chaudhary Hamayun Mahmood"
+    ]
+  },
+  {
+    "canonical_name": "Shakil Ahmad",
+    "total_case_count": 1,
+    "merged_from": [
+      "Shakil Ahmad"
+    ]
+  },
+  {
+    "canonical_name": "Muhammuad Gill Rifat Awan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Muhammuad Gill Rifat Awan"
+    ]
+  },
+  {
+    "canonical_name": "Faqir Muhammad Khokhar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Faqir Muhammad Khokhar"
+    ]
+  },
+  {
+    "canonical_name": "Mian Muhammad Tayyab Watto",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mian Muhammad Tayyab Watto"
     ]
   },
   {
@@ -1490,591 +3084,129 @@
     ]
   },
   {
-    "canonical_name": "Raza Cng Station",
+    "canonical_name": "Ameer Ahmed Narejo",
     "total_case_count": 1,
     "merged_from": [
-      "RAZA CNG STATION"
+      "Mr. Ameer Ahmed Narejo"
     ]
   },
   {
-    "canonical_name": "Mirau Viqus Rauf",
+    "canonical_name": "Muhammad Saeed Khan Kharki",
     "total_case_count": 1,
     "merged_from": [
-      "Mirau Viqus Rauf"
+      "Justice Muhammad Saeed Khan Kharki"
     ]
   },
   {
-    "canonical_name": "Tahir Pervaiz",
+    "canonical_name": "My Ponhuurt",
     "total_case_count": 1,
     "merged_from": [
-      "Tahir Pervaiz"
+      "MY Ponhuurt"
     ]
   },
   {
-    "canonical_name": "Reshma Zangejo",
+    "canonical_name": "Hegar Lima",
     "total_case_count": 1,
     "merged_from": [
-      "Mrs. Reshma Zangejo"
+      "Hegar lima"
     ]
   },
   {
-    "canonical_name": "Abdul Rehman Bhutto",
+    "canonical_name": "Muhammad Alial Jagirani",
     "total_case_count": 1,
     "merged_from": [
-      "Mr. Abdul Rehman Bhutto"
+      "Mr. Muhammad Alial Jagirani"
     ]
   },
   {
-    "canonical_name": "Shahid Waheed Musarrat Hilali",
+    "canonical_name": "Ashfoque Hussoin Abro",
     "total_case_count": 1,
     "merged_from": [
-      "Shahid Waheed Justice Musarrat Hilali"
+      "Mr. Ashfoque Hussoin Abro"
     ]
   },
   {
-    "canonical_name": "Orderr",
+    "canonical_name": "Dawood Suleman",
     "total_case_count": 1,
     "merged_from": [
-      "THE ORDERR"
+      "Dawood Suleman"
     ]
   },
   {
-    "canonical_name": "Omar Sial",
+    "canonical_name": "Fox Katcha Pexh",
     "total_case_count": 1,
     "merged_from": [
-      "Omar Sial Mr"
+      "Fox Katcha Pexh"
     ]
   },
   {
-    "canonical_name": "Ex-Officio Of Peace",
+    "canonical_name": "Zafar Ahmed Rajput Abdul",
     "total_case_count": 1,
     "merged_from": [
-      "Ex-Officio Justice of Peace"
+      "Zafar Ahmed Rajput Justice Abdul"
     ]
   },
   {
-    "canonical_name": "Zafar Khalil Ahmed Jakhrani",
+    "canonical_name": "Ol Hlarng",
     "total_case_count": 1,
     "merged_from": [
-      "Mr, Zafar Khalil Ahmed Jakhrani"
+      "Ol Hlarng"
     ]
   },
   {
-    "canonical_name": "Zulficar Ali Naich",
+    "canonical_name": "Gul Muhammad Unar",
     "total_case_count": 1,
     "merged_from": [
-      "Mr Zulficar Ali Naich"
+      "Gul Muhammad Unar"
     ]
   },
   {
-    "canonical_name": "Foo Oclx",
+    "canonical_name": "Mushtaque Ahmed Lund",
     "total_case_count": 1,
     "merged_from": [
-      "Foo Oclx"
+      "Mr Mushtaque Ahmed Lund"
     ]
   },
   {
-    "canonical_name": "Muhammad Ashiq Dhamrah",
+    "canonical_name": "T",
     "total_case_count": 1,
     "merged_from": [
-      "Mr. Muhammad Ashiq Dhamrah"
+      "JUDGE / t"
     ]
   },
   {
-    "canonical_name": "Muhammad Farooq",
+    "canonical_name": "Jucige Jucige Altrd Li",
     "total_case_count": 1,
     "merged_from": [
-      "Mr Muhammad Farooq"
+      "Jucige Jucige Altrd Li"
     ]
   },
   {
-    "canonical_name": "Asadullah Soomro",
+    "canonical_name": "Shafi Lvlaham",
     "total_case_count": 1,
     "merged_from": [
-      "Mr. Asadullah Soomro"
+      "Shafi Lvlaham"
     ]
   },
   {
-    "canonical_name": "Atir Mahmood",
+    "canonical_name": "Mirza Sarfaraz Ahmed",
     "total_case_count": 1,
     "merged_from": [
-      "ATIR MAHMOOD"
+      "Mirza Sarfaraz Ahmed"
     ]
   },
   {
-    "canonical_name": "Ghulam Mustafa",
+    "canonical_name": "Amjad Javed Hashmi",
     "total_case_count": 1,
     "merged_from": [
-      "GHULAM MUSTAFA"
+      "Mr. Amjad Javed Hashmi"
     ]
   },
   {
-    "canonical_name": "Abdul Rasheed",
+    "canonical_name": "Retd Muhammad Afzal Khan As Amplemman",
     "total_case_count": 1,
     "merged_from": [
-      "ABDUL RASHEED"
-    ]
-  },
-  {
-    "canonical_name": "Imran Shahzad",
-    "total_case_count": 1,
-    "merged_from": [
-      "IMRAN SHAHZAD"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Jamil",
-    "total_case_count": 1,
-    "merged_from": [
-      "Muhammad Jamil"
-    ]
-  },
-  {
-    "canonical_name": "Muzamil Aki",
-    "total_case_count": 1,
-    "merged_from": [
-      "Muzamil Aki"
-    ]
-  },
-  {
-    "canonical_name": "Rana Muhammad Sarfraz Shaukat",
-    "total_case_count": 1,
-    "merged_from": [
-      "Rana Muhammad Sarfraz Shaukat"
-    ]
-  },
-  {
-    "canonical_name": "Bank Thu Uppeal And",
-    "total_case_count": 1,
-    "merged_from": [
-      "Bank Thu petition uppeal and"
-    ]
-  },
-  {
-    "canonical_name": "Ghulam Fareed Baloch",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Ghulam Fareed Baloch"
-    ]
-  },
-  {
-    "canonical_name": "Ayaz Ali Chandio",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Ayaz Ali Chandio"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Irshad Shahid",
-    "total_case_count": 1,
-    "merged_from": [
-      "Muhammad Irshad Shahid"
-    ]
-  },
-  {
-    "canonical_name": "Nasir Ahmed",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Nasir Ahmed"
-    ]
-  },
-  {
-    "canonical_name": "Abdur Rahim Abid",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Abdur Rahim Abid"
-    ]
-  },
-  {
-    "canonical_name": "Ahteshamullah Khan",
-    "total_case_count": 1,
-    "merged_from": [
-      "Ahteshamullah Khan"
-    ]
-  },
-  {
-    "canonical_name": "Liaquat Ali Khan",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Liaquat Ali Khan"
-    ]
-  },
-  {
-    "canonical_name": "Sardar Muhammad Zulfiqar",
-    "total_case_count": 1,
-    "merged_from": [
-      "Sardar Muhammad Zulfiqar"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Fahad Pirzada",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Muhammad Fahad Pirzada"
-    ]
-  },
-  {
-    "canonical_name": "Shamshad Ali Qureshi",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Shamshad Ali Qureshi"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Hanif Qureshi",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Muhammad Hanif Qureshi"
-    ]
-  },
-  {
-    "canonical_name": "Zakir Hussain Bughio",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Zakir Hussain Bughio"
-    ]
-  },
-  {
-    "canonical_name": "Ghulam Asghar Khoso",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Ghulam Asghar Khoso"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Shakir Khan",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Muhammad Shakir Khan"
-    ]
-  },
-  {
-    "canonical_name": "Sharafuddin Kanhar",
-    "total_case_count": 1,
-    "merged_from": [
-      "Sharafuddin Kanhar"
-    ]
-  },
-  {
-    "canonical_name": "Sh Riaz Ahmad",
-    "total_case_count": 1,
-    "merged_from": [
-      "Sh Riaz Ahmad"
-    ]
-  },
-  {
-    "canonical_name": "Iftikhur Muhuminad Chuudhry",
-    "total_case_count": 1,
-    "merged_from": [
-      "Iftikhur Muhuminad Chuudhry"
-    ]
-  },
-  {
-    "canonical_name": "Tassaduq Hussain Jillani Justicc",
-    "total_case_count": 1,
-    "merged_from": [
-      "Tassaduq Hussain Jillani Mr Justicc"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Khalid Mehmood Khan",
-    "total_case_count": 1,
-    "merged_from": [
-      "Muhammad Khalid Mehmood Khan"
-    ]
-  },
-  {
-    "canonical_name": "Mian Nazir Akhtar",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mian Nazir Akhtar"
-    ]
-  },
-  {
-    "canonical_name": "Ch Muhammad Iqbal Khan",
-    "total_case_count": 1,
-    "merged_from": [
-      "Ch. Muhammad Iqbal Khan"
-    ]
-  },
-  {
-    "canonical_name": "Malik Noor Muhammad Awan",
-    "total_case_count": 1,
-    "merged_from": [
-      "Malik Noor Muhammad Awan"
-    ]
-  },
-  {
-    "canonical_name": "Ftikhar Ahmad",
-    "total_case_count": 1,
-    "merged_from": [
-      "ftikhar ahmad"
-    ]
-  },
-  {
-    "canonical_name": "Shorkul Disiicl Jhang",
-    "total_case_count": 1,
-    "merged_from": [
-      "Shorkul, Disiicl Jhang"
-    ]
-  },
-  {
-    "canonical_name": "Khadim Hussain Tunio Shamsuddin",
-    "total_case_count": 1,
-    "merged_from": [
-      "Khadim Hussain Tunio Justice Shamsuddin"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Saeed Khan Khoso",
-    "total_case_count": 1,
-    "merged_from": [
-      "Justice Muhammad Saeed Khan Khoso"
-    ]
-  },
-  {
-    "canonical_name": "Ghulam Farid Sanotra",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Ghulam Farid Sanotra"
-    ]
-  },
-  {
-    "canonical_name": "Hafiz Muhammad Yousaf",
-    "total_case_count": 1,
-    "merged_from": [
-      "Hafiz Muhammad Yousaf"
-    ]
-  },
-  {
-    "canonical_name": "Forn Nu",
-    "total_case_count": 1,
-    "merged_from": [
-      "Forn Nu"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Akram Nizami",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr Muhammad Akram Nizami"
-    ]
-  },
-  {
-    "canonical_name": "Waseem Ijaz",
-    "total_case_count": 1,
-    "merged_from": [
-      "Waseem Ijaz"
-    ]
-  },
-  {
-    "canonical_name": "Rana Muhummud Tayyab Nazir",
-    "total_case_count": 1,
-    "merged_from": [
-      "Rana Muhummud Tayyab Nazir"
-    ]
-  },
-  {
-    "canonical_name": "Sli Munir Ahmad",
-    "total_case_count": 1,
-    "merged_from": [
-      "Sli Munir Ahmad"
-    ]
-  },
-  {
-    "canonical_name": "Malik Ghulam Mustafa Kandwal",
-    "total_case_count": 1,
-    "merged_from": [
-      "Malik Ghulam Mustafa Kandwal"
-    ]
-  },
-  {
-    "canonical_name": "Faqir Muhammad Khokhar",
-    "total_case_count": 1,
-    "merged_from": [
-      "Faqir Muhammad Khokhar"
-    ]
-  },
-  {
-    "canonical_name": "Mian Muhammad Tayyab Watto",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mian Muhammad Tayyab Watto"
-    ]
-  },
-  {
-    "canonical_name": "Shaharyar Qamar",
-    "total_case_count": 1,
-    "merged_from": [
-      "Shaharyar Qamar"
-    ]
-  },
-  {
-    "canonical_name": "Kashif Hussain Shaikh",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Kashif Hussain Shaikh"
-    ]
-  },
-  {
-    "canonical_name": "Retd",
-    "total_case_count": 1,
-    "merged_from": [
-      "Justice (Retd.)"
-    ]
-  },
-  {
-    "canonical_name": "Judgec Lache Sx",
-    "total_case_count": 1,
-    "merged_from": [
-      "JUDGEC Lache Sx"
-    ]
-  },
-  {
-    "canonical_name": "Saeed Ahmed Illem",
-    "total_case_count": 1,
-    "merged_from": [
-      "Saeed Ahmed Illem"
-    ]
-  },
-  {
-    "canonical_name": "Brohi Juogi",
-    "total_case_count": 1,
-    "merged_from": [
-      "Brohi JUOGI"
-    ]
-  },
-  {
-    "canonical_name": "Cu Nowah",
-    "total_case_count": 1,
-    "merged_from": [
-      "CU Nowah"
-    ]
-  },
-  {
-    "canonical_name": "Abdul Pirzada",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Abdul Pirzada"
-    ]
-  },
-  {
-    "canonical_name": "Raham Ali Rind",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Raham Ali Rind"
-    ]
-  },
-  {
-    "canonical_name": "Sajjad Ahmed Sethi",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Justice Sajjad Ahmed Sethi"
-    ]
-  },
-  {
-    "canonical_name": "Il-Ttr Lql",
-    "total_case_count": 1,
-    "merged_from": [
-      "il,:-ttr lql"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Asim Malik",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Muhammad Asim Malik"
-    ]
-  },
-  {
-    "canonical_name": "Masood Ahmed",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Masood Ahmed"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Zubair Malik",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Muhammad Zubair Malik"
-    ]
-  },
-  {
-    "canonical_name": "Za Channa",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Z.A. Channa"
-    ]
-  },
-  {
-    "canonical_name": "Shahabudin Tunio",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Shahabudin Tunio"
-    ]
-  },
-  {
-    "canonical_name": "Glulam Ali Samntio",
-    "total_case_count": 1,
-    "merged_from": [
-      "Glulam Ali Samntio"
-    ]
-  },
-  {
-    "canonical_name": "Malik Altaf Hussain",
-    "total_case_count": 1,
-    "merged_from": [
-      "Malik Altaf Hussain"
-    ]
-  },
-  {
-    "canonical_name": "Asim Riaz Qureshi",
-    "total_case_count": 1,
-    "merged_from": [
-      "ASIM RIAZ QURESHI"
-    ]
-  },
-  {
-    "canonical_name": "Ayat Ullah",
-    "total_case_count": 1,
-    "merged_from": [
-      "AYAT ULLAH"
-    ]
-  },
-  {
-    "canonical_name": "Asghar Ali Bhatti",
-    "total_case_count": 1,
-    "merged_from": [
-      "ASGHAR ALI BHATTI"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Mansoor Alam",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Muhammad Mansoor Alam"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Ramzan",
-    "total_case_count": 1,
-    "merged_from": [
-      "MUHAMMAD RAMZAN"
-    ]
-  },
-  {
-    "canonical_name": "Ahmad Yar",
-    "total_case_count": 1,
-    "merged_from": [
-      "AHMAD YAR"
-    ]
-  },
-  {
-    "canonical_name": "Manzoor Ahmad Malik",
-    "total_case_count": 1,
-    "merged_from": [
-      "Manzoor Ahmad Malik Mr"
+      "Justice (Retd.) Muhammad Afzal Khan, as Amplemman"
     ]
   },
   {
@@ -2099,500 +3231,150 @@
     ]
   },
   {
-    "canonical_name": "Abdul Hafeez",
+    "canonical_name": "Ghulam Farid Sanotra",
     "total_case_count": 1,
     "merged_from": [
-      "Abdul Hafeez"
+      "Mr. Ghulam Farid Sanotra"
     ]
   },
   {
-    "canonical_name": "Ameer Ahmed Narejo",
+    "canonical_name": "Hafiz Muhammad Yousaf",
     "total_case_count": 1,
     "merged_from": [
-      "Mr. Ameer Ahmed Narejo"
+      "Hafiz Muhammad Yousaf"
     ]
   },
   {
-    "canonical_name": "Muhammad Saeed Khan Kharki",
+    "canonical_name": "Oliver Wendell Holmes",
     "total_case_count": 1,
     "merged_from": [
-      "Justice Muhammad Saeed Khan Kharki"
+      "Oliver Wendell Holmes"
     ]
   },
   {
-    "canonical_name": "My Ponhuurt",
+    "canonical_name": "Shahanshah Shamil Paracha",
     "total_case_count": 1,
     "merged_from": [
-      "MY Ponhuurt"
+      "Mr. Shahanshah Shamil Paracha"
     ]
   },
   {
-    "canonical_name": "Jucge Ecl",
+    "canonical_name": "Kolachi Mushtaque Ahmed",
     "total_case_count": 1,
     "merged_from": [
-      "JUcge ECL"
+      "Kolachi, Mushtaque Ahmed"
     ]
   },
   {
-    "canonical_name": "Maqbool-Ur-Rehman",
+    "canonical_name": "Shaharyar Qamar",
     "total_case_count": 1,
     "merged_from": [
-      "Mr. Maqbool-ur-Rehman"
+      "Shaharyar Qamar"
     ]
   },
   {
-    "canonical_name": "Juge Fol",
+    "canonical_name": "Kashif Hussain Shaikh",
     "total_case_count": 1,
     "merged_from": [
-      "Juge FOL"
+      "Mr. Kashif Hussain Shaikh"
     ]
   },
   {
-    "canonical_name": "Muhammad Faisal Bokhari",
+    "canonical_name": "Retd",
     "total_case_count": 1,
     "merged_from": [
-      "Justice Muhammad Faisal Bokhari"
+      "Justice (Retd.)"
     ]
   },
   {
-    "canonical_name": "Muhammad Qayyum Arain",
+    "canonical_name": "Khqdim Hussoin Khoonhoro",
     "total_case_count": 1,
     "merged_from": [
-      "Mr. Muhammad Qayyum Arain"
+      "Mr. Khqdim Hussoin Khoonhoro"
     ]
   },
   {
-    "canonical_name": "Shahid Aziz Kaleri",
+    "canonical_name": "Retd Muhammad Saeed Akhtar Khan Khaimo",
     "total_case_count": 1,
     "merged_from": [
-      "Mr. Shahid Aziz Kaleri"
+      "Justice (Retd.) Muhammad Saeed Akhtar Khan Khaimo"
     ]
   },
   {
-    "canonical_name": "Mirpur Mathelo",
+    "canonical_name": "Hon Ble Udgar Nath Bhargava",
     "total_case_count": 1,
     "merged_from": [
-      "Mirpur Mathelo"
+      "HON BLE UDGAR NATH BHARGAVA"
     ]
   },
   {
-    "canonical_name": "Munawar Alam Khan",
+    "canonical_name": "Jud For",
     "total_case_count": 1,
     "merged_from": [
-      "Mr. Munawar Alam Khan"
+      "Jud For"
     ]
   },
   {
-    "canonical_name": "Usman Yasin",
+    "canonical_name": "Fi'T Ter",
     "total_case_count": 1,
     "merged_from": [
-      "USMAN YASIN"
+      "Fi't t$er"
     ]
   },
   {
-    "canonical_name": "Muzamilakhtar Shabir",
+    "canonical_name": "Liaquat Ali Shar",
     "total_case_count": 1,
     "merged_from": [
-      "MUZAMILAKHTAR SHABIR J"
+      "Mr, Liaquat Ali Shar"
     ]
   },
   {
-    "canonical_name": "Malik Haq Nawaz",
+    "canonical_name": "Saddiq Khan",
     "total_case_count": 1,
     "merged_from": [
-      "Malik Haq Nawaz"
+      "Saddiq Khan"
     ]
   },
   {
-    "canonical_name": "Haii Khan Hingorjo",
+    "canonical_name": "Arbab Ali Hakro",
     "total_case_count": 1,
     "merged_from": [
-      "Mr. Haii Khan Hingorjo"
+      "Justice Arbab Ali Hakro"
     ]
   },
   {
-    "canonical_name": "Muhamtad Hamyoon Khan",
+    "canonical_name": "Rehmat Ali",
     "total_case_count": 1,
     "merged_from": [
-      "Muhamtad Hamyoon Khan"
+      "Mr. Rehmat Ali"
     ]
   },
   {
-    "canonical_name": "Kamber Shahdadkot",
+    "canonical_name": "Thano Bola Khan",
     "total_case_count": 1,
     "merged_from": [
-      "Kamber Shahdadkot"
+      "Thano Bola Khan"
     ]
   },
   {
-    "canonical_name": "Lurkond Gc",
+    "canonical_name": "Azad Iqbal",
     "total_case_count": 1,
     "merged_from": [
-      "Lurkond G.C."
+      "Mr Azad Iqbal"
     ]
   },
   {
-    "canonical_name": "Sardar Ali Shah",
+    "canonical_name": "Ghulam Ali",
     "total_case_count": 1,
     "merged_from": [
-      "Mr. Sardar Ali Shah"
+      "Mr Ghulam Ali"
     ]
   },
   {
-    "canonical_name": "Jug Ha Alkfe",
+    "canonical_name": "Hllr",
     "total_case_count": 1,
     "merged_from": [
-      "Jugâ Ha\talküfe"
-    ]
-  },
-  {
-    "canonical_name": "Khadim Hussain Khooharo",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr Khadim Hussain Khooharo"
-    ]
-  },
-  {
-    "canonical_name": "Ol Jlcge",
-    "total_case_count": 1,
-    "merged_from": [
-      "OL JLCge"
-    ]
-  },
-  {
-    "canonical_name": "Ft Na",
-    "total_case_count": 1,
-    "merged_from": [
-      "FT Na"
-    ]
-  },
-  {
-    "canonical_name": "Syed Ali Zafar",
-    "total_case_count": 1,
-    "merged_from": [
-      "Syed Ali Zafar"
-    ]
-  },
-  {
-    "canonical_name": "Shahid Mlhmood",
-    "total_case_count": 1,
-    "merged_from": [
-      "SHAHID MLHMOOD"
-    ]
-  },
-  {
-    "canonical_name": "Zafar Ahmed Rajput Abdul",
-    "total_case_count": 1,
-    "merged_from": [
-      "Zafar Ahmed Rajput Justice Abdul"
-    ]
-  },
-  {
-    "canonical_name": "Shoukat Ali",
-    "total_case_count": 1,
-    "merged_from": [
-      "SHOUKAT ALI"
-    ]
-  },
-  {
-    "canonical_name": "Leamed Single Judgu In Chamber",
-    "total_case_count": 1,
-    "merged_from": [
-      "leamed Single Judgu in Chamber"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Bilal",
-    "total_case_count": 1,
-    "merged_from": [
-      "Muhammad Bilal"
-    ]
-  },
-  {
-    "canonical_name": "Anwaarul Haq Pannun",
-    "total_case_count": 1,
-    "merged_from": [
-      "ANWAARUL HAQ PANNUN"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Shan Gul",
-    "total_case_count": 1,
-    "merged_from": [
-      "MUHAMMAD SHAN GUL"
-    ]
-  },
-  {
-    "canonical_name": "Ol Hlarng",
-    "total_case_count": 1,
-    "merged_from": [
-      "Ol Hlarng"
-    ]
-  },
-  {
-    "canonical_name": "T",
-    "total_case_count": 1,
-    "merged_from": [
-      "JUDGE / t"
-    ]
-  },
-  {
-    "canonical_name": "Jucige Jucige Altrd Li",
-    "total_case_count": 1,
-    "merged_from": [
-      "Jucige Jucige Altrd Li"
-    ]
-  },
-  {
-    "canonical_name": "Ihia Baquie",
-    "total_case_count": 1,
-    "merged_from": [
-      "Ihia Baquie"
-    ]
-  },
-  {
-    "canonical_name": "No Information Found",
-    "total_case_count": 1,
-    "merged_from": [
-      "No information found"
-    ]
-  },
-  {
-    "canonical_name": "Hon Ble For Hancock",
-    "total_case_count": 1,
-    "merged_from": [
-      "Hon ble Justice For Hancock"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Azmat Saeed",
-    "total_case_count": 1,
-    "merged_from": [
-      "Justice Muhammad Azmat Saeed"
-    ]
-  },
-  {
-    "canonical_name": "Iudgmeni Zafakahmedraiput",
-    "total_case_count": 1,
-    "merged_from": [
-      "IUDGMENI ZAFAKAHMEDRAIPUT"
-    ]
-  },
-  {
-    "canonical_name": "For Orders",
-    "total_case_count": 1,
-    "merged_from": [
-      "For orders"
-    ]
-  },
-  {
-    "canonical_name": "Ghulat Ali Rind",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr Ghulat Ali Rind"
-    ]
-  },
-  {
-    "canonical_name": "Ahlil Hamid Bhurgri",
-    "total_case_count": 1,
-    "merged_from": [
-      "Ahlil Hamid Bhurgri"
-    ]
-  },
-  {
-    "canonical_name": "Mushtaq Ahmed Shahani",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mushtaq Ahmed Shahani"
-    ]
-  },
-  {
-    "canonical_name": "Shafi Mohammad Chandio",
-    "total_case_count": 1,
-    "merged_from": [
-      "Shafi Mohammad Chandio"
-    ]
-  },
-  {
-    "canonical_name": "Magistrate",
-    "total_case_count": 1,
-    "merged_from": [
-      "Judicial Magistrate"
-    ]
-  },
-  {
-    "canonical_name": "Ol Dresseu",
-    "total_case_count": 1,
-    "merged_from": [
-      "Ol Dresseu"
-    ]
-  },
-  {
-    "canonical_name": "Mahamuad Iabul Kathoru",
-    "total_case_count": 1,
-    "merged_from": [
-      "Justice Mahamuad Iabul Kathoru"
-    ]
-  },
-  {
-    "canonical_name": "Shabbir Ali Bozdar",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Shabbir Ali Bozdar"
-    ]
-  },
-  {
-    "canonical_name": "Faiz Muhammad Durrani",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Faiz Muhammad Durrani"
-    ]
-  },
-  {
-    "canonical_name": "Zafak Ahmed Resselick",
-    "total_case_count": 1,
-    "merged_from": [
-      "Zafak Ahmed Resselick"
-    ]
-  },
-  {
-    "canonical_name": "Adnan Iqbal Choudhry",
-    "total_case_count": 1,
-    "merged_from": [
-      "Adnan Iqbal Choudhry"
-    ]
-  },
-  {
-    "canonical_name": "Tariq Muhammad",
-    "total_case_count": 1,
-    "merged_from": [
-      "Tariq Muhammad"
-    ]
-  },
-  {
-    "canonical_name": "Justicu Zafar Ahmed Rajpul",
-    "total_case_count": 1,
-    "merged_from": [
-      "Justicu Zafar Ahmed Rajpul"
-    ]
-  },
-  {
-    "canonical_name": "Shab Alam",
-    "total_case_count": 1,
-    "merged_from": [
-      "Justice Shab Alam"
-    ]
-  },
-  {
-    "canonical_name": "Fakhar Raza Malana",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Fakhar Raza Malana"
-    ]
-  },
-  {
-    "canonical_name": "Shoaib Khan",
-    "total_case_count": 1,
-    "merged_from": [
-      "Shoaib Khan and Fazal Khaliq"
-    ]
-  },
-  {
-    "canonical_name": "Fazal Khaliq",
-    "total_case_count": 1,
-    "merged_from": [
-      "Shoaib Khan and Fazal Khaliq"
-    ]
-  },
-  {
-    "canonical_name": "Shehram Sarwar Ch",
-    "total_case_count": 1,
-    "merged_from": [
-      "Shehram Sarwar Ch."
-    ]
-  },
-  {
-    "canonical_name": "Ali Akbar Qureshi",
-    "total_case_count": 1,
-    "merged_from": [
-      "Ali Akbar Qureshi"
-    ]
-  },
-  {
-    "canonical_name": "Walayat Khan",
-    "total_case_count": 1,
-    "merged_from": [
-      "WALAYAT KHAN"
-    ]
-  },
-  {
-    "canonical_name": "Syed Khurshid Anwar Rizvi",
-    "total_case_count": 1,
-    "merged_from": [
-      "Syed Khurshid Anwar Rizvi"
-    ]
-  },
-  {
-    "canonical_name": "Safdar Saleem Shahid",
-    "total_case_count": 1,
-    "merged_from": [
-      "Safdar Saleem Shahid"
-    ]
-  },
-  {
-    "canonical_name": "Chaudhary Hamayun Mahmood",
-    "total_case_count": 1,
-    "merged_from": [
-      "Chaudhary Hamayun Mahmood"
-    ]
-  },
-  {
-    "canonical_name": "Shakil Ahmad",
-    "total_case_count": 1,
-    "merged_from": [
-      "Shakil Ahmad"
-    ]
-  },
-  {
-    "canonical_name": "Muhammuad Gill Rifat Awan",
-    "total_case_count": 1,
-    "merged_from": [
-      "Muhammuad Gill Rifat Awan"
-    ]
-  },
-  {
-    "canonical_name": "Tasngum Sultana Appellant Ibad Ali",
-    "total_case_count": 1,
-    "merged_from": [
-      "Tasngum Sultana Appellant Ibad Ali"
-    ]
-  },
-  {
-    "canonical_name": "Syed Yasir Ali Shah",
-    "total_case_count": 1,
-    "merged_from": [
-      "Syed Yasir Ali Shah"
-    ]
-  },
-  {
-    "canonical_name": "Syed Shabbir Hussain Shah",
-    "total_case_count": 1,
-    "merged_from": [
-      "Syed Shabbir Hussain Shah"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Abbasi",
-    "total_case_count": 1,
-    "merged_from": [
-      "Muhammad Abbasi"
-    ]
-  },
-  {
-    "canonical_name": "Ali Aniwar Kandhro",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr Ali Aniwar Kandhro"
+      "Mr Hдارداءاllr"
     ]
   },
   {
@@ -2645,17 +3427,10 @@
     ]
   },
   {
-    "canonical_name": "Syed Amir Ali Shah Jeelani",
+    "canonical_name": "Jehangir Ahmed Khan",
     "total_case_count": 1,
     "merged_from": [
-      "Syed Amir Ali Shah Jeelani"
-    ]
-  },
-  {
-    "canonical_name": "Yameen Ali Khoso",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Yameen Ali Khoso"
+      "Jehangir Ahmed Khan"
     ]
   },
   {
@@ -2708,6 +3483,13 @@
     ]
   },
   {
+    "canonical_name": "Abdul Hafeez",
+    "total_case_count": 1,
+    "merged_from": [
+      "Abdul Hafeez"
+    ]
+  },
+  {
     "canonical_name": "Faizan Razzaq",
     "total_case_count": 1,
     "merged_from": [
@@ -2729,66 +3511,38 @@
     ]
   },
   {
-    "canonical_name": "Officer",
+    "canonical_name": "Muzamilakhtar Shabir",
     "total_case_count": 1,
     "merged_from": [
-      "Judicial Officer"
+      "MUZAMILAKHTAR SHABIR J"
     ]
   },
   {
-    "canonical_name": "Shams Hei In",
+    "canonical_name": "Malik Haq Nawaz",
     "total_case_count": 1,
     "merged_from": [
-      "SHAMS HEI IN"
+      "Malik Haq Nawaz"
     ]
   },
   {
-    "canonical_name": "Syed Muhammad Abbas",
+    "canonical_name": "Sajjad Muhammad Zangejo",
     "total_case_count": 1,
     "merged_from": [
-      "Syed Muhammad Abbas"
+      "Sajjad Muhammad Zangejo"
     ]
   },
   {
-    "canonical_name": "Syed Dilshad Hussain Shah",
+    "canonical_name": "For Haaring Ol Maln Cae",
     "total_case_count": 1,
     "merged_from": [
-      "Syed Dilshad Hussain Shah"
+      "For haaring ol maln caдe"
     ]
   },
   {
-    "canonical_name": "Afridi Cj",
+    "canonical_name": "Abid Hussain Qadri",
     "total_case_count": 1,
     "merged_from": [
-      "Justice Afridi, CJ"
-    ]
-  },
-  {
-    "canonical_name": "Naushahro Feroze",
-    "total_case_count": 1,
-    "merged_from": [
-      "Naushahro Feroze"
-    ]
-  },
-  {
-    "canonical_name": "Ijaz Athar Khan Khokhar",
-    "total_case_count": 1,
-    "merged_from": [
-      "Justice Ijaz Athar Khan Khokhar"
-    ]
-  },
-  {
-    "canonical_name": "Jan Muhammad",
-    "total_case_count": 1,
-    "merged_from": [
-      "Jan Muhammad"
-    ]
-  },
-  {
-    "canonical_name": "Juge Juclge",
-    "total_case_count": 1,
-    "merged_from": [
-      "Juge Juclge"
+      "Mr Abid Hussain Qadri"
     ]
   },
   {
@@ -2803,6 +3557,13 @@
     "total_case_count": 1,
     "merged_from": [
       "Justice (Retd) Mian Azmat Sultan Khan Khokhar"
+    ]
+  },
+  {
+    "canonical_name": "Sigmutur Ol Jndga",
+    "total_case_count": 1,
+    "merged_from": [
+      "Sigmutur ol Jndga"
     ]
   },
   {
@@ -2827,6 +3588,13 @@
     ]
   },
   {
+    "canonical_name": "Dareshani Ali Haider",
+    "total_case_count": 1,
+    "merged_from": [
+      "Dareshani Ali Haider"
+    ]
+  },
+  {
     "canonical_name": "Rabika Wahab",
     "total_case_count": 1,
     "merged_from": [
@@ -2838,6 +3606,13 @@
     "total_case_count": 1,
     "merged_from": [
       "Justice sharif"
+    ]
+  },
+  {
+    "canonical_name": "Muhammad Yaqoob Soomro",
+    "total_case_count": 1,
+    "merged_from": [
+      "Muhammad Yaqoob Soomro"
     ]
   },
   {
@@ -2855,185 +3630,17 @@
     ]
   },
   {
+    "canonical_name": "Muhammad Imad Qamar",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr. Muhammad Imad Qamar"
+    ]
+  },
+  {
     "canonical_name": "Niaz Shahrayar Awan",
     "total_case_count": 1,
     "merged_from": [
       "Niaz Shahrayar Awan"
-    ]
-  },
-  {
-    "canonical_name": "Manzoor Hussain Butt",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Manzoor Hussain Butt"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Akram Chaudhry",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Muhammad Akram Chaudhry"
-    ]
-  },
-  {
-    "canonical_name": "Abdul Ghafar",
-    "total_case_count": 1,
-    "merged_from": [
-      "Abdul Ghafar"
-    ]
-  },
-  {
-    "canonical_name": "Muhammad Suleman Nassemi",
-    "total_case_count": 1,
-    "merged_from": [
-      "Muhammad Suleman Nassemi"
-    ]
-  },
-  {
-    "canonical_name": "Faisalabad Electric Supply Company Limited",
-    "total_case_count": 1,
-    "merged_from": [
-      "FAISALABAD ELECTRIC SUPPLY COMPANY LIMITED"
-    ]
-  },
-  {
-    "canonical_name": "Shahid Waheed",
-    "total_case_count": 1,
-    "merged_from": [
-      "Shahid Waheed"
-    ]
-  },
-  {
-    "canonical_name": "Manzoor Hussain",
-    "total_case_count": 1,
-    "merged_from": [
-      "MANZOOR HUSSAIN"
-    ]
-  },
-  {
-    "canonical_name": "Rehim Yar Khan",
-    "total_case_count": 1,
-    "merged_from": [
-      "Rehim Yar Khan"
-    ]
-  },
-  {
-    "canonical_name": "Sheikh Tanveer Ahmad",
-    "total_case_count": 1,
-    "merged_from": [
-      "Sheikh Tanveer Ahmad"
-    ]
-  },
-  {
-    "canonical_name": "Oliver Wendell Holmes",
-    "total_case_count": 1,
-    "merged_from": [
-      "Oliver Wendell Holmes"
-    ]
-  },
-  {
-    "canonical_name": "Shahanshah Shamil Paracha",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Shahanshah Shamil Paracha"
-    ]
-  },
-  {
-    "canonical_name": "Rana Muhammad Mehtab",
-    "total_case_count": 1,
-    "merged_from": [
-      "Rana Muhammad Mehtab"
-    ]
-  },
-  {
-    "canonical_name": "Fahim Ahmed Saeed",
-    "total_case_count": 1,
-    "merged_from": [
-      "Fahim Ahmed Saeed"
-    ]
-  },
-  {
-    "canonical_name": "Jude Allen Pereira",
-    "total_case_count": 1,
-    "merged_from": [
-      "Jude Allen Pereira"
-    ]
-  },
-  {
-    "canonical_name": "Azmat Sultan",
-    "total_case_count": 1,
-    "merged_from": [
-      "Justice Azmat Sultan"
-    ]
-  },
-  {
-    "canonical_name": "Amjad Javed Hashmi",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Amjad Javed Hashmi"
-    ]
-  },
-  {
-    "canonical_name": "Retd Muhammad Afzal Khan As Amplemman",
-    "total_case_count": 1,
-    "merged_from": [
-      "Justice (Retd.) Muhammad Afzal Khan, as Amplemman"
-    ]
-  },
-  {
-    "canonical_name": "Khqdim Hussoin Khoonhoro",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Khqdim Hussoin Khoonhoro"
-    ]
-  },
-  {
-    "canonical_name": "Retd Muhammad Saeed Akhtar Khan Khaimo",
-    "total_case_count": 1,
-    "merged_from": [
-      "Justice (Retd.) Muhammad Saeed Akhtar Khan Khaimo"
-    ]
-  },
-  {
-    "canonical_name": "Hon Ble Udgar Nath Bhargava",
-    "total_case_count": 1,
-    "merged_from": [
-      "HON BLE UDGAR NATH BHARGAVA"
-    ]
-  },
-  {
-    "canonical_name": "Fi'T Ter",
-    "total_case_count": 1,
-    "merged_from": [
-      "Fi't t$er"
-    ]
-  },
-  {
-    "canonical_name": "Saddiq Khan",
-    "total_case_count": 1,
-    "merged_from": [
-      "Saddiq Khan"
-    ]
-  },
-  {
-    "canonical_name": "Arbab Ali Hakro",
-    "total_case_count": 1,
-    "merged_from": [
-      "Justice Arbab Ali Hakro"
-    ]
-  },
-  {
-    "canonical_name": "Rehmat Ali",
-    "total_case_count": 1,
-    "merged_from": [
-      "Mr. Rehmat Ali"
-    ]
-  },
-  {
-    "canonical_name": "Thano Bola Khan",
-    "total_case_count": 1,
-    "merged_from": [
-      "Thano Bola Khan"
     ]
   },
   {
@@ -3093,10 +3700,31 @@
     ]
   },
   {
+    "canonical_name": "Ihsan Ali Lund Baloch",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr Ihsan Ali Lund Baloch"
+    ]
+  },
+  {
     "canonical_name": "For Hoaring Of Maln",
     "total_case_count": 1,
     "merged_from": [
       "For hoaring of maln"
+    ]
+  },
+  {
+    "canonical_name": "Ubedullah Malano",
+    "total_case_count": 1,
+    "merged_from": [
+      "Mr Ubedullah Malano"
+    ]
+  },
+  {
+    "canonical_name": "Qamar Bhatti",
+    "total_case_count": 1,
+    "merged_from": [
+      "Qamar Bhatti"
     ]
   },
   {
@@ -3132,6 +3760,13 @@
     "total_case_count": 1,
     "merged_from": [
       "Irshad Ali Shah Appellant Dil"
+    ]
+  },
+  {
+    "canonical_name": "Saeed Ahmed Wassan",
+    "total_case_count": 1,
+    "merged_from": [
+      "Saeed Ahmed Wassan"
     ]
   },
   {

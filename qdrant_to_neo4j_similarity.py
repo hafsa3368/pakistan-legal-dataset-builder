@@ -490,7 +490,8 @@ ORDER BY score DESC;
 ----------------------------------------------------
 MATCH (a:Case {case_id: "REPLACE_WITH_CASE_ID"})-[r:SIMILAR_TO]->(b:Case)
 OPTIONAL MATCH (a)-[other_rel]-(x)
-WHERE type(other_rel) <> "SIMILAR_TO"
+WITH a, r, b, other_rel, x
+WHERE other_rel IS NULL OR type(other_rel) <> "SIMILAR_TO"
 RETURN a, r, b, other_rel, x;
 """
 
