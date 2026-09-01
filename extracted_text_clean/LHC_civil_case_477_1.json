@@ -9,9 +9,29 @@
   "case_number": "",
   "date_of_order": "25.09.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Muneeza",
+    "Wahab Ghaznavi",
+    "Mrs. Muneeza",
+    "Usman Anis",
+    "Salman Anis Ghaznavi",
+    "Muhammad Anis Ghaznavi",
+    "Muhammad Ayub Ghaznavi",
+    "Zulfiqar Ali Sheikh",
+    "Syed Hasan Jafri",
+    "Syed Ziauddin Nasir",
+    "Zulfiqar Ali Sheikh",
+    "Muhammad Aadil",
+    "Zafar Abbas",
+    "Azfer Hussain Siddiqui",
+    "Ather Hussain Siddiqui",
+    "Nazir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

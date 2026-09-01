@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "15.09.2022",
+  "judge": "Ijaz Athar",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "Section 125 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Khan",
+    "Dr. Ayesha Shaikh",
+    "Mr. Khan",
+    "Dr. Ayesha Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

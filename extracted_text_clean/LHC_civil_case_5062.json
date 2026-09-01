@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.D-78 of 2022",
   "date_of_order": "16.05.2023",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 382-B CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Muhammad",
+    "The State",
+    "Mr. Muhammad Hashim Laghari",
+    "Mr. Nazar Muhammad Memon",
+    "APG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

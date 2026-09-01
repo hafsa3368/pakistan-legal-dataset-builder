@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Bail Application No.S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "06.09.2023",
   "judge": "Ahmad",
   "sections_cited": [
     "Sections 427, 506/2, 384, 147, 148 & 149 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Achar Khan Gabol",
+    "Asad",
+    "Muhammad Ismail",
+    "Ahmed",
+    "Rashid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

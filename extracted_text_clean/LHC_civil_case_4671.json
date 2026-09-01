@@ -8,14 +8,17 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "24.02.2025",
-  "judge": "JUDGE Imran",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 10 CPC"
   ],
   "citations": [
     "PLD 1987 Karachi 102"
   ],
-  "parties": [],
+  "parties": [
+    "Sheikh Jawaid Mir",
+    ""
+  ],
   "chunks": [
     {
       "chunk_index": 0,

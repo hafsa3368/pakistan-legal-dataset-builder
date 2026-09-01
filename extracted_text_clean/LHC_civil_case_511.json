@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "22.12.2021",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "u/s 365-B PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Nawaz Chang",
+    "Mr. Muhammad Ismail Bhutto",
+    "Ali Haider",
+    "Mst. Haseena",
+    "Mst. Ambreen Khatoon",
+    "Inspector Ali Asghar Chang",
+    "PS Faiz Ganj District Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

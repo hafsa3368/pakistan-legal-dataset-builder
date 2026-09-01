@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "16.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 302, 337-H, 148, 149 PPC",
+    "U/S 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Alam Sher Bozdar",
+    "Rahamdil S/o Dano Khan (Kambeer in FIR)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

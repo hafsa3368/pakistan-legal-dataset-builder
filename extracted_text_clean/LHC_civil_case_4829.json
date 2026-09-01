@@ -7,11 +7,20 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "18.08.2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Foiz Mohommed Lurik",
+    "SorJor Ali Shoh",
+    "P",
+    "G",
+    "Mohummad Iqbal Kalhooal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

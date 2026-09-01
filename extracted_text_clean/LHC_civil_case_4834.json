@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "17.10.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ali Napar",
+    "Mr. Abdul Naeem Pirzada",
+    "Mr. Nisar Ali Memon",
+    "Mr. Zulfiqar Ali Naich",
+    "Sindh Small Industries Corporation"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

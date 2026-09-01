@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "28.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 365-A PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asif Ali Jatoi",
+    "Noor Ahmed S/o Phullo Khan Kosh",
+    "Faiz Ahmed S/o Haji Allah Bachaya Indhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

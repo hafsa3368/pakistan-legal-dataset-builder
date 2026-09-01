@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "31.01.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faheem Majeed Memon",
+    "Mr. Ghulam Murtaza Korai",
+    "Mr. Sarfraz A. Akhund"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

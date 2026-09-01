@@ -8,12 +8,15 @@
   "num_chunks": 1,
   "case_number": "Criminal Appeal No.D-09 of 2022",
   "date_of_order": "21.09.2022",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [
     "section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Masood Rasool Babar Memon",
+    "Mr. Muhammad Noonari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Crl. Jail Appeal No.D-",
+  "case_number": "",
   "date_of_order": "05.04.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "sections 302, 324, 114, 337H",
     "section 302",
@@ -19,7 +19,25 @@
     "section 24 of Sindh Arms Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Aslam",
+    "Qurban alias Papoo",
+    "Muhammad Umar Gadani",
+    "Abdul Qadir",
+    "Rajib",
+    "Lohar",
+    "Muhammad Iqbal Kalhoro",
+    "Arbab Ali Hakro",
+    "Israr Ali Shah",
+    "Syed Naimat Ali Shah",
+    "Ubedullah Ghoto",
+    "Zulfiqar Ali Jatoi",
+    "Sharma",
+    "Hameedan",
+    "Ameen",
+    "Mubeen Ali",
+    "Azhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

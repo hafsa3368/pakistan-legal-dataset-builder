@@ -6,14 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Const. Petition No.D-",
+  "case_number": "",
   "date_of_order": "11.10.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 3 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Qurban Ali Malano",
+    "Mr. Liaquat Ali Shar",
+    "District Food Controller, Sukkur",
+    "Deputy District Food, Sukkur",
+    "Government of Sindh",
+    "Caretaker Provincial Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "31.03.2004",
+  "judge": "(retired) Ijaz Alam Vohra",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "S. Ajmal Khan v. S. Shakila"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

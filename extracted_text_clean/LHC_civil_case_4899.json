@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-709 of 2023",
-  "date_of_order": "",
+  "date_of_order": "15.01.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Sharif Magsi",
+    "Mr. Imran Mobeen Khan",
+    "Inspector Muhammad Aslam",
+    "SSP, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

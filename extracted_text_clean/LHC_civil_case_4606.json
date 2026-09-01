@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "misc no. S",
   "date_of_order": "28.03.2016",
-  "judge": "",
+  "judge": "Athar Za",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Moin",
+    "Pakistan Rangers",
+    "State",
+    "Home Department",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

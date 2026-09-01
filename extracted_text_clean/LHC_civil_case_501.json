@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "29/10/2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 20 POA Act 1908"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S Muhammad Iqbal",
+    "M/S Muhammad Iqbal and M/S Rafique"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

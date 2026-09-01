@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "13.12.2022",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 397 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "News Papers Hawkers Union Nawabshah",
+    "Municipal Authorities",
+    "News Papers Hawkers Union",
+    "State",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

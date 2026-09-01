@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1083 of 2022",
   "date_of_order": "21.11.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD IQBAL KALHORO",
+    "Fakharuddin Dahraj",
+    "Samiullah Rind",
+    "Abdul Waheed Bijarani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

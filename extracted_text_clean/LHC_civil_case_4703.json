@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "12.11.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 39 Rules"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shapes (Pvt.) Ltd.",
+    "Cantonment Board & another",
+    "Pakistan Railways"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

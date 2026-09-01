@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "01.02.2022",
+  "judge": "Shahzada Khalid Mehmood Khan",
+  "sections_cited": [
+    "Section 198 CrPC",
+    "u/s 12(1)(c) HMA"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pakistan Tehreek-e-Insaf",
+    "Faisalabad Metropolitan Corporation"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

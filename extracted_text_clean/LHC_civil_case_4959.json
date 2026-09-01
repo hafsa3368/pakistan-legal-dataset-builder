@@ -8,12 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Revision Application No.D-19 of 2022",
   "date_of_order": "21.09.2022",
-  "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 540 CrPC"
+  ],
   "citations": [
     "2021 SCMR 522"
   ],
-  "parties": [],
+  "parties": [
+    "Anti Narcotics Force Hyderabad",
+    "Imdad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

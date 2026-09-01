@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "27.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saeed Ahmed Bhatt",
+    "Mr. Shafi Muhammad Mahar",
+    "prosecution",
+    "applicant",
+    "deputy prosecutor general",
+    "trial Court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

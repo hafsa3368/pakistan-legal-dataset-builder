@@ -8,13 +8,27 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "28.10.2025",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 16 of the Sindh Building Control Ordinance",
     "Section 16"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Imran",
+    "Mr. Safeer Ali",
+    "Syed Muhammad Hassan Mirza",
+    "Mr. Shahzad Mehmood",
+    "Mr. Khilji Bilal",
+    "Mr. Muhammad Hisham Mehar",
+    "Mr. Dhani Bux Lashari",
+    "Mr. Rafique Ahmed Bhanbhro",
+    "Mr. Ashraf Ali Mirani",
+    "Engineer Irfan Ali",
+    "Engineer Arif Kassam",
+    "Arch. Zia Jaffery",
+    "Mr. Tariq Jameel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

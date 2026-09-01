@@ -11,7 +11,11 @@
   "judge": "HANIF",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muneer Iqbal",
+    "Mr. Khalid Hidayat Khan",
+    "Mr. Saleem Ghulam Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

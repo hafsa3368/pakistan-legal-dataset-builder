@@ -8,14 +8,24 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-453 of 2023",
   "date_of_order": "18.11.2022",
-  "judge": "",
+  "judge": "Abdullah Channa",
   "sections_cited": [
     "section 161 CrPC"
   ],
   "citations": [
     "2023 SCMR 857"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Altaf Sachal Awan",
+    "Ms. Safa Hisbani A.P.G. Sindh",
+    "Muhammad Iqbal Kalhoro",
+    "Ali Khan",
+    "Fiaz Ali",
+    "Zameer Hussain",
+    "Mushtaque",
+    "Abdul Majeed",
+    "Allah Rakhio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

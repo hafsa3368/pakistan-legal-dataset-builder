@@ -7,11 +7,20 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-160 of 2024",
-  "date_of_order": "",
+  "date_of_order": "13.05.2024",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Crl. Misc. Application No. S-160 of 2024",
+    "CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aftab Ahmed Shar",
+    "SSP, Khairpur",
+    "P.S, B-section, Khairpur",
+    "Jameel Ahmed",
+    "Aurangzeb"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

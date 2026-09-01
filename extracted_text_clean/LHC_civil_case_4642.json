@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "14.04.2025",
-  "judge": "JUDGE HANIF",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ali Zahed",
+    "M/s. Junaid Ahmed",
+    "Kawish Hussain",
+    "Shahmir Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,19 @@
   "case_number": "",
   "date_of_order": "09.02.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Mushtaque Ahmed Shahani",
+    "Abdul Naeem Pirzada",
+    "Sohail Ahmed Khoso",
+    "Farzand Ali Abro",
+    "Shafique Ahmed Khan Leghari",
+    "Aamir Ali Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

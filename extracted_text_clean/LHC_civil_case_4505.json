@@ -7,13 +7,26 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-480 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "12-06-2023",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 22-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mehmood Khan",
+    "Muhammad Rashid",
+    "Asif",
+    "Muhammad Nadeem Sehto",
+    "Imran Ahmed Abbasi",
+    "Muzamil Khan Bughio",
+    "Muhammad Iqbal Kalhoro",
+    "Asif",
+    "Asif",
+    "Asif",
+    "Asif",
+    "Asif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

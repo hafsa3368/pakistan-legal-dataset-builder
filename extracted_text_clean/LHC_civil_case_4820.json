@@ -8,10 +8,18 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "16.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jabir Hussain Mahar",
+    "Province of Sindh",
+    "Bagh Ali Khan Mahar",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

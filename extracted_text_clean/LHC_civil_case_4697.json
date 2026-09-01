@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "01.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "CMA 19772/25",
+    "CMA 16693/25"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shezan Services (Pvt.) Ltd. & another",
+    "Cantonment Board Clifton",
+    "petitioners",
+    "respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

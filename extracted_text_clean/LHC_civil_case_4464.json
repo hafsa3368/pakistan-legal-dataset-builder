@@ -8,10 +8,24 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-375 of 2022",
   "date_of_order": "29.08.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "u/s 337-A",
+    "u/s 22-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Applicant",
+    "complainant",
+    "brother in law of complainant",
+    "co-accused",
+    "defendant",
+    "learned defense counsel",
+    "learned counsel for complainant",
+    "learned Assistant Prosecutor General",
+    "STATE",
+    "The STATE"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

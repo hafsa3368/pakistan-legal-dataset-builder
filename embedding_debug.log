@@ -3215,3 +3215,5 @@
 2026-08-08 11:14:15,138 | INFO |   Total chunks now in checkpoint:     55829
 2026-08-08 11:14:15,138 | INFO |   Total chunks still in failed_chunks.json: 0
 2026-08-08 11:14:15,139 | INFO | ==================================================
+2026-08-31 18:55:58,590 | INFO | Found 58469 total JSON files in extracted_text_clean
+2026-08-31 18:55:58,634 | INFO | Skipping 10587 file(s) already listed in repair_checkpoint.json (already embedded) -- 47882 remaining.

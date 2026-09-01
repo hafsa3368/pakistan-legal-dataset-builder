@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "09.10.2019",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Ahmed Palh",
+    "Mr. Allah Bachayo Soomro",
+    "Salamat Ali Memon",
+    "Ghulam Mustafa Yousfani",
+    "Ahmed Karim Jilani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

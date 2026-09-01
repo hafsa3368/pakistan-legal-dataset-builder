@@ -20,7 +20,10 @@
     "PLD 2016 SC 377",
     "PLD 2012 SC 553"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammad Taufique Khan",
+    "Pakistan Atomic Energy Commission"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

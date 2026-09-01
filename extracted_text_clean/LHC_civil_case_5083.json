@@ -7,11 +7,26 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "01.06.2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 55 CrPC",
+    "Section 56 CrPC",
+    "Section 58 CrPC",
+    "Section 59 CrPC",
+    "Section 60 CrPC",
+    "Section 62 CrPC",
+    "Section 63 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ahmed Khokner",
+    "Ine Muneer",
+    "Mr Hoblbulloh G Ghouri",
+    "Mr Khcdim Hussoin Khoonncro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "27.02.2025",
-  "judge": "JUDGE HANIF",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Malik Naeem Iqbal",
+    "Mr. Khalid Jawed Khan",
+    "Mr. Gulfaraz Khattak"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

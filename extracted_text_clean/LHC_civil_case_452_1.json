@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "18.02.2023",
+  "judge": "(Retd) Ijaz Ahmad Khan",
+  "sections_cited": [
+    "Section 498-A PPC",
+    "Section 149 IPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saba",
+    "Shahzad",
+    "Nahid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

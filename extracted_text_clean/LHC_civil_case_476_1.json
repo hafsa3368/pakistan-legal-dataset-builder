@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "01.04.2021",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Areeba Rehman",
+    "Rashid Usman Ali Khan",
+    "Nadeem Shabahat Khan",
+    "Najeeb Shabahat Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

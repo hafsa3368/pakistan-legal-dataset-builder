@@ -8,10 +8,23 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "23.12.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Athar Zai",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Imad Samad",
+    "Mst. Ruby Samad",
+    "Imad Samad",
+    "Mrs. Sophia Azam",
+    "Shahzad Samad",
+    "Mrs. Salma Samad",
+    "Mrs. Aasia Seemab",
+    "Alamgeer s/o. Jannat Hussain",
+    "Muhammad Adil Nawaz Khan Yousufzai",
+    "Muhammad Sarfaraz Khan Yousufzai"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

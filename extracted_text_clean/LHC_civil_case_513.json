@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "criminal bail application is dismissed as not",
+  "case_number": "",
   "date_of_order": "19.12.2024",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mumtaz Ali Narejo",
+    "Seema Zaidi",
+    "complainant",
+    "applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

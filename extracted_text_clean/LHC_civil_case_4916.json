@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "31.01.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Zafar Ali Shah Bukhari",
+    "Mr Zeeshan Hyder Qureshi",
+    "Mr Dareshani Ali Haider",
+    "Mr Ali Raza Balouch",
+    "Mr Raz Munammad Snar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

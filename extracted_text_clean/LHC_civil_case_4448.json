@@ -7,11 +7,22 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1834 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "date_of_order": "27.02.2024",
+  "judge": "Sulemen Khan",
+  "sections_cited": [
+    "u/s 365-B, 34 PPC",
+    "u/s 161 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mehboob Ali Wassan",
+    "Mr. Zulfiqar Ali Jatoi",
+    "Mr. Shaharyar Imdad Awan",
+    "Mst. Rukhsar",
+    "Adil",
+    "Respondent No.4/I.O of Crime No.248/2023",
+    "Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

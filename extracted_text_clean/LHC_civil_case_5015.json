@@ -7,11 +7,23 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "02.11.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 324"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Ali Akber Kolhoro",
+    "Sho P",
+    "Sfjowol Corimenls",
+    "Rofique",
+    "Rehimnolulluh Soffer",
+    "Dod Mohommod @Ddon Qomeruddin",
+    "Mohummod RAfiq Umroni",
+    "Renmclulloh WCIe",
+    "Police Slulion unid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Civil Transfer Application No.S-08 of 2024",
-  "date_of_order": "",
+  "date_of_order": "17-05-2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Safdar Ali Bhatti",
+    "Mr. Ali Raza Baloch",
+    "Mr. Abdul Rahim Jamro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

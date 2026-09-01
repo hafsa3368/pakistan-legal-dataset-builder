@@ -8,10 +8,35 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-868 of 2023",
   "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    {
+      "name": "Petitioner",
+      "relation": "Mr. Justice Muhammad Iqbal Kalhoro"
+    },
+    {
+      "name": "Applicant",
+      "relation": "Mr. Justice Arbab Ali Hakro"
+    },
+    {
+      "name": "Advocate for Petitioner",
+      "relation": "Mr. Shabbir Ali Bozdar"
+    },
+    {
+      "name": "Assistant A.G",
+      "relation": "Mr. Zulfiqar Ali Naich"
+    },
+    {
+      "name": "DEO, ES&HS, Sukkur",
+      "relation": "Mr. Zulfiqar Ali Naich"
+    },
+    {
+      "name": "Focal Person for Director, ES&HS, Sukkur",
+      "relation": "Imdad Ali"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

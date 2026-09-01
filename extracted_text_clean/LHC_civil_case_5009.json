@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Revision Application No. D-12 of 2021",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "16-11-2023",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 354-A PPC",
     "section 354 PPC"
@@ -16,7 +16,18 @@
   "citations": [
     "2009 SCMR 913"
   ],
-  "parties": [],
+  "parties": [
+    "The State & another",
+    "Mubeen Ali Siyal",
+    "The State",
+    "Mst. Rani",
+    "Talib Hussain",
+    "The State & another",
+    "Muhammad Iqbal Kalhoro",
+    "Arbab Ali Hakro",
+    "Achar Khan Gabol",
+    "Shafi Muhammad Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

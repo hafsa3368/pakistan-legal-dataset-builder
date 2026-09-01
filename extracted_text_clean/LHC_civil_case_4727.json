@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "13.01.2026",
-  "judge": "JUDGE HANIF",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naseer Khan",
+    "The State",
+    "Mr. Shah Jahan Khan",
+    "Mr. Ali Haider Saleem",
+    "learned defence counsel",
+    "learned A.P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

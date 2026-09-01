@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "06.11.2020",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Shamim",
+    "Mst. Sakina",
+    "Mst. Shahida",
+    "Muhammad Shahid",
+    "Nisar Ahmed",
+    "Abdul Rasheed",
+    "Jaffar Ali Muhammad",
+    "Ali Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

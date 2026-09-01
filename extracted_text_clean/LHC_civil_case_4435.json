@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "10.01.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imran Mobeen Khan, Assistant Prosecutor General",
+    "Mr. Ghulam Mustafa Wassan, Assistant Advocate General Sindh",
+    "ASI Allah Jiwayo Rind of Police Station Ubauro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

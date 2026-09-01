@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Revision Application No.S-103 of 2023",
-  "date_of_order": "",
+  "date_of_order": "23.08.2023",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Amjad Ali Almani",
+    "Mr. Gulzar Ahmed Malano",
+    "Mr. Waheed Ali Samtio",
+    "respondent No.1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

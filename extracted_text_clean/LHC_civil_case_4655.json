@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "25.11.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 173 CrPC",
+    "u/s 56, 66, 66-A Copyright Ordinance"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ijaz Atif",
+    "The State & others",
+    "Mehmood Ali",
+    "Gul Faraz Khattak"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,17 @@
   "case_number": "Criminal Bail Application No.S-1077 of 2022",
   "date_of_order": "28.10.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Urooj Khan",
+    "Ms. Rameshan Oad",
+    "M/s Bilal Enterprises",
+    "M/s Ali Enterprises",
+    "Military Intelligence (MI)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

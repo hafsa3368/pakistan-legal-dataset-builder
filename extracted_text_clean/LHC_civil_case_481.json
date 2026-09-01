@@ -8,10 +8,25 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "31.01.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Athar Zai",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Asif Zubair Siddiqui",
+    "Jamshaid Zubair",
+    "Asif Zubair",
+    "Samina Zubair Pirzada",
+    "Haris Zubair Siddiqui",
+    "Zubair Rasheed Siddiqui",
+    "Rasheed Ahmed Siddiqui",
+    "NADRA",
+    "Commonwealth of Virginia, USA",
+    "Muhammad Anwar",
+    "Khawaja Riazuddin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

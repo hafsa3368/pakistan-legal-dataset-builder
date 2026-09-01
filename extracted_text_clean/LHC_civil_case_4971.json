@@ -6,15 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Appeal No.D-",
+  "case_number": "",
   "date_of_order": "15.11.2017",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 342 Cr.P.C",
     "section 340 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Khadim Hussain M. Shaikh",
+    "The State",
+    "M/s Rasool Bux Solangi",
+    "Mazhar Ali Laghari",
+    "Syed Meeral Shah Bukhari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

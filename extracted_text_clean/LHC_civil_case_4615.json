@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "12.03.2025",
-  "judge": "HANIF JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Farukh Mazhar",
+    "SGS Headquarters and others",
+    "appellant",
+    "respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

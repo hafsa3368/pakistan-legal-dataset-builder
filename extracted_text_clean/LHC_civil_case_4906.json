@@ -8,10 +8,21 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "01.02.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Uzair Shaikh",
+    "Election Commission of Pakistan",
+    "Mr. Dareshani Ali Haider ‘Ada’",
+    "Mr. Ashfaque Hussain Abro",
+    "Mr. Ahmed Ali Shahani",
+    "Niaz Hussain Mangnejo",
+    "Khairpur",
+    "Deputy Commissioner / District Returning Officer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

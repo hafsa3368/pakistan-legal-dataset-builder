@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. App. No. S",
+  "case_number": "",
   "date_of_order": "02.02.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Ali Shah Rizvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

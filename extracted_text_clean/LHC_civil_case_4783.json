@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "24.06.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Imdad Ali Malik and Muhammad Asif Kolachi",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

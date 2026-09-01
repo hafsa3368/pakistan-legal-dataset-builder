@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1781 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "15.02.2024",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sabir Hussain Samo",
+    "Mr. Zulfiqar Ali Naich",
+    "Hassan Changez",
+    "DAO",
+    "Hassan Changez",
+    "Naushahro Feroze",
+    "Mr. Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

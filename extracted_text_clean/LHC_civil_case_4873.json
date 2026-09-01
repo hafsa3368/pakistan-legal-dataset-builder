@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-3649 of 2012",
-  "date_of_order": "",
-  "judge": "JUDGE Sulemen Khan/PA",
+  "date_of_order": "07.12.2023",
+  "judge": "Sulemen Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Ali Shahani",
+    "Mr. Shahbaz Husain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

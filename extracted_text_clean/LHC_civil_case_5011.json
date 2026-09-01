@@ -8,7 +8,7 @@
   "num_chunks": 22,
   "case_number": "",
   "date_of_order": "12.9.2019",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 365-A, 34",
     "Section 6/7",
@@ -38,7 +38,12 @@
     "2001 SCMR 1919",
     "1999 SCMR 610"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Arz Muhammad",
+    "Himat Ali",
+    "Sulleman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

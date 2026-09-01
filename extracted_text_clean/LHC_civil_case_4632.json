@@ -8,14 +8,27 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "24.10.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 337-F"
+  ],
   "citations": [
     "2002 P Cr. LJ 707",
     "2004 P Cr. LJ 1753",
     "2023 P Cr. L J 323"
   ],
-  "parties": [],
+  "parties": [
+    "Mushtaq Ahmed",
+    "The State",
+    "Mr. Ghulam Akbar Uqali",
+    "Mr. Aijaz Ahmed Jumani",
+    "Ms. Rahat Ahsan",
+    "Masroof",
+    "Ghulam Nabi",
+    "Pyar Ali",
+    "Imtiaz",
+    "Irshad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

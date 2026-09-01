@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Transfer Application No.S-39 of 2024",
-  "date_of_order": "",
+  "date_of_order": "13.05.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Baqi Jan Kakar",
+    "Mr. Muhammad Ayaz Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

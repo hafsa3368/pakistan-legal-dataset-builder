@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.D-83/2016",
   "date_of_order": "28.04.2020",
-  "judge": "",
+  "judge": "Afzal Karim Virk",
   "sections_cited": [
     "section 342",
     "section 342 Cr.P.C",
@@ -19,7 +19,11 @@
     "2016 SCMR 267",
     "2017 SCMR 148"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Afzal Karim Virk",
+    "Mian Taj Muhammad Keerio",
+    "Ms. Rameshan Oad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

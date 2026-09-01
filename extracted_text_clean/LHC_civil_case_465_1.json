@@ -22,7 +22,11 @@
     "PLD 1994 SC 693",
     "PLD 2017 Lahore 723"
   ],
-  "parties": [],
+  "parties": [
+    "Fauji Oil Terminal & Distribution Company Limited",
+    "Port Qasim Authority",
+    "National Transmission and Despatch Company"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,16 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.D-109 of 2021",
   "date_of_order": "14.09.2022",
-  "judge": "",
+  "judge": "AMJAD ALI SAHITO",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Qadir",
+    "The State through Mr. Shawak Rathore, Deputy Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

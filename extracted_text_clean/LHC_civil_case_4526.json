@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "22.07.2022",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Abdul Rauf Malik",
+    "Noha Khawan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

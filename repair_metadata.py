@@ -64,30 +64,31 @@ def _handle_sigint(signum, frame):
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 try:
-    from extractor import extract_document_metadata, OUTPUT_DIR
+    from new_extractor import extract_document_metadata, OUTPUT_DIR
 except Exception as e:
-    print(f"❌ Could not import extractor.py from this folder: {e}")
-    print("   Make sure repair_metadata.py sits in the same directory as extractor.py")
+    print(f"❌ Could not import new_extractor.py from this folder: {e}")
+    print("   Make sure repair_metadata.py sits in the same directory as new_extractor.py")
     sys.exit(1)
 
 signal.signal(signal.SIGINT, _handle_sigint)
 
+# Scope used to be restricted to repair_checkpoint.json's original ~10.5k
+# filenames (a one-time historical repair batch). neo4j_import.py no longer
+# depends on that file at all (it now imports every JSON in OUTPUT_DIR).
+# This script's own PROGRESS_FILE (below, unrelated to repair_checkpoint.json)
+# tracks resume state on its own, so a full run is always safe. As a speed
+# shortcut, repair_checkpoint.json's files are treated as an EXCLUDE list by
+# default (opposite of the old read-only INCLUDE-only filter) -- they were
+# already fixed by the original repair pass, so skipping them lets this
+# script start directly on the files that were never touched. Pass
+# --no-skip-repaired to disable this and re-check every file instead.
+PROGRESS_FILE = "repair_metadata_progress.json"
 REPAIR_CHECKPOINT_FILE = "repair_checkpoint.json"
 
-# repair_checkpoint.json is also the file neo4j_import.py and
-# fix_jsoncase_numbers.py trust as "the ~10.5k files that actually matter"
-# (everything else in OUTPUT_DIR is a leftover/duplicate extraction run
-# that was never matched into Neo4j). This script now treats it as a
-# READ-ONLY scope filter -- it must never be overwritten with a smaller
-# list, or those other scripts would lose files they currently trust.
-# This script's OWN resume progress lives in a separate file instead.
-PROGRESS_FILE = "repair_metadata_progress.json"
 
-
-def load_scope_filenames() -> set:
-    """The set of basenames repair_metadata.py should actually touch --
-    read-only from repair_checkpoint.json, same convention as
-    fix_jsoncase_numbers.py's load_repaired_filenames()."""
+def load_repair_checkpoint_filenames() -> set:
+    """Filenames listed in repair_checkpoint.json -- used as an EXCLUDE
+    list (already fixed by the original repair pass), not a scope filter."""
     if not os.path.exists(REPAIR_CHECKPOINT_FILE):
         return set()
     with open(REPAIR_CHECKPOINT_FILE, "r", encoding="utf-8") as f:
@@ -170,7 +171,14 @@ CASE_NUMBER_PREFIX_RE = re.compile(
     r"^(?:Crl\.?|CRL\.?|Cr\.B\.A\.?|Cr\.R\.A\.?|Cr\.A\.?|Civil|W\.P\.?|Const\.?|Criminal|Misc\.?)",
     re.I
 )
-CASE_NUMBER_HAS_NO_RE = re.compile(r"No\.?\s*[\w\-]", re.I)
+# Requires an actual DIGIT to appear after "No." (with at most one
+# leading letter + separator in between, e.g. "No.S-1234" or "No.1234"),
+# not just any word character. Fixes a real gap: source PDF text sometimes
+# has a corrupted/mangled hyphen character right after the prefix letter
+# (e.g. "Cr. Misc. App. No. S <corrupted-char> 507 of 2023"), which stops
+# the extraction regex right at "No. S" -- a bare trailing letter with no
+# digit anywhere is always a truncated fragment, never a real case number.
+CASE_NUMBER_HAS_NO_RE = re.compile(r"No\.?\s*[A-Za-z]?[\s\-]?\d", re.I)
 
 
 def is_valid_case_number(val) -> bool:
@@ -220,9 +228,31 @@ def reconstruct_full_text(data: dict) -> str:
 MAX_TEXT_CHARS = 200_000
 
 
+def _invalid_fields(data: dict) -> list:
+    """Cheap pre-check (no PDF/Ollama) -- which FIELD_VALIDATORS fields on
+    this file's CURRENT stored data are already invalid. Lets repair_file()
+    skip the expensive extract_document_metadata() call (which can trigger
+    an Ollama call whenever ANY of judge/case_number/date_of_order/
+    sections_cited/parties is missing, regardless of whether the fields
+    this script actually cares about are already fine) for files that
+    don't need any repair at all -- across the full 58k-file corpus this
+    is the difference between a multi-day run and a fast one, since most
+    files already have valid data from earlier repair passes."""
+    invalid = []
+    for field, validator in FIELD_VALIDATORS.items():
+        current_val = data.get(field, "" if field not in ("sections_cited", "citations", "parties") else [])
+        if not validator(current_val):
+            invalid.append(field)
+    return invalid
+
+
 def repair_file(path: str, apply_changes: bool):
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
+
+    if not _invalid_fields(data):
+        return {"file": os.path.basename(path), "status": "no_change_needed",
+                "changes": {}, "still_invalid": []}
 
     full_text = reconstruct_full_text(data)
     if not full_text.strip():
@@ -243,7 +273,8 @@ def repair_file(path: str, apply_changes: bool):
     still_invalid = []
 
     for field, validator in FIELD_VALIDATORS.items():
-        current_val = data.get(field, "" if field not in ("sections_cited", "citations", "parties") else [])
+        empty_val = "" if field not in ("sections_cited", "citations", "parties") else []
+        current_val = data.get(field, empty_val)
         if validator(current_val):
             continue
 
@@ -254,6 +285,18 @@ def repair_file(path: str, apply_changes: bool):
                 data[field] = new_val
         else:
             still_invalid.append(field)
+            # current_val is CONFIRMED garbage (that's why we're here -- it
+            # failed validation above) and nothing better could be found.
+            # Keeping known-garbage (e.g. "JUDGE Rafiq/PA") is worse than an
+            # honest empty field -- downstream consumers (Neo4j/Qdrant/the UI)
+            # can't tell confirmed-garbage from real data, whereas an empty
+            # field unambiguously means "not found." Only clear it if there
+            # was actually something there to begin with (skip the no-op of
+            # "clearing" an already-empty field).
+            if current_val != empty_val:
+                changes[field] = {"old": current_val, "new": empty_val, "cleared": True}
+                if apply_changes:
+                    data[field] = empty_val
 
     if changes and apply_changes:
         with open(path, "w", encoding="utf-8") as f:
@@ -273,21 +316,28 @@ def main():
                          help="Actually write fixes. Without this flag, runs as a dry-run preview only.")
     parser.add_argument("--reset", action="store_true",
                          help="Clear repair progress checkpoint and rescan ALL files from the start.")
+    parser.add_argument("--no-skip-repaired", action="store_true",
+                         help="Also re-check files listed in repair_checkpoint.json "
+                              "(skipped by default since they were already fixed by "
+                              "the original repair pass).")
     args = parser.parse_args()
 
     if args.reset and os.path.exists(PROGRESS_FILE):
         os.remove(PROGRESS_FILE)
         print(f"🔄 Cleared {PROGRESS_FILE} -- will rescan all in-scope files from scratch.\n")
 
-    scope = load_scope_filenames()
-    all_files_on_disk = sorted(glob.glob(os.path.join(OUTPUT_DIR, "*.json")))
-    all_json_files = [p for p in all_files_on_disk if os.path.basename(p) in scope]
+    all_json_files = sorted(glob.glob(os.path.join(OUTPUT_DIR, "*.json")))
+    total_on_disk = len(all_json_files)
+
+    if not args.no_skip_repaired:
+        already_repaired = load_repair_checkpoint_filenames()
+        if already_repaired:
+            all_json_files = [p for p in all_json_files if os.path.basename(p) not in already_repaired]
+            print(f"⏭  Skipping {total_on_disk - len(all_json_files)} file(s) already listed in "
+                  f"{REPAIR_CHECKPOINT_FILE} (already fixed by the original repair pass).")
+
     total = len(all_json_files)
-    print(
-        f"📂 {len(all_files_on_disk)} JSON files on disk in '{OUTPUT_DIR}/'; "
-        f"{total} are in scope (listed in {REPAIR_CHECKPOINT_FILE}, the set "
-        f"neo4j_import.py actually trusts)."
-    )
+    print(f"📂 {total} JSON files in scope (of {total_on_disk} total in '{OUTPUT_DIR}/').")
 
     done = load_repair_checkpoint() if args.apply else set()
 
@@ -315,7 +365,8 @@ def main():
             total_changed += 1
             print(f"[{idx}/{total}] ✅ {result['file']}", flush=True)
             for field, cv in result["changes"].items():
-                print(f"     {field}: {cv['old']!r} -> {cv['new']!r}", flush=True)
+                tag = " (cleared -- confirmed garbage, nothing better found)" if cv.get("cleared") else ""
+                print(f"     {field}: {cv['old']!r} -> {cv['new']!r}{tag}", flush=True)
         else:
             print(f"[{idx}/{total}] ✔ {os.path.basename(path)} -- already valid, untouched", flush=True)
 

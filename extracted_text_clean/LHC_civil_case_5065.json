@@ -8,10 +8,23 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "07.12.2021",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "87 & 88 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ismail Bhutto",
+    "Addl. A.G Sindh",
+    "Mr. Aijaz Ahmed Shaikh SSP Dadu",
+    "Abdul Khaliq Wagan DSP Dadu",
+    "Pannah Ali Shah PDSP Dadu",
+    "SIP Noor Muhammad",
+    "DIG Hyderabad",
+    "SSP Dadu",
+    "DSP Dadu",
+    "The Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

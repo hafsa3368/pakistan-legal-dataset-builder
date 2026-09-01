@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Transfer Application No.S-77 of 2023",
-  "date_of_order": "",
+  "date_of_order": "11-12-2023",
   "judge": "Ahmad",
   "sections_cited": [
     "sections 324 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aamir Abro, Advocate for applicant",
+    "Private respondents are present in person",
+    "State-Versus Zahid Raza Shah & others",
+    "The Court of learned 3rd Additional Sessions Judge, Naushhro Feroze"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

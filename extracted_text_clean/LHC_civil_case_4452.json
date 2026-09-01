@@ -8,14 +8,17 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No. D",
   "date_of_order": "10.10.2023",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 9-C"
   ],
   "citations": [
     "2021 SCMR 1771"
   ],
-  "parties": [],
+  "parties": [
+    "Atta Muhammad Kalhoro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

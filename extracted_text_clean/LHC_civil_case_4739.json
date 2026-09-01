@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "31.08.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [
     "2019 SCMR 1970",
@@ -16,7 +16,15 @@
     "2014 SCMR 157",
     "2011 SCMR 1198"
   ],
-  "parties": [],
+  "parties": [
+    "Mst.Anam",
+    "Nemo",
+    "Federation of Pakistan",
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Arbab Ali Hakro",
+    "Mr. Sajjad Muhammad Zangejo",
+    "Mr. Ashfaque Hussain Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

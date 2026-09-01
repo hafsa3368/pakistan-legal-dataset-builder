@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.D-04 of 2021",
   "date_of_order": "23.08.2022",
-  "judge": "",
+  "judge": "Amjad Ali Sahito",
   "sections_cited": [
     "section 9-B CNS Act",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Akbar",
+    "The State",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

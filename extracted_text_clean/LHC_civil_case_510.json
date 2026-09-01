@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "08.12.2021",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sachal R. Awan",
+    "Mr. Wali Muhammad Jamari",
+    "Agha Iftikhar H. Tareen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 19,
-  "case_number": "Civil Miscellaneous Applications i.e. CMA Nos",
+  "case_number": "",
   "date_of_order": "19.03.2014",
   "judge": "Irfan Saadat Khan",
   "sections_cited": [
@@ -30,7 +30,13 @@
     "2010 MLD 1267",
     "PLD 2012 Sindh 92"
   ],
-  "parties": [],
+  "parties": [
+    "Karachi Electric Supply Company",
+    "Karachi Water & Sewerage Board",
+    "Federation of Pakistan",
+    "Province of Sindh",
+    "City District Government Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

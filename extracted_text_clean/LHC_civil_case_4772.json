@@ -9,9 +9,18 @@
   "case_number": "",
   "date_of_order": "14.03.2019",
   "judge": "Fahad Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashok Kumar",
+    "Mr. Aslam Pervaiz Khan",
+    "Mr. Jangu Khan",
+    "Learned Special Prosecutor NAB",
+    "Learned counsel for the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Misc. App. No. S",
   "date_of_order": "15.04.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 265-K CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sohail Ahmed Khoso",
+    "Mr. Peer Dino Balouch",
+    "Mr. Imran Mobeen Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

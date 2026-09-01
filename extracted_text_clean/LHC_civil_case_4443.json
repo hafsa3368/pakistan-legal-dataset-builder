@@ -9,9 +9,16 @@
   "case_number": "Criminal Bail Application No.S-1090 of 2022",
   "date_of_order": "18.11.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Naeem Uddin Sahito",
+    "Mr. Muhammad Faisal Bawany",
+    "Mr. Zaheer Ali Soomro",
+    "Mr. Nazar Muhammad Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

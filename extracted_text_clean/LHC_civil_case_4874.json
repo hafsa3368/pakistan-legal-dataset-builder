@@ -9,9 +9,16 @@
   "case_number": "Criminal Bail Application No.S-535 of 2022",
   "date_of_order": "05.09.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 161 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahsan Zahoor Baloch",
+    "Ms. Sana Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

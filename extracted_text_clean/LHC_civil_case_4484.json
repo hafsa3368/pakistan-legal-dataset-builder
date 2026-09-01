@@ -7,13 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-",
-  "date_of_order": "",
+  "date_of_order": "07.08.2023",
   "judge": "Ahmad",
   "sections_cited": [
     "Sections 447, 504, 506/2 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mohsin Kadir Shahwani, Advocate for applicants",
+    "Mr. M.M. Aqil Awan, Advocate for private respondent No.5",
+    "Mr. Zulfiqar Ali Jatoi, Additional P.G for the State a/w Munir Ahmed, SHO, P.S, Bhiria City"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "civil dispute between the parties which cannot",
+  "case_number": "",
   "date_of_order": "16.11.2015",
   "judge": "MUSHARRAF ALI",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Irfan",
+    "Mr. M. Waseem Samo",
+    "Mr. Zafar Ahmed Khan",
+    "Mr. Iqbal Ahmed Soomro",
+    "S.I. Javed Bhatti",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

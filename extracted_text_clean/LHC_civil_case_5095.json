@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "26.09.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Appellant (Mr. Shoukat Ali Phul)",
+    "Respondent No. 1 (Syed Sardar Ali Shah Rizvi)",
+    "Respondent No. 2 (Mr. Irshad Hussain Dharejo)",
+    "Respondent No. 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

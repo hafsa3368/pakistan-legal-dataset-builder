@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "01.04.2019",
   "judge": "Fahad Memon",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Arshad S. Pathan",
+    "Mr. Jangu Khan, Special Prosecutor NAB",
+    "Mr. Aslam Pervaiz Khan, Asst: Attorney General",
+    "Mr. Imtiaz Ali Channa",
+    "Mr. Babar Ali Kazmi",
+    "respondents No.1 to 5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

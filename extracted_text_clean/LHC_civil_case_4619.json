@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "07.05.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zahida Farooq Kasmani",
+    "Karachi Municipal Corporation",
+    "M/s. Altamsh Arab and Farhan Khan",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

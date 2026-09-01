@@ -9,9 +9,16 @@
   "case_number": "Crl. Bail Application No.S-118 of 2024",
   "date_of_order": "29.06.2023",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saeed Indhar",
+    "Gulzar Ahmed Indhar",
+    "The State",
+    "Ansar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

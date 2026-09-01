@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "07.10.2024",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "section 42 of the Specific Relief Act",
     "section 10718"
@@ -25,7 +25,16 @@
     "2007 SCMR 1587",
     "PLD 1983 Lahore 46"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Salahuddin Ahmed",
+    "Mr. Nadeem Ahmed",
+    "Mr. Abid S. Zuberi",
+    "Mr. Ayan Mustafa Memon",
+    "Mr. Khawaja Shams-ul-Islam",
+    "Mr. Omer Soomro",
+    "Mr. Danish Nayyer",
+    "Pakistan Defence Officers Housing Authority & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

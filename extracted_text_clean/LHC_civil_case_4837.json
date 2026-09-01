@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1213 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "12.09.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kashif Hussain Shaikh, Advocate for petitioner",
+    "Mr. Dhareshani Ali Haider ‘Ada’, Additional Attorney General",
+    "SEPCO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

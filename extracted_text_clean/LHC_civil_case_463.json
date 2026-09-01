@@ -8,10 +8,21 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "12.09.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "karah Hussain",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Bibi Asma",
+    "Mr. Allah Bachayo Soomro",
+    "Insp. Sohail Sarwar Jamali",
+    "SSP Hyderabad",
+    "ASI Ghulam Shabbir Magsi",
+    "SHO PS Tando Jam",
+    "ASI Muhammad Yaqoob Soomro",
+    "PS Naushahro Feroze"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "15.01.2025",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 382-B Cr.P.C",
     "section 336-B PPC"
@@ -21,7 +21,13 @@
     "PLD 2021 SC 600",
     "PLD 2007 SC 637"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Azra & others",
+    "State through Mr. Faheem Hussain Panhwar",
+    "Shamshad Masih",
+    "Chanda",
+    "Zeeshan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

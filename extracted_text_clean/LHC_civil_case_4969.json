@@ -9,13 +9,21 @@
   "case_number": "Criminal Bail Application No.S-1124 of 2022",
   "date_of_order": "25.11.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 324 PPC",
+    "u/s 302 PPC",
+    "u/s 337-A"
+  ],
   "citations": [
     "1996 SCMR 555",
     "2010 PCrLJ 914",
     "PLD 1978 SC 236"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ayaz Ali Gopang",
+    "Mr. Ahmed Ali Jarwar",
+    "Mr. Nazar Muhammad Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

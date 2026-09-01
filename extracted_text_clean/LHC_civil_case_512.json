@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "13.12.2022",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Raja Ghazanfar Ali",
+    "News Papers Hawkers Union Nawabshah",
+    "Petitioner",
+    "Municipal Authorities"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

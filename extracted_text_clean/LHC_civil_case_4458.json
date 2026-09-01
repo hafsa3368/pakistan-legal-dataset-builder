@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Misc. App. No. S",
   "date_of_order": "26.02.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 155 CrPC",
+    "U/S 154 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sikandar Sadar Siddiqui, Advocate",
+    "Mr. Shafi Muhammad Mahar, Deputy Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

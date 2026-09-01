@@ -8,10 +8,24 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "05.08.2020",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Usman Ali",
+    "Shaista Ashraf",
+    "Ehsan Ashraf",
+    "Ahmed Madni",
+    "Furqan Hasheen",
+    "Adnan Madni",
+    "Rehan Mustafa",
+    "Ammara Ashraf",
+    "Muhammad Haris",
+    "Abdul Rasheed Syed",
+    "Syed Shahid Ali",
+    "Haji Roshan Ali",
+    "Ashraf Mahmood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

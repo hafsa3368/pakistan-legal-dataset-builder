@@ -8,14 +8,20 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "29.08.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 409, 420",
     "Section 5",
     "Section 498"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saif-ur-Rehman Naich",
+    "Muhammad Shaban",
+    "Muhammad Bux",
+    "Police Station Anti-Corruption Establishment",
+    "District Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

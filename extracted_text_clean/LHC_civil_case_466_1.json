@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "24.02.2021",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Fazal-ur-Rehman",
+    "Shahnaz Begum",
+    "Muhammad Ahmed Pirzada"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

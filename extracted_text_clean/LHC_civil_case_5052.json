@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition No. D-51 of 2024",
   "date_of_order": "01.02.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 62 of the Elections Act",
     "Section 63 of the Act",
@@ -20,7 +20,11 @@
   "citations": [
     "PLD 2018 Lahore 318"
   ],
-  "parties": [],
+  "parties": [
+    "Masroor Ali Chandio",
+    "Shah Nawaz Jatoi",
+    "Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

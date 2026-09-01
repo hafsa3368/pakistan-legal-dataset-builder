@@ -8,10 +8,26 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "12.10.2020",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Saira",
+    "Mr. Rehan Kiyani",
+    "Zamura Sultana",
+    "Ms. Saira Tauseef",
+    "Samina Aslam",
+    "Sajid Ali",
+    "Sajida Saifuddin",
+    "Abid Ali",
+    "Shabana Abid",
+    "Shaiz Abid",
+    "Iqra Abid",
+    "Muhammad Akhrar",
+    "Meer Afzal",
+    "Wajid Ali",
+    "Sadiq Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

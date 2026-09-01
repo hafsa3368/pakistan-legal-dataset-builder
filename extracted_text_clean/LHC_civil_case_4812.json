@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "30.6.2014",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashfaq Nabi Qazi",
+    "Syed Mujeeb Alam Shah",
+    "official respondents (petitioner's brothers)",
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

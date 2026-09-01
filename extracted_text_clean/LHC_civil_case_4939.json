@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "17.11.2022",
+  "judge": "Abdullah Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahnawaz Brohi advocate for petitioners",
+    "Mr. Rafique Ahmed Dahri Assistant A.G. Sindh",
+    "Mr. Mazhar Din Khoso advocate for respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

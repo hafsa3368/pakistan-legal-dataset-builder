@@ -9,7 +9,16 @@
   "case_number": "Criminal Petition No.88-K of 2012",
   "date_of_order": "15.08.2022",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Chaudhry NADEEM SULTAN v. The STATE through P.G Punjab and another",
+    "SHER AFZAL v. The STATE and another",
+    "RAWAL HAJANO v. The STATE",
+    "MUHAMMAD ARSHAD v. The STATE",
+    "MUHAMMAD JAHANGIR KHAN and others v. The STATE and others",
+    "QAYYUM KHAN v. The STATE and others"
+  ],
   "citations": [
     "2022 SCMR 663",
     "2022 SCMR 186",
@@ -17,7 +26,12 @@
     "2020 SCMR 1270",
     "2022 SCMR 273"
   ],
-  "parties": [],
+  "parties": [
+    "applicant",
+    "complainant",
+    "Tayyab",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

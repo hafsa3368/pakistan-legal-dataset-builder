@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "10.12.2025",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 7",
     "section 382-B Cr.P.C",
@@ -17,7 +17,11 @@
     "section 353 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Kashif @ Kareem @ Kashi",
+    "The State",
+    "Faisal Qalandder"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

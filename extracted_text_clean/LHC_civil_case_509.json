@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1170 of 2022",
   "date_of_order": "02.06.2023",
-  "judge": "JUDGE Sulemen Khan/PA",
+  "judge": "Sulemen Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed Bhanbhro",
+    "Mr. Qurban Ali Malano",
+    "Mr. Sohail Ahmed Khoso",
+    "Mr. Ali Raza Baloch",
+    "Muhammad Adeel Soomro",
+    "Hajan Ujjan",
+    "Majid Hameed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

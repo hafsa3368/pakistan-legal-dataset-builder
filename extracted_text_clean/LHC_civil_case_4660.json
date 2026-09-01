@@ -8,12 +8,16 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "20.01.2025",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 295-A, 295-B, 295-C, 298-A, 34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zeeshan Ahmed",
+    "Ms. Farzana Abbasi",
+    "Mr. Abdul Hameed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

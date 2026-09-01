@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "",
-  "judge": "",
+  "judge": "Sindh High",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Waseem Khan & others vs. Mumtaz Rafiq & others",
+    "Petition No. 1/2023",
+    "Waseem Khan & others vs. Mumtaz Rafiq & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "Civil Petition No.363-K of 2020",
   "date_of_order": "23.08.2022",
-  "judge": "JUDGE Shahid",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Amjad Ali Sahito",
+    "Mr. Ishrat Ali Lohar",
+    "Mr. Jangoo Khan",
+    "NAB",
+    "Applicant",
+    "Hon’ble Supreme Court",
+    "Learned Defence Counsel",
+    "Learned Special Prosecutor General for NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "03.03.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Ali Ahmed Zaidi",
+    "Mr. Salman Ahmed Kazi",
+    "MUHAMMAD IQBAL KALHORO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

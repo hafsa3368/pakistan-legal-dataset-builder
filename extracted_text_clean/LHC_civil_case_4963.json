@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Appeal No. S-",
+  "case_number": "",
   "date_of_order": "18.08.2023",
   "judge": "Ahmad",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "section 426 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ameer Ali",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

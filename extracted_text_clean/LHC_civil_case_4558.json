@@ -8,10 +8,25 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "20.01.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "u/s 500, 501, 120-A, 34 PPC",
+    "u/s 500, 501, 121, 34 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mehmood Ahmed",
+    "Jehangir Siddiqui & Co. Ltd.",
+    "Mr. Ravi Pinjani",
+    "Mr. Asif Khawaja",
+    "Mr. Gul Faraz Khattak",
+    "Jang house",
+    "respondent No.1",
+    "respondent No.2",
+    "respondent No.3",
+    "respondent No.4",
+    "respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

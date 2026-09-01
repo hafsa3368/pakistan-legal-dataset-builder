@@ -11,7 +11,11 @@
   "judge": "JUDGE Rafiq/PA",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ahmed",
+    "The Secretary Directorate of Labour & Commerce Government of Sindh",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

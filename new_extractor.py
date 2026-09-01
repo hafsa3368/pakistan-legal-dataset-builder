@@ -129,6 +129,9 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 # because a real, genuine case number in this format was found NOT
 # matching the previous (narrower) pattern.
 HEADER_WINDOW = 3000  # was 1200 -- some genuine captions sit further in
+TAIL_WINDOW = 2000    # judge signature blocks are short and sit right at
+                       # the end of the document; same principle as
+                       # HEADER_WINDOW, see judge_search_text below
 
 # Number-token tail: tolerates a letter+dash prefix with spaces around the
 # dash (e.g. "D – 1115"), not just contiguous "D-1115".
@@ -729,25 +732,35 @@ def extract_document_metadata(full_text: str, row: dict) -> dict:
     meta["date_of_order"] = date_order.group(1).strip() if date_order else ""
 
     # ── Judge name ─────────────────────────────────────────────────────
+    # Same header-only principle as case_number above, but judge names
+    # legitimately appear in TWO places: a "PRESENT: Mr. Justice X" line
+    # near the top, AND a signature block ("(X) JUDGE") right at the end.
+    # Unlike case_number, restricting to the header alone would break the
+    # common end-of-document signature pattern -- so search header + tail
+    # together and skip the body in between, where a cited precedent's
+    # judge ("as held by Justice Y in ...") could otherwise be mistaken
+    # for this document's own deciding judge.
+    judge_search_text = full_text[:HEADER_WINDOW] + "\n" + full_text[-TAIL_WINDOW:]
+
     judge = re.search(
         r"([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,4})\s+J\s*[;:\-]+",
-        full_text
+        judge_search_text
     )
     if not judge:
         judge = re.search(
             r"\(([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,4}|"
             r"[A-Z]{2,}(?:\s+[A-Z]{2,}){1,4})\)\s*\n?\s*(?:JUDGE|Judge)",
-            full_text
+            judge_search_text
         )
     if not judge:
         judge = re.search(
             r"\*([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,4})\*",
-            full_text
+            judge_search_text
         )
     if not judge:
         present_block = re.search(
             r"PRESENT\s+([\s\S]{0,300}?)(?:CRL\.|Crl\.|ORDER|Date)",
-            full_text, re.I
+            judge_search_text, re.I
         )
         if present_block:
             judge = re.search(
@@ -758,17 +771,17 @@ def extract_document_metadata(full_text: str, row: dict) -> dict:
         judge = re.search(
             r"Justice\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,4})"
             r"(?!\s+(?:Act|Ordinance)\b)",
-            full_text
+            judge_search_text
         )
     if not judge:
         judge = re.search(
             r"([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,3})\s*\n?\s*JUDGE",
-            full_text
+            judge_search_text
         )
     if not judge:
         judge = re.search(
             r"JUDGE[.:]?\s*([A-Z][A-Za-z\/\s]{2,100}?)\s*(?:\n|$)",
-            full_text
+            judge_search_text
         )
         if judge:
             candidate = judge.group(1).strip()

@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "19.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 365-A, 324, 353, 368, 147, 148, 149 PPC",
+    "U/S 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Abbas Shah",
+    "Noor Ahmed S/o Phullo Kosh",
+    "Faiz Ahmed S/o Haji Allah Bachayo Indhar",
+    "Javed Iqbal S/o Muhammad Arab Khan Kosh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "27.04.2022",
+  "judge": "Ijaz Athar Khan Khaili",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 202 CrPC",
+    "Section 18/34 IPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zohra Bibi & another vs. Ilyas Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

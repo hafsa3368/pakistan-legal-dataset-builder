@@ -83,6 +83,7 @@ COLLECTION_NAME = "legal_chunks"
 BATCH_SIZE = 50
 CHECKPOINT_FILE = "embedding_checkpoint.json"
 DEBUG_LOG_FILE = "embedding_debug.log"
+DEFAULT_REPAIR_CHECKPOINT_FILE = "repair_checkpoint.json"
 
 # Permanently-skip hone wale chunks yahan save honge (chunk_id + reason)
 FAILED_CHUNKS_FILE = "failed_chunks.json"
@@ -328,7 +329,7 @@ def setup_qdrant(client: QdrantClient):
 # ---------------------------------------------------------------------------
 # READ CHUNKS FROM YOUR ACTUAL JSON FORMAT
 # ---------------------------------------------------------------------------
-def iter_chunks(json_dir: str, repaired_filenames: set = None):
+def iter_chunks(json_dir: str, repaired_filenames: set = None, exclude_filenames: set = None):
     """
     Matches repair_metadata.py output exactly:
     generated_name, actual_filename, court, case_type, year, case_number,
@@ -338,6 +339,12 @@ def iter_chunks(json_dir: str, repaired_filenames: set = None):
     Agar repaired_filenames diya gaya ho, to sirf unhi files ko process
     karega jo us set mein hain (baaki skip). Ye repair_checkpoint.json
     se match karta hai.
+
+    exclude_filenames (default: repair_checkpoint.json's files, see run())
+    ko is dir mein filter hone se PEHLE hi skip kar diya jata hai -- inko
+    khud JSON file kholna/parhna bhi nahi padta, kyunke ye already Qdrant
+    mein hain (embedding_checkpoint.json ke through pehle se hi verify
+    ho chuka hai). Ye large-scale reruns ko fast start karne deta hai.
     """
     json_files = list(Path(json_dir).glob("*.json"))
     log.info(f"Found {len(json_files)} total JSON files in {json_dir}")
@@ -345,6 +352,14 @@ def iter_chunks(json_dir: str, repaired_filenames: set = None):
     if repaired_filenames is not None:
         json_files = [jf for jf in json_files if jf.name in repaired_filenames]
         log.info(f"Filtered to {len(json_files)} repaired files (per repair_checkpoint.json)")
+
+    if exclude_filenames:
+        before = len(json_files)
+        json_files = [jf for jf in json_files if jf.name not in exclude_filenames]
+        log.info(
+            f"Skipping {before - len(json_files)} file(s) already listed in "
+            f"repair_checkpoint.json (already embedded) -- {len(json_files)} remaining."
+        )
 
     for jf in json_files:
         try:
@@ -387,6 +402,10 @@ def iter_chunks(json_dir: str, repaired_filenames: set = None):
                 "chunk_text": chunk_text,
                 "generated_name": generated_name,
                 "actual_filename": actual_filename,
+                # Same derivation add_case_id_to_qdrant.py used to apply as a
+                # separate post-processing pass -- set directly at embed time
+                # instead, so newly-embedded points never need that extra step.
+                "case_id": actual_filename if actual_filename else generated_name,
                 "file_path": str(jf),
                 "court": data.get("court", "unknown"),
                 "case_type": data.get("case_type", "unknown"),
@@ -411,6 +430,7 @@ def run(
     json_dir: str,
     repaired_list_path: str = None,
     retry_failed_only: bool = False,
+    skip_already_embedded: bool = True,
 ):
     processed_ids = load_checkpoint()
     log.info(f"Resuming with {len(processed_ids)} chunks already processed.")
@@ -431,6 +451,15 @@ def run(
             return
         log.info(f"Loaded {len(repaired_filenames)} repaired filenames to process.")
 
+    # By default, skip files listed in repair_checkpoint.json -- they were
+    # already embedded in an earlier run (verified: embedding_checkpoint.json
+    # already covers them), so re-opening/re-parsing those JSON files just to
+    # have the per-chunk checkpoint check discard them again wastes time on
+    # large reruns. Same convention as repair_metadata.py's --no-skip-repaired.
+    exclude_filenames = None
+    if skip_already_embedded and not repaired_list_path:
+        exclude_filenames = load_repaired_filenames(DEFAULT_REPAIR_CHECKPOINT_FILE)
+
     if not is_ollama_alive():
         log.error("Ollama is not running. Start it first: ollama serve")
         return
@@ -449,7 +478,7 @@ def run(
         "failed_dimension": 0,
     }
 
-    for chunk_id, chunk_text, payload in tqdm(iter_chunks(json_dir, repaired_filenames), desc="Embedding chunks"):
+    for chunk_id, chunk_text, payload in tqdm(iter_chunks(json_dir, repaired_filenames, exclude_filenames), desc="Embedding chunks"):
         if chunk_id in processed_ids:
             stats["skipped_already_done"] += 1
             continue
@@ -533,14 +562,26 @@ if __name__ == "__main__":
     parser.add_argument("--json_dir", required=True, help="Folder containing your JSON files (repaired + unrepaired mixed)")
     parser.add_argument(
         "--repaired_list",
-        default="repair_checkpoint.json",
-        help="Path to repair_checkpoint.json (list of repaired filenames). "
-             "Only these files will be embedded; pass empty string to disable filtering.",
+        default=None,
+        help="Optional: path to a JSON file listing filenames to restrict "
+             "embedding to (e.g. for re-running only a historical repair "
+             "batch). By default (omitted) ALL files in --json_dir are "
+             "embedded, since the embedding checkpoint already tracks what's "
+             "done -- this must be opt-in, not the default, so newly-added "
+             "files are never silently excluded.",
     )
     parser.add_argument(
         "--retry_failed_only",
         action="store_true",
         help="Sirf failed_chunks.json mein listed chunk_ids ko dobara try karo.",
+    )
+    parser.add_argument(
+        "--no-skip-repaired",
+        action="store_true",
+        help="Also re-scan files listed in repair_checkpoint.json (skipped by "
+             "default since they're already embedded -- verified against "
+             "embedding_checkpoint.json). Same convention as "
+             "repair_metadata.py's --no-skip-repaired.",
     )
     args = parser.parse_args()
 
@@ -549,4 +590,5 @@ if __name__ == "__main__":
         args.json_dir,
         repaired_list,
         args.retry_failed_only,
+        skip_already_embedded=not args.no_skip_repaired,
     )

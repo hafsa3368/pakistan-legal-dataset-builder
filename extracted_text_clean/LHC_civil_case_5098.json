@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.D-05 of 2022",
   "date_of_order": "04.10.2022",
-  "judge": "",
+  "judge": "AMJAD ALI SAHITO",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Badar-uz-Zaman Shah Kalhoro",
+    "The State",
+    "Badar-uz-Zaman Shah Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

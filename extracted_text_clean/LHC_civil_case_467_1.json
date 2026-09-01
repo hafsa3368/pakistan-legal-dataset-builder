@@ -8,10 +8,26 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "05.04.2018",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Hanifa Bano",
+    "Mst. Zahida Amjad",
+    "Mst. Abida",
+    "Mst. Rabia Anwar",
+    "Mst. Sadia Anwar",
+    "Zahid Anwar",
+    "Naveed Anwar",
+    "Fahad Anwar",
+    "Muhammad Anwar Javed",
+    "Muhammad Sadiq",
+    "Ashiq Hussain",
+    "Muhammad Azeem",
+    "Khair Din",
+    "Jang",
+    "Nadra"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

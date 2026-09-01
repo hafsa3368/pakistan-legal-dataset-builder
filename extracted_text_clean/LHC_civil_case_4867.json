@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Transfer Application No.D-06 of 2022",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "19.10.2022",
+  "judge": "Abdullah Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Safar",
+    "Mr. Niaz Hussain Mirani Special Prosecutor NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,15 @@
   "case_number": "Criminal Bail Application No.S-192 of 2020",
   "date_of_order": "27.04.2020",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 406, 420, 35 PPC",
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahsan Gul Dahri",
+    "Mr. Nazar Muhammad Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

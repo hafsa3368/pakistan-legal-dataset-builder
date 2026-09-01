@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "23.05.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abrar Raza Ghumro",
+    "Mr. Zulfiqar Ali Naich",
+    "Learned Counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

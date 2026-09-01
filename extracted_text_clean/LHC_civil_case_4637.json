@@ -8,13 +8,17 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "04.01.2018",
-  "judge": "",
+  "judge": "Shab Alam",
   "sections_cited": [
     "Section 436/34 PPC",
     "Section 7"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Hussain Bhai",
+    "Muhammad Iqbal Kalhoro",
+    "Mr. Muhammad Iqbal Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

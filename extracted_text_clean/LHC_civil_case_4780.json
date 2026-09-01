@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "16.08.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Riaz Ali Shaikh",
+    "Mr. Ali Raza Baloch",
+    "Mr. Sawan Khan Jagirani",
+    "Mr. Riaz Ali Shaikh",
+    "Mr. Ali Raza Baloch",
+    "Alleged contemnor No.3",
+    "Alleged contemnor No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

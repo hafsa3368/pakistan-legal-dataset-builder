@@ -983,7 +983,23 @@ GRAPH_WEIGHT_DECIDED_BY = 0.15        # shared, non-generic judge -- relies
                                        # this signal rather than corrupt it
 VECTOR_RERANK_WEIGHT = 0.7            # final re-rank = this * Qdrant score
 GRAPH_RERANK_WEIGHT = 0.3             #   + this * combined graph relevance
-OLLAMA_GENERATE_TIMEOUT = 180         # seconds; safety net, not the primary fix
+# --------------------------------------------------------------------
+# MIN_RELEVANCE_SCORE -- guards against non-legal input (greetings, chit-
+# chat, gibberish) being run through the full retrieval+synthesis
+# pipeline. Qdrant always returns its top-k nearest chunks regardless of
+# how irrelevant the query is, so without this check a query like "hi"
+# still "retrieves" whatever chunks happen to be vector-nearest and the
+# LLM confidently synthesizes an answer from them (observed live: "hi"
+# produced a fabricated-sounding bail-cancellation answer citing an
+# unrelated succession-law case). Calibrated empirically against this
+# corpus: real legal topics, even short ones ("divorce", "custody of
+# minor", "bail cancellation"), scored 0.69-0.78; greetings/chit-chat
+# ("hi", "hello", "how are you", "tell me a joke") scored 0.43-0.55;
+# gibberish scored 0.55-0.58. 0.60 sits in the clean gap between those
+# groups with margin on both sides.
+# --------------------------------------------------------------------
+MIN_RELEVANCE_SCORE = 0.60
+OLLAMA_GENERATE_TIMEOUT = 300         # seconds; safety net, not the primary fix
 OLLAMA_NUM_PREDICT = 700              # bounds response length -> bounds latency
 # --- Revision 16, FIX Z: raised 4096 -> 8192. The evidence block plus the
 # full instruction set can approach the previous ceiling for queries with
@@ -1437,6 +1453,14 @@ class RetrievalError(Exception):
     pass
 
 
+class OutOfScopeQueryError(RetrievalError):
+    """Raised specifically when the query's best Qdrant match falls below
+    MIN_RELEVANCE_SCORE (e.g. "hi", chit-chat, gibberish) -- distinct from
+    a genuine system/retrieval failure so the final answer's LIMITATIONS
+    text can say so accurately instead of "due to a system issue"."""
+    pass
+
+
 def retrieve_evidence(legal_query: str, central_identifier: Optional[str] = None) -> dict:
     """Runs the retrieval side of the pipeline and returns a dict:
         {
@@ -1469,6 +1493,14 @@ def retrieve_evidence(legal_query: str, central_identifier: Optional[str] = None
             raise RetrievalError(
                 "No relevant Pakistani case law could be found for this query. "
                 "Try rephrasing it with more specific legal terms."
+            )
+
+        best_score = max(r.score for r in raw_results)
+        if best_score < MIN_RELEVANCE_SCORE:
+            raise OutOfScopeQueryError(
+                "This doesn't look like a specific legal question. Please ask "
+                "about a legal topic, case, or issue (e.g. 'What is the legal "
+                "standard for granting bail in economic offence cases?')."
             )
 
         cases = qn.group_by_case_id(raw_results)
@@ -4104,7 +4136,10 @@ def _answer_case_lookup(driver, identifier_text: str) -> str:
     )
 
 
-def user_facing_error(message: str) -> str:
+def user_facing_error(
+    message: str,
+    limitations: str = "This response could not be grounded in retrieved case law due to a system issue.",
+) -> str:
     """Same six-section shape, used only for genuine RETRIEVAL failures
     (no evidence was ever found) so the caller never sees a raw
     exception, traceback, or inconsistent format. Not used for "the LLM
@@ -4117,7 +4152,7 @@ def user_facing_error(message: str) -> str:
         "RELEVANT LEGAL PRINCIPLES:\nNot applicable.\n\n"
         "RELEVANT CASE LAW:\nNot applicable.\n\n"
         "APPLICATION TO THE QUERY:\nNot applicable.\n\n"
-        "LIMITATIONS:\nThis response could not be grounded in retrieved case law due to a system issue."
+        f"LIMITATIONS:\n{limitations}"
     )
 
 
@@ -4176,6 +4211,13 @@ def answer_legal_query(
 
     try:
         evidence = retrieve_evidence(legal_query, central_identifier)
+    except OutOfScopeQueryError as e:
+        text = user_facing_error(
+            str(e),
+            limitations="This question does not appear to relate to Pakistani "
+            "case law available in this system, rather than a system error.",
+        )
+        return (text, {"mode": "out_of_scope_query", "error": str(e)}) if return_debug else text
     except RetrievalError as e:
         text = user_facing_error(str(e))
         return (text, {"error": str(e)}) if return_debug else text

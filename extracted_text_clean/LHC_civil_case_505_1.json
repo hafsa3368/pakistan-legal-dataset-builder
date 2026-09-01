@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "16.02.2021",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ayaz Nawab",
+    "Nawab Khan",
+    "Umer Zada",
+    "Dilawar Khan",
+    "NADRA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

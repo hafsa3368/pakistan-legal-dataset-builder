@@ -8,12 +8,17 @@
   "num_chunks": 1,
   "case_number": "Crl. Misc. Appln. No.D-13 of 2017",
   "date_of_order": "17.01.2018",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Muhammad Murad Chachar and Abdul Rahman A. Bhutto",
+    "Mr. Khadim Hussain Khooharo",
+    "Abdul Waheed",
+    "Kashmore Town Committee"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

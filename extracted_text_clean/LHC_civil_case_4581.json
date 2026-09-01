@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "20.06.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 337-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Maqbool",
+    "The State",
+    "Mr. Khadim Hussain",
+    "Mr. Saddam Hussain",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,15 +8,23 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "17.02.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "U/s 5 of Limitation Act",
+    "u/s 5 of Limitation Act"
+  ],
   "citations": [
     "1974 SCMR 223",
     "2000 SCMR 647",
     "2002 SCMR 1405",
     "2000 MLD 1"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Muhammad Taseer Khan and M. Amin Motiwala, advocates for Appellants",
+    "Mr. Fahad Hussain, advocate for respondents",
+    "Syed Hussain Shah, AAG",
+    "Waris Ali & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

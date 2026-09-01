@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "15.10.2020",
+  "judge": "(Retd) Syed Khalid Rasul Gill",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 34 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aziz Khan",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

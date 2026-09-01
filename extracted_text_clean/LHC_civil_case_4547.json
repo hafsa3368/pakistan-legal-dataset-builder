@@ -9,12 +9,20 @@
   "case_number": "Constitutional Petition No.D-861 of 2023",
   "date_of_order": "14.02.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 442",
     "2017 SCMR 890"
   ],
-  "parties": [],
+  "parties": [
+    "Aziz Ahmed Khan and 9 others",
+    "Province of Sindh and 6 others",
+    "Muhammad Naveed Uddin Qadri and 9 others",
+    "Province of Sindh and 5 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,17 @@
   "num_chunks": 3,
   "case_number": "civil proceedings and criminal proceedings cannot",
   "date_of_order": "17.12.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 489-F PPC"
   ],
   "citations": [
     "2024 SCMR 1567"
   ],
-  "parties": [],
+  "parties": [
+    "complainant",
+    "applicants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

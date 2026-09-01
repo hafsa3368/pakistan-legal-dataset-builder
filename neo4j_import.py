@@ -20,10 +20,6 @@ from tqdm import tqdm
 # 1) Ye folder jahan aapki extracted JSON files pari hain (data yahan se aayega)
 JSON_FOLDER = r"D:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean"
 
-# 2) repair_checkpoint.json ka poora path (jo repair_metadata.py ne banayi thi)
-#    Agar ye file kisi aur folder mein hai toh yahan sahi path daalein.
-REPAIR_CHECKPOINT_FILE = r"D:\hafsa_thesis material\supreme_court_scraper\repair_checkpoint.json"
-
 # =========================================================
 # NEO4J LOGIN
 # =========================================================
@@ -47,10 +43,6 @@ from tqdm import tqdm
 # =========================================================
 
 JSON_FOLDER = r"D:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean"
-
-REPAIR_CHECKPOINT_FILE = (
-    r"D:\hafsa_thesis material\supreme_court_scraper\repair_checkpoint.json"
-)
 
 # =========================================================
 # NEO4J LOGIN
@@ -223,67 +215,6 @@ def normalize_case_type(raw, fallback="Unknown"):
         return "Criminal Case"
 
     return fallback
-
-
-# =========================================================
-# LOAD REPAIR CHECKPOINT
-# =========================================================
-
-def load_repaired_filenames() -> Set[str]:
-
-    if not os.path.exists(REPAIR_CHECKPOINT_FILE):
-
-        raise FileNotFoundError(
-            f"\nrepair_checkpoint.json not found:\n"
-            f"{REPAIR_CHECKPOINT_FILE}\n\n"
-            f"Please check REPAIR_CHECKPOINT_FILE at the top."
-        )
-
-    with open(
-        REPAIR_CHECKPOINT_FILE,
-        "r",
-        encoding="utf-8"
-    ) as f:
-
-        data = json.load(f)
-
-    names: Set[str] = set()
-
-    if isinstance(data, list):
-
-        names.update(data)
-
-    elif isinstance(data, dict):
-
-        for key in (
-            "completed",
-            "fixed",
-            "processed",
-            "done",
-            "repaired",
-        ):
-
-            value = data.get(key)
-
-            if isinstance(value, list):
-
-                names.update(value)
-
-            elif isinstance(value, dict):
-
-                names.update(value.keys())
-
-    if not names:
-
-        raise ValueError(
-            "\nrepair_checkpoint.json was loaded, "
-            "but no filenames were found."
-        )
-
-    return {
-        os.path.basename(n)
-        for n in names
-    }
 
 
 # =========================================================
@@ -1221,61 +1152,22 @@ def main():
 
         # -------------------------------------------------
         # STEP 4
-        # Repair checkpoint
+        # Find JSON files
         # -------------------------------------------------
+        # Imports every JSON file found in JSON_FOLDER, not just files
+        # listed in the old one-time repair_checkpoint.json (that list
+        # only ever scoped a historical metadata-repair pass and was
+        # never meant to gate ongoing imports -- using it that way
+        # silently excluded 82% of the extracted corpus, including any
+        # newly-added case going forward). Which files are already
+        # imported is tracked by this script's own checkpoint below.
 
-        repaired_names = (
-            load_repaired_filenames()
-        )
-
-        print(
-            f"Repaired filenames in checkpoint: "
-            f"{len(repaired_names)}"
+        all_files = list(
+            Path(JSON_FOLDER).rglob("*.json")
         )
 
         # -------------------------------------------------
         # STEP 5
-        # Find JSON files
-        # -------------------------------------------------
-
-        all_files = [
-
-            f
-
-            for f in Path(
-                JSON_FOLDER
-            ).rglob("*.json")
-
-            if f.name in repaired_names
-
-        ]
-
-        found_names = {
-            f.name
-            for f in all_files
-        }
-
-        missing_on_disk = (
-            repaired_names
-            - found_names
-        )
-
-        if missing_on_disk:
-
-            print(
-                f"WARNING: "
-                f"{len(missing_on_disk)} files "
-                f"from checkpoint were not found."
-            )
-
-            log_error(
-                f"Missing on disk "
-                f"({len(missing_on_disk)}): "
-                f"{sorted(missing_on_disk)}"
-            )
-
-        # -------------------------------------------------
-        # STEP 6
         # Load own checkpoint
         # -------------------------------------------------
 

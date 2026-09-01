@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Appeal No.D-30 of 2020",
   "date_of_order": "26.09.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
+  "judge": "Faisal Mumtaz",
   "sections_cited": [
     "Section 54",
     "Section 23 & 28",
@@ -29,7 +29,10 @@
     "PLD 1993 SC 418",
     "PLD 1963 SC 382"
   ],
-  "parties": [],
+  "parties": [
+    "Land Acquisition Officer and another",
+    "Abdul Hakeem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

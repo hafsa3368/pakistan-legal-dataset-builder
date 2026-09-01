@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "15.09.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Barrister Zamir Hussain Ghumro",
+    "Mr. Ubedullah Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

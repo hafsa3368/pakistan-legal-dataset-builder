@@ -8,13 +8,19 @@
   "num_chunks": 3,
   "case_number": "constitution petition bearing No.D-5235 of 2015",
   "date_of_order": "14.01.2019",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2007 SCMR 54",
     "PLD 2013 SC 159"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Shoukat Ali Pathan",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

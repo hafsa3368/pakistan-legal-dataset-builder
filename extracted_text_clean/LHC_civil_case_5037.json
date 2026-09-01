@@ -8,10 +8,20 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "28.02.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 342 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Ali Murtaza Shah",
+    "Mr. Israr Ahmed Shah",
+    "Mr. Athar Abbas Solangi",
+    "Mr. Aftab Ahmed Shar",
+    "trial Court",
+    "respondent No.2",
+    "respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,27 @@
   "num_chunks": 3,
   "case_number": "Constitution Petition No.D-4882 of 2025",
   "date_of_order": "06.11.2025",
-  "judge": "",
+  "judge": "Javed Ahmed Mahar",
   "sections_cited": [
     "section 47"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mohammad Jibran Nasir",
+    "M/s. Rana Daniyal Akram and Daniyal Muhammad Hussain, Advocate",
+    "Mr. Muhammad Hisham Mahar, Asst. Advocate- General, Sindh",
+    "Mr. Javed Ahmed Mahar, Conservator Wildlife Department, Government of Sindh",
+    "Mr. Asad Ahmed",
+    "Akhlaque Khan Yousufzai, Senior Director, Zoo, Safari & Recreation, KMC",
+    "Dr. Aamir Ismail Razvi, Deputy Director Zoo, KMC",
+    "Mr. Muhammad Hisham Mahar, Asst. Advocate- General, Sindh",
+    "KMC",
+    "Jude Allen Pereira",
+    "Dr. Nazeer Hussain Kalhoro",
+    "Mohammad Jibran Nasir",
+    "Zafeer Ahmed Shaikh",
+    "Wildlife Photographer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

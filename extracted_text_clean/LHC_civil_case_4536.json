@@ -8,15 +8,23 @@
   "num_chunks": 6,
   "case_number": "Constitutional Petition No.D-1757 of 2017",
   "date_of_order": "26.03.2019",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 1405",
     "2006 SCMR 1082",
     "2015 SCMR 1257",
     "2005 SCMR 539"
   ],
-  "parties": [],
+  "parties": [
+    "Anzar Ali Shah & others",
+    "Province of Sindh & others",
+    "Taaruf Hussain & others",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

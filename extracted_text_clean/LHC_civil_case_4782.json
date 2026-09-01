@@ -6,14 +6,25 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitution to look into C. P. No. D",
+  "case_number": "",
   "date_of_order": "16.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "U/S 4 of the Balochistan Service Tribunal Act",
+    "U/S 212"
+  ],
   "citations": [
     "2018 SCMR 1411"
   ],
-  "parties": [],
+  "parties": [
+    "Naseer Ahmed Phulpoto",
+    "Province of Sindh",
+    "others",
+    "Mr. Muhammad Iqbal Kalhoro",
+    "Mr. Arbab Ali Hakro",
+    "Mr. Sohail Ahmed Khoso",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

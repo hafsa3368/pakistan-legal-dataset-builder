@@ -9,9 +9,19 @@
   "case_number": "",
   "date_of_order": "19.09.2022",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mian Taj Muhammad Keerio",
+    "Mr. Ghulam Abbas Sangi",
+    "Tariq Aziz",
+    "Federal Investigation Agency",
+    "Ahsan Naqvi",
+    "Bank Al-Fallah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

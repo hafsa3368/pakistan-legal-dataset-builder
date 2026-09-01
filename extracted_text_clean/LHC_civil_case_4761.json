@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitution is not",
+  "case_number": "",
   "date_of_order": "27.02.2019",
   "judge": "Muhammad Iqbal",
   "sections_cited": [
@@ -23,7 +23,11 @@
     "PLD 1969 SC 446",
     "PLD 2003 Karachi 97"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Kalhoro",
+    "Federation through Chairman, National Accountability Bureau, Islamabad",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

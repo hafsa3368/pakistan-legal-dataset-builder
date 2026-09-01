@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Const. Petition No.D-1497 of 2023",
   "date_of_order": "26.03.2024",
-  "judge": "Faisal Mumtaz/PS JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 2",
     "Section 16"
@@ -20,7 +20,11 @@
     "2022 SCMR 636",
     "PLD 1978 Karachi 649"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Pakistan Chemical & Energy Sector",
+    "Rab Nawaz and others",
+    "through Mr. Ahmed Ali Shahani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,14 @@
   "case_number": "Criminal Bail Application No.S-167 of 2023",
   "date_of_order": "14.04.2023",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 9"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Badal Gahoti",
+    "Abdul Waheed Bijarani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

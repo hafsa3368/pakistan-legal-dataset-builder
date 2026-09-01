@@ -9,9 +9,19 @@
   "case_number": "Criminal Bail Application No.S-595 of 2022",
   "date_of_order": "19.09.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "u/s 302 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Complainant",
+    "Applicants",
+    "Appellant",
+    "Petitioner",
+    "Applicant",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

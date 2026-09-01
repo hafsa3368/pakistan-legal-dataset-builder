@@ -6,14 +6,28 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Appeal No. S-",
+  "case_number": "",
   "date_of_order": "4th September, 2023",
   "judge": "Ahmad",
   "sections_cited": [
     "sections 345 and 346"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Afaque Ali",
+    "Sajjad Ali Shah",
+    "Akhtiar Hussain Shah",
+    "Mumtaz",
+    "Dhani Bakhsh",
+    "Zaheer Ahmed",
+    "Naseem Ali",
+    "Mst. Hazooran",
+    "Mst. Zaheeran",
+    "Mst. Ameeran",
+    "Mst. Muneeran",
+    "Mst. Shahzadi",
+    "Mst. Shahmeeran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "29.11.2022",
+  "judge": "Abdullah Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Meer Ahmed Mangrio",
+    "Mr. Aghis-u-Salam Tahirzada",
+    "Mr. Sundar Das",
+    "Mr. Muhammad Ismail Bhutto",
+    "SSP Jamshoro",
+    "Imam Bargah",
+    "Revenue Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

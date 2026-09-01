@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "11.03.2021",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Naushaba Anis",
+    "Anis-ul-Hassan Qazi",
+    "Pakistan Steel Mills",
+    "NADRA",
+    "Central Depositary Company of Pakistan Limited",
+    "Deputy Registrar (OS)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

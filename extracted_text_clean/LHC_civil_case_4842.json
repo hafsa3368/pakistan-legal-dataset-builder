@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "11.09.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rameez Ali Chhajro",
+    "Mr. Shafi Muhammad Mahar",
+    "Muhammad Iqbal Kalhoro",
+    "complainant",
+    "applicant",
+    "Mst. Kalsoom"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

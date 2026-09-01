@@ -9,9 +9,24 @@
   "case_number": "Constitutional Petition No.D-6118 of 2021",
   "date_of_order": "27.02.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 240",
+    "Article 242",
+    "Rule 3(i) of the Sindh Public Service Commission (Function) Rules 1990"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Waheed Ali",
+    "Province of Sindh",
+    "Altaf Hussain",
+    "Zamir Hussain Ghumro",
+    "Syed Abrar Ahmed Bukhari",
+    "Nemo for respondents No.3 in C.P Nos.D-6121/ 2021 & 6122 2021",
+    "Mr. Abdul Jalil Zubedi",
+    "AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

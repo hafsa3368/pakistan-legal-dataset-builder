@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "22.11.2022",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ayatullah Khowaja",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Shakeel Qureshi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 24,
   "case_number": "Criminal Misc. Application No. 495 of 2020",
   "date_of_order": "02.07.2021",
-  "judge": "",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 151",
     "Section 33",
@@ -32,7 +32,17 @@
     "PLD 1970 Karachi 730",
     "PLD 1967 Lahore 1040"
   ],
-  "parties": [],
+  "parties": [
+    "Deepak Kumar and 10 others",
+    "Fatima Jinnah Dental College and 6 others",
+    "Social Responsibility Organization",
+    "Isra University",
+    "Ali Naveed Shaikh and 25 others",
+    "Hamdard College of Medicine (Dental Section) Hamdard University",
+    "Federation of Pakistan",
+    "Pakistan Medical Commission",
+    "Pakistan Dental Association"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "20.11.2018",
+  "judge": "Iftikhar Muhammad Khan",
+  "sections_cited": [
+    "Section 498-A PPA",
+    "Section 13 of the Prohibition of Employment of Child Labour Act, 2006"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Rimsha",
+    "Mr. Ahsan",
+    "The petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

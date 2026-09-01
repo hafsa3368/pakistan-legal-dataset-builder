@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Transfer Application No.S-90 of 2022",
-  "date_of_order": "",
+  "date_of_order": "08.09.2023",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Alam Sher Bozdar",
+    "Mr. Aftab Ahmed Shar",
+    "Mr. Ghulam Murtaza Samejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

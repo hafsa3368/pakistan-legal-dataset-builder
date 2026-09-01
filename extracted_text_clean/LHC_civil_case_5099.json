@@ -9,9 +9,21 @@
   "case_number": "Civil Transfer Application No.14 of 2019",
   "date_of_order": "15.03.2019",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 6 Rule 17 CPC",
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hameedullah Dahri",
+    "the applicants",
+    "the applicants",
+    "the applicants",
+    "the trial court",
+    "the learned trial court",
+    "the counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

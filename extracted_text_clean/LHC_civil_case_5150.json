@@ -6,8 +6,8 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Bail Application No.S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "28-08-2023",
   "judge": "Ahmad",
   "sections_cited": [
     "Section 497 Cr.P.C"
@@ -21,7 +21,11 @@
     "2021 SCMR 5",
     "2014 MLD 1220"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Mustafa Jakhar, Advocate",
+    "Mr. Allah Warrayo Soomro, Advocate",
+    "Mr. Shafi Muhammad Mahar, Deputy P.G for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

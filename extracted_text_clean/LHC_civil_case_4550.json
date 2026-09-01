@@ -9,7 +9,10 @@
   "case_number": "Constitutional Jurisdiction cannot",
   "date_of_order": "15.5.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 1756",
     "2016 SCMR 1602",
@@ -23,7 +26,12 @@
     "2022 SCMR 566",
     "2022 SCMR 472"
   ],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Jinnah Sindh Medical University (JSMU)",
+    "Petitioners",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

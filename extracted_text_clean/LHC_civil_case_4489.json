@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "20.02.2024",
   "judge": "JUDGE Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rasheed Kalwar",
+    "Mr. Daim Hussain Bhanbhro",
+    "Mr. Mukesh Kumar G. Karara",
+    "Mr. Ahmed Ali Shahani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

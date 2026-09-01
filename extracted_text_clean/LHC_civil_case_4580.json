@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "20.12.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 397 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Yousuf",
+    "Owais",
+    "The State",
+    "Mr. Shoaib Safdar",
+    "APG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "09.05.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ziaul Haque Kamboh",
+    "Mr. Ali Raza Baloch",
+    "Town Committee Padidan",
+    "Town Officer Aftab Jani Mallah",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

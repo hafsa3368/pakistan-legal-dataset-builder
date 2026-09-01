@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Const. Petition No.D-",
+  "case_number": "",
   "date_of_order": "26.06.2022",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ameenuddin Khaskheli",
+    "Mr. Zeeshan Haider Qureshi",
+    "Mr. Ishfaque Hussain Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
