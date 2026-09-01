@@ -7,13 +7,17 @@
   "used_ocr": true,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "15.03.2018",
+  "judge": "Mmamad Iabal",
   "sections_cited": [
     "section 342"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State through Prosecutor General Sindh",
+    "respondent accused",
+    "complainant SIP Bashir Ahmed of PS City Jacobabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

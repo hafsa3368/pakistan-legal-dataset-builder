@@ -9,9 +9,17 @@
   "case_number": "Criminal Bail Application No.S-624 of 2022",
   "date_of_order": "05.09.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aleem Arain",
+    "Mr. Shawak Rathore",
+    "the applicant",
+    "the complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc.A. No.S-",
+  "case_number": "",
   "date_of_order": "23.06.2014",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,12 @@
     "Section 164 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Katcha Peshi",
+    "Mr. A.R. Kolachi APG a/w ASI Bashir Ahmed",
+    "Mr. Qurban Ali Kalwar Adv.",
+    "her husband"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

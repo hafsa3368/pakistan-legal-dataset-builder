@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "23.02.2017",
+  "judge": "(Retd.) Shibli Ramzan Sharif",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "Section 125 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Waqas Ali vs. Farhana",
+    "Waqas Ali",
+    "Farhana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

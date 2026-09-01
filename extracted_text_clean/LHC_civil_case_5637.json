@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Civil Family Transfer Application No.18 of 2022",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "21.11.2022",
+  "judge": "Abdullah Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khalid Mustafa Shoro",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Sajid Ali Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

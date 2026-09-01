@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constt. Petition No. D-",
+  "case_number": "",
   "date_of_order": "26.02.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "T.R. Sbr ov",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Katcha Peshi. Nir. I labibullal-r Ghouri",
+    "Mr. Munawar Ali Abbasi, Asstt. A.G",
+    "Inspector Muhammatl Ibrahim Soornro",
+    "ASI Nek Muhammad",
+    "Lcarnccl Asstt. A.G.",
+    "respondents No.1 and 2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,19 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No.D-161 of 2019",
   "date_of_order": "21.12.2021",
-  "judge": "JUDGE Irfan Ali",
+  "judge": "Irfan Ali",
   "sections_cited": [
     "Sections 302, 114, 34 PPC",
     "Section 345 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rasheed",
+    "Muhammad Siddique",
+    "Ishaque",
+    "Ghulam Qadir",
+    "Saifullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

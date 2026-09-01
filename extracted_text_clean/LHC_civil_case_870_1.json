@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 8,
-  "case_number": "CrL.J 825 V5 the Slala Und anolher",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "23.11.2017",
+  "judge": "Juntico Zafar Ahmod Rajput",
   "sections_cited": [
     "Section 9C",
     "section 29",
@@ -23,7 +23,19 @@
     "PLD 1994 SC 856",
     "PLD 2010 SC 1052"
   ],
-  "parties": [],
+  "parties": [
+    "Mr, Juntico Zafar Ahmod Rajput",
+    "Mr, JuBillco Muhammad Saleem Jossar",
+    "Appellanl Zatmad Khan Pathian",
+    "Ilrough ML Saldar Ali Ghourl",
+    "advocats",
+    "Ilu Slilu",
+    "Mr, Khadim Hussain Khonaro",
+    "Respondent",
+    "Mr, Juntico Zafar Ahmod Rajput",
+    "Appellanl Zatmad Khan Pathian",
+    "Ilrough ML Saldar Ali Ghourl"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

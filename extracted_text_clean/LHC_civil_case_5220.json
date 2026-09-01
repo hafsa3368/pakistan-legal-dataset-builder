@@ -8,10 +8,20 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "11.04.2023",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ismail Bhutto",
+    "Muhammad Yaqoob Buriro",
+    "Syed Saeed Ahmed Shah",
+    "Shahid Usman Malik",
+    "Ghulam Mustafa Lakho",
+    "Abdul Walid",
+    "Ghulam Shaber Farash",
+    "Inspector Javed Akhtar",
+    "DIGP Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

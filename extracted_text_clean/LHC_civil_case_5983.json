@@ -8,10 +8,12 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "03.09.2019",
-  "judge": "JUDGE Tufail/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Shafique Ahmed Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

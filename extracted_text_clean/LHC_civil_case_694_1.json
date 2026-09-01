@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Crl. Misc. Application No.S-31 of 2023",
-  "date_of_order": "",
+  "date_of_order": "16-01-2023",
   "judge": "Ahmed",
   "sections_cited": [
     "section 561-A",
@@ -22,7 +22,12 @@
   "citations": [
     "PLD 1967 SC 425"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ilyas",
+    "Muhammad Siddiq",
+    "Kamran",
+    "Mr. Muhammad Nasir Malik, Advocate for Applicants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

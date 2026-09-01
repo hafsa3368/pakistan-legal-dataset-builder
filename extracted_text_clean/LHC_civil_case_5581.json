@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. PetitionNo.S-137 of 2023",
-  "date_of_order": "",
+  "date_of_order": "04.12.2023",
   "judge": "Ahmad",
   "sections_cited": [
     "section 22-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulfiqar Ali Naich",
+    "Assistant A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

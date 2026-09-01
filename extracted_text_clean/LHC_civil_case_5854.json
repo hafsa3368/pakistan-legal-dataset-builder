@@ -8,10 +8,19 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "29.01.2019",
-  "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "judge": "Irfan Ali",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Altaf Ahmed Shahid Abro",
+    "Mr. Ishrat Ali Lohar",
+    "Mr. Allach Bachayo Soomro",
+    "Abdul Wajid Ansari",
+    "Shafi Muhammad Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

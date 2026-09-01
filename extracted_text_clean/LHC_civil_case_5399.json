@@ -8,10 +8,17 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "08.09.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Faisal",
+    "Mst. Meh Jabeen",
+    "other respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

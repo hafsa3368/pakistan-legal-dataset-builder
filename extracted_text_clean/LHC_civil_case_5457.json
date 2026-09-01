@@ -8,13 +8,21 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "30.01.2026",
-  "judge": "JUDGE Rafiq/PA",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 6/9"
+  ],
   "citations": [
     "2024 SCMR 934",
     "2025 SCMR 721"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Sajeem Khan",
+    "Muhammad Iqbal Kalhoro",
+    "Muhammad Hanif Sama",
+    "Mushraf Azhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

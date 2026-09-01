@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "25.02.2023",
+  "judge": "Sardar Raza Khan",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rashid Khan",
+    "Safia"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

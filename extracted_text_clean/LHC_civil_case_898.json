@@ -8,13 +8,20 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition No.D-3844 of 2020",
   "date_of_order": "28.02.2023",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 456",
     "2013 SCMR 1752"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Akbar",
+    "Province of Sindh",
+    "Chief Secretary, Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

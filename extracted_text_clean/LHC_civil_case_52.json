@@ -8,10 +8,35 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "07.3.2019",
-  "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Panjoo Mal & others",
+    "Province of Sindh & others",
+    "Ali Gohar Shah",
+    "Province of Sindh & others",
+    "Shabbir Ahmed Shaikh",
+    "Province of Sindh & others",
+    "Jahangir Bhatti",
+    "Province of Sindh & others",
+    "Riaz Ahmed Arain",
+    "Province of Sindh & others",
+    "Muhammad Bux Nohri",
+    "Province of Sindh & others",
+    "Asadullah Shaikh",
+    "Province of Sindh & others",
+    "Ghulam Murtaza Kalhoro",
+    "Province of Sindh & others",
+    "Mr. Ishrat Ali Lohar",
+    "Mr. Allah Bachayo Soomro",
+    "Mr. Muhammad Yousif Alvi",
+    "Mr. Nizam-ud-Din Shaikh",
+    "Mr. Mashooque Ali Gopang"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

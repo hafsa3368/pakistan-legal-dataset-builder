@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-448 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Sulemen Khan/PA",
+  "date_of_order": "13.09.2023",
+  "judge": "Sulemen Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Israr Ahmed Shah",
+    "Mr. Farhan Ali Shaikh",
+    "Mr. Mehboob Ali Wassan",
+    "Assistance General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

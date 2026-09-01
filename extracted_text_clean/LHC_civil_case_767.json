@@ -7,11 +7,16 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "04.09.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dile vs Sal Den",
+    "Pndina han m8i"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

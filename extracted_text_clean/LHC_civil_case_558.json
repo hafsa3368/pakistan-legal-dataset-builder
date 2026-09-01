@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Revision Application No.S-70 of 2022",
-  "date_of_order": "",
+  "date_of_order": "07.05.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Prem Kumar @ Parmanand, Advocate",
+    "Syed Sardar Ali Shah, Additional P.G for the State",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

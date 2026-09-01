@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "30.10.2019",
+  "judge": "Sh. Muhammad Latif,",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pakistan Television Network Limited vs. Hamid Mir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

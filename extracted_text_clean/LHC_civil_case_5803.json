@@ -7,11 +7,22 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "22.08.2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 144 CrPC",
+    "Section 5 IPC",
+    "Section 120 IPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aboul Rehman Bhulio",
+    "Mr. Khocim Hussain Khoonhirci",
+    "The State of Sindh",
+    "P"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

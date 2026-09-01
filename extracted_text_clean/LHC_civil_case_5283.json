@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Jail Appeal No.S-",
+  "case_number": "",
   "date_of_order": "18-10-2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 340 Cr.P.C",
     "section 353 Cr.P.C",
@@ -18,7 +18,10 @@
     "2019 MLD 1713",
     "PLD 2006 Kar 377"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

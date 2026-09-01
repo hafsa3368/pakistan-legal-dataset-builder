@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1029 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "21.03.2024",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rakesh Kumar Dhalore",
+    "Mr. Rahmat Ali Shaikh",
+    "DSP Muhammad Imran",
+    "SI Sarfraz Khan",
+    "National Highway & Motorway Police, Sukkur",
+    "Mr. Ishfaque Ahmed Abro",
+    "The Government of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

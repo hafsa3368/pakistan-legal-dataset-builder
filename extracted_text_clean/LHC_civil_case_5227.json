@@ -7,11 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-467 of 2021",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "28.11.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada",
+    "Mr. Zia-ul-Haq Kamboh",
+    "Mr. Ali Raza Baloch",
+    "Town Committee, Mehrabpur",
+    "Chairman, Town Committee, Mehrabpur",
+    "Town Officer, Town Committee, Mehrabpur",
+    "District Accounts Officer, Naushahro Feroze",
+    "Anti-Corruption"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

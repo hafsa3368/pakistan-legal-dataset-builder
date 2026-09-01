@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.D-32 of 2023",
   "date_of_order": "20.04.2023",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Irfan Ali Khaskheli",
+    "Mr. Shahzado Saleem Nahiyoon",
+    "MUHAMMAD IQBAL KALHORO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

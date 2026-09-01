@@ -8,14 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No.D-45 of 2019",
   "date_of_order": "04.09.2019",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 382"
   ],
   "citations": [
     "PLD 2009 Lahore 362"
   ],
-  "parties": [],
+  "parties": [
+    "Haji Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

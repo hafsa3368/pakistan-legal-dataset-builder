@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Civil Suit No. 53/2018",
   "date_of_order": "25.04.2019",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Shafique Ahmed Shah",
+    "private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

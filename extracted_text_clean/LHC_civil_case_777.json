@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "19.04.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada",
+    "SMC",
+    "Mr. Khuda Bux Chohan",
+    "Mr. Mehboob Ali Wassan",
+    "Assistant A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

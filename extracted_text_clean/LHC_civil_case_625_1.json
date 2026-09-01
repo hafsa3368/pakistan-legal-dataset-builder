@@ -9,9 +9,16 @@
   "case_number": "",
   "date_of_order": "",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    ""
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Abdul Hamid Bhurgri",
+    "ASI Manzoor Ahmed Domki",
+    "Mr. Nisar Ahmed G Abro",
+    "Fur Katcha Peshi Mohammad Afzal Jagirani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

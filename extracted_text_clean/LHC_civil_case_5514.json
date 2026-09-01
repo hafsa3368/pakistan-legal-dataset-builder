@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "31.01.2012",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdullah Channa",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Irfan Ali Qureshi",
+    "petitioners/defendants having lost T.C. Suit No.12/2007",
+    "T.C. Suit No.12/2007",
+    "Executing Court",
+    "Deputy Commissioner, Umerkot"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

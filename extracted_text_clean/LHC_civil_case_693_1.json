@@ -8,14 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Applicatiun No. S-7U9",
   "date_of_order": "13.01.2020",
-  "judge": "",
+  "judge": "Zafar Ahmed Kaipul",
   "sections_cited": [
     "Section 365-B, 452",
     "section 161",
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Waheed s/o Abdul Nabi Mastoi",
+    "The State",
+    "Ali Murad s/o Mumtaz Ali Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

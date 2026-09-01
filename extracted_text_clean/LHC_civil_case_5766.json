@@ -9,9 +9,22 @@
   "case_number": "Criminal Bail Application No.S-750 of 2022",
   "date_of_order": "12.09.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Agha Iftikhar Ahmed",
+    "Mr. Imran Ali Abbasi",
+    "Mr. Qurban Ali Bhutto",
+    "Akhtiar Ali",
+    "Ghulam Mustafa",
+    "Asif Ali",
+    "Ghulam Shabir",
+    "Complainant",
+    "Applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

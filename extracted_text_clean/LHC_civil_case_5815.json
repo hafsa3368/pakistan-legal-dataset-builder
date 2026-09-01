@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Appeal No.S-",
+  "case_number": "",
   "date_of_order": "03.05.2017",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "Section 345",
     "Section 345 CrPC",
@@ -18,7 +18,15 @@
   "citations": [
     "2020 PCrLJ Note 20"
   ],
-  "parties": [],
+  "parties": [
+    "Meenhon",
+    "The State",
+    "Mr. Asadullah Arbani",
+    "Mr. Qurban Ali Malano",
+    "Syed Naimat Ali Shah",
+    "Syed Sardar Ali Shah Rizvi",
+    "Rafique Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

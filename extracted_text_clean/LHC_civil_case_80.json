@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "constitutional jurisdiction. No law",
+  "case_number": "",
   "date_of_order": "13.04.2021",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 1325",
     "2013 YLR 325",
@@ -27,7 +30,23 @@
     "PLD 2003 SC 891",
     "PLD 2002 SC 572"
   ],
-  "parties": [],
+  "parties": [
+    "Shoukat Hussain",
+    "Chairman, NAB",
+    "Haji Wali Muhammad",
+    "The State through the Chairman, NAB",
+    "Sultan Qamar Siddiqui",
+    "The State through the Chairman, NAB",
+    "Nisar Ahmed Morai",
+    "The State through the Chairman, NAB",
+    "Mr. Khawaja Shamsul Islam",
+    "Mr. Muhammad Jamil",
+    "Mr. Obaid ur Rehman",
+    "Mr. Muhammad Rehman Ghous",
+    "M/s. Riaz Alam and R.D. Kalhoro",
+    "Chairman, NAB",
+    "The State through the Chairman, NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

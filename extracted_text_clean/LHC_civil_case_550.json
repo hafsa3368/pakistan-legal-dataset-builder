@@ -8,12 +8,27 @@
   "num_chunks": 2,
   "case_number": "Criminal Miscellaneous Application No.29 of 2024",
   "date_of_order": "21.02.2025",
-  "judge": "JUDGE Tahseen/PA",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Control of Narcotic Substances (Amendment) Act, 2022",
+    "Export Policy, Imports and Exports Control Act, 1950",
+    "Customs Act, 1969"
+  ],
   "citations": [
     "2023 P.Cr.L.J. 282"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mohsin Ali Khan",
+    "Mr. Umer Farooq",
+    "the Respondents",
+    "the State/ANF",
+    "M/s. HNH (Thailand) Co. Ltd.",
+    "Thailand",
+    "Ishaq",
+    "the complainant Inspector Shafique Ahmad Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

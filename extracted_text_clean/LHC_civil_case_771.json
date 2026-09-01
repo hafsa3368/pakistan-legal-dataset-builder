@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "26.03.2019",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Shafiq Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

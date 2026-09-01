@@ -8,10 +8,18 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No. S-264 of 2023",
   "date_of_order": "11.01.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Rukhsar Ahmed M. Junejo and Saifuddin Laghari",
+    "M/s Irshad Hussain Dharejo and Shabbir Ali Bozdar",
+    "Mr. Aftab Ahmed Shar",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,13 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "Suleman Khan/PA",
+  "date_of_order": "29.05.2019",
+  "judge": "Suleman Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Basit Shaikh, Advocate for the appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

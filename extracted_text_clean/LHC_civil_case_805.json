@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "W.P. No. 4166 of 2019",
   "date_of_order": "15.04.2020",
-  "judge": "JUDGE Shahid",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 10 of the National Accountability Ordinance",
     "Section 382-B Cr.P.C",
@@ -38,7 +38,12 @@
     "PLD 2008 SC 166",
     "PLD 2016 Lahore 667"
   ],
-  "parties": [],
+  "parties": [
+    "Mehboob Ali Zardari",
+    "Fayyaz Hussain Channa",
+    "Imtiaz Ali",
+    "N.A.B"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

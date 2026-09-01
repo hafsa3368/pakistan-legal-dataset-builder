@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Revision Application No.35 of 2022",
   "date_of_order": "18.12.2025",
-  "judge": "JUDGE Asif",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Sections 3 and 4",
     "Section 3",
@@ -36,7 +36,13 @@
     "PLD 2010 Lahore 498",
     "PLD 1966 SC 70"
   ],
-  "parties": [],
+  "parties": [
+    "State through DAG / AAG Karachi",
+    "The Learned Special Court (Offences in Banks) at Karachi",
+    "Habib Bank Limited",
+    "Habib Bank Limited",
+    "Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

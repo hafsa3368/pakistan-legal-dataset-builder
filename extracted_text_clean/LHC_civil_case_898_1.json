@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Crl. Joil Appeol No. D-",
+  "case_number": "",
   "date_of_order": "20.12.2016",
-  "judge": "",
+  "judge": "Zoffor Ahmed Roipul",
   "sections_cited": [
     "Section 532"
   ],
@@ -17,7 +17,15 @@
     "2015 SCMR 1002",
     "2007 SCMR 1437"
   ],
-  "parties": [],
+  "parties": [
+    "Aolom Gul Pothon- Versus",
+    "Appellont",
+    "Respondent",
+    "Mr. Shohzod Asghor Khon Rind",
+    "Mr. Khodlm Hussoin Khoohoro",
+    "D.p.G.",
+    "Excise p.S Jocobobod"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

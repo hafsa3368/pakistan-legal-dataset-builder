@@ -8,10 +8,23 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "22.11.2022",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Jahanzeb Laghari",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Shakeel Qureshi",
+    "Mitho Oad",
+    "Director School Education Hyderabad Region",
+    "Abdul Hakeem",
+    "Muhammad Sharif",
+    "JUDGE Ali Haider",
+    "JUDGE"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

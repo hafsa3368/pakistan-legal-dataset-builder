@@ -7,14 +7,23 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-216 of 2015",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "11-05-2015",
+  "judge": "(Late) Sardar Muhammad Akram Khan Khan Khaimo Khan",
   "sections_cited": [
     "section 23",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Roshan Ali Shah Bukhari",
+    "Mr. Shahid Ahmed Shaikh",
+    "Mr. Shahid Ahmed Shaikh, A.P.G. Sindh",
+    "Complainant",
+    "Subordinate Staff",
+    "Police Party",
+    "Accused",
+    "Muhammad Asif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

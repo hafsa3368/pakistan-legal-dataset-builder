@@ -9,12 +9,23 @@
   "case_number": "Criminal Bail Application No.S-57 of 2023",
   "date_of_order": "28.04.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [
     "2022 SCMR 663",
     "2021 SCMR 1295"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Tariq Ahmed Shah",
+    "Ms. Sana Memon",
+    "Mr. Inam Ali Malik",
+    "Ashraf Joyo",
+    "Ali Ghulam Joyo",
+    "Nanji Kolhi",
+    "Ghulam Qadir",
+    "Ali Hyder Joyo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

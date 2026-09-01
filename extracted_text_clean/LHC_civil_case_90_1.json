@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Acquittal Appeal No. 7 of 2019",
   "date_of_order": "21.05.2025",
-  "judge": "JUDGE Abrar",
+  "judge": "Zafar Ahmed Rajput Justice Tasneem",
   "sections_cited": [
     "section 417",
     "sections 320/203/34",
@@ -19,7 +19,10 @@
   "citations": [
     "2008 SCMR 329"
   ],
-  "parties": [],
+  "parties": [
+    "Mirza Saqib Pasha",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

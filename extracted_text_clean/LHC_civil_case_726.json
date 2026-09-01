@@ -9,9 +9,14 @@
   "case_number": "",
   "date_of_order": "13.04.2026",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 6/9"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Najeebullah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

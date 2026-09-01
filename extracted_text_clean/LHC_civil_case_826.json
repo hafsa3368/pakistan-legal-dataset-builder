@@ -9,14 +9,30 @@
   "case_number": "",
   "date_of_order": "12.04.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 12(9) of the Stamp Act, 1899 (XIX of 1899) (u/s 12(9) of the Stamp Act, 1899)"
+  ],
   "citations": [
     "2022 SCMR 448",
     "2021 SCMR 624",
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Bashir Ahmed Badini & Others",
+    "Chairman and Member Administrative Committee High Court Balochistan",
+    "Punjab",
+    "Yasir Majeed Shaikh",
+    "Muhammad Aslam",
+    "Pakistan",
+    "Mari Petroleum Company Limited",
+    "Syed Iqbal Hussain Shah Gillani",
+    "PBC & Others",
+    "Muhammad Fiaz Khan",
+    "Ajmer Khan & Another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

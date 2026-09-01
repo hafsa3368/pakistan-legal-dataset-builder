@@ -7,11 +7,22 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "27.10.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hamayoon alias Soorat Ali Khan",
+    "Altaf Shah",
+    "University",
+    "Mr. Niaz Hussain Maitlo",
+    "Mr. Noor Hassan Malik",
+    "Shah Abdul Latif University",
+    "Assistant A.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

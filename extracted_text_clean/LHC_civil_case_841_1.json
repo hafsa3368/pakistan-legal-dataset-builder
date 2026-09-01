@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "24.11.2022",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Waqar Ali Phulpoto",
+    "University",
+    "Mr. Ali Raza Baloch",
+    "Mr. Niaz Hussain Maitlo",
+    "University",
+    "University",
+    "University"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

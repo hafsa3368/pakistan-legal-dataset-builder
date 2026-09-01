@@ -9,9 +9,15 @@
   "case_number": "Criminal Bail Application No.S-1171 of 2022",
   "date_of_order": "21.11.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 395 PPC",
+    "u/s 324, 353, 399, 402 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mir Sajid Ali Mari",
+    "Mr. Abdul Waheed Bijarani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

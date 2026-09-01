@@ -9,9 +9,19 @@
   "case_number": "Criminal Bail Application No.S-1225 of 2024",
   "date_of_order": "03.01.2025",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Jahanzaib @ Jansher Memon",
+    "Mr. Ghuluam Farooque Abbasi",
+    "Ms. Fareeda Naz",
+    "Mr. Irfan Ali Talpur",
+    "ASI Ghulam Abbas Laghari",
+    "ASI Ghulam Shabbir Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

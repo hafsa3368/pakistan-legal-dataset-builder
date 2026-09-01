@@ -9,9 +9,19 @@
   "case_number": "",
   "date_of_order": "01.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Hadi & another",
+    "Province of Sindh & others",
+    "Mr. Ahmed Ali Hussain",
+    "Mr. Kafeel Ahmed Abbasi",
+    "Mr. Shajee Siddiqui",
+    "Mr. Talha Javed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

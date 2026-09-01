@@ -8,10 +8,17 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "23.02.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Rana Khan",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S Zain Mustafa Soomro",
+    "Iftikhar Ahmed Bhutto",
+    "the respondent Bank"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

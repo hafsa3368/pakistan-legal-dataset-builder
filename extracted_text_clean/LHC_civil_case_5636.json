@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "24.03.2011",
+  "judge": "(Retd) Shahid Karim Khan Khwaja",
+  "sections_cited": [
+    "u/s 498 CrPC",
+    "Section 10(8) of the Protection of Women from Domestic Violence Act, 2005"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State of Punjab",
+    "Rizwan",
+    "Saima",
+    "Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

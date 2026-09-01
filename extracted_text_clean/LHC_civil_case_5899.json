@@ -7,13 +7,18 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "12.01.208",
   "judge": "",
   "sections_cited": [
     "section 337 Alil PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mazher Ali Mangan",
+    "Sabir Ali Shaikh",
+    "Ali Jan Nuhid Bux",
+    "Nisar Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

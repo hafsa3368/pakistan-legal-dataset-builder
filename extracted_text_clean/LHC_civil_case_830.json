@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1068 of 2022",
   "date_of_order": "21.10.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 324 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD IQBAL KALHORO",
+    "ABDUL REHMAN DAHRi",
+    "GUL MUHAMMAD",
+    "AHSAAN DAHRi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

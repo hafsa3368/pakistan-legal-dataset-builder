@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "Misc. No.22713/25",
   "date_of_order": "07.11.2025",
-  "judge": "JUDGE HANIF",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Navin S. Merchant",
+    "Dr. Shahab Imam",
+    "Medical universities or colleges",
+    "PM&DC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

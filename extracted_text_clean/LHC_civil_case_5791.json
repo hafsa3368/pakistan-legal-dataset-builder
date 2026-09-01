@@ -8,10 +8,16 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "19.04.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Farooque Shaikh",
+    "Inspector Aslam Shaikh & others",
+    "Inspector Jinsar Soomro & others",
+    "Inspector Muhammad Sadiq Lund & others",
+    "Inspector Muhammad Sanwal Ghoto & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

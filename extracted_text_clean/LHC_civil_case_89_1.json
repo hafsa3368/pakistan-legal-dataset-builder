@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Bail Applications No.465",
   "date_of_order": "30.04.2025",
-  "judge": "JUDGE Tahseen /PA",
+  "judge": "Zafar Ahmed Rajput Justice Ms",
   "sections_cited": [
     "sections 11H, 11I, 11J, 11K, 11N, 21C and 21I",
     "section 11N of the Act",
@@ -16,7 +16,14 @@
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Adil Ansari @ Majid / Jimmy s/o Anwar",
+    "Abdul Jabbar s/o Abdul Sattar",
+    "The State through Mr. Khaleeq Ahmed, Deputy Attorney General for Pakistan (DAG)",
+    "Bharat Kumar, Assistant Director, FIA",
+    "Shabbir Ahmed Chandio, Inspector, FIA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

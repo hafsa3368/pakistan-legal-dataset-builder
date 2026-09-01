@@ -8,10 +8,19 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.306 of 2024",
   "date_of_order": "15.11.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 173 CrPC",
+    "u/s 342 CrPC",
+    "u/s 397 PPC",
+    "u/s 161 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ubaidullah vs. The State",
+    "Irshad Khan",
+    "Seema Zaidi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

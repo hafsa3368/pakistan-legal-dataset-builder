@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No. S-",
+  "case_number": "",
   "date_of_order": "4th September, 2023",
   "judge": "Ahmad",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "section 311 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Ubedullah Ghoto and Maeemuddin Chachar, Advocates for the appellants",
+    "Mr. Shafi Muhammad Mahar, Deputy P.G for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

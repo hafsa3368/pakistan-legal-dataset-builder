@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "01.09.2022",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Safdar Ali Laghari",
+    "Mr. Muhammad Arshad S. Pathan",
+    "Mr. Zaheeruddin Sahito",
+    "Mr. Allah Bachayo Soomro",
+    "Mr. Zaheeruddin Sahito",
+    "Sindh Building Control Authority",
+    "Sindh Building Control Authority",
+    "Regional Director, Sindh Building Control Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

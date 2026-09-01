@@ -8,10 +8,26 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1074 of 2022",
   "date_of_order": "31.10.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "337-A(i) PPC",
+    "337-L(ii) PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Shafique Ahmed Shah",
+    "Complainant",
+    "Ali Gul",
+    "Khadim Hussain",
+    "Raheem Bux",
+    "Muhammad Ameen",
+    "Kareem Bux",
+    "Dhani Bux",
+    "Ameer Gul",
+    "Ali Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

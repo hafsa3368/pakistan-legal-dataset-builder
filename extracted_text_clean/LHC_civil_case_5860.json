@@ -8,12 +8,20 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "23.04.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Raheem Ansari",
+    "Mr. Alam Sher Bozdar",
+    "Mr. Shafi Muhammad Mahar",
+    "Mr. Shahbaz Hafeez Shahani",
+    "Mr. Abdul Raheem Ansari",
+    "Mr. Alam Sher Bozdar",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

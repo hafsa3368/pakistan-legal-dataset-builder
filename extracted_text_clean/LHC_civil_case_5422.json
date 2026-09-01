@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "10.12.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 510",
     "section 94",
@@ -28,7 +28,10 @@
     "PLD 2019 SC 669",
     "PLD 2013 SC 160"
   ],
-  "parties": [],
+  "parties": [
+    "Naimatullah Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

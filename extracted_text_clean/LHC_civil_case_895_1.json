@@ -7,11 +7,20 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "16.04.2019",
+  "judge": "(Retd) Ijazat Husain Raza",
+  "sections_cited": [
+    "Section 494 IPC",
+    "Section 5(1) DPP",
+    "Section 12(1) DPP"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State of Punjab",
+    "Shahid Mehmood",
+    "Shahida Bibi",
+    "Anam Malick"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

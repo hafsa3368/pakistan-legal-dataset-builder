@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "18.01.2018",
+  "judge": "(Retd.) Jawahar Lal Khan Khawaja",
+  "sections_cited": [
+    "Section 498A IPC",
+    "Section 377 IPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Meenakshi",
+    "Siddharth",
+    "Dr. Sanjay Bhandari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

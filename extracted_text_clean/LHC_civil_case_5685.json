@@ -20,7 +20,31 @@
     "Section 364 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    {
+      "petitioner": "Shahid Ali Memon",
+      "appellant": "Shahid Ali Memon"
+    },
+    {
+      "complainant": "The State",
+      "appellant": "Ghulam Murtaza alias Nadeem Memon"
+    },
+    {
+      "petitioner": "Ghulam Murtaza alias Nadeem Memon",
+      "appellant": "Ghulam Murtaza alias Nadeem Memon"
+    },
+    {
+      "appellant": "Ghulam Murtaza alias Nadeem Memon"
+    },
+    {
+      "petitioner": "The State",
+      "complainant": "The State"
+    },
+    {
+      "petitioner": "Ghulam Murtaza alias Nadeem Memon",
+      "appellant": "Ghulam Murtaza alias Nadeem Memon"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,33 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "construction of his mandible C.P.No.D-",
+  "case_number": "",
   "date_of_order": "24.03.2020",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Khadim Hussain Tunio",
+    "Mr. Umair Bachani",
+    "Mr. Jangu Khan",
+    "Habib Ahmed vs. State & others",
+    "Habib Ahmed",
+    "The State",
+    "Nazeer Ahmed",
+    "Mian Bux",
+    "Imam Bux",
+    "Javeed Hussain",
+    "Ghulam Dastagir",
+    "Muhammad Iqbal",
+    "Mian Khan Palari",
+    "DHA",
+    "Agha Khan Hospital",
+    "Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

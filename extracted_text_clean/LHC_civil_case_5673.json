@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "17.08.2021",
+  "judge": "Ijaz Ahmed Khan",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "Section 125 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zubair Ahmed",
+    "State of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

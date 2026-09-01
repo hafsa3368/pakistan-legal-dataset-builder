@@ -9,9 +9,17 @@
   "case_number": "civil appcal bearing No T7",
   "date_of_order": "05.12.2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Ghulani Dastagir Shahani",
+    "Mr Abdul Hamged Khan",
+    "Mr Ameer Ahmed Narejo",
+    "State counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

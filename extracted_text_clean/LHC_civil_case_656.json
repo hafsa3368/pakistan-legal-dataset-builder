@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Case No.164 of 2003",
   "date_of_order": "11.02.2025",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 2",
     "Section 2",
@@ -27,7 +27,12 @@
     "2004 SCMR 108",
     "2022 SCMR 870"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Anis",
+    "M/s. Pak Gulf Leasing Company Limited & others",
+    "M/s Abdul Shakoor and Fahad Ali",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

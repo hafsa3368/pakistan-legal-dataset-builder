@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "26th April, 2022",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imdad Ali Malik",
+    "Mr. Abdul Mujeeb Shaikh",
+    "Mr. Karim Bux Janveri",
+    "Electric Inspector, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

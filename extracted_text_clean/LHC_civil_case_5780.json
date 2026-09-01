@@ -9,9 +9,21 @@
   "case_number": "Civil Petition No. 594-K",
   "date_of_order": "06.03.2019",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Ashfaque Ahmed Rajpar",
+    "Province of Sindh",
+    "others",
+    "Mr. Mushtaq Ahmed Tagar",
+    "Mr. Allah Bachayo Soomro",
+    "Addl. A.G. Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitution cannot",
+  "case_number": "",
   "date_of_order": "12.01.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -14,7 +14,12 @@
     "Section 3 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hussain Bux Ujjan",
+    "02 others",
+    "Mr. Abdul Jalil Zubedi",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

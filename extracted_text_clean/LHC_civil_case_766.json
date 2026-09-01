@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "13.01.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 147, 148, 149, 114, 504, 506/2, 395, 337-F",
     "Section 193"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shafique Ahmed Laghari",
+    "Mr. Khalil Ahmed Maitlo",
+    "The State v. Hamid Ali Shah & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

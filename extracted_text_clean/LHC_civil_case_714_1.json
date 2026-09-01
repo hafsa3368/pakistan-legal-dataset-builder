@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "[empty string]",
+  "sections_cited": [
+    "empty string"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "empty string"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

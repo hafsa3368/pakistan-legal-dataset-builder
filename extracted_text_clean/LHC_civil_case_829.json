@@ -8,14 +8,20 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.S-213 of 2016",
   "date_of_order": "15.02.2019",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 376",
     "section 34 PPC",
     "section 342 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Ahmed",
+    "Mashooque Ali",
+    "The State",
+    "M/s Syed Meeral Shah",
+    "Addl.P.G. and Shewak Rathore, D.P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

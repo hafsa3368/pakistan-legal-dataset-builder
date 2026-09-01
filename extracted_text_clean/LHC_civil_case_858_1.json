@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Bail Application No.S-",
+  "case_number": "",
   "date_of_order": "07.06.2024",
   "judge": "Tufail",
   "sections_cited": [
@@ -15,7 +15,14 @@
     "Section 489-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shabir Ahmed",
+    "Sher Ahmed",
+    "State",
+    "Complainant",
+    "Police Station Hussainabad",
+    "Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

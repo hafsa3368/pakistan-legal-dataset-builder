@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "Criminal Transfer Application No.84 of 2025",
   "date_of_order": "25.08.2025",
-  "judge": "Rafiq/PA",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Nazeer",
+    "The learned Trial Court ATC No.VI & another",
+    "The State vs. Amanullah @ Maani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "25.05.2021",
+  "judge": "Iftikhar Muhammad Kaki",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 25-1 of Protection of Women from Domestic Violence Act 2005"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State of Punjab",
+    "Rashid",
+    "and",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

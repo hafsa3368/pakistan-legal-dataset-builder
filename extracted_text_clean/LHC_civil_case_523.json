@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "08.06.2023",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Kalhoro",
+    "Karim Cotton Mill",
+    "Karim Mill",
+    "Muhammad Yousuf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

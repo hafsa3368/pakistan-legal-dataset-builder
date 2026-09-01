@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1310 of 2014",
-  "date_of_order": "",
+  "date_of_order": "11-05-2015",
   "judge": "",
   "sections_cited": [
     "section 9",
@@ -15,7 +15,14 @@
     "section 9 CNS Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Miss Shazia Yaseen Khan",
+    "Mr. Shahid Ahmed Shaikh, A.P.G. Sindh",
+    "SSP Hyderabad",
+    "SIP Shafi Bangash",
+    "SIP Wazir Ali Rajar",
+    "Kamal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

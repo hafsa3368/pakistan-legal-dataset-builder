@@ -7,11 +7,19 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "02.02.2012",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mir",
+    "Syed Soddr Afi Shoh D",
+    "Ali Gopong advocole",
+    "Mir",
+    "Ihe"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Misc.No. 7763/20",
   "date_of_order": "11.03.2020",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kachi Memon Markazi Jamayat Karachi",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

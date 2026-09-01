@@ -8,12 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-968 of 2022",
   "date_of_order": "03.10.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [],
   "citations": [
     "2021 YLR 1736"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Tariq Ahmed Shah",
+    "Ms. Sana Memon",
+    "Mehboob Ali",
+    "Aijaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

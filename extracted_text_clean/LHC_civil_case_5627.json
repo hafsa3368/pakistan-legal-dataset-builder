@@ -8,12 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "21.01.2019",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [
     "Section 28"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed Durrani",
+    "Learned counsel for applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

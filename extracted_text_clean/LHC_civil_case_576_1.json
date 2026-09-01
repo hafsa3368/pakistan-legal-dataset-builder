@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. App. No. S",
+  "case_number": "",
   "date_of_order": "06.02.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 22-A & 22-B"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mansoor Hussain Maitlo",
+    "Syed Sardar Ali Shah Rizvi",
+    "respondent No.2",
+    "respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "17.03.2020",
+  "judge": "Syed Shamsul Hasan,",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 14(3) PPA, 2005"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahzad Hassan and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,16 @@
   "case_number": "",
   "date_of_order": "22.02.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mohsin Khan & others",
+    "Sindh Labour Appellate Tribunal (SLAT), Karachi",
+    "M/s. National Refinery Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

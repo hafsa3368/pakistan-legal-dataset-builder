@@ -9,9 +9,17 @@
   "case_number": "Criminal Miscellaneous Application No.S-131 of 2020",
   "date_of_order": "29.05.2020",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Kaneez Fatima",
+    "Mr. Imran Ali Nahyoon",
+    "Mr. Nazar Muhammad Memon",
+    "ASi Kashif Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Bail Application No.S-1206 of 2022",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "21.11.2022",
+  "judge": "Abdullah Channa",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Agha Abdul Nabi",
+    "Abdul Waheed Bijarani A.P.G. Sindh",
+    "Muhammad Saleem Chohan",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

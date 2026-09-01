@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "24.03.2020",
+  "judge": "Muhammad Sardar Ahmed Khan",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 498 IPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner: Muzaffar Ahmed",
+    "Appellant: The Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

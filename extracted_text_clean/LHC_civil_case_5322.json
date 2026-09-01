@@ -8,12 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "21.02.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "",
   "sections_cited": [
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ali Lakhani",
+    "Zahid Ayubi",
+    "Amir Asher Azeem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

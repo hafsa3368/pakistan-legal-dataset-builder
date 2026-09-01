@@ -9,9 +9,22 @@
   "case_number": "",
   "date_of_order": "08.04.2024",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Afzal & others",
+    "The State",
+    "Mr. Khawaja M. Azeem",
+    "Mr. Ali Haider Saleem",
+    "IO Abdul Ghaffar Lashari",
+    "Mukhtiarkar Manghopir",
+    "Aijaz Chandio",
+    "Tapedar Hussain Bux Jawar",
+    "Alam Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

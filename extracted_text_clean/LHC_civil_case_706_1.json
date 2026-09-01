@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "constructed over Plot No. V",
+  "case_number": "",
   "date_of_order": "22.04.2021",
   "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdullah Azzam Naqvi",
+    "Muhammad Saleem",
+    "Standard Chartered Bank",
+    "Mr. Rashid Hussain",
+    "Mr. Ghulam Rasool Korai",
+    "Mr. Khalid Mehmood Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

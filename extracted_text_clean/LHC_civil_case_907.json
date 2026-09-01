@@ -9,9 +9,23 @@
   "case_number": "Criminal Appeal No.D-35 of 2022",
   "date_of_order": "01.06.2023",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 342 CrPC",
+    "u/s 9",
+    "u/s 161 CrPC",
+    "u/s 164 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Khadim Hussain Soomro",
+    "Mohan Lal s/o Peeiro Mal",
+    "Nand Lal s/o Chando Mal",
+    "Waqar Ahmed",
+    "Anwar Ali of Malik Brothers Shahdadpur",
+    "Qurban"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

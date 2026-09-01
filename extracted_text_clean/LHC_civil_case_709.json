@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "09.09.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mirza Sarfaraz Ahmed",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nawabzadi Aliya Khanji",
+    "Khawaja Muhammad Nasir",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

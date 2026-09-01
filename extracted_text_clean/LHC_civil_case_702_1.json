@@ -7,11 +7,20 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "Criminal Miscellancuus Applieution No.S-34",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "23.01.2020",
+  "judge": "SIP Qamaruddin Tunio",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Wajid Ali",
+    "Mraili Ainwar Kandhro",
+    "Mir Muntaz Ali Bughio",
+    "SIP Qamaruddin Tunio",
+    "Additional Prusecuitor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,15 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "6.5.20",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "For orders on M N0.2077/2015"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

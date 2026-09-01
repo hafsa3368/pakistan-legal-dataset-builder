@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "12.05.2025",
-  "judge": "JUDGE HANIF",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ayub Mushtaq",
+    "Shakila Gazali and others",
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Muhammad Osman Ali Hadi",
+    "M/s. Abid S. Zuberi, Imran M. Mahar and Hira Ahmed",
+    "Mr. Asif Ahmed Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

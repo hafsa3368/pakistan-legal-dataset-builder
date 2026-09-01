@@ -9,9 +9,16 @@
   "case_number": "",
   "date_of_order": "17.04.2023",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Niazuddin N. Memon",
+    "Mr. Mudasir Sadar Siddiqui",
+    "Mr. Mehboob Ali Wassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

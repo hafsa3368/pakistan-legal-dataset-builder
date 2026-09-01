@@ -8,12 +8,20 @@
   "num_chunks": 3,
   "case_number": "Misc. No.6155/15",
   "date_of_order": "26.10.2015",
-  "judge": "JUDGE Gulzar/PA",
-  "sections_cited": [],
+  "judge": "Meeran Muhammad Shah, Addl. A.G.",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Dr. Akhtar Hussain Khan Vs. Federation of Pakistan (2012 SCMR 455)"
+  ],
   "citations": [
     "2012 SCMR 455"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. S.A. Khokhar, Advocate for the petitioners",
+    "Mr. Ahmed Pirzada, Advocate for Board of Revenue",
+    "Ms. Afsheen Aman, advocate for SBCA",
+    "Meeran Muhammad Shah, Addl. A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

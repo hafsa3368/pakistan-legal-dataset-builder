@@ -8,8 +8,10 @@
   "num_chunks": 3,
   "case_number": "Criminal Petition No.1116/2023",
   "date_of_order": "19.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 302, 324, 452, 147, 148, 149, 337-H PPC"
+  ],
   "citations": [
     "2017 SCMR 130",
     "2020 P Cr. L J Note 89",
@@ -18,7 +20,13 @@
     "2021 SCMR 1263",
     "2022 SCMR 198"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Ubedullah Ghoto and Naeemuddin Chachar, Advocates for applicants/accused",
+    "Mr. Aftab Ahmed Shar, Additional Prosecutor General",
+    "Complainant",
+    "Ghotki U/S 302",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

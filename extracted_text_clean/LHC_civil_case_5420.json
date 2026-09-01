@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "Misc. Application No.238 of 2025",
   "date_of_order": "23.01.2026",
-  "judge": "JUDGE HANIF",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Asghar Pathan",
+    "Mr. Ali Haider Salim",
+    "Mr. Allah Ditta",
+    "Mr. Riaz Ahmed Bhatti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

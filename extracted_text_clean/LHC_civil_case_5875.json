@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "",
   "date_of_order": "05.09.2023",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Sections 302, 324, 427, 148, 149",
     "Section 7",
@@ -23,7 +23,13 @@
     "2014 P Cr. L J 885",
     "2023 SCMR 117"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "M/s Hashmat Khalid and Asif Ali Jatoi",
+    "Mr. Muhammad Iqbal Kalhoro",
+    "Mr. Arbab Ali Hakro",
+    "M/s Khalil Ahmed Maitlo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

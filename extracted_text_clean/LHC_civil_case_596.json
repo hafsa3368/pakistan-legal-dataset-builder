@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "03.04.2019",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Al-Shifa Trust Eye Hospital Sukkur",
+    "the petitioner",
+    "the respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-825 of 2022",
   "date_of_order": "03.10.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "u/s 420 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD IQBAL KALHORO",
+    "M/s. Faisal Nadeem Abro",
+    ""
+  ],
   "chunks": [
     {
       "chunk_index": 0,

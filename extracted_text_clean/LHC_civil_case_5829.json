@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "28.02.2019",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Allah Bachayo Soomro, A.A.G.",
+    "Mr. Zaheer Uddin Nohri, Advocate",
+    "Mst. Shazia",
+    "SIP Laloo Mal, P.S City, Umerkot",
+    "SIP Qurban Rajar, P.S Islamkot",
+    "learned Additional Advocate General Sindh",
+    "learned Counsel",
+    "learned counsel for the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

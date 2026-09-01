@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "Civil Court cannot",
+  "case_number": "",
   "date_of_order": "06.02.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -33,7 +33,12 @@
     "PLD 2018 SC 40",
     "PLD 2002 SC 1111"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan State Oil Company Limited (PSO)",
+    "M/s. Gillani (Pvt. Ltd.)",
+    "M/s. Aqib Hussain",
+    "Abdur Razzak"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "12.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Pirzada",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Khuda Bux Chohan",
+    "Hussain Pathan",
+    "Naeem Agha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Criminal Misc Application No. S-",
+  "case_number": "",
   "date_of_order": "12.02.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Riaz Ali Shaikh",
+    "Mr. Shafi Muhammad Mahar",
+    "respondents",
+    "trial Court",
+    "Deputy Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

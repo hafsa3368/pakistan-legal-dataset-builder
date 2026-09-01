@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. Appln. No. S",
+  "case_number": "",
   "date_of_order": "14.05.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Ali Shah Rizvi",
+    "Mr. Muhammad Nasir Malik",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

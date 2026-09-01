@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "28.11.2020",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Ahmed Ali Shahani",
+    "petitioners",
+    "respondent No.6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

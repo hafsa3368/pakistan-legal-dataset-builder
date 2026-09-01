@@ -8,10 +8,13 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "12.11.2025",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asim Mansoor Khan",
+    "Ms. Shumaila Sagheer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

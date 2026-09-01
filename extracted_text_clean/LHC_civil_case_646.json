@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "Criminal Transfer Application No.S-28",
   "date_of_order": "22.08.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mian Taj Muhammad Keerio",
+  "sections_cited": [
+    "u/s 324, 506/2, 337-H"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mian Taj Muhammad Keerio",
+    "Zubair Hussain",
+    "The State",
+    "Ghulam Qadir",
+    "Re"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,8 +6,8 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Transfer Application No. S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "10.02.2023",
   "judge": "Ahmad",
   "sections_cited": [
     "Sections 436, 506/2, 147, 148 & 149 PPC",
@@ -15,7 +15,14 @@
     "Sections 436, 506/2,147, 148 & 149 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Umran Khan Yousufzai",
+    "Syed Sardar Ali Shah",
+    "Mst. Morzadi",
+    "The State",
+    "Piral and others",
+    "Ghulam Hassan Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

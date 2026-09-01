@@ -9,13 +9,24 @@
   "case_number": "",
   "date_of_order": "12.02.2026",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 342 Cr.P.C",
+    "u/s 340 Cr.P.C",
+    "u/s 9-C CNS Act"
+  ],
   "citations": [
     "2010 SCMR 927",
     "PLD 2020 SC 132",
     "PLD 2010 SC 1052"
   ],
-  "parties": [],
+  "parties": [
+    "Guldar Shah",
+    "The State",
+    "ANF",
+    "Megistic Logistic Company",
+    "Muhammad Umar",
+    "Custom Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

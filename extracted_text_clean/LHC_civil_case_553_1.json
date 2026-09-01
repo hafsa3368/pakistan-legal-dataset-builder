@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No. 01 of 2024",
   "date_of_order": "14.03.2025",
-  "judge": "JUDGE Tahseen/PA",
+  "judge": "Zafar Ahmed Rajput Justice Tasneem",
   "sections_cited": [
     "Section 48",
     "Section 410",
@@ -24,7 +24,14 @@
     "2008 SCMR 1616",
     "2008 SCMR 1254"
   ],
-  "parties": [],
+  "parties": [
+    "Hafizuddin s/o Sard Ali Khan",
+    "Balkay Khan s/o Azam Khan",
+    "The State",
+    "Mr. Abrar Ali Khichi",
+    "Safiullah Rind",
+    "Muhammad Aslam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Bail Application No.S-1331 of 2022",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "19.12.2022",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 506 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulamullah Chang",
+    "Mr. Imran Ali Abbasi A.P.G. Sindh",
+    "MUHAMMAD IQBAL KALHORO",
+    "complainant",
+    "applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

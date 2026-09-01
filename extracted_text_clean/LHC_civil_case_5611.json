@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Const. Petition No. D-70 of 2024",
   "date_of_order": "07.06.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 2",
     "Section 62",
@@ -20,7 +20,11 @@
   "citations": [
     "2013 SCMR 1271"
   ],
-  "parties": [],
+  "parties": [
+    "Attique Rahman Phulpoto",
+    "Federation of Pakistan",
+    "Imam Bux Phulpoto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,25 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-985 of 2013",
   "date_of_order": "29.11.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saeed Ahmed & others",
+    "P.O. Sindh & others",
+    "Nisar Ahmed Lakhair & another",
+    "P.O. Sindh & others",
+    "M/s Nisar Ahmed Bhanbhro",
+    "Sheeraz Fazal",
+    "M/s Mujeeb Rehman",
+    "Najamuddin Dharejo",
+    "NAB, Sukkur",
+    "Mr. Zulfiqar Ali Naich",
+    "Assistant A.G-Sindh",
+    "Talib Hussain Magsi",
+    "Regional Directorate of Food Department, Sukkur",
+    "The Secretary, Food Department, Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Civil Appeals Nos",
+  "case_number": "",
   "date_of_order": "19.02.2019",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1997 SCMR 855"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Nandan A. Kella",
+    "Mr. Allah Bachayo Soomro",
+    "Government of Sindh",
+    "Loung Khan Rajper",
+    "HEADMISTRESS, GOVERNMENT GIRLS SCHOOL, CHOKARA, DISTRICT KARAK"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "Crl Bail Application No S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "26.9.2014",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Khadim Hussam Khuoharo",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

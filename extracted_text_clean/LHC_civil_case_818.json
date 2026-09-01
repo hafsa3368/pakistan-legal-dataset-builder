@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 79,
-  "case_number": "Constitution and there in no illegality",
+  "case_number": "",
   "date_of_order": "07.10.2021",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 37",
     "sections 3, 4 and 38",
@@ -38,7 +38,26 @@
     "1992 SCMR 891",
     "1992 SCMR 602"
   ],
-  "parties": [],
+  "parties": [
+    "Mirpurkhas Sugar Mills & others",
+    "Pakistan Sugar Mills Association",
+    "Pakistan",
+    "Federation of Pakistan",
+    "M/s Al Abbas Sugar Mills Ltd.",
+    "M/s Pangrio Sugar Mills Ltd.",
+    "M/s Amel Khan Kasi",
+    "M/s Shahan Karimi",
+    "M/s Waqar Ahmed",
+    "M/s Abdul Sattar Pirzada",
+    "M/s Mamoon N. Chaudhry",
+    "Mr. Ali Ahmed Turabi",
+    "M/s Rashid Mahar",
+    "Mr. Munir A. Malik",
+    "Mr. Khalid Javed Khan",
+    "Attorney General for Pakistan",
+    "Kashif Sarwar Paracha",
+    "Hussain Bohra"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,21 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1018 of 2022",
   "date_of_order": "09.08.2022",
-  "judge": "",
+  "judge": "Abdullah Channa",
   "sections_cited": [
     "section 337-L"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farhad Ali Abro",
+    "Ashfaque Ahmed Lanjar",
+    "Rameshan Oad",
+    "Muhammad Iqbal Kalhoro",
+    "Ghulam Ali",
+    "Ahmed Shah",
+    "Asad Shah",
+    "Zulfiqar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.D-85 of 2022",
   "date_of_order": "14.09.2022",
-  "judge": "",
+  "judge": "AMJAD ALI SAHITO",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ubaidullah Brohi",
+    "The State",
+    "Abdul Waheed Bijarani",
+    "Mr. Ghulam Mustafa Abbasi",
+    "Mr. Abdul Waheed Bijarani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

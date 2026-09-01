@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "construe a non",
+  "case_number": "",
   "date_of_order": "23.01.2026",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -28,7 +28,10 @@
     "PLD 1984 SC 344",
     "PLD 2010 SC 61"
   ],
-  "parties": [],
+  "parties": [
+    "Pervaiz Ahmed Dahri",
+    "The State/NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

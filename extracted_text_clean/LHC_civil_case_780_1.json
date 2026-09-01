@@ -7,11 +7,18 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "23.09.2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "applicant in both matters",
+    "the applicants",
+    "the accused persons"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

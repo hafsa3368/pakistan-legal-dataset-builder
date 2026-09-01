@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "criminal revision application is dismissed in non-prosecution",
+  "case_number": "",
   "date_of_order": "07.05.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Ali Shah Rizvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

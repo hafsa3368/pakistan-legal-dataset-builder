@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "03.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 22-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Maria",
+    "Asif Ali",
+    "Muharram Depar",
+    "Shafquat Ali Maitlo",
+    "Muhammad Iqbal Kalhoro",
+    "Mr. Shafi Muhammad Mahar",
+    "M/s Syed Mujahid Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

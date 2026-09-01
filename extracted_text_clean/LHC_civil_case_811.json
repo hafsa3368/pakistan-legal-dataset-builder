@@ -8,8 +8,14 @@
   "num_chunks": 9,
   "case_number": "Criminal Appeal No.D-123 of 2019",
   "date_of_order": "28.10.2021",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 544-A CrPC",
+    "u/s 302",
+    "u/s 342 CrPC",
+    "u/s 382",
+    "u/s 544-A"
+  ],
   "citations": [
     "2010 SCMR 1009",
     "2015 SCMR 1142",

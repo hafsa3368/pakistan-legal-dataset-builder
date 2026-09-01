@@ -8,12 +8,19 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "15.01.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 324 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Applicant",
+    "complainant",
+    "Agha",
+    "complainant's brother",
+    "PW Bashir Ahmed",
+    "PW Ayaz Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

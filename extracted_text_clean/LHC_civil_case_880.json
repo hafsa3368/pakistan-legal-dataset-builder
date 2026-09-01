@@ -8,8 +8,31 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No.S-157",
   "date_of_order": "05.09.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "161 CrPC",
+    "PLD 1998 Supreme Court 97",
+    "PLD 2012 Supreme Court 222",
+    "2011 SCMR 161",
+    "2011 SCMR 902",
+    "PLD 2012 Supreme Court 222",
+    "2016 SCMR 18",
+    "2008 SCMR 1556",
+    "2020 SCMR 423",
+    "2020 SCMR 935",
+    "2021 SCMR 115",
+    "2021 YLR Note 115",
+    "2012 SCMR 184",
+    "2015 SCMR 1350",
+    "PLD 2012 Supreme Court 222",
+    "2011 SCMR 161",
+    "2020 SCMR 423",
+    "2020 SCMR 935",
+    "2021 SCMR 115",
+    "2008 SCMR 1556"
+  ],
   "citations": [
     "2011 SCMR 902",
     "2016 SCMR 18",
@@ -21,7 +44,16 @@
     "2021 YLR Note 115",
     "2008 SCMR 1556"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Hanif",
+    "Hassan Haider",
+    "Faheem Hyder",
+    "Akbar @ Akkan",
+    "Ghulam Haider Laghari",
+    "Complainant",
+    "Ghulam Rasool",
+    "Arshad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

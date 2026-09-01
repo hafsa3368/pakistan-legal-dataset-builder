@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "09.07.2014",
-  "judge": "JUDGE Tufail",
+  "judge": "Salahuddin Panhwar",
   "sections_cited": [
     "Section 382-B Cr.P.C"
   ],
@@ -16,7 +16,12 @@
     "2013 SCMR 302",
     "PLD 2009 Lahore 362"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Salahuddin Panhwar",
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Ashique Hussain D. Solangi",
+    "Mr. Shahid Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

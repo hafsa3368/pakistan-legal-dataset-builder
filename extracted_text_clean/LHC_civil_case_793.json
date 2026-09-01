@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "31.01.2019",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mehmood Alam Abbasi",
+    "Mr. Muhammad Humayoon Khan",
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Petition No. D-",
+  "case_number": "",
   "date_of_order": "20.02.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Jaffer Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

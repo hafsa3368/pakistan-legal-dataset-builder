@@ -8,10 +8,15 @@
   "num_chunks": 5,
   "case_number": "Constitution Petition No. D-197 of 2011",
   "date_of_order": "23.01.2023",
-  "judge": "JUDGE Nadir",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Jalil Zubedi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

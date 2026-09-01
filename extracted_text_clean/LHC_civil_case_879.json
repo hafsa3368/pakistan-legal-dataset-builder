@@ -20,7 +20,10 @@
     "2022 SCMR 273",
     "2022 MLD 744"
   ],
-  "parties": [],
+  "parties": [
+    "Applicants",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

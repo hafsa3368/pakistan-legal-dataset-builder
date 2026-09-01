@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "26.10.2021",
-  "judge": "JUDGE Shahid",
+  "judge": "",
   "sections_cited": [
     "Section 397, 382-B Cr.P.C",
     "Sections 324, 353, 149 PPC",
@@ -19,7 +19,16 @@
   "citations": [
     "2016 SCMR 467"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Anwar H. Ansari",
+    "Mr. Muhammad Ismail Bhutto",
+    "Additional A.G",
+    "Shakeel Ahmed",
+    "Assistant Jail Superintendent",
+    "Mr. Nazar Muhammad Memon",
+    "Additional P.G.",
+    "Muhammad Iqbal Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "13.03.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rehmatullah",
+    "Zafarullah Jafri",
+    "NAB",
+    "Mr. Athar Hussain Abro",
+    "Mr. Najamuddin Dharejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

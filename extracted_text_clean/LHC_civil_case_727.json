@@ -9,9 +9,15 @@
   "case_number": "",
   "date_of_order": "02.03.2026",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 9"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Nusrat",
+    "The State",
+    "Mr. Ali Haider Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

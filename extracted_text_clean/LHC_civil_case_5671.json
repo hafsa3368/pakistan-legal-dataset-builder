@@ -9,9 +9,19 @@
   "case_number": "Criminal Bail Application No.S-700 of 2022",
   "date_of_order": "02.09.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mumtaz Sachal Awan",
+    "Mr. Aziz Ahmed Laghari",
+    "Ms. Sana Memon",
+    "Rajjab Ali",
+    "Wazir Ali",
+    "Ali Nawaz Khoso"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

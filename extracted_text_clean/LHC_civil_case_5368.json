@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitution no bench",
+  "case_number": "",
   "date_of_order": "22.04.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Karim Khan Agha",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M. M. Aqil Awan, Danish Rashid, Aijaz Ahmed Sipra, Balosch Ahmed Junejo, Ghulam Mustafa Abro, Ali Tahir Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "12.09.2019",
+  "judge": "Ijaz Ata",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 12(9) PTA"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State of Punjab v. Suleman",
+    "Suleman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

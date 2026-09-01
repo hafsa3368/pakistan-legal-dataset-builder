@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal A.T. Appeal No.13 of 2023",
   "date_of_order": "31.10.2023",
-  "judge": "JUDGE",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "Section 384/385",
     "Section 7",
@@ -26,7 +26,10 @@
     "2017 YLR 724",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Iftikhar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "23.11.2022",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Farhan Ali Shaikh",
+    "Mr. Shahryar Imdad Awan",
+    "Dr. Jawed Akhtar Shaikh",
+    "Dr. Salahuddin Shah",
+    "District Health Officer, Sukkur",
+    "Medical Superintendent, Taluka Hospital Pano Aqil",
+    "Respondent No.4",
+    "Respondent No.10"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

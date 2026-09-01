@@ -8,10 +8,18 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "18.08.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Rabika Wahab",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Mehmood Alam Rizvi and Syed Junaid Alam",
+    "M/s. Noor Muhammad Dayo and Asif Ali",
+    "Dr. Abdul Aziz",
+    "The State",
+    "Mr. Ali Haider Salim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

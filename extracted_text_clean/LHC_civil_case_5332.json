@@ -9,9 +9,15 @@
   "case_number": "",
   "date_of_order": "26.02.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 151 CPC",
+    "U/S 151"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Atta Muhammad Soomro",
+    "Hussain Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

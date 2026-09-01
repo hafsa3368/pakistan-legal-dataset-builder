@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "27.06.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Rafiuddin Farooqi",
+    "The State",
+    "Mr. Zulfiqar Ahmed Baig",
+    "Syed Mumtaz Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,20 @@
   "case_number": "Criminal Bail Application No.S-49 of 2023",
   "date_of_order": "27.03.2023",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Aziz Laghari",
+    "Mr. Abdul Waheed Bijarani",
+    "DSP Muhammad Arif Bhatti",
+    "SDPO Chachro Mithi",
+    "Inspector Abdul Rehman Rahu",
+    "SHO Nagar Parkar",
+    "MUHAMMAD IQBAL KALHORO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-387",
   "date_of_order": "22.08.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD IQBAL KALHORO",
+    "EMPRESS MOTORCYCLE PVT. LTD.",
+    "AYATULLAH KHUWAJA",
+    "MUHAMMAD NOMAN JAFFAR",
+    "RAMESHAN OAD",
+    "COMPLAINANT",
+    "APPLICANT"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

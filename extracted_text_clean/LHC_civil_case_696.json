@@ -8,10 +8,21 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "01.10.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Order I Rule 10 C.P.C.",
+    "Order XXXIX Rule 1 & 2 CPC",
+    "Order XXI ule 58 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Hamid Ali",
+    "Dubai Islamic Bank Ltd.",
+    "Syed Hamid Ali",
+    "Dubai Islamic Bank Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

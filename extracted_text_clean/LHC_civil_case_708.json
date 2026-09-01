@@ -8,7 +8,7 @@
   "num_chunks": 22,
   "case_number": "Civil Review Petition No.275 of 2022",
   "date_of_order": "11.08.2025",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 11 of the Act",
     "Section 10 of the Sales Tax Act",
@@ -34,7 +34,10 @@
     "PLD 2022 SC 817",
     "PLD 1990 SC 682"
   ],
-  "parties": [],
+  "parties": [
+    "The Commissioner Inland Revenue",
+    "M/s Kolachee International"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

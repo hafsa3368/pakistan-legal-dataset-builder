@@ -9,9 +9,15 @@
   "case_number": "Criminal Bail Application No.S-1167 of 2021",
   "date_of_order": "22.08.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 337-A",
+    "u/s 337-L"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mian Taj Muhammad Keerio",
+    "Mr. Shahzado Saleem Nahiyoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

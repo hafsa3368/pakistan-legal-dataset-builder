@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-2151 of 2018",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "22.11.2023",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jamaluddin & others",
+    "P.O Sindh & others",
+    "Vice Chancellor, Benazir Bhutto Shaheed University, Khairpur",
+    "Principal, Government College of Technology, Khairpur",
+    "The Secretary, Universities and Boards Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

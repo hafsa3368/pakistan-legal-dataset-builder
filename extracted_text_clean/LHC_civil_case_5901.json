@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Transfer Application No.S-19 of 2024",
-  "date_of_order": "",
+  "date_of_order": "23.02.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Hanif Kalhoro, Advocate",
+    "Mr. Aftab Ahmed Shar, Additional P.G for the State",
+    "Mr. Shahid Amin Mashori Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "07.12.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Majeed Memon, Advocate",
+    "Ghulam Yaseen",
+    "Rasool Bux Kosh",
+    "Zulfiqar Ali Jatoi",
+    "The Office"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

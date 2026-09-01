@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "10.04.2025",
-  "judge": "JUDGE HANIF",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bushra Khatoon",
+    "Muhammad Abdullah",
+    "appellants",
+    "Mr. Fayaz Ali Metlo",
+    "Mr. Muhammad Umar Lakhani",
+    "respondent No. 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

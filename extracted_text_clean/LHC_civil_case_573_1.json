@@ -7,13 +7,19 @@
   "used_ocr": true,
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No S-88",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "27.08.2018",
+  "judge": "ZAFAI AHMED RAJPUT",
   "sections_cited": [
     "section 0f"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ahmed Ali Gupang",
+    "Bakhshal Gopang",
+    "The State",
+    "Mr. Muhamnad Jagirant",
+    "Mr. Khadim Hussain Khoonharo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

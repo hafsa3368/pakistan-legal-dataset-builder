@@ -8,12 +8,20 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1129 of 2021",
   "date_of_order": "05.09.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "sections 394 & 397 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bharat Kumar Suthar",
+    "Mr. Muhammad Zakarya",
+    "Mr. Muhammad Hussain Khan",
+    "Thardeep",
+    "The complainant",
+    "The applicants",
+    "The Assistant Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

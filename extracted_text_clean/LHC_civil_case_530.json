@@ -9,9 +9,19 @@
   "case_number": "Criminal Bail Application No.S-491 of 2023",
   "date_of_order": "05.06.2023",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Sher Janwari",
+    "Mr. Nazar Muhammad Memon",
+    "Complainant",
+    "Wajid Ali",
+    "her husband",
+    "relatives of the complainant",
+    "co-accused Wajid Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

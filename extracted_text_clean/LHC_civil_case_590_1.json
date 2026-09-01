@@ -7,7 +7,7 @@
   "used_ocr": true,
   "num_chunks": 4,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "09.05.2021",
   "judge": "",
   "sections_cited": [
     "sections 452-B",
@@ -18,7 +18,16 @@
     "2016 MLD 1103",
     "2014 P.CrL J 1464"
   ],
-  "parties": [],
+  "parties": [
+    "Gulsher Bangwar",
+    "Khatoor Bangwar",
+    "Muhammad Panah Sabzoi",
+    "Nadir Ali Amin",
+    "Ramz Ali",
+    "Mir Khan Faiz",
+    "Zahoor Ahmed",
+    "Ravi Kumar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

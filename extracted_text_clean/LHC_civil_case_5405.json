@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "27.10.2025",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Murad Ali Laghar",
+    "The State",
+    "Rahat Ahsan",
+    "Fida Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

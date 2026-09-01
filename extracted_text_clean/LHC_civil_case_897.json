@@ -7,11 +7,13 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Civil Transfer Application No.S-17 of 2023",
-  "date_of_order": "",
+  "date_of_order": "08.12.2023",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sheeraz Fazal, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

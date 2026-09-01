@@ -8,12 +8,22 @@
   "num_chunks": 2,
   "case_number": "Misc. Application No. 1720 of 2018",
   "date_of_order": "26.12.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Karachiya Hussain",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "Section 161 CrPC",
+    "Section 202 CrPC"
+  ],
   "citations": [
     "PLD 2019 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Hassan Chang",
+    "Mr. Muhammad Hanif Shaikh",
+    "Mr. Shahzado Saleem Nahiyoon",
+    "Mr. Allah Bachayo Soomro",
+    "ASI Muhammad Yasin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

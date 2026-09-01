@@ -6,12 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. App. No. S",
+  "case_number": "",
   "date_of_order": "22.03.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 491 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Shabbir Bhutto",
+    "Mst. Sanam",
+    "Muzamil Shahid",
+    "Eeman Fatima",
+    "Muhammad Younis"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

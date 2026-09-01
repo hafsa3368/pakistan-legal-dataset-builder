@@ -8,13 +8,15 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "06.11.2017",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [
     "2017 SCMR 683",
     "2013 SCMR 1752"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Tahseen Ahmed H. Qureshi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

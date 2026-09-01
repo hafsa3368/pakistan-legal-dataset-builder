@@ -6,14 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Criminal Transfer Application No. S-",
+  "case_number": "",
   "date_of_order": "02.02.2024",
   "judge": "",
   "sections_cited": [
     "sections 302, 324,34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sahib Khan Panhwar",
+    "Syed Sardar Ali Shah",
+    "Mr. Achar Khan Gabol",
+    "The State",
+    "Khadim Hussain",
+    "Naushehro Feroze"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

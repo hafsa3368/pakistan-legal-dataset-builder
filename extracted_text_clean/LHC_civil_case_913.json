@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1359 of 2022",
   "date_of_order": "15.12.2022",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zulfiqar Ali Channa",
+    "Qurban Ali Malano",
+    "Ghulam Abbas Akhtar",
+    "Dareshani Ali Haider 'Ada'",
+    "Tanveer Shakoor Rana",
+    "Pakistan Railways"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,20 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "01.11.2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ar, Sordor Ali Shoh",
+    "AP G Corriploincnt",
+    "Abdul Qodir Bungwcr",
+    "Police Slolior G٧bāo Koicho",
+    "Allegolions ogoinst ٦٨٤"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

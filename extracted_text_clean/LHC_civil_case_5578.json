@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-508 of 2023",
   "date_of_order": "13.10.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "u/s 497"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. M.B @ Nouman Sahito",
+    "Mr. Siraj Ahmed Bijarani",
+    "Mr. Aslam Pervez Sipio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

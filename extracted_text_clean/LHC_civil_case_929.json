@@ -6,16 +6,32 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constable. C. P. No. D",
+  "case_number": "",
   "date_of_order": "20.12.2023",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 15 of the Sindh Civil Servants Act"
   ],
   "citations": [
     "2023 SCMR 766"
   ],
-  "parties": [],
+  "parties": [
+    "Mehmood Khan and others",
+    "Province of Sindh and others",
+    "Muhammad Saleem Khan and others",
+    "Province of Sindh and others",
+    "Mr. Muhammad Iqbal Kalhoro",
+    "Mr. Arbab Ali Hakro",
+    "Mr. Illahi Bux Jamali",
+    "Mr. Deedar Ali M. Chohan",
+    "Mr. Zulfiqar Ali Naich",
+    "Home Secretary Sindh and 04 others",
+    "President National Bank of Pakistan and others",
+    "Waqas Ahmed Khan",
+    "Government of Punjab and others",
+    "City Police Officer, Police Line, Rawalpindi and 4 others",
+    "District Police Officers and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

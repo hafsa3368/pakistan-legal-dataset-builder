@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Crl. Misc. Application No.S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "27.11.2023",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sikandar Ali Junejo",
+    "Mr. Shafi Muhammad Mahar",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

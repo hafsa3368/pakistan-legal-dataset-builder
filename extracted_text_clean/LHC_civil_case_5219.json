@@ -8,15 +8,27 @@
   "num_chunks": 7,
   "case_number": "",
   "date_of_order": "19.09.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2019 SCMR 1970",
     "2015 SCMR 112",
     "2014 SCMR 157",
     "2011 SCMR 1198"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Kulsoom",
+    "Mr. Agha Haroon Khan",
+    "Mr. Zulfiqar Ali Naich",
+    "Assistant Attorney General",
+    "Secretary, Sindh Public Service Commission",
+    "Respondent No.1",
+    "Respondent No.2",
+    "Respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

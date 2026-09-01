@@ -9,9 +9,21 @@
   "case_number": "Crl. Bail Application No.2339 of 2025",
   "date_of_order": "20.07.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Syed Fiaz-ul-Hassan Shah",
+    "Mr. Ghulam Asghar Jutt",
+    "Syed Samiullah Shah",
+    "Mr. Ali Haider Salim",
+    "Police of PS Sukhan, Malir Karachi",
+    "Muhammad Iqbal Kalhoro",
+    "SIP Muhammad Saeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

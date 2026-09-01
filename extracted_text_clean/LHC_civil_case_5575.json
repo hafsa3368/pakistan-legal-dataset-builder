@@ -9,9 +9,20 @@
   "case_number": "Criminal Miscellaneous Application No.S-316",
   "date_of_order": "20.06.2023",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farhad Ali Abro",
+    "Mukesh Kumar",
+    "Inspector Asghar Alam Halepoto",
+    "ASI Nazar Muhammad",
+    "ASI Hadi Bux",
+    "MUHAMMAD IQBAL KALHORO",
+    "G.H. Laghari",
+    "Safa Hisbani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Const. Petition No.D-",
+  "case_number": "",
   "date_of_order": "25-05-2023",
-  "judge": "",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "Section 16 of the Sindh Local Government Act",
     "Section 19 Election Act",
@@ -17,7 +17,18 @@
   "citations": [
     "2021 SCMR 1246"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Laique",
+    "Nishan Ali",
+    "Niaz Hussain",
+    "Muhammad Laique s/o Jewan Khan",
+    "Irshad Ahmed s/o Najamuddin",
+    "P.O Sindh",
+    "Project Manager, SIBA Testing Services, Sukkur IBA University",
+    "District Education Officer (ES&HS), Khairpur",
+    "Hafiz Shahabuddin",
+    "Ali Ahmed Rajper"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

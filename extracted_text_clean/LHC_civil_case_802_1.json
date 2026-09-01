@@ -7,11 +7,18 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "05.41.2007",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "s. 498 CrPC",
+    "s. 138 APOC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M. S~n",
+    "D?. Kمهما amh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "22.02.2023",
+  "judge": "(retired) Shahid Karim Khan Khawaja",
+  "sections_cited": [
+    "Section 498-A of the Code of Criminal Procedure, 1898",
+    "Section 12(1)(a) of the Protection of Women from Domestic Violence Act, 2005"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Waqar Ahmed vs State of Pakistan",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

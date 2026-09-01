@@ -8,10 +8,17 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "10.03.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Qayoom Nawaz Kundi",
+    "Syed Aijaz Hussain Shirazi",
+    "Muhammad Iqbal Kalhoro",
+    "defendant No. 1",
+    "defendant No. 2",
+    "defendant No. 4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "01.03.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdullah Channa",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Shakira Niaz Ali Umrani",
+    "Mr. Nouman Shahito",
+    "Mr. Muhammad Ismail Bhutto",
+    "Additional Advocate General Sindh",
+    "respondents No.7&8",
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

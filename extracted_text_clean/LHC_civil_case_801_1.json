@@ -7,11 +7,20 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "04.12.2017",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Syed Sordor Ali Shuh D",
+    "Ahol Joghroni",
+    "MI Sujld Hussdin Muhessdr cOunsel",
+    "Iherefore under insirucllons",
+    "Mf. Jughioni"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

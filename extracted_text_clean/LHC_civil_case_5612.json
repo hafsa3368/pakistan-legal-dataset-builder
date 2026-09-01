@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "30.03.2023",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imran Ali Abbasi",
+    "Inspector Khalil Ahmed Shah",
+    "Inspector Muhammad Ali Khaskheli",
+    "SIP Mumtaz Ali",
+    "SIP Aziz Ahmed",
+    "SIP Mumtaz Khoso"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

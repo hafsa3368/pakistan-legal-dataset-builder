@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "04.09.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "161 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Ahmed Khan",
+    "Rukhsar Ahmed M. Junejo",
+    "Aftab Ahmed Shar",
+    "Muhammad Iqbal Kalhoro",
+    "Shahnawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

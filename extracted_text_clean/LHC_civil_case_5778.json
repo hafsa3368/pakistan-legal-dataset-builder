@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Appeal No.D-137 of 2019",
   "date_of_order": "02.05.2023",
-  "judge": "JUDGE Irfan",
+  "judge": "Muhammad Iqbal",
   "sections_cited": [
     "section 7",
     "section 324 PPC",
@@ -21,7 +21,11 @@
     "2018 PCrLJ Note 221",
     "PLD 2020 SC 61"
   ],
-  "parties": [],
+  "parties": [
+    "Deedar son of Wazir",
+    "Dildar alias Diloo s/o Imam BuxChandio",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

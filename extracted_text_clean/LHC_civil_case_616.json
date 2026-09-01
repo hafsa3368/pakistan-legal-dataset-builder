@@ -8,10 +8,23 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "07.07.2020",
-  "judge": "JUDGE Tufail",
-  "sections_cited": [],
+  "judge": "Zafar Ahmed Rajput",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zameer Ahmed Bhutto",
+    "Justice Zafar Ahmed Rajput",
+    "Justice Amjad Ali Sahito",
+    "respondent No.6",
+    "respondent No.13",
+    "respondent No.4",
+    "respondent No.1",
+    "respondent No.8",
+    "respondent No.17"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

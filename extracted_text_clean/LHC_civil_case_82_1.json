@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Constitutional Petition No. D-5298 of 2024",
   "date_of_order": "23.10.2024",
-  "judge": "JUDGE Tahseen",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2011 SC 44"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ramiz Naseem, Advocate for the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

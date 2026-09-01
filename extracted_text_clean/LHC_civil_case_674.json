@@ -9,9 +9,15 @@
   "case_number": "Criminal Bail Application No.S-1129 of 2022",
   "date_of_order": "19.12.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 164 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Kalsoom Gopang",
+    "Syed Jan Muhammad Bukhari",
+    "Mr. Imran Ali Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

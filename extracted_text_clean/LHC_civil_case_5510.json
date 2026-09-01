@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No.D-70 of 2015",
   "date_of_order": "16.11.2022",
-  "judge": "J U D G E Irfan Ali",
+  "judge": "Muhammad Iqbal",
   "sections_cited": [
     "section 7",
     "section 382-B CrPC",
@@ -18,7 +18,21 @@
   "citations": [
     "2017 SCMR 2024"
   ],
-  "parties": [],
+  "parties": [
+    "Wazir Ali",
+    "The State",
+    "Nemo",
+    "Mr. Justice Muhammad IqbalKalhoro",
+    "Mr. Justice Muhammad SaleemJessar",
+    "Mst. Noor Jehan",
+    "Gul Hassan",
+    "Babar Ali",
+    "Mashir",
+    "Mst. Najma",
+    "Mst. Rani",
+    "Muhammad Hanif",
+    "Muhammad Yameen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

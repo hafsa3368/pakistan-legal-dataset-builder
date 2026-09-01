@@ -9,9 +9,18 @@
   "case_number": "",
   "date_of_order": "19.05.2022",
   "judge": "Abrar",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. G.M. Bhutto, Advocate for Petitioner",
+    "Mr. Ghulam Akbar AAG",
+    "Mirza Farasat Ali",
+    "Petitioner/tenant",
+    "private respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

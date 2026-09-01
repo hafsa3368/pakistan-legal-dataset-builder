@@ -8,12 +8,27 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No.D-151 of 2019",
   "date_of_order": "30.08.2022",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 382-B CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State",
+    "Altaf Sachal Awan",
+    "Qambar Ali Jamali",
+    "Nazar Muhammad Memon",
+    "Muhammad Bux",
+    "Ghulam Sarwar",
+    "Gul Sher",
+    "Gulzar",
+    "Ali Anwar",
+    "Manzoor Jamali",
+    "Mumtaz",
+    "Baby Sawera",
+    "Justice Muhammad Iqbal Kalhoro",
+    "Justice Amjad Ali Sahito"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

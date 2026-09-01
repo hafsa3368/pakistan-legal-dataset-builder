@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "20.01.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Ali Shah Rizvi",
+    "Ghulam Rasool",
+    "Izzat",
+    "Faiq",
+    "Mero",
+    "State",
+    "Mukhitarkar (Revenue), Taluka Ubauro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

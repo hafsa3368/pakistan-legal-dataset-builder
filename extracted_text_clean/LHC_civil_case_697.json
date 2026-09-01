@@ -8,13 +8,24 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "04.11.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2016 SC 637",
     "PLD 2016 SC 940"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan Telecommunication Company Ltd.",
+    "Federal Ombudsman",
+    "Riaz Ali Memon",
+    "Mr. Khaleeq Ahmed",
+    "DAG",
+    "Ms. Rabia Khalid",
+    "AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

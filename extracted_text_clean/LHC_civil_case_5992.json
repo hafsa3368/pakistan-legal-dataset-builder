@@ -8,10 +8,22 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "12.02.2018",
-  "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Allah Bachayo Soomro",
+    "Hyderabad Municipal Corporation (HMC)",
+    "Zulfiquar Ali Ansari",
+    "Accountant (Pension) of the District Accounts Office, Hyderabad",
+    "AG Sindh (Flag A)",
+    "Hon'ble Supreme Court of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

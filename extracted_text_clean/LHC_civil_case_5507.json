@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1667 of 2017",
-  "date_of_order": "",
-  "judge": "JUDGE Sulemen Khan/PA",
+  "date_of_order": "30.08.2023",
+  "judge": "Sulemen Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulfiqar Ali Naich",
+    "None present for the petitioners",
+    "Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

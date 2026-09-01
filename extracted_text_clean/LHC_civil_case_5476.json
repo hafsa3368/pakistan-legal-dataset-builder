@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Appeal No.S-69 of 2020",
   "date_of_order": "25.11.2022",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "sections 302, 504, 147, 148, 149 PPC",
     "section 544-A CrPC",
@@ -20,7 +20,14 @@
     "2018 SCMR 326",
     "2010 SCMR 97"
   ],
-  "parties": [],
+  "parties": [
+    "Subhan Ali",
+    "Ali Mour",
+    "Ali Gohar",
+    "Ali Ghanwar",
+    "The State",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

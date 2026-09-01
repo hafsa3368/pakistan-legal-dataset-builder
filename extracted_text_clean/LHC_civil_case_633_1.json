@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "29.03.2023",
-  "judge": "",
+  "judge": "ZAFAR AHMED RAJPUT,",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "ZAFAR AHMED RAJPUT, J",
+    "Mr. Alam Sher Bozdar",
+    "Mr. Noor Hassan Malik",
+    "petitioner",
+    "respondent No.2",
+    "respondent No.3",
+    "respondent No.4",
+    "respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

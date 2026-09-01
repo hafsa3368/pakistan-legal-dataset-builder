@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "14.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Shakeel Lakho",
+    "respondent No.8",
+    "Ghulam Jaffar Khan Talpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

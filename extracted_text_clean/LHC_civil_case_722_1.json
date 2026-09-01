@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "16.02.2021",
+  "judge": "(Retd) Kamal Ahsan Khan Khwaja",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "Section 125 CrPC",
+    "Section 20 PP"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wakf Board Karachi",
+    "Mst. Shazia Khan",
+    "Mst. Shazia Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

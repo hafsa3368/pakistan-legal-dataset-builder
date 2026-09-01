@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. App. No. S",
+  "case_number": "",
   "date_of_order": "04.03.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Shabana Leghari",
+    "Mr. Shafi Muhammad Mahar",
+    "petitioner",
+    "applicant",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

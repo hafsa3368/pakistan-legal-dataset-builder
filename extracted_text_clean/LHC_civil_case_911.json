@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "07.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 3 & 4"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Sattar N. Soomro",
+    "SEPCO",
+    "Habibullah",
+    "Mr. Muhammad Aslam Jatoi",
+    "Mr. Nauman Fareed Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

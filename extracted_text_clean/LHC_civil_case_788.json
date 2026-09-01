@@ -8,10 +8,22 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "30.01.2019",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Hameed Bajwa",
+    "M/s Allah Bachayo Soomro, A.A.G.",
+    "Syed Meeral Shah A.P.G",
+    "Syed Manzoor Ali",
+    "ASI Ramzan",
+    "Inspector Manzoor Ali",
+    "DIGP Hyderabad",
+    "Mr. Muhammad Aleem Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

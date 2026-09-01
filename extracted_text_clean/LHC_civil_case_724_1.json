@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "17.11.2022",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [
     "Section 161 of the Land Revenue Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sikandar Ali Junejo",
+    "respondent No.6 (S.S.P., Khairpur)",
+    "respondent No.3 (D.C., Khairpur)",
+    "respondent No.5 (The Taluka Mukhtiarkar (Revenue), Sobhodero)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

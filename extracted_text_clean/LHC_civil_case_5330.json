@@ -8,10 +8,18 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "07.05.2025",
-  "judge": "HANIF JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 37 CrPC",
+    "Section 37 Rules 1 CrPC",
+    "Section 37 Rules 2 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mian Amjad Farooq",
+    "Syed Shahbhat Hussain Naqvi",
+    "Zayyad Khan Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

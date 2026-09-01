@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "Crl Mise Application slunds dismissed 4g not",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "22.02.2017",
   "judge": "",
   "sections_cited": [
     "section 22-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M.4",
+    "Mr. Mutntaz Ali Brohi",
+    "applicant",
+    " upplicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

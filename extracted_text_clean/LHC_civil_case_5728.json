@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Cr.B.A. No.D-21 of 2023",
   "date_of_order": "29.03.2023",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sabir Hussain",
+    "applicant",
+    "applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,19 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition bearing No.D-1298/2024",
   "date_of_order": "29.10.2024",
-  "judge": "JUDGE Tahseen",
+  "judge": "Muhammad Ali Lakhani",
   "sections_cited": [
     "Section 19 of the National Accountability Ordinance",
     "Section 24 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar Jatoi",
+    "NAB",
+    "Liaquat University Hospital",
+    "Health Department, Government of Sindh",
+    "M.S. Liaquat University Hospital, Jamshoro-Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

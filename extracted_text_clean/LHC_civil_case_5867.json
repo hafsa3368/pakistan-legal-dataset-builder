@@ -7,11 +7,17 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "07.03.2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Maulvi Abdul Rosheed Soomiio Sioie",
+    "Coursel Pelilioner",
+    "Mr Mozhor Ali Bhuilo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 3,
-  "case_number": "Crl Bail Appln No. S-",
+  "case_number": "",
   "date_of_order": "03.11.2015",
   "judge": "",
   "sections_cited": [
@@ -17,7 +17,16 @@
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wali Muhammad son of Nabi Bux Mazari",
+    "Razoo alias Ali Kaza",
+    "Tarique",
+    "State",
+    "police party",
+    "ASI Barkat Ali Chandio",
+    "Additional Sessions Judge Mchar",
+    "Munir Ahmed Abbasi D D PP Zafar Aاoustd Rajput"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

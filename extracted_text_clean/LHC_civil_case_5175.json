@@ -8,10 +8,21 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "28.05.2019",
-  "judge": "JUDGE Tufail/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners in C.P.No.D- 1679/2016",
+    "Respondents No.6 & 7 in C.P.No.D-3030/2016",
+    "Petitioners in C.P.No.D-3030/2016",
+    "Irrigation authorities",
+    "Learned counsel for petitioners",
+    "Learned counsel for petitioners",
+    "Irrigation authorities",
+    "Learned counsel for respondents No.6 & 7 in C.P.No.D-3030/2016",
+    "Irrigation authorities",
+    "Irrigation authorities"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

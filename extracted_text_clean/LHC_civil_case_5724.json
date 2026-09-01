@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-488 of 2022",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "17.10.2022",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "sections 420 and 406 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD IQBAL KALHORO",
+    "Mian Taj Muhammad Keerio",
+    "Ms. Rameshan Oad",
+    "Shakir Nawaz Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

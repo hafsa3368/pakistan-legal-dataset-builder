@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "12.04.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "U/s 353, 324, 34 PPC",
+    "U/s 23-A Sindh Arms Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Tariq Abbasi",
+    "APG",
+    "Mr. Abdullah Rajput"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

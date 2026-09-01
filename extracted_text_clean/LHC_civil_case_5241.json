@@ -8,12 +8,23 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "24.01.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "PLD 1980 SC 64"
+  ],
   "citations": [
     "PLD 1980 SC 64"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Faizan Mansoor",
+    "Mr. Muhammad Yaseen Khan Azad",
+    "Mr. Shahbaz Sahotra",
+    "Sahibzada Muhammad Matin Mirza",
+    "Board of Revenue Sindh",
+    "NAB",
+    "other persons"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

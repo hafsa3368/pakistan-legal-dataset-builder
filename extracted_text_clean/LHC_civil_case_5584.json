@@ -8,13 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.D-18 of 2021",
   "date_of_order": "20.09.2022",
-  "judge": "",
+  "judge": "AMJAD ALI SAHITO",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleh alias Sallan",
+    "The State",
+    "Muhammad Sharif Sial",
+    "Mr. Shawak Rathore",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

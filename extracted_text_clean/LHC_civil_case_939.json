@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Petition No.S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "18.12.2023",
   "judge": "Ahmad",
   "sections_cited": [
     "sections 302 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rasheed Kalwar",
+    "Mr. Agha Athar Hussain Pathan",
+    "Petitioners (Sessions Case No.249 of 2023)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

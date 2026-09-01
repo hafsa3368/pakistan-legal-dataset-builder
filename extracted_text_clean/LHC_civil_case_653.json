@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "09.05.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Sattar Mahesar",
+    "Mr. Niaz Hussain Maitlo",
+    "Mrs. Rizwana Parveen Memon",
+    "Mr. Mehboob Ali Wassan",
+    "Respondents No.2 to 4-SALU",
+    "Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "misc no. 3351",
-  "date_of_order": "",
-  "judge": "F JUSTICE",
+  "date_of_order": "03.01.2015",
+  "judge": "",
   "sections_cited": [
     "Section 46 of the Sindh Local Government Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asfandyar K. Kharal",
+    "Mr. Saifullah AAG",
+    "respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

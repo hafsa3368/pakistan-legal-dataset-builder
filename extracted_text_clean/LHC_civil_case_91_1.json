@@ -8,14 +8,27 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "03.09.2025",
-  "judge": "JUDGE Athar Zai",
+  "judge": "Athar Zai",
   "sections_cited": [
     "Section 151"
   ],
   "citations": [
     "2024 SCMR 1184"
   ],
-  "parties": [],
+  "parties": [
+    "appellant",
+    "respondent No. 1",
+    "respondent No. 2",
+    "respondent No. 3",
+    "respondent No. 4",
+    "respondent No. 5",
+    "respondent No. 6",
+    "respondent No. 7",
+    "respondent No. 8",
+    "respondent No. 9",
+    "respondent No. 10",
+    "respondent No. 11"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

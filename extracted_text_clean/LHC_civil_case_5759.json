@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Civil Revision No. S",
+  "case_number": "",
   "date_of_order": "15.04.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sikandar Sadar Siddiqui",
+    "Mr. Khan Muhammad Sangi",
+    "Mr. Najeebullah Jalbani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

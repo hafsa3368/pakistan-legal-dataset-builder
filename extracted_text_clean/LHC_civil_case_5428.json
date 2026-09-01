@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Misc.A.No.395 of 2025",
   "date_of_order": "26.01.2026",
-  "judge": "JUDGE Imran",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Bilal Bhatti",
+    "Mr. Ali Haider Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

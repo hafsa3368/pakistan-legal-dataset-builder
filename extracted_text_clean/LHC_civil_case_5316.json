@@ -9,9 +9,20 @@
   "case_number": "Criminal Misc. Application No.766 of 2024",
   "date_of_order": "18.12.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 147, 148, 149, 506-B, 337-A, 511",
+    "u/s 22-A & 22-B Cr.PC",
+    "u/s 22-A & 22-B CrPC",
+    "u/s 200 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Manzoor Alam",
+    "The State",
+    "Muhammad Sohrab",
+    "Muhammad Iqbal Kalhoro",
+    "Muhammad Sohrab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

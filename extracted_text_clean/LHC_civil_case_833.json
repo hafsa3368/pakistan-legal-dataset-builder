@@ -8,14 +8,22 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "31.01.2019",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 322 PPC",
+    "u/s 249A or 265K CrPC"
+  ],
   "citations": [
     "2017 P Cr. L J Note 192",
     "1994 SCMR 2142",
     "2005 YLR 2461"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Tariq Ahmed Shah",
+    "Mr. Qadir Bux Ghirano",
+    "Mr. Ali Ahmed Palh",
+    "Syed Meeral Shah A.P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

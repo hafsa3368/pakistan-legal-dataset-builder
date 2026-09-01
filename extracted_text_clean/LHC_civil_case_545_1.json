@@ -8,12 +8,16 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.17/2021",
   "date_of_order": "22.01.2025",
-  "judge": "JUDGE Tahseen/PA",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 96"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Yahya Akbar",
+    "Muhammad Rashid Khan",
+    "XIth Additional District Judge, Karachi-East"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

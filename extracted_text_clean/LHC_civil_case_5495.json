@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Misc. No. 33771/15",
   "date_of_order": "27.11.2015",
-  "judge": "Judge Arbab",
+  "judge": "",
   "sections_cited": [
     "Section 177",
     "Section 120",
@@ -22,7 +22,10 @@
     "Section 214C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. S. Riazuddin",
+    "Mr. Irshadur Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

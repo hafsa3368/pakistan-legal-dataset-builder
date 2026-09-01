@@ -8,14 +8,24 @@
   "num_chunks": 2,
   "case_number": "Constitutional Petition No. D-2099 of 2023",
   "date_of_order": "10.01.2024",
-  "judge": "JUDGE Athar Zai",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "Section 23",
     "Section 23 of the National Accountability Ordinance",
     "section 23 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Haji Imamuddin Marwat s/o. Haji Sahib Din",
+    "Afaq-u-Din s/o. Imamuddin Marwat",
+    "Saif Khan s/o. Imamuddin Marwat",
+    "Mst. Raqima Bibi @ Ruqia Bibi w/o. Imamuddin Marwat",
+    "Federation of Pakistan",
+    "Director General NAB Karachi",
+    "Director No. 2 & 3. IW-1, NAB, Karachi",
+    "M/s. Syed Dilshad Hussain Shah & Mazoor Alam",
+    "Muhammad Qassim, Deputy Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

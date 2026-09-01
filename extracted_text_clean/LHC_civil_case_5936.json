@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "26.03.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Altaf Hussain",
+    "Province of Sindh",
+    "DIGP, Sukkur Range",
+    "SSP Khairpur",
+    "SHO, Police Station Hingorja",
+    "IO, Crime No.123/2023 of Police Station Hingorja"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,22 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-480 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "12-06-2023",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 22-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mehmood Khan",
+    "Complainant",
+    "Complainant's brother-in-law (husband of his sister-in-law) Muhammad Rashid",
+    "Mr. Muhammad Nadeem Sehto",
+    "Mr. Imran Ahmed Abbasi",
+    "A.P.G. Sindh",
+    "ASI Muhammad Arshad",
+    "Mr. Muzamil Khan Bughio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

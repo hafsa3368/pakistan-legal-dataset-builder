@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "15.01.2025",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 109",
     "Section 23-H of Foreign Exchange Regulations Act",
@@ -16,7 +16,12 @@
     "section 23B"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State & another",
+    "M/s. Swiss Exchange Company",
+    "M/s. Swiss International Exchange Company",
+    "Muhammad Khurram Nathani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

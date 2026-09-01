@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. B. A. No. D",
+  "case_number": "",
   "date_of_order": "29.12.2021",
   "judge": "",
   "sections_cited": [
     "Sections 9 and 10 of the National Accountability Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Qambar Ali",
+    "State v. Syed Asghar Ali Shah and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -36,7 +36,20 @@
     "PLD 1999 Karachi 336",
     "PLD 1992 SC 353"
   ],
-  "parties": [],
+  "parties": [
+    "Federal Investigation Agency",
+    "Federal Board of Revenue (Customs)",
+    "Income Tax Department (Inland Revenue)",
+    "Special Court (Offences in respect of Banks)",
+    "Tahir Ashraf Durrani",
+    "Muhammad Ameen",
+    "Syed Shanshah Hussain",
+    "Muhammad Ali Jaferi",
+    "Raj Ali Wahid",
+    "Ovais Ali Shah",
+    "Nadeem Yaseen",
+    "Irfan Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

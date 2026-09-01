@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "20.02.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farhan Ali Shaikh",
+    "Ghulam Abbas Kubar",
+    "petitioner",
+    "applicant",
+    "appellant",
+    "party/petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

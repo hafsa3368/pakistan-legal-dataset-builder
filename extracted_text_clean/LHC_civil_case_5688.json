@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1160 of 2023",
   "date_of_order": "16.05.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

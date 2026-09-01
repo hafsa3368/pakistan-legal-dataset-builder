@@ -9,7 +9,10 @@
   "case_number": "",
   "date_of_order": "01.06.2018",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "S.9 of the National Accountability Ordinance 1999 (NAO)"
+  ],
   "citations": [
     "2017 SCMR 728",
     "1996 SCMR 1845",
@@ -27,7 +30,21 @@
     "PLD 2015 Sindh 295",
     "PLD 2009 SC 2"
   ],
-  "parties": [],
+  "parties": [
+    "Chairman NAB",
+    "Abdul Qadir Memon",
+    "Ghulam Abbas Soomro",
+    "Ali Hassan Brohi",
+    "Abdul Jabbar Laghari",
+    "Ali Nawaz",
+    "Ali Asghar Mandro",
+    "Dr. Ghulam Mustafa Suhag",
+    "Ejaz Hussain",
+    "Abdul Latif Khoso",
+    "Muhammad Siddique Memon",
+    "National Accountability Bureau (NAB)",
+    "Sindh Government Lands Committee (Lands Committee)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

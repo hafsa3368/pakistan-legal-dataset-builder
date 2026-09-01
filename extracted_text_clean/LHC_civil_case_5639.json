@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "04.07.2014",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sibgatullah",
+    "Mr. M. Khan Lakho",
+    "Mr. Allah Bachayo Soomro",
+    "respondent No.2",
+    "respondent Nos. 2 and 3",
+    "official respondent",
+    "petitioner",
+    "petitioners",
+    "private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

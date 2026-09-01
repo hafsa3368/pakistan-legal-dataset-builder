@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 27,
-  "case_number": "constituted in compliance by the Honorable",
+  "case_number": "",
   "date_of_order": "20.09.2021",
   "judge": "Nadeem Akhtar",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 and 498 CrPC",
+    "u/s 161 CrPC"
+  ],
   "citations": [
     "2010 SCMR 1697",
     "2003 SCMR 150",

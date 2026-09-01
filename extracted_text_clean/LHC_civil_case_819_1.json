@@ -7,11 +7,18 @@
   "used_ocr": true,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "06.05.2015",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dale",
+    "Apl. by Messrs. Fx Ordex",
+    "APlimf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

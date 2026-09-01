@@ -8,10 +8,21 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "05.09.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Athar Zai",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Arif Shahbaz Mir",
+    "Ms. Rehana Tabish Mir",
+    "Ms. Rukhsana Tassawar Butt",
+    "Mohsin Mehmood Mir",
+    "Ms. Rizwana Salam Nagi",
+    "Ms. Shabana Haq",
+    "Amir Mir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

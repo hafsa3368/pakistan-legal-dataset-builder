@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitutional Petition Nos",
+  "case_number": "",
   "date_of_order": "23.04.2020",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 9"
   ],
@@ -17,7 +17,31 @@
     "2017 SCMR 1152",
     "PLD 1949 Lahore 21"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yousuf",
+    "Partab Rai",
+    "Manzoor Hussain Talpur",
+    "Menghraj",
+    "Ali Akbar Bhurt",
+    "Shahnawaz Rahpoto",
+    "Sohail Raja",
+    "Abdul Wahid",
+    "Lutuf Ali",
+    "Chetan",
+    "Kalimullah",
+    "Abdul Latif",
+    "Ghulam Rasool",
+    "Mst. Rehana Mumtaz Hussain Shaikh",
+    "Ramchand",
+    "Ramchand",
+    "Soojo",
+    "Jahangir Agha",
+    "Aqeel Ahmed Qureshi",
+    "Ghulam Rabbani",
+    "Mst. Rehana Mumtaz Hussain Shaikh",
+    "Imran Ali",
+    "Shehri Ittehad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

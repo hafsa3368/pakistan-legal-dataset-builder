@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Cr.B.A. No.D-44 of 2023",
   "date_of_order": "29.05.2023",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Hashim Laghari",
+    "applicants",
+    "applicants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

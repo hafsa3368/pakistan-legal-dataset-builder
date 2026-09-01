@@ -8,14 +8,26 @@
   "num_chunks": 2,
   "case_number": "Constitutional Petition No.D-6398 of 2024",
   "date_of_order": "21.02.2025",
-  "judge": "JUDGE Tahseen/PA",
+  "judge": "",
   "sections_cited": [
     "Section 365-B PPC",
     "Section 164",
     "Section 173"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Maqbool-ur-Rehman",
+    "M/s. Hakim Ali Shaikh and Sagheer Ahmed Abbasi",
+    "Mr. Ali Hyder Saleem",
+    "SIO/Inspector Abrar Shah",
+    "SIP Yousuf Naimat",
+    "SIP Imam Bukhsh",
+    "DSP Raza Mian",
+    "the Petitioner",
+    "the complainant",
+    "the abductee",
+    "her parents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

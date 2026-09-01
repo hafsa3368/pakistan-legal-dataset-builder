@@ -9,9 +9,15 @@
   "case_number": "Constitutional Petition No.D-1178 of 2021",
   "date_of_order": "18.05.2021",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 16-A of National Accountability Ordinance"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sami Ahmed",
+    "Federation of Pakistan",
+    "Nationwala Financial Services Company"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

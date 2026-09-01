@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "08.04.2026",
-  "judge": "JUDGE HANIF",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Fareed",
+    "Mr. Ali Haider Salim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

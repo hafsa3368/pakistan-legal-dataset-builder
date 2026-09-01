@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Criminal Bail Application stands dismissed as not",
+  "case_number": "",
   "date_of_order": "15.02.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Dareshani Ali Haider “Ada”, Advocate for the applicant",
+    "M/s Mujeeb-ur-Rehman Soomro and Bahawal-ud-Din Shaikh, Special Prosecutors NAB",
+    "Mr. Kareem Bux Janwari",
+    "Learned Counsel for the applicant, under instructions"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

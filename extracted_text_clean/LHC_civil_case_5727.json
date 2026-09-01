@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "28.05.2019",
-  "judge": "JUDGE Tufail/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Arshad S. Pathan",
+    "Mr. Imtiaz Ali Channa",
+    "Mr. Allah Bachayo Soomro",
+    "Lutufullah Buriro",
+    "AXEN Johi Irrigation Sub-Division at Dadu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

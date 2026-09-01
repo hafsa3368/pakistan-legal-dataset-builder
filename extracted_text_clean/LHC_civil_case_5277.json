@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "28.10.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Salahuddin Ahmed and Nadeem Ahmed, advocate for appellant",
+    "M/s. Abid S. Zuberi, Ayan Mustafa Memon and Muhammad Arif Ansari, advocate for respondent",
+    "Mr. Khawaja Shamsul Islam, advocate for respondent",
+    "M/s. Omer Soomro and Danish Nayar, advocate for respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Criminal Transfer Application No. S-",
+  "case_number": "",
   "date_of_order": "12.02.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Ali Murtaza Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

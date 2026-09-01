@@ -9,9 +9,16 @@
   "case_number": "",
   "date_of_order": "11.02.2026",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 9"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Kalhoro",
+    "Syed Fiaz-ul-Hassan Shah",
+    "Mr. Naseer Nehal Hashmi",
+    "Mr. Ali Haider Salim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

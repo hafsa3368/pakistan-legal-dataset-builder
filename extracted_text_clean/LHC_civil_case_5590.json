@@ -8,10 +8,12 @@
   "num_chunks": 1,
   "case_number": "Criminal Bail Application No.D-06 of 2019",
   "date_of_order": "15.01.2019",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Nooreen Noor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

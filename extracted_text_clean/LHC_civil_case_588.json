@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "22.11.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498-A CrPC",
+    "Section 138 EP Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State of Punjab",
+    "M/s. Gurpreet Singh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

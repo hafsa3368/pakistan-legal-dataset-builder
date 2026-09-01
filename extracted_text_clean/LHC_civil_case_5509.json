@@ -6,10 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "constructing the wall was not",
+  "case_number": "",
   "date_of_order": "06.02.2019",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 302, 337-A",
+    "u/s 265-H",
+    "U/s 302",
+    "U/s 337-A",
+    "U/s 337-F",
+    "U/s 148 PPC",
+    "u/s 342 CrPC",
+    "u/s 149 PPC"
+  ],
   "citations": [
     "1990 SCMR 1272",
     "2007 SCMR 641",
@@ -22,7 +31,23 @@
     "1998 SCMR 1778",
     "PLD 2005 SC 484"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Appellant",
+    "Appellant",
+    "Appellant",
+    "Appellant",
+    "Appellant",
+    "Appellant",
+    "Appellant",
+    "Appellant",
+    "Appellant",
+    "Complainant",
+    "Applicant",
+    "Complainant",
+    "Appellant",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

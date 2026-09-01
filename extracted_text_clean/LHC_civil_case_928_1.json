@@ -8,10 +8,22 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "24.09.2020",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Rubina Hyder Naqvi",
+    "Syed Hyder Abbas Naqvi",
+    "Syed Mshooq Hussain Naqvi",
+    "Syed Muhammad Ammar Hyder Naqvi",
+    "Hoora Hyder Naqvi",
+    "Syed Muhammad Ali Abbas Naqvi",
+    "Aiman Hyder",
+    "Muhammad Ali Khan",
+    "Muhammad Baqar Kazim Khan",
+    "Ghulam Muhammad RAza",
+    "Shakeel Haider"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

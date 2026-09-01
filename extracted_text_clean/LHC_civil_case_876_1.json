@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "20.07.2022",
+  "judge": "Shahid Karim Khan Khawaja",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "Section 126 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pakistan",
+    "PTC",
+    "Pakistani citizen",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "17.12.2020",
-  "judge": "",
+  "judge": "Athar Zai",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Naila Baig",
+    "Mirza Nadeemullah Baig",
+    "NADRA",
+    "Liaquat National Hospital",
+    "Deputy Consul General",
+    "Khubaib Muhammad Samiullah Beg"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

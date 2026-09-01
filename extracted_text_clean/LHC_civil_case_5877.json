@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "15.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Public Health Engineering Department",
+    "Mr. Ali Murad Malano",
+    "Mr. Ali Raza Baloch",
+    "Assistant Advocate General Sindh",
+    "respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

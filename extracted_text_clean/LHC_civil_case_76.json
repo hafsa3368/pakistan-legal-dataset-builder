@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 22,
-  "case_number": "Constt. Petition No.D-",
+  "case_number": "",
   "date_of_order": "21.05.2024",
-  "judge": "",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 26 of the Sindh Civil Servants Act",
     "section 5 of Sindh Civil Servants Act"
@@ -17,7 +17,19 @@
     "1995 SCMR 362",
     "PLD 1995 SC 423"
   ],
-  "parties": [],
+  "parties": [
+    "Mehboob Ali Channa",
+    "Aamir Ali",
+    "Province of Sindh",
+    "Sindh",
+    "SSGC",
+    "Mr. Suhail Muhammad Leghari",
+    "Mr. Saifullah",
+    "Ms. Deeba Ali Jaffri",
+    "Mr. Abdul Sattar Pathan",
+    "Government of Sindh",
+    "Manzooran Gopang"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

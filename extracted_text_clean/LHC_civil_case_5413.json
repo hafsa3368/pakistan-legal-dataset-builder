@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "constitute a valid notification",
+  "case_number": "",
   "date_of_order": "21.05.2025",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Sections 7",
     "section 8",
@@ -27,7 +27,14 @@
     "PLD 2025 SC 339",
     "PLD 2023 SC 316"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners in C.P Nos.D-271/2020 & D-635/2024",
+    "Petitioners in C.P Nos.D-1547 & D-640/2020",
+    "Petitioners in C.P Nos.D-2221, D-426/2020, D-6598/2022 & D-2083/2023",
+    "Petitioners in C.P Nos.D-3929, D-4804, D-6843/2021 & D-5468/2022",
+    "Petitioners in C.P Nos.D-1154, D-1155, D-2188, D-5326, D-5798, D-625, D-626 & D-6667/2020",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

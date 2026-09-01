@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "14.05.2025",
-  "judge": "JUDGE Hafiz",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Ali Hussain",
+    "Mr. Zaeem Hyder",
+    "Syed Ahsan Ali Shah",
+    "Mr. Akhtar Hussain",
+    "respondent No.4&5",
+    "respondent No.7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

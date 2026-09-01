@@ -8,10 +8,19 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "02.12.2021",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nazir Ahmed",
+    "Province of Sindh & Ors",
+    "Allah Bachayo Soomro",
+    "Adnan-ul-Karim Memon",
+    "Dr. Muhammad Umar Jamali",
+    "Mr. A.G"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

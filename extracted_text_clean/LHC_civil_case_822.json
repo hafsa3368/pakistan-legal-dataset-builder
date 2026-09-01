@@ -36,7 +36,11 @@
     "PLD 1999 Karachi 336",
     "PLD 1992 SC 353"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Federal Investigation Agency",
+    "Special Court (Offences in respect of Banks), Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

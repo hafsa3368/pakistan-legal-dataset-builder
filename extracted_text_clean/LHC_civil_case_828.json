@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1036 of 2022",
   "date_of_order": "14.10.2022",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Highway Department",
+    "Complainant",
+    "Ms. Sana Memon",
+    "Mr. Hussain Bux Solangi",
+    "Applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

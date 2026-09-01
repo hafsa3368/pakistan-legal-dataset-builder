@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 55,
-  "case_number": "Civil Appeals Nos",
+  "case_number": "",
   "date_of_order": "15.03.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -36,7 +36,18 @@
     "2012 SCMR 455",
     "PLD 2016 SC 377"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Hassan and 40 others",
+    "Province of Sindh and 04 others",
+    "Zulfiqar Khushk and 04 others",
+    "Province of Sindh and 05 others",
+    "Ahmed Habib-ul-Islam",
+    "Government of Sindh and 03 others",
+    "Abdul Rauf and 03 others",
+    "Province of Sindh and another",
+    "Ghulam Murtaza and 05 others",
+    "the Province of Sindh and 02 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

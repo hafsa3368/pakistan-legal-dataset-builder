@@ -8,13 +8,16 @@
   "num_chunks": 1,
   "case_number": "Misc. Application No.S-364 of 2019",
   "date_of_order": "12.01.2019",
-  "judge": "Suleman Khan/PA",
+  "judge": "Suleman Khan",
   "sections_cited": [
     "section 249-A Cr.P.C",
     "section 265-K Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Achar Khan Gabole",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

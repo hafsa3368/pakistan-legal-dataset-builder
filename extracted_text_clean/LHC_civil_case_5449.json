@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "08.12.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sanam Khan",
+    "The State",
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Syed Fiaz ul Hassan Shah",
+    "Mr. Ali Haider Salim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

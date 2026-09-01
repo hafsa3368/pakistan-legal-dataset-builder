@@ -8,13 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.D-134 of 2021",
   "date_of_order": "07.09.2022",
-  "judge": "",
+  "judge": "AMJAD ALI SAHITO",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Allah Warrayo Jamali",
+    "The State",
+    "Mr. Shawak Rathore",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

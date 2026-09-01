@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "02.11.2021",
-  "judge": "JUDGE Abrar",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Arif",
+    "SBCA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

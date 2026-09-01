@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Constitution Petition No. D-7277 of 2021",
   "date_of_order": "08.05.2024",
-  "judge": "JUDGE Athar Zai",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 3 of the Act",
     "section 4",
@@ -18,7 +18,11 @@
   "citations": [
     "2013 SCMR 1707"
   ],
-  "parties": [],
+  "parties": [
+    "Sami uddin s/o Hameed uddin",
+    "Federation of Pakistan",
+    "Pakistan International Airline Company Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

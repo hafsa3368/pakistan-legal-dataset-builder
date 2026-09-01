@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Petition No.D-",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "case_number": "",
+  "date_of_order": "12.10.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rahmat Ali alias Raza Shaikh, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No. S-238 of 2023",
-  "date_of_order": "",
+  "date_of_order": "11.03.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Nadeem Hyder Shah",
+    "Mr. Sikandar Ali Siddiqui",
+    "Mr. Zulfiqar Ali Jatoi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

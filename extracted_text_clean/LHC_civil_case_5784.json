@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Bail Application No.S-",
+  "case_number": "",
   "date_of_order": "03.06.2023",
   "judge": "Ahmad",
   "sections_cited": [
@@ -15,7 +15,15 @@
   "citations": [
     "2023 SCMR 1243"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Anwar Ali Lohar",
+    "Mr. Nawab Ali Pitafi",
+    "Mr. Shafi Muhammad Mahar",
+    "Abdul Raza",
+    "Gul Muhammad",
+    "Faiz Muhammad Pitafi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1049 of 2022",
   "date_of_order": "29.08.2022",
-  "judge": "",
+  "judge": "Abdullah Channa",
   "sections_cited": [
     "section 337-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Idrees",
+    "Muhammad Iqbal Kalhoro",
+    "Waqas",
+    "Muhammad Idrees"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

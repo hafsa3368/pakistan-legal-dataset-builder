@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "17.08.2022",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Nadeem-ul.Haque",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Nazar Muhammad Memon",
+    "Mr. Shakeel Baig"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
