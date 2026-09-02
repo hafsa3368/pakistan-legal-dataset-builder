@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Misc. Application No. D",
+  "case_number": "",
   "date_of_order": "28.02.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -15,7 +15,13 @@
     "Section 561"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Mahar",
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Hadi Bux Bhatt",
+    "Mr. Habib-ur-Rehman Shaikh",
+    "Mr. Abdul Rehman Kolachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

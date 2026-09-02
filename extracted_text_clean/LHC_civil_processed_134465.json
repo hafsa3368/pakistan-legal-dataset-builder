@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Revision Application No. 34 of 2012",
   "date_of_order": "19.11.2018",
-  "judge": "",
+  "judge": "KHADIM HUSSAIN TUNIO",
   "sections_cited": [
     "Section 2 of Code",
     "section 151 CPC"
@@ -18,7 +18,13 @@
     "2014 SCMR 513",
     "PLD 2006 SC 602"
   ],
-  "parties": [],
+  "parties": [
+    "Hafeezullah Bux Chandio",
+    "Faiz Muhamamd",
+    "Ghulam Ali",
+    "Imam Bux",
+    "respondents No.1 & 2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,23 @@
   "num_chunks": 6,
   "case_number": "Civil Revision Appln.No.S-61 of 2011",
   "date_of_order": "15.10.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1999 CLC-200",
     "2008 SCMR-398"
   ],
-  "parties": [],
+  "parties": [
+    "Bachayo alias Allah Bachayo Jakhao",
+    "Abdullah son of Haji Mitho Jakhro",
+    "Habibullah (son)",
+    "Azizullah (son)",
+    "Mst.Ghulam Fatima (widow)",
+    "Mst.Husna (daughter)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

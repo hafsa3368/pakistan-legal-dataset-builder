@@ -33,7 +33,23 @@
     "PLD 2022 SC 488",
     "PLD 2022 SC 290"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "Pakistan Tahreek-e-Insaf",
+    "Supreme Court Bar Association of Pakistan",
+    "PTI",
+    "PPP",
+    "JUI(P)",
+    "PML(N)",
+    "BNP(M)",
+    "NA",
+    "PML",
+    "Balochistan",
+    "ICT",
+    "Khyber Pakhtunkhwa",
+    "Punjab",
+    "Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

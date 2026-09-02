@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Civil Revision Appln. No. S-",
+  "case_number": "",
   "date_of_order": "03.12.2018",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imtiaz Ahmed Bhatti",
+    "Mr. Ameer Ahmed Narejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

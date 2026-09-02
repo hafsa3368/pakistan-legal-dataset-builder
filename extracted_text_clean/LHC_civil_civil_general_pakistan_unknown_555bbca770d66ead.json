@@ -9,11 +9,25 @@
   "case_number": "Criminal Jail Appeal No ٥-13٥",
   "date_of_order": "",
   "judge": "Malik Shuhzad Ahmad Khan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 302 PPC",
+    "Section 144-A of the Criminal Procedure Code, 1898",
+    "Cr P C"
+  ],
   "citations": [
     "2019 SCMR 129"
   ],
-  "parties": [],
+  "parties": [
+    "Qurban Ali",
+    "Kamal Khan",
+    "Gul Muhammad Mugheri",
+    "Silaandur Ali Mugheri",
+    "Mat Zamiran",
+    "Baby Ramsha",
+    "Master Bilawal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

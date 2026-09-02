@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl.Misc.Appln.No.S-251 of 2018",
   "date_of_order": "17.12.2018",
-  "judge": "",
+  "judge": "Mohsin Ali Khan Pathan",
   "sections_cited": [
     "section 220, 452, 395, 147, 148, 149 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mohsin Ali Khan Pathan",
+    "Mr. Athar Abbas Solangi",
+    "Mr. Ali Anwar Kandhro",
+    "Khadim Hussain",
+    "Imdad Ali",
+    "Mukhtiar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

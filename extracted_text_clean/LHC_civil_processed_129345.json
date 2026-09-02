@@ -7,13 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "23-07-2018",
   "judge": "",
   "sections_cited": [
     "section 302, 324, 337H, 147, 148, 149"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. UbedullahG.Ghoto",
+    "Mr. Mir Afazal Hussain Talpur",
+    "Mr. Sudhamchand @ SudhamoKewalRamani",
+    "Noor Muhammad",
+    "State Versus Shabbir Chachar& Other",
+    "learned APG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

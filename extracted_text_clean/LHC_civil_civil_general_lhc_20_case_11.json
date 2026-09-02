@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "02.09.2013",
   "judge": "Aalia Neelum",
   "sections_cited": [
     "Section 561-A Cr.P.C",
@@ -21,7 +21,14 @@
   "citations": [
     "PLD 1971 SC 677"
   ],
-  "parties": [],
+  "parties": [
+    "Jahangir Cheema",
+    "Ms. Rabbiya Bajwa",
+    "Mr. Muhammad Maqsood ul Hassan",
+    "Mian Muhammad Mudassar Bodla",
+    "Faiz Ahmad",
+    "Respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

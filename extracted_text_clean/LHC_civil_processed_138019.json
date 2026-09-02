@@ -7,9 +7,12 @@
   "used_ocr": false,
   "num_chunks": 5,
   "case_number": "Constitution Petition No.D-318 of 2018",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "08-05-2019",
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2003 P.Cr.L.J 473",
     "2017 YLR 1111",
@@ -17,7 +20,18 @@
     "2000 P.Cr.L.J 1748",
     "2004 SCMR 229"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed Bhanbhro",
+    "Mr. Muhammad Zubair Rajpute, SPP NAB",
+    "Mr. Mehmood Khan Yousfi, DAG",
+    "The petitioner",
+    "The State",
+    "Noor Muhammad and others",
+    "Muhammad Qasim Lakho",
+    "Abdul Karim Malano",
+    "Abdul Waheed Shaikh",
+    "Noor Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

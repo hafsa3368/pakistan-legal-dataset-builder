@@ -8,12 +8,19 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.S-09 of 2018",
   "date_of_order": "05.11.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "u/s 342 Cr.PC"
+  ],
   "citations": [
     "2017 YLR-347"
   ],
-  "parties": [],
+  "parties": [
+    "Sada Bux s/o Wazir Ali",
+    "Ayaz Ali Kharos",
+    "Saddam Hussain",
+    "Gulzar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,8 +6,8 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 7,
-  "case_number": "Civil Appeal No ZlZL",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "22.06.2023",
   "judge": "Yahya Afridi Mr Justicc Sayyed",
   "sections_cited": [
     "Section 42 the Land Revenue Act"
@@ -15,7 +15,22 @@
   "citations": [
     "1992 CLC 235"
   ],
-  "parties": [],
+  "parties": [
+    "Rehmat Noor",
+    "Sh. Zamir Hussain",
+    "Syed Rifaqat Hussain Shah",
+    "Raja Nadeemn Haider",
+    "Haji Ghulam Raghol",
+    "Mat Manzoor",
+    "Abdul Arla I",
+    "Jaagat Khan",
+    "Tnhunnl",
+    "Dinputrs Dir Chitmal",
+    "Mnrdun",
+    "1993 C",
+    "R 1073",
+    "Gcncrally"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

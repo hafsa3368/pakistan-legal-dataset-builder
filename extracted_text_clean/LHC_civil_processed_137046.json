@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Acquittal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "15.03.2019",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 161 Cr.P.C"
   ],
@@ -16,7 +16,10 @@
     "1995 SCMR-127",
     "1996 SCMR 1553"
   ],
-  "parties": [],
+  "parties": [
+    "Mir Muhammad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

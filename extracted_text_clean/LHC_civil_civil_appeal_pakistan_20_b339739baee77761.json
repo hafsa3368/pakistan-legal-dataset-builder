@@ -8,10 +8,18 @@
   "num_chunks": 5,
   "case_number": "CIVIL PETITION NO.614-P OF 2022",
   "date_of_order": "03.04.2023",
-  "judge": "Judge Islamabad",
-  "sections_cited": [],
+  "judge": "MUHAMMAD ALI MAZHAR",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Government of Khyber Pakhtunkhwa",
+    "Shah Faisal Wahab and others",
+    "Mr. Sultan Mazhar Sher Khan",
+    "N.R."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

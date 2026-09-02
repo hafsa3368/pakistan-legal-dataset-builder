@@ -8,12 +8,19 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "06.01.2018",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 417 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Malhar",
+    "Bakir",
+    "Waryal Dass",
+    "Abdul Raheem",
+    "Mazari",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

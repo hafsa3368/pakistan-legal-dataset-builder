@@ -9,9 +9,17 @@
   "case_number": "Crl.Revision Appln.No.S-39 of 2017",
   "date_of_order": "20.12.2018",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 342 Cr.PC",
+    "u/s 489-F PPC",
+    "u/s 345 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed Abro",
+    "Mr. Habibullah Ghouri",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

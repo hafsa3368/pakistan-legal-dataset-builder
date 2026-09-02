@@ -8,8 +8,13 @@
   "num_chunks": 5,
   "case_number": "Civil Revision Appln.No.S-60 of 2011",
   "date_of_order": "29.11.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 498 CrPC",
+    "Section 11 CPC",
+    "Order VII rule 11 CPC"
+  ],
   "citations": [],
   "parties": [
     "Kazi Muhammad Akram "

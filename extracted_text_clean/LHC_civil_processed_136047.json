@@ -8,10 +8,19 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "12.02.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Fayaz Ahmed A. Soomro",
+    "Mian Mumtaz Rabbani",
+    "Agha Ather Hussain Pathan",
+    "Syed Habib Ahmed Alvi",
+    "Syed Aziz Ahmed Alvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

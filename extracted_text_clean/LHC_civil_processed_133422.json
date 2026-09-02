@@ -8,12 +8,22 @@
   "num_chunks": 3,
   "case_number": "Crl.Misc.Appln. No.S-117 of 2012",
   "date_of_order": "19.11.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 1444"
   ],
-  "parties": [],
+  "parties": [
+    "Mr.Ashfaque Hussain Abro",
+    "Mr.Asif Ali Abdul Razzak Soomro",
+    "Mr.Raja Imtiaz Ali Solangi",
+    "محمد رفيق ولد علي گوهر",
+    "محمد ايوب",
+    "عرضدار"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

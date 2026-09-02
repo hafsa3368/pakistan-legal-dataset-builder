@@ -8,14 +8,20 @@
   "num_chunks": 4,
   "case_number": "civil revision petition No.647-A/2009",
   "date_of_order": "03.03.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Miangul Hassan Aurangzeb",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1996 SCMR 1433",
     "2004 SCMR 1956",
     "PLD 2005 SC 470"
   ],
-  "parties": [],
+  "parties": [
+    "Zarin Khan",
+    "The Chairman, Evacuee Trust Property Board, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

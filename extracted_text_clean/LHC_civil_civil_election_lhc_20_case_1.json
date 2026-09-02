@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitution. The respondent was also not",
+  "case_number": "",
   "date_of_order": "14.04.2023",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -26,7 +26,17 @@
     "2018 SCMR 1276",
     "PLD 2017 Lahore 394"
   ],
-  "parties": [],
+  "parties": [
+    "Sheikh Muhammad Akram",
+    "Returning Officer PP-126 Jhang-III",
+    "State Bank of Pakistan",
+    "Election Commission of Pakistan",
+    "Muhammad Yaqoob Sheikh",
+    "Husnain Cotex Limited",
+    "Ibrahim (Pvt.) Limited",
+    "Kousar Yaqoob",
+    "Maulana Muhammad Ahmad Ludhianvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

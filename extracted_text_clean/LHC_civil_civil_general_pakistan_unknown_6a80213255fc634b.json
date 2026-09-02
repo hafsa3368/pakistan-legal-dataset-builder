@@ -8,14 +8,28 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No 563- of 2014",
   "date_of_order": "18.06.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irfan Saadat Khan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 CrPC",
+    "Section 302 of the PPC",
+    "Section 34/302 of the PPC"
+  ],
   "citations": [
     "2018 SCMR 1549",
     "2022 SCMR 393",
     "2024 SCMR 929"
   ],
-  "parties": [],
+  "parties": [
+    "Mushtaq Ahmad",
+    "The State",
+    "Mr Aftub Alam Yasir",
+    "Mirza Abid Majeed",
+    "Abdul Shukuur",
+    "Naair Mehmood",
+    "Iluahtug Ahneu",
+    "Fniz Muhummud"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Appeals No.1653",
   "date_of_order": "07.02.2024",
-  "judge": "",
+  "judge": "Yahya Afridi",
   "sections_cited": [
     "Section 54 of the Land Acquisition Act",
     "Section 6 of the Act",
@@ -25,7 +25,12 @@
     "2015 SCMR 28",
     "PLD 2016 SC 514"
   ],
-  "parties": [],
+  "parties": [
+    "B.P. Pakistan Exploration and Production, Inc.",
+    "Ashique Hussain Halepoto and others",
+    "Muhammad Halepoto and others",
+    "Zulfiqar Ali Shah and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

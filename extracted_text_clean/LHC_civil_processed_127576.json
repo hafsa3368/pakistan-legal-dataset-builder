@@ -8,7 +8,7 @@
   "num_chunks": 22,
   "case_number": "Criminal Appeal No.258/2012",
   "date_of_order": "26.04.2018",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI,",
   "sections_cited": [
     "Section 374",
     "sections 342",
@@ -31,7 +31,11 @@
     "1995 MLD 1407",
     "2011 MLD 524"
   ],
-  "parties": [],
+  "parties": [
+    "Bux Ali alias Dodo",
+    "Wali Muhammad",
+    "Shahzado Salim Nahyoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

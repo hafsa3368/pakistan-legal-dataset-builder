@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. Appln. No.S-",
+  "case_number": "",
   "date_of_order": "04.03.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 420, 406 and 147 PPC",
+    "U/s 561-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rehman Kolachi, DPG for State",
+    "Mr. Shahid Ali K.Memon Advocate for the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

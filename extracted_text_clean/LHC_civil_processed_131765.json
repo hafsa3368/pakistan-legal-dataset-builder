@@ -7,7 +7,7 @@
   "used_ocr": true,
   "num_chunks": 6,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "27.03.2017",
   "judge": "",
   "sections_cited": [
     "Section 21 of Ihe Sindh Renited Prernises Ordinance"
@@ -18,7 +18,17 @@
     "2015 CLC 663",
     "PLD 1993 SC 21"
   ],
-  "parties": [],
+  "parties": [
+    "Muslimn aduli, hy caste Rajput",
+    "Pruvinee of Sindh",
+    "Beshum Lal",
+    "Haji Ahmed Bux Ro",
+    "Noor Masjid Ghutki",
+    "Market Committee Ghotki",
+    "Muntamam Madersa Anwaarul Islam Ghousia Fareesya",
+    "Restaurant Manager ( Respondent No 2 )",
+    "Madarsa Anwarul Islam Ghousia Faridia ( Regd)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

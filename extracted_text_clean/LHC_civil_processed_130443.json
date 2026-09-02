@@ -8,14 +8,18 @@
   "num_chunks": 5,
   "case_number": "Criminal Acquittal Appeal No.S-64 of 2017",
   "date_of_order": "31.08.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 342 Cr.PC"
   ],
   "citations": [
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Sobhraj s/o Lachman Dass",
+    "The State through Mr.Raja Imtiaz Ali Solangi",
+    "Abid Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

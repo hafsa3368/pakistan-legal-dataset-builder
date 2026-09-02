@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition No. D-",
+  "case_number": "",
   "date_of_order": "09.10.2018",
   "judge": "",
   "sections_cited": [
@@ -17,7 +17,10 @@
     "Section 145 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State Respondent No.1",
+    "petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

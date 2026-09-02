@@ -9,9 +9,15 @@
   "case_number": "Civil Petition No.354-P of 2025",
   "date_of_order": "30.06.2025",
   "judge": "Yahya Afridi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saleh Muhammad and another",
+    "Mst. Mehnaz Begum and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

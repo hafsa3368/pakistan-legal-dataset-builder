@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "CIVIL APPEAL NO.389 OF 2015",
   "date_of_order": "14.10.2021",
-  "judge": "",
+  "judge": "MUHAMMAD ALI MAZHAR",
   "sections_cited": [
     "Section 27",
     "Section 3",
@@ -20,7 +20,10 @@
     "PLD 2011 SC 296",
     "PLD 1969 SC 617"
   ],
-  "parties": [],
+  "parties": [
+    "Bahar Shah and others",
+    "Manzoor Ahmad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

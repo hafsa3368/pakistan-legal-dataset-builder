@@ -8,12 +8,18 @@
   "num_chunks": 6,
   "case_number": "W.P. No.6921-P of 2019",
   "date_of_order": "17.02.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MIANGUL HASSAN AURANGZEB",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 1970 SC 391"
   ],
-  "parties": [],
+  "parties": [
+    "Murad Khan",
+    "Mst. Humaira Qayyum"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

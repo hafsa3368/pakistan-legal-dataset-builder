@@ -7,11 +7,18 @@
   "used_ocr": true,
   "num_chunks": 6,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "31.01.2022",
   "judge": "Irfan Saadat Khan Clvll Peito",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mat Humaira Wazir",
+    "Muhammud Fuisal",
+    "Ijaz Ahmcd Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

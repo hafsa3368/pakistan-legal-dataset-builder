@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "Crl. Anti-Terrorism Jail Appeal No.189 of 2017",
   "date_of_order": "07.03.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Sections 384, 386, 506-B & 34",
     "Section 7",
@@ -26,7 +26,10 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "Shahzad Ahmed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

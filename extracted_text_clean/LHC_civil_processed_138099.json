@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Jail Appeal No.S-",
+  "case_number": "",
   "date_of_order": "10-05-2019",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 382-B Cr.PC",
     "section 164 CrPC"
@@ -16,7 +16,19 @@
   "citations": [
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleh son of Ghazi Khan bycaste Chang",
+    "The State",
+    "Muhammad Ali",
+    "Mehboob Ali",
+    "Dadan",
+    "Mashir Abid Ali",
+    "Dr. Jameela Illahi WMO",
+    "Ehsan Ali",
+    "Asghar Ali Chang",
+    "PC Muhammad Khan",
+    "Tapedar Muhammad Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

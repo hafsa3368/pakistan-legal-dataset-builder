@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Civil Revision No. 19028 of 2026",
   "date_of_order": "31.03.2026",
-  "judge": "",
+  "judge": "Rana Farhat Abbas",
   "sections_cited": [
     "section 5 of the Limitation Act",
     "Section 5 of the Limitation Act",
@@ -22,7 +22,10 @@
     "PLD 2025 SC 371",
     "PLD 2008 SC 462"
   ],
-  "parties": [],
+  "parties": [
+    "Ghazanfar Ali",
+    "Mst. Noor Fatima"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

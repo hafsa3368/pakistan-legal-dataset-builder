@@ -8,8 +8,11 @@
   "num_chunks": 7,
   "case_number": "CIVIL PETITION NO.990 OF 2022",
   "date_of_order": "24.06.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "SHAHID BILAL HASSAN",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 1986",
     "2025 SCMR 955",
@@ -27,7 +30,10 @@
     "2021 SCMR 73",
     "2021 SCMR 179"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Majeed and others",
+    "Mst. Khalida Bibi (deceased) through L.Rs. and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "Constitutional jurisdiction is not",
+  "case_number": "",
   "date_of_order": "01.10.2018",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 5 Act",
     "Section 403 Cr.P.C",
@@ -29,7 +29,10 @@
     "PLD 1996 SC 543",
     "PLD 2012 SC 179"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "MAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,18 @@
   "case_number": "Crl.Misc.A.No.S-254 of 2018",
   "date_of_order": "30.11.2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "u/s 22-A & B Cr.PC",
+    "u/s 561-A Cr.PC",
+    "PLD 2016 SC-581"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Habibullah Ghouri",
+    "M/S. Muhammad Hashim Soomro and Mumtaz Ali Bughio",
+    "Mr. Sharafuddin Kanhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

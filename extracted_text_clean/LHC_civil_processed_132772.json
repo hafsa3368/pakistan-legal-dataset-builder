@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Misc. Application No.S-",
+  "case_number": "",
   "date_of_order": "29.10.2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Habibullah Ghouri",
+    "Mr. Raja Imtiaz Ali Solangi",
+    "None"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

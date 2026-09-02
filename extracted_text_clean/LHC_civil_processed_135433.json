@@ -8,12 +8,15 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "21.01.2019",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 377-B PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Alam Sher Bozdar and Ali Asghar Panhiyar",
+    "Syed Sardar Ali Shah Rizvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "",
   "date_of_order": "19.03.2018",
-  "judge": "JUDGE Shahid",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 9",
     "Section 382-B Cr.P.C",
@@ -22,7 +22,10 @@
     "2016 SCMR 267",
     "2017 SCMR 148"
   ],
-  "parties": [],
+  "parties": [
+    "Hussain Ali Sahibzado",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

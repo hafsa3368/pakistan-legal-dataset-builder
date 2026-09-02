@@ -8,13 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No.S-100 of 2012",
   "date_of_order": "22.10.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 34 PPC",
     "Section 544-A Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Abbas son of Sadoro Mahar",
+    "Haji Behram",
+    "Gul Muhammad",
+    "the legal heirs of Toufique Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

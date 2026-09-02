@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Civil Revision.Appln.No.S-41 of 2011",
   "date_of_order": "21.12.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Ghaffar Shaikh",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Ghaffar Shaikh",
+    "Mr. Abdul Rehman Bhutto",
+    "Mr. Abid Hussain Qadri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

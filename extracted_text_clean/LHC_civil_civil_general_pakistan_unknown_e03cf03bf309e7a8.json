@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 9,
-  "case_number": "criminal and ٦ر ٧ Civl Petinors",
+  "case_number": "",
   "date_of_order": "30.09.2020",
   "judge": "Sayyed Mazahar Ali Akbar Naqvi",
   "sections_cited": [
@@ -16,7 +16,21 @@
   "citations": [
     "2011 SCMR 534"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Farhan Naznr",
+    "Manzar Abbas",
+    "Mr Muhammnud Shuaib Shahetn A8C",
+    "Mr Muhammnud Shuaib Shahetn A8C",
+    "BarrisUcI MuhaImad Mumtaz Ali",
+    "Rnut Ahmad DSP",
+    "Farhan Naiar",
+    "Abdul Khaliq",
+    "Abdul Ruziq",
+    "Abdul Khaliq",
+    "Muhammad Shuaib Shahetn A8C",
+    "Muhammad Shuaib Shahetn A8C"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

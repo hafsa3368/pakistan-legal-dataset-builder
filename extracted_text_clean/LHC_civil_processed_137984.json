@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Jail Appeal No. S",
+  "case_number": "",
   "date_of_order": "06-05-2019",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 34 PPC",
     "Section 382-B Cr.P.C",
@@ -20,7 +20,12 @@
     "2018 SCMR 506",
     "2008 SCMR 1572"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Gul son of Atta Muhammad bycaste Mirbahar",
+    "The State",
+    "Bashir Ahmed",
+    "Rozina"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

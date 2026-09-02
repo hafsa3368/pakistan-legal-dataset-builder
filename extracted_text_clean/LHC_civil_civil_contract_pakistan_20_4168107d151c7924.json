@@ -8,13 +8,16 @@
   "num_chunks": 8,
   "case_number": "CIVIL APPEAL NO. 401 OF 2011",
   "date_of_order": "24.5.2018",
-  "judge": "",
+  "judge": "Munib Akhtar",
   "sections_cited": [
     "Section 58",
     "Section 2"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Sadiq and others",
+    "Muhammad Mansha and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

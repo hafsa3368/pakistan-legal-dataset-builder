@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. Appln. No. S",
+  "case_number": "",
   "date_of_order": "12.04.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 23(a) of Sindh Arms Act, 2013"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Wahab Shaikh",
+    "Mr. Abdul Rehman Kolachi",
+    "State",
+    "the applicant",
+    "the surety",
+    "the accused"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,21 @@
   "num_chunks": 4,
   "case_number": "Civil Petition No.3234/2018",
   "date_of_order": "06.11.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2000 SCMR-1969"
   ],
-  "parties": [],
+  "parties": [
+    "Mr.Abdul Rehman Bhutto",
+    "Mr.Abdul Rasheed Abro",
+    "Election Commission of Pakistan",
+    "Pakistan Muslim League",
+    "Shahid Orakzai",
+    "Pakistan Muslm League"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

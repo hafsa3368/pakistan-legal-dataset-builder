@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "civil suit does not",
+  "case_number": "",
   "date_of_order": "21.02.2014",
   "judge": "Aalia Neelum",
   "sections_cited": [
@@ -19,7 +19,13 @@
     "2006 SCMR 1192",
     "PLD 2007 SC 539"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Kausar Parveen",
+    "Mr. Muhammad Siddique Bhatti",
+    "Mr. Ashfaq Ahmad Kharal",
+    "Arshad Ali",
+    "Sardar Zulfiqar Umar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

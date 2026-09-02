@@ -9,11 +9,20 @@
   "case_number": "Civil Petitions No. 2915-L",
   "date_of_order": "24.06.2025",
   "judge": "Yahya Afridi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2024 SCMR 1385"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner(s)",
+    "Administrator Auqaf Department, Bahawalpur, etc.",
+    "For the Petitioner(s): Rana Shamshad Khan, Additional Advocate-General, Punjab along with Nabeel Javed, SMBR.",
+    "For the Respondent No.1: M. Usman Arif, ASC.",
+    "For the Respondent Nos.2, 3(b), 6-12, 14, 16-20, 24, 25 & 27.: Mr. Salman Mansoor, ASC."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "08.04.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 342 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rehman Kolachi",
+    "Mr. Shahid Hussain Gopang",
+    "State",
+    "Ghous Bux",
+    "Makoro",
+    "Pervaiz",
+    "Mujahid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

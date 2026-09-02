@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "19.04.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 526 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Ali Shah",
+    "DPG for the State",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

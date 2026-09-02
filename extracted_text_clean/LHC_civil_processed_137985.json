@@ -6,14 +6,26 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Misc. Application No.S-",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "06-05-2019",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 561-A Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Alam Sher Bozdar",
+    "Mr. Ali Ahmed Vistro",
+    "Mr. Syed Sardar Ali Shah Rizvi",
+    "Mst. Haidan",
+    "Gul Badshah",
+    "Mst. Shabana",
+    "State",
+    "PS Pirabad",
+    "Police Station Bhiria City",
+    "SSP Nausherho Feroze",
+    "SHO Ihsan Buledi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

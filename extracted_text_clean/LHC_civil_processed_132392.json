@@ -8,8 +8,11 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-308 of 2018",
   "date_of_order": "11.10.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2011 SCMR-606",
     "1972 SCMR-682",

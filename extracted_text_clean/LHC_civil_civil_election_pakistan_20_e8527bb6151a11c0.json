@@ -8,7 +8,7 @@
   "num_chunks": 33,
   "case_number": "CONSTITUTION PETITION NO.5 OF 2023",
   "date_of_order": "27.03.2023",
-  "judge": "Judge Judge Islamabad",
+  "judge": "Munib Akhtar",
   "sections_cited": [
     "section 57"
   ],
@@ -18,7 +18,10 @@
     "PLD 2010 Lah 1",
     "PLD 2010 Lah 138"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammad Sibtain Khan and others",
+    "Election Commission of Pakistan through Chief Election Commissioner, Islamabad and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

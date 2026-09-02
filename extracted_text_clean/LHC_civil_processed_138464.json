@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Crl.J. Appeal No. D",
+  "case_number": "",
   "date_of_order": "28-05-2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -22,7 +22,13 @@
     "2000 SCMR-338",
     "2014 SCMR-1034"
   ],
-  "parties": [],
+  "parties": [
+    "Yaseen son of Dur Muhammad Chandio",
+    "The State",
+    "The State",
+    "Haji Allah Bux",
+    "Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

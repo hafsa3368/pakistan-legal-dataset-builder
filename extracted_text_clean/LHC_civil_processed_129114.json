@@ -6,16 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl.Misc.Appln.No. S-",
+  "case_number": "",
   "date_of_order": "27.07.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 365-B, 364, 506/2, 337-H",
     "Section 173 Cr.PC",
     "section 154 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rafique Ahmed Abro",
+    "Abid Abdul Qadir Abro",
+    "Muhammad Qasim Solangi",
+    "Raja Imtiaz Ali Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

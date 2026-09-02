@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Crl. Anti-Terrorism Appeal No.176 of 2017",
   "date_of_order": "20.02.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 353, 324 & 34",
     "Section 7",
@@ -24,7 +24,10 @@
   "citations": [
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sami",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

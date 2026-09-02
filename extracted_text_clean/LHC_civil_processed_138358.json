@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Crl. Jail Appeal No.D-",
+  "case_number": "",
   "date_of_order": "21-05-2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -22,7 +22,15 @@
   "citations": [
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Ranjhan alias Ranjho",
+    "Mehdi Dino",
+    "Kashmir alias Kashoo",
+    "Muhammad Bachal Larik",
+    "Manzoor Hussain Larik",
+    "Aftab Ahmed Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

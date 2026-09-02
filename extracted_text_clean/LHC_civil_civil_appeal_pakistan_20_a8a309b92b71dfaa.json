@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "W.P.Nos",
+  "case_number": "",
   "date_of_order": "20.02.2026",
-  "judge": "",
+  "judge": "SHAHID BILAL HASSAN",
   "sections_cited": [
     "Section 15 of the Punjab Rented Premises Act"
   ],
@@ -29,7 +29,13 @@
     "1999 SCMR 1334",
     "1999 SCMR 841"
   ],
-  "parties": [],
+  "parties": [
+    "Faisal Paracha",
+    "Khawar Yasin Paracha",
+    "Additional District Judge etc.",
+    "Ehtasham Sheikh",
+    "other"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

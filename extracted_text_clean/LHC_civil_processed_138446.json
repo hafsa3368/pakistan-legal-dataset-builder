@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Appeal No.S-",
+  "case_number": "",
   "date_of_order": "27-05-2019",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 24 of Sindh Arms Act",
     "Section 382",
@@ -19,7 +19,24 @@
     "2011 P Cr. L J 344",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Ayaz Ali Solangi",
+    "The State",
+    "Ayaz Ali Solangi",
+    "The State",
+    "Ayaz Ali Solangi",
+    "The State",
+    "Ayaz Ali Solangi",
+    "The State",
+    "Ayaz Ali Solangi",
+    "The State",
+    "Ayaz Ali Solangi",
+    "The State",
+    "Ayaz Ali Solangi",
+    "The State",
+    "Ayaz Ali Solangi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

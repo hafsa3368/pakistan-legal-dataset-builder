@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Cr.A.No.D-45/2018",
   "date_of_order": "10-05-2018",
-  "judge": "JUDGE Rafi",
+  "judge": "Abdul Rasool Memon",
   "sections_cited": [
     "Section 33-E of National Accountability Ordinance",
     "Section 342 Cr.PC"
@@ -17,7 +17,16 @@
     "1999 SCMR 2589",
     "2008 SCMR 1439"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar Sangi",
+    "Muzamil Hussain Channa",
+    "Abdul Bari Mangi",
+    "Abdul Hafeez Dharejo",
+    "Syed Lal Shah",
+    "National Bank of Pakistan",
+    "Government Ex-chequer",
+    "NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

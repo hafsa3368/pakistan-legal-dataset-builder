@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Misc.Application No.S-250 of 2017",
   "date_of_order": "08.10.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 42 of the Specific Relief Act",
     "section 9 of the Civil Procedure Code"
@@ -16,7 +16,16 @@
   "citations": [
     "2018 SCMR 1444"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Ahad",
+    "Abdul Salam",
+    "Abdul Hafeez",
+    "The State",
+    "Haji Muhammad Siddique Soomro",
+    "The State",
+    "Federation of Pakistan",
+    "Searle IV Solution (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

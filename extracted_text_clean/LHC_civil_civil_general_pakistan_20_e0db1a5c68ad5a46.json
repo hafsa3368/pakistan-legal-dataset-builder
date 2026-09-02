@@ -9,11 +9,22 @@
   "case_number": "Civil Petition No.397-K of 2002",
   "date_of_order": "15.03.2023",
   "judge": "Shahid Waheed",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2022 SC 306"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Qazi Faez Isa",
+    "Mr. Justice Amin-ud-Din Khan",
+    "Mr. Justice Shahid Waheed",
+    "Mr. Afnan Karim Kundi",
+    "Mr. Shehzad Atta Elahi",
+    "Raja Muhammad Shafqat Abbasi",
+    "Malik Naeem Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

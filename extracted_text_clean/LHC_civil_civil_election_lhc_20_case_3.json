@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "22.03.2023",
-  "judge": "Approved For Reporting JUDGE Arsalan",
+  "judge": "Faraz Ahmed Khan",
   "sections_cited": [
     "Section 63 of the Elections Act",
     "Section 62",
@@ -21,7 +21,14 @@
     "2006 YLR 1963",
     "PLD 1999 Quetta 78"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal",
+    "Returning Officer, PP-85 Essa Khail",
+    "Mr. Muhammad Karim",
+    "Mr. Imran Arif Ranjha",
+    "Hafiz Adeel Ashraf",
+    "ECP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

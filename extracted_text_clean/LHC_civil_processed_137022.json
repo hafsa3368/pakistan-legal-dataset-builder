@@ -8,12 +8,18 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "18.03.2019",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 203"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabir Ali Bozdar",
+    "Mr. Rab Dino Makwal",
+    "Mr. Zulfiqar Ali Jatoi",
+    "Irshad Ali Shah",
+    "Ghulam Shabir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

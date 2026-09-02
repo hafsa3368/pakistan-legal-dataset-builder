@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Jail Appeal No.S-19 of 2013",
   "date_of_order": "20.12.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382-B Cr.PC",
     "Section 34 PPC"
@@ -29,7 +29,10 @@
     "2018 SCMR-354",
     "2007 SCMR-1519"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Kambeer s/o Bashir Ahmed Lashari",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

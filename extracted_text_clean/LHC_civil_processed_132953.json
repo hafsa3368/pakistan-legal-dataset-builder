@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-400 of 2018",
   "date_of_order": "02.11.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gulsher s/o Waryam Khan Jatoi",
+    "Imran @ Imdad s/o Waryam Khan Jatoi",
+    "Mst.Akbar Khatoon",
+    "Mst.Shaheena",
+    "State",
+    "Mr.Ahsan Ahmed Qureshi",
+    "Mr.Raja Imtiaz Ali Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

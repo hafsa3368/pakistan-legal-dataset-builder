@@ -8,12 +8,18 @@
   "num_chunks": 4,
   "case_number": "Criminal Fetirion No 146",
   "date_of_order": "22.01.2025",
-  "judge": "",
+  "judge": "Muhammad Hashim Iqbal",
   "sections_cited": [
     "section 1U3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Abid Husaain",
+    "Syed Kifaqat Husaain Shah",
+    "Rai Akhtar Hussain",
+    "Muhammad Haahim Fhan Kakar",
+    "police"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

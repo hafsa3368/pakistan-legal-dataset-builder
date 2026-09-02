@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-502 of 2018",
   "date_of_order": "31.10.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 498-A Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Nawaz",
+    "Saddam Hussain",
+    "Bakhat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

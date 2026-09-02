@@ -7,14 +7,27 @@
   "used_ocr": true,
   "num_chunks": 13,
   "case_number": "Criminal Appeal No.30",
-  "date_of_order": "",
+  "date_of_order": "11.05.2023",
   "judge": "Athar Minallah",
   "sections_cited": [
     "section 265",
     "section 544-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr Justice Athar Minallah",
+    "Mr Justice Irfan Saadat Khan",
+    "Mr Justice Malik Shahzad Ahmad Khan",
+    "Rajcuh alias Rajoo",
+    "The State",
+    "Anna /80",
+    "Rahat Ehaan",
+    "Premchand",
+    "Rajeth alias Rajoo",
+    "Radha",
+    "Police",
+    "Hospital"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

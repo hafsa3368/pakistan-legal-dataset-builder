@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Criminal appeal No.D-118 of 2011",
   "date_of_order": "10.07.2018",
-  "judge": "JUDGE Ihsan",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 365-A PPC",
     "Section 7",
@@ -18,7 +18,24 @@
     "Section 164 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Soobothrough Mr. Abdul Rehman Faruq Pirzada",
+    "Imran alias Irfan through Mr. Rukhsar Ahmed Junejo",
+    "Soobro S/o Gul Mohammad Chachar",
+    "Sajid son Ghulam Ali",
+    "Aslam S/o Umer Hayat",
+    "Imran alias Irfan son of Mohammad Sikandar Khan",
+    "Sajid son Ghulam Ali",
+    "The State",
+    "Soobothrough Mr. Abdul Rehman Faruq Pirzada",
+    "Imran alias Irfan through Mr. Rukhsar Ahmed Junejo",
+    "Soobro S/o Gul Mohammad Chachar",
+    "Sajid son Ghulam Ali",
+    "Aslam S/o Umer Hayat",
+    "Imran alias Irfan son of Mohammad Sikandar Khan",
+    "Sajid son Ghulam Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

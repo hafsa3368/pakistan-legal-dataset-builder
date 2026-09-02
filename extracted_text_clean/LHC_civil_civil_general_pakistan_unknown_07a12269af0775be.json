@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 10,
-  "case_number": "Criminal Aلسععع Noش23",
+  "case_number": "",
   "date_of_order": "22.01.2015",
   "judge": "Jamta Khan Manchokha Sdy",
   "sections_cited": [
@@ -19,7 +19,18 @@
   "citations": [
     "1992 SCMR 1"
   ],
-  "parties": [],
+  "parties": [
+    "Rehmatullah",
+    "Nasccr Ahmnad",
+    "Muhammad Younas",
+    "The State",
+    "Mr Gohar Vaquob Yousafiai AOR Inanuallah",
+    "The State",
+    "Ameer Hoen74 Mengal",
+    "Balochstan",
+    "Mr. Gohar Vaquob Yousafiai AOR Inanuallah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

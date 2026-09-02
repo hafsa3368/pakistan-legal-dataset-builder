@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "02.05.2018",
-  "judge": "JUDGE Rafi",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 420, 406, 489-F, 506/2, 468, 471 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabir Ali Bozdar",
+    "Mr. Agha Athar Hussain Pathan",
+    "the petitioner",
+    "SSP Nousheroferoz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Criminal Acquittal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "11.03.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "u/s 342",
+    "u/s 302"
+  ],
   "citations": [
     "1991 SCMR 94",
     "2006 P.Cr.LJ 390",
@@ -19,7 +22,20 @@
     "2006 MLD 823",
     "PLD 2008 Karachi 305"
   ],
-  "parties": [],
+  "parties": [
+    "Hafiz Waheedullah",
+    "Mst. Rukhsana",
+    "Muhammad Anwer",
+    "Akber Hussain",
+    "Kazim Ali",
+    "Hira Public School Sukkur",
+    "The State",
+    "ASP (City) Sukkur",
+    "Manager MCB Sukkur",
+    "Commissioner Income Tax",
+    "Bank",
+    "MCB Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

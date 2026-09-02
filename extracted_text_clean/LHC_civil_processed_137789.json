@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Criminal Jail Appeal No. D",
+  "case_number": "",
   "date_of_order": "24.04.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -25,7 +25,12 @@
     "1995 SCMR-127",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Nawaz alias Nazoo",
+    "Allah Bux alias Aloo",
+    "The State",
+    "Sawan's legal heirs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

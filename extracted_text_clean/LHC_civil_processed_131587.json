@@ -8,12 +8,21 @@
   "num_chunks": 4,
   "case_number": "Criminal Acquittal Appeal No.S-20 of 2016",
   "date_of_order": "26.09.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Mukhtiar Ali s/o Rasool Bux Landar",
+    "Mr. Sharafuddin Kanhar",
+    "Mr. Habibullah Ghouri",
+    "K.N. Shah",
+    "private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

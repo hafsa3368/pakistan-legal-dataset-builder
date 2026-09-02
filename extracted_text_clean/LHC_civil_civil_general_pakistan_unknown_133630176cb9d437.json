@@ -9,9 +9,20 @@
   "case_number": "civil petition be maintainable No 1ss٧e",
   "date_of_order": "31.10.2025",
   "judge": "Musarrat Sifafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Government of Khyber Pakhtunkhwa",
+    "Khuber Pakhtunkhwa through PEttoneIS the Chief Secretary and the Ombudspersun Khyber Fakhtunkhwa",
+    "Shabeer Khun and others",
+    "Mr Taimoor Haider, Additional Advocate General Khyber Pakhtunkhwa",
+    "Mr Faroun Mnlik, A8C",
+    "Mr Abdul Hafecz, ASC Research Assistance",
+    "Mr Salfullah Khan, Rcscurch Ufficcr"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

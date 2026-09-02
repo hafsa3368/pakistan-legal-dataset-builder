@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Appeal No. D",
+  "case_number": "",
   "date_of_order": "23.04.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -19,7 +19,11 @@
   "citations": [
     "1970 PCr.LJ-746"
   ],
-  "parties": [],
+  "parties": [
+    "Sibghatullah Chachar",
+    "The State",
+    "Hafiz Ghulam Rasool Chachar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

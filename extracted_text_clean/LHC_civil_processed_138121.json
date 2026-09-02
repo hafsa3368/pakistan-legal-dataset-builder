@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. Application No.S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "13-05-2019",
   "judge": "Peace Sukkur",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 561-A Cr.PC",
+    "u/s 22-A",
+    "u/s 154 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mian Mumtaz Rabbani",
+    "Mr. Shafi Muhammad Mahar",
+    "Irshad Ali Shah",
+    "The facts in brief necessary for disposal of instant application u/s 561-A Cr.PC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

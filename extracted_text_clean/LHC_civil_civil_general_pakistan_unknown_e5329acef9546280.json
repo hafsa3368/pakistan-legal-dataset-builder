@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 6,
-  "case_number": "civil ٧F٧ BcvUrl decudcs passtd was not",
+  "case_number": "",
   "date_of_order": "17.02.2017",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IJAZ UL AHBAN",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Salah ud Din and others",
+    "Govt of Punjab through Disurtitt Officer Icrpundanta Revenue Jhang and others",
+    "Mr, Muhumad Munir Parucha ASC Iehmood Sheikh",
+    "For Respondents Malik Asif Taufceq Addl AG, Punjab",
+    "Hftah Alam Yasir, HSC",
+    "Ch Haieez Ullah Yaqoob, ASC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

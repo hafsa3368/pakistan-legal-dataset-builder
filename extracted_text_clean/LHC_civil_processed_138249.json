@@ -7,14 +7,23 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "20-05-2019",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 498-A Cr.PC",
     "section 497 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mansoor Hussain Maitlo",
+    "Sher Muhammad",
+    "Mr. Syed Sardar Ali Shah Rizvi",
+    "Irshad Ali Shah",
+    "Mst. Rasheeda",
+    "Khan Muhammad",
+    "Mehboob Ali",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

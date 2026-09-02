@@ -6,8 +6,8 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "criminal case can be changed. There is no other",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "31.5.2013",
   "judge": "AALIA NEELUM",
   "sections_cited": [
     "sections 302/34 PPC",
@@ -21,7 +21,15 @@
   "citations": [
     "PLD 2005 Lahore 470"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Aslam Hayat",
+    "Syed Farhad Ali Shah",
+    "Mr. Rafique Javed Butt",
+    "Malik Abdul Aziz Awan",
+    "Manzoor Beg",
+    "Aalia Neelum",
+    "Ihtesham Shahzad Butt"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

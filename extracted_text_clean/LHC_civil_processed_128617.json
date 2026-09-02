@@ -8,10 +8,18 @@
   "num_chunks": 4,
   "case_number": "Criminal Acquittal Appeal No.S-36 of 2018",
   "date_of_order": "09.07.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 342 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jan Muhammad",
+    "Mr.Raja Imtiaz Ali Solangi",
+    "Saadullah",
+    "Ali Asghar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

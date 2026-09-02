@@ -8,7 +8,7 @@
   "num_chunks": 17,
   "case_number": "CIVIL APPEALS NO.39-K",
   "date_of_order": "15.02.2022",
-  "judge": "",
+  "judge": "MUHAMMAD ALI MAZHAR",
   "sections_cited": [
     "Section 44",
     "Section 3 of the Limitation Act",
@@ -26,7 +26,10 @@
     "2008 SCMR 1639",
     "PLD 2011 SC 241"
   ],
-  "parties": [],
+  "parties": [
+    "Khudadad",
+    "Syed Ghazanfar Ali Shah @ S. Inaam Hussain and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

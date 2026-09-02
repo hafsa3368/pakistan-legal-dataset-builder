@@ -8,12 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "27.02.2019",
-  "judge": "JUDGE Shahid",
+  "judge": "",
   "sections_cited": [
     "Sections 302 & 34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Appellants",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

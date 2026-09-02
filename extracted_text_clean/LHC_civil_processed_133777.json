@@ -6,14 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Acquittal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "29.11.2018",
   "judge": "",
   "sections_cited": [
     "Section 5"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Shoaib Shaikh, Advocate for Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

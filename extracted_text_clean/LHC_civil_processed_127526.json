@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "20.04.2018",
-  "judge": "",
+  "judge": "Alam Sher Bozdar",
   "sections_cited": [
     "Section 322 PPC",
     "section 322 PPC",
@@ -22,7 +22,12 @@
     "2005 P.Cr. L J 1648",
     "2011 SCMR 1227"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Waheed",
+    "Alam Sher Bozdar",
+    "Abdul Wahab Bhutto",
+    "Sardar Ali Shah Rizvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

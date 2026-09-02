@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "",
   "date_of_order": "07.05.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 376 PPC"
   ],
@@ -29,7 +29,10 @@
     "2015 SCMR 840",
     "2016 SCMR 1763"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Shabir Ali Bozdar",
+    "Mr. Sardar Ali Shah Rizvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

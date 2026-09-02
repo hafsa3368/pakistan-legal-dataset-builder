@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Bail Application No.S-280/2017",
-  "date_of_order": "",
+  "date_of_order": "30.07.2018",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Qadir and Pir Bux",
+    "Riaz Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

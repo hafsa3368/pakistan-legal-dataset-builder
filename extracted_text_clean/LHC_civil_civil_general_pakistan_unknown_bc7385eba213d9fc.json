@@ -7,11 +7,33 @@
   "used_ocr": true,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "02.04.2025",
   "judge": "Naeem Akhter Afrhan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 302 CrPC",
+    "Section 15 Khyber Pakhtunkhwa Arms Act 2013"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Binyameen",
+    "The State through AG KFK & another",
+    "Mr. Asif Ali Talpur",
+    "Mr. Altaf Khan",
+    "Mr. Muhamnad Munir Peracha Sr",
+    "Arii Mehmood",
+    "Faqram 8/u Aslum Afzaul Hinyamcen",
+    "Tariq Mehmood",
+    "Mst Naginn Bibi",
+    "M8L Hanifa",
+    "Aaliyun",
+    "SherHz",
+    "Imran Munawwar",
+    "Sarfraz",
+    "Mubashir",
+    "Faqfam",
+    "Afzaul Ibrahim",
+    "Rawal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

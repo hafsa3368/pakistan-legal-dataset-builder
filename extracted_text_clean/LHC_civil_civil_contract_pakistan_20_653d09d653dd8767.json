@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "CIVIL APPEAL NO.929 OF 2017",
   "date_of_order": "06.03.2023",
-  "judge": "",
+  "judge": "Shahid Waheed",
   "sections_cited": [
     "Section 118 of the Insurance Ordinance",
     "Section 122 of the Insurance Ordinance"
@@ -16,7 +16,10 @@
   "citations": [
     "PLD 1969 SC 617"
   ],
-  "parties": [],
+  "parties": [
+    "State Life Insurance Corporation & another",
+    "Mst. Razia Ameer & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

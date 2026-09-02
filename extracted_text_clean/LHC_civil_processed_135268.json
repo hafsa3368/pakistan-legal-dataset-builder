@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Appeal No. D",
+  "case_number": "",
   "date_of_order": "15.01.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -21,7 +21,11 @@
     "Section 374 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ameen Jagirani",
+    "The State",
+    "Ghulam Akbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

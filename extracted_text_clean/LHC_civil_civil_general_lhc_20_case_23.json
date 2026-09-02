@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 32,
-  "case_number": "Construction of High Security Prison in Northern",
+  "case_number": "",
   "date_of_order": "18-12-2024",
   "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
@@ -17,7 +17,26 @@
   "citations": [
     "PLD 2021 SC 488"
   ],
-  "parties": [],
+  "parties": [
+    "Rida Qazi",
+    "Government of Punjab",
+    "Stereo",
+    "M/s Syed Moazzam Ali Shah",
+    "Khadija Amjad Wazir",
+    "Rana Muhammad Akram",
+    "Shahram Anwar",
+    "Syed Ahmed Hasnain Rizvi",
+    "Muhammad Haseeb Rana",
+    "Sikandar Rehman Khan Niazi",
+    "Amna Hassan",
+    "Tamara Murat",
+    "Mr. Omer Farooq Khan",
+    "Assistant Advocate-General, Punjab",
+    "Dr. Qadeer Alam AIG (Judicial)",
+    "Rana Irfan Abdullah",
+    "IG (Prisons), Punjab",
+    "Abid Aziz Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

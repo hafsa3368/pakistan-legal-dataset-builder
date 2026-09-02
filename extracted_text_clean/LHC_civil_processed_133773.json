@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constitutional petition is dismissed with no order",
+  "case_number": "Constt: Petition No.S-138 of 2007",
   "date_of_order": "29.11.2018",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Private Respondent",
+    "State Counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

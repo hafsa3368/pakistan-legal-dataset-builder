@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitution Petition No. S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "20-05-2019",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Qayoom Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

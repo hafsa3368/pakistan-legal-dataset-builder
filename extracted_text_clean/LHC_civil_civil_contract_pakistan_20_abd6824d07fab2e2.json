@@ -9,11 +9,17 @@
   "case_number": "Civil Petitions No. 182-Q/2017",
   "date_of_order": "14.07.2025",
   "judge": "Yahya Afridi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 185 CrPC",
+    "Section 498 CrPC"
+  ],
   "citations": [
     "2024 SCMR 1877"
   ],
-  "parties": [],
+  "parties": [
+    "Fareedullah Khan & others",
+    "Province of Balochistan through Secretary C&W Department Government of Balochistan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

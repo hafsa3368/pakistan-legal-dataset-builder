@@ -8,10 +8,20 @@
   "num_chunks": 8,
   "case_number": "CIVIL APPEAL NO.1280 OF 2019",
   "date_of_order": "25.05.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Munib Akhtar",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 138 of the Limitation Act, 2005 (as amended by the 17th Amendment Act, 2010)",
+    "Section 12 of the Sale of Goods Act, 1930 (as amended by the 13th Amendment Act, 1983)",
+    "Section 32 of the Sale of Goods Act, 1930"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Universal Insurance Company and another",
+    "Karim Gul and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

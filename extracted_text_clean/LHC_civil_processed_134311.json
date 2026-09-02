@@ -8,8 +8,11 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-597 of 2018",
   "date_of_order": "10.12.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
   "parties": [
     "Mansoor Ali "

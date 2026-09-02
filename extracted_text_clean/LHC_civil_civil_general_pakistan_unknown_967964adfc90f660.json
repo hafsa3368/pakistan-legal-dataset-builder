@@ -7,11 +7,20 @@
   "used_ocr": true,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "11.11.2022",
+  "judge": "Zuaurwuiin Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MUHAMMADHASHIM KHAN KAKAR MK",
+    "YUSIR ALI",
+    "HASSAN AKHTAR",
+    "VASIR MALIK",
+    "KHALID OUESHI"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

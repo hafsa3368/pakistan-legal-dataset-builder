@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "28-05-2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 13",
+    "u/s 302, 324 and 34 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Syed Ali Aamir Shah",
+    "the State",
+    "Mr. Zulfiquar Ali Jatoi",
+    "the State",
+    "Fareed Dero",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

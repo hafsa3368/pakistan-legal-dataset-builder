@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "CIVIL APPEAL NO.908 OF 2015",
   "date_of_order": "26.11.2021",
-  "judge": "",
+  "judge": "Muhammad Ali Mahar",
   "sections_cited": [
     "Section 16",
     "Section 132 of Civil Procedure Code",
@@ -25,7 +25,10 @@
     "2016 SCMR 1225",
     "PLD 1990 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Naeem Khan & another",
+    "Muqadas Khan (decd) through LRs and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

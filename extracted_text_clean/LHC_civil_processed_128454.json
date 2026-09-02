@@ -9,9 +9,24 @@
   "case_number": "Criminal Acquittal Appeal No.S-28 of 2018",
   "date_of_order": "02.07.2018",
   "judge": "Irshad Ali Shah Appellant",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bashir Ahmed",
+    "Mr. Raja Imtiaz Ali Solangi",
+    "Mr. Justice Irshad Ali Shah",
+    "A.P.G",
+    "Shah Muhammad Jhatial",
+    "Mr. Justice Irshad Ali Shah",
+    "Ghulam Ali",
+    "Gada Hussain",
+    "mashir Sajjad Hussain",
+    "Qasir Ali",
+    "Nasirabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

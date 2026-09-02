@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "W.P. No. of",
+  "case_number": "",
   "date_of_order": "09.04.2026",
   "judge": "MUZAMIL AKHTAR SHABIR",
   "sections_cited": [],
@@ -14,7 +14,21 @@
     "2021 SCMR 1133",
     "PLD 2024 Lahore 228"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Habib Ashraf",
+    "Mr. Qamar Zaman Qureshi",
+    "Malik Ali Raza Khokhar",
+    "Dr. Muhammad Azeem Raja",
+    "Syed Ali Allow-u-Din",
+    "Syed Imran Ehsan",
+    "Ch. Imtiazullah Warraich",
+    "Syed Muhammad Haider Kazmi",
+    "Sharyar Farhan Baig",
+    "Muhammad Abu Bakar Attiq Sheikh",
+    "Malik Muhammad Zareef",
+    "Shujaat Umar Pirzada",
+    "Mr. Qamar Hanif Ramay"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

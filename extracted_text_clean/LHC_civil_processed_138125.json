@@ -7,15 +7,19 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "13.05.2019",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 498-A Cr.PC"
   ],
   "citations": [
     "1986 SCMR 1380"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Nirma",
+    "Mr. Irshad Hussain Dharejo",
+    "Mr. Ghulam Mujtaba Jakhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

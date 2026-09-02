@@ -7,11 +7,18 @@
   "used_ocr": true,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "13.03.2013",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MushTnq Advocoie wiTh peTinioner Mls Rubbivu Bajwa",
+    "Jehangir, DPG with Nisar Ahmud, SI",
+    "Kirun Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

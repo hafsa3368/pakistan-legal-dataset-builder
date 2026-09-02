@@ -8,12 +8,20 @@
   "num_chunks": 5,
   "case_number": "Criminal Acquittal Appeal No.S-32 of 2014",
   "date_of_order": "17.08.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Allah Yar s/o Ubedullah Ghanghro",
+    "Mr.Raja Imtiaz Ali Solangi",
+    "Ali Nawaz",
+    "Dr.Abdullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

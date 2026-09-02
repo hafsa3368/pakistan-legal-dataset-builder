@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "Civil Revision No.247/2006",
   "date_of_order": "20.01.2026",
-  "judge": "",
+  "judge": "SHAHID BILAL HASSAN",
   "sections_cited": [
     "section 9 of the Code",
     "section 9"
@@ -23,7 +23,15 @@
     "PLD 2020 SC 718",
     "PLD 2018 SC 828"
   ],
-  "parties": [],
+  "parties": [
+    "Province of Punjab",
+    "District Officer Revenue/Collector District Bhakkar",
+    "Zulfiqar",
+    "8 others",
+    "Mr. Sana Ullah Zahid",
+    "Syed Ahsan Mustafa",
+    "Sh. Irfan Akram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

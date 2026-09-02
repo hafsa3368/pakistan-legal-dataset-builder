@@ -8,15 +8,25 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-71 of 2018",
   "date_of_order": "26.09.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "u/s 337-A"
+  ],
   "citations": [
     "2005 PCr.LJ-74",
     "2005 YLR-110",
     "1999 PCr.LJ-254",
     "2012 YLR-2554"
   ],
-  "parties": [],
+  "parties": [
+    "Usman son of Tharo",
+    "Altaf son of Usman",
+    "Nadir son of Usman",
+    "Shahid son of Usman",
+    "Riaz son of Usman",
+    "Akhtiar son of Usman",
+    "Abdul Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,15 @@
   "num_chunks": 6,
   "case_number": "Criminal Acquittal Appeal No.S-57 of 2017",
   "date_of_order": "10.08.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Anwar Ali s/o Roshan Ali Shah",
+    "The State through Mr.Raja Imtiaz Ali Solangi",
+    "Mr.Rafiq Ahmed Abro",
+    "Syed Anwar Ali s/o Roshan Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

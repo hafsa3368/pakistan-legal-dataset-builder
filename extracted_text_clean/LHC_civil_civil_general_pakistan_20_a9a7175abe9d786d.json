@@ -9,9 +9,22 @@
   "case_number": "Civil Revision No.235-P of 2022",
   "date_of_order": "11.09.2024",
   "judge": "Yahya Afridi Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Saima Saeed and others",
+    "Mr. M. Amin Khattak Lachi",
+    "Shahid Waheed",
+    "Muhammad Ayaz and others",
+    "Mr. Justice Yahya Afridi",
+    "Mr. Justice Shahid Waheed",
+    "Mr. Justice Aqeel Ahmed Abbasi",
+    "Mahunt Shatrugan Das and others",
+    "Bawa Sham Das and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

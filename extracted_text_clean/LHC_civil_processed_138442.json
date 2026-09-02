@@ -8,10 +8,15 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "27.05.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 342 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Appellant / Complainant (Mr. Mujeeb-ur-Rehman Soomro)",
+    "State (Mr. Khalil Ahmed Maitlo, DPG)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,8 +8,11 @@
   "num_chunks": 7,
   "case_number": "W.P.No.2672-P of 2017",
   "date_of_order": "29.01.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Shahid Bilal Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2006 SCMR 1068",
     "1989 SCMR 913",
@@ -17,7 +20,10 @@
     "2002 SCMR 1540",
     "2004 SCMR 1568"
   ],
-  "parties": [],
+  "parties": [
+    "Nawab Khan and another",
+    "Muhammad Yousaf and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

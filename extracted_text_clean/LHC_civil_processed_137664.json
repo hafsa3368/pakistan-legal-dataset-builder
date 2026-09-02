@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Revision Application by contending that no harm",
+  "case_number": "",
   "date_of_order": "29.03.2019",
   "judge": "",
   "sections_cited": [
     "Section 24-A of the General Clauses Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Gulshad",
+    "Dr. Nasrullah and others",
+    "Dr. Nasrullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

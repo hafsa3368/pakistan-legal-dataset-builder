@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "CIVIL APPEAL NO.782 OF 2014",
   "date_of_order": "14.01.2021",
-  "judge": "",
+  "judge": "Munib Akhtar",
   "sections_cited": [
     "Section 151 CPC"
   ],
@@ -16,7 +16,10 @@
     "2013 SCMR 464",
     "1970 SCMR 141"
   ],
-  "parties": [],
+  "parties": [
+    "Khawaja Bashir Ahmed & Sons Pvt. Ltd",
+    "M/s Martrade Shipping & Transport etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

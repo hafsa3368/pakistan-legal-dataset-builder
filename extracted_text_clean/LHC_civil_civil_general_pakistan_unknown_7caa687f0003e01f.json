@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "CRIMINAL APPEAL NO. 167",
   "date_of_order": "30.09.2020",
-  "judge": "",
+  "judge": "Irfan Saadat Khan",
   "sections_cited": [
     "Sections 302 and 34 of the Pakiatan Penal Code",
     "section 544-A of the Code",
@@ -22,7 +22,10 @@
     "2008 SCMR 329",
     "1992 SCMR 196"
   ],
-  "parties": [],
+  "parties": [
+    "Manzoor Ahmed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

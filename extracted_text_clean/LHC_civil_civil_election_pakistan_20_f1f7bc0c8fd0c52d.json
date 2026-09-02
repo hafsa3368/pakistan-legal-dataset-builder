@@ -7,9 +7,12 @@
   "used_ocr": false,
   "num_chunks": 20,
   "case_number": "Constitution Petitions No. 2",
-  "date_of_order": "",
+  "date_of_order": "17.05.2022",
   "judge": "Jamal Khan Mandokhail",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 63A CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2019 SCMR 1939",
     "PLD 1998 SC 1263",
@@ -19,7 +22,12 @@
     "PLD 2015 SC 275",
     "PLD 2021 SC 825"
   ],
-  "parties": [],
+  "parties": [
+    "Jamal Khan Mandokhail",
+    "Mr. Justice Umar Ata Bandial",
+    "Mr. Justice Ijaz ul Ahsan",
+    "Mr. Justice Munib Akhtar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.S-57 of 2012",
   "date_of_order": "24.09.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 3 of the Act",
     "section 3 of Act"
@@ -16,7 +16,11 @@
   "citations": [
     "2017 SCMR-344"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Ali s/o Hazar Khan Arbani",
+    "Abu Bakar s/o Haji Bux Pathan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

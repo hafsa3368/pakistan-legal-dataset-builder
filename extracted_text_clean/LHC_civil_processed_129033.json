@@ -8,10 +8,21 @@
   "num_chunks": 4,
   "case_number": "Criminal Acquittal Appeal No.S-06 of 2017",
   "date_of_order": "20.07.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dili Jan son of Shahdad Khan Bugti",
+    "The State",
+    "Private Respondents in person",
+    "Arbab Ali",
+    "Muhammad Sharif",
+    "Muhammad Hassan",
+    "The State",
+    "Mr.Raja Imtiaz Ali Solangi, A.P.G",
+    "Mr.Ahsan Ahmed Qureshi",
+    "Private Respondents in person"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

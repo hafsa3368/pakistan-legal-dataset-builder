@@ -9,9 +9,15 @@
   "case_number": "Civil Transfer Application No.S-12 of 2018",
   "date_of_order": "12.11.2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 24 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Saeed Ahmed Bijarani and Ashiq Illahi Sundrani",
+    "Mr. Khadim Hussain Khoso",
+    "Mr. Abid Hussain Qadri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Cr.Appeal. No.250",
   "date_of_order": "05.12.2021",
-  "judge": "",
+  "judge": "MUHAMMAD HASHIM KHAN KAKAR",
   "sections_cited": [
     "Section 9",
     "Section 382-B",
@@ -21,7 +21,11 @@
     "2021 SCMR 492",
     "2024 SCMR 1408"
   ],
-  "parties": [],
+  "parties": [
+    "Zakir Ali",
+    "The State",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

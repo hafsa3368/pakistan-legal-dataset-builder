@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "criminal acquittal appeal as he was busy before another",
+  "case_number": "",
   "date_of_order": "21.01.2019",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 3/4 of the Illegal Dispossession Act",
     "section 561-A Cr.P.C",
@@ -17,7 +17,10 @@
   "citations": [
     "2011 MLD 961"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Ali Shah Rizvi",
+    "State Respondents 1 and 4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.S-413 of 2009",
   "date_of_order": "07.12.2018",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 12 CPC",
+    "u/s 12 CPC",
+    "u/s 12"
+  ],
   "citations": [
     "1999 MLD-3030"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Mst.Rehmat Khatoon",
+    "defendants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

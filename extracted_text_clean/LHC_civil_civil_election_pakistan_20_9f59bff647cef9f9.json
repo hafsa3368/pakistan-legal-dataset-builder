@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "CIVIL PETITION NOS",
+  "case_number": "",
   "date_of_order": "29.11.2021",
-  "judge": "",
+  "judge": "Muhammad Ali Mahar",
   "sections_cited": [
     "Section 2",
     "Section 28",
@@ -22,7 +22,19 @@
   "citations": [
     "PLD 2013 SC 829"
   ],
-  "parties": [],
+  "parties": [
+    "Uzma Manzoor Hameed-ur-Rehman",
+    "Vice Chancellor Khushal Khan Khattak University, Karak",
+    "Khushal Khan Khattak University, Karak",
+    "Uzma Manzoor",
+    "Hameed-ur-Rahman",
+    "Vice Chancellor Khushal Khan Khattak University, Karak",
+    "Khushal Khan Khattak University, Karak",
+    "Khushal Khan Khattak University, Karak",
+    "N.R",
+    "Vice Chancellor Khushal Khan Khattak University, Karak",
+    "Khushal Khan Khattak University, Karak"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

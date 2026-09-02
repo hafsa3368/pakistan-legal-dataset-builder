@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 59,
-  "case_number": "Constitution Petitions Nos",
+  "case_number": "",
   "date_of_order": "26.04.1969",
   "judge": "Muhammad Ali Mazhar Justice Naeem",
   "sections_cited": [
@@ -33,7 +33,12 @@
     "PLD 2015 SC 401",
     "PLD 2010 SC 1165"
   ],
-  "parties": [],
+  "parties": [
+    "The President of Pakistan, Pak Secretariat, Islamabad and others",
+    "Federation of Pakistan through, Secretary Ministry of Law, Justice & Parliamentary Affairs, Islamabad and others",
+    "Raja Muqsit Nawaz Khan Imran Ahmed Khan Niazi Lahore High Court Bar Association, Lahore Lahore Bar Association, Lahore and another Karachi Bar Association, Karachi Riasat Ali Azad and others",
+    "Mr. Muneer A. Malik, Senior, ASC Mr. Salahuddin, ASC Syed Rifaqat Hussain Shah, AOR (in CP 22/2025) assisted by Ms. Zainab Janjua & Ms. Faaiza Qazi, Advocates Mr. Idrees Ashraf Malik, ASC Raja Muqsit Nawaz Khan, ASC (in CPs 20 & 25/2025) Mr. Hamid Khan, Senior ASC Mr. Waqar Rana, ASC Mr. Ajmal Ghaffar Toor, ASC (in CPs 26 & 27/2025) Mr. Faisal Siddiqi, ASC Mr. Ajmal Ghaffar Toor, ASC (in CPs 26 & 27/2025) Mr. Faisal Siddiqi, ASC Mr. Riasat Ali Azad, ASC. Assisted by Mr. M. Ammar Rafique & Sikandar Naeem Qazi, Advocate (in CPs.28 & 30/25)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

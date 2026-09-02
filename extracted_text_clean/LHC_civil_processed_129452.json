@@ -7,11 +7,24 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "27.07.2018",
   "judge": "Rafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Athar Hussain Abro",
+    "Mr. Noor Hassan Malik AAG",
+    "petitioner",
+    "Zahid Hussain",
+    "Nekmard Abdul Shakoor",
+    "official respondent 3",
+    "official respondent 4",
+    "official respondent 2",
+    "Inspector Khalil Ahmed",
+    "SSP Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,17 @@
   "case_number": "Constitutional Petition No.19 of 2020",
   "date_of_order": "13.06.2023",
   "judge": "Shaukat Aziz Siddiqui",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 184 of the Constitution of the Islamic Republic of Pakistan, 1973",
+    "Article 209"
+  ],
   "citations": [
     "PLD 2018 SC 538"
   ],
-  "parties": [],
+  "parties": [
+    "Afiya Shehrbano Zia & others",
+    "The Hon'ble Supreme Judicial Council & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

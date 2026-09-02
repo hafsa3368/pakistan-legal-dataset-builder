@@ -6,16 +6,24 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Jail Appeal No. D",
+  "case_number": "",
   "date_of_order": "26.02.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 342 Cr.P.C",
+    "u/s 365-A PPC"
+  ],
   "citations": [
     "1995 SCMR-127",
     "2017 SCMR-344",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Liaquat Ali",
+    "Shoukat Ali",
+    "Muhammad Amin",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "civil suit filed by respondent No 3",
   "date_of_order": "10.09.2025",
-  "judge": "",
+  "judge": "Yahya Afridi",
   "sections_cited": [
     "sections 8nd",
     "Section 0f",
@@ -19,7 +19,10 @@
     "section 9al"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tasneem Abbas",
+    " respondent No. 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

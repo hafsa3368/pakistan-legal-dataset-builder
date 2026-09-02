@@ -8,12 +8,16 @@
   "num_chunks": 3,
   "case_number": "Crl. Acquittal Appeal No.S-03 of 2015",
   "date_of_order": "17.12.2018",
-  "judge": "",
+  "judge": "Mr.Ali Nawaz Ghanghro",
   "sections_cited": [
     "Section 417 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Private respondents",
+    "the appellant/complainant",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

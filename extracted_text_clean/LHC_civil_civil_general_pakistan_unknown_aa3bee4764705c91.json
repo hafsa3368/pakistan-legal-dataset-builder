@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "civil ٦ ٥ ١ ٢٥٧٧٩ petition No.79723",
   "date_of_order": "04.03.2024",
-  "judge": "",
+  "judge": "MANGUL HASSAN AURANGZEB",
   "sections_cited": [
     "Section 3O",
     "Section 17"
@@ -16,7 +16,14 @@
   "citations": [
     "2011 CLC 841"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan Railways",
+    "CRRC Ziyang Co Limited",
+    "Mahmood Pasha ASC",
+    "Amin Gondal",
+    "Tasneem",
+    "Sycd Tassadaq Mustin Naqvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,16 @@
   "case_number": "Criminal Appeal No.S-13 of 2013",
   "date_of_order": "19.11.2018",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 302",
+    "u/s 344 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nadir Ali",
+    "Abdul Rehman",
+    "Muhammad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

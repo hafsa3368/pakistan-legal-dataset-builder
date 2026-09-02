@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Crl. Appeal No. D",
+  "case_number": "",
   "date_of_order": "28.02.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -26,7 +26,18 @@
     "2000 SCMR-338",
     "2014 SCMR-1034"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Fazal Rehman",
+    "Munawar Ali",
+    "Muhammad Ramzan",
+    "Qamar Zaman",
+    "Sher Abbas",
+    "Muhammad Akber",
+    "Zulfiqar Ali Jatoi",
+    "A.R Faruq Pirzada",
+    "Sakhawat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

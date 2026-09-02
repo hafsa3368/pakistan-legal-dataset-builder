@@ -8,12 +8,17 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "22.03.2019",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 417 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Qadir Shaikh",
+    "Muhammad Rehan Khan Durrani",
+    "Shafi Muhammad Mahar",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

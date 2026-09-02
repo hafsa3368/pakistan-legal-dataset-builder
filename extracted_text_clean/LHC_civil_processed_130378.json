@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.S-74 of 2016",
   "date_of_order": "20.08.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 149 PPC",
     "Section 337-X PPC"
@@ -16,7 +16,18 @@
   "citations": [
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Mr.Shabir Ali Bozdar",
+    "Mr.Gulzar Ahmed Malano",
+    "Muhammad Hanif",
+    "Muhammad Hassan Jatoi",
+    "Shamsuddin Jatoi",
+    "Ali Asghar Kalhoro",
+    "Muhammad Yasin Korai",
+    "Muhammad Hussain",
+    "Manzoor",
+    "Muhammad Yasin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

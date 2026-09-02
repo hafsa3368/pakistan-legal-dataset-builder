@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Appeal No. D",
+  "case_number": "",
   "date_of_order": "19.03.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -17,7 +17,10 @@
     "1995 SCMR-127",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Ghafoor and Allah Warrayo",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

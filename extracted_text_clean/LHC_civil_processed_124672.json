@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Crl. Anti-Terrorism Jail Appeal No.126 of 2016",
   "date_of_order": "23.02.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 4/5 Explosive Act",
     "Section 6",
@@ -25,7 +25,10 @@
     "1997 SCMR 617",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Zafar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

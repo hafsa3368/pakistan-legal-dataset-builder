@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "Crl. Anti-Terrorism Jail Appeal No.211 of 2017",
   "date_of_order": "09.03.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Sections 4/5 of Explosive Substances Act",
     "Section 7",
@@ -28,7 +28,13 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Zubair @ Wasi son of Asghar Hussain",
+    "Lal Muhammad @ Lalu son of Roshan Ali",
+    "Mr. Mumtaz Ali Khan Deshmukh",
+    "Mr. Muhammad Iqbal Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

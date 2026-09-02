@@ -7,15 +7,26 @@
   "used_ocr": true,
   "num_chunks": 6,
   "case_number": "CrlP..No. 1B20-L/2U2l",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "11.11.2025",
+  "judge": "Irfan Saadat Khan",
   "sections_cited": [
     "section 5٩4 Code",
     "section 382-D CrP.C",
     "section 382-B"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nafees-ul-Hassan",
+    "The State",
+    "Muhammad Jahangir Wahlah",
+    "Abdul Ghaffar",
+    "The State",
+    "Muhammad Jaffar",
+    "The State",
+    "Ghulam Abbas",
+    "Nazim Ali",
+    "Hussnain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Acquittal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "19.04.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "u/s 342",
+    "U/s 417-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ikram Kamboh",
+    "Muhammad Ali Ali",
+    "The State through Syed Sardar Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

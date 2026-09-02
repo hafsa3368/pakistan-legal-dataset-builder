@@ -9,9 +9,19 @@
   "case_number": "Crl.Misc.Application No.S-230 of 2018",
   "date_of_order": "11.10.2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 22-A CrPC",
+    "Section 22-B CrPC",
+    "Section 154 CrPC",
+    "Section 561-A CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abid Hussain Qadri",
+    "Mr. Muhammad Afzal Jagirani",
+    "Mr. Raja Imtiaz Ali Solangi",
+    "Private Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

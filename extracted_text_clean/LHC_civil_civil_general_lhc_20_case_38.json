@@ -8,14 +8,25 @@
   "num_chunks": 7,
   "case_number": "",
   "date_of_order": "21.11.2011",
-  "judge": "",
+  "judge": "Abid Aziz Sheikh",
   "sections_cited": [
     "section 9",
     "section 9 of the Ordinance",
     "section 3 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The BANK OF KHYBER",
+    "Messrs KASHMIR SUGAR MILLS LIMITED",
+    "Saudi-Pak Commercial Bank Limited",
+    "International Ceramics Ltd, and others",
+    "Decent Builders and Developers and other",
+    "Khan Unique Developers and others",
+    "Al-Khan Constructions Company and others",
+    "Muhammad Ahmed Khan",
+    "Bank of Punjab and others",
+    "Muhammad Imran Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Acquittal Appeal No. S",
+  "case_number": "",
   "date_of_order": "05.04.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "u/s 342"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Qadir Bhatti",
+    "The State",
+    "Syed Sardar Ali Shah",
+    "Deputy Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

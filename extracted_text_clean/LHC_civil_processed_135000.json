@@ -9,9 +9,16 @@
   "case_number": "Crl.Misc.Appln.No.S-297 of 2018",
   "date_of_order": "04.01.2019",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 561-A Cr.PC",
+    "u/s 22-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mumtaz Ali Brohi",
+    "Rafique Ahmed Abro",
+    "Muhammad Noonari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

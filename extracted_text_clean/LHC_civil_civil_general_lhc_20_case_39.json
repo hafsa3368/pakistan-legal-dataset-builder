@@ -9,7 +9,10 @@
   "case_number": "W.P.No.8359/2017",
   "date_of_order": "10.6.2021",
   "judge": "Rizwan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 747",
     "2011 SCMR 1621",
@@ -26,7 +29,10 @@
     "2009 SCMR 1034",
     "PLD 2011 SC 44"
   ],
-  "parties": [],
+  "parties": [
+    "Akmal Nazeer",
+    "Government of the Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

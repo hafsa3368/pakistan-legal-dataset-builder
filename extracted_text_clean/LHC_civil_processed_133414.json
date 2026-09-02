@@ -8,14 +8,23 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-521 of 2018",
   "date_of_order": "19.11.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 497 Cr.PC"
   ],
   "citations": [
     "2009 SCMR-448"
   ],
-  "parties": [],
+  "parties": [
+    "Sajjad son of Aslam Tunio",
+    "Aasim son of Aslam Tunio",
+    "Waqar son of Nooral Tunio",
+    "Naeem Ahmed",
+    "Mr.Abid Hussain Qadri",
+    "Mr.Ashiq Ali Jatoi",
+    "Mr.Raja Imtiaz Ali Solangi",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

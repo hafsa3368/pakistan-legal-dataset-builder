@@ -8,15 +8,23 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-680 of 2018",
   "date_of_order": "07.01.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 497 Cr.PC"
+  ],
   "citations": [
     "2014 SCMR-1347",
     "2011 MLD-210",
     "2010 PCr.LJ-280",
     "1986 PCr.LJ-465"
   ],
-  "parties": [],
+  "parties": [
+    "Amir Hamzos/o Muhammad Ibrahim",
+    "Bashir Ahmed s/o Bilawal Panhwar",
+    "Ghulam Nabi",
+    "The State",
+    "Muhammad Ibrahim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,21 @@
   "num_chunks": 4,
   "case_number": "Criminal Acquittal Appeal No.S-35 of 2017",
   "date_of_order": "17.08.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Din Muhammad s/o Dost Muhammad Sarki",
+    "Mr.Raja Imtiaz Ali Solangi",
+    "Mr.Habibullah Ghouri",
+    "Mr.Raja Imtiaz Ali Solangi",
+    "Khair Jan",
+    "Guhram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

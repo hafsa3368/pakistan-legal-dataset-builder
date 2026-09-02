@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Crl. Revision Appln.No. D-13 of 2018",
   "date_of_order": "04.12.2018",
-  "judge": "JUDGE",
+  "judge": "Khadim Hussain Tunio",
   "sections_cited": [
     "Section 386 PPC",
     "Sections 6 and 7 of Anti Terrorism Act",
@@ -16,7 +16,13 @@
     "section 23 of ATA Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Khadim Hussain Tunio",
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Habibullah G. Ghouri",
+    "Mr. Sharafuddin Kanhar",
+    "Ashiq Ali Samo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

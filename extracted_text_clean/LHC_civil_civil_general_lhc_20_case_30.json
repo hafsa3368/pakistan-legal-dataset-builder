@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "W.P. No.26698 of 2023",
   "date_of_order": "04-05-2023",
-  "judge": "Approved For Reporting JUDGE Arsalan",
+  "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
     "Section 8",
     "Section 10 of the Lahore Development Authority Act",
@@ -20,7 +20,12 @@
     "2013 SCMR 219",
     "PLD 2018 Lahore 75"
   ],
-  "parties": [],
+  "parties": [
+    "Mazhar Hussain Asif",
+    "Province of Punjab",
+    "Lahore Development Authority",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

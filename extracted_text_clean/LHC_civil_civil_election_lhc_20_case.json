@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "W.P.No. of",
+  "case_number": "",
   "date_of_order": "14.04.2026",
   "judge": "Approved for reporting",
   "sections_cited": [
     "Section 14 of the Family Courts Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Muzaffar Hussain",
+    "Saba Hayat",
+    "Pakpattan etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

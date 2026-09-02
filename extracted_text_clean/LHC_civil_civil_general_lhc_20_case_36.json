@@ -20,7 +20,11 @@
     "PLD 1953 Dacca 104",
     "PLD 1964 Dacca 543"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Sana Aslam",
+    "Ali Imran",
+    "Saleem Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

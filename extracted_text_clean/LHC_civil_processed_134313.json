@@ -8,13 +8,21 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-46 of 2017",
   "date_of_order": "10.12.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 265-H Cr.PC",
     "Section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bashir Ahmed s/ o Sher Muhammad",
+    "Muhammad Yousif s/o Ali Bux",
+    "Imamuddin s/o Rahimdad Shar",
+    "Chanhi s/o Ali Beg",
+    "Ghulam Shabir s/o Guhram",
+    "Momin Hakro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

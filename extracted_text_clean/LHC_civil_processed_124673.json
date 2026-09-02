@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Crl. Anti-Terrorism Appeal No.191 of 2017",
   "date_of_order": "01.03.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 4/5 of Explosive Substances Act",
     "Section 7",
@@ -26,7 +26,10 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Ahad son of Abdul Samad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No.S-672 of 2018",
-  "date_of_order": "",
+  "date_of_order": "11-07-2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22-A CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mansoor Hussain Maitlo",
+    "Mst. ShamaJatoi",
+    "petitioner",
+    "petitioner's husband",
+    "private respondents",
+    "AAG",
+    "respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

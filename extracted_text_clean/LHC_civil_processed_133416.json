@@ -8,12 +8,22 @@
   "num_chunks": 3,
   "case_number": "Civil Revision Application No.S-74 of 2014",
   "date_of_order": "19.11.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "K.N.Shah",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Order 41 rule 31 CPC",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2007 YLR-2220"
   ],
-  "parties": [],
+  "parties": [
+    "Daim and others",
+    "Ishrat Parvez",
+    "the applicants",
+    "the private respondent",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

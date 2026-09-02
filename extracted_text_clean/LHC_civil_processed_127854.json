@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Crl. Appeal No.S-79 of 2009",
   "date_of_order": "11.06.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 342 Cr.P.C",
     "section 161 Cr.P.C"
@@ -17,7 +17,10 @@
     "2017 SCMR 486",
     "1996 SCMR 1553"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Ghaffar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

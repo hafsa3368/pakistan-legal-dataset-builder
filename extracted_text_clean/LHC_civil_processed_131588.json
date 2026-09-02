@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Acquittal Appeal No.S-22 of 2007",
   "date_of_order": "24.09.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 161 Cr.PC"
   ],
@@ -16,7 +16,12 @@
     "2013 SCMR-51",
     "1996 SCMR 1553"
   ],
-  "parties": [],
+  "parties": [
+    "Haji Bashir Ahmed s/o Ghulam Nabi Shaikh",
+    "Mr.Habibullah Ghouri",
+    "Mr.Faiz Muhammad Larik",
+    "Mr.Raja Imtiaz Ali Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

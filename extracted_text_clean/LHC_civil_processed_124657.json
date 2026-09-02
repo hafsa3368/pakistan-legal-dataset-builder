@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Crl. A.T.A. No.308 of 2016",
   "date_of_order": "06.03.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Sections 385 & 386",
     "Section 7",
@@ -25,7 +25,10 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "Shahbaz Ahmed son of Khalil Ahmed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

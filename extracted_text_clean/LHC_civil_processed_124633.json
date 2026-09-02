@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Crl. Appeal No.80 of 2016",
   "date_of_order": "20.02.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 9",
     "Section 382-B",
@@ -21,7 +21,10 @@
     "2015 SCMR 1002",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Waqar son of Abdul Sattar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

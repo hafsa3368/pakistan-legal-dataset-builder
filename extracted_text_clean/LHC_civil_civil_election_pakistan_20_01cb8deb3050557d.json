@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "CIVIL PETITIONS NO.2270",
   "date_of_order": "27.07.2023",
-  "judge": "Judge Judge Islamabad",
+  "judge": "Muhammad Ali Mazhar",
   "sections_cited": [
     "Section 37 of the Balochistan Local Government Act",
     "Section 37",
@@ -22,7 +22,20 @@
   "citations": [
     "PLD 1989 SC 396"
   ],
-  "parties": [],
+  "parties": [
+    "Jameel Qadir",
+    "Muhammad Asif Baloch",
+    "Government of Balochistan",
+    "Local Government",
+    "Rural Development & Agrovilles Department, Quetta",
+    "Mr. Sajeel Shehryar Swati",
+    "Mr. Shah Khawar",
+    "Mr. Kamran Murtaza",
+    "ECP",
+    "Mr. M. Arshad",
+    "Mr. Falak Sher",
+    "Mr. Said Ghafoor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

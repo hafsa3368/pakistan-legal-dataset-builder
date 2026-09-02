@@ -6,16 +6,37 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Appeal No. S",
+  "case_number": "",
   "date_of_order": "08-04-2019",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 382-B Cr.P.C"
   ],
   "citations": [
     "2008 SCMR 1572"
   ],
-  "parties": [],
+  "parties": [
+    "Zulfiquar son of Shah Muhammad @ Shahban",
+    "Amanullah son of Shah Muhammad @ Shah",
+    "Shah Bux @ Shah Baig son of Shahzado",
+    "Salar son of Shah Muhammad",
+    "The State",
+    "Abdul Rehman Kolachi",
+    "Muhammad Luqman",
+    "Riaz Ali",
+    "Ehsan",
+    "Khair Muhammad",
+    "Zulfiquar Ali",
+    "Shoukat",
+    "Dr. Riaz Hussain",
+    "Muhammad Bux",
+    "Nisar Ahmed",
+    "Tapedar Abdullah",
+    "Aqeel Ahmed",
+    "Shah Muhammad",
+    "Shahzado",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

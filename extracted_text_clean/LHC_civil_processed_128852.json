@@ -8,14 +8,18 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.S-35 of 2014",
   "date_of_order": "16.07.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382-B Cr.PC",
     "section 365-B PPC",
     "section 342 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nasrullah s/o Wali Muhammad Rind",
+    "Yakhtiar Ali Mangan",
+    "Mr.Raja Imtiaz Ali Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

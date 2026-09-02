@@ -35,7 +35,14 @@
     "PLD 2007 SC 571",
     "PLD 2009 SC 11"
   ],
-  "parties": [],
+  "parties": [
+    "State",
+    "Sardar Khan Chandio",
+    "Burhan Chandio",
+    "Mukhtiar",
+    "Karamullah",
+    "Qabil Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

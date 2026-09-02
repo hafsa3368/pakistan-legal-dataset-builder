@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "16.06.2025",
-  "judge": "",
+  "judge": "Muhammad Hashim Khan Halar",
   "sections_cited": [
     "section 342",
     "Section 173"
@@ -16,7 +16,16 @@
   "citations": [
     "2012 SCMR 57"
   ],
-  "parties": [],
+  "parties": [
+    "Zahid Nawaz",
+    "The State",
+    "Muhammad Naeem Zin",
+    "Inspector (PW-2)",
+    "Sahihunwala Police Station",
+    "Chemical Analysis Laboratory",
+    "Malkhana",
+    "Forensic Science Laboratory"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

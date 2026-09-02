@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Acquittal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "15.03.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 22-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Nawaz",
+    "the private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

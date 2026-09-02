@@ -8,12 +8,23 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "20.04.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Naushero Feroz",
+  "sections_cited": [
+    "u/s 320, 279, 427, 322 PPC",
+    "u/s 516-A Cr.PC"
+  ],
   "citations": [
     "PLD 1991 Karachi 200"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Alam Sher Bozdar",
+    "Mr. Abdul Wahab Bhutto",
+    "Mr. Sardar Ali Shah Rizvi",
+    "Imran Ali",
+    "Ameer Khan Awan",
+    "Abdul Waheed",
+    "Abdul Hameed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

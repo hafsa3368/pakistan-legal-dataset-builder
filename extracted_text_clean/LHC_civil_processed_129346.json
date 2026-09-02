@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "27-07-2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 342 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. ShamsuddinKobhar",
+    "Mr. Abdul RehmanKolachi",
+    "Mumtaz Ali Naich",
+    "Arbelo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

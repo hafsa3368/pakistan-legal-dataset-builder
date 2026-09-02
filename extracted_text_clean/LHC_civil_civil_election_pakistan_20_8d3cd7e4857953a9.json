@@ -8,7 +8,7 @@
   "num_chunks": 28,
   "case_number": "Civil Appeals No. 333",
   "date_of_order": "04.03.2024",
-  "judge": "",
+  "judge": "YAHYA AFRIDI",
   "sections_cited": [
     "Section 104 of the Elections Act",
     "Section 104 of the Act",
@@ -23,7 +23,10 @@
   "citations": [
     "PLD 2022 SC 306"
   ],
-  "parties": [],
+  "parties": [
+    "Sunni Ittehad Council",
+    "Pakistan Tehreek-e-Insaf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

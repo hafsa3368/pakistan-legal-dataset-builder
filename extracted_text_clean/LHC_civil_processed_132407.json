@@ -8,8 +8,10 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "23.04.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Hussain Dharejo",
+  "sections_cited": [
+    "u/s 497 Cr.PC"
+  ],
   "citations": [
     "2014 SCMR 1347",
     "2016 SCMR 906",
@@ -22,7 +24,27 @@
     "2017 SCMR 19",
     "PLD 1967 SC 340"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Irshad Hussain Dharejo",
+    "Mr. M. S Bukhari",
+    "Mr. Sardar Ali Shah Rizvi DPG.",
+    "The State",
+    "Altaf",
+    "Azizullah",
+    "Imdad Ali",
+    "Wajid Ali",
+    "Muhammad Irfan",
+    "Abid Ali",
+    "Muhammad Zaman Sandhu",
+    "Jawad Hassan",
+    "Gul Daraz Khan",
+    "Haji Gulu Khan",
+    "Aftab Ali Khan",
+    "Chiragh Din",
+    "Kaleem Abass",
+    "Kaleemullah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,17 @@
   "case_number": "CIVIL APPEAL NO.477-L OF 2011",
   "date_of_order": "02.07.2024",
   "judge": "Qazi Faez Isa",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1992 SCMR 138"
   ],
-  "parties": [],
+  "parties": [
+    "Zafar Iqbal and others",
+    "Muhammad Rafiq and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

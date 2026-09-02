@@ -9,9 +9,16 @@
   "case_number": "Crl.Misc.Appln.No.S-231 of 2018",
   "date_of_order": "29.11.2018",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22-A",
+    "u/s 561-A Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Afzal Jagirani",
+    "Mr. Mir Muhammad Bhagat",
+    "Mr.Aitbar Ali Bullo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

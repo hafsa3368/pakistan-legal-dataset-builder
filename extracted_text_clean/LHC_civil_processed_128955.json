@@ -8,14 +8,18 @@
   "num_chunks": 4,
   "case_number": "Criminal Acquittal Appeal No.S-37 of 2016",
   "date_of_order": "16.07.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 161 Cr.P.C"
   ],
   "citations": [
     "1996 SCMR 1553"
   ],
-  "parties": [],
+  "parties": [
+    "Naveed Ali",
+    "Mr.Raja Imtiaz Ali Solangi",
+    "Mr.Mazhar Ali Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

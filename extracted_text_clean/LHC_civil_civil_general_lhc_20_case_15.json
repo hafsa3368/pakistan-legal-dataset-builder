@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "construed as bona fide. The delay is not",
+  "case_number": "",
   "date_of_order": "07.04.2026",
   "judge": "Hassan Nawaz Makhdoom",
   "sections_cited": [
@@ -28,7 +28,10 @@
     "PLD 2013 SC 239",
     "PLD 2025 SC 691"
   ],
-  "parties": [],
+  "parties": [
+    "Shahid Mehmood",
+    "Additional District Judge, Sialkot and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

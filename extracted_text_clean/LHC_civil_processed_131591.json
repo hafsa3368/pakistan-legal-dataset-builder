@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. A. No.S-",
+  "case_number": "",
   "date_of_order": "24.09.2018",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Miss Najaf Shah",
+    "Mr. Sharafuddin Kanher"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,24 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No.S-",
+  "case_number": "",
   "date_of_order": "20-05-2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 302",
+    "u/s 342 CrPC"
+  ],
   "citations": [
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Bashir son of Chanesar bycaste Mehrani",
+    "The State",
+    "Lal Muhammad Mehrani",
+    "Khan Muhammad",
+    "Gul Hassan alias Gulshoo",
+    "Mir Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

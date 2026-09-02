@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "misconceived as there is no prohibition",
+  "case_number": "",
   "date_of_order": "30.03.2026",
   "judge": "Abid Hussain Chattha",
   "sections_cited": [
@@ -24,7 +24,11 @@
   "citations": [
     "2015 SCMR 1494"
   ],
-  "parties": [],
+  "parties": [
+    "Sindh Bank Limited",
+    "M/s Oriental Fruits (Pvt) Limited",
+    "Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Jail Appeal No. D",
+  "case_number": "",
   "date_of_order": "13.03.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -19,7 +19,17 @@
     "2017 SCMR-344",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Imran",
+    "Ghulam Akber",
+    "Haji Khan",
+    "The State",
+    "Abdul Rehman Kolachi",
+    "Zahid Mehmood",
+    "Muhammad Ramzan",
+    "Sanaullah",
+    "Din Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

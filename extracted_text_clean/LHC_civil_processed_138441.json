@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "27.05.2019",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulfiqar Ali Jatoi",
+    "Mr. Shahnawaz Waseer",
+    "petitioner",
+    "respondents",
+    "the applicant",
+    "his family members",
+    "his rivals"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

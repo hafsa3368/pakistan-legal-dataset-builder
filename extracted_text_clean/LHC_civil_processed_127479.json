@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No.06-K of 2008",
   "date_of_order": "17.04.2018",
-  "judge": "JUDGE Shahid",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 9",
     "Section 382-B Cr.P.C",
@@ -19,7 +19,12 @@
     "2015 SCMR 1002",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Akhtar Ali S/o Dad Khan Golo Baloch",
+    "The State",
+    "Syed Meeral Shah Bukhari",
+    "Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

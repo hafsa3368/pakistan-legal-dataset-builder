@@ -8,12 +8,22 @@
   "num_chunks": 4,
   "case_number": "Criminal Acquittal Appeal No.S-74 of 2017",
   "date_of_order": "03.10.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.PC",
+    "u/s 342 Cr.PC",
+    "161 Cr.PC"
+  ],
   "citations": [
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Malik s/o Atta Muhammad Soondhro",
+    "Mr.Raja Imtiaz Ali Solangi",
+    "Abdul Karim",
+    "Muhammad Qasim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

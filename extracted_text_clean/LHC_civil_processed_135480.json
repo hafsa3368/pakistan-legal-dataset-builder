@@ -6,15 +6,26 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Jail Appeal No. D",
+  "case_number": "",
   "date_of_order": "22.01.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 9",
+    "u/s 342 Cr.P.C"
+  ],
   "citations": [
     "2015 SCMR 1002",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Wahab alias Soreto Korai",
+    "The State",
+    "Shafqatullah Shaikh",
+    "ASI Sobdar Ali",
+    "ASI Daimuddin",
+    "PC Muhammad Juman",
+    "PC Shoukat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,14 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "13-05-2019",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 497 Cr.PC",
     "section 306 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Miss. Ambar Iqbal",
+    "Mr. Naizr Ahmed Junejo",
+    "Mr. Shafi Muhammad Mahar DPG",
+    "Gul Muhammad",
+    "Ali Sher"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

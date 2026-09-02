@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. Appln. No.S-",
+  "case_number": "",
   "date_of_order": "22.04.2019",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,15 @@
     "section 489-F and 506/2 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Sattar Soomro",
+    "Mr. Mouladad Rind",
+    "Syed Sardar Ali Shah",
+    "Irshad Ali Shah",
+    "Muneer Hussain",
+    "Iqrar Hussain",
+    "Iqrar Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

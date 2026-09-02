@@ -9,7 +9,10 @@
   "case_number": "Civil Petitions No.3573",
   "date_of_order": "10.03.2023",
   "judge": "Yahya Afridi Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1991 MLD 1267",
     "1984 CLC 309",
@@ -18,7 +21,11 @@
     "PLD 1966 SC 267",
     "PLD 1988 SC 102"
   ],
-  "parties": [],
+  "parties": [
+    "Khan Afsar",
+    "Mst. Qudrat Jan widow and others",
+    "Abdul Latif and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

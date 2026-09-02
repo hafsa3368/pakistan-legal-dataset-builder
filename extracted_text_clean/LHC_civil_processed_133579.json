@@ -8,12 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-38 of 2016",
   "date_of_order": "26.11.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "u/s 161 PPC",
+    "u/s 342 Cr.PC"
+  ],
   "citations": [
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Misri Khan son of Ali Murad Jatoi",
+    "Ahmed Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

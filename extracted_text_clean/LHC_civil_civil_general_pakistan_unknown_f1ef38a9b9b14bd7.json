@@ -8,12 +8,25 @@
   "num_chunks": 6,
   "case_number": "Civil Petition for Leave to Appeal No.3767",
   "date_of_order": "03.11.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Musarat Hilali",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 22 of the Dissolution of Muslim Marriages Act, 1939"
+  ],
   "citations": [
     "PLD 2024 SC 64"
   ],
-  "parties": [],
+  "parties": [
+    "Mst Nuilu Juued",
+    "Nasir Khur",
+    "Mr Muhammad Bashir Mughal",
+    "ULhurs",
+    "N",
+    "Saifullah Khan",
+    "Research Assistance",
+    "Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

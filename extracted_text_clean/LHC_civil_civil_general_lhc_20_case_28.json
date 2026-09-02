@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "misconduct etc. but it does not",
+  "case_number": "",
   "date_of_order": "09-10-2023",
-  "judge": "Approved For Reporting JUDGE Arsalan",
-  "sections_cited": [],
+  "judge": "ABID AZIZ SHEIKH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 SCMR 627",
     "2008 SCMR 598",
@@ -17,7 +20,14 @@
     "2002 SCMR 1034",
     "2013 SCMR 1752"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Zahid Saleem",
+    "Secretary, Government of Punjab",
+    "Ms. Baby Tabassum",
+    "Mr. Omer Farooq Khan",
+    "Muhammad Saleem",
+    "ABID AZIZ SHEIKH"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

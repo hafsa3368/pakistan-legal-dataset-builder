@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.S-15 of 2012",
   "date_of_order": "10.12.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 302",
     "section 34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ramzan s/o Muhammad Mithal By caste Soomro",
+    "Through Mr.Sharafuddin Kanhar, A.P.G"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

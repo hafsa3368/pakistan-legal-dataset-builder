@@ -9,9 +9,21 @@
   "case_number": "Criminal Misc. Application No.S-398 of 2017",
   "date_of_order": "19.11.2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Lahore Development Authority Act, 1975",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rehman Bhutto",
+    "Mr. Raja Imtiaz Ali Solangi",
+    "Muhammad Saleem Bhatti",
+    "Rai Ashraf",
+    "and others",
+    "the applicant",
+    "the respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

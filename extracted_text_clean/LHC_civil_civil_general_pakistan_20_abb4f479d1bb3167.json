@@ -9,9 +9,19 @@
   "case_number": "Constitution Petition No.17 of 2019",
   "date_of_order": "13.04.2020",
   "judge": "Qazi Faez Isa",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Justice Qazi Faez Isa",
+    "State-owned Pakistan Television Corporation (PTV)",
+    "Pakistan Electronic Media Regulatory Authority (PEMRA)",
+    "Maqbool Baqar",
+    "Mazhar Alam Khan Miankhel",
+    "Syed Mansoor Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

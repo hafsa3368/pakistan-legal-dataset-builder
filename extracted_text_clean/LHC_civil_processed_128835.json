@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Appeal No.S-32 of 2018",
   "date_of_order": "13.07.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 265-H",
     "section 302",
@@ -27,7 +27,23 @@
     "2009 SCMR-166",
     "2018 PCr.LJ-570"
   ],
-  "parties": [],
+  "parties": [
+    "Sajjad Ali",
+    "Tarique Ali",
+    "Joyo",
+    "Mst. Hameedan @ Aqsa",
+    "Ali Gul",
+    "Arbab Ali",
+    "Javed Ali",
+    "Hakro",
+    "Mr. Habibullah Ghouri",
+    "Mr. Sobhraj",
+    "Mr. Raja Imtiaz Ali Solangi",
+    "Ali Khan Muhalla",
+    "Nooruddin Hakro",
+    "Nizamuddin Hakro",
+    "Muhammad Din Hakro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

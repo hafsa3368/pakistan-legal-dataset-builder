@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Acquittal Appeal No.S-24 of 2013",
   "date_of_order": "10.08.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 161 Cr.PC"
   ],
@@ -16,7 +16,15 @@
     "2008 SCMR-1572",
     "1996 SCMR 1553"
   ],
-  "parties": [],
+  "parties": [
+    "Dr.Dayali Gul w/o Dr.Raj Kumar Adwani",
+    "The State",
+    "Mr.Raja Imtiaz Ali Solangi, A.P.G",
+    "Mr.Abdul Rehman Bhutto",
+    "mashir ameer kumar",
+    "Ghulam Ali Kalhoro",
+    "Sajid Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

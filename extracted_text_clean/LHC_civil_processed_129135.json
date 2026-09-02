@@ -8,14 +8,31 @@
   "num_chunks": 7,
   "case_number": "Criminal Jail Appeal No.S-112 of 2010",
   "date_of_order": "20.07.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 265-H"
   ],
   "citations": [
     "2017 SCMR-344"
   ],
-  "parties": [],
+  "parties": [
+    "Hamzo son of Joungal Jaffery",
+    "Hamzo son of Joungal Jaffery",
+    "State",
+    "Hamzo son of Joungal Jaffery",
+    "Tagial",
+    "Bashir Ahmed s/o Jeehal",
+    "Niaz Ali s/o Shafi Muhammad",
+    "Ghous Bux s/o Ghulam Mustafa",
+    "Hidayatullah s/o Joungal Khan",
+    "Bangul s/o Joungal",
+    "Manik",
+    "Shikarpur District",
+    "Bangul Khan Jafferi",
+    "Khaman",
+    "Stuart Ganj",
+    "Shikarpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

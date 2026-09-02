@@ -8,7 +8,7 @@
   "num_chunks": 17,
   "case_number": "CIVIL APPEAL NO.743 OF 2014",
   "date_of_order": "09.10.2019",
-  "judge": "",
+  "judge": "YAHYA AFRIDI, CJ",
   "sections_cited": [
     "section 113",
     "Section 113 of the Income Tax Ordinance",
@@ -31,7 +31,29 @@
     "1988 SCMR 715",
     "PLD 2004 SC 425"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Kassim Textile Mills (Pvt.) Limited",
+    "Commissioner Inland Revenue, Karachi",
+    "Engro Polymer and Limited, Karachi",
+    "Federal Board of Revenue, Islamabad",
+    "Pakistan",
+    "M/s. Food Consults (Pvt.) Limited, Lahore",
+    "Educational Excellence Limited, Lahore",
+    "Dubai Islamic Bank Pakistan Limited, Karachi",
+    "Big Feed (Private) Limited, Lahore",
+    "Panther Tyres Limited",
+    "Pakistan Tobacco Company Limited",
+    "M/s. Kassim Textile Mills (Pvt.) Limited",
+    "Commissioner Inland Revenue, Karachi",
+    "Federal Board of Revenue, Islamabad",
+    "Pakistan",
+    "M/s. Educational Excellence Ltd.",
+    "M/s. Educational Excellence Limited, Lahore",
+    "Dubai Islamic Bank Pakistan Limited, Karachi",
+    "Big Feed (Private) Limited, Lahore",
+    "Panther Tyres Limited",
+    "Pakistan Tobacco Company Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

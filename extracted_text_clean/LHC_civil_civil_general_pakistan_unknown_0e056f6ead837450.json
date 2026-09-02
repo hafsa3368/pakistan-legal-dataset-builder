@@ -6,15 +6,32 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 5,
-  "case_number": "Civil Appeal No aal",
+  "case_number": "",
   "date_of_order": "27.03.2020",
   "judge": "Munib Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 1",
     "2021 SCMR 1376"
   ],
-  "parties": [],
+  "parties": [
+    "Chicy Sccrctur Goucrnment of Balochistun",
+    "Appellantis Clutl Sccretariat, Quetta",
+    "Adeelur Rchman & others",
+    "Mr Muhammad Ayuz Swuli",
+    "Additonal Advocate Gencral Halochistan",
+    "MIr Muhaiuad Shoaib Shaheen",
+    "ASC",
+    "Mr Muhuminud Ali Knnrani",
+    "ASC",
+    "Mr Muhammad Ayuz Swuli",
+    "Additonal Advocate Gencral Halochistan",
+    "MIr Muhaiuad Shoaib Shaheen",
+    "ASC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,21 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No 39",
   "date_of_order": "06.08.2009",
-  "judge": "",
+  "judge": "Irfan Saadat Khan",
   "sections_cited": [
     "U/S 302Ib"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rashid and others",
+    "The State",
+    "Tulhi RLSpOndCII8",
+    "Rashud Huider Ali",
+    "Muhammad UsInan",
+    "Baljad Hussain Bhatti",
+    "Mr Jusuce Athar Minallah",
+    "Mr, Juauice Malik Shahlzad Ahunad Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

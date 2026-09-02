@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-503 of 2018",
   "date_of_order": "26.11.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 498 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Siraj Ali s/o Darya Khan",
+    "Asif Ali s/o Ashiq Ali",
+    "Mst.Rehmat Khatoon",
+    "Mr.Ghulam Murtaza Jokhio",
+    "Mr.Fayaz Ali Shah",
+    "Mr.Aitbar Ali Bullo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

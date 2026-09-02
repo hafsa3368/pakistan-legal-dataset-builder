@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-579 of 2018",
   "date_of_order": "13.12.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 497 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saeed Ahmed s/o Hakim Ali Lolai",
+    "Riaz s/o Badaruddin Loali",
+    "Junaid Ahmed",
+    "State",
+    "Mr. Irfan Badar Abbasi",
+    "Mr. Raja Imtiaz Ali Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

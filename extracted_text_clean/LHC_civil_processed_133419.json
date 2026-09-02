@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Appeal No.S-90 of 2009",
   "date_of_order": "15.10.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 221",
     "Section 2 of Code",
@@ -18,7 +18,11 @@
   "citations": [
     "2015 SCMR-1550"
   ],
-  "parties": [],
+  "parties": [
+    "Buxial @ Suhno s/o Qurban Ali Lakhair",
+    "Ali Akbar Mastoi",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

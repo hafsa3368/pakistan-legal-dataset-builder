@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No.S-25 of 2018",
   "date_of_order": "26.11.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 148 PPC",
     "Section 324 PPC",
@@ -19,7 +19,28 @@
   "citations": [
     "2017 SCMR-344"
   ],
-  "parties": [],
+  "parties": [
+    "Altaf Hussain s/o Gahi Khan Bhayo",
+    "Rustam Ali s/o Ahmed Abro",
+    "Abdul Jabbar s/o Abdul Kabir Shaikh",
+    "Abdul Sami",
+    "The State",
+    "Muhammad Waris Mahar",
+    "Muhammad Ali Memon",
+    "Ali Azhar Tunio",
+    "Aitbar Ali Bullo",
+    "Zakir Hussain",
+    "Bilal Ali",
+    "Muhammad Bux",
+    "Muhammad Aslam",
+    "Fayaz Ahmed",
+    "Abdul Hakeem",
+    "Noor Muhammad",
+    "Muzafar Ali Shah",
+    "Ramchand",
+    "Muhammad Waris Mahar",
+    "Muhammad Ali Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

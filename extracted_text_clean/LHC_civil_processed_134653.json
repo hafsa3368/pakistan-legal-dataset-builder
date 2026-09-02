@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "criminal cases at instance of respondents No.2",
   "date_of_order": "24.12.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Syed Tahir Abbas Shah",
+    "Mr. Abid Hussain Qadri",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

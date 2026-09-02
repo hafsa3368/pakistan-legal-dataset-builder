@@ -8,14 +8,22 @@
   "num_chunks": 3,
   "case_number": "CIVIL PETITION No.3939 OF 2025",
   "date_of_order": "06.01.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Shahid Bilal Hassan",
+  "sections_cited": [
+    "Section 185 of the Islamic Republic of Pakistan, 1973",
+    "Article 114 of the Qanun-e-Shahadat Order, 1984",
+    "Order II Rule 2",
+    "Order XXIII, Rule 1 of the Code of Civil Procedure, 1908"
+  ],
   "citations": [
     "2013 SCMR 464",
     "2009 SCMR 1079",
     "1987 SCMR 527"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Safia Khanum and others",
+    "Additional District Judge-II East, Islamabad and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

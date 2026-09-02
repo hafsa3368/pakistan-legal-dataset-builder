@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No.D-4370 of 2015",
-  "date_of_order": "",
+  "date_of_order": "30-04-2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 16-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sundar Khan Chachar, advocates for petitioner",
+    "Mr. Mehmood Sultan Khan Yousfi, DAG",
+    "Mr. Sittar Sahil, SPP NAB",
+    "Anwar Ali",
+    "Mukhtiar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

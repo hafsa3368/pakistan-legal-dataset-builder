@@ -8,13 +8,23 @@
   "num_chunks": 5,
   "case_number": "Criminal Acquittal Appeal No.S-07 of 2014",
   "date_of_order": "19.11.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 342 Cr.PC",
     "Section 452 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Khan",
+    "The State",
+    "Ashiq Illahi Sundhrani",
+    "Raja Imtiaz Ali Solangi",
+    "Mr. Abdul Rehman Bhutto",
+    "Mr. Mr. Ashiq Illahi Sundhrani",
+    "Mr. Raja Imtiaz Ali Solangi",
+    "Mr. Mr. Abdul Rehman Bhutto",
+    "Mr. Mr. Ashiq Illahi Sundhrani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

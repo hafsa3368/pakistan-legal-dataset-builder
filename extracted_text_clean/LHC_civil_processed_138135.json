@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Criminal Jail Appeal No. D",
+  "case_number": "",
   "date_of_order": "14-05-2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -25,7 +25,11 @@
     "1995 SCMR-127",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Gul s/o Muhammad Bachal Kaleri",
+    "Ali Muhammad @ Allan s/o Muhammad Bachal Kaleri",
+    "Pervaiz s/o Hoat kaleri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

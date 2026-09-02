@@ -8,10 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.S-63 of 2017",
   "date_of_order": "25.10.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nasrullah son of Bux Khan Surhiyani",
+    "Through Mr.Abdul Rehman Bhutto, Advocate",
+    "State: Through Mr.Raja Imtiaz Ali Solangi",
+    "private respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

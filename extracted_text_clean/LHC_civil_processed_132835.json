@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.S-56 of 2017",
   "date_of_order": "31.10.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 114 & 34 PPC",
     "section 342 Cr.PC",
@@ -18,7 +18,12 @@
     "1996 SCMR-1553",
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Sattar son of Mumtaz @ Imam Bux Chandio",
+    "State",
+    "Rajib s/o Mahi Khan",
+    "Abdul Sattar s/o Mumtaz @ Imam Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

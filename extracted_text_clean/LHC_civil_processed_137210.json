@@ -8,12 +8,21 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "29.03.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 342 Cr.P.C"
+  ],
   "citations": [
     "1995 SCMR-127"
   ],
-  "parties": [],
+  "parties": [
+    "Mujahid Hussain Phulpoto",
+    "Shafi Muhammad Mahar",
+    "Irshad Ali Shah",
+    "State",
+    "Mehmood Ahmed and others",
+    "the State and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

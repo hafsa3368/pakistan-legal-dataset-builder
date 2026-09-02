@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Crl. Jail Appeal No.D-",
+  "case_number": "",
   "date_of_order": "14.02.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -21,7 +21,11 @@
     "1996 SCMR 1553",
     "2009 SCMR 230"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar S/o Nimano Machhi",
+    "Ghulam Akber S/o Ghulam Fareed Khokhar",
+    "Badshah alias Basho S/o Suhrab Machhi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

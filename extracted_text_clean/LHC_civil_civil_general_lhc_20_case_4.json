@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "08.04.2015",
   "judge": "Aalia Neelum",
   "sections_cited": [
     "sections 324, 148, 149",
@@ -15,7 +15,13 @@
     "section 173 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sardar Shujat",
+    "DPO etc",
+    "Mr. Azar Latif Khan",
+    "Mr. Muhammad Nasir Chohan",
+    "Mr. Muhammad Saim Chaudhry"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

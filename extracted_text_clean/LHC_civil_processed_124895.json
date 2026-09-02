@@ -8,12 +8,19 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "26.03.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Moazim Ali Lashari",
+  "sections_cited": [
+    "u/s 497 Cr.PC",
+    "u/s 497"
+  ],
   "citations": [
     "2008 SCMR-1254"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Moazim Ali Lashari",
+    "Mr. Abdul Rehman Kolachi DPG",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

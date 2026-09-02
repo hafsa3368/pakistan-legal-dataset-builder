@@ -9,9 +9,27 @@
   "case_number": "Criminal Misc.No 3723",
   "date_of_order": "16.11.2012",
   "judge": "Aalia Neelumn",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The Slale, Elc. Muhammad Ijaz",
+    "Muhammad Ijaz",
+    "The State",
+    "Muhammad Ijaz",
+    "Muhammad Nawaz Shahin",
+    "Niaz",
+    "Muhammad Nawaz Shahin",
+    "Muhammad Nawaz Shahin",
+    "Muhammad Nawaz Shahin",
+    "Muhammad Ijaz",
+    "Muhammad Ijaz",
+    "Ejaz Hussain",
+    "Khadam Hussain",
+    "Ghulam Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

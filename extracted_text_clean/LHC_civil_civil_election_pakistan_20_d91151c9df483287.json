@@ -21,7 +21,22 @@
     "PLD 1988 SC 416",
     "PLD 2022 SC 306"
   ],
-  "parties": [],
+  "parties": [
+    "Islamabad High Court Bar Association",
+    "Election Commission of Pakistan",
+    "Government of Punjab",
+    "Government of KPK",
+    "Government of Baluchistan",
+    "Government of Sindh",
+    "Pakistani Bar Council",
+    "Supreme Court Bar Association",
+    "PTI",
+    "PPPP",
+    "PML(N)",
+    "JUIP",
+    "Jamat-e-Islami",
+    "PML (Awami)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

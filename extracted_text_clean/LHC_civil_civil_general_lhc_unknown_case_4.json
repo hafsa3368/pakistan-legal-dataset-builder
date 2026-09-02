@@ -7,7 +7,7 @@
   "used_ocr": true,
   "num_chunks": 4,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "3.7.2013",
   "judge": "Aalia Neelumn",
   "sections_cited": [
     "sections 302 PPC",
@@ -16,7 +16,15 @@
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Kamzan",
+    "Muhammad Nawaz",
+    "Muhammad Ramzan",
+    "Muhammad Farid ul Hassan",
+    "Muhammad Lutif",
+    "Gulzar Amini",
+    "Riaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

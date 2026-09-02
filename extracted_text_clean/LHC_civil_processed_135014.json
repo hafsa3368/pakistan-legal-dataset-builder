@@ -8,14 +8,21 @@
   "num_chunks": 7,
   "case_number": "Criminal Acquittal Appeal No.S-72 of 2017",
   "date_of_order": "07.01.2019",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 376 PPC"
   ],
   "citations": [
     "2011 PCr.LJ-1443"
   ],
-  "parties": [],
+  "parties": [
+    "Mst.Abida Khatoon w/o Muhammad Hashim by caste",
+    "The State",
+    "Mr.Safdar Ali Bhutto, Advocate",
+    "Mr.Saeed Ahmed Bijarani, Advocate",
+    "Sharafuddin Kanhar",
+    "Muhammad Hashim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

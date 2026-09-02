@@ -8,14 +8,19 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "25.03.2019",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "sections 3/"
   ],
   "citations": [
     "2012 SCMR 229"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mushtaque Ahmed Shahani",
+    "Mr. Ghulam Mujtaba Sahito",
+    "Syed Sardar Ali Shah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

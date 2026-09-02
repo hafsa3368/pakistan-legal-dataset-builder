@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "Criminal Petition No.105-K of 2016",
   "date_of_order": "17.04.2018",
-  "judge": "JUDGE Shahid",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 9",
     "Section 382-B Cr.P.C",
@@ -23,7 +23,10 @@
     "1995 SCMR 1345",
     "PLD 2009 Karachi 191"
   ],
-  "parties": [],
+  "parties": [
+    "Nazar Muhammad @ Nazroo S/o Rawat Rind",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

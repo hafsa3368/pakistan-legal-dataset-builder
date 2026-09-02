@@ -9,7 +9,9 @@
   "case_number": "",
   "date_of_order": "26.03.2018",
   "judge": "Rafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.PC"
+  ],
   "citations": [
     "2017 SCMR 1939",
     "2014 SCMR 1347",
@@ -17,7 +19,13 @@
     "1969 SCMR 454",
     "1978 SCMR 448"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rehman Kolachi",
+    "Mst. Komal",
+    "Ghulam Akbar",
+    "The State",
+    "ASI Niaz Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

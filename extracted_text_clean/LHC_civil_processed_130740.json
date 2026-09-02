@@ -8,14 +8,18 @@
   "num_chunks": 4,
   "case_number": "Criminal Acquittal Appeal No.S-06 of 2013",
   "date_of_order": "05.09.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 342 Cr.PC"
   ],
   "citations": [
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Agha Farhan Ali s/ o Agha Deedar Hussain",
+    "Mr.Raja Imtiaz Ali Solangi",
+    "The private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

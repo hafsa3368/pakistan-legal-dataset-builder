@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Misc. Appln. No.S-",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "04.03.2019",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 561-A Cr.PC",
     "section 161 Cr.PC",
@@ -25,7 +25,12 @@
     "1972 SCMR 335",
     "PLD 2018 SC 595"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Rab Dino Makwal",
+    "Mr. Zamir Ahmed Memon",
+    "Mr. Abdul Rehman Kolachi",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

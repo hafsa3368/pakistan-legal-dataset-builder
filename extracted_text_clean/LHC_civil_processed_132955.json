@@ -8,12 +8,16 @@
   "num_chunks": 4,
   "case_number": "Criminal Acquittal Appeal No.S-17 of 2018",
   "date_of_order": "02.11.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 342 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Rauf s/o Ghulam Hyder Soomro",
+    "Ahmed Ali s/o Wali Muhammad Mugheri",
+    "Mr. Raja Imtiaz Ali Solangi, A.P.G"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

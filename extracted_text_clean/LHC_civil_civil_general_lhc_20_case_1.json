@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "31.07.2025",
-  "judge": "",
+  "judge": "Suleman Shahbaz Sharif",
   "sections_cited": [
     "section 22-A, 22-B of Cr.P.C",
     "section 154 Cr.P.C",
@@ -18,7 +18,14 @@
     "section 154"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tariq Meo",
+    "Haji Mian Feroze Din",
+    "Sheikh Muhammad Tufail",
+    "Syed Qateel Anwaar-ul-Hassan",
+    "Muhammad Akhtar",
+    "Muhammad Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

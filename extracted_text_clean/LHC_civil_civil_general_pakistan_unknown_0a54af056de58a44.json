@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 15,
-  "case_number": "civil uppcnl Nobody",
+  "case_number": "",
   "date_of_order": "20.11.2024",
   "judge": "Shahid Wahced Mr Justice Irfan",
   "sections_cited": [
@@ -22,7 +22,26 @@
     "PLD 1966 SC 1",
     "PLD 2007 SC 362"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Shahid Wahced",
+    "Mr Justice Irfan Suudat Khan",
+    "Mr, Justice Aqeel Ahmed Abbasi",
+    "Islumubod and others",
+    "Mr Muhammad MasOud Khun",
+    "ICP",
+    "Mr Muhammad Arshad",
+    "Mr Falak Shcr",
+    "NR FDF",
+    "Mr Kamran Murtazn",
+    "ABC",
+    "Mr Amanullah Kanrani",
+    "A8C",
+    "Syed Rifaqat Hussain Shah",
+    "AOR",
+    "Nemo",
+    "Mr Muhaminad Asghar Rind",
+    "Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

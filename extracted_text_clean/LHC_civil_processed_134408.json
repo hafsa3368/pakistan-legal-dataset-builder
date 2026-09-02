@@ -8,12 +8,19 @@
   "num_chunks": 3,
   "case_number": "Criminal Revision Application No.S-53 of 2016",
   "date_of_order": "17.12.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ali Nawaz Ghanghro",
+  "sections_cited": [
+    "u/s 420, 406 PPC",
+    "u/s 342 Cr.PC"
+  ],
   "citations": [
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Magsi Khan Brohi",
+    "the applicant",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -28,7 +28,16 @@
     "PLD 2000 Karachi 246",
     "PLD 2014 SC 331"
   ],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "M/s Salman Noman Enterprises Ltd.",
+    "M/s Aakif Majeed Butt",
+    "Hassan Ismail",
+    "Asim Tufail Farooqi",
+    "Muhammad Abdullah Jehangir",
+    "Mian Imran Mushtaq",
+    "Nemo ABID AZIZ SHEIKH"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

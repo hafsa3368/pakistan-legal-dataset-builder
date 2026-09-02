@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Constitution cannot",
+  "case_number": "",
   "date_of_order": "12.04.2023",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -27,7 +27,22 @@
     "PLD 2013 Lahore 552",
     "PLD 2010 Lahore 583"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Rizwan Nowaiz Gill",
+    "The Returning Officer PP-77, Sargodha-VI",
+    "Election Commission of Pakistan",
+    "Mr. Imran Arif Ranjha",
+    "Hafiz Adeel Ashraf",
+    "Abid Hussain Sial",
+    "Ahmad Saeed",
+    "Faizan Ahmad",
+    "Rahil Riaz",
+    "Usman Nasir Awan",
+    "Ahmer Mumtaz Mali",
+    "Kasir Ahmad Ch.",
+    "Rana Abu Hurairah",
+    "Adeel Shahid Karim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

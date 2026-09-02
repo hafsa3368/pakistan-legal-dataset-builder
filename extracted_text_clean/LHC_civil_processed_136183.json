@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Constitution would show that it does not",
+  "case_number": "",
   "date_of_order": "28.11.2018",
   "judge": "Khadim Hussain Tunio",
   "sections_cited": [
@@ -15,7 +15,13 @@
   "citations": [
     "2015 SCMR-456"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Primary School Teachers",
+    "Mr.Asif Hussain M.Nawaz Chandio",
+    "Mr.Abdul Hamid Bhurgri",
+    "Mr.Munawar Ali Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

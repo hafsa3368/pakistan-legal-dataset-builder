@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Jail Appeal No.S-06 of 2013",
   "date_of_order": "22.10.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 382-B Cr.PC",
     "section 149",
@@ -20,7 +20,18 @@
     "2012 SCMR-1156",
     "PLD 1980 SC 225"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Sarwar",
+    "Muhammad Nawaz",
+    "Ghulam Sarwar",
+    "Hussain Bux Jagirani",
+    "Hussain Bux Jagirani",
+    "State",
+    "Raja Imtiaz Ali Solangi",
+    "Hussain Bux Jagirani",
+    "State",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

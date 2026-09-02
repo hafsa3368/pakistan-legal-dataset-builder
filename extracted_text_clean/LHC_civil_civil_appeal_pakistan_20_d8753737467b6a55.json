@@ -8,10 +8,16 @@
   "num_chunks": 14,
   "case_number": "CIVIL APPEAL NO.751 OF 2016",
   "date_of_order": "02.10.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MIANGUL HASSAN AURANGZEB",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan through Ministry of Water & Power and another",
+    "Spencer Powergen Company of Pakistan Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

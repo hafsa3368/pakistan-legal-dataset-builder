@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No.S-",
+  "case_number": "",
   "date_of_order": "10-05-2019",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 34 PPC",
     "section 161 Cr.P.C"
@@ -19,7 +19,11 @@
     "2017 SCMR-344",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Ramesh son of Basroo @ Pritam Meghwar",
+    "The State",
+    "Khatoo Mal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

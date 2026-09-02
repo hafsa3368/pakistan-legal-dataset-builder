@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 26,
-  "case_number": "Civil Petition Nos",
+  "case_number": "",
   "date_of_order": "18.05.1983",
   "judge": "Yahya Afridi",
   "sections_cited": [
@@ -23,7 +23,11 @@
     "PLD 1975 SC 369",
     "PLD 1975 SC 574"
   ],
-  "parties": [],
+  "parties": [
+    "Adna Maliks",
+    "Ala Maliks",
+    "Ala-khud-Adna Maliks"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Appeal No.9-K of 1989",
   "date_of_order": "19.04.2018",
-  "judge": "JUDGE Shahid",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Sections 302, 147, 148, 149, 34 PPC",
     "Sections 345 and 345 Cr.P.C"
@@ -30,7 +30,22 @@
     "2004 SCMR 249",
     "2010 PCr.LJ 926"
   ],
-  "parties": [],
+  "parties": [
+    "Mst.Kulsoom Wd/o Mukhtiar Ahmed",
+    "Mst. Rukiya W/o Khan Muhammad",
+    "Khan Muhammad S/o Mir Muhammad",
+    "Yaro S/o Mir Muhammad",
+    "The State",
+    "Jan Muhammad",
+    "Syed Meeral Shah Bukhari",
+    "Additional Prosecutor General, Sindh",
+    "Ayoub S/o Pinyal",
+    "Uris",
+    "Pinyal",
+    "Noor Muhammad S/o Pinyal",
+    "Saleem S/o Uris",
+    "Mir Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

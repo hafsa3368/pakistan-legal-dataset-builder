@@ -8,7 +8,7 @@
   "num_chunks": 23,
   "case_number": "Misc. No. 392",
   "date_of_order": "01.07.2017",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 9",
     "Section 382-B",
@@ -23,7 +23,10 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "Munir Hussain @ Munawar @ MunoJatoi",
+    "The State throughMr.Zulifqar Ali Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

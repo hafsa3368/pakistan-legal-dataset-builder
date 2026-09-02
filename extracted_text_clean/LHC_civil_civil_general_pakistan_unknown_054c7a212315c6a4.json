@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 10,
-  "case_number": "Criminal Appcals Nos",
+  "case_number": "",
   "date_of_order": "03.10.2025",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,17 @@
     "section 34"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Rashid",
+    "Muhammad Younas Qureshi",
+    "Muhummad Aslum",
+    "Kaja Muhammad Shafqut Abbagi",
+    "Surwat Durrani",
+    "Danish",
+    "Mr Aftab Alam Yasir",
+    "Mra M Adeel Arshad",
+    "Muhammad Yasin Pak"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

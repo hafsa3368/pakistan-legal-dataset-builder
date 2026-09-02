@@ -6,14 +6,21 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 7,
-  "case_number": "Criminal Appcal No IT67/2021",
+  "case_number": "",
   "date_of_order": "10.03.2025",
-  "judge": "",
+  "judge": "Muhammad Hashim Khan Kakar",
   "sections_cited": [
     "section 382-5"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jeshund Petitioneral 1",
+    "Mr Muhamamd Shabbir",
+    "Ali Talpur",
+    "Sindh Upun",
+    "Police Uftcials pauolling in the Plice Station Ci5y",
+    "District Kech"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Crl. Appeal No. D",
+  "case_number": "",
   "date_of_order": "09-05-2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -22,7 +22,10 @@
     "2000 SCMR-338",
     "2014 SCMR-1034"
   ],
-  "parties": [],
+  "parties": [
+    "Pir Bux son of Muhammad Hassan Buriro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

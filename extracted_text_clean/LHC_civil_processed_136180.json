@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "constituted under the Notification",
+  "case_number": "Constt: Petition.No.D-1077 of 2015",
   "date_of_order": "28.11.2018",
   "judge": "Khadim Hussain Tunio",
   "sections_cited": [
@@ -15,7 +15,11 @@
   "citations": [
     "PLD 2012 SC 501"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "widows of HC Murad Ali Malak",
+    "State Counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
