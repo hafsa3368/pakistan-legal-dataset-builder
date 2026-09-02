@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 20,
-  "case_number": "Civil Appeals Nos",
+  "case_number": "",
   "date_of_order": "03.09.2025",
   "judge": "Irfan Saadat Khan Mr",
   "sections_cited": [
@@ -35,7 +35,21 @@
     "2004 SCMR 1001",
     "2010 SCMR 1408"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Addan",
+    "Province of Sindh",
+    "Deputy Commissioner, Khairpur",
+    "Jumo alias Juman",
+    "Mst. Koral",
+    "Mst. Makhan",
+    "Mst. Subhan Khatoon",
+    "Mr. Iftikhar Javed Qazi",
+    "Mr. Ghulam Rasool Mangi",
+    "Mr. Hakim Ali Shaikh",
+    "Mr. Sagheer Abbasi",
+    "Mr. Muhammad Iqbal Chaudhry",
+    "Ms. Zainab Bashir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

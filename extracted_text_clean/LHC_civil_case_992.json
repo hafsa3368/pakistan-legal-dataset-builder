@@ -8,14 +8,21 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-544 of 2023",
   "date_of_order": "19.03.2023",
-  "judge": "",
+  "judge": "Abdullah Channa",
   "sections_cited": [
     "section 324 PPC",
     "section 497 Cr.P.C",
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD IQBAL KALHORO",
+    "Riaz Chandio",
+    "Shahzad Chandio",
+    "police of PS Fort Hyderabad",
+    "applicant",
+    "the state"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

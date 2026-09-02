@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "W.P.No.1631 of 2008",
   "date_of_order": "10.06.2025",
-  "judge": "",
+  "judge": "SHAHID BILAL HASSAN",
   "sections_cited": [
     "Section 52",
     "Section 52 of the Act",
@@ -26,7 +26,12 @@
     "PLD 2011 SC 905",
     "PLD 1993 SC 292"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sadiq (deceased)",
+    "Additional District Judge, Toba Tek Singh",
+    "Alam Sher",
+    "Respondent No.2 & 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

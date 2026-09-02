@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "CIVIL APPEALS NO. 2186",
   "date_of_order": "07.11.2019",
-  "judge": "",
+  "judge": "YAHYA AFRIDI",
   "sections_cited": [
     "Section 4",
     "Section 23 of the Land Acquisition Act",
@@ -32,7 +32,22 @@
     "PLD 1983 SC 457",
     "PLD 2004 SC 512"
   ],
-  "parties": [],
+  "parties": [
+    "Sarhad Development Authority N.W.F.P (now KPK)",
+    "Nawab Ali Khan & others",
+    "Haroon ur Rasheed & others",
+    "Noor Alam Khan & others",
+    "Khushdil Khan & another",
+    "Asghar Khan & others",
+    "Gohar Ali Khan and others",
+    "Malook Shah & others",
+    "Haroon-ur-Rasheed & others",
+    "Khushdil Khan & others",
+    "Usman Gul & others",
+    "Muhammad Israel & others",
+    "Project Manager, Industrial Estate Risalpur, Tehsil & District Nowshera & others",
+    "Collector Land Acquisition, Tehsil & District Nowshera & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

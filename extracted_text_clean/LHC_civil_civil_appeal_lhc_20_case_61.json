@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "construed as a whole and should not",
+  "case_number": "",
   "date_of_order": "02.03.2026",
   "judge": "Sultan Tanvir Ahmad",
   "sections_cited": [
@@ -19,7 +19,10 @@
     "PLD 1975 Quetta 29",
     "PLD 2021 Islamabad 236"
   ],
-  "parties": [],
+  "parties": [
+    "Umer Farooq Azam",
+    "Qaiser Rasheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

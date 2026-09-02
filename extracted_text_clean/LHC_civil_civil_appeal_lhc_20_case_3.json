@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Crl. Appeal No.9553 of 2021",
   "date_of_order": "17.03.2025",
-  "judge": "",
+  "judge": "AALIA NEELUM",
   "sections_cited": [
     "Sections 302, 34 PPC",
     "section 302",
@@ -22,7 +22,12 @@
     "2007 SCMR 1812",
     "2009 SCMR 230"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ali Yasir",
+    "The State",
+    "Muhammad Ishtiaq",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

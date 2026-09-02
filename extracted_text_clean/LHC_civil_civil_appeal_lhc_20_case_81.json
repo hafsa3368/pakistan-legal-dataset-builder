@@ -22,7 +22,12 @@
     "PLD 2015 Balochistan 26",
     "PLD 2014 Peshawar 60"
   ],
-  "parties": [],
+  "parties": [
+    "Samina",
+    "Additional District Judge",
+    "Abid Aziz Sheikh",
+    "Aftab Hussain Qureshi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

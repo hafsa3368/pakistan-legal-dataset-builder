@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Civil Revision No. 80-P of 2017",
   "date_of_order": "24.09.2014",
-  "judge": "",
+  "judge": "Shahid Bilal Hassan",
   "sections_cited": [
     "section 12",
     "section 14 of the Limitation Act"
@@ -23,7 +23,10 @@
     "2011 SCMR 345",
     "PLD 2008 SC 146"
   ],
-  "parties": [],
+  "parties": [
+    "Sohail Islam and another",
+    "Saadullah Khan and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

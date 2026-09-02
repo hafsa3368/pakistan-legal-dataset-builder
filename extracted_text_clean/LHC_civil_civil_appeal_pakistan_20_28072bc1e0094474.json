@@ -9,14 +9,23 @@
   "case_number": "Civil Revision No. 143 of 2023",
   "date_of_order": "08.01.2026",
   "judge": "Shahid Bilal Hassan Justice Shakeel",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 1225",
     "2016 SCMR 862",
     "2021 SCMR 19",
     "PLD 2003 SC 688"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ishfaq & another",
+    "HeMONENS",
+    "Salma Begum",
+    "Syed Shahab Qutub",
+    "N.R"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

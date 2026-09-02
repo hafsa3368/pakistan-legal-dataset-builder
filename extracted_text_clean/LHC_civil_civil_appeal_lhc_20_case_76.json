@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Civil Prison for execution of the decree was not",
+  "case_number": "",
   "date_of_order": "25-11-2024",
   "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
@@ -19,7 +19,14 @@
     "2004 SCMR 1352",
     "PLD 2012 Lahore 392"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Naeem",
+    "Additional District Judge",
+    "Abdul Aziz",
+    "Muhammad Akbar",
+    "Abdul Aziz",
+    "Ms. Areesha Sajid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

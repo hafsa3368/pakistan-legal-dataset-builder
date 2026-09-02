@@ -29,7 +29,10 @@
     "PLD 1995 SC 11",
     "PLD 2020 SC 16"
   ],
-  "parties": [],
+  "parties": [
+    "Rizwan Rasheed",
+    "Imran Rasheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

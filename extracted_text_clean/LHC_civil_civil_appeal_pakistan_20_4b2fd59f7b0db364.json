@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Revision No.353",
   "date_of_order": "24.11.2021",
-  "judge": "",
+  "judge": "Munib Akhtar",
   "sections_cited": [
     "Section 13",
     "section 2",
@@ -18,7 +18,13 @@
   "citations": [
     "2012 SCMR 235"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Asad Hussain & others",
+    "Syed Ghulam Khitab",
+    "Mr. Altaf Ahmed",
+    "Haji Muhammad Zahir Shah",
+    "Muhammad Faheem Wali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

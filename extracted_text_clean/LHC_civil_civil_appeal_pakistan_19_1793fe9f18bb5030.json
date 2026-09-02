@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 76,
-  "case_number": "Constitution and the said Article does not",
+  "case_number": "",
   "date_of_order": "11.10.2023",
   "judge": "Khurshid Anwar Bhinder",
   "sections_cited": [
@@ -38,7 +38,11 @@
     "PLD 2010 SC 61",
     "PLD 1997 SC 397"
   ],
-  "parties": [],
+  "parties": [
+    "The Petitioners",
+    "The Respondents",
+    "The Attorney General for Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

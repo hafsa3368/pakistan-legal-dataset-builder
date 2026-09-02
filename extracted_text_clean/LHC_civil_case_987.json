@@ -8,10 +8,14 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "28.03.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Masroor Ali Soomro",
+    "Chancellor Sukkur IBA University",
+    "Hussain Ahmed Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

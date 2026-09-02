@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Civil Petition No.3011 of 2021",
   "date_of_order": "08.02.2022",
-  "judge": "Judge Judge Islamabad",
+  "judge": "Munib Akhtar",
   "sections_cited": [
     "Section 4"
   ],
@@ -17,7 +17,10 @@
     "PLD 2000 FSC 1",
     "PLD 1990 SC 1051"
   ],
-  "parties": [],
+  "parties": [
+    "Hassan Aziz and others",
+    "Meraj ud Din and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

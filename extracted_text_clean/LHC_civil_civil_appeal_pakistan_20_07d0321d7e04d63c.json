@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Crl.A. Nos",
+  "case_number": "",
   "date_of_order": "15.03.2017",
   "judge": "Jamal Khan Mandokhail Justice Musarrat",
   "sections_cited": [
@@ -20,7 +20,29 @@
     "2024 SCMR 1310",
     "2024 SCMR 1507"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Nasir Butt",
+    "Baqir Butt",
+    "Muhammad Zahid Amjad",
+    "The State",
+    "Mr. Qaisar Mehmood Sara",
+    "ASC",
+    "Mirza Abid Majeed",
+    "Justice Jamal Khan Mandokhail",
+    "Justice Musarrat Hilali",
+    "Justice Naeem Akhter Afghan",
+    "Jail Petitions No.314 & 315/2017",
+    "Muhammad Majid Amjad",
+    "Muhammad Nasir Butt",
+    "The State",
+    "Justice Jamal Khan Mandokhail",
+    "Justice Musarrat Hilali",
+    "Justice Naeem Akhter Afghan",
+    "Supreme Court of Pakistan",
+    "Additional Sessions Judge",
+    "Police Station, Rayya Khas",
+    "Narowal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

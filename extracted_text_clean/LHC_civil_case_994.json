@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil Court. The other side has no objection",
+  "case_number": "",
   "date_of_order": "30.08.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saleem Akhtar Shah",
+    "M/s Ubedullah Malano and Zulfiqar Ali Channa",
+    "Mr. Muhammad Rehan Khan Durrani",
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Ghulam Murtaza Korai",
+    "Mr. Darehani Ali Haider 'Ada'",
+    "Mr. Ahmed Ali Shahani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

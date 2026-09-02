@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Civil Revision No.559-P/2017",
   "date_of_order": "26.01.2026",
-  "judge": "",
+  "judge": "SHAHID BILAL HASSAN",
   "sections_cited": [
     "section 36 of the Code",
     "section 36"
@@ -19,7 +19,10 @@
     "1980 SCMR 89",
     "PLD 1961 Dacca 842"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Asma Begum & others",
+    "Abdul Hameed (deceased) through LRs & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

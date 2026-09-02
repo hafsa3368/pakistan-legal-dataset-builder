@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constable R.44908 and Noor",
+  "case_number": "",
   "date_of_order": "13.03.2014",
   "judge": "Aalia Neelum",
   "sections_cited": [
@@ -18,7 +18,10 @@
     "Section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Salamat Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Appeal No.S-69 of 2022",
-  "date_of_order": "",
+  "date_of_order": "11-12-2023",
   "judge": "Ahmad",
   "sections_cited": [
     "sections 345 and 345 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Syed Zafar Ali Shah and Athar Hussain Abro",
+    "Mr. Ubedullah Ghoto",
+    "M/s Syed Zafar Ali Shah and Athar Hussain Abro",
+    "Mr. Aftab Ahmed Shar",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

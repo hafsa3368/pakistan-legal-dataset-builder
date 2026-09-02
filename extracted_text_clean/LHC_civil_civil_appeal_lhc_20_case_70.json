@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitution as it in no way",
+  "case_number": "",
   "date_of_order": "02.04.2026",
   "judge": "TARIQ MAHMOOD BAJWA",
   "sections_cited": [
@@ -22,7 +22,14 @@
     "PLD 2021 Lahore 436",
     "PLD 2026 Lahore 17"
   ],
-  "parties": [],
+  "parties": [
+    "Jhelum Homeopathic Medical College",
+    "Federation of Pakistan",
+    "Mr. Haseeb Shakoor Paracha",
+    "Barrister Zain Mansoor",
+    "Mr. Muhammad Irshad",
+    "JAWAD HASSAN"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

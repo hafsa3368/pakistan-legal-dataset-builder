@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-569 of 2023",
   "date_of_order": "02.06.2023",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "HESCO",
+    "Muhammad Iqbal Kalhoro",
+    "Mian Taj Muhammad Keerio",
+    "Haq Nawaz Jamari",
+    "Umer Farooque",
+    "Assistant P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

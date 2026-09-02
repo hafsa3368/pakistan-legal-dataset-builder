@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1016 of 2023",
   "date_of_order": "11.03.2024",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sikandar Sadar Siddiqui",
+    "Mr. Ziaul Haque Kamboh",
+    "Mr. Ali Raza Baloch",
+    "Aftab Mallah",
+    "Mehrabpur Town Committee"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

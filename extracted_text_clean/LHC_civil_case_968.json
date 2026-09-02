@@ -7,13 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Transfer Application No.S-12 of 2024",
-  "date_of_order": "",
+  "date_of_order": "19.01.2024",
   "judge": "Ahmad",
   "sections_cited": [
     "section 489-F PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shamsuddin N. Kobhar",
+    "Mr. Aftab Ahmed Shar",
+    "State",
+    "Additional P.G",
+    "Presiding Officer",
+    "Additional Sessions Judge-I",
+    "Additional Sessions Judge-II"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

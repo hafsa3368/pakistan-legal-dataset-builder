@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "04.10.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Raza",
+    "accused",
+    "Anti- Terrorism Court, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,15 @@
   "case_number": "Criminal Bail Application No.S-1159 of 2022",
   "date_of_order": "28.11.2022",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 337-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Insaf Ali Qanunwala",
+    "Mr. Nasrullah A. Khaskheli",
+    "Mr. Abdul Waheed Bijarani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

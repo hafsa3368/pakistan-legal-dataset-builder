@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.831 of 2008",
-  "date_of_order": "",
+  "date_of_order": "28.06.2008",
   "judge": "AALIA NEELUM",
   "sections_cited": [
     "Section 9",
@@ -17,7 +17,10 @@
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nasir Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

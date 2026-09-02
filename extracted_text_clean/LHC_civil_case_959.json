@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Crl. Bail Application No.S-",
+  "case_number": "",
   "date_of_order": "15.06.2023",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ibrahim Gambhir",
+    "Mr. Shafi Muhammad Mahar",
+    "Mr. Achar Khan Gabol",
+    "Mr. Zulfiqar Ali Jatoi",
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Ubedullah Ghoto",
+    "Syed Naimat Ali Shah",
+    "Mr. Shafique Ali Leghari",
+    "Mr. Noor Hassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

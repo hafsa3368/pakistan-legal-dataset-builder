@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "31.08.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Israr Ahmed Shah",
+    "Mr. Zulfiqar Ali Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

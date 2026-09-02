@@ -26,7 +26,12 @@
     "PLD 1986 SC 158",
     "PLD 2002 SC 25"
   ],
-  "parties": [],
+  "parties": [
+    "Province of Punjab",
+    "Malik Abdul Latif Amar",
+    "Land Acquisition Collector Highway Department",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

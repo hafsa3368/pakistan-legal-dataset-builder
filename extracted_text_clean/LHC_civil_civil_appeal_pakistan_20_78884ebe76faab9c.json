@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "Civil Appeal Nos",
+  "case_number": "",
   "date_of_order": "24.05.2023",
   "judge": "Shahid Waheed Civil Appeal Nos",
   "sections_cited": [
@@ -24,7 +24,10 @@
     "PLD 1977 SC 28",
     "PLD 1964 SC 329"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Munir & others",
+    "Umar Hayat & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

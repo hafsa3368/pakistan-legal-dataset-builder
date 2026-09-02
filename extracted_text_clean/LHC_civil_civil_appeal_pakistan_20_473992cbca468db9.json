@@ -8,8 +8,11 @@
   "num_chunks": 7,
   "case_number": "W.P.No.30953 of 2024",
   "date_of_order": "05.06.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Shahid Bilal Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1985 SCMR 824",
     "2015 SCMR 1698",
@@ -21,7 +24,10 @@
     "PLD 1985 SC 345",
     "PLD 2001 SC 518"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Arif Tarar and another",
+    "Matloob Ahmad Warraich and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

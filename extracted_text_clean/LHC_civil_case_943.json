@@ -8,12 +8,21 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "01.02.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 59 of the Elections Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nusrat Hussain Memon",
+    "Election Commission of Pakistan",
+    "Mr. Dareshani Ali Haider 'Ada'",
+    "Deputy Attorney General",
+    "Mr. Ashfaque Hussain Abro",
+    "Assistant Attorney General",
+    "Mr. Ali Raza Baloch",
+    "Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

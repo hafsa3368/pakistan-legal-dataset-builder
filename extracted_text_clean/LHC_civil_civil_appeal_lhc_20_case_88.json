@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 27,
-  "case_number": "constitute invitation to treat and not",
+  "case_number": "",
   "date_of_order": "13.10.2021",
   "judge": "Rizwan",
   "sections_cited": [
@@ -27,7 +27,10 @@
     "PLD 2001 Karachi 24",
     "PLD 2019 Lahore 333"
   ],
-  "parties": [],
+  "parties": [
+    "Bank Alfalah Limited",
+    "Punjab Small Industries Corporation"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

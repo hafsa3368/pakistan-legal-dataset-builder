@@ -16,7 +16,11 @@
     "PLD 1990 SC 1",
     "PLD 2002 SC 677"
   ],
-  "parties": [],
+  "parties": [
+    "Noor Din",
+    "Peruaiz Akhtar",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

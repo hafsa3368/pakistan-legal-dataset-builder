@@ -9,9 +9,17 @@
   "case_number": "Civil Petitions No. 3232/2023",
   "date_of_order": "15.01.2026",
   "judge": "Shahid Bilal Hassan Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Shafique Khan and another",
+    "Mudrassa Taleem ul Quran, Branch Jamia Khair ul Madaris thr. Noman Waheed",
+    "Madrassa Taleem-ul-Quran Khairul Madaris, Multan and others",
+    "Ch. Muhammad Masood Jahangir, ASC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

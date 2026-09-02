@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "constituted and one of the Members is not",
+  "case_number": "",
   "date_of_order": "30.06.2024",
-  "judge": "",
+  "judge": "Muzammil Kamboh",
   "sections_cited": [
     "Section 194C of the Customs Act",
     "Section 194C of the Act",
@@ -17,7 +17,11 @@
     "Section 181 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Rana Muhammad Mehtab and Ch. Muhammad Awais Kamboh",
+    "M/s Hashim Aslam Butt, Muhammad Irfan, Ahmad Yar Khan, Ch. Muzammil Kamboh, Mazhar Abbas Malik, Irfan Haider Goraya and Ms. Fatima Mahmood",
+    "Collector of Customs Vs. M/s Bashir Pipe Industries (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

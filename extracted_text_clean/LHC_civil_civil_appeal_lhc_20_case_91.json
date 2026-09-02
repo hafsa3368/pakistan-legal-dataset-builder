@@ -28,7 +28,11 @@
     "PLD 1984 SC 344",
     "PLD 2005 SC 45"
   ],
-  "parties": [],
+  "parties": [
+    "Liaqat Ali",
+    "District Collector Gujrat",
+    "Nawaz Sharif Medical College"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

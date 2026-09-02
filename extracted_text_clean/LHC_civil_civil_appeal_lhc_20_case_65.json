@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 20,
-  "case_number": "criminal proceedings.10 15. There is another",
+  "case_number": "",
   "date_of_order": "11.03.2026",
   "judge": "Khalid Ishaq",
   "sections_cited": [
@@ -38,7 +38,10 @@
     "2005 SCMR 1388",
     "2023 SCMR 584"
   ],
-  "parties": [],
+  "parties": [
+    "Sughra Bibi",
+    "Tahir Hayat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

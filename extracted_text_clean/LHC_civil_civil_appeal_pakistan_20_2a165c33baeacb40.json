@@ -8,7 +8,7 @@
   "num_chunks": 17,
   "case_number": "CIVIL PETITION No. 1647 OF 2018",
   "date_of_order": "03.02.2022",
-  "judge": "",
+  "judge": "MUHAMMAD ALI MAZHAR",
   "sections_cited": [
     "Section 3",
     "Section 123 and 129",
@@ -28,7 +28,10 @@
     "PLD 1968 SC 54",
     "PLD 1985 SC 153"
   ],
-  "parties": [],
+  "parties": [
+    "Abid Hussain and others",
+    "Muhammad Yousaf and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

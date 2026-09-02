@@ -9,9 +9,15 @@
   "case_number": "Civil Appeal No. 8-K of 2020",
   "date_of_order": "07.08.2025",
   "judge": "Yahya Afridi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Asghar Khan",
+    "Muhammad Arif Khan and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

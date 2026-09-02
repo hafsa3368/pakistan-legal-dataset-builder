@@ -8,15 +8,25 @@
   "num_chunks": 10,
   "case_number": "",
   "date_of_order": "30.06.2011",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "SHAHID BILAL HASSAN",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "PLD 1986 SC 360",
+    "PLJ 1988 SC 224",
+    "Said Kamal case",
+    "Punjab Pre-emption Act, 1913"
+  ],
   "citations": [
     "2005 SCMR 895",
     "2010 SCMR 810",
     "PLD 1986 SC 360",
     "PLD 1984 SC 403"
   ],
-  "parties": [],
+  "parties": [
+    "Jamaat Ali",
+    "Bahadur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

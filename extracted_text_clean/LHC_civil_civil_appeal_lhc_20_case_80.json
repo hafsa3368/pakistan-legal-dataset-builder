@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Civil Petition No.708 of 2013",
   "date_of_order": "25-10-2023",
-  "judge": "Approved For Reporting JUDGE Arsalan",
+  "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
     "Section 187 of the Punjab Local Government Act",
     "Section 187 of the Act",
@@ -29,7 +29,12 @@
     "2003 SCMR 1505",
     "1999 SCMR 914"
   ],
-  "parties": [],
+  "parties": [
+    "Hasnain Afzal",
+    "Government of Punjab",
+    "Abid Aziz Sheikh",
+    "Ahmad Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

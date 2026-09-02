@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "06.04.2026",
-  "judge": "",
+  "judge": "SHAHID BILAL HASSAN",
   "sections_cited": [
     "section 211",
     "section 215 of the Contract Act"
@@ -22,7 +22,10 @@
     "PLD 2008 SC 389",
     "PLD 2025 SC 63"
   ],
-  "parties": [],
+  "parties": [
+    "Javed Iqbal & others",
+    "Mst. Farhat Iqbal (deceased)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

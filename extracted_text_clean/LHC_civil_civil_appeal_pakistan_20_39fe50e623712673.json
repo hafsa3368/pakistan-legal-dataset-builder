@@ -9,11 +9,17 @@
   "case_number": "Civil Appeal No.766 of 2021",
   "date_of_order": "15.11.2024",
   "judge": "Munib Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2016 SC 872"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Sarwar",
+    "Province of Punjab through District Collector, Lodhran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

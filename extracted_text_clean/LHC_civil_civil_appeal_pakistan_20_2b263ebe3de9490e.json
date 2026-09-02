@@ -6,12 +6,28 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "CIVIL PETITION Nos",
+  "case_number": "",
   "date_of_order": "17.12.2024",
   "judge": "Muhammad Ali Mazhar Justice Syed",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ali (Haider)",
+    "Zulfiqar Ali & others",
+    "Province of Sindh through Chief Secretary Govt. of Sindh & others",
+    "HEC",
+    "Pakistan Bar Council",
+    "Karachi University",
+    "Mr. Sibtain Mehmood Addl. A.G. Sindh",
+    "Mr. Mukesh Kumar Khatri, ASC",
+    "Mr. Ghulam Rasool Mangi, AOR",
+    "Mr. Salahuddin Gandapur, ASC",
+    "Mr. Shoaib M. Ashraf, ASC",
+    "Mr. Ameer Uddin, ASC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

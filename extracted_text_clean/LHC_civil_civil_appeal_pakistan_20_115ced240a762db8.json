@@ -9,7 +9,10 @@
   "case_number": "Civil Appeal No. 91-K of 2017",
   "date_of_order": "12.05.1997",
   "judge": "Faisal Arab Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Order 14, Rule 5 CPC"
+  ],
   "citations": [
     "2015 CLC 1",
     "1992 SCMR 846",
@@ -19,7 +22,12 @@
     "PLD 1997 Kar 62",
     "PLD 1978 Kar 1027"
   ],
-  "parties": [],
+  "parties": [
+    "Rahat and Company thr. Syed Naveed Hussain Shah",
+    "Trading Corporation of Pakistan Statutory Corporation",
+    "Rice Export Corporation of Pakistan",
+    "The Board of Directors of Rice Export Corporation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

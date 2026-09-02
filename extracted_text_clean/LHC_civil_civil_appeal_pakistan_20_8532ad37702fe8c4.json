@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Civil Petition No. 4-P of 2020",
   "date_of_order": "30.09.2020",
-  "judge": "",
+  "judge": "Yahya Afridi",
   "sections_cited": [
     "sections 364-A, 506, 512 and 452",
     "section 13 of the West Pakistan Arms Ordinance",
@@ -24,7 +24,10 @@
   "citations": [
     "PLD 2020 SC 1021"
   ],
-  "parties": [],
+  "parties": [
+    "Inspector General of Prison, Khyber Pakhtunkhwa",
+    "Habib Ullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

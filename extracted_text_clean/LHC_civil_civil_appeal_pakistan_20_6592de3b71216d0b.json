@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "CIVIL APPEAL NO.1300 of 2019",
   "date_of_order": "03.05.2023",
-  "judge": "",
+  "judge": "Muhammad Ali Mazhar",
   "sections_cited": [
     "Section 115 of the Code",
     "Section 115"
@@ -18,7 +18,10 @@
     "2013 SCMR 299",
     "2009 SCMR 598"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Faheeman Begum (deceased) through L.Rs and others",
+    "Islam-ud-Din (deceased) through L.Rs and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

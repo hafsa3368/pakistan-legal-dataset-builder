@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Bail Application No.S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "08-09-2023",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ali Dayo",
+    "Muhammad Iqbal Kalhoro",
+    "Farhan Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

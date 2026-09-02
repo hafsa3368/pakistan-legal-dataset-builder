@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "Constitution does not",
+  "case_number": "",
   "date_of_order": "29.07.1993",
   "judge": "Jamal Khan Mandokhail",
   "sections_cited": [
@@ -17,7 +17,15 @@
   "citations": [
     "PLD 2013 SC 641"
   ],
-  "parties": [],
+  "parties": [
+    "Balochistan Development Authority",
+    "BHP Minerals International Explorations Inc.",
+    "Tethyan Copper Company Pty Limited",
+    "Barrick Gold Corporation",
+    "Antofagasta plc",
+    "Government of Balochistan",
+    "Maulana Abdul Haque Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

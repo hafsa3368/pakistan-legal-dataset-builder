@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitutional Jurisdiction cannot",
+  "case_number": "",
   "date_of_order": "15.5.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 1756",
     "2016 SCMR 1602",
@@ -23,7 +26,21 @@
     "2022 SCMR 566",
     "2022 SCMR 472"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Haris and 30 others",
+    "Province of Sindh and 02 others",
+    "Naimatullah v. Province of Sindh and 02 others",
+    "Ms. Sidra Rahmat v. Province of Sindh and 02 others",
+    "Afzal Shaikh v. Province of Sindh and 02 others",
+    "Muhammad Shareef v. Province of Sindh and 02 others",
+    "Farzand Ali and another v. Province of Sindh and 02 others",
+    "Farooq Hussain v. Province of Sindh and 02 others",
+    "Naqash Mukhtiar v. Province of Sindh and 02 others",
+    "Sajid v. Province of Sindh and 02 others",
+    "Zahid Ali and 03 others v. Province of Sindh and 02 others",
+    "Adil Ishrat v. Province of Sindh and 02 others",
+    "Mohammad Owais Khan v. Province of Sindh and 02 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

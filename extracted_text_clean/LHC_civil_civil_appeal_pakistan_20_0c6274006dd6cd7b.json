@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Civil Petition Nos",
+  "case_number": "",
   "date_of_order": "22.09.2017",
-  "judge": "",
+  "judge": "Jamal Khan Mandokhail",
   "sections_cited": [
     "Sections 16 and 17 of the Code",
     "sections 16 and 17 of the CPC",
@@ -20,7 +20,10 @@
     "section 17 of the CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Habib & others",
+    "Mst. Noor Bibi & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

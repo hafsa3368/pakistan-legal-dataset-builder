@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1163 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "date_of_order": "13.12.2023",
+  "judge": "",
+  "sections_cited": [
+    "For Direction 1"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asim Aman",
+    "Mr. Zulfiqar Al Naich",
+    "Rashid Nawaz Rajper",
+    "Ubauro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

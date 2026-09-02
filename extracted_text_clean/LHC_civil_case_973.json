@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. App. No. S",
+  "case_number": "",
   "date_of_order": "18.03.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 173/512 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Jamshed Ahmed Faiz",
+    "Mr. Israr Ahmed Shah",
+    "Mr. Shafi Muhammad Mahar",
+    "Mr. Gulshan Ahmed Shujrah",
+    "Mr. Abdul Qadir",
+    "Private respondents No.1, 3 & 4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

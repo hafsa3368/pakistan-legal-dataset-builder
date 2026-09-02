@@ -6,16 +6,25 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "W.P.Nos",
+  "case_number": "",
   "date_of_order": "04.06.2025",
-  "judge": "",
+  "judge": "SHAHID BILAL HASSAN",
   "sections_cited": [
     "section 151"
   ],
   "citations": [
     "2016 SCMR 1821"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Amin Saqib",
+    "Zahida Perveen and others",
+    "Judge Family Court, Toba Tek Singh and others",
+    "Mr. Asif Mumtaz",
+    "Mr. Rana Rashid Akram Khan",
+    "Muhammad Amin Saqib and others",
+    "Mr. Rana Rashid Akram Khan",
+    "Zahida Perveen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

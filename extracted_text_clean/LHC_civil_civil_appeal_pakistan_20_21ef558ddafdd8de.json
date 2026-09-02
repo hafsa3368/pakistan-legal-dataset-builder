@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Petition No. 2144-L of 2011",
   "date_of_order": "29.07.2021",
-  "judge": "",
+  "judge": "Yahya Afridi",
   "sections_cited": [
     "section 42 of the Specific Relief Act",
     "section 39 of the Act",
@@ -28,7 +28,12 @@
     "PLD 1998 SC 1512",
     "PLD 1954 Dacca 134"
   ],
-  "parties": [],
+  "parties": [
+    "Khallid Hussain",
+    "Muhammad Yasin",
+    "Nazir Ahmad",
+    "Muhammad Rafique"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,21 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "15.03.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 302 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Anwar Ali Lohar",
+    "Mr. Ali Gul Abbasi",
+    "Mr. Mushtaque Ahmed W. Abbasi",
+    "Mr. Pardeep Kumar Chouhan",
+    "ASG",
+    "Shabbir Ali Bozdar",
+    "M/s Pardeep Kumar Chouhan and Rustam Ali",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

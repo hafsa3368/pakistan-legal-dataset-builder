@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "CIVIL PETITION No.5179 of 2025",
   "date_of_order": "25.02.2026",
-  "judge": "",
+  "judge": "SHAHID BILAL HASSAN",
   "sections_cited": [
     "section 5 of the Limitation Act",
     "section 96",
@@ -26,7 +26,13 @@
     "PLD 2007 SC 472",
     "PLD 2007 SC 582"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman and another",
+    "Syed Jaffar Hussain Razvi (decd) through LRs",
+    "Haji Muhammad Tariq Aziz Khokhar",
+    "Mr. Muhammad Fareed Chaudhary",
+    "Muhammad Saleem and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,22 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "19.12.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Athar Zai",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Faisal Hameed",
+    "Mst. Tayaba",
+    "Asim Hameed",
+    "Faisal Hameed",
+    "Asif Hameed",
+    "Tahir Mehmood",
+    "Muhammad Farooq",
+    "Mehmood Alam",
+    "Makhdoom Alam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Appeal No.795 of 2017",
   "date_of_order": "18.05.2023",
-  "judge": "",
+  "judge": "Shahid Waheed",
   "sections_cited": [
     "Section 13",
     "Section 14"
@@ -20,7 +20,10 @@
     "PLD 2014 SC 488",
     "PLD 2013 SC 190"
   ],
-  "parties": [],
+  "parties": [
+    "Kashmali Khan & others",
+    "Mst. Malala"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

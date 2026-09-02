@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "constituencies has been carried out and the notification",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "03.10.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Israr Ali Shah",
+    "Mr. Zeeshan Haider Qureshi",
+    "Mr. Muhammad Aslam Jatoi",
+    "Mr. Zulfiqar Ali Naich",
+    "Mr. Ali Murad Malano",
+    "Barrister Mohsin Shahwani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
