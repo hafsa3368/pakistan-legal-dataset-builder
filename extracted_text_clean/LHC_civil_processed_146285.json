@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-301 of 2020",
   "date_of_order": "10.09.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 337-A",
     "Section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aamir Ali Abbasi",
+    "Mr. Shakeel Ahmed Ansari",
+    "Mr. Muhammad Noonari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

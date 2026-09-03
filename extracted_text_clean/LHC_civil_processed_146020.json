@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Jail Appeal No.S-49 of 2017",
   "date_of_order": "20.08.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 382-B Cr.PC"
   ],
@@ -21,7 +21,11 @@
     "2018 SCMR-354",
     "2016 SCMR-958"
   ],
-  "parties": [],
+  "parties": [
+    "Suhail Ahmed s/o Noor Muhammad Ghunio",
+    "The State",
+    "Mst. Ayesha w/o late Khadim Hussain Ghunio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

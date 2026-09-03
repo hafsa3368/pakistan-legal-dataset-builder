@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No. S",
+  "case_number": "",
   "date_of_order": "31-03-2021",
   "judge": "Khadim Hussain Tunio",
   "sections_cited": [
@@ -15,7 +15,16 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Allah Wadhayo @ Makoro son of Muhammad Panjal bycaste Bozdar",
+    "The State",
+    "Mr. Justice Khadim Hussain Tunio",
+    "Mr. Justice Irshad Ali Shah",
+    "M/s Rukhsar Ahmed Junejo and Mumtaz Ali Junejo",
+    "Mr. Talib Hussain Siyal",
+    "Central Prison Khairpur",
+    "PS Pir Jo Goth"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

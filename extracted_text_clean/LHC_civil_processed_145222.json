@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Crl.B.A.No.S-178 of 2020",
   "date_of_order": "27.04.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah-J",
+  "sections_cited": [
+    "u/s 498 Cr.P.C"
+  ],
   "citations": [
     "2014 SCMR-1355"
   ],
-  "parties": [],
+  "parties": [
+    "Mst.Gullan Khatoon",
+    "Mr. Muhammad Noonari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

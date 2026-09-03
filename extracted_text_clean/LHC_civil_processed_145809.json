@@ -7,15 +7,19 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Misc. Appln. No. S-105 of 2020",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "17-08-2020",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 22-",
     "section 188 PPC",
     "section 561-A Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Safdar Ali Ghouri",
+    "Mr. Ali Anwar Kandhro, A.P.G",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

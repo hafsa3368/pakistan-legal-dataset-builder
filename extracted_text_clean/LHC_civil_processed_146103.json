@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-359 of 2020",
   "date_of_order": "07.09.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 497 Cr.PC",
     "section 497 Cr.PC"
@@ -17,7 +17,12 @@
     "1995 SCMR-34",
     "2009 SCMR-174"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mazhar Ali Bhutto",
+    "Mr.Rafique Ahmed Abro",
+    "Mr. Muhammad Noonari",
+    "Habib Hyder"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

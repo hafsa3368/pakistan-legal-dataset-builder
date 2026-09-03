@@ -6,15 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Appeal No. D",
+  "case_number": "",
   "date_of_order": "15-10-2019",
   "judge": "Muhammad Iqbal Mahar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 342 Cr.P.C",
+    "u/s 9"
+  ],
   "citations": [
     "2015 SCMR-1002",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Bilal son of Asghar Ali Shah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

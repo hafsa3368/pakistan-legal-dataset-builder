@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Appeal No.06-K of 2008",
   "date_of_order": "23.05.2018",
-  "judge": "JUDGE Tufail",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 382-B Cr.P.C",
     "section 9"
@@ -21,7 +21,10 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    "Bahar Begum w/o Faqeer Hussain by caste Jatt",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-389 of 2020",
   "date_of_order": "17.08.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 497 Cr.PC",
     "section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Soofan Shah",
+    "Abid Ali Chandio",
+    "Abdul Majeed",
+    "Muhammad Noonari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

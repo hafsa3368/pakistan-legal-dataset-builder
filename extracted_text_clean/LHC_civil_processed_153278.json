@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No. 86 of 2021",
   "date_of_order": "13.09.2021",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Section 6/9 of the CNS Act",
     "section 382",
@@ -28,7 +28,14 @@
     "2021 SCMR 128",
     "PLD 2009 Lahore 362"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Syed Ubaid-ur-Rehman",
+    "The State",
+    "The State",
+    "Syed Ubaid-ur-Rehman",
+    "Syed Hafizur Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,26 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitution petition was not",
+  "case_number": "",
   "date_of_order": "17.09.2019",
   "judge": "",
   "sections_cited": [
     "Section 22-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Arshad S. Pathan",
+    "Mr. Ghulam Sarwar Qureshi",
+    "Mr. Muhammad Ismail Bhutto",
+    "SHO PS Baldia",
+    "SIP Mirzo Khan",
+    "HC Zulfiqar",
+    "SSP Hyderabad",
+    "SHO PS Khoski",
+    "Private Respondent",
+    "Petitioner",
+    "Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

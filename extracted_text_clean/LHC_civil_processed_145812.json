@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.D-22 of 2020",
   "date_of_order": "18.08.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nooruddin Mahessar",
+    "Mr. Ali Anwar Kandhro",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

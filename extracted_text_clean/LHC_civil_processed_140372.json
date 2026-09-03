@@ -8,12 +8,21 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "23.09.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Ismail Bhutto",
+  "sections_cited": [
+    "u/s 12",
+    "u/s 12 CPC"
+  ],
   "citations": [
     "1999 MLD-3030"
   ],
-  "parties": [],
+  "parties": [
+    "Mir Muhammad",
+    "male legal heirs of late Mir Muhammad",
+    "female legal heirs of late Mir Muhammad",
+    "petitioners",
+    "respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

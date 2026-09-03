@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "13.10.2020",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arif Ali Bhatti, advocate for petitioners",
+    "respondents No.1 and 2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail.Appln.No.S-257 of 2021",
   "date_of_order": "22.11.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "u/s 498 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zafar Ali Malgani",
+    "Mr. Abdul Ghaffar",
+    "IRSHAD ALI SHAH, J",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

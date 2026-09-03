@@ -8,14 +8,21 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-399 of 2020",
   "date_of_order": "05.10.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 498 Cr.P.C",
     "Section 497 Cr.PC",
     "section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Hashim Soomro",
+    "Mr. Muhammad Noonari",
+    "Mr. Ahmed Bux Abro",
+    "State ~",
+    "Ghulam Ali",
+    "Dawood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,26 @@
   "case_number": "Criminal Appeal No.S-41 of 2019",
   "date_of_order": "20.08.2020",
   "judge": "Irshad Ali Shah For",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 47 of Qanun-e- Shahadat Order, 1984"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Safdar Ali Bhutto",
+    "Mr.Ghulamullah Memon",
+    "Mr.Makhdhoom Syed Tahir Abbas Shah",
+    "Mr. Muhammad Noonari",
+    "Khan Muhammad",
+    "HC Muhammad Azam Babar",
+    "ASI Ghulam Mustafa",
+    "Rajib Ali",
+    "Ali Hassan",
+    "Haji Saffar",
+    "Ali Akbar",
+    "Ghulam Mustafa"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

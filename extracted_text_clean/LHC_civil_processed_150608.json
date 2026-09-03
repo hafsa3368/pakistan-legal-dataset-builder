@@ -6,12 +6,25 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. Application No.S-",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "",
+  "date_of_order": "05.04.2021",
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 561-A Cr.P.C",
+    "u/s 22-A",
+    "u/s 561-",
+    "u/s 200 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mushtaq Ahmed Shahani",
+    "Irshad Ali Shah",
+    "the applicant",
+    "the proposed accused",
+    "the respondent",
+    "Muhammad Saleem Bhatti and others",
+    "Rai Ashraf and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

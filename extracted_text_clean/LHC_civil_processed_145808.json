@@ -8,10 +8,19 @@
   "num_chunks": 4,
   "case_number": "Crl.Acquittal Appeal No.S-05 of 2020",
   "date_of_order": "17.08.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mushtaq @ Baboo s/o Muhammad Qasim Chachar",
+    "The State",
+    "Mushtaq @ Baboo s/o Muhammad Qasim Chachar",
+    "The State",
+    "Private Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

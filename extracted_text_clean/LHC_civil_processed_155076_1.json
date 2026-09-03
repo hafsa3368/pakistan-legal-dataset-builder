@@ -9,9 +9,14 @@
   "case_number": "Civil Appeals No.19-K",
   "date_of_order": "02.11.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bahadur Ali Shahani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

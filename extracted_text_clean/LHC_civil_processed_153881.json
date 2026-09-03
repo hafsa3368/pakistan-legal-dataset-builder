@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No. 500 of 2020",
   "date_of_order": "28.09.2021",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Section 9",
     "section 382",
@@ -17,7 +17,14 @@
   "citations": [
     "2009 SCMR 1220"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ansar",
+    "The State",
+    "The State through Mr. Ali Haider Saleem",
+    "Additional Prosecutor General Sindh",
+    "Mr. Saqib Ali Awan",
+    "Mr. Ali Haider Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

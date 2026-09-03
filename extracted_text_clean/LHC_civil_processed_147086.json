@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "15.10.2020",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Irfan Ahmed Qureshi",
+    "Mr. Allah Bachayo Soomro",
+    "Syed Zakir Ali Shah",
+    "Regional Director, Sindh Katchi Abadi Shaheed Benazirabad",
+    "Mureed Ali Siyal",
+    "Mukhtiarkar Nawabshah",
+    "The petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

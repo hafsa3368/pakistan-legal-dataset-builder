@@ -8,10 +8,15 @@
   "num_chunks": 3,
   "case_number": "Crl.Acquittal.Appeal.No.S-93 of 2021",
   "date_of_order": "08.11.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Yasir Ali Shah",
+    "Mr. Muhammad Ashique Dhamrah",
+    "State and others",
+    "Abdul Khaliq and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

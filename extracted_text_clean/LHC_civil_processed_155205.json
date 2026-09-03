@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt:Petition.No.D-1260 of 2012",
   "date_of_order": "09.11.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed G.Abro",
+    "Mr. Liaquat Ali Shar",
+    "Petitioner",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

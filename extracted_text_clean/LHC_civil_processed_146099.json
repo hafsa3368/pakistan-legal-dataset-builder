@@ -8,10 +8,22 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-265 of 2020",
   "date_of_order": "07.09.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nadeem Ahmed Qureshi",
+    "Mr. Saeed Ahmed Bijarani",
+    "Mr. Muhammad Noonari",
+    "Deputy Prosecutor General",
+    "Abdul Razzaque",
+    "Deedar Ali",
+    "Ghulam Mustafa",
+    "Rashid Ali",
+    "Inayatullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

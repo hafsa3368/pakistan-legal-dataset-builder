@@ -6,12 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constitute disputed facts which cannot",
+  "case_number": "",
   "date_of_order": "13.01.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 23 of National Accountability Ordinance",
+    "u/s 12",
+    "u/s 23"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahbaz Sahotra, Special Prosecutor NAB a/w Mirza Aleem Baig",
+    "Ex-Secretaries Revenue, Stamps and Evacuee Properties, Govt. of Sindh",
+    "KW&SB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,16 @@
   "num_chunks": 1,
   "case_number": "Criminal Revision Application No.S-54 of 2020",
   "date_of_order": "15.11.2021",
-  "judge": "",
+  "judge": "Athar Abbas Solangi",
   "sections_cited": [
     "section 342 Cr.PC",
     "sections 346/347 and 190/193 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Applicant",
+    "private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

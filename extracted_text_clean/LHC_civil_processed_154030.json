@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No.06-K of 2008",
   "date_of_order": "21.05.2018",
-  "judge": "JUDGE Tufail",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 382-B Cr.P.C",
     "section 9"
@@ -17,7 +17,11 @@
     "2015 SCMR 1002",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Aleem s/o Muhram by caste Mallah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

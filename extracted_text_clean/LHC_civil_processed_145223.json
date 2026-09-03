@@ -8,13 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl.B.A.No.S-191 of 2020",
   "date_of_order": "27.04.2020",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 311 PPC",
     "Section 311 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zafar Ali Malgani",
+    "Mr. Muhammad Noonari",
+    "State",
+    "Mst.Aneela",
+    "Sadiq Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

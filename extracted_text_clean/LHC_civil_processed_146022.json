@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Jail Appeal No.S-108 of 2017",
   "date_of_order": "21.08.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 265-H",
     "section 302",
@@ -23,7 +23,13 @@
     "1993 SCMR 1614",
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Bux @ Ali s/o Popal Sabzoi",
+    "Ihsan s/o Muhammad Ameen Sabzoi",
+    "Ghulam Rasool son of Masu Khan Jafferi",
+    "The State",
+    "Abdul Sattar son of Masu Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl.Revision.Appln.No.S-66 of 2020",
   "date_of_order": "29.10.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [],
   "citations": [
     "2006 SCMR-373",
     "1986 SCMR-1934"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Habibullah Ghouri",
+    "Mr. Mazhar Ali Mangan",
+    "Mr. Ali Anwar Kandhro",
+    "The State",
+    "Imdad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

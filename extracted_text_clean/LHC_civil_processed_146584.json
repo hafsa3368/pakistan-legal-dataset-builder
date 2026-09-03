@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Appeal No.S-114 of 2016",
   "date_of_order": "31.08.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 302",
     "Section 382-B Cr.PC",
@@ -30,7 +30,20 @@
     "1995 SCMR-127",
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Peerano s/o Rasool Bux Malhoo",
+    "Moula Bux @ Nadir s/o Noor Khan",
+    "Illahi Bux s/o Noor Khan",
+    "Noor Khan s/o Rasool Bux @ Malhoo",
+    "Meer Khan s/o Rasool Bux @ Malhoo",
+    "Meer Hassan s/o Rasool Bux @ Malhoo",
+    "Jalaluddin son of Lakhmir Choliyani",
+    "Asif Ali Abdul Razak Soomro",
+    "Muhammad Noonari",
+    "The State",
+    "Bashir Ahmed",
+    "Makhno Choliyani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,22 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Criminal Misc. Application No. S-162 of 2020",
-  "date_of_order": "",
+  "date_of_order": "31-05-2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22A",
+    "u/s 200 Cr.P.C",
+    "u/s 561-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saeed Ahmed Bhatt",
+    "the private respondents",
+    "the applicant",
+    "the proposed accused",
+    "Rai Ashraf and others",
+    "Muhammad Saleem Bhatti and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

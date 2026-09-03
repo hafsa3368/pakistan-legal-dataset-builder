@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-394 of 2020",
   "date_of_order": "24.09.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shah Jahan Mirani",
+    "Complainant Muhammad Ismail",
+    "Mr. Muhammad Noonari",
+    "Deputy Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,21 @@
   "num_chunks": 3,
   "case_number": "Crl.B.A.No.S-45 of 2020",
   "date_of_order": "20.04.2020",
-  "judge": "",
+  "judge": "Irshad Ali Shah-J",
   "sections_cited": [
     "section 302 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nadeem Ahmed Khoso",
+    "Mr. Muhammad Noonari",
+    "State",
+    "Noor Ahmed",
+    "Raham Dil",
+    "Abdul Ghaffar",
+    "Parvez Ahmed",
+    "Haji Pir Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

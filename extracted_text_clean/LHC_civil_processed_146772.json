@@ -8,14 +8,18 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-402 of 2020",
   "date_of_order": "05.10.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [],
   "citations": [
     "2019 SCMR-1651",
     "2012 YLR-413",
     "1999 MLD-1584"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Shahbaz Ali Brohi",
+    "Mr. Muhammad Noonari",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,15 +7,23 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Crl. Jail Appeal No.S-119 of 2013",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "28-12-2020",
+  "judge": "Irshad Ali Shah-J",
   "sections_cited": [
     "section 34 PPC",
     "section 382-B Cr.P.C",
     "section 345 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Abbas",
+    "Naeem Abbas",
+    "Saeed Abbas",
+    "Mst. Dhiyani",
+    "Mst. Nimani",
+    "Mst. Sabul",
+    "Chandni"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "13.10.2020",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdullah Shah Ghazi Sugar Mills Ltd.",
+    "Mr. Noor Ahmed Memon",
+    "Mr. Wali Muhammad Jamari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

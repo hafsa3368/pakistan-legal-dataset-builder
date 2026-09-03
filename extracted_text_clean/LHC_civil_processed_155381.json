@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt:Petition.No.D-556 of 2021",
   "date_of_order": "16.11.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s.Ali Madad Arijo & Wakeel Ali Shaikh",
+    "Mr. Abdul Hamid Bhurgri",
+    "Mr. Riaz Hussain Dero",
+    "Mr. Abdul Ghaffar Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Appeal No. No",
-  "date_of_order": "",
+  "case_number": "Crl. Appeal No. No.S-27 of 2021",
+  "date_of_order": "29-04-2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 409 PPC",
+    "u/s 426 CrPC"
+  ],
   "citations": [
     "1999 SCMR 2589"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Gul Abbasi",
+    "Mr. Muneer Ahmed Siyal",
+    "FIA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. Appln. No.S-",
+  "case_number": "",
   "date_of_order": "18.10.2019",
-  "judge": "Ahmed/Pa",
+  "judge": "",
   "sections_cited": [
     "section 347 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sajjad Ali Shah",
+    "learned Sessions Judge, Tando Allahyar",
+    "learned trial Magistrate",
+    "learned Sessions Judge, Tando Allahyar",
+    "other side"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,16 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-411 of 2020",
   "date_of_order": "18.09.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Khalid",
+    "Mr. Muhammad Afzal Jagirani",
+    "Mr. Muhammad Noonari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

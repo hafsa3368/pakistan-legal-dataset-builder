@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Constt.Petition.No.D-99 of 2021",
   "date_of_order": "21.10.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH-J",
   "sections_cited": [
     "section 302,114,148,149 PPC",
     "section 302 PPC"
@@ -18,7 +18,14 @@
     "2006 SCMR-373",
     "1986 SCMR-1934"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Murtaza Jokhio",
+    "IRSHAD ALI SHAH-J",
+    "The petitioner who is neither the complainant nor accused of FIR Crime No.72/2020",
+    "The complainant party",
+    "The State",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

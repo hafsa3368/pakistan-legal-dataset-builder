@@ -8,10 +8,21 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "26.08.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "(Retd.) Muhammad Saeed Khan Khokhar",
+  "sections_cited": [
+    "U/s 324 PPC",
+    "U/s 353 PPC",
+    "u/s 342 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faisal Ali Raza Bhatti",
+    "Mr. Shahid Ahmed Shaikh",
+    "State",
+    "ASI Allah Bux",
+    "Naseer",
+    "Shoukat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

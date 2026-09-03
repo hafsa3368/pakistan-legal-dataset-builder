@@ -6,8 +6,8 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Bail Application No.S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "19-06-2020",
   "judge": "",
   "sections_cited": [
     "section 497 Cr.P.C"
@@ -17,7 +17,10 @@
     "2020 SCMR 350",
     "2010 SCMR 1989"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mehfooz Ahmed Awan",
+    "Mr. Mohsin Ali Khan, Special Prosecutor for ANF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

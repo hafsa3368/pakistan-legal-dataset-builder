@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Bail. Application No.S-",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "15.04.2021",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "section 497"
@@ -17,7 +17,14 @@
     "2017 SCMR 366",
     "2020 SCMR 2053"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Hussain",
+    "Mr. Achar Khan Gabole",
+    "Mr. Shabbir Ahmed Malik",
+    "Syed Sardar Ali Shah Rizvi",
+    "Mst. Kaneez Fatima",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

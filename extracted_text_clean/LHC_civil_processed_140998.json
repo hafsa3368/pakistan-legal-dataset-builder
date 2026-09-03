@@ -6,15 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. Appln. No.S-",
+  "case_number": "",
   "date_of_order": "25.10.2019",
-  "judge": "Ahmed/Pa",
+  "judge": "",
   "sections_cited": [
     "Section 22-A",
     "Section 561-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mumtaz Sachal Awan",
+    "Ms. Rameshan Oad",
+    "Mr. Ashfaque Ahmed A. Solangi",
+    "applicant",
+    "private respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

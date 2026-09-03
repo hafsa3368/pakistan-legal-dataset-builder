@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No. D",
+  "case_number": "",
   "date_of_order": "27-04-2021",
   "judge": "Khadim Hussain Tunio",
   "sections_cited": [
@@ -19,7 +19,10 @@
     "2019 MLD 962",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Nadir Ali s/o Yar Muhammad by caste Buriro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

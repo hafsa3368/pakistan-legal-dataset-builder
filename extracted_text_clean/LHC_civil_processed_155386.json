@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal.No.D-81 of 2019",
   "date_of_order": "16.11.2021",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahbaz Ali Brohi",
+    "Mr. Ali Anwar Kandhro",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

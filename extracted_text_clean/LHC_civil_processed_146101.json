@@ -8,10 +8,24 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-292 of 2020",
   "date_of_order": "07.09.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Safdar Ali Bhutto",
+    "Mr. Imdad Ali Joyo",
+    "Mr. Muhammad Noonari",
+    "Mr. Muhammad Ali",
+    "Mst. Razul",
+    "Seengar Ali",
+    "Mst. Afshan",
+    "Mst. Noshan",
+    "Shahbaz",
+    "Ali Sher",
+    "Muhammad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

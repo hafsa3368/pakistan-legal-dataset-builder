@@ -9,11 +9,16 @@
   "case_number": "Criminal Bail Application No.D-07 of 2021",
   "date_of_order": "30-03-2021",
   "judge": "Khadim Hussain Tunio",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2009 SCMR 299"
   ],
-  "parties": [],
+  "parties": [
+    "Shah Muhammad",
+    "Rehmatullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

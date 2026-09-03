@@ -8,13 +8,20 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-412 of 2020",
   "date_of_order": "01.10.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 497 Cr.PC",
     "Section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Altaf Hussain Surhio",
+    "Mr. Abdullah Kehar",
+    "Mr. Muhammad Noonari",
+    "Saddam Hussain",
+    "The State",
+    "Jahanzeb Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

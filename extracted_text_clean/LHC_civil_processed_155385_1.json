@@ -9,9 +9,16 @@
   "case_number": "Crl.Transfer Appln.No.D-04 of 2021",
   "date_of_order": "16.11.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashfaque Hussain Abro",
+    "Mr. Ahmed Bux Abro",
+    "Mr. Aitbar Ali Bullo",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

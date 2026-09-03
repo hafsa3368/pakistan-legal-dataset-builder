@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-327 of 2020",
   "date_of_order": "10.08.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S. Shahbaz Ali Brohi & Abdul Rehman Bhutto",
+    "Complainant Ayaz Ahmed Soomro in person",
+    "Mr. Muhammad Noonari, Deputy Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Misc. Appln. No. S-160 of 2020",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "06-08-2020",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 441, 447, 511, 506/2, 148, 149 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Blosch Ahmed Junejo",
+    "Mr. Zafar Ali Malgani",
+    "Mr. Aitbar Ali Bullo",
+    "the State",
+    "local Zamindar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

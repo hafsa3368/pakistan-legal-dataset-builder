@@ -8,14 +8,22 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-382 of 2020",
   "date_of_order": "07.09.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 161 Cr.PC"
   ],
   "citations": [
     "2009 SCMR-299"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Shahbaz Ali Brohi",
+    "Mr. Muhammad Noonari",
+    "The State",
+    "PW Hazaro",
+    "Naseer Ahmed",
+    "Habibullah",
+    "Karamullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

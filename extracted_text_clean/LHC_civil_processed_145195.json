@@ -9,9 +9,17 @@
   "case_number": "Crl.Misc.Appln.No.S-68 of 2020",
   "date_of_order": "20.04.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 22-A CrPC",
+    "Section 22-B CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Akhtiar Begum",
+    "Mr. Ghulam Murtaza Jokhio",
+    "Mr. Muhammad Noonari",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

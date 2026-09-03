@@ -9,9 +9,18 @@
   "case_number": "",
   "date_of_order": "16.12.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 151",
+    "u/s 151 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sulleman Unar",
+    "ALTER S.A.R.L Laboratories Portugal",
+    "Government of Pakistan",
+    "Ministry of Foreign Affairs",
+    "Director General (E- 2 I) Ministry of Foreign Affairs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

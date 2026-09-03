@@ -8,12 +8,21 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-407 of 2020",
   "date_of_order": "11.09.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 Cr.PC"
+  ],
   "citations": [
     "1986 SCMR-1380"
   ],
-  "parties": [],
+  "parties": [
+    "Munir Ahmed",
+    "Fayaz Ali Shaikh",
+    "Muhammad Noonari",
+    "Muneer Ahmed",
+    "Muhammad Ramzan",
+    "Zafarullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

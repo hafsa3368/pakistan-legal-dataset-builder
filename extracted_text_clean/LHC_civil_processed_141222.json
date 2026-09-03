@@ -8,10 +8,12 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "04.11.2019",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Nawaz Chang, advocate for petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

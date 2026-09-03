@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Crl. Jail Appeal No. D",
+  "case_number": "",
   "date_of_order": "03-10-2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -21,7 +21,12 @@
     "1988 SCMR 557",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Ibrahim",
+    "Saleh",
+    "Muhammad Hashim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

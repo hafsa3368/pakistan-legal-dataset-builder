@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.D-25 of 2020",
   "date_of_order": "25.08.2020",
-  "judge": "JUDGE",
+  "judge": "Muhammad Junaid Ghaffar",
   "sections_cited": [
     "section 497 Cr.PC"
   ],
@@ -16,7 +16,14 @@
     "2009 SCMR-448",
     "2009 SCMR-299"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Junaid Ghaffar",
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Nasrullah Solangi",
+    "Mr. Muhammad Noonari",
+    "Ghaneso Ram",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

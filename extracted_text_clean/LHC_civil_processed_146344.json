@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-309 of 2020",
   "date_of_order": "17.09.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Waheed Khushik",
+    "Mr. Faiz Muhammad Larik",
+    "Mr. Muhammad Noonari",
+    "State",
+    "Rashid Ali",
+    "Sudheer Ali",
+    "Irfan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

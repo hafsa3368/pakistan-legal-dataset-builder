@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt:Petition. No.S-309 of 2020",
   "date_of_order": "15.09.2020",
   "judge": "",
   "sections_cited": [
     "Section 491"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Shaoor @ Ghulam Hussain",
+    "Waqar Ali",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

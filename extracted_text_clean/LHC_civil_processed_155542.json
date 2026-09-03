@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal.No.S-24 of 2021",
   "date_of_order": "22.11.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 25 of Sindh Arms Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Mr. Saeed Ahmed Bijarani",
+    "Mr. Abdul Ghaffar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

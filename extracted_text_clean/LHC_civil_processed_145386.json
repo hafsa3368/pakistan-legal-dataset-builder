@@ -6,12 +6,23 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Bail Application No. S",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "26-06-2020",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mumtaz Ali Khush",
+    "Mr. Ali Dad Narejo",
+    "Mr. Abdul Rahman Kolachi",
+    "State",
+    "Mst. Soomal",
+    "Nadeem",
+    "Naseem",
+    "Khamiso"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

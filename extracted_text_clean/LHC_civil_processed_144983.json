@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl.B.A.No.S-64 of 2020",
   "date_of_order": "20.04.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Asif Ali Abdul Razzak Soomro",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asif Ali Abdul Razzak Soomro",
+    "Mr. Muhammad Noonari",
+    "the State",
+    "Waqar Ahmed",
+    "the complainant party"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

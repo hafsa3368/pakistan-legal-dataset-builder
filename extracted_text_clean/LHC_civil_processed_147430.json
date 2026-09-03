@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "05.11.2020",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 12 and 23",
     "section 23",
@@ -19,7 +19,16 @@
     "2019 YLR 989",
     "2010 YLR 2766"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Shahbaz World Builders",
+    "MAB",
+    "NAB",
+    "Mr. Ubedullah Abro",
+    "Habib Bank Ltd.",
+    "Jacobabad Branch",
+    "China International Water and Electric Corporation",
+    "Barrister Waleed Khanzada"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

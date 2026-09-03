@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE asim/pa",
+  "date_of_order": "17.03.2020",
+  "judge": "",
   "sections_cited": [
     "Section 488/382/34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khan Muhammad",
+    "Mr. Jan Muhammad Khuhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-93 of 2020",
   "date_of_order": "06.08.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Makhdoom Tahir Abbas Shah",
+    "Mr. Nazir Ahmed Chachar",
+    "Mr. Muhammad Noonari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

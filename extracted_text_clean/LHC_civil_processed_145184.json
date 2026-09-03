@@ -9,11 +9,19 @@
   "case_number": "Cr.B.A.No.S-212 of 2020",
   "date_of_order": "18.05.2020",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.PC"
+  ],
   "citations": [
     "2005 MLD-1267"
   ],
-  "parties": [],
+  "parties": [
+    "Nisar Ahmed Bhutto",
+    "Mr. Safdar Ali Bhutto",
+    "Mr. Muhammad Noonari",
+    "The State",
+    "Afsar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

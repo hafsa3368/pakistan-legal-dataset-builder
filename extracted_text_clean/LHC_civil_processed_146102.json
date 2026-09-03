@@ -8,14 +8,18 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-320 of 2020",
   "date_of_order": "07.09.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [
     "2009 SCMR-299"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Shahbaz Ali Brohi",
+    "Mr. Mashkoor Hussain Unar",
+    "Mr. Muhammad Noonari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

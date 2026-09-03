@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Revision Application No.S-94 of 2020",
-  "date_of_order": "",
+  "date_of_order": "31.12.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 540 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faisal Shams",
+    "Mr. Shafi Muhammad Mahar",
+    "the applicant",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

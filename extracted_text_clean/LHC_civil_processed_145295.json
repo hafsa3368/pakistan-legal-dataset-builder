@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Jail Appeal No. S",
+  "case_number": "",
   "date_of_order": "08-06-2020",
   "judge": "Irshad Ali Shah Appellant",
   "sections_cited": [
@@ -15,7 +15,11 @@
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Rashid son of Bashir Ahmed bycaste Khaldi",
+    "Muhammad Kashif son of Ghulam Sarwar bycaste Khaldi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

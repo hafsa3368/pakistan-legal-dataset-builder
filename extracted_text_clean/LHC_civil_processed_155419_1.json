@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt:Petition.No.D-630 of 2021",
   "date_of_order": "17.11.2021",
   "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Mukesh Kumar G.Karara & Vinod Kumar G.Jessrani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

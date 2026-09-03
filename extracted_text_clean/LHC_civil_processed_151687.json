@@ -8,13 +8,35 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.S-70 of 2020",
   "date_of_order": "31-05-2021",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 221 Cr.P.C",
     "section 231 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khamiso son of Ahmed",
+    "Ghulam Ghous son of Bakhshal",
+    "Riaz son of Wasayo",
+    "Ashiq son of Hoat",
+    "Ghulam Murtaza son of Bagoo",
+    "Ghulam Hussain @ Bagoo son of Baloch",
+    "Ghulam Hyder son of Bagoo",
+    "Bakhshal son of Baloch",
+    "Rasheed son of Ahmed",
+    "Imam Ali son of Bagoo",
+    "Farooq son of Khamiso",
+    "Alam son of Wasayo",
+    "Khairoo son of Khanoo",
+    "Ghulam Nabi son of Wasayo",
+    "Hoat son of Khuda Bux",
+    "Muneer Ahmed",
+    "Syed Sardar Ali Shah Rizvi",
+    "Muhammad Iqbal Memon",
+    "Qurban Ali Malano",
+    "Nisar Ahmed Bhanbhro",
+    "Rukhsar Ahmed Junejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

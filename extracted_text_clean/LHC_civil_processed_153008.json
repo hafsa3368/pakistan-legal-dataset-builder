@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Anti-Terrorism Appeal No.99 of 2020",
   "date_of_order": "30.08.2021",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Sections 4/5 of Explosive Substances Act",
     "Section 7",
@@ -20,7 +20,10 @@
     "2005 P.Cr.L.J 310",
     "2020 SCMR 853"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ishaq alias Gul Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

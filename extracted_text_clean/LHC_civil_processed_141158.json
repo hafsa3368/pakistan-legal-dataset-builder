@@ -6,16 +6,23 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Cr.Acq.Appeal No.S-",
+  "case_number": "",
   "date_of_order": "01.11.2019",
-  "judge": "Ahmed/Pa",
+  "judge": "",
   "sections_cited": [
     "section 417 Cr.P.C"
   ],
   "citations": [
     "2017 P.Cr.L.J 155"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Liaquat Ali Larik",
+    "Mr. Meer Ahmed Mangrio",
+    "Ms. Rameshan Oad",
+    "Ms. Rameshan Oad",
+    "Hashim",
+    "Mr. Meer Ahmed Mangrio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

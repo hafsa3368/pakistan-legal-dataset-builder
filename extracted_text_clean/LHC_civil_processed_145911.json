@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-210 of 2020",
   "date_of_order": "20.08.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Haji Ahsan Ahmed Memon",
+    "Mr. Muhammad Noonari",
+    "the State",
+    "Mst.Samina",
+    "Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

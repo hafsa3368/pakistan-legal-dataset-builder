@@ -7,14 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Misc. Appln. No. S-248 of 2020",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "11-09-2020",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 395, 397 PPC",
     "section 22-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mujahid Ali Jatoi",
+    "IRSHAD ALI SHAH",
+    "PW Ali Jan",
+    "the applicant",
+    "the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

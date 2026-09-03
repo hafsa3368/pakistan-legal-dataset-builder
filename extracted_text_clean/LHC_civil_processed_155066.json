@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Cr.Appeal No. D-",
+  "case_number": "",
   "date_of_order": "26.04.2018",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 9",
     "Section 382-B Cr.P.C",
@@ -26,7 +26,15 @@
     "PLD 2005 Karachi 128",
     "PLD 1997 SC 408"
   ],
-  "parties": [],
+  "parties": [
+    "Mureed Majeedano",
+    "The State",
+    "Mr. Justice Naimatullah Phulpoto",
+    "Mr. Justice Shamsuddin Abbasi",
+    "The State",
+    "Mr. Muhammad Ayoub Kasar",
+    "ANF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

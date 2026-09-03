@@ -27,7 +27,11 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    "Appellants",
+    "Complainant",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

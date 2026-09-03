@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-388 of 2020",
   "date_of_order": "10.09.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 498-A Cr.P.C",
     "section 497 Cr.PC"
@@ -16,7 +16,14 @@
   "citations": [
     "2002 MLD-113"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rehman Bhutto",
+    "Mr. Imtiaz Ali Mugheri",
+    "Mr. Muhammad Noonari",
+    "The State",
+    "Raja Khan",
+    "Sikander Janwari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

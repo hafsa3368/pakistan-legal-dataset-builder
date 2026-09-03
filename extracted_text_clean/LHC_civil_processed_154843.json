@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-435 of 2021",
   "date_of_order": "25.10.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498-A Cr.PC",
     "Section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Mohiuddin Durrani",
+    "Zahid Hussain",
+    "Mr. Abdul Ghaffar",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "Crl.B.A.No.S-54 of 2020",
   "date_of_order": "10.04.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Ghafoor",
+    "Muhammad Aslam",
+    "Abdul Rasool",
+    "Muhammad Qasim",
+    "Muhammad Noonari",
+    "Muhammad Afzal Jagirani",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

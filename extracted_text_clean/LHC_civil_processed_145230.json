@@ -6,16 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Bail. Application No.S-",
+  "case_number": "",
   "date_of_order": "01.06.2020",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 498-A Cr.P.C"
   ],
   "citations": [
     "1986 SCMR 182"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Shabbir Dayo",
+    "Mr. Aftab Hussain Shar",
+    "Mr. Nisar Ahmed Bhanbhro",
+    "Mr. Abdul Rehman Kolachi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

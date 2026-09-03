@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No. D",
+  "case_number": "",
   "date_of_order": "10-10-2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -15,7 +15,11 @@
   "citations": [
     "2014 SCMR-1034"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Jalaluddin alias Jalal son of Allah Bux Rajput Chohan",
+    "Muhammad Siddique"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

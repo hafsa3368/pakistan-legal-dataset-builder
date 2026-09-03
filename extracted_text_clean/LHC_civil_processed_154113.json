@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 703 of 2019",
   "date_of_order": "30.09.2021",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Section 302"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Siddique",
+    "The State",
+    "Rasool Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

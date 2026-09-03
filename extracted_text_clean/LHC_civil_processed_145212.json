@@ -9,14 +9,20 @@
   "case_number": "Cr.B.A.No.S-52 of 2020",
   "date_of_order": "23.04.2020",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.PC"
+  ],
   "citations": [
     "2007 MLD-340",
     "2018 MLD-745",
     "2015 SCMR-655",
     "2017 SCMR-325"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Pardeep Kumar B.Butani",
+    "Mr. Rafique Ahmed Abro",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

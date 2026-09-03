@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.552 of 2020",
   "date_of_order": "06.09.2021",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Section 9"
   ],
@@ -20,7 +20,22 @@
     "2018 SCMR 772",
     "PLD 2009 SC 39"
   ],
-  "parties": [],
+  "parties": [
+    "Kala Chand",
+    "The State",
+    "Abdul Hassan",
+    "Mr. Muhammad Iqbal Awan",
+    "Mr. Nadir Khan Burdi",
+    "The State",
+    "Mst. Sakina Ramzan",
+    "Mr. Muhammad Suleman",
+    "ASI Zameer Hussain",
+    "PI Mst. Najamun Nisa",
+    "HC Muhammad Hussain",
+    "Mst. Sughran",
+    "Tariq Mehmood",
+    "Mst. Abdul Ghani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

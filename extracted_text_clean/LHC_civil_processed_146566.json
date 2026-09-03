@@ -9,11 +9,19 @@
   "case_number": "Civil Petition No.15-K of 2019",
   "date_of_order": "23.09.2020",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR-997"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Junaid Ghaffar",
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Habibullah Ghouri",
+    "Mr. Liaquat Ali Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

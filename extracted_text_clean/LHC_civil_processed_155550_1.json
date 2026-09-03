@@ -6,14 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-1195 of 2012",
   "date_of_order": "23.11.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 SCMR-1077"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Habibullah Ghouri",
+    "Mr. Liaquat Ali Shar",
+    "The Petitioner",
+    "The Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

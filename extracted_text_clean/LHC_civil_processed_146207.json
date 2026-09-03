@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Crl. Anti-Terrorism Appeal No.D-31 of 2018",
   "date_of_order": "02.09.2020",
-  "judge": "JUDGE Naeem",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Sections 324, 392, 302 and 34",
     "Section 7",
@@ -37,7 +37,24 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "petitioner",
+      "name": "Sheeraz Khan"
+    },
+    {
+      "type": "petitioner",
+      "name": "Muhammad Ashraf"
+    },
+    {
+      "type": "respondent",
+      "name": "The State"
+    },
+    {
+      "type": "respondent",
+      "name": "The State"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Misc. Appln. No.S-",
+  "case_number": "",
   "date_of_order": "08.11.2019",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Abdul Razaque Dasti",
+  "sections_cited": [
+    "u/s 22-A",
+    "U/s 324-Q, 337-H"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Razaque Dasti",
+    "Mr. Pervaiz Tariq Tagar",
+    "Ms. Rameshan Oad",
+    "Mumtaz Ali",
+    "Qurban Ali",
+    "Aijaz Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

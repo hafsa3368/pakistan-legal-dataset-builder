@@ -9,7 +9,10 @@
   "case_number": "",
   "date_of_order": "10.10.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 12",
+    "U/s 12"
+  ],
   "citations": [
     "2010 SCMR 1066",
     "2001 SCMR 1316",
@@ -23,7 +26,13 @@
     "2017 SCMR 206",
     "2017 SCMR 902"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Amir Ali Memon",
+    "Mr. Muhammad Ismail Bhutto",
+    "None",
+    "None",
+    "None"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

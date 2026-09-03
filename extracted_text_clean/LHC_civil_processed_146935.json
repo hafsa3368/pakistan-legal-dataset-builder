@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-420 of 2020",
   "date_of_order": "08.10.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 161/164 Cr.PC"
   ],
@@ -17,7 +17,16 @@
     "2015 SCMR-825",
     "1986 SCMR-1380"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Amanullah Luhur",
+    "Mr. Irfan Badar Abbasi",
+    "Mr. Muhammad Noonari",
+    "P.O Sindh and others",
+    "Inayatullah",
+    "Awais Ahmed",
+    "Akhtar",
+    "Shah Jamal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

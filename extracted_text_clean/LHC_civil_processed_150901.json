@@ -6,14 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Bail Application No.S-",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "16.04.2021",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sikander Ali Junejo",
+    "Mr. Saeed Ahmed Bhatt",
+    "Mr. Shafi Muhammad Mahar",
+    "Khan Muhammad",
+    "the State",
+    "Sahib Dino @ Allah Dino"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

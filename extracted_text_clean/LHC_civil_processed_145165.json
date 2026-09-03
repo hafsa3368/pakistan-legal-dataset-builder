@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constt. Petition No. S-",
+  "case_number": "",
   "date_of_order": "11.05.2020",
   "judge": "Ansari",
   "sections_cited": [
     "section 491 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst.Babra",
+    "Sajid Ali",
+    "Sajjad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

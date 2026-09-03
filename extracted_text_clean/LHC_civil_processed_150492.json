@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Crl. Bail. Application No.S-611 of 2020",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "29-03-2021",
+  "judge": "Irshad Ali Shah,",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
@@ -18,7 +18,11 @@
     "1990 SCMR 319",
     "2006 SCMR 1292"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Irshad Hussain Dharejo and Syed Murad Ali Shah advocates for the applicants",
+    "Mr. Nisar Ahmed Bhanbhro, advocate for the complainant",
+    "Mr. Aftab Ahmed Shar, Additional Prosecutor General for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

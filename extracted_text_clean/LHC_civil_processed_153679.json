@@ -8,14 +8,22 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.308 of 2021",
   "date_of_order": "20.09.2021",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Section 6/9"
   ],
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Safdar Ali Khan",
+    "The State",
+    "Sabz Ali Khan",
+    "Mr. Ali Haider Saleem",
+    "Mr. Shah Imroz Khan",
+    "The State",
+    "Arif Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

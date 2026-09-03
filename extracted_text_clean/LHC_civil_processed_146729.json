@@ -6,15 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "criminal cases is a recent innovation",
+  "case_number": "",
   "date_of_order": "29.09.2020",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2006 SCMR-373",
     "1986 SCMR-1934"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muzafar Ali Wadhio",
+    "IRSHAD ALI SHAH-J"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

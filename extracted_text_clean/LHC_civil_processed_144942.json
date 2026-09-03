@@ -9,9 +9,18 @@
   "case_number": "Crl.Misc.Appln.No.S-242 of 2019",
   "date_of_order": "10.04.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.PC",
+    "u/s 561-A Cr.PC",
+    "Section 497 CrPC",
+    "Section 337 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar",
+    "Muhammad Noonari",
+    "Police Station Ratodero"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

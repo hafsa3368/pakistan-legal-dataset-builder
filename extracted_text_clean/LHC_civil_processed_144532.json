@@ -7,15 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Cr.B.A.No.138 of 2020",
-  "date_of_order": "",
-  "judge": "JUDGE asim/pa",
+  "date_of_order": "17.03.2020",
+  "judge": "",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [
     "2015 SCMR 133"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Asghar",
+    "Mr. Ali Haider Saleem",
+    "Mr. Qadir Khan Mandokhail",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

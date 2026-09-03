@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Jail Appeal No. D",
+  "case_number": "",
   "date_of_order": "03-06-2020",
   "judge": "Naimatullah Phulpoto Mr",
   "sections_cited": [
@@ -18,7 +18,10 @@
   "citations": [
     "2008 SCMR 1572"
   ],
-  "parties": [],
+  "parties": [
+    "Wali Muhammad @ Waloo son of Allah Wadhayo Rajar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

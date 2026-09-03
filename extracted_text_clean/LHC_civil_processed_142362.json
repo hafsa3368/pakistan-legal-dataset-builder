@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. Appln. No.S-",
+  "case_number": "",
   "date_of_order": "20.12.2019",
-  "judge": "Ahmed/Pa",
+  "judge": "",
   "sections_cited": [
     "section 154 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Agha Ghulam Abbas",
+    "Private respondent",
+    "Sho PS Odero Lal",
+    "the applicant",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

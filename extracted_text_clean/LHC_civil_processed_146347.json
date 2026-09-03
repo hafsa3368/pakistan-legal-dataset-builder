@@ -8,13 +8,18 @@
   "num_chunks": 1,
   "case_number": "Crl.Bail Appln.No.S-427 of 2020",
   "date_of_order": "17.09.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 3/4 of Sindh Child Marriage Restraint Act",
     "Section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Ashfaque Hussain Abro",
+    "Mr. Muhammad Noonari",
+    "SIP Khan Muhammad Jagirani",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-325 of 2020",
   "date_of_order": "07.08.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashiq Ali Jatoi",
+    "Mr. Abid Hussain Qadri",
+    "Mr. Muhammad Noonari",
+    "PW Sameer",
+    "the complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

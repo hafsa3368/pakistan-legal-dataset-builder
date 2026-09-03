@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-148 of 2020",
   "date_of_order": "23.11.2021",
   "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Inayatullah G. Morio",
+    "Mr. Imtiaz Ali Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

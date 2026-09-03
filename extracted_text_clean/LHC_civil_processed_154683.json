@@ -8,10 +8,19 @@
   "num_chunks": 3,
   "case_number": "Crl.Acquittal.Appeal.No.S-91 of 2021",
   "date_of_order": "20.10.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahid Hussain Kourejo",
+    "Mrs. Tahira Parveen",
+    "Mr. Ali Anwar Kandhro",
+    "State",
+    "Private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

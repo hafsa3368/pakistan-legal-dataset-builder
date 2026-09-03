@@ -8,13 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.S-18 of 2020",
   "date_of_order": "24-05-2021",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 149 PPC",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mithal Khan @ Ghulam Mustafa",
+    "Noor Muhammad @ Shoukat Ali",
+    "Ghulam Murtaza",
+    "Mir Muhammad @ Mir",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

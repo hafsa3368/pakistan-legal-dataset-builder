@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-488 of 2021",
   "date_of_order": "25.11.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498-A Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Atta Hussain Qadri",
+    "Abdul Ghaffar",
+    "Abdul Rehman",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

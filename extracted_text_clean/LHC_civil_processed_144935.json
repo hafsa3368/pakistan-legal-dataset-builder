@@ -9,13 +9,23 @@
   "case_number": "Cr.B.A.No.S-13 of 2020",
   "date_of_order": "02.04.2020",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.PC"
+  ],
   "citations": [
     "1995 PCr.LJ-711",
     "2003 PCr.LJ-394",
     "1995 SCMR-1013"
   ],
-  "parties": [],
+  "parties": [
+    "Nadir",
+    "Khalid Hussain",
+    "State",
+    "Muzafar Ali",
+    "Habibullah Ghouri",
+    "Irfan Badar Abbasi",
+    "Aitbar Ali Bullo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

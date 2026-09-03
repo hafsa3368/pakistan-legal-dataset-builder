@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-67 of 2018",
   "date_of_order": "25.11.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 302",
     "Section 34 PPC",
@@ -18,7 +18,15 @@
   "citations": [
     "2005 SCMR-364"
   ],
-  "parties": [],
+  "parties": [
+    "M/S. Safdar Ali Ghouri and Yasir Hussain Hulio",
+    "Ali Raza",
+    "Abdul Sattar",
+    "Mr. Ashfaque Hussain Abro",
+    "Mr. Ali Anwar Kandhro",
+    "Addl. Prosecutor General for the State",
+    "The complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Civil Court having jurisdiction and not",
+  "case_number": "",
   "date_of_order": "16.12.2020",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Razia Ali Zaman, advocate for petitioner",
+    "Allah Warayo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

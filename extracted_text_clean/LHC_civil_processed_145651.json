@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-378 of 2020",
   "date_of_order": "06.08.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Syed Fida Hussain Shah",
+    "Mr. Ghulam Mustafa Junejo",
+    "Mr. Muhammad Noonari",
+    "Deputy Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

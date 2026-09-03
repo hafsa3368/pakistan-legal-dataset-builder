@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "constitutional petition has not",
+  "case_number": "",
   "date_of_order": "04.11.2019",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "u/s 269 and 270 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tipu Pan Masalla",
+    "Mr. Shoukat Ali Pathan",
+    "Chief Secretary Sindh",
+    "PS Tando Yousuf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

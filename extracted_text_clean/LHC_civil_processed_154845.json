@@ -8,14 +8,22 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal.No.S-04 of 2018",
   "date_of_order": "25.10.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 302",
     "section 148 PPC",
     "section 342 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Habibullah Ghouri",
+    "Mr. Abdul Rehman A.Bhutto",
+    "Mr. Ali Anwar Kandhro",
+    "Basar Jatoi",
+    "the State",
+    "the complainant",
+    "Zawar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

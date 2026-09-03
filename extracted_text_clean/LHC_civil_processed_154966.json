@@ -9,9 +9,15 @@
   "case_number": "Crl.Tansfer Appln.No.S-27 of 2021",
   "date_of_order": "01.11.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "561-A CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    " applicant",
+    " State",
+    " private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,18 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-396 of 2020",
   "date_of_order": "20.08.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Munawar Ali",
+    "Mr. Muhammad Afzal Jagirani",
+    "Mr. Muhammad Noonari",
+    "Babu Ghulam Sarwar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

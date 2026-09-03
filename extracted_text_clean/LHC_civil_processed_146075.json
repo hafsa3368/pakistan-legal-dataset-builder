@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Appeal No. S-",
+  "case_number": "",
   "date_of_order": "03.09.2020",
-  "judge": "",
+  "judge": "Irshad Ali Shah-J",
   "sections_cited": [
     "section 25 of Sindh Arms Act",
     "section 426 Cr.PC"
@@ -16,7 +16,10 @@
   "citations": [
     "2015 SCMR 1002"
   ],
-  "parties": [],
+  "parties": [
+    "Waheed Khoso",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

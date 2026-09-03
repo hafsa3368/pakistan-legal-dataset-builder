@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.S-07 of 2020",
   "date_of_order": "15.05.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH-J",
   "sections_cited": [
     "section 302 PPC",
     "section 382-B Cr.PC"
@@ -17,7 +17,16 @@
     "2017 SCMR-344",
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Asghar son of Akbar by caste Siyanch",
+    "The State",
+    "Zubair alias Zahoor",
+    "Mst.Latifan",
+    "Asi Bagh Ali",
+    "Akbar",
+    "Manzoor",
+    "Munir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

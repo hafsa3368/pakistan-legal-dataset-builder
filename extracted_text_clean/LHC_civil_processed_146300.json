@@ -8,8 +8,10 @@
   "num_chunks": 6,
   "case_number": "Criminal Jail Appeal No.S-14 of 2019",
   "date_of_order": "11.09.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 SCMR-1698",
     "2016 SCMR-1441",
@@ -22,7 +24,11 @@
     "2017 SCMR-344",
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed Abro",
+    "Mr. Aitbar Ali Bullo",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

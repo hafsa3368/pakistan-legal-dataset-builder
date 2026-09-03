@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "Civil Revision Appln.No.S-52 of 2021",
   "date_of_order": "18.03.2021",
-  "judge": "Ahmed/PA",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nouman Raja Khan, advocate for applicants",
+    "respondent No.1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

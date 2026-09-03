@@ -6,12 +6,23 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Cr.Acq.Appeal No.S-",
+  "case_number": "",
   "date_of_order": "22.11.2019",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 342 Cr.P.C",
+    "u/s 22-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahzado Saleem Nahiyoon",
+    "D.P.G for the State",
+    "Mr. Muhammad Amair Qureshi",
+    "advocate for respondent Moula Bux",
+    "Moula Bux",
+    "Private Respondents",
+    "Appellant/Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

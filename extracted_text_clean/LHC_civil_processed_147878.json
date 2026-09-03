@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "18.09.2019",
-  "judge": "",
+  "judge": "Muhammad Nadeem Khan",
   "sections_cited": [
     "section 3/4 Explosive Substance Act",
     "section 7",
@@ -23,7 +23,16 @@
     "2018 P.Cr.L.J. 959",
     "PLD 2016 SC 951"
   ],
-  "parties": [],
+  "parties": [
+    "Fahim Ali",
+    "The State",
+    "Mr. Muhammad Nadeem Khan",
+    "Mr. Irfan Aziz",
+    "Mr. Hussain Bukhsh Baloch",
+    "Pepsi",
+    "Police",
+    "Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,22 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "07.11.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Sulleman Unar",
+  "sections_cited": [
+    "u/s 12",
+    "u/s 12 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sulleman Unar",
+    "M/s Aamir Ali Memon and Ghulam Shabbir Babar",
+    "Mr. Muhammad Ismail Bhutto",
+    "The respondent No.1",
+    "The respondent No.2",
+    "The respondent No.3",
+    "The respondent No.4",
+    "The respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

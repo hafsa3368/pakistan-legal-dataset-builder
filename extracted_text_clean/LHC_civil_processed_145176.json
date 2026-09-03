@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-36 of 2020",
   "date_of_order": "14.05.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH-J",
   "sections_cited": [
     "section 270 PPC",
     "section 337-J PPC",
@@ -19,7 +19,10 @@
     "2015 SCMR-1003",
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Samad Khan son of Abdul Wahid Pathan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

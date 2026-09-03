@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Criminal Misc. Application No. S-128 of 2021",
-  "date_of_order": "",
+  "date_of_order": "21.05.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 561-A Cr.P.C",
+    "u/s 22A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sadiq Ansari",
+    "Mr. Wajid Ali H.Shaikh",
+    "Mr. Imran Mobeen Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

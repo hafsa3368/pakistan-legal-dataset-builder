@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No. D",
+  "case_number": "",
   "date_of_order": "31-03-2021",
   "judge": "Khadim Hussain Tunio",
   "sections_cited": [
@@ -18,7 +18,10 @@
     "2020 P.Cr.L.J 1524",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Allah Wadhayo @ Makoro son of Muhammad Panjal bycaste Bozdar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

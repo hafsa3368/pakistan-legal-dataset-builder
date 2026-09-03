@@ -9,12 +9,23 @@
   "case_number": "Cr.B.A.No.S-172 of 2020",
   "date_of_order": "11.05.2020",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.PC"
+  ],
   "citations": [
     "2016 SCMR-907",
     "2017 SCMR-116"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Imdad Ali Tunio",
+    "Mr. Muhammad Noonari",
+    "The State",
+    "Irshad Ali Shah J",
+    "Muhammad Nawaz",
+    "Munir Ahmed",
+    "Ghulam Ali alias Gulo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

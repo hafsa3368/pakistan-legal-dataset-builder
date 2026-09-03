@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Bail Application No. S",
+  "case_number": "",
   "date_of_order": "01.06.2020",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,17 @@
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Rehan Khan Durrani",
+    "Mr. Muhammad Imran Shamsi",
+    "M/s Muhammad Haris",
+    "Zulfiqar Ali",
+    "The State",
+    "FIA",
+    "Muneer Ahmed Siyal",
+    "Muhammad Mehmood Sultan Khan Yousufi",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

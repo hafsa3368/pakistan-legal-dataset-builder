@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-354 of 2021",
   "date_of_order": "25.10.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498-A Cr.PC",
     "Section 497 Cr.PC",
@@ -17,7 +17,16 @@
   "citations": [
     "2019 SCMR-1129"
   ],
-  "parties": [],
+  "parties": [
+    "Shahbaz Ali Brohi",
+    "Qazi Ayaz Ahmed",
+    "Azhar Hussain Abbasi",
+    "The State",
+    "Rana Abdul Khaliq",
+    "The State and others",
+    "Syed Hassan Ali Shah",
+    "The State and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

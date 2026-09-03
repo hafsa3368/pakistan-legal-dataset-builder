@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal.No.S-79 of 2018",
   "date_of_order": "20.10.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 376",
     "Section 34 PPC",
@@ -21,7 +21,15 @@
     "1996 SCMR 1553",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Jalal",
+    "Murtaza",
+    "Javed Iqbal",
+    "The State",
+    "Baby Zaheeran",
+    "Muhammad Aslam",
+    "Muhammad Muslim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

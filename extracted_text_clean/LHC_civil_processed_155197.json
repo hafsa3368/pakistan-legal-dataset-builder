@@ -9,11 +9,18 @@
   "case_number": "Criminal Appeal No.S-72 of 2020",
   "date_of_order": "08.11.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1999 SCMR 2589"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Habibullah Ghouri",
+    "Mr. Ghulam Rasool Narejo",
+    "Mr. Ali Anwar Kandhro",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

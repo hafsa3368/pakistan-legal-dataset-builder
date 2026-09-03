@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constitutional petition merits no consideration",
+  "case_number": "",
   "date_of_order": "20.11.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Yasir Tahseen Talpur, advocate for petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

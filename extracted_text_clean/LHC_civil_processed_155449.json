@@ -8,14 +8,25 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal.No.S-14 of 2018",
   "date_of_order": "18.11.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382"
   ],
   "citations": [
     "2018 SCMR-772"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed K.Abro",
+    "Mr. Ali Anwar Kandhro",
+    "The State",
+    "Roshan Ali Shah",
+    "Abdul Sattar Shah",
+    "Shamsuddin",
+    "Mashir Rashid Shah",
+    "Hakim Ali Shah",
+    "Suhail Shah",
+    "Muhammad Mansha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

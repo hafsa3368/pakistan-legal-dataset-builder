@@ -8,14 +8,17 @@
   "num_chunks": 1,
   "case_number": "Criminal Appeal No.D-03 of 2021",
   "date_of_order": "10.11.2021",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [
     "Section 382-B Cr.PC"
   ],
   "citations": [
     "1999 SCMR 2589"
   ],
-  "parties": [],
+  "parties": [
+    "State",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

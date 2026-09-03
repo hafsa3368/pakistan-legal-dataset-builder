@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Crl. Appeal No. D",
+  "case_number": "",
   "date_of_order": "19-09-2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -18,7 +18,14 @@
     "1996 SCMR 1553",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Nawaz son of Khamiso Chhachhar",
+    "Ali Sher son of Khamiso Chhachhar",
+    "Muhammad Siddique son of Sonharro",
+    "The State",
+    "Khuda Dino",
+    "Khamiso Chhachhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

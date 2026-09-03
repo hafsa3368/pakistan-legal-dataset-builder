@@ -8,10 +8,21 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "27.11.2019",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Amjad Ali Sahito",
+    "Mr. Saqib Khan Zae",
+    "Mr. Zufliqar Ali Rajput",
+    "Mr. Pervez Tariq Tagar",
+    "Mr. Wali Muhammad Jamari",
+    "Mr. Regional Director Katchi Abadi Authority Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

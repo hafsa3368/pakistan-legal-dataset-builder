@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl.Revision Appln.No.S-39 of 2020",
   "date_of_order": "01.10.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 439",
     "Section 561-A Cr.PC"
@@ -16,7 +16,10 @@
   "citations": [
     "2020 MLD-1384"
   ],
-  "parties": [],
+  "parties": [
+    "Faiz Muhammad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-439 of 2020",
   "date_of_order": "08.10.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 CrPC"
+  ],
   "citations": [
     "2010 PCr.LJ-1644"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Afzal Jagirani",
+    "Complainant Bhale Dino",
+    "Mr. Muhammad Noonari",
+    "The State and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

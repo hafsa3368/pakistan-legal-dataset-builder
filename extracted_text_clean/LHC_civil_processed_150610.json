@@ -6,14 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Bail Application No.S-",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "05.04.2021",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 498-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muneer Ahmed",
+    "Mr. Saeed Ahmed Bhatt",
+    "Mr. Syed Sardar Ali Shar Rizvi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

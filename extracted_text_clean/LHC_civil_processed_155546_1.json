@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-617 of 2021",
   "date_of_order": "23.11.2021",
   "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Shamsuddin Abbasi",
+    "Pardeep Kumar B.Butani",
+    "the petitioner",
+    "the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,25 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. Appln. No.S-",
+  "case_number": "",
   "date_of_order": "08.11.2019",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 392 PPC",
+    "u/s 22-A",
+    "u/s 182 PPC",
+    "u/s 561-A Cr.P.C",
+    "u/s 182"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Respondent No. 2",
+    "Respondent No. 3",
+    "Respondent No. 4",
+    "Respondent No. 5",
+    "Respondent No. 6",
+    "Applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Acquittal Appeal No. D-",
+  "case_number": "",
   "date_of_order": "28-04-2021",
   "judge": "Khadim Hussain Tunio",
   "sections_cited": [
@@ -16,7 +16,12 @@
     "section 173 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nawab son of Unar Khobhar",
+    "Sobharo son of Muhammad Bachal",
+    "The State",
+    "Mushtaq Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

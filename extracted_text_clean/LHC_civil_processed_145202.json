@@ -8,12 +8,21 @@
   "num_chunks": 2,
   "case_number": "Crl.B.A.No.S-253 of 2020",
   "date_of_order": "21.05.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2009 SCMR-448"
   ],
-  "parties": [],
+  "parties": [
+    "Mst.Sadori",
+    "Mr. Shahbaz Ali Brohi",
+    "The State",
+    "Muhammad Noonari",
+    "Asghar Ali",
+    "Babu alias Gouro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

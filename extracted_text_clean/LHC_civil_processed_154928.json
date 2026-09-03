@@ -9,11 +9,16 @@
   "case_number": "Criminal Appeal No.S-66 of 2021",
   "date_of_order": "29.10.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1999 SCMR 2589"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Bux Abro",
+    "Mr. Ali Anwar Kandhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

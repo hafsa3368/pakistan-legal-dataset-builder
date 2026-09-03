@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Constt: Petition No.S-202 of 2021",
   "date_of_order": "26.11.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S. Altaf Hussain Surhio & Abdul Rehman A. Bhutto Advocates",
+    "M/S. Ali Nawaz Ghanghro & Muhammad Hashim Soomro",
+    "Mr. Abdul Hamid Bhurgri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

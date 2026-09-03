@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-348 of 2020",
   "date_of_order": "10.09.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 497 Cr.PC",
     "section 497 Cr.PC"
@@ -17,7 +17,13 @@
     "2007 MLD-294",
     "2009 YLR-387"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Faheem Thaheem",
+    "Mr. Farhat Ali Bugti",
+    "Mr. Muhammad Noonari",
+    "The State",
+    "PW Yaqoob"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

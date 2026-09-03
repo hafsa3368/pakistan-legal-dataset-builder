@@ -6,14 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. Appln. No.S-",
+  "case_number": "",
   "date_of_order": "10.08.2020",
   "judge": "",
   "sections_cited": [
     "section 491 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mumtaz Ali",
+    "Mst. Sonia",
+    "Dildar Ali Chandio",
+    "Gulzar Ali",
+    "Ali Anwar Kandhro",
+    "SHO",
+    "Police Station Garhi Yasin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

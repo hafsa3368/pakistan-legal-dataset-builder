@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Appeal No. D",
+  "case_number": "",
   "date_of_order": "19-05-2021",
   "judge": "Khadim Hussain Tunio",
   "sections_cited": [
@@ -15,7 +15,18 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Khuda Bux son of Khuda Dad, Bycaste Khoso",
+    "The State",
+    "Syed Sardar Ali Shah Rizvi",
+    "Deputy Prosecutor General",
+    "ASI Ali Hassan",
+    "PW/Mashir HC Raiz Ahmed",
+    "WPC Sanaullah",
+    "WPC Tariq",
+    "Ghulam Hyder",
+    "Muhammad Aslam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

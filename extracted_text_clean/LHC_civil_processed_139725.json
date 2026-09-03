@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "26.08.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Syed Saeed Ahmed Shah",
+  "sections_cited": [
+    "u/s 342 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faisal Ali Raza Bhatti",
+    "Mr. Shahid Ahmed Shaikh",
+    "The State",
+    "Naseer",
+    "Hashim Shah",
+    "Shoukat Ali",
+    "ASI Allah Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

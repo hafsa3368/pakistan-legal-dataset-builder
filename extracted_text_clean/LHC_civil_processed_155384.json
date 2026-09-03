@@ -9,9 +9,16 @@
   "case_number": "Crl. Revision Appln.No.D-09 of 2021",
   "date_of_order": "16.11.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashfaque Hussain Abro",
+    "Mr. Ahmed Bux Abro",
+    "Mr. Aitbar Ali Bullo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

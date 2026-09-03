@@ -8,14 +8,19 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-264 of 2020",
   "date_of_order": "10.08.2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [
     "2014 YLR-632"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Noonari",
+    "The State",
+    "Mr.Hizbullah Khaskheli",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

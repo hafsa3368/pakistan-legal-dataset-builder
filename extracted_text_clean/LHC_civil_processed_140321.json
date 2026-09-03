@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constitution or by or under any law. Nothing",
+  "case_number": "",
   "date_of_order": "19.09.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Allah Bachayo Soomro, Addl. A.G",
+    "Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

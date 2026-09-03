@@ -9,11 +9,23 @@
   "case_number": "Criminal Appeal No.S-91 of 2019",
   "date_of_order": "25.08.2020",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 25 Sindh Arms Act, 2013"
+  ],
   "citations": [
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Ameer Bux son of Qaisar Dasti",
+    "The State",
+    "Mst.Zainab",
+    "ASI Abdul Khalique",
+    "PC Muhammad Rafique",
+    "PC Muhammad Khan",
+    "Shah Muhammad Murad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

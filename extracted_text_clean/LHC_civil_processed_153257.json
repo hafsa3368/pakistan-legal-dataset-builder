@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 125 of 2021",
   "date_of_order": "08.09.2021",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Mohammad Karim Khan Agha",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Malik Moeen Awan",
+    "Ibrahim Khan",
+    "Muhammad Nasir alias Tony",
+    "Muneer Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

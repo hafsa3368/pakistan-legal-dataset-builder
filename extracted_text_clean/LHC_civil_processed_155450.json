@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal.No.S-25 of 2017",
   "date_of_order": "18.11.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 382-"
   ],
@@ -17,7 +17,11 @@
     "2017 SCMR-344",
     "2018 SCMR-772"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Javed Ahmed Soomro, Advocate for the appellant",
+    "Baqa Muhammad in person",
+    "Mr. Ali Anwar Kandhro, Addl. Prosecutor General for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

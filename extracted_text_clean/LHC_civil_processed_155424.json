@@ -8,12 +8,20 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No.D-26 of 2020",
   "date_of_order": "17.11.2021",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 302"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Azeem",
+    "Achar Khan",
+    "Mst.Shamshad Khatoon",
+    "Dilawar",
+    "Baji Khan",
+    "Complainant",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Anti-Terrorism Appeals No. 257",
   "date_of_order": "31.08.2021",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "section 302",
     "Section 7",
@@ -28,7 +28,25 @@
     "1996 SCMR 1553",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yousuf son of Noorul Haque",
+    "Ahmed-uddin @ Salman son of Samaruddin",
+    "The State",
+    "Muhammad Iqbal Awan",
+    "Additional Prosecutor General Sindh",
+    "Fahad Qazim",
+    "Ghulam Sarwar",
+    "Sajjad",
+    "Habibullah",
+    "Rukhsana Begum",
+    "Muhammad Mansha",
+    "Muhammad Afzal alias Abdullah",
+    "Sabir Ali alias Fauji",
+    "Muhammad Afzal alias Abdullah",
+    "Muhammad Afzal alias Abdullah",
+    "Muhammad Afzal alias Abdullah",
+    "Muhammad Afzal alias Abdullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

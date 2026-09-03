@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Appeal No.06-K of 2008",
   "date_of_order": "25.04.2018",
-  "judge": "JUDGE Tufail",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 9",
     "Section 382-B Cr.P.C",
@@ -22,7 +22,11 @@
     "2018 P.Cr.L.J Note 26",
     "2018 P.Cr.L.J 257"
   ],
-  "parties": [],
+  "parties": [
+    "Fayaz s/o Riaz Ahmed Pathan",
+    "Wajid s/o Gul Rehman Pathan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

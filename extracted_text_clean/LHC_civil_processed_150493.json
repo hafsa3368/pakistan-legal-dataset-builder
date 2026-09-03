@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-190 of 2021",
-  "date_of_order": "",
+  "date_of_order": "29-03-2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 491 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aftab Ahmed Shar",
+    "detenue",
+    "private respondents",
+    "applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

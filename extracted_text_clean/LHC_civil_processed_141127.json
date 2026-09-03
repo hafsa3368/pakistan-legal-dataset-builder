@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Cr.Acq.Appeal No.D-",
+  "case_number": "",
   "date_of_order": "30-10-2019",
-  "judge": "JUDGE Ahmed/Pa",
+  "judge": "Muhammad Iqbal Mahar",
   "sections_cited": [
     "Section 302, 147, 148, 149, 114 PPC",
     "section 417 Cr.P.C",
@@ -19,7 +19,12 @@
     "1996 SCMR 1553",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Jarar son of Nazar Ali Dal",
+    "The State",
+    "Afzal Karim",
+    "Ms. Sobia Bhatti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

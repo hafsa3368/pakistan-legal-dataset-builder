@@ -6,15 +6,24 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Bail Application No.S-",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "03.05.2021",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 498-A Cr.P.C",
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Miran Bux Shah",
+    "Mr. Aftab Ahmed Shar",
+    "APG for the State",
+    "Sain Bux",
+    "Bashir Ahmed",
+    "Mst. Shahzadi",
+    "the applicants",
+    "the complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
