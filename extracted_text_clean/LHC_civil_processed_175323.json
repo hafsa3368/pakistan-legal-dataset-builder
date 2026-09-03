@@ -8,13 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "02.12.2022",
-  "judge": "",
+  "judge": "Additional Sessions Judge-XI",
   "sections_cited": [
     "Section 322 PPC",
     "Section 426 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahzad @ Waja",
+    "the State",
+    "Mr. Siraj Ahmed Khan Chandio",
+    "Mr. Khalid Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

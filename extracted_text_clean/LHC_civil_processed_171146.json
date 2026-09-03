@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Jail Appeal No. 796 of 2019",
   "date_of_order": "12.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 364-A PPC",
     "section 382-B Cr.P.C",
@@ -20,7 +20,11 @@
     "1996 SCMR 1553",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Waheed Ahmed",
+    "The State",
+    "Muhammad Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

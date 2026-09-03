@@ -9,9 +9,18 @@
   "case_number": "",
   "date_of_order": "07.04.2022",
   "judge": "Muhammad Shafi Siddiqui Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Irshad Ali Shah",
+    "petitioners",
+    "Mr. Ghulam Shabir Daudani",
+    "respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

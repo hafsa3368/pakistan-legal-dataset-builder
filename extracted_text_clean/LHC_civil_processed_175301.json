@@ -8,13 +8,20 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 531 of 2020",
   "date_of_order": "30.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 24A of General Clauses Act",
     "Section 537 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Qadeer",
+    "The State",
+    "Mr. Gul Faraz Khattak",
+    "Mr. Shoukat Ali Shehroze",
+    "Mst. Bibi",
+    "Riaz Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

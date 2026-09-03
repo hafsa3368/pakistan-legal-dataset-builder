@@ -8,14 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 08 of 2020",
   "date_of_order": "21.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 302",
     "section 382-B Cr.P.C",
     "Section 340 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Majeed",
+    "The State",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

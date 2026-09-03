@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 11 of 2022",
   "date_of_order": "24.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 392 PPC",
     "Section 397 PPC",
@@ -16,7 +16,13 @@
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hanif Baloch",
+    "Jahanzeb Ali",
+    "The State",
+    "Abdul Qadeer",
+    "P.W Abdul Qadir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

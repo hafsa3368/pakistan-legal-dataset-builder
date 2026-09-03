@@ -6,14 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Appeal No. D",
+  "case_number": "",
   "date_of_order": "25-01-2023",
   "judge": "Zafar Ahmed Rajput Mr",
   "sections_cited": [
     "Section 20"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S Zarai Tarqiyati Bank Ltd.",
+    "Ameer Ali son of Muhammad Usman",
+    "Banking Court No.II, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

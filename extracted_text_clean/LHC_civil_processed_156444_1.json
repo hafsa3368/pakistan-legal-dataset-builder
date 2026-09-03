@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-680 of 2014",
   "date_of_order": "04.01.2022",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faiz Muhammad Larik",
+    "Mr. Liaquat Ali Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

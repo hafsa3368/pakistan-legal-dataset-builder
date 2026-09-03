@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No. 333 of 2021",
   "date_of_order": "12.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302 PPC",
     "Section 397 PPC",
@@ -18,7 +18,11 @@
     "1996 SCMR 1553",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Imran",
+    "The State",
+    "Nasir Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

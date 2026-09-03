@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-653 of 2021",
   "date_of_order": "01.12.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Irshad Ali Chandio, Advocate for the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

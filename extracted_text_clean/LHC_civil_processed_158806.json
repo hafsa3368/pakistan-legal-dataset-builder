@@ -6,15 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil Appeal No.D-",
+  "case_number": "",
   "date_of_order": "02.02.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [
     "Section 151 CPC",
     "Section 22"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Rafique",
+    "Mr. Ahmed Hussain Khoso",
+    "Mr. Muhammad Imran Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

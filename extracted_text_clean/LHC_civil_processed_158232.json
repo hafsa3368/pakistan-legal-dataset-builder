@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. A. No. S-",
+  "case_number": "",
   "date_of_order": "25.02.2022",
-  "judge": "",
+  "judge": "Syd Ashfaq",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Mehdi Suhryani",
+    "Mr. Aitbar Ali Bullo",
+    "Mir Ahmed Raza A Sundrani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No.D-46 of 2019",
   "date_of_order": "22.02.2022",
-  "judge": "JUDGE",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 302"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aijaz Ahmed Bhatti",
+    "Mr. Ali Anwar Kandhro",
+    "State",
+    "Zuhaib Khan",
+    "Abdul Basit",
+    "legal heirs of the deceased"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

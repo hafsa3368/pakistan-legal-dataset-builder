@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Misc. Application No. S-",
+  "case_number": "",
   "date_of_order": "10.03.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Syed Ashfaq",
+  "sections_cited": [
+    "Section 561-A CrPC",
+    "Section 200 CrPC",
+    "Section 22-A & B CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Atta Hussain Qadri vs. Private Respondents",
+    "Zafar Ali Malgani vs. Private Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

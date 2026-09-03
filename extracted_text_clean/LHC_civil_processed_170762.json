@@ -8,12 +8,19 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "01.09.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Zafar Ahmed Rajput",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 2(1)(c) of the Ordinance of 2002"
+  ],
   "citations": [
     "2022 SCMR 897"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ameen and others through Mr. Khan Muhammad Sangi, advocate",
+    "Province of Sindh and others through Mr. Noor Hassan Malik, AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

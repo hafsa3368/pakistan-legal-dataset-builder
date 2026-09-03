@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-554 of 2021",
   "date_of_order": "17.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Bux Abro",
+    "Mr. Inayatullah Morio",
+    "Mr. Ali Anwar Kandhro",
+    "the complainant",
+    "the applicant",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 376 of 2022",
   "date_of_order": "19.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 376 PPC",
     "section 382",
@@ -18,7 +18,15 @@
     "1996 SCMR 1553",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Roohullah",
+    "The State",
+    "Mst. Asma",
+    "Mr. Abrar Ali Khichi",
+    "Additional Prosecutor General Sindh",
+    "Osama Ali Tak",
+    "M/s Abdul Haseeb Tak"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

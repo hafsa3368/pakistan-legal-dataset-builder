@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No. 799 of 2022",
   "date_of_order": "01.08.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
@@ -16,7 +16,10 @@
     "2017 SCMR 366",
     "2021 SCMR 1458"
   ],
-  "parties": [],
+  "parties": [
+    "Hammad Khan and another",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,32 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "31.05.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Hashim Leghari",
+    "Mr. Muhammad Humayoon Khan DAG a/w Khurram Shahzad",
+    "Additional Director General (Law) ECP",
+    "Saleemuddin Dal",
+    "District Election Commissioner Tharparkar",
+    "Prem Chand",
+    "Additional D.C Mirpurkhas",
+    "Roshan Ali Jatoi",
+    "DEC Mirpurkhas",
+    "Masood A. Qureshi REC Mirpurkhas",
+    "Lutuf Ali Mastoi E.O Umerkot",
+    "Muhammad Saleem Shaikh AC Shujaabad",
+    "Muhammad Yousuf Majeedano DEC Hyderabad",
+    "Ali Abdullah Khalid REC Hyderabad",
+    "Mr. Habib-ur-Rehman",
+    "Law Officer NADRA",
+    "Mr. Rafique Ahmed Dahri",
+    "Assistant A.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

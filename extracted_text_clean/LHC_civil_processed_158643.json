@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal.No.S-58 of 2021",
   "date_of_order": "03.03.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 382-B Cr.PC",
     "Section 353 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S. Asif Ali Abdul Razzak Soomro, Muhammad Sachal Awan, Muzafar Ali Wadhio & Ahmed Bux Abro",
+    "Mr. Ali Anwar Kandhro, Addl.P.G for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

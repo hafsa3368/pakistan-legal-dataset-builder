@@ -8,10 +8,32 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No.D-11 of 2021",
   "date_of_order": "15.02.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.PC",
+    "Section 302 CrPC",
+    "u/s 305 Cr.PC",
+    "Section 209 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Agha Faisal",
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Agha Faisal",
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Aitbar Ali Bullo",
+    "Mr. Habibullah Ghouri",
+    "Menho",
+    "Muhammad Ali",
+    "Mst. Karima Khatoon",
+    "Mst. Peerani",
+    "Bakhatiar Ali",
+    "Hamzo Ali",
+    "Sitara",
+    "Khanzadi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

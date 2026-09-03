@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-572 of 2021",
   "date_of_order": "20.01.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Akhtiar Begum",
+    "Mr. Ali Anwar Kandhro",
+    "State",
+    "Abdul Nabi",
+    "Ahmed Khan",
+    "Ali Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,18 @@
   "case_number": "",
   "date_of_order": "15.11.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1999 SCMR-2589"
   ],
-  "parties": [],
+  "parties": [
+    "Khawaja Saeed Ahmed",
+    "The State",
+    "Mr. Jamsheed Ahmed",
+    "Mr. Faheem Hussain Panhwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.S-58 of 2012",
   "date_of_order": "31.01.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 342 Cr.PC",
     "section 302",
@@ -18,7 +18,11 @@
     "2017 SCMR-486",
     "2018 SCMR-772"
   ],
-  "parties": [],
+  "parties": [
+    "Appellant",
+    "Complainant",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

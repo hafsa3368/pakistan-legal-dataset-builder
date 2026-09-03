@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No. 496 of 2022",
   "date_of_order": "23.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Sections 392/34 PPC",
     "Section 397/34 PPC",
@@ -21,7 +21,17 @@
     "2008 SCMR 1001",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Ubaid Hussain",
+    "Tariq Khan",
+    "The State",
+    "Mr. Faheem Hussain Panhwar",
+    "M/s Syed Aminuddin Fakir",
+    "Ghulam Mustafa Kolachi",
+    "Mst. Rukhsana Jabbar",
+    "Government of Punjab",
+    "Chief Secretary and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

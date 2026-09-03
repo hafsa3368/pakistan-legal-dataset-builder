@@ -8,13 +8,23 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "12.04.2022",
-  "judge": "JUDGE Muhammad Danish",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2012 CLC 754",
     "2022 SCMR 92"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Ahmed Murtuza A. Arab",
+    "Muhammad Noor Din Bhatti",
+    "Mr. Muhammad Jamil Ahmed",
+    "Mr. Mumtaz Ali Khushk",
+    "Allah Bachayo Soomro",
+    "Additional Advocate General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

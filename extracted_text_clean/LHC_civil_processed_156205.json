@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Cr.Appeal No. D-",
+  "case_number": "",
   "date_of_order": "09.05.2018",
   "judge": "Naimatullah Phulpoto",
   "sections_cited": [
@@ -20,7 +20,14 @@
     "2015 SCMR 1002",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Sikandar s/o Kirer Khan by caste Jatoi",
+    "Mr. Muhammad Hassan Chandio",
+    "Syed Meeral Shah",
+    "The State",
+    "Sikandar s/o Kirer Khan by caste Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

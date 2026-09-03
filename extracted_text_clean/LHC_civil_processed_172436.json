@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 196 of 2020",
   "date_of_order": "11.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hashim Khan",
+    "The State",
+    "Mst. Saira"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

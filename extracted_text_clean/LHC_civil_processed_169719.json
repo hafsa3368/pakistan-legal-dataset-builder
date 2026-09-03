@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 354 of 2022",
   "date_of_order": "17.08.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 320 PPC",
     "Section 279 PPC",
@@ -17,7 +17,22 @@
   "citations": [
     "PLD 2003 Karachi 127"
   ],
-  "parties": [],
+  "parties": [
+    "Ameer Bux",
+    "The State",
+    "M/s. Shoukat Ali Memon",
+    "Asadullah Memon",
+    "Mr. Siraj Ali Khan",
+    "Mst. Mehrunnisa",
+    "Mst. Sajda Khatoon",
+    "Mst. Tahirun Nisa",
+    "Zafar Alam",
+    "Rozi",
+    "Mrs. Shaheena Khatoon",
+    "Mrs. Mujhahida Khatoon",
+    "Mrs. Najmee Perveen",
+    "Mrs. Nadia Parveen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

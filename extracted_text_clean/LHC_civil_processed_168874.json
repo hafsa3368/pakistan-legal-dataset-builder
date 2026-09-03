@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 1248 of 2022",
   "date_of_order": "06.07.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kausar Ahmed",
+    "Muhammad Farooq",
+    "Irshad Ali Shah",
+    "PW Mohsin",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

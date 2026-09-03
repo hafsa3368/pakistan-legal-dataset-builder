@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 282 of 2022",
   "date_of_order": "20.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 392",
     "section 397/34 PPC",
@@ -16,7 +16,14 @@
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Waqar Younus",
+    "Hidayatullah @ Inayatullah",
+    "The State",
+    "Mr. Faheem Hussain",
+    "Muhammad Sakhi Ghazali",
+    "M/s Sajjad Gul Khatri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

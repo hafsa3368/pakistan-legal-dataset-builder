@@ -7,11 +7,22 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. S-342 of 2022",
-  "date_of_order": "",
+  "date_of_order": "23.01.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Ahmed Khan",
+    "Sohail Ahmed Khoso",
+    "Shafi Muhammad Mahar",
+    "Irshad Ali Shah",
+    "Sharaf Din alias Bagan",
+    "Akber Ali",
+    "Raza Muhammad",
+    "Babu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

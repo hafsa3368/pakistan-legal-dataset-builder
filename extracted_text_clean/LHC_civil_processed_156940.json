@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-805 of 2016",
   "date_of_order": "18.01.2022",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Dastagir Shahani",
+    "Mr. Abdul Hamid Bhurgri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

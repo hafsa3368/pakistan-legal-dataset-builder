@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No.D-39 of 2019",
   "date_of_order": "09.03.2022",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 121 Cr.PC",
     "Section 231 Cr.PC",
     "section 537 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

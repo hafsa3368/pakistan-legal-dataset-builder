@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "30.03.2022",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Syed Abid Ali Shah",
+    "Mr. Ayaz Hussain Tunio",
+    "Mr. Rafique Ahmed Dahri",
+    "M/s Syed Abid Ali Shah and Ayaz Hussain Tunio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,29 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "31.05.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Para-21(ii)",
+    "Para-21(iv)",
+    "Para-21(vi)"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mian Taj Muhammad Keerio",
+    "Mr. Khurram Shahzad",
+    "Zaheer Abbass Khowaja",
+    "Saleemuddin Dal",
+    "Prem Chand",
+    "Roshan Ali Jatoi",
+    "Masood A. Qureshi",
+    "Lutuf Ali Mastoi",
+    "Muhammad Saleem Shaikh",
+    "Muhammad Yousuf Majeedano",
+    "Ali Abdullah Khalid",
+    "Mr. Muhammad Humayoon Khan",
+    "Mr. Habib ur Rehman",
+    "Mr. Allah Bachayo Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

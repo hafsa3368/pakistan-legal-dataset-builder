@@ -8,13 +8,20 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 152 of 2022",
   "date_of_order": "15.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 395 PPC",
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Shan",
+    "Farhan Khan",
+    "Khalid Mehmood",
+    "The State",
+    "Mr. Faheem Hussain Panhwar",
+    "Muhammad Kamran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

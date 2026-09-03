@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 351 of 2019",
   "date_of_order": "21.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 302",
     "Section 324 PPC",
@@ -18,7 +18,14 @@
     "Section 227 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Amir",
+    "Tanveer Ahmed",
+    "The State",
+    "Mr. Faheem Hussain Panhwar",
+    "Muhammad Amir",
+    "Tanveer Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Civil Court cannot",
+  "case_number": "",
   "date_of_order": "25.05.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [
     "Section 172 of Land Revenue Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ayaz Ali Rajper",
+    "Assistant A.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

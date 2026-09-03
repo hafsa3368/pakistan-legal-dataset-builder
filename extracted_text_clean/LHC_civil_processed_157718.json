@@ -8,14 +8,23 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-614 of 2021",
   "date_of_order": "17.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498-A Cr.PC"
   ],
   "citations": [
     "2014 SCMR-1591"
   ],
-  "parties": [],
+  "parties": [
+    "Dildar Ali Chandio",
+    "Abdul Hakeem Brohi",
+    "State",
+    "Ghulam Sarwar",
+    "Mushtaq Ahmed",
+    "Bakhat Ali",
+    "Zafar Hussain",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

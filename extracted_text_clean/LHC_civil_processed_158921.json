@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-234 of 2021",
   "date_of_order": "07.03.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498-A Cr.PC"
   ],
@@ -16,7 +16,15 @@
     "2021 SCMR-130",
     "2021 SCMR-1983"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Sher Ali Chandio",
+    "Mr. Shueban Ali Mallah",
+    "Mr. Ali Anwar Kandhro",
+    "Mumtaz Ali",
+    "Imam Bux",
+    "Aijaz",
+    "Muhammad Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

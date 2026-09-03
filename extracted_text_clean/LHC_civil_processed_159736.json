@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-423 of 2017",
   "date_of_order": "15.03.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Sindh Judicial Staff Rules, 1992"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Qazi Sajid Ali M.Qureshi",
+    "Mr. Abdul Hamid Bhurgri",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

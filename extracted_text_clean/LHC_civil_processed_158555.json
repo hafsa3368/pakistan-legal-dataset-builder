@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "03.03.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rais Chutto & another",
+    "E.D.O (Education)",
+    "Kashmore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

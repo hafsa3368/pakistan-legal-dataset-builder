@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 63 of 2017",
   "date_of_order": "30.08.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 302",
     "section 382-B Cr.P.C",
     "Section 340 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Saeed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

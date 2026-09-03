@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE SM",
+  "date_of_order": "30.8.2022",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. M. Adeel Awan",
+    "Mr. G. M. Bhutto",
+    "Mr. Khalil Dogar",
+    "Mr. Sarfaraz Khan Marwat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

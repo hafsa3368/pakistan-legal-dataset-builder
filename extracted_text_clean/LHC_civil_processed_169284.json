@@ -8,12 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No. 294 of 2022",
   "date_of_order": "02.08.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 498 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Shafqa @ Madiha",
+    "The State",
+    "Mst. Nazia",
+    "Mst. Azra Bibi",
+    "Siddique"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

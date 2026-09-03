@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "constitutional petition is dismissed as not",
+  "case_number": "",
   "date_of_order": "10.03.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed K. Abro",
+    "Mr. Liaquat Ali Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,23 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-478 of 2021",
   "date_of_order": "17.02.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asif Ali Abdul Razzak Soomro",
+    "Mr. Habibullah Ghouri",
+    "Mr. Ali Anwar Kandhro",
+    "State",
+    "Sajid Ali",
+    "Abdul Rehman",
+    "Abdul Fattah",
+    "Abdul Rahim",
+    "Abdul Khalique"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

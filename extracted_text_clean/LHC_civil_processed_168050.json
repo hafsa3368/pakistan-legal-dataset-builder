@@ -8,14 +8,17 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.94/2019",
   "date_of_order": "02.10.2019",
-  "judge": "",
+  "judge": "SALAHUDDIN PANHWAR",
   "sections_cited": [
     "section 6/",
     "section 164 Cr.P.C",
     "section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Muzzamil"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

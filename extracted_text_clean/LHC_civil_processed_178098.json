@@ -8,10 +8,22 @@
   "num_chunks": 2,
   "case_number": "Criminal Misc. Applications No. 457",
   "date_of_order": "19.01.2023",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Naimatullah Phulpoto",
+    "Mr. Justice Shamsuddin Abbasi",
+    "Mr. Habib Ahmed",
+    "Mir Hidayatullah Khan",
+    "M/s Muhammad Sharif Dars",
+    "M/s Muhammad Yousuf Narejo",
+    "Muhammad Saleem",
+    "Muhammad Aslam",
+    "Abdul Shakoor",
+    "Abdul Razzak",
+    "ANF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

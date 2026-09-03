@@ -6,10 +6,27 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "constrained to observe that no case",
+  "case_number": "",
   "date_of_order": "22.02.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "2016 CLC 1",
+    "2015 PLC 45",
+    "2015 CLD 257",
+    "2011 SCMR 1990",
+    "2001 SCMR 574",
+    "PLD 2001 Supreme Court 415",
+    "2016 CLC 1",
+    "2015 PLC 45",
+    "2015 CLD 257",
+    "2011 SCMR 1990",
+    "2001 SCMR 574",
+    "PLD 2001 Supreme Court 415",
+    "2021 SCMR 425",
+    "2010 SCMR 105"
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
@@ -17,7 +34,13 @@
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Hassan Shah & others",
+    "Province of Sindh & Others",
+    "Mr. Ali Nawaz Ghanghro",
+    "Mr. Abdul Hamid Bhurgri",
+    "Additional Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

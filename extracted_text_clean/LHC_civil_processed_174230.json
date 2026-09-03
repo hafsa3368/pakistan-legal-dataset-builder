@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 404 of 2021",
   "date_of_order": "04.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 23",
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mujeeb-ur-Rehman",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

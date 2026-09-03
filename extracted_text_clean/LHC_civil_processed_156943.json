@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.D-03 of 2021",
   "date_of_order": "18.01.2022",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 9"
   ],
@@ -16,7 +16,12 @@
     "2021 SCMR-451",
     "2018 SCMR-772"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Agha Faisal",
+    "Mr. Habibullah Ghouri",
+    "Mr. Ali Anwar Kandhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

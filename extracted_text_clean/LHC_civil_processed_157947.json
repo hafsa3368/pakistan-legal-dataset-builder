@@ -8,14 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-334 of 2021",
   "date_of_order": "21.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 497 Cr.PC"
   ],
   "citations": [
     "1980 SCMR-784"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Habib-ur-Rehman Shaikh",
+    "Mr. Atta Hussain Qadri",
+    "Mr. Ali Anwar Kandhro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Civil Revision Appln.No.S-36 of 2009",
   "date_of_order": "13.12.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "(Retd.) Muhammad Iqbal Ahmed Khan Khokhar",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Dastagir A. Shahani",
+    "Abdul Rehman A. Bhutto",
+    "Liaquat Ali Shar",
+    "State of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

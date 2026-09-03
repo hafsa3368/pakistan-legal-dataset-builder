@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-522 of 2021",
   "date_of_order": "03.01.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 497 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Bux Abro",
+    "Mr. Suhendar Kumar",
+    "Mr. Ali Anwar Kandhro",
+    "State",
+    "Ahmed Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

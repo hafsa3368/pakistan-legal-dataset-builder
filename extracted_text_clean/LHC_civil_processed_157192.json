@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "constituted under the orders of Honourable",
+  "case_number": "Constt: Petition.No.D-1507 of 2010",
   "date_of_order": "25.01.2022",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Javed Ahmed Soomro",
+    "Mr. Asif Ali Abdul Razzak Soomro",
+    "Mr. Muhammad Imran Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

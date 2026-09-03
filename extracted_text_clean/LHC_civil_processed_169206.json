@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Crl. Bail Application No.S-172 of 2022",
   "date_of_order": "04.07.2022",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI,",
   "sections_cited": [
     "Sections 324, 427, 148, 149 PPC",
     "Section 497 Cr.P.C",
@@ -18,7 +18,16 @@
     "2020 SCMR 1115",
     "2013 SCMR 220"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Razak",
+    "Sono",
+    "Abdul Latif",
+    "Mumtaz",
+    "Bashir Ahmed",
+    "State",
+    "Lal Khan",
+    "Shahnawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

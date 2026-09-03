@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Civil Appeal No. 20 of 2022",
   "date_of_order": "17.08.2022",
-  "judge": "JUDGE Abdul Basit",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 22",
     "section 3 of the Ordinance",
@@ -16,7 +16,10 @@
     "section 10 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Arbab Ali s/o Shah Nawaz Khan",
+    "House Building Finance Corporation Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

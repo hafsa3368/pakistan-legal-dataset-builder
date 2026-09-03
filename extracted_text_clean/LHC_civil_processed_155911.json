@@ -8,14 +8,23 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal.No.S-42 of 2019",
   "date_of_order": "06.12.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 340 of the Code"
   ],
   "citations": [
     "1970 PCr.LJ-746"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yousif",
+    "IRSHAD ALI SHAH",
+    "Habibullah Ghouri",
+    "State",
+    "Muhammad Yousif's legal heirs",
+    "Ali Anwar Kandhro",
+    "Jacobabad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

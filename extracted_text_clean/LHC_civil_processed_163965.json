@@ -6,14 +6,24 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil Court 3 having jurisdiction. No interference",
+  "case_number": "",
   "date_of_order": "06.04.2022",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
     "section 42 of the Specific Relief Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Dhanjani Yasmin",
+    "Mukhtiarkar Shujabad",
+    "Mr. Ghulam Shabbir Babar",
+    "Mr. Rafique Ahmed Dahri",
+    "Mr. Aayatullah Khuwaja",
+    "Member (Judicial-II) Board of Revenue Sindh Hyderabad",
+    "Additional Deputy Commissioner-I Mirpurkhas",
+    "Additional Commissioner-I Mirpurkhas",
+    "2 Member (Judicial-II) Board of Revenue Sindh Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

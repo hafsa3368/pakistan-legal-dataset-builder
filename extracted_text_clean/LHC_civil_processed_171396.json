@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 625 of 2019",
   "date_of_order": "16.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 377 PPC",
     "section 382-B Cr.P.C"
@@ -17,7 +17,13 @@
     "2008 SCMR 1001",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Lal Baksh",
+    "The State",
+    "Abdul Ghafoor",
+    "Dawood",
+    "Muhammad Asif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

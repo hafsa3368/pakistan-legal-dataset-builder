@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 173 of 2022",
   "date_of_order": "23.08.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 322 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farhad Ali and Muhammad Farhan",
+    "The State",
+    "Abdul Hadi, Shahriyar, Mst. Neelofer, Mst. Mehwish, Muhammad Saleem, Mst. Benish"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

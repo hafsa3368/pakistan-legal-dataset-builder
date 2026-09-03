@@ -8,13 +8,21 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 78 of 2022",
   "date_of_order": "31.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 25 of Sindh Arms Act",
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sher Ali",
+    "The State",
+    "Mr. Qaim Ali Memon",
+    "Mr. Khadim Hussain",
+    "Additional Prosecutor General Sindh",
+    "P.W Nasarullah",
+    "ASI Muhammad Arshad Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

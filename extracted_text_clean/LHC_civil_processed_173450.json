@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No. 376 of 2016",
   "date_of_order": "13.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 382"
   ],
@@ -21,7 +21,16 @@
     "2018 SCMR 772",
     "PLD 2019 SC 527"
   ],
-  "parties": [],
+  "parties": [
+    "Miss Saima",
+    "Mr. Fareed Ahmed Dayo",
+    "Astakhar",
+    "Imtiaz",
+    "Ghulam Mustafa",
+    "Shoukat Ali",
+    "The State",
+    "Ms. Rubina Qadir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

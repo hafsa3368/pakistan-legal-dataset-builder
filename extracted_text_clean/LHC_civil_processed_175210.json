@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No. 72 of 2020",
   "date_of_order": "28.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 382",
@@ -17,7 +17,22 @@
   "citations": [
     "2020 SCMR 281"
   ],
-  "parties": [],
+  "parties": [
+    "Riaz Hussain",
+    "The State",
+    "Mr. Khadim Hussain",
+    "Mr. Iftikhar Ahmed Shah",
+    "Mr. Muhammad Kaleem",
+    "P.W Muhammad Ali",
+    "P.W Mst. Aiman",
+    "Mst. Naheed Akhtar",
+    "Mst. Shazia",
+    "Muhammad Kaleem",
+    "Safdar Ali",
+    "Rozi Khan",
+    "Fayyaz Ahmed",
+    "Muhammad Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

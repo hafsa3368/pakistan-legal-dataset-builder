@@ -9,9 +9,23 @@
   "case_number": "Civil Petition No.748-K of 2011",
   "date_of_order": "17.08.2017",
   "judge": "Muhammad Shafi Siddiqui",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Arshad Hussain Khan",
+    "Mr. Jagdish R. Mullani",
+    "Mr. Abdul Hameed Bajwa",
+    "Muhammad Rehan Qureshi",
+    "Muhammad Rehan Qureshi",
+    "Allah Bachayo Soomro",
+    "Muhammad Rehan Qureshi",
+    "Nadeem Wahid Memon",
+    "Qalandar Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

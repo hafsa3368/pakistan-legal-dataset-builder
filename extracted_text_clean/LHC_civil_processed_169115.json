@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Misc. Application No. 194 of 2022",
   "date_of_order": "20.07.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Raheel",
+    "S.P (Investigation) Karachi East",
+    "Mst. Rohi Bano"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

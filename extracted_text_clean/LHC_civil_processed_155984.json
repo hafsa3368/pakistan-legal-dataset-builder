@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt:Petition.No.D-662 of 2019",
   "date_of_order": "08.12.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Riaz Hussain Khoso"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

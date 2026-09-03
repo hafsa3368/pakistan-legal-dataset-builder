@@ -9,9 +9,17 @@
   "case_number": "Crl.Misc.Appln.No.S-470 of 2021",
   "date_of_order": "06.01.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 22-A CrPC",
+    "Section 22-B CrPC",
+    "Section 561-A CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Applicant",
+    "Private Respondent",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

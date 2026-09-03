@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "01.02.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR-977"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Dastagir A. Shahani",
+    "Mr. Abdul Hamid Bhurgri",
+    "The Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

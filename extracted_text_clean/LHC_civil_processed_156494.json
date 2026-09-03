@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal.No.S-68 of 2021",
   "date_of_order": "03.01.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 382-B Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faiz Muhammad Larik",
+    "Mr. Ali Anwar Kandhro",
+    "SIP Anwar Ali Brohi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

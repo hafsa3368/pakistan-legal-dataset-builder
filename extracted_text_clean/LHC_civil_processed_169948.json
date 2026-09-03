@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 31 of 2019",
   "date_of_order": "25.08.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 363 PPC",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jahanzaib",
+    "The State",
+    "Mr. Salahuddin Chandio",
+    "Mr. Faheem Hussain Panhwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

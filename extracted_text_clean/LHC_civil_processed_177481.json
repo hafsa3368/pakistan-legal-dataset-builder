@@ -8,13 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "01.12.2022",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [
     "Sections 452, 365-B PPC",
     "Section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khalil Ahmed Maitlo",
+    "Deputy P.G for the State",
+    "ASI/I.O Nasrullah Soomro of P.S, A-Section, Ghotki",
+    "Mst. Zulekha",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

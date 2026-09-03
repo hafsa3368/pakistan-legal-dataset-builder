@@ -8,10 +8,24 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.D-07 of 2016",
   "date_of_order": "22.02.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "IRSHAD ALI SHAH",
+    "State",
+    "Zulfiqar Ali",
+    "Ali Nawaz Ghanghro",
+    "Abdul Khaliq",
+    "Abdul Khaliq",
+    "Ali Anwar Kandhro",
+    "Kashmore @ Kandhkot",
+    "Larkana",
+    "Kashmore @ Kandhkot"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

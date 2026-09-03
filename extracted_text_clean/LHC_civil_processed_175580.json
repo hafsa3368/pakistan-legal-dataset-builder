@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 227 of 2022",
   "date_of_order": "09.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 376 PPC",
     "section 382"
@@ -16,7 +16,15 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Iftikhar Ahmed @ Babu",
+    "The State: Mr. Faheem Hussain Panhwar",
+    "Mr. Farrukh Sharif",
+    "Sirajuddin",
+    "Mst. Fiza",
+    "Abbasi Shaheed Hospital",
+    "Dr. Samia Sehar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

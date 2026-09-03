@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Acquittal Appeal No. 432 of 2020",
   "date_of_order": "10.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 265-K Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nemo for Imran Khan",
+    "Nawab Saleem",
+    "The State",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

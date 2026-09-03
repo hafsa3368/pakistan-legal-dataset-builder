@@ -8,10 +8,15 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.S-103 of 2021",
   "date_of_order": "04.03.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Not specified",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mazhar Ali Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

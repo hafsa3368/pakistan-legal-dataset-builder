@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No. 136 of 2012",
   "date_of_order": "22.08.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 337-A",
     "section 302 PPC",
@@ -19,7 +19,11 @@
     "2020 SCMR 1185",
     "2008 SCMR 917"
   ],
-  "parties": [],
+  "parties": [
+    "Khuda Bux alias Karo",
+    "The State",
+    "Muhammad Hassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

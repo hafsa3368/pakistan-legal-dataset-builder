@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-49 of 2022",
   "date_of_order": "03.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "IRSHAD ALI SHAH",
+    "Habibullah Ghouri",
+    "State through Mr. Ali Anwar Kandhro as Addl.P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

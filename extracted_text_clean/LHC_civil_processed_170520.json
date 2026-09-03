@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "30.08.2022",
-  "judge": "JUDGE SM",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. D il Khurram Shaheen",
+    "Mr. S. Shafqat Ali Shah Masoomi",
+    "Mr. G. M. Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

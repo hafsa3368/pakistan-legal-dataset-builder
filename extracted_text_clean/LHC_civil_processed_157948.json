@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-525 of 2021",
   "date_of_order": "21.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498-A Cr.PC",
     "Section 196 Cr.PC"
@@ -16,7 +16,13 @@
   "citations": [
     "2012 PCr.LJ-923"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rehman Chandio",
+    "Makhdoom Syed Tahir Abbas Shah",
+    "Mr. Ali Anwar Kandhro",
+    "The State",
+    "a particular sect"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

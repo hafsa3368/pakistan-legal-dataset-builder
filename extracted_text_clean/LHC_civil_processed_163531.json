@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammd Safl",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Grievance Redressal Committee",
+    "Kewal Kutaf Mushtaque Hussain Khaskheli",
+    "Manzoor Ahmed Panhwar Om Partash Kariuni",
+    "Samiullah Rino Ali Hassan Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

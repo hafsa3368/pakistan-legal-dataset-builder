@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No. 588 of 2021",
   "date_of_order": "10.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 23",
     "section 382"
@@ -17,7 +17,22 @@
     "2017 YLR 756",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shayan",
+    "The State",
+    "Muhammad Shayan",
+    "The State",
+    "Abdul Hafeez",
+    "The State",
+    "Muhammad Mansha",
+    "The State",
+    "H.C Naseer Ahmed",
+    "The State",
+    "Muhammad Zeeshan",
+    "The State",
+    "Muhammad Zakir",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

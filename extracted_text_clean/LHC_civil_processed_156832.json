@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-406 of 2021",
   "date_of_order": "14.01.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498-A Cr.PC",
     "Section 497 Cr.PC",
@@ -17,7 +17,11 @@
   "citations": [
     "1986 SCMR-1380"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Athar Abbas Solangi",
+    "Mr. Ali Anwar Kandhro",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

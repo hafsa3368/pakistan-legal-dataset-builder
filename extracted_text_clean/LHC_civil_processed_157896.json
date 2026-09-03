@@ -6,15 +6,25 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "constrained to observe that no case",
+  "case_number": "",
   "date_of_order": "22.02.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Muhib Hussain Pirzadovs",
+    "Federation of Pakistan",
+    "Mr. Irshad Ali R. Chandio",
+    "Mr. Muhammad Imran Abbasi",
+    "Mr. Abdul Hamid Bhurgri",
+    "Mr. Bashir Ahmed Dargahi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

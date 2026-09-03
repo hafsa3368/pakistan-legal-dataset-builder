@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 522 of 2021",
   "date_of_order": "21.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 23",
     "section 382-B Cr.P.C"
@@ -16,7 +16,10 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Kashif",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

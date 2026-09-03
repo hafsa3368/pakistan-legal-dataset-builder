@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No. 469 of 2021",
   "date_of_order": "21.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 302 PPC",
     "section 382"
@@ -19,7 +19,11 @@
     "2017 SCMR 344",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Danish Amir and Muhammad Noman Qureshi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

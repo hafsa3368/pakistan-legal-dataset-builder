@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No. 09 of 2021",
   "date_of_order": "28.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 302",
     "section 382"
@@ -16,7 +16,16 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Idrees Ali",
+    "The State",
+    "Mr. Habib- ur-Rehman Jiskani",
+    "Mr. Khadim Hussain",
+    "Additional Prosecutor General Sindh",
+    "Mst. Shamim Akhtar",
+    "Daniyal",
+    "Fayyaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

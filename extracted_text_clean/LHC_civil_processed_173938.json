@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Jail Appeal No. 315 of 2020",
   "date_of_order": "25.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 382",
     "Section 540 Cr.P.C"
@@ -19,7 +19,10 @@
     "2017 SCMR 344",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Nawaz",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

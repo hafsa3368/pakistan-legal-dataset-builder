@@ -6,12 +6,25 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-646 of 2021",
   "date_of_order": "01.12.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "S 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Shamsuddin Abbasi",
+    "Mr. Aijaz Ahmed Mangi",
+    "the petitioner",
+    "the government",
+    "the petitioner",
+    "the petitioner",
+    "the petitioner",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-89 of 2017",
   "date_of_order": "02.03.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashfaque Hussain Abro",
+    "Mr. Abdul Hamid Bhurgri",
+    "The petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

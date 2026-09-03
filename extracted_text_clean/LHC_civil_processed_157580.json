@@ -6,17 +6,34 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitution ought not",
+  "case_number": "",
   "date_of_order": "15.02.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "2016 CLC 1",
+    "2015 PLC 45",
+    "2015 CLD 257",
+    "2011 SCMR 1990",
+    "2001 SCMR 574",
+    "PLD 2001 Supreme Court 415",
+    "Muhammad Saddiq& Another vs. RuqayaKhanum& Others reported as PLD 2001 Karachi 60.",
+    "AKD Investment Management Limited & Others vs. JS Investments Limited & Others reported as 2020 CLD 596."
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
     "2001 SCMR 574",
     "PLD 2001 Karachi 60"
   ],
-  "parties": [],
+  "parties": [
+    "Rajal Das",
+    "Superintending Engineer SEPCO & Others",
+    "Mr. Pardeep Kumar",
+    "Mr. Abid Hussain Qadri",
+    "Mr. Muhammad Imran Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

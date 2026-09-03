@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-206 of 2021",
   "date_of_order": "10.12.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Manzoor",
+    "Suhno",
+    "the State",
+    "the complainant",
+    "the applicant",
+    "the appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

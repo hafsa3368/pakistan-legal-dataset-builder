@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 32 of 2022",
   "date_of_order": "02.09.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 376",
     "Section 511 PPC",
@@ -24,7 +24,14 @@
   "citations": [
     "1986 P.Cr.L.J 2496"
   ],
-  "parties": [],
+  "parties": [
+    "Qurban Ali",
+    "The State",
+    "Mr. Dur Muhammad Mallah",
+    "Mr. Hussain Bukhsh Baloch",
+    "Mst. Zareena",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

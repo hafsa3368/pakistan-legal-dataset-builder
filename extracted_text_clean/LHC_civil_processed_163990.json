@@ -8,10 +8,28 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "06.04.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Wajid Ali Khaskheli",
+    "Altaf Hussain Chandio",
+    "Tufail Ahmed Abbasi",
+    "Akhtar Hussain Laghari",
+    "Aqeel Ahmed Siddiqui",
+    "Nadeem Akhtar",
+    "Abdul Mueed Shaikh",
+    "Azad Ali Sahito",
+    "Mansoor Ali Jamali",
+    "Tanveer Ahmed Daudani",
+    "Khalil Ahmed Unar",
+    "Abdul Hafeez Daudani",
+    "Shahzad Aslam",
+    "Abdul Shakoor Keerio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

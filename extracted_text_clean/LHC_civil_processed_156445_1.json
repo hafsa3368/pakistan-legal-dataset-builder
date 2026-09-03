@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal.No.D-62 of 2016",
   "date_of_order": "04.01.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Afzal Jagirani",
+    "the appellant",
+    "Mr. Aitbar Ali Bullo",
+    "Deputy Prosecutor General for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

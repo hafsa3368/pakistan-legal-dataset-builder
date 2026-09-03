@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-580 of 2021",
   "date_of_order": "13.01.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498-",
     "Section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Waheed Rajput, Advocate for the applicants",
+    "Abdul Razzaque",
+    "Mr. Abdul Ghaffar, A.P.G for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

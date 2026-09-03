@@ -8,10 +8,21 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-420 of 2021",
   "date_of_order": "09.12.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 497 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Akhtiar Begum",
+    "Mr. Syed Tahir Abbas Shah",
+    "Mr. Ali Anwar Kandhro",
+    "Gulzar",
+    "Zuhaib Hussain",
+    "Asadullah",
+    "Mst.Mumtaz Khatoon",
+    "Safdar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

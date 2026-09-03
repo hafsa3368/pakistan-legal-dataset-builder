@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. 93 of 2022",
   "date_of_order": "24.08.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 395 PPC",
     "Section 382-B Cr.P.C"
@@ -17,7 +17,21 @@
     "2008 SCMR 1001",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Khizar",
+    "Mr. Muhammad Yousuf Khan",
+    "Fahad",
+    "Mr. Tassaduq Nadeem",
+    "The State",
+    "Mr. Faheem Hussain Panhwar",
+    "Deputy Prosecutor General Sindh",
+    "Salam Muhammad Shafi",
+    "PW Shahzeb",
+    "ASI Imam Bux",
+    "Nauman",
+    "PCs Zakir",
+    "Sulleman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

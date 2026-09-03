@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 284 of 2014",
   "date_of_order": "19.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Sections 420/468/471 PPC",
     "Section 5 Act",
@@ -16,7 +16,11 @@
     "Section 537 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Murad Bux",
+    "The State",
+    "Mst. Niazmin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

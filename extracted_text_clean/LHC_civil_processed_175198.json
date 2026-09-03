@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 279 of 2021",
   "date_of_order": "28.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 364-A PPC",
     "section 382",
@@ -16,7 +16,14 @@
     "Section 511 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Qasim",
+    "The State",
+    "Zafar Iqbal",
+    "P.W Bashir Ahmed",
+    "Sonia",
+    "Hashim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

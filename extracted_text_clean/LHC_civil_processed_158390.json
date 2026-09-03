@@ -8,14 +8,19 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No.D-02 of 2020",
   "date_of_order": "01.03.2022",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 382-B Cr.PC"
   ],
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Agha Faisal",
+    "Mr. Habibullah Ghouri",
+    "Mr. Ali Anwar Kandhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

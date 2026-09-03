@@ -6,15 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Bail Application No.S-",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "16.01.2023",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 498-A Cr.P.C",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Fattah Samo",
+    "Mr. Shafi Muhammad Mahar",
+    "the State",
+    "Pir Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

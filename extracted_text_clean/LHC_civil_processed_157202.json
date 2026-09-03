@@ -8,10 +8,13 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.S-25 of 2020",
   "date_of_order": "31.01.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Lal Shah",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

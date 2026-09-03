@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 242 of 2020",
   "date_of_order": "24.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 397 Cr.P.C",
     "Section 324 PPC",
@@ -16,7 +16,14 @@
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nemo for Sharif",
+    "The State",
+    "Ghulam Rasool",
+    "Nazeer Ahmed",
+    "Nazar Ali",
+    "Muhammad Ayub"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

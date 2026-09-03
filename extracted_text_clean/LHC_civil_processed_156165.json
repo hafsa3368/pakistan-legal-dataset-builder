@@ -6,15 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "criminal obligation could not",
+  "case_number": "Constt: Petition No.S-425 of 2021",
   "date_of_order": "16.12.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1992 SCMR-1778",
     "PLD 1989 SC 613"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Raz Muhammad @ Gul Raz Hakro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

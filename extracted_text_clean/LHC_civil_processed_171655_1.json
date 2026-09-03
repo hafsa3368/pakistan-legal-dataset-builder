@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. 509 of 2019",
   "date_of_order": "23.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302 PPC",
     "section 382-B Cr.P.C"
@@ -17,7 +17,16 @@
     "2019 SCMR 1451",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Hina",
+    "The State",
+    "Ahmed Javed",
+    "Rana Kaleem",
+    "Khalid Javed",
+    "Malik Muhammad Tariq",
+    "Ms. Robina Qadir",
+    "Adnan Rasheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

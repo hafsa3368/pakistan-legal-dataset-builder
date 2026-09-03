@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "01-09-2022",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khan Muhammad Sangi",
+    "Mr. Noor Hassan Malik",
+    "Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

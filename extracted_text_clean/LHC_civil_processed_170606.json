@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 106 of 2016",
   "date_of_order": "05.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 337-",
     "Section 302",
@@ -20,7 +20,16 @@
   "citations": [
     "2020 SCMR 281"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman",
+    "The State",
+    "Abu Bakar",
+    "Muhammad Siddique",
+    "Muhammad Yaqoob",
+    "Muhammad Haneef",
+    "Abdul Qadir",
+    "Muhammad Ismail"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

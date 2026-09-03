@@ -8,10 +8,16 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.S-07 of 2022",
   "date_of_order": "25.02.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Ali Khan Shaikh Abid",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Amanullah Luhur",
+    "State and others",
+    "Abdul Khaliq and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

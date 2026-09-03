@@ -8,14 +8,20 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "25.01.2022",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [],
   "citations": [
     "2016 SCMR 430",
     "2013 SCMR 1062",
     "1995 SCMR 1856"
   ],
-  "parties": [],
+  "parties": [
+    "Miss Hina & Others",
+    "SMBBMU Larkana & Others",
+    "Mr. Athar Abbas Solangi",
+    "Mr. Sarfraz Ali Abbasi",
+    "Mr. Liaquat Ali Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

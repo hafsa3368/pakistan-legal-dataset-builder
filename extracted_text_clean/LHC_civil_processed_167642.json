@@ -8,10 +8,12 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "01.06.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Manu Menghwar, advocate for petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

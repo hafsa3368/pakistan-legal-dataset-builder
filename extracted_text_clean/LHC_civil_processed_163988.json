@@ -8,12 +8,16 @@
   "num_chunks": 1,
   "case_number": "Civil Judge Mirpurkhas as First Class Suit No.33 of 1992",
   "date_of_order": "29.03.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [
     "Section 11 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aslam Bhatti",
+    "Mr. Allah Bachayo Soomro",
+    "Additional A.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

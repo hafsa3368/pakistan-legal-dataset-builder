@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No. 773 of 2022",
   "date_of_order": "19.01.2023",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 9",
     "Section 382",
@@ -20,7 +20,14 @@
   "citations": [
     "PLD 2017 SC 671"
   ],
-  "parties": [],
+  "parties": [
+    "Rasheed Ahmed",
+    "The State",
+    "SIP Illahi Bux",
+    "PC Ghulam Abbas",
+    "PC Ghulam Sarwar",
+    "D/PC Razzaq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

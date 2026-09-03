@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal.No.D-12 of 2016",
   "date_of_order": "04.01.2022",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 221 Cr.PC",
     "section 535 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Afzal Jagirani",
+    "Mr. Habibullah Ghouri",
+    "Mr. Aitbar Ali Bullo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

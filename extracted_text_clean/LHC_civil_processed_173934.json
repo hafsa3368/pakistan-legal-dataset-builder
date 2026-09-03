@@ -8,10 +8,13 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 495 of 2020",
   "date_of_order": "25.10.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nemo for Painda Khan",
+    "The State: Through Mr. Khadim Hussain, Additional Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

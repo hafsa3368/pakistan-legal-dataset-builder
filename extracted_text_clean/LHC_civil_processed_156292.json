@@ -8,13 +8,20 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-504 of 2021",
   "date_of_order": "20.12.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 497 Cr.PC"
+  ],
   "citations": [
     "2017 SCMR-116",
     "2009 SCMR-299"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Sajid Hussain Mahessar",
+    "Complainant Gul Bahar",
+    "Mr. Aitbar Ali Bullo",
+    "Deputy Prosecutor General for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

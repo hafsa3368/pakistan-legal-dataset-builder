@@ -6,14 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Const.Petition No.D-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "19.07.2018",
   "judge": "",
   "sections_cited": [
     "section 59 of Elections Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahbaz Ali and others",
+    "Election Commission of Pakistan",
+    "District Returning Officer",
+    "Mr. Sundar Khan Chachar",
+    "M/S Muhammad Aslam Jatoi",
+    "Khuda Dino Sangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

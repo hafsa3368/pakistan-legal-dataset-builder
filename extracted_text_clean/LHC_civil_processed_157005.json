@@ -9,11 +9,18 @@
   "case_number": "Crl.Misc.Appln.No.S-135 of 2021",
   "date_of_order": "24.01.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2019 YLR-2178"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Jai Kumar B.Lund",
+    "Mr. Aitbar Ali Bullo",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

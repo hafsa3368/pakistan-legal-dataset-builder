@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 163 of 2018",
   "date_of_order": "29.08.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 376 PPC",
     "section 382-B Cr.P.C",
@@ -17,7 +17,15 @@
     "Section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gul Nawab",
+    "The State",
+    "Abdul Rehman",
+    "Mst. Naheed",
+    "Sharif Khan",
+    "Mr. Mir Naqi Ali",
+    "Mr. Khadim Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

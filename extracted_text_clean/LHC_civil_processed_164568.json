@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "20.04.2022",
-  "judge": "JUDGE Muhammad Danish",
+  "judge": "Muhammad Danish",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Asghar Chang",
+    "Mr. Ayaz Ali Rajpar",
+    "Mr. Atif Imran Khowaja",
+    "SIP/S.H.O Ahmed Bux",
+    "ASI Ashraf",
+    "the respondent No.4",
+    "the respondent No.2",
+    "the petitioner No.1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

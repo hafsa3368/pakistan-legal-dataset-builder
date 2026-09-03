@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 200 of 2022",
   "date_of_order": "22.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 392 PPC",
     "Section 382"
@@ -16,7 +16,14 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Noman @ Machi @ Imran",
+    "The State",
+    "Abdul Rehman",
+    "P.W Shahid",
+    "Muhammad Mansha",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

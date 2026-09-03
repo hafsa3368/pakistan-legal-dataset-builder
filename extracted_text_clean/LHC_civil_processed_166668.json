@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "19.05.2022",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "counsel",
+    "absent person"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

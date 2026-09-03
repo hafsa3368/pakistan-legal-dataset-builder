@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No. 02 of 2021",
   "date_of_order": "19.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 397 PPC",
     "section 324 PPC",
@@ -18,7 +18,16 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Nemo for Sher Ali",
+    "The State",
+    "Ms. Seema Zaidi",
+    "The State",
+    "Malik Muhammad Naeem",
+    "Muhammad Mansha vs The State",
+    "P.W ASI Muhammad Moosa",
+    "Police constable"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

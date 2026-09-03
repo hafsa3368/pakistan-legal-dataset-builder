@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 513 of 2021",
   "date_of_order": "21.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 397 PPC",
     "section 382-B Cr.P.C"
@@ -16,7 +16,17 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Kashif",
+    "Tahir Nawaz",
+    "The State",
+    "Umer Rauf",
+    "Mr. Abrar Ali Khitchi",
+    "Additional Prosecutor General Sindh",
+    "HC Ali Nawaz",
+    "P.W/mashir PC Raheem Dad",
+    "Munshi Aquib"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,20 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-555 of 2021",
   "date_of_order": "10.02.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR-116"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Dildar Ali Chandio",
+    "Mr. Abdul Hakeem Brohi",
+    "Mr. Abdul Ghaffar Kalhoro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

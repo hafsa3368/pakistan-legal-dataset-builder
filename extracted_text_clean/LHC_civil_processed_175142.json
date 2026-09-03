@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. 649 of 2021",
   "date_of_order": "25.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 376 PPC",
     "section 382"
@@ -17,7 +17,10 @@
     "2008 SCMR 1001",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Shabir Ahmed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

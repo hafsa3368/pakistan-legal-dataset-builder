@@ -18,7 +18,16 @@
     "2017 SCMR 344",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "id": 1,
+      "name": "Mumtaz Ali Machhi"
+    },
+    {
+      "id": 2,
+      "name": "Roshan Ali Machhi"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

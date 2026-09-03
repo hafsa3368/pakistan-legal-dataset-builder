@@ -9,9 +9,14 @@
   "case_number": "",
   "date_of_order": "23.11.2017",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arbab Ali Hakro",
+    "Mr. Aghis-u-Salam Tahirzada"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

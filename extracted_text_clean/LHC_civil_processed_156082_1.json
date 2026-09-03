@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt: Petition No.D-2615 of 2011",
   "date_of_order": "14.12.2021",
   "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Shamsuddin Abbasi",
+    "Mr. Habibullah Ghouri",
+    "Mr. Abdul Hamid Bhurgri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt:Petition.No.D-677 of 2021",
   "date_of_order": "14.12.2021",
   "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rizwan Ahmed Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

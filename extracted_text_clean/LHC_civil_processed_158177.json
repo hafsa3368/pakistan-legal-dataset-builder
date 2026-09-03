@@ -6,12 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-1065 of 2017",
   "date_of_order": "23.02.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nooruddin Mahessar",
+    "Mr. Abdul Hamid Bhurgri",
+    "Addl.A.G Sindh",
+    "D.I.G, Larkana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No. 55 of 2018",
   "date_of_order": "22.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302 PPC",
     "Section 397 PPC",
@@ -25,7 +25,16 @@
     "2018 SCMR 772",
     "PLD 1981 SC 142"
   ],
-  "parties": [],
+  "parties": [
+    "Moosa Jan",
+    "Hashim Ali",
+    "Yasir Khan",
+    "The State",
+    "Muhammad Azeem",
+    "Muhammad Hussain",
+    "Zahid Khan",
+    "Abid Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

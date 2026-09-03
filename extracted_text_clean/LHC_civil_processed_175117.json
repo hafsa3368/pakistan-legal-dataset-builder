@@ -8,14 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 244 of 2021",
   "date_of_order": "23.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 337-A",
     "section 382",
     "Section 367 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sharib Jawaid through Mr. Abdul Baqi Lone advocate",
+    "The State: Through Mr. Faheem Hussain Panhwar, Deputy Prosecutor General Sindh",
+    "Complainant: Muhammad Iqbal through Mr. Liaquat Ali advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

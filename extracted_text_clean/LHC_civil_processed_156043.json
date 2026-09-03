@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-428 of 2021",
   "date_of_order": "09.12.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 497 Cr.PC"
   ],
@@ -16,7 +16,12 @@
     "2007 MLD-340",
     "2004 YLR-2434"
   ],
-  "parties": [],
+  "parties": [
+    "Ms. Rizwana Jabeen Siddiqui",
+    "Mr. Asif Ali Abdul Razzak Soomro",
+    "Mr. Ali Anwar Kandhro",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

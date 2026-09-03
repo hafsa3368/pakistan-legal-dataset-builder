@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.114 of 2022",
   "date_of_order": "13.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 382"
   ],
@@ -17,7 +17,17 @@
     "2008 SCMR 1001",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Khalil Ahmed",
+    "The State",
+    "The State",
+    "Mst. Aqsa",
+    "Muhammad Zahid",
+    "P.W Muhammad Nauman",
+    "P.W Dr. Afshan Nazlin",
+    "P.W/mashir Muhammad Nauman",
+    "Inspector Anwar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

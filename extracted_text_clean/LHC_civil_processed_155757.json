@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-186 of 2021",
   "date_of_order": "29.11.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zafar Ali Malgani",
+    "Habibullah Ghouri",
+    "Abdul Ghaffar",
+    "Fazal Rehman",
+    "Shah Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

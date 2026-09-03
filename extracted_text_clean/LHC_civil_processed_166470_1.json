@@ -8,10 +8,12 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "18.05.2022",
-  "judge": "JUDGE A",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wazeer Hussain Khoso"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

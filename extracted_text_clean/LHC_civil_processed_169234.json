@@ -8,13 +8,20 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "01.08.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 324 PPC",
     "Section 337-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Darya Khan",
+    "The State",
+    "Mst. Karimat",
+    "The Complainant",
+    "Mr. Majid Ali Khichi",
+    "Mr. Talib Ali Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

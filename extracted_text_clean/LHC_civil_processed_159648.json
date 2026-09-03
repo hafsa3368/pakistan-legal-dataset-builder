@@ -9,9 +9,18 @@
   "case_number": "Crl.Bail Appln.No.S-62 of 2022",
   "date_of_order": "14.03.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahbaz Ali Brohi",
+    "Mr. Asadullah Brohi",
+    "Mr. Ali Anwar Kandhro",
+    "State",
+    "Mir Hassan",
+    "The Deceased"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

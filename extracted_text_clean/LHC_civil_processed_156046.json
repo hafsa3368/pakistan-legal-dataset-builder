@@ -9,11 +9,18 @@
   "case_number": "Criminal Jail Appeal No.S-51 of 2021",
   "date_of_order": "09.12.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "1999 SCMR 2589"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Shafquat Ali Shah",
+    "Complainant",
+    "Mr. Ali Anwar Kandhro",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

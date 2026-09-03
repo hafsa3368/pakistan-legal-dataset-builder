@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt: Petition No.D-90 of 2016",
   "date_of_order": "26.01.2022",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Dastagir Shahani",
+    "Mr. Shakeel Ahmed Abro",
+    "Mr. Liaquat Ali Shar",
+    "The petitioner",
+    "Private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

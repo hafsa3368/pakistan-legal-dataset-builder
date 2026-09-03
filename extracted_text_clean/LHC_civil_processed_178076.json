@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. 245 of 2022",
   "date_of_order": "23.01.2023",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 9",
     "Section 382",
@@ -19,7 +19,14 @@
   "citations": [
     "PLD 2017 SC 671"
   ],
-  "parties": [],
+  "parties": [
+    "Hayat Khan @ Chonk",
+    "The State",
+    "Mr. Justice Naimatullah Phulpoto",
+    "Mr. Justice Shamsuddin Abbasi",
+    "Mr. Muhammad Iqbal Awan",
+    "Mr. Shamsul Hadi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

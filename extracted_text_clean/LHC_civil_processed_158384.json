@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "01.03.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Habibullah G. Ghouri",
+    "Mr. Abdul Hamid Bhurgri",
+    "The petitioner",
+    "The respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

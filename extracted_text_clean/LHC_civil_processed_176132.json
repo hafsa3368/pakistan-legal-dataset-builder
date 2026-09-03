@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 116 of 2022",
   "date_of_order": "21.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 452 PPC",
     "Section 376/",
@@ -24,7 +24,10 @@
   "citations": [
     "1986 P.Cr.L.J 2496"
   ],
-  "parties": [],
+  "parties": [
+    "Kamran Bahadur",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

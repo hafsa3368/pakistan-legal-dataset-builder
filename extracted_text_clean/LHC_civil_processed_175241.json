@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No. 10 of 2020",
   "date_of_order": "29.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 302",
     "section 382"
@@ -17,7 +17,11 @@
     "2011 SCMR 537",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yaseen",
+    "The State",
+    "Muhammad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

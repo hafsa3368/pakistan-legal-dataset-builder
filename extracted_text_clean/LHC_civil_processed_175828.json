@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 496 of 2021",
   "date_of_order": "14.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 23",
     "section 382"
@@ -16,7 +16,10 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Zubair Ahmed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

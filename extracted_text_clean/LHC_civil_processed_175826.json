@@ -8,14 +8,19 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 495 of 2021",
   "date_of_order": "14.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 382"
   ],
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Rizwan",
+    "Zubair",
+    "The State",
+    "Imran Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

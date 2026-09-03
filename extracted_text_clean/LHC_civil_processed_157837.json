@@ -8,12 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No.D-18 of 2021",
   "date_of_order": "16.02.2022",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 540 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed Abro",
+    "Mst.Bahgul",
+    "Mr. Aitbar Ali Bullo",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

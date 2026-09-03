@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 84 of 2017",
   "date_of_order": "26.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 336 PPC",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sikandar",
+    "The State",
+    "Muhammad Hanif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

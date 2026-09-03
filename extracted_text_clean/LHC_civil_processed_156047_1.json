@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal.No.S-70 of 2016",
   "date_of_order": "09.12.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 265-H",
     "section 302,324,337-H",
@@ -18,7 +18,17 @@
     "Section 367 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Irfan Badar Abbasi",
+    "Mr. Ali Anwar Kandhro",
+    "State",
+    "Mst.Zarina",
+    "Mst.Sanam",
+    "Mst.Samreen",
+    "Mst.Shanul",
+    "Dr.Quratul Ain",
+    "Ghulam Hyder alias Hyderi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

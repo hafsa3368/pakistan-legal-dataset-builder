@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No. S-53 of 2023",
-  "date_of_order": "",
+  "date_of_order": "23-01-2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 496-A, 34 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed bhanbhro",
+    "the applicants",
+    "the private respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

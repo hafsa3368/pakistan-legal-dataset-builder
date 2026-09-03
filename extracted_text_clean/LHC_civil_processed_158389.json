@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-690 of 2021",
   "date_of_order": "01.03.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shakeel Ahmed Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

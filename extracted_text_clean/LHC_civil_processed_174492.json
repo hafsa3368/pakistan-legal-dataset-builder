@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 403 of 2022",
   "date_of_order": "10.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 397 PPC",
     "section 382",
@@ -18,7 +18,11 @@
   "citations": [
     "1990 P.Cr.L.J 1221"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Raheel",
+    "The State",
+    "Muhammad Rasheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

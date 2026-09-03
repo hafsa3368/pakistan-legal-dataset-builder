@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Crl. Jail Appeal No.D-79 of 2019",
   "date_of_order": "29.01.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "appellants",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No. 291 of 2020",
   "date_of_order": "09.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 302",
     "section 382"
@@ -17,7 +17,17 @@
     "2017 SCMR 344",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Rizwan Ayaz Khan",
+    "The State",
+    "Mr. Akhtar Hakeem Kalwar",
+    "Ms. Humaira Nadeem Rana",
+    "Mr. Khadim Husain",
+    "Muhammad Umar",
+    "Abdullah",
+    "Halima",
+    "Sonia"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

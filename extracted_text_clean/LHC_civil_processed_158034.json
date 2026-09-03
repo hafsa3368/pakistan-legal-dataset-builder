@@ -8,12 +8,16 @@
   "num_chunks": 1,
   "case_number": "Criminal Acquittal Appeal No.D-05 of 2019",
   "date_of_order": "22.02.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [
     "Section 417 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faiz Muhammad Larik",
+    "Mr. Ali Anwar Kandhro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

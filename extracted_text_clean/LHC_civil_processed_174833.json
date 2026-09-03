@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 206 of 2022",
   "date_of_order": "18.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382",
     "Section 397 PPC",
@@ -16,7 +16,10 @@
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nadeem Habib Gul",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

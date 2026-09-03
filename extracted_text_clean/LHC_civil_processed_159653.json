@@ -8,13 +8,21 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-528 of 2021",
   "date_of_order": "14.03.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 CrPC"
+  ],
   "citations": [
     "2002 SCMR-273",
     "1986 SCMR-1380"
   ],
-  "parties": [],
+  "parties": [
+    "Sher Ali Chandio",
+    "Muhammad Ismail",
+    "Muhammad Ali",
+    "Imtiaz Ali Panhwar",
+    "Ali Anwar Kandhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

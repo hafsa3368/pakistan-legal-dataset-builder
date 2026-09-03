@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 1,
-  "case_number": "C.00.01»05»08 2027 02 20.717 (N1712 81;175)",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "10.02.1975",
   "judge": "Mr Muhaminad Ismail Bhutto",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 CrPC"
+  ],
   "citations": [],
   "parties": [
     "Additional AG",

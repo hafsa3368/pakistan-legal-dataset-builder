@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-456 of 2021",
   "date_of_order": "01.02.2022",
   "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 42 of the Specific Relief Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

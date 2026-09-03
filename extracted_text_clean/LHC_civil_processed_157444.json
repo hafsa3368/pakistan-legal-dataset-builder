@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-59 of 2020",
   "date_of_order": "10.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 302",
     "Section 382-B Cr.PC"
@@ -16,7 +16,13 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "IRSHAD ALI SHAH, J",
+    "Mr. Safdar Ali Ghouri",
+    "Mr. Ali Anwar Kandhro",
+    "The State",
+    "Mst. Zeenat Khatoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

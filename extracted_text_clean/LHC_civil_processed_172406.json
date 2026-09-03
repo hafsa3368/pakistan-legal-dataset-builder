@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No. 362 of 2018",
   "date_of_order": "05.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 302",
     "Section 382-B Cr.P.C",
@@ -17,7 +17,12 @@
   "citations": [
     "2017 SCMR 1727"
   ],
-  "parties": [],
+  "parties": [
+    "Zafar Iqbal",
+    "The State",
+    "Zafar Iqbal",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

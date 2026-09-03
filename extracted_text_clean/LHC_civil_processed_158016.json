@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "23.02.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Aslam & others",
+    "T.M.A. K.N.Shah & others",
+    "Mr. Habibullah G. Ghouri",
+    "Mr.Abdul Hamid Bhurgri",
+    "Addl A.G. Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

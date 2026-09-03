@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 317 of 2019",
   "date_of_order": "11.10.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 302",
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bilal Saleem",
+    "The State",
+    "Sohail Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

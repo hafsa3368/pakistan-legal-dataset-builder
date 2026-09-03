@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Anti-Terrorism Jail Appeal No. 40 of 2022",
   "date_of_order": "20.01.2023",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "section 7",
     "section 382",
@@ -20,7 +20,12 @@
   "citations": [
     "PLD 1966 SC 708"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Noman @ Mota",
+    "Pervaiz",
+    "The State",
+    "ASI Hussain Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

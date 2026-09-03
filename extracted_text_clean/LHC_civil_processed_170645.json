@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 472 of 2019",
   "date_of_order": "06.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 397 and 353 PPC",
     "section 382-B Cr.P.C",
     "sections 397 and 353 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nemo for appellants Khayal Muhammad and Muhammad Rauf",
+    "The State: Through Mr. Faheem Hussain Panhwar, Deputy Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

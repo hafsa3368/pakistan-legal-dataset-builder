@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.197 of 2020",
   "date_of_order": "27.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 302"
   ],
@@ -18,7 +18,12 @@
     "2017 SCMR 344",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Sajjad Khan",
+    "The State",
+    "M/s Habib Ahmed and Shamsher Khan Azimi",
+    "M/s Muhammad Jamil and Sarosh Jamil"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

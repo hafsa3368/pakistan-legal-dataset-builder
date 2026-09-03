@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-457 of 2021",
   "date_of_order": "01.02.2022",
   "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 42 of the Specific Relief Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Agha Faisal",
+    "Mr. Ghulam Dastagir Shahani",
+    "Mr. Abdul Rehman Bhutto",
+    "Mr. Abdul Hamid Bhurgri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

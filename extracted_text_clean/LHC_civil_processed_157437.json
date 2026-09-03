@@ -8,14 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-592 of 2021",
   "date_of_order": "10.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 497 Cr.PC"
   ],
   "citations": [
     "2020 SCMR-1268"
   ],
-  "parties": [],
+  "parties": [
+    "Mehmood-ul-Hassan",
+    "Muhammad Hashim Soomro",
+    "Abdul Sattar Hulio",
+    "Abdul Ghaffar Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

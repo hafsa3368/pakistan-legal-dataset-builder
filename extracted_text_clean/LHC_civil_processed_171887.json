@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 711 of 2021",
   "date_of_order": "27.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 367/A PPC",
     "Section 382-B Cr.P.C",
@@ -19,7 +19,15 @@
   "citations": [
     "1987 P.Cr.L.J 403"
   ],
-  "parties": [],
+  "parties": [
+    "Zamin Ali",
+    "Muhammad Majid @ Kala",
+    "Muhammad Ashraf",
+    "The State",
+    "Through Mr. Talib Ali Memon",
+    "Through Mr. Ammad Ghaffar",
+    "Through Mr. Ghulam Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,18 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "17.11.2017",
-  "judge": "",
+  "judge": "Z.A. Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners in C.P.No.D-2117 of 2017",
+    "Petitioner in C.P.No.D-2209 of 2017",
+    "Deputy Commissioner, Sukkur",
+    "Assistant Registrar, Joint Stock Companies Sukkur",
+    "Assistant A.G-Sindh",
+    "Assistant Commissioner Sukkur City",
+    "Assistant Registrar, Joint Stock Companies"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

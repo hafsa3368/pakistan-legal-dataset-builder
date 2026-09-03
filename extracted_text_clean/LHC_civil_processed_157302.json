@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-562 of 2021",
   "date_of_order": "07.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498-A Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saddam Hussain",
+    "Abdullah Kehar",
+    "Ali Anwar Kandhro",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

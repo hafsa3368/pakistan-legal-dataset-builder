@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "07.12.2022",
-  "judge": "",
+  "judge": "(Retd.) Sardar Muhammad Akram Khan Khokhar",
   "sections_cited": [
     "section 15",
     "section 382"
@@ -16,7 +16,10 @@
   "citations": [
     "2007 SCMR 1844"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Sadaqat Hussain",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

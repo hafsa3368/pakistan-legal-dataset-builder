@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "02.02.2022",
-  "judge": "JUDGE",
+  "judge": "Agha Faisal",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Mustafa & Others",
+    "District Council Larkano & Other",
+    "Habibullah G. Ghouri",
+    "Abdul Hamid Bhurgri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

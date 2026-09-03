@@ -8,8 +8,10 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "16.02.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 425",
     "2010 SCMR 105",
@@ -17,7 +19,12 @@
     "2011 SCMR 1990",
     "2001 SCMR 574"
   ],
-  "parties": [],
+  "parties": [
+    "Saleemullah &Others",
+    "Executive Engineer, Provincial Highways &Others",
+    "Mr. Habibullah Ghouri",
+    "Mr. Liaquat Ali Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

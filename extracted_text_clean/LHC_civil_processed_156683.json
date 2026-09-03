@@ -8,8 +8,12 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "12.01.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution"
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
@@ -17,7 +21,12 @@
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Salamat Ali & Others",
+    "Regional Director, Director of College Education Larkana & Others",
+    "Mr. Ghayoor Abbas M. Shahani",
+    "Mr. Abdul Hamid Bhurgri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constt. Petition No. D-",
+  "case_number": "",
   "date_of_order": "09.03.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faiz Muhammad Larik",
+    "Mr. Liaquat Ali Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

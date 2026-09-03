@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 560 of 2017",
   "date_of_order": "07.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 302",
     "Section 382-B Cr.P.C",
@@ -19,7 +19,21 @@
   "citations": [
     "2020 SCMR 281"
   ],
-  "parties": [],
+  "parties": [
+    "Nasir",
+    "The State",
+    "Irshad Ali",
+    "Ghulam Shabbir",
+    "Noor Muhammad",
+    "Liaquat Ali Shaikh",
+    "Liaqat Rajput",
+    "P.W Noor Muhammad",
+    "P.W Liaqat Ali Shaikh",
+    "P.W Liaqat Rajput",
+    "The Appellant",
+    "The Complainant",
+    "The Deceased"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

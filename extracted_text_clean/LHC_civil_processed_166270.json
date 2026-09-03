@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "11.05.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 5 of Sindh Irrigation Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rehman",
+    "Mr. Ayatullah Khowaja",
+    "Mr. Rafique Ahmed Dahri AAG Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

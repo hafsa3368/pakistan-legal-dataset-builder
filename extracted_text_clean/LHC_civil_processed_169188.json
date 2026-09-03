@@ -8,13 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Misc. Application No. 687 of 2021",
   "date_of_order": "21.07.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 22-A",
     "Section 561-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ahmad",
+    "SSP Complaint Cell Karachi East",
+    "Mr. Siraj Ali Khan Chandio",
+    "Mst. Kiran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

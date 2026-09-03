@@ -9,7 +9,10 @@
   "case_number": "Criminal Acquittal Appeal No.D-25 of 2013",
   "date_of_order": "18-01-2023",
   "judge": "Zafar Ahmed Rajput Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1996 SCMR 908",
     "2005 SCMR 383",
@@ -17,7 +20,10 @@
     "2010 SCMR 149",
     "2010 SCMR 1791"
   ],
-  "parties": [],
+  "parties": [
+    "Fazalullah son of Ariz Muhammad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No. 560 of 2020",
   "date_of_order": "20.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 302",
     "section 382-"
@@ -21,7 +21,20 @@
     "2019 SCMR 1451",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Ansar Khan",
+    "Mst. Anwari Begum",
+    "Mst. Maira",
+    "The State",
+    "Muhammad Ismail Meo",
+    "Zafar Ahmed Khan",
+    "Muhammad Saleem",
+    "Hammad Ahmed",
+    "Waqas",
+    "Waseem",
+    "Imran",
+    "Mst. Shahnaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

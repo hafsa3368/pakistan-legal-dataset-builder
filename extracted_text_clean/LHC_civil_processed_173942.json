@@ -8,13 +8,21 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 335 of 2022",
   "date_of_order": "26.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 23",
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sajid",
+    "The State",
+    "Mashir Salah Alam",
+    "Muhammad Usman",
+    "Khadim Hussain",
+    "SIP Muhammad Sharif",
+    "ASI Muhammad Sharif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

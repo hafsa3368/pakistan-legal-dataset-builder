@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "22.03.2022",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arbab Ali Hakro",
+    "Mr. Muhammad Aslam Bhatti",
+    "Mr. Ashfaque Nabi Qazi",
+    "Mr. Rafique Ahmed Dahri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,16 @@
   "case_number": "Civil Petition No.186-K of 2013",
   "date_of_order": "07.12.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ashique Dhamrah",
+    "P.O Sindh and others",
+    "Muhammad Arif and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

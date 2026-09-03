@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "22.03.2022",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Tariq Ahmed Shah",
+    "Mr. Parkash Kumar",
+    "Mr. Rafique Ahmed Dahri",
+    "Syed Tariq Ahmed Shah",
+    "Mr. Parkash Kumar",
+    "Syed Tariq Ahmed Shah",
+    "Ali Haider"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

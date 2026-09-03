@@ -8,10 +8,13 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 201 of 2022",
   "date_of_order": "28.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nemo for Samina Junaid and Hassan Mushtaq Khan",
+    "Nemo for Muhammad Ismail"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "31.05.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Wishan Das Kolhi",
+    "Mr. Ayaz Ali Rajpar",
+    "Inspector Miran Khan",
+    "District Mirpurkhas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,23 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No.D-01 of 2020",
   "date_of_order": "22.12.2021",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Shamsuddin Abbasi",
+    "Mr. Imtiaz Ali Mugheri",
+    "Mr. Ali Anwar Kandhro",
+    "Ghulam Abbas",
+    "Mst.Begum",
+    "Mst.Sawera",
+    "Ibrahim",
+    "Sabir Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

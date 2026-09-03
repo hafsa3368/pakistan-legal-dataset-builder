@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "31.05.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "CMA 2092/2021"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mazhar Ali Laghari",
+    "Mr. Ayaz Ali Rajpar",
+    "respondent No.1",
+    "appellants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

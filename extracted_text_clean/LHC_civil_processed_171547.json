@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "20.09.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sarmad Ali Junejo alias Sarwar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

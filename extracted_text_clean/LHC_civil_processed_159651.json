@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-83 of 2022",
   "date_of_order": "14.03.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahbaz Ali Brohi",
+    "Mr. Ali Anwar Kandhro",
+    "State",
+    "SHO Muhammad Azam Kolachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

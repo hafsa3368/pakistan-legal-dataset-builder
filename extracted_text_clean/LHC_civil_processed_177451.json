@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Civil Petition No.354-K of 2014",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "17-10-2014",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "ZIM’s Security (Pvt.) Limited",
+    "SSGC Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

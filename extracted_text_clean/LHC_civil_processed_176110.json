@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 150 of 2022",
   "date_of_order": "20.12.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 23",
     "section 382"
@@ -16,7 +16,12 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Hamza Ejaz",
+    "The State",
+    "Mr. Khadim Hussain",
+    "Additional Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

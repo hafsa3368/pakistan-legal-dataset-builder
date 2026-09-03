@@ -9,11 +9,17 @@
   "case_number": "Crl.Bail Appln.No.S-543 of 2021",
   "date_of_order": "13.01.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.PC"
+  ],
   "citations": [
     "2020 SCMR-1814"
   ],
-  "parties": [],
+  "parties": [
+    "M/S. Syed Juman Shah & Tahir Abbas Shah",
+    "Mr.Zafar Ali Malgani",
+    "Mr. Abdul Ghaffar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-23 of 2022",
   "date_of_order": "24.02.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aijaz Ali Kalhoro",
+    "Mr. Imran Ahmed Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

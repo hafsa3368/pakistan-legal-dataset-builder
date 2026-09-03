@@ -8,13 +8,22 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 603 of 2021",
   "date_of_order": "03.10.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2008 YLR 2259",
     "2015 YLR 715"
   ],
-  "parties": [],
+  "parties": [
+    "Nemo for Mst. Gulzar Begum",
+    "The State",
+    "The State",
+    "Ms. Rubina Qadir",
+    "Javed Inayat Masih"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

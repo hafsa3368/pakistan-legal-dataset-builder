@@ -8,10 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.S-135 of 2021",
   "date_of_order": "21.02.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Afzal Jagirani",
+    "IRSHAD ALI SHAH",
+    "State and others",
+    "Abdul Khaliq and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

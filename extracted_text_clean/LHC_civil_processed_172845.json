@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No. 504 of 2019",
   "date_of_order": "11.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "Section 382",
@@ -18,7 +18,12 @@
     "2007 SCMR 782",
     "1992 SCMR 1983"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Qayoom",
+    "The State",
+    "Muhammad Ramzan",
+    "Mst. Robina"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

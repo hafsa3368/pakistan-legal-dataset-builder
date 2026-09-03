@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No. 617 of 2021",
   "date_of_order": "05.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 397 PPC",
     "section 382-B Cr.P.C",
@@ -19,7 +19,16 @@
     "2017 SCMR 344",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Adeel Ahmed",
+    "The State",
+    "Muhammad Abdullah",
+    "Zubair",
+    "Hanzallah",
+    "Abdullah Memon",
+    "Atif",
+    "Kashan alias Shantu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

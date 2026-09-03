@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-491 of 2017",
   "date_of_order": "18.01.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghayoor Abbas Shahani",
+    "Mr. Abdul Hamid Bhurgri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

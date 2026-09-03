@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 791 of 2019",
   "date_of_order": "19.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382-B Cr.P.C",
     "Section 353 Cr.P.C",
@@ -18,7 +18,15 @@
   "citations": [
     "1987 P.Cr.L.J 403"
   ],
-  "parties": [],
+  "parties": [
+    "Sajjad @ Chota Mani, Shahzad, Sher Afzal",
+    "The State",
+    "Rashid",
+    "Sajid alias Babli",
+    "The State",
+    "S. Hifazat Hussain",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

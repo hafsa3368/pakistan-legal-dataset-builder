@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Criminal Acquittal Appeal No.D-14 of 2018",
   "date_of_order": "22.02.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Appellant",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

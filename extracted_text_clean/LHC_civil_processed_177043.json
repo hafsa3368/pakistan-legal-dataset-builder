@@ -7,13 +7,22 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. D-102 of 2022",
-  "date_of_order": "",
+  "date_of_order": "10.01.2023",
   "judge": "Zafar Ahmed Rajput Mr",
   "sections_cited": [
     "section 21-D"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulfiquar Ali Arain",
+    "Mr. Asadullah Arbani",
+    "Mr. Syed Sardar Ali Shah Rizvi",
+    "Javed Ali",
+    "Mehar",
+    "Justice Zafar Ahmed Rajput",
+    "Justice Irshad Ali Shah",
+    "Justice Nasim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

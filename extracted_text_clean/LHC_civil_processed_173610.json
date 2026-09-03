@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No. 21 of 2020",
   "date_of_order": "24.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 382",
@@ -18,7 +18,17 @@
   "citations": [
     "2017 SCMR 1727"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Qamar Abbas Shah",
+    "The State",
+    "Daniyal Raza",
+    "Mst. Kaneez Akbar",
+    "P.W Mst. Hina Batool",
+    "P.W Salar",
+    "P.W Zafar Abbas",
+    "P.W I.O/SIP Khadim Hussain",
+    "P.W I.O/SIP Abdul Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

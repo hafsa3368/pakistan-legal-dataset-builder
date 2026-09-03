@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt:Petition.No.D-672 of 2021",
   "date_of_order": "14.12.2021",
   "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Khalique Bughio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

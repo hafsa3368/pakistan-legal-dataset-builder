@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No. 220 of 2020",
   "date_of_order": "13.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382"
   ],
@@ -19,7 +19,15 @@
     "2017 SCMR 344",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Khuda Bux",
+    "Abdul Khaliq",
+    "The State",
+    "Muhammad Saleem",
+    "Sheeraz",
+    "P.W/victim Mst. Rimsha",
+    "Zamir Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

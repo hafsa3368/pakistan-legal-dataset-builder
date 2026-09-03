@@ -8,10 +8,35 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "01.03.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Shoukat Ali",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "P.I.A.C",
+    "Rashid Rasheed Zuberi",
+    "Bashir Ahmed Junejo",
+    "P.I.A.C",
+    "Sukkur Airport",
+    "Moen-jo-Daro Airport",
+    "P.I.A.C",
+    "P.I.A.C",
+    "Civil Aviation Authority",
+    "P.I.A.C",
+    "Civil Aviation Authority",
+    "P.I.A.C",
+    "District Sales Manager",
+    "Chief Operating Officer",
+    "Chief of Flight Operations",
+    "G.M",
+    "Manager",
+    "Additional Advocate General Sindh",
+    "Assistant Attorney General",
+    "Civil Aviation Authority",
+    "Sarfraz Ahmed Abbasi",
+    "Muhammad Imran Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

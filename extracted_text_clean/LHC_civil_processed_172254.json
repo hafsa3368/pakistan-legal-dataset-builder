@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 280 of 2022",
   "date_of_order": "04.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 397 PPC",
     "Section 382-B Cr.P.C",
@@ -19,7 +19,12 @@
   "citations": [
     "1990 P.Cr.L.J 1221"
   ],
-  "parties": [],
+  "parties": [
+    "Tawaf Khan",
+    "The State",
+    "Nemo",
+    "Syed Sabih Haider Jafferi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

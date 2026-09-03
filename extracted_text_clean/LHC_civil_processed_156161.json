@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Constt: Petition No.D-548 of 2008",
   "date_of_order": "15.12.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghayoor Abbas Shahani",
+    "Mr. Abdul Hamid Bhurgri",
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Shamsuddin Abbasi",
+    "Pakistan",
+    "the"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

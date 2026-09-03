@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 80 of 2020",
   "date_of_order": "28.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 376 PPC",
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gulshan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,18 @@
   "case_number": "Crl.Bail Appln.No.S-547 of 2021",
   "date_of_order": "20.12.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.PC"
+  ],
   "citations": [
     "2009 SCMR-448"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Lal Shah",
+    "Khuwaja Khairuddin Dero",
+    "Mr. Aitbar Ali Bullo",
+    "Roshan Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

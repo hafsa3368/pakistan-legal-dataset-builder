@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal.No.D-52 of 2019",
   "date_of_order": "21.12.2021",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Shamsuddin Abbasi",
+    "Mr. Ali Ahmed Khan",
+    "Mr. Ali Anwar Kandhro",
+    "Addl. Prosecutor General for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

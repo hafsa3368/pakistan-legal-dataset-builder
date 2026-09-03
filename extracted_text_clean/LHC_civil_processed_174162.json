@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No. 97 of 2022",
   "date_of_order": "01.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 397 PPC",
     "section 382"
@@ -16,7 +16,14 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Aleem Baloch",
+    "Alataf Ahmed",
+    "The State",
+    "Mr. Khadim Hussain",
+    "Abdul Latif",
+    "Muhammad Mansha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

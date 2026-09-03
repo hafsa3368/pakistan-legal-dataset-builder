@@ -4178,6 +4178,84 @@ def user_facing_error(
 #      swap in the deterministic fallback rather than showing the old
 #      wipe text.
 # ==================================================================
+
+
+# ==================================================================
+# CONVERSATIONAL QUERIES (greetings / thanks / small talk)
+# --------------------------------------------------------------------
+# Checked BEFORE retrieval even runs (cheaper and friendlier than
+# falling through to the generic MIN_RELEVANCE_SCORE out-of-scope
+# decline -- "hi" and "thanks" deserve a warm, on-brand reply, not
+# "this doesn't look like a specific legal question"). Deliberately a
+# short, curated pattern list (same discipline as
+# KNOWN_HALLUCINATION_PATTERNS) rather than an LLM call -- these are a
+# closed, small set of real user inputs, not something worth spending
+# an Ollama round-trip on.
+# ------------------------------------------------------------------
+_GREETING_RE = re.compile(
+    r"^\s*(?:"
+    r"hi+|hello+|hey+|"
+    r"as+alam\s*[ou]?\s*al[ae]?i?kum|salam(?:\s*al[ae]?i?kum)?|"
+    r"good\s*(?:morning|afternoon|evening)"
+    r")\s*[!.,]*\s*$",
+    re.IGNORECASE,
+)
+_THANKS_RE = re.compile(
+    r"^\s*(?:thanks?(?:\s+you)?|thank\s*you|shukriya|thankyou)\s*[!.,]*\s*$",
+    re.IGNORECASE,
+)
+_FAREWELL_RE = re.compile(
+    r"^\s*(?:bye+|goodbye|khuda\s*hafiz|allah\s*hafiz|see\s*you)\s*[!.,]*\s*$",
+    re.IGNORECASE,
+)
+_HOW_ARE_YOU_RE = re.compile(
+    r"^\s*how\s*(?:are\s*you|r\s*u|are\s*u)\s*[?!.,]*\s*$",
+    re.IGNORECASE,
+)
+
+
+def classify_conversational_query(query: str) -> Optional[str]:
+    """Returns 'greeting', 'thanks', 'farewell', 'how_are_you', or None."""
+    if not query or not query.strip():
+        return None
+    if _GREETING_RE.match(query):
+        return "greeting"
+    if _THANKS_RE.match(query):
+        return "thanks"
+    if _FAREWELL_RE.match(query):
+        return "farewell"
+    if _HOW_ARE_YOU_RE.match(query):
+        return "how_are_you"
+    return None
+
+
+_CONVERSATIONAL_REPLIES = {
+    "greeting": "Walikumsalam! I'm your Pakistani legal research assistant. "
+                "Ask me about a case, citation, or legal question -- e.g. "
+                "'What are the grounds for bail under Section 497 CrPC?' or "
+                "'Show me cases similar to PLD 2020 SC 1.'",
+    "thanks": "You're welcome! Let me know if you have any other legal "
+              "questions -- I'm happy to help with case law research.",
+    "farewell": "Khuda Hafiz! Come back anytime you have a legal research question.",
+    "how_are_you": "I'm doing well, thank you! I'm here to help with your "
+                    "Pakistani legal research -- ask me about a case, citation, "
+                    "or legal question whenever you're ready.",
+}
+
+
+def build_conversational_response(category: str) -> str:
+    reply = _CONVERSATIONAL_REPLIES.get(category, _CONVERSATIONAL_REPLIES["greeting"])
+    return (
+        "LEGAL ISSUE:\nNot applicable -- this is a greeting, not a legal question.\n\n"
+        f"ANSWER / SUMMARY:\n{reply}\n\n"
+        "RELEVANT LEGAL PRINCIPLES:\nNot applicable.\n\n"
+        "RELEVANT CASE LAW:\nNot applicable.\n\n"
+        "APPLICATION TO THE QUERY:\nNot applicable.\n\n"
+        "LIMITATIONS:\nNone -- this response did not require any case-law retrieval."
+    )
+
+
+# ==================================================================
 def answer_legal_query(
     legal_query: str,
     central_identifier: Optional[str] = None,
@@ -4194,6 +4272,11 @@ def answer_legal_query(
     Returns the clean answer string, or (answer, debug_info) if
     return_debug=True.
     """
+    conversational_category = classify_conversational_query(legal_query)
+    if conversational_category:
+        text = build_conversational_response(conversational_category)
+        return (text, {"mode": "conversational_query", "category": conversational_category}) if return_debug else text
+
     if is_aggregate_listing_query(legal_query):
         text = answer_listing_query(legal_query) or build_aggregate_query_decline()
         return (text, {"mode": "listing_query"}) if return_debug else text

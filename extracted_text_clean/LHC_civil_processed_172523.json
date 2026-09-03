@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 275 of 2021",
   "date_of_order": "12.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 23",
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nemo for Muhammad Hafeez",
+    "The State: Through Mr. Faheem Hussain Panhwar, Deputy Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

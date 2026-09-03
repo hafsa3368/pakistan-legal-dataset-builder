@@ -6,10 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constrained to observe that no case",
+  "case_number": "",
   "date_of_order": "25.01.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 120 CrPC",
+    "Section 482 CrPC"
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
@@ -17,7 +22,13 @@
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Nisar Ahmed & Others",
+    "Province of Sindh & Others",
+    "Mr. Asif Ali Abdul Razzak Soomro",
+    "Mr. Liaquat Ali Shar",
+    "Ajmer Khan & Another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

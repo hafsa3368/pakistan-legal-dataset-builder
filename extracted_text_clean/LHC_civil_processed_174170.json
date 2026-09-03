@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. 583 of 2021",
   "date_of_order": "27.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "Section 452 PPC",
@@ -18,7 +18,11 @@
     "1996 SCMR 1553",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Nauman",
+    "The State",
+    "Bakhat Jameel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

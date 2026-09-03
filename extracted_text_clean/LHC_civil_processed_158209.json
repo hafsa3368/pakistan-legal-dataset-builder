@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "Civil Petition No.186-K of 2013",
   "date_of_order": "01.03.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Maqbool Hussain & others",
+    "District Education Officer, Dadu & others",
+    "Mr. Habibullah G. Ghouri",
+    "Mr.Abdul Hamid Bhurgri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

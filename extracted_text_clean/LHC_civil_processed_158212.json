@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Civil Petition No.186-K of 2013",
   "date_of_order": "01.03.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mumtaz Ali",
+    "The Secretary Education and Literacy Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

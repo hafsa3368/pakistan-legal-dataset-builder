@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "05.08.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 498 Cr.PC",
     "Section 497 Cr.P.C"
@@ -16,7 +16,10 @@
   "citations": [
     "1986 SCMR-1380"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Nasreen Mai",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

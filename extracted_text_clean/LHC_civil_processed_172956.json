@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No. 214 of 2019",
   "date_of_order": "18.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 34 PPC",
@@ -19,7 +19,19 @@
     "2000 SCMR 1758",
     "PLD 2015 SC 145"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Rahim",
+    "Ramzan",
+    "Adam",
+    "The State",
+    "Muhammad Hassan",
+    "Khamiso",
+    "Muhammad",
+    "Ghulam Qadir alias Koro",
+    "Ishaq",
+    "Usman",
+    "Muhammad Juman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

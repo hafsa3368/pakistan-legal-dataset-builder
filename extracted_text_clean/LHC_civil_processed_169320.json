@@ -9,9 +9,17 @@
   "case_number": "Criminal Misc. Application No. 213 of 2022",
   "date_of_order": "03.08.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Sidra Fawad Sheikh",
+    "The State and others",
+    "Mst. Mahrukh",
+    "Fawad Ahmed Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "Criminal Misc. Application No. 788 of 2021",
   "date_of_order": "19.07.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Fakhra Tariq",
+    "Danish Bhatti and others",
+    "Mr. Arshad Khan",
+    "Mr. Talib Hussain Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

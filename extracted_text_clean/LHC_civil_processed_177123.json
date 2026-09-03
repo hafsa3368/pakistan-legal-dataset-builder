@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Revision Appln. No. D-",
+  "case_number": "",
   "date_of_order": "26.10.2022",
   "judge": "Shamsuddin Abbasi",
   "sections_cited": [
@@ -17,7 +17,14 @@
     "Section 493 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Tahir Napar",
+    "The State",
+    "Mr. Muhammad Ali Napar",
+    "Mr. Ahsan Ahmed Memon",
+    "Mr. Aqeel Abbas Soomro",
+    "Mr. Aitbar Ali Bullo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

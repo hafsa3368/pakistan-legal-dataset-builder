@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No. 1001 of 2022",
   "date_of_order": "20.07.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 497 Cr.P.C",
     "Section 22-A"
@@ -25,7 +25,10 @@
     "2021 SCMR 1212",
     "2021 SCMR 460"
   ],
-  "parties": [],
+  "parties": [
+    "Aitbar Ali and another",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

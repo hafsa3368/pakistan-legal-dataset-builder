@@ -8,14 +8,19 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 82 of 2020",
   "date_of_order": "21.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382"
   ],
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Abid Ali @ Nana",
+    "The State",
+    "Owais alias Shah Sahab",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-181 of 2021",
   "date_of_order": "17.01.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498-A Cr.PC",
     "Section 497 Cr.PC"
@@ -16,7 +16,13 @@
   "citations": [
     "2021 SCMR-1804"
   ],
-  "parties": [],
+  "parties": [
+    "Habibullah Ghouri",
+    "Mumtaz Ali Jessar",
+    "Abdul Ghaffar",
+    "Ashique Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

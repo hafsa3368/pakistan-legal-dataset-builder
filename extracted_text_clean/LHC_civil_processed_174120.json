@@ -8,14 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 77 of 2022",
   "date_of_order": "31.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 398 PPC",
     "section 382",
     "Section 393 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sher Ali",
+    "The State",
+    "Nasarullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

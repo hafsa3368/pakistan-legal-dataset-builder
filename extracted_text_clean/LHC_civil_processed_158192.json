@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.D-27 of 2021",
   "date_of_order": "23.02.2022",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 9",
     "Section 382-B Cr.PC",
     "Section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sharif R.Awan",
+    "Mr. Ali Anwar Kandhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-309 of 2019",
   "date_of_order": "09.02.2022",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Agha Faisal",
+    "Mr. Gada Hussain Khan Baloch",
+    "Mr. Abdul Hamid Bhugri",
+    "S.S.P Shikarpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

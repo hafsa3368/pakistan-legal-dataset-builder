@@ -9,9 +9,16 @@
   "case_number": "Crl. Revision Appln.No.S-61 of 2020",
   "date_of_order": "20.01.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 200 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zahid Hussain Chandio",
+    "Mr. Sarfraz Ali Abbasi",
+    "Mr. Ali Anwar Kandhro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

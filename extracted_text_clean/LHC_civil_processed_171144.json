@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No. 90 of 2020",
   "date_of_order": "06.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 302",
     "Section 382-B Cr.P.C",
@@ -18,7 +18,15 @@
     "2008 SCMR 707",
     "2020 SCMR 281"
   ],
-  "parties": [],
+  "parties": [
+    "P.C Altaf Hamza",
+    "The State",
+    "Mudasir Nazeer",
+    "Tahir Khan",
+    "Fahad",
+    "Raheel",
+    "Shahriyar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

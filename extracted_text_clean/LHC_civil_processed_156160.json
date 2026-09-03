@@ -8,10 +8,20 @@
   "num_chunks": 4,
   "case_number": "Crl.Acquittal.Appeal.No.D-47 of 2021",
   "date_of_order": "15.12.2021",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Lal Bibi",
+    "Punhal",
+    "Mr. Faiz Muhammad Larik",
+    "The State represented by ASI Barkat Ali",
+    "Baggan",
+    "Babu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

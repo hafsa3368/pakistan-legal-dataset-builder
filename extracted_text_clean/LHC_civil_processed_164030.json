@@ -8,10 +8,23 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "13.04.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Manzoor Ali Panhwar",
+    "Abdul Hassan Noondani",
+    "Muhammad Saleem Laghari",
+    "Nasrullah A. Khaskheli",
+    "Muhammad Aslam Khan",
+    "Mahesh Kumar Bheel",
+    "Muzafar Hussain Brohi",
+    "Sardar Hussain",
+    "Raja Mohiuddin Panhwar",
+    "Altaf Sachal Awan",
+    "Wishan Das Kolhi",
+    "Roshan Azeem Mallah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

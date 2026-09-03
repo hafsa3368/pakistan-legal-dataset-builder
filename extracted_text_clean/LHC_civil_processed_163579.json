@@ -9,9 +9,14 @@
   "case_number": "",
   "date_of_order": "30.03.2022",
   "judge": "Muhammad Shafi Siddiqui Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aijaz Ahmed, Advocate for petitioner",
+    "Mr. Rafique Ahmed Dahri, Assistant Advocate General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

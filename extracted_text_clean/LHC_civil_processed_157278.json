@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-36 of 2019",
   "date_of_order": "03.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382"
   ],
@@ -16,7 +16,10 @@
     "1995 SCMR-127",
     "2018 SCMR-772"
   ],
-  "parties": [],
+  "parties": [
+    "Appellant: Mr. Asif Ali Abdul Razzak Soomro",
+    "State: Mr. Ali Anwar Kandhro, Addl. Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

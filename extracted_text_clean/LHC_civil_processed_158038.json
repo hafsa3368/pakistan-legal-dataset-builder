@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.D-36 of 2020",
   "date_of_order": "22.02.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Naushad Ali Taggar",
+    "Mr. Asif Ali Abdul Razzak Soomro",
+    "Mr. Ali Anwar Kandhro",
+    "State",
+    "Ahmed Khan",
+    "Private Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

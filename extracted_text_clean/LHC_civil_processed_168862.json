@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.1125 of 2022",
   "date_of_order": "05.07.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Seema Zaidi",
+    "Gul Hassan Baloch",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

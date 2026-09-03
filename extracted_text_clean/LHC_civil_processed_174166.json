@@ -8,14 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 184 of 2020",
   "date_of_order": "02.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 23"
   ],
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Nemo for Muhammad Rafiq",
+    "The State: Mr. Khadim Hussain, Additional Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl.Revision Appln.No.D-14 of 2021",
   "date_of_order": "01.02.2022",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 365-A, 506/2 & 34 PPC",
     "section 23 of Anti Terrorism Act",
@@ -17,7 +17,11 @@
   "citations": [
     "2013 P.Cr.LJ-1720"
   ],
-  "parties": [],
+  "parties": [
+    "State",
+    "Applicant",
+    "Private Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

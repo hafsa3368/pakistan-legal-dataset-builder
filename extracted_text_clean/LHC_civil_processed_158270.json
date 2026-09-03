@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-577 of 2021",
   "date_of_order": "28.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498-A Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahbaz Ali Brohi",
+    "Mr. Muhammad Afzal Jagirani",
+    "Mr. Ali Anwar Kandhro",
+    "The State",
+    "Ghulam Shabir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,14 @@
   "case_number": "Criminal Acquittal Appeal No.S-100 of 2021",
   "date_of_order": "21.02.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    ""
+  ],
   "chunks": [
     {
       "chunk_index": 0,

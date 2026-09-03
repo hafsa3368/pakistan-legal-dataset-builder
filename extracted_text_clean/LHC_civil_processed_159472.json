@@ -9,11 +9,18 @@
   "case_number": "Criminal Appeal.No.S-04 of 2022",
   "date_of_order": "10.03.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "1999 SCMR 2589"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Azhar Tunio, Advocate for the appellants",
+    "Complainant Mst. Safia Khatoon in person",
+    "Mr. Ali Anwar Kandhro, Addl.P.G for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

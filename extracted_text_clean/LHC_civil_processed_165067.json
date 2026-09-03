@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "26.04.2022",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Barrister Jawad Ahmed Qureshi",
+    "Mr. Osama Yousuf",
+    "Mr. Rafique Ahmed Dahri AAG Sindh",
+    "Mr. Kamaluddin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. S-485 of 2022",
-  "date_of_order": "",
+  "date_of_order": "16.01.2023",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2022 SCMR 1467"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Shafi Muhammad Mahar",
+    "Irshad Ali Shah",
+    "SIP Niaz Ahmad Korai",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,15 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-497 of 2021",
   "date_of_order": "10.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498-A Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sarfraz Khan Jamali",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

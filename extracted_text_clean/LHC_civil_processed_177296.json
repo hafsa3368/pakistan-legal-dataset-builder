@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Jail Appeal No.S-54 OF 2021",
   "date_of_order": "16-01-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 382-B Cr.P.C"
   ],
@@ -17,7 +17,15 @@
     "1996 SCMR 1553",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Naheed Khatoon d/o Manzoor Ali",
+    "The State",
+    "Akhtiar",
+    "Bashir Ahmed",
+    "Aijaz",
+    "Sharafat Ali",
+    "Hadi Dino"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "17.05.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Nisar Ahmed Sohoo",
+    "Dr. Shahnaz Memon",
+    "Faquir Rehmatullah Hisbani",
+    "Rukshana Channar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

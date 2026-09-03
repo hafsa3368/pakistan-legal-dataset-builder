@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No. 03 of 2021",
   "date_of_order": "19.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 23",
     "section 382"
@@ -16,7 +16,10 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Nemo for Sher Ali",
+    "The State: Through Ms. Seema Zaidi, Additional Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

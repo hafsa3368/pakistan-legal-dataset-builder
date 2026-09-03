@@ -8,8 +8,11 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "01.02.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 977",
     "2021 SCMR 185",
@@ -20,7 +23,17 @@
     "2010 SCMR 105",
     "PLD 2021 Sindh 328"
   ],
-  "parties": [],
+  "parties": [
+    "Sadaqat Ali Bhatti & others",
+    "E.D.O Community Development Department Kamber-Shahdadkot & Others",
+    "Hakim Ali & others",
+    "Province of Sindh & Others",
+    "Majid Ali & others",
+    "Province of Sindh & Others",
+    "Mr. Habibullah Ghouri",
+    "Mr. Noorullah Khan Rind",
+    "Mr. Abdul Hamid Bhurgri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

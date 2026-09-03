@@ -8,14 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 242 of 2019",
   "date_of_order": "30.08.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 382-B Cr.P.C",
     "Section 340 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Nasir",
+    "Ramzan @ Baboo Katchi",
+    "The State",
+    "Muhammad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

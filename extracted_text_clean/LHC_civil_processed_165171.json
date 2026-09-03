@@ -8,12 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "26.04.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [
     "Section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aghis-us-Salam Tahirzada"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

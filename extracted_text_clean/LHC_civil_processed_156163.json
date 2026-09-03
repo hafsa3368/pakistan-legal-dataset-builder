@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-384 of 2021",
   "date_of_order": "16.12.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 497 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sarfraz Khan Jatoi",
+    "Rafique Ahmed Abro",
+    "Aitbar Ali Bullo",
+    "Ghulam Shabir",
+    "Zahid Hussain",
+    "Aijaz",
+    "Ghulam Asghar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

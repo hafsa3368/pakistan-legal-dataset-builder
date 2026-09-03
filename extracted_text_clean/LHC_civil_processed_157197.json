@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-485 of 2021",
   "date_of_order": "31.01.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saeed Ahmed Bijarani",
+    "Ashfaque Hussain Abro",
+    "Ali Anwar Kandhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

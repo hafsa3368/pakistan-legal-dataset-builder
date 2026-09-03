@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 127 of 2022",
   "date_of_order": "07.12.2022",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 397 PPC",
     "section 382",
@@ -18,7 +18,11 @@
   "citations": [
     "1990 P.Cr.L.J 1221"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yousuf",
+    "The State",
+    "Burhan-ul-Haq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "Misc. Appln. No. D-10 of 2021",
   "date_of_order": "23.02.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ibrahim",
+    "Mr. Jai Kumar B.Lund",
+    "Mr. Aitbar Ali Bullo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

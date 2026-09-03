@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl.Bail Appln.No.S-415 of 2021",
   "date_of_order": "07.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498-",
     "Section 497 Cr.PC"
@@ -17,7 +17,14 @@
     "2006 SCMR-933",
     "1986 SCMR-1380"
   ],
-  "parties": [],
+  "parties": [
+    "Atta Hussain Qadri",
+    "Abdul Khaliq Kalhoro",
+    "Muhammad Achar",
+    "Ghulam Hyder",
+    "Zafarullah",
+    "Muhammad Ramzan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

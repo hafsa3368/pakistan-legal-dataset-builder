@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "misconceived is dismissed accordingly with no order",
+  "case_number": "",
   "date_of_order": "26.04.2022",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -15,7 +15,13 @@
   "citations": [
     "2022 SCMR 92"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Muhammad Arshad S. Pathan",
+    "Rafique Ahmed Dahri",
+    "Jahangir Khan Tareen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

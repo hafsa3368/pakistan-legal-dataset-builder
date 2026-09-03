@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No. 411 of 2021",
   "date_of_order": "24.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 365-B PPC",
     "Section 376",
@@ -17,7 +17,10 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Jahanzaib Azam through Syed Imran Mehdi advocate",
+    "The State: Mr. Faheem Hussain Panhwar, Deputy Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

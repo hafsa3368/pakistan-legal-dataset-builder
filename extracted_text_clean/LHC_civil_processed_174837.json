@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 419 of 2022",
   "date_of_order": "18.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 376 PPC",
     "section 511 PPC",
@@ -16,7 +16,14 @@
     "Section 227 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ahtisham @ Rohan Saleem and Qamar Iqbal",
+    "The State",
+    "The State",
+    "Mr. Hasnain Ali",
+    "Mr. Faheem Hussain Panhwar",
+    "Deputy Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,17 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. 76 of 2015",
   "date_of_order": "25.08.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 302"
   ],
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Ayesha Nazim",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.S-24 of 2020",
   "date_of_order": "17.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 302",
     "Section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aslam Jatoi",
+    "Mr. Ali Anwar Kandhro",
+    "Ghulam Abbas",
+    "Mst.Malookan",
+    "Liaquat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

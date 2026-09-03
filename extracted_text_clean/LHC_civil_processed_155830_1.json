@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No.D-09 of 2020",
   "date_of_order": "01.12.2021",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 452 PPC",
     "section 302"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashique Ali Jatoi",
+    "Mr. Ghulam Muhammad Barejo",
+    "Mr. Ali Anwar Kandhro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

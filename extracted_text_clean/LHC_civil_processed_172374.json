@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 427 of 2018",
   "date_of_order": "07.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 23",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nemo for appellant Syed Azam Raza Naqvi",
+    "The State",
+    "Nemo for appellant Syed Azam Raza Naqvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

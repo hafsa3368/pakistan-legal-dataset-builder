@@ -8,10 +8,18 @@
   "num_chunks": 4,
   "case_number": "Crl.Acquittal.Appeal.No.D-47 of 2021",
   "date_of_order": "15.12.2021",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Private Respondent",
+    "State",
+    "Mst.Lal Bibi",
+    "ASI Barkat Ali",
+    "PW Baggan",
+    "PW Babu",
+    "Accused Punhal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

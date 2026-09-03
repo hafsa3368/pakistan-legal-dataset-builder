@@ -8,13 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 93 of 2021",
   "date_of_order": "02.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 376 PPC",
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Nadeem",
+    "The State",
+    "Muhammad Kamran Shabbir",
+    "Syed Saleem Ahmed",
+    "Siraj Khan Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

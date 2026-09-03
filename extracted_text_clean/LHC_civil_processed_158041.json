@@ -8,14 +8,19 @@
   "num_chunks": 1,
   "case_number": "Criminal Appeal No.D-01 of 2022",
   "date_of_order": "22.02.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [
     "Section 382-B Cr.PC"
   ],
   "citations": [
     "1999 SCMR-2589"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mumtaz Ali Brohi",
+    "Mr. Ali Anwar Kandhro",
+    "the appellant",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

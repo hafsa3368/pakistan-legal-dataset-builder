@@ -8,12 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "08.03.2022",
-  "judge": "JUDGE",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "Section 133 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khadim Hussain",
+    "Sajid Hussain & others",
+    "Mr. Imdad Hyder Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

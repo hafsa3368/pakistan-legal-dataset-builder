@@ -9,9 +9,18 @@
   "case_number": "Crl.Misc.Appln.No.D-14 of 2021",
   "date_of_order": "22.12.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 341 CrPC",
+    "u/s 353 CrPC",
+    "u/s 427 CrPC",
+    "u/s 147 CrPC",
+    "u/s 148 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Hamid Mazari",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

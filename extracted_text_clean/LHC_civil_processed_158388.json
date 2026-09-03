@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "01.03.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Inayatullah G. Morio",
+    "Mr. Abdul Hamid Bhurgri",
+    "Petitioner",
+    "Respondents",
+    "Executive District Officer (Education), Kashmore @ Kandhkot"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

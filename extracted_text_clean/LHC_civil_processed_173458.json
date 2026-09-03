@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 482 of 2021",
   "date_of_order": "20.10.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 462/C PPC",
     "section 382"
@@ -17,7 +17,17 @@
     "2017 SCMR 344",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Javed Iqbal Khan",
+    "The State",
+    "Syed Shahid Iqbal",
+    "Aziz- ur-Rehman",
+    "Mehmood PC",
+    "Zahoor Ahmed",
+    "Waqar Ahmed",
+    "Bahauddin Fareed Mazhar",
+    "Muhammad Akbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

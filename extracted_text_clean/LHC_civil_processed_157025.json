@@ -6,10 +6,25 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constrained to observe that no case",
+  "case_number": "",
   "date_of_order": "25.01.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "2016 CLC 1",
+    "2015 PLC 45",
+    "2015 CLD 257",
+    "2011 SCMR 1990",
+    "2001 SCMR 574",
+    "PLD 2001 Supreme Court 415",
+    "2016 CLC 1",
+    "2015 PLC 45",
+    "2015 CLD 257",
+    "2011 SCMR 1990",
+    "2001 SCMR 574",
+    "PLD 2001 Supreme Court 415"
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
@@ -17,7 +32,14 @@
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Zahid Hussain & Others",
+    "Chairman Municipal Committee K.N. Shah & Others",
+    "Mr. Habibullah Ghouri",
+    "Mr. Muhammad Ashique Dhamraho",
+    "Mr. Liaquat Ali Shar",
+    "Ajmer Khan & Another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl.Bail Appln.No.S-19 of 2022",
   "date_of_order": "10.02.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 497 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Nawaz Ghanghro",
+    "Mr. Abdul Rehman Bhutto",
+    "Mr. Abdul Ghaffar Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,20 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 1585 of 2022",
   "date_of_order": "26 September 2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [
     "2017 SCMR 279"
   ],
-  "parties": [],
+  "parties": [
+    "Abbass Khan",
+    "The State",
+    "Mr. Tariq Mehmood A. Khan",
+    "Mr. Habib Ahmed",
+    "ANF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

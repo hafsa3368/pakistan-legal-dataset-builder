@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No. 81 of 2017",
   "date_of_order": "14.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 382-B Cr.P.C"
@@ -16,7 +16,18 @@
   "citations": [
     "PLD 2015 SC 145"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sufiyan",
+    "The State",
+    "The State",
+    "Muhammad Hanif",
+    "Muhammad Sultan",
+    "Muhammad Yousuf",
+    "Muhammad Haroon",
+    "Bilal",
+    "Mst. Fatima Bibi",
+    "Mst. Salma"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

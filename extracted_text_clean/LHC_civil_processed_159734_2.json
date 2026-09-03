@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Constt: Petition.No.D-100 of 2022",
   "date_of_order": "15.03.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [
     "section 133 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rehman Bhutto",
+    "Pawan Kumar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

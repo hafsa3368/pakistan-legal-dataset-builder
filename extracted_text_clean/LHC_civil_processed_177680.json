@@ -9,9 +9,16 @@
   "case_number": "Criminal Jail Appeal No.D-32 of 2020",
   "date_of_order": "17-01-2023",
   "judge": "Zafar Ahmed Rajput Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 302",
+    "u/s 342 Cr.P.C",
+    "U/S 537 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jahangir son of Yar Muhammad Dharejo",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

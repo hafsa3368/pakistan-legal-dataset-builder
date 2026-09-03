@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal.No.S-75 of 2017",
   "date_of_order": "31.01.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 535 Cr.PC",
     "Section 222",
@@ -17,7 +17,16 @@
     "section 225"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Safdar Ali Bhutto",
+    "Mr. Safdar Ali Ghouri",
+    "Mr. Ali Anwar Kandhro",
+    "The State",
+    "Abdul Fattah",
+    "Abdul Razzaq",
+    "Abdul Sattar",
+    "Abdul Ghaffar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

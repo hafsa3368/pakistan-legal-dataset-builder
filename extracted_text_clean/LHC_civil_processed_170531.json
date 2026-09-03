@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "30.08.2022",
-  "judge": "JUDGE SM",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Jawad A. Qureshi, Advocate for the Petitioner",
+    "Mr. G. M. Bhutto, Assistant Attorney General",
+    "Mr. Muhammad Idrees, Advocate",
+    "Mr. Amir Baksh Metlo, Advocate for the Respondent",
+    "Mr. G. M. Bhutto, learned Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. 484 of 2020",
   "date_of_order": "11.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 342 Cr.P.C",
     "Section 376 PPC",
@@ -26,7 +26,11 @@
     "2005 SCMR 284",
     "2007 SCMR 452"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Bilal",
+    "The State",
+    "Mst. Sumbul"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Crl.Misc.Appln.No.D-04 of 2021",
   "date_of_order": "08.02.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "applicant",
+    "private respondents",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

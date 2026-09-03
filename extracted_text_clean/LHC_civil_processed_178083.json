@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Crl. Anti-Terrorism Appeals No. 33",
   "date_of_order": "23.01.2023",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "section 382",
     "Section 21-M",
@@ -25,7 +25,16 @@
     "PLD 2020 SC 61",
     "PLD 2017 SC 671"
   ],
-  "parties": [],
+  "parties": [
+    "Farooq Khan",
+    "Dost Muhammad",
+    "The State",
+    "Muhammad Iqbal Awan",
+    "Mr. Noor Muhammad",
+    "Mr. Muhammad Nasir",
+    "Mr. Justice Naimatullah Phulpoto",
+    "Mr. Justice Shamsuddin Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

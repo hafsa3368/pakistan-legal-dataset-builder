@@ -8,10 +8,17 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "21.04.2022",
-  "judge": "JUDGE Muhammad Danish",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mir Shakir Ali Talpur",
+    "Mr. Ayaz Ali Rajpar",
+    "Mr. Imdad Ali R. Unar",
+    "Mr. Kashif Hussain Agha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

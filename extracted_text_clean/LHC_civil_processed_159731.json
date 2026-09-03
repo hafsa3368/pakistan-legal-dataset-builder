@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt:Petition.No.D-470 of 2018",
   "date_of_order": "15.03.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Faiz Muhammad Larik and Irfan Badar Abbasi, Advocates for the petitioner",
+    "Mr. Abdul Hamid Bhurgri, Addl.A.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

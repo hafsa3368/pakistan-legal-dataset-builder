@@ -8,12 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal.No.S-123 of 2021",
   "date_of_order": "20.12.2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 491 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Appellant",
+    "private respondents",
+    "complainant",
+    "State and others",
+    "official respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

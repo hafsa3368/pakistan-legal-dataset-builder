@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Jail Appeal No. 140 of 2020",
   "date_of_order": "12.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 382",
     "section 154 Cr.P.C",
@@ -19,7 +19,10 @@
     "2019 SCMR 956",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Faisal and Azhar @ Radhay through Mr. Qaim Ali Memon advocate",
+    "The State through Mr. Khadim Hussian, Additional Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

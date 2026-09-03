@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No. 174 of 2021",
   "date_of_order": "01.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 382"
@@ -18,7 +18,10 @@
     "2008 SCMR 1001",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Hameed Hammad Fahad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

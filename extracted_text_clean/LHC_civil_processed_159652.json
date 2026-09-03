@@ -9,9 +9,14 @@
   "case_number": "Crl.Bail Appln.No.S-84 of 2022",
   "date_of_order": "14.03.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahbaz Ali Brohi",
+    "Mr. Imran Ali Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

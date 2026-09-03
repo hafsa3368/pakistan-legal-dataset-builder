@@ -9,11 +9,17 @@
   "case_number": "",
   "date_of_order": "15.11.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1999 SCMR-2589"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Faheem Hussain Panhwar",
+    "The State",
+    "M/s Dur Muhammad Shah and Muhammad Chhutan Rahimoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

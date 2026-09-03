@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 330 of 2021",
   "date_of_order": "25.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 382"
@@ -16,7 +16,17 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Israr Ahmed",
+    "The State",
+    "Mst. Seema",
+    "Mst. Sanora Begum",
+    "Mst. Razia Begum",
+    "Muhammad Ali",
+    "Faheem Hussain Panhwar",
+    "Abida Parveen Channar",
+    "Muhammad Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

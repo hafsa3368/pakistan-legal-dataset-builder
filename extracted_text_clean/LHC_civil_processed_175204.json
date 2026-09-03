@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 303 of 2020",
   "date_of_order": "28.11.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 382",
     "Section 302",
@@ -16,7 +16,13 @@
     "section 367 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hayat Shah @ Sheena",
+    "Taj Muhammad @ Qabu",
+    "Habibullah",
+    "The State",
+    "Rustam Khan Jamali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

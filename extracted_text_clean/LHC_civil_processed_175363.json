@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No. 701 of 2021",
   "date_of_order": "01.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 382"
@@ -17,7 +17,16 @@
     "2007 SCMR 782",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Javed Shah",
+    "Suleman",
+    "Mst. Aaliya Begum",
+    "The State",
+    "Ms. Rubina Qadir",
+    "Muhammad Aslam",
+    "P.W Asif",
+    "P.W Farhan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

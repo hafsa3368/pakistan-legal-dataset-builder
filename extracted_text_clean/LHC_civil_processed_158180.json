@@ -8,10 +8,32 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "22.11.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Hamid Bhurgri",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Asif Ali Abdul Razak",
+    "Ghulam Dastagir Shahani",
+    "Rafique Ahmed Abro",
+    "Safdar Ali Ghouri",
+    "Javed Ahmed Soomro",
+    "M/s Imdad Ali Mashori",
+    "Mr. Inayatullah G. Morio",
+    "Blosch A. Junejo",
+    "Aftab Asif Ali Khan",
+    "M. Kamran",
+    "Assistant Director (AT & ER)",
+    "M. Farooq Afzal",
+    "Mr. Riaz Hussain Khoso",
+    "Mr. Sarfraz Ahmed Abbasi",
+    "Bashir Ahmed Junejo",
+    "Jawad Ahmed",
+    "Mr. Abdul Hamid Bhurgri",
+    "Mr. Muhammad Imran Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

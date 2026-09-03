@@ -7,13 +7,28 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. S-439 of 2022",
-  "date_of_order": "",
+  "date_of_order": "16.01.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2021 SCMR 470"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Nawab Ali Pitafi",
+    "M/s Ubedullah Ghoto and Naeemuddin Chachar",
+    "Mr. Shafi Muhammad Mahar",
+    "Deputy P.G the State",
+    "Irshad Ali Shah",
+    "Dileep Kumar",
+    "Baloch",
+    "Bashir Ahmed",
+    "Mir Muhammad",
+    "Shahamir",
+    "Muhammad Bachal",
+    "Sudheer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

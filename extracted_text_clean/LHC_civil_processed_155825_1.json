@@ -9,9 +9,17 @@
   "case_number": "Civil Appeals No.19-K",
   "date_of_order": "01.12.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faiz Muhammad Larik",
+    "Mr. Munawar Ali Abbasi",
+    "Government of Sindh and others",
+    "Loung Khan Rajper etc"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

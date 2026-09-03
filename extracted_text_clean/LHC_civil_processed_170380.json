@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. 325 of 2021",
   "date_of_order": "31.08.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 376 PPC",
     "section 382-B Cr.P.C"
@@ -17,7 +17,12 @@
     "2008 SCMR 1001",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Haq Nawaz",
+    "The State",
+    "Muhammad Asghar",
+    "Mst. Sughran Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

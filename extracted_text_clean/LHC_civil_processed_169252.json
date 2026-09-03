@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No.S-269 of 2022",
   "date_of_order": "01.08.2022",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "Sections 457, 380 PPC",
     "Section 22-A",
@@ -16,7 +16,13 @@
     "section 22-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Riaz Ali",
+    "Abdul Latif Mirani",
+    "complainant",
+    "State",
+    "Wazir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

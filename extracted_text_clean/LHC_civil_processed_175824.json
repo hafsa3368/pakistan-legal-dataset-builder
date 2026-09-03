@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 393 of 2021",
   "date_of_order": "14.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 324",
     "section 34 PPC",
@@ -16,7 +16,10 @@
     "section 231 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shamim Ahmed, Nafees Ahmed @ Kaloo and Irshad Ahmed @ Baboo",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

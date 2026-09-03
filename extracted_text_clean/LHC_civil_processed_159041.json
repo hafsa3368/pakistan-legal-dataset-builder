@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "09.03.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Waheed Kori Memon & others",
+    "The Secretary, Culture and Tourism Department, G.O.P & others",
+    "Mr. Faiz Muhammad Larik",
+    "Mr. Muhammad Imran Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

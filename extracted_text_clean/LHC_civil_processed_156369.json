@@ -8,12 +8,22 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-14 of 2020",
   "date_of_order": "23.12.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "Section 302(b) PPC"
+  ],
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Asif Ali Abdul Razzak Soomro",
+    "Mr. Ali Anwar Kandhro",
+    "State",
+    "Allah Rakhio",
+    "Hakeem",
+    "Mir Dost",
+    "Asif Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

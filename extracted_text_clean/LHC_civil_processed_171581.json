@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 536 of 2021",
   "date_of_order": "21.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 23",
     "section 382-B Cr.P.C"
@@ -16,7 +16,12 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Tahir Nawaz",
+    "The State",
+    "Tahir Nawaz through Mr. Sajjad Gul Khatri advocate",
+    "Mr. Abrar Ali Khitchi, Additional Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
