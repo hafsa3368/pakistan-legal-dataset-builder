@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-97 of 2022",
   "date_of_order": "21.03.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
@@ -17,7 +17,12 @@
     "2017 SCMR 366",
     "2016 SCMR 1523"
   ],
-  "parties": [],
+  "parties": [
+    " applicant ",
+    " Ms. Sana Memon, Assistant Prosecutor General, Sindh",
+    " Mir Pervez Akhter Talpur, Advocate for complainant",
+    "the State and others "
+  ],
   "chunks": [
     {
       "chunk_index": 0,

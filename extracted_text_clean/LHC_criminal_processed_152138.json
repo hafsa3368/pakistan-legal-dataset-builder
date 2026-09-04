@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-400 of 2021",
   "date_of_order": "12.07.2021",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shakir Nawaz Shar",
+    "Ms. Sobia Bhatti",
+    "Shoukat Ali",
+    "Shahbaz Ali",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

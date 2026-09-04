@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-420 of 2021",
   "date_of_order": "05.07.2021",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MianTaj Muhammad Keerio",
+    "Mr. Shahid Ahmed Shaikh",
+    "State",
+    "Mst. Sakina",
+    "Shahbaz Shah",
+    "Jahangir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

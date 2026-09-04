@@ -26,7 +26,14 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Abid",
+    "Shaukat",
+    "Gulzar",
+    "Ali Hassan",
+    "Asad Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

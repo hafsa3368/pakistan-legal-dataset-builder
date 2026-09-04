@@ -9,9 +9,15 @@
   "case_number": "Criminal Bail Application No.S-233 of 2022",
   "date_of_order": "18.04.2022",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shamsuddin Khushk",
+    "Ms. Safa Hisbani",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

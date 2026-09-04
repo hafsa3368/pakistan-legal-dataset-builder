@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Jail Appeal No. S-71 of 2019",
   "date_of_order": "20-02-2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 382",
@@ -21,7 +21,21 @@
     "2018 SCMR 772",
     "PLD 1988 Karachi 521"
   ],
-  "parties": [],
+  "parties": [
+    "Qadir Bux",
+    "Mumtaz",
+    "Noor Muhammad",
+    "Syed Sardar Ali Shah Rizvi",
+    "Bashir Ahmed",
+    "Umed Ali @ Bablu",
+    "Ghulam Mustafa @ Shahnawaz",
+    "Sudheer",
+    "Peeral",
+    "Abdul Jabbar Mirbahar",
+    "Haji Hakeem",
+    "Nooral",
+    "Qadroo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

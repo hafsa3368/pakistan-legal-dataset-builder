@@ -24,7 +24,18 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Shahid Iqbal",
+    "Muhammad Hussain",
+    "Khalid Mushtaq",
+    "Adnan Mushtaq",
+    "Javed Iqbal",
+    "Zulfiqar Ali",
+    "Lal Khan",
+    "Rehmat Khan",
+    "Mian Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

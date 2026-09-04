@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.85 of 2024",
   "date_of_order": "22.04.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Hakim Ali Khan",
+  "sections_cited": [
+    "u/s 3/4 of Illegal Dispossession Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Papoo and 02 others",
+    "Adnan and another",
+    "the State",
+    "the complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

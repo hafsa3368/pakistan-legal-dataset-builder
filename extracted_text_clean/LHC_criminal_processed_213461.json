@@ -9,9 +9,14 @@
   "case_number": "Criminal Bail Application No. 674 of 2024",
   "date_of_order": "24.04.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shafiq ur Rehman",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

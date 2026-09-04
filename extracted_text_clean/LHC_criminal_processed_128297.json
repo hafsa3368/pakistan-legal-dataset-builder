@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Crl. Acq. Appeal No.S-46 of 2018",
   "date_of_order": "27.06.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 342 Cr.P.C",
     "section 161 Cr.P.C"
@@ -21,7 +21,18 @@
     "1996 SCMR 1553",
     "PLD 2009 SC 53"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Hassan",
+    "Meer Muhammad",
+    "Muhtaq Ahmed Memon",
+    "Sobia Bhatti",
+    "Muhammad",
+    "Mukhtar Ali",
+    "Muhammad Ismail",
+    "Rabdino",
+    "Zulfiqar Ali",
+    "Heera Masih"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

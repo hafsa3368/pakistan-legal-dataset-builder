@@ -9,9 +9,17 @@
   "case_number": "Criminal Bail Application No. 746 of 2024",
   "date_of_order": "20.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Pervaiz",
+    "Muhammad Pervaiz and another",
+    "Murtaza",
+    "P.W Khair Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

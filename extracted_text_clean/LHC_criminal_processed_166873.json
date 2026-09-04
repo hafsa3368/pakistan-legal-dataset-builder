@@ -9,9 +9,17 @@
   "case_number": "Criminal Bail Application No.S-37 of 2022",
   "date_of_order": "23.05.2022",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Asghar Mirbahar",
+    "Ms. Safa Hisbani",
+    "Irshad Ali Shah",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

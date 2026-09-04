@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Criminal Accountability Appeal No.32 of 2018",
   "date_of_order": "15.12.2020",
-  "judge": "JUDGE NAK/PA",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 18",
     "section 24",
@@ -31,7 +31,12 @@
     "2012 P.Cr.L.J. 24",
     "2010 YLR 2536"
   ],
-  "parties": [],
+  "parties": [
+    "Azeem Shahab",
+    "The State",
+    "Shaikh Ejaz Ahmed",
+    "Sarwar Alam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

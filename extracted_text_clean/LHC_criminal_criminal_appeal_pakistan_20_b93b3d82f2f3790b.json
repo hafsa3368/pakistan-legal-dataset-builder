@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "CRIMINAL PETITION NO.305-L OF 2018",
   "date_of_order": "10.02.2026",
-  "judge": "",
+  "judge": "ISHTIAQ IBRAHIM",
   "sections_cited": [
     "sections 302, 109 and 34",
     "section 302",
@@ -16,7 +16,20 @@
     "section 342"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Nadeem",
+    "The State and another",
+    "Muhammad Imran",
+    "The State",
+    "Akhtar Ali",
+    "Mst. Kalsoom Bibi",
+    "Mst. Azra Parveen",
+    "Haroon",
+    "Salah-ud-Din",
+    "Islam-ud-Din",
+    "Muhammad Shahzad",
+    "Muhammad Sarwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

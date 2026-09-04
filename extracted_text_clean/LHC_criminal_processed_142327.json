@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "19.12.2019",
-  "judge": "JUDGE Ahmed/Pa",
+  "judge": "",
   "sections_cited": [
     "Section 540 Cr.P.C",
     "Section 440 Cr.P.C",
@@ -16,7 +16,13 @@
     "Section 540"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Shahida Parveen",
+    "A. Ghani",
+    "the applicant",
+    "the private respondent",
+    "the State of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

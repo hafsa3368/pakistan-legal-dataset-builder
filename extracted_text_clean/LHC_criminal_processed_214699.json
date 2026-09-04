@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.377 of 2024",
   "date_of_order": "15.05.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Mastoi",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Muhammad",
+    "The State",
+    "Abdul Qavi",
+    "Mumtaz Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

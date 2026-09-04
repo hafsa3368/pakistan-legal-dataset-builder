@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Crl. Rev. No.39709 of 2024",
   "date_of_order": "14.05.2025",
-  "judge": "",
+  "judge": "Aalia Neelum",
   "sections_cited": [
     "Section 435 Cr.P.C",
     "Section 439 Cr.P.C",
@@ -22,7 +22,15 @@
     "Section 1"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shiraz Ahmad",
+    "The State",
+    "Mr. Muhammad Nawaz Sh.",
+    "Syed Muhammad Farhad Tirmizi",
+    "Rafaqat Ali Dogar",
+    "Naveed",
+    "The Federal Investigating Agency"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

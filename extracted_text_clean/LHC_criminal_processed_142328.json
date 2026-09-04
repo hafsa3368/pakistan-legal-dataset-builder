@@ -6,10 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "20.12.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 342 Cr.P.C",
+    "u/s 337-F",
+    "u/s 324 PPC"
+  ],
   "citations": [
     "2008 SCMR 1001",
     "2018 SCMR 772",
@@ -18,7 +22,12 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Majeed alias Majeed son of Khan Mohammad Mallah",
+    "Rafique son of Khan Mohammad Mallah",
+    "Ms. Rameshan Oad",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

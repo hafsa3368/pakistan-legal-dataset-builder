@@ -8,13 +8,22 @@
   "num_chunks": 1,
   "case_number": "Criminal Miscellaneous Application No.S-426 of 2021",
   "date_of_order": "02.08.2021",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 491",
     "section 561 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rizwan Ahmed Memon",
+    "Mr. Aftab Ali Jokhio",
+    "Mr. Fayyaz Hussain Sabki",
+    "State",
+    "Ayaz Ali",
+    "Mst. Muneeza",
+    "S.H.O P.S. Punhal Khan Chandio",
+    "Shaheed Benazirabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

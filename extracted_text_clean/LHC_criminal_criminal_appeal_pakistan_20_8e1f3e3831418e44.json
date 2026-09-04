@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Criminal Appeal Nos",
+  "case_number": "",
   "date_of_order": "09.09.2025",
-  "judge": "",
+  "judge": "MALIK SHAHZAD AHMAD KHAN",
   "sections_cited": [
     "sections 302/144/109/34 PPC",
     "section 7-ATA, 1997",
@@ -24,7 +24,11 @@
   "citations": [
     "2020 SCMR 78"
   ],
-  "parties": [],
+  "parties": [
+    "Saddam Kakar",
+    "Azhar Hussain",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -25,7 +25,13 @@
     "2018 SCMR 772",
     "PLD 2020 Lahore 774"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Sher",
+    "Ali Nawaz",
+    "Ghulam Abbas",
+    "Nadeem Babar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,18 @@
   "case_number": "Criminal Bail Application No. 601 of 2024",
   "date_of_order": "21.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22A/B Cr.PC",
+    "u/s 498"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Farooq Khan",
+    "The State",
+    "Azeem Ahmed",
+    "the applicant",
+    "the complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

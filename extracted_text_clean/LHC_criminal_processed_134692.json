@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl. Acquittal Appeal No.S-46 of 2018",
   "date_of_order": "24.12.2018",
-  "judge": "",
+  "judge": "(Retd.) Muhammad Tahir Ehsan",
   "sections_cited": [
     "section 417"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Shoaib Shaikh",
+    "Mr. Nisar Ahmed Abro",
+    "Private Respondent (in person)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

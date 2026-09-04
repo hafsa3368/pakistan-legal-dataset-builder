@@ -8,14 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-292 of 2022",
   "date_of_order": "29.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "Section 497 Cr.PC"
   ],
   "citations": [
     "2020 SCMR-1268"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Shafqat Rahim Rajput",
+    "Ms. Sana Memon",
+    "Muneer Ahmed",
+    "The State through A.G Khyber Pakhtunkhwa and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

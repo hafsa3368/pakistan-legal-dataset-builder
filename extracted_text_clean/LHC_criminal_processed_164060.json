@@ -9,9 +9,17 @@
   "case_number": "Criminal Bail Application No.S-294 of 2022",
   "date_of_order": "11.04.2022",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zeeshan Ali Memon",
+    "Ms. Sana Memon",
+    "State",
+    "Irshad Ali Shah",
+    "Wajahat Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

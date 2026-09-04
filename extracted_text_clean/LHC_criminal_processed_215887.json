@@ -9,13 +9,20 @@
   "case_number": "Criminal Bail Application No. 844 of 2024",
   "date_of_order": "27.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497"
+  ],
   "citations": [
     "2020 SCMR 321",
     "2022 SCMR 1223",
     "2000 P Cr.LJ 1748"
   ],
-  "parties": [],
+  "parties": [
+    "Nouman Ahmed",
+    "The State",
+    "Ms. Naheed A. Shahid",
+    "Mr. Mumtaz Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.739 of 2024",
   "date_of_order": "29.04.2024",
-  "judge": "",
+  "judge": "Syed Samiullah Shah",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hayat Ali",
+    "The State",
+    "Gulzar",
+    "The Complainant",
+    "The applicant",
+    "Mr. Abrar Ali Khichi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

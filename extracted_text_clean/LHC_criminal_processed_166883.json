@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-328 of 2022",
   "date_of_order": "23.05.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "u/s 498 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Badal Gahoti, Advocate for the applicants",
+    "Ms. Safa Hisbani, Assistant Prosecutor General, Sindh",
+    "Mr. Zubair Ahmed Khuwahar, Advocate for the complainant",
+    "the applicants",
+    "the complainant",
+    "Yar Muhammad",
+    "the culprit"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

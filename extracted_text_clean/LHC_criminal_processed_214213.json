@@ -9,9 +9,15 @@
   "case_number": "Criminal Bail Application No. 450 of 2024",
   "date_of_order": "07.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Safdar Ali",
+    "The State",
+    "Gulzar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Acquittal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "15-03-2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "u/s 489-F PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nasrullah son of Attaullah by caste Sirohi",
+    "The State",
+    "Nasrullah son of Attaullah by caste Sirohi",
+    "The State",
+    "Shewak Ram Valencha",
+    "Syed Sardar Ali Shah Rizvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

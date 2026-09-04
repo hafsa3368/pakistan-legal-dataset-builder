@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Jail Appeal No.D-",
+  "case_number": "",
   "date_of_order": "18.12.2019",
   "judge": "Irshad Ali Shah Mr",
   "sections_cited": [
@@ -21,7 +21,12 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    "Safar son of Basar Lund",
+    "the State of Sindh",
+    "Allan Khan",
+    "the legal heirs of Abdul Hakim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

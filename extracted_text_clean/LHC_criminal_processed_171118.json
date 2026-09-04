@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. 173 of 2010",
   "date_of_order": "08.09.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 302",
     "section 382-B Cr.P.C",
@@ -17,7 +17,15 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Afaq Ahmed",
+    "Muhammad Aamir Khan",
+    "Syed Mahmood Alam Rizvi",
+    "Muhammad Ashraf Kazi",
+    "Mr. Faheem Hussain Panhwar",
+    "Deputy Prosecutor General Sindh",
+    "The State/complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

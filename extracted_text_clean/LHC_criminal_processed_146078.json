@@ -7,14 +7,19 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Misc. Appln. No. S-159 of 2020",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "03.09.2020",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 22-A",
     "section 200 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashique Illahi, Advocate for the applicants",
+    "Mr. Abdul Ghani Bijarani, Advocate for private respondent",
+    "Mr. Ali Anwar Kandhro, Addl.P.G for the State",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

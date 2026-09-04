@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Jail Appeal No. 268 of 2020",
   "date_of_order": "23.04.2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 342 Cr.P.C",
     "Section 302",
@@ -17,7 +17,14 @@
   "citations": [
     "2021 SCMR 2009"
   ],
-  "parties": [],
+  "parties": [
+    "Abdullah",
+    "The State",
+    "Ramzan @ Ramoo",
+    "Abdul Aziz",
+    "Muhammad",
+    "Umar Jakhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

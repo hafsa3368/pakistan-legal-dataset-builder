@@ -6,12 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. A. No.S-",
+  "case_number": "",
   "date_of_order": "24.09.2018",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Miss Najaf Shah",
+    "Mr. Sharafuddin Kanher",
+    "the applicant",
+    "the S.S.P, Dadu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

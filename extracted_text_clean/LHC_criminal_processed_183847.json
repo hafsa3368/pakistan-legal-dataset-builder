@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "Criminal Anti-Terrorism Appeal No.140 of 2022",
   "date_of_order": "24.01.2023",
-  "judge": "JUDGE NAK/PA",
+  "judge": "Shamsuddin Abassi",
   "sections_cited": [
     "Sections 353, 324 and 34",
     "Section 7",
@@ -26,7 +26,13 @@
     "1995 SCMR 1793",
     "PLD 2020 SC 61"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Sadiq",
+    "Toor Jan",
+    "Abdullah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

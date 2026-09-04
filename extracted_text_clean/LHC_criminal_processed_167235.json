@@ -9,9 +9,18 @@
   "case_number": "Criminal Bail Application No.S-526 of 2022",
   "date_of_order": "27.05.2022",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Nawaz Panjotha",
+    "Ms. Sana Memon",
+    "Irshad Ali Shah",
+    "Ashraf Ali",
+    "Mst. Noor Jahan",
+    "SIP Mujahid Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

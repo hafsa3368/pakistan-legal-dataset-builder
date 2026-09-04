@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Revision Application No.S-47 of 2022",
   "date_of_order": "22.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 265-K Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Mustafa Zardari",
+    "complainant/prosecution",
+    "applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Accountability Appeal No.05 of 2019",
   "date_of_order": "10.08.2021",
-  "judge": "JUDGE NAK/PA",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 10",
     "Section 9",
@@ -16,7 +16,10 @@
     "Section 15"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nazir Ahmed Tony",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

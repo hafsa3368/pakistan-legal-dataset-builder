@@ -6,12 +6,20 @@
   "year": "2095",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Acquittal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "19-01-2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State through Prosecutor General Sindh, Mr. Shafi Muhammad Mahar",
+    "The Respondent",
+    "Inspector Irshad Ali",
+    "Saeed Ahmed",
+    "Abdul Khaliq",
+    "The State",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

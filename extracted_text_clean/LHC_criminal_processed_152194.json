@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Revision Application No.S",
+  "case_number": "",
   "date_of_order": "16.07.2021",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 489-F",
     "section 382-",
@@ -17,7 +17,12 @@
   "citations": [
     "1999 SCMR 2589"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Shoukat Ali Kaka",
+    "Ms. Sobia Bhatti",
+    "the applicant",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

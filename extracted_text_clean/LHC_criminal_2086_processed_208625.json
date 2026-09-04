@@ -6,12 +6,22 @@
   "year": "2086",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "criminal cases against the appellant is not",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "",
+  "date_of_order": "08.01.2024",
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dawa Khan",
+    "Federation of Pakistan & others",
+    "Mr. Muhammad Shafique Gopang",
+    "Mr. Muhammad Aslam Jatoi",
+    "Mr. Zeeshan Haider Qureshi",
+    "Assistant Director (Law) ECP",
+    "Nasim/P.A"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

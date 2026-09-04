@@ -8,7 +8,7 @@
   "num_chunks": 23,
   "case_number": "Criminal Accountability Appeal No.51 of 2018",
   "date_of_order": "25.05.2021",
-  "judge": "JUDGE NAK/PA",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 10 of National Accountability Ordinance",
     "Section 9",
@@ -28,7 +28,16 @@
     "PLD 2002 Lahore 458",
     "PLD 2002 Karachi 24"
   ],
-  "parties": [],
+  "parties": [
+    "Asadullah Solangi",
+    "Abdul Hameed Solangi",
+    "The State (NAB)",
+    "Ali Akbar Parhiar",
+    "Muhammad Bux Parhiar",
+    "The State (NAB)",
+    "Mr.R.D. Kalhoro",
+    "The State (NAB)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

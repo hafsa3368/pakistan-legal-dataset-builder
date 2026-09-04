@@ -8,14 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-437 of 2021",
   "date_of_order": "12.07.2021",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [
     "2009 SCMR-448"
   ],
-  "parties": [],
+  "parties": [
+    "Mukhtiar Ali Thaheem",
+    "Muhammad Tahir Yaseen",
+    "Muhammad Najeeb",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,18 @@
   "case_number": "Criminal Bail Application No.S-552 of 2021",
   "date_of_order": "16.07.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Farooque Ali Jakhrani",
+    "Ms. Rameshan Oad",
+    "State",
+    "Ahmed",
+    "Irshad Ali Shah",
+    "Muhammad Danish"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

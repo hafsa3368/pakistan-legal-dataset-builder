@@ -8,10 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.S-18 of 2017",
   "date_of_order": "16.02.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 395 CrPC",
+    "Section 340 CrPC",
+    "Section 506/2 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Qamaruddin son of Shah Murad Kalhoro",
+    "the private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

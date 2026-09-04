@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Appeal No. D-",
+  "case_number": "",
   "date_of_order": "11.04.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -22,7 +22,10 @@
     "1995 SCMR 1345",
     "2017 SCMR-344"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Gulzar and Sagar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

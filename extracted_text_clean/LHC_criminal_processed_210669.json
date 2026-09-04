@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Revision Application No. S-",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "13.02.2024",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 34 PPC",
     "section 382"
@@ -16,7 +16,13 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Asadullah Khoso",
+    "The State and another",
+    "Reema Ghee Mills",
+    "Gautam Traders",
+    "Jacobabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,20 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-144 of 2022",
   "date_of_order": "22.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 497 Cr.P.C",
     "section 337-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mumtaz Ali Khushk",
+    "Ms. Safa Hisbani",
+    "Complainant Ali Murad",
+    "Irshad Ali Shah",
+    "Mst. Niamat",
+    "Mst. Taajul"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

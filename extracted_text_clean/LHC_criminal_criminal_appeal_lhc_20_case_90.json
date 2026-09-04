@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "13.12.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ABID AZIZ SHEIKH",
+  "sections_cited": [
+    "Section 5 of the Limitation Act, 1908",
+    "S. 3 of the Law Reforms Ordinance, (XII of 1972)"
+  ],
   "citations": [
     "2012 SCMR 280"
   ],
-  "parties": [],
+  "parties": [
+    "ABID AZIZ SHEIKH AND MUHAMMAD SAJID MEHMOOD SETHI",
+    "LAHORE DEVELOPMENT AUTHORITY through D.G. and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

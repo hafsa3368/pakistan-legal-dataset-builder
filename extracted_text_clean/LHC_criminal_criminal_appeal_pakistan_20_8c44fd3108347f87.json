@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "Criminal Appeal Nos",
+  "case_number": "",
   "date_of_order": "25.02.2025",
   "judge": "Muhammad Hashim Khan Kakar Mr",
   "sections_cited": [
@@ -30,7 +30,11 @@
     "2009 SCMR 91",
     "2006 SCMR 1801"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Sher Afzal",
+    "Muhammad Latif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

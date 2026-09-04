@@ -8,14 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No.D-40 of 2020",
   "date_of_order": "20-03-2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 382"
   ],
   "citations": [
     "2014 SCMR-1034"
   ],
-  "parties": [],
+  "parties": [
+    "Jindal Shah alias Hussain Bux Shah",
+    "The Complainant",
+    "Syed Sardar Ali Shah Rizvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

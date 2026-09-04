@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-359 of 2021",
   "date_of_order": "19.07.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Miyang Taj Muhammad Keerio",
+    "Mr. Mashooque Ali Mahar",
+    "Ms. Sana Memon",
+    "Muhammad Ibrahim",
+    "Mr. Ashfaque Ahmed A. Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

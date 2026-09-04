@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "05.06.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 497 Cr.P.C",
     "section 304"
@@ -26,7 +26,13 @@
     "2011 YLR 846",
     "PLD 1972 SC 277"
   ],
-  "parties": [],
+  "parties": [
+    "Allah Warrayo",
+    "The State",
+    "Syed Madad Ali Shah",
+    "Ms. Safa Hisbani",
+    "Mr. Abdul Rasool Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

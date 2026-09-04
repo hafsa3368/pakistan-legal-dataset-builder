@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Criminal Jail Appeal No.D-",
+  "case_number": "",
   "date_of_order": "12.12.2019",
   "judge": "Irshad Ali Shah Mr",
   "sections_cited": [
@@ -23,7 +23,16 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    "Gul Hassan alias Gulan",
+    "Asif Ali",
+    "Abdul Rehman Shaikh",
+    "Abdul Majeed Khoso",
+    "Khan Muhammad Shar",
+    "Ms. Rameshan Oad",
+    "Tando Adam",
+    "Mian Taj Muhammad Keerio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

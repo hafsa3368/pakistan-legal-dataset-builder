@@ -9,9 +9,19 @@
   "case_number": "Criminal Bail Application No.S-484 of 2022",
   "date_of_order": "13.05.2022",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mushtaque Hussain Khaskheli",
+    "Ms. Sana Memon",
+    "Mst. Tasawur Bibi",
+    "Imtiaz",
+    "Mst. Razia",
+    "Shaheed Benazirabd",
+    "Muhammad Danish"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

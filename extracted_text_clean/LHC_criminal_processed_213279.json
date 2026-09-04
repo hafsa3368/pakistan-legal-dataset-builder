@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 680 of 2024",
   "date_of_order": "22.04.2024",
-  "judge": "",
+  "judge": "Khawaja Naveed Ahmed",
   "sections_cited": [
     "section 498 Cr.P.C",
     "section 506"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zamir Ahmed",
+    "The State",
+    "Mr. Ahmed Ali Hussain",
+    "Mr. Abrar Ali Khichi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

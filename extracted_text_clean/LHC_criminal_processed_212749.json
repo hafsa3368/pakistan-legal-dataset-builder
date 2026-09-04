@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No.S-134 of 2023",
   "date_of_order": "02-04-2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 23",
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jinsar Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

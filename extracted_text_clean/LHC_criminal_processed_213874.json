@@ -8,12 +8,15 @@
   "num_chunks": 1,
   "case_number": "Criminal Bail Application No. 809 of 2024",
   "date_of_order": "02.05.2024",
-  "judge": "",
+  "judge": "Ahmed Hussain Jokhio",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naveed Ali and another",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

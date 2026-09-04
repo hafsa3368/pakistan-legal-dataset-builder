@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.690 of 2024",
   "date_of_order": "06.05.2024",
-  "judge": "",
+  "judge": "Khalid Mehmood",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Asif",
+    "The State",
+    "Syed Awais Ali",
+    "Hamza Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

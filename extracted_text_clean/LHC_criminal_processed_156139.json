@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Cr.Acquittal.Appeal.No.D-",
+  "case_number": "",
   "date_of_order": "28.03.2018",
   "judge": "Naimatullah Phulpoto",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 302, 114, 504, 34 PPC",
+    "u/s 342 Cr.P.C"
+  ],
   "citations": [
     "2002 SCMR 1986",
     "1973 P.Cr.L.J 802",

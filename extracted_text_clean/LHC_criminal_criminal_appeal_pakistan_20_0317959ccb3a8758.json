@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "CRL. APPEAL NO.201-L OF 2020",
   "date_of_order": "14.03.2025",
-  "judge": "",
+  "judge": "Muhammad Hashim Khan Kakar",
   "sections_cited": [
     "sections 302, 109 and 34 PPC",
     "Section 302",
@@ -35,7 +35,11 @@
     "2021 SCMR 736",
     "PLD 2011 SC 554"
   ],
-  "parties": [],
+  "parties": [
+    "Imtiaz Hussain Shah alias Tajjay Shah",
+    "Muhammad Akram Bhatti",
+    "Anwar-ul-Hasnain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

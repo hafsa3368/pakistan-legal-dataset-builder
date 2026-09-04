@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 21,
-  "case_number": "CRIMINAL PETITION NOS",
+  "case_number": "",
   "date_of_order": "09.04.2018",
   "judge": "Jamal Khan Mandokhail Mr",
   "sections_cited": [
@@ -38,7 +38,11 @@
     "2024 SCMR 1146",
     "2019 SCMR 1045"
   ],
-  "parties": [],
+  "parties": [
+    "Zunair Younas",
+    "The State thr. P.G, Pb. & another",
+    "Ali Hassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,17 @@
   "case_number": "Criminal Bail Application No. 338 of 2024",
   "date_of_order": "29.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C"
+  ],
   "citations": [
     "2023 SCMR 748"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Muhammad Kashir Hashmi",
+    "The State",
+    "Hamza Baig"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

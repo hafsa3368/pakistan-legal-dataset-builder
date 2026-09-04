@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "CRIMINAL APPEAL NOS",
+  "case_number": "",
   "date_of_order": "20.12.2016",
-  "judge": "",
+  "judge": "Salahuddin Panhwar",
   "sections_cited": [
     "Sections 302 and 396",
     "Section 460",
@@ -37,7 +37,21 @@
     "PLD 2006 SC 354",
     "PLD 2006 SC 219"
   ],
-  "parties": [],
+  "parties": [
+    "Bashir-ud-Din and Sharif-ud-Din",
+    "Mumtaz Hussain and Mushtaq Hussain",
+    "Mir Muhammad Afzal",
+    "The State (in Crl.A.26/2021 & Crl.A.27/2021)",
+    "The State thr. AG, Islamabad (in Crl.A.28/2021)",
+    "Raja Shafat Khan",
+    "Ms. Chaand Bibi",
+    "Mr. Mustafa Ramday",
+    "Zoe K. Khan",
+    "Ahmed Junaid",
+    "Akbar Khan",
+    "Barrister Salman Khan",
+    "Muhammad Subhan Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

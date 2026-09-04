@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Jail Appeal No. D-161 of 2018",
   "date_of_order": "11.01.2023",
-  "judge": "JUDGE",
+  "judge": "Zafar Ahmed Rajput Justice Irshad",
   "sections_cited": [
     "section 6, 9",
     "section 9",
@@ -27,7 +27,11 @@
     "2022 SCMR 905",
     "2022 SCMR 1097"
   ],
-  "parties": [],
+  "parties": [
+    "Amjad Khan",
+    "Toheed Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

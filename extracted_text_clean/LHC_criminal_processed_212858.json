@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Criminal Acquittal Appeal No.S-96 of 2022",
-  "date_of_order": "",
+  "date_of_order": "08.04.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 561-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bux Ali Bhutto",
+    "Mehmood Ahmed",
+    "others",
+    "Mr. Muhammad Qayyum Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 598 of 2024",
   "date_of_order": "23.04.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mukesh Kumar Khatri",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2023 YLR 1221",
     "2021 SCMR 460"
   ],
-  "parties": [],
+  "parties": [
+    "Uzair Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

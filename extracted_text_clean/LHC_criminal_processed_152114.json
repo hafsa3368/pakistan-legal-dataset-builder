@@ -9,9 +9,16 @@
   "case_number": "Criminal Bail Application No.S-282 of 2021",
   "date_of_order": "09.07.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Miyan Taj Muhammad Keerio",
+    "Ms. Sana Memon",
+    "the State",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

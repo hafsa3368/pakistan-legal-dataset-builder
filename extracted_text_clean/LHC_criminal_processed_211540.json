@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Revision Application No. S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "05-03-2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 3/4 of Illegal Dispossession Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Malik",
+    "Nazir Ahmed & others",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

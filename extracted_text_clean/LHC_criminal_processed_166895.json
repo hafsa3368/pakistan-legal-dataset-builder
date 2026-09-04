@@ -9,11 +9,17 @@
   "case_number": "Criminal Bail Application No.S-521 of 2022",
   "date_of_order": "23.05.2022",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "PLD 2004 SC 856"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rasool Abbasi",
+    "Ms. Safa Hisbani",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

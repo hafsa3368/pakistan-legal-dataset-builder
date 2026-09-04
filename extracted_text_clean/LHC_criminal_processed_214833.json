@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No. 214 of 2023",
   "date_of_order": "16.05.2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 382"
   ],
@@ -16,7 +16,16 @@
     "1995 SCMR-127",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Adil",
+    "The State",
+    "Mst. Razia",
+    "Mst. Khursheed Begum",
+    "Mst. Rukhsana",
+    "P.W Mst. Irum Shaikh",
+    "Muhammad Zakir",
+    "Mst. Rukhsana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

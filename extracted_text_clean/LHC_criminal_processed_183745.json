@@ -8,14 +8,22 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No. D-96 of 2022",
   "date_of_order": "31.01.2023",
-  "judge": "JUDGE Abdul Basit",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "section 302, 376, 364-A, 201",
     "section 7",
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mansoor Ahmed",
+    "Saleem Ahmed",
+    "The State",
+    "Ghulam Shabbir Larik",
+    "Syed Attan Shah Rashidi",
+    "Muhammad Fahad",
+    "Mehrab Vistro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

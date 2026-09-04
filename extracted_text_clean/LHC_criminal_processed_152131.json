@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Criminal Appeal No.S-317 of 2019",
   "date_of_order": "12.07.2021",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Sobia Bhatti",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

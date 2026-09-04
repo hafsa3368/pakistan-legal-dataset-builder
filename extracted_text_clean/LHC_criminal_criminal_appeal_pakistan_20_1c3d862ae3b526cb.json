@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Appeals No.503",
   "date_of_order": "05.10.2016",
-  "judge": "",
+  "judge": "Ishtiaq Ibrahim",
   "sections_cited": [
     "section 302 of the Pakistan Penal Code",
     "section 302",
@@ -25,7 +25,11 @@
     "2014 SCMR 1178",
     "2023 SCMR 487"
   ],
-  "parties": [],
+  "parties": [
+    "Shahzad Liaqat",
+    "The State",
+    "another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

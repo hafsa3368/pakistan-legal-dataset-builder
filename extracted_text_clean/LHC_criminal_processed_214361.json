@@ -9,11 +9,18 @@
   "case_number": "Criminal Bail Application No. 277 of 2024",
   "date_of_order": "09.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "PLD 2024 SC 73"
   ],
-  "parties": [],
+  "parties": [
+    "Yousuf",
+    "The State",
+    "Ajab Khan Khattak",
+    "Seema Zaidi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

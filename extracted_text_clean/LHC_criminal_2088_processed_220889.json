@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No.748 of 2019",
   "date_of_order": "07.10.2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 342 Cr.PC",
     "Section 382",
@@ -28,7 +28,13 @@
     "2009 SCMR 120",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Mansoor Mujahid",
+    "Mst. Anab Zehra Hameed",
+    "The State",
+    "Mst. Masooma Zainab Abidi",
+    "Faisal Nabi Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

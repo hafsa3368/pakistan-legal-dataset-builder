@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.S-120 of 2023",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "30-01-2024",
+  "judge": "Achar Khan Gabole",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Waseem Murtaza Vs. The State & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.796 of 2024",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "03.04.2024",
+  "judge": "Mansoor Ahmed Khan",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Haider Ali",
+    "The State",
+    "complainant Faisal Nawab",
+    "PW Adil Abdul Haque"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

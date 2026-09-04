@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. S-160 of 2018",
-  "date_of_order": "",
+  "date_of_order": "26-03-2024",
   "judge": "",
   "sections_cited": [
     "section 382"
@@ -15,7 +15,14 @@
   "citations": [
     "2007 SCMR 1844"
   ],
-  "parties": [],
+  "parties": [
+    "Nadir Almani & others",
+    "The State",
+    "Nadir",
+    "Nazeer Ahmed",
+    "Shabbir",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

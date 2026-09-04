@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-20 of 2022",
   "date_of_order": "25.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Murtaza Babar",
+    "Mr. Shueban Ali Mallah",
+    "Ms. Safa Hisbani",
+    "Muhammad Danish"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

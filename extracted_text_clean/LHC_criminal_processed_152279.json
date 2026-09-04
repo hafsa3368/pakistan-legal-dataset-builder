@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.D-22 of 2021",
   "date_of_order": "29.07.2021",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 9",
     "section 426 Cr.P.C"
@@ -16,7 +16,13 @@
   "citations": [
     "1999 SCMR 2589"
   ],
-  "parties": [],
+  "parties": [
+    "Appellant",
+    "Additional Prosecutor General",
+    "Abdul Hameed",
+    "Muhammad Abdullah",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

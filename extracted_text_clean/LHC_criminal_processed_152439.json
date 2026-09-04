@@ -9,11 +9,17 @@
   "case_number": "Criminal Bail Application No.S-550 of 2021",
   "date_of_order": "06.08.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2019 P. Cr. L.J 1441"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Aziz Ahmed Laghari",
+    "Mr. Fayaz Hussain Sabki",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

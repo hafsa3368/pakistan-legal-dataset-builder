@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Appeal No.D-",
+  "case_number": "",
   "date_of_order": "04.09.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -16,7 +16,11 @@
   "citations": [
     "2014 SCMR-1034"
   ],
-  "parties": [],
+  "parties": [
+    "Niaz Hussain alias Jagoo",
+    "Ms. Sana Memon",
+    "Mr. Omparkash H. Karmani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

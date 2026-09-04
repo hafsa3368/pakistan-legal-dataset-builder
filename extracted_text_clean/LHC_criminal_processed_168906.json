@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 1112 of 2022",
   "date_of_order": "14.07.2022",
-  "judge": "",
+  "judge": "Syed Saleha Anwar",
   "sections_cited": [
     "section 498-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman Gandaro",
+    "The State",
+    "Muhammad Saeed Khan",
+    "Zahoor Shah Addl. P.G",
+    "Dileep Kumar",
+    "Irsheed Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

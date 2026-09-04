@@ -9,9 +9,19 @@
   "case_number": "Criminal Bail Application No.S-443 of 2022",
   "date_of_order": "23.05.2022",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Altaf Shahid Abro",
+    "Mr. Muhammad Humayoon Khan",
+    "Mr. Yasir Hussain Malik",
+    "Mst. Maha Zulkaif",
+    "The State",
+    "The Applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

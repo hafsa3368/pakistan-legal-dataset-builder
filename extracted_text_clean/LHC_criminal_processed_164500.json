@@ -9,12 +9,21 @@
   "case_number": "Criminal Bail Application No.S-1176 of 2021",
   "date_of_order": "18.04.2022",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "1978 SCMR 235",
     "1999 SCMR 338"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ejaz A. Awan",
+    "Ms. Safa Hisbani",
+    "Mr. Nisar Ahmed S. Chandio",
+    "State",
+    "Rehana",
+    "Reshman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

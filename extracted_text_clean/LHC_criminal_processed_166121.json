@@ -8,14 +8,20 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-289 of 2022",
   "date_of_order": "29.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "Section 497 Cr.PC"
   ],
   "citations": [
     "2011 SCMR 1614"
   ],
-  "parties": [],
+  "parties": [
+    "Shahbaz",
+    " applicant ",
+    "Taha Rehman Jatoi",
+    "Ms. Sana Memon, Assistant Prosecutor General, Sindh",
+    "Ayaz Ali Gopang"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

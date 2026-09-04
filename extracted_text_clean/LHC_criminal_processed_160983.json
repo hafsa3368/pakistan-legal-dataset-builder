@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1111 of 2021",
   "date_of_order": "21.03.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "u/s 498 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shamshad Ali",
+    "Mr. Sher Ali Behan",
+    "Ms. Sana Memon",
+    "Nouman",
+    "Muhammad Asif",
+    "Mst. Shahina"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

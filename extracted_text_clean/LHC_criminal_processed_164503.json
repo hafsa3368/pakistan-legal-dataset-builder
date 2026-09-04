@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Miscellaneous Application No.S-537 of 2019",
   "date_of_order": "18.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "sections 506, 147, 148, 149, 337-A",
     "section 561-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State of Sindh",
+    "Murad",
+    "Mrs. Rehana Siddiqui",
+    "Ms. Sana Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

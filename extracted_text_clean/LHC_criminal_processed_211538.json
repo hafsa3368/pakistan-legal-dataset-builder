@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Criminal Misc. Application No.S-667 of 2023",
-  "date_of_order": "",
+  "date_of_order": "05-03-2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22",
+    "u/s 561-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Razzaque",
+    "The State & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

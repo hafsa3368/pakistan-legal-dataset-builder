@@ -8,12 +8,23 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-129 of 2023",
   "date_of_order": "12-02-2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 342 Cr.P.C"
+  ],
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Manthar son of Shafi Muhammad",
+    "Allah Ditto son of Muhammad Qasim",
+    "The State",
+    "ASI Shahnawaz",
+    "PC Ajab Gul",
+    "ASI Rasheed Ahmed",
+    "Muhammad Mansha",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

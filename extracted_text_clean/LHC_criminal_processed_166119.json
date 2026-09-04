@@ -8,10 +8,20 @@
   "num_chunks": 10,
   "case_number": "Criminal Revision Application No.S-85 of 2021",
   "date_of_order": "29.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Farhan Ahmed Bozdar",
+    "Mr. Shewak Rathore",
+    "Mr. Muhammad Imran Arain",
+    "Rao Faisal Ali",
+    "The applicants",
+    "The State",
+    "The complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

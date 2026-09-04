@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "Criminal Acquittal Appeal No.D-236 of 2020",
   "date_of_order": "12.01.2023",
-  "judge": "JUDGE NAK/PA",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Sections 302, 109 and 34",
     "Section 265-H",
@@ -33,7 +33,14 @@
     "PLD 2019 SC 488",
     "PLD 1985 SC 11"
   ],
-  "parties": [],
+  "parties": [
+    "Zafar Iqbal son of Abdul Rasheed",
+    "Mst. Aaisha",
+    "Muhammad Aamir",
+    "Muhammad Yousuf son of Saeedullah Khan",
+    "State",
+    "Dr. Zafar Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,15 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 465 of 2024",
   "date_of_order": "22.04.2024",
-  "judge": "",
+  "judge": "Mukhtiar Ali",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ahmed Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

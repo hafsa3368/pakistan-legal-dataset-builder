@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Bail Application No. S-",
+  "case_number": "",
   "date_of_order": "28.06.2019",
-  "judge": "Ahmed/Pa",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 498 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Rizwan Kalhoro & another",
+    "The State",
+    "Mr. Ishrat Ali Lohar",
+    "Mr. Shahid Ahmed Shaikh",
+    "Gul Hassain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

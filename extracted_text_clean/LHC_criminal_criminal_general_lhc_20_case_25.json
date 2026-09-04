@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Criminal Revision No. 828 of 2012",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "31.5.2013",
+  "judge": "Ch. Zulfiqar Ahmad Rawan",
   "sections_cited": [
     "section 161 Cr.P.C",
     "section 173 Cr.P.C",
@@ -18,7 +18,17 @@
     "Section 540 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khalid Hussain",
+    "The State",
+    "Mr. Ahmad Raza Raja",
+    "Mr. Nasir Mahmood Sial",
+    "Ch. Zulfiqar Ahmad Rawan",
+    "Aalia Neelum",
+    "Saif Ullah",
+    "Bashir Ahmed",
+    "Nazir Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

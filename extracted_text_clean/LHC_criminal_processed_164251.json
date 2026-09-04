@@ -9,9 +9,16 @@
   "case_number": "Criminal Bail Application No.S-145 of 2022",
   "date_of_order": "15.04.2022",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Zulfiqar Ali Shah",
+    "Mr. Ali Muhammad Noonari",
+    "State",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

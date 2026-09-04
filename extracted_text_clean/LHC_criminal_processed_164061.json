@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.S-248 of 2019",
   "date_of_order": "11-04-2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 302",
     "section 161 Cr.P.C"
@@ -18,7 +18,10 @@
     "1995 SCMR-127",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Jawaid Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

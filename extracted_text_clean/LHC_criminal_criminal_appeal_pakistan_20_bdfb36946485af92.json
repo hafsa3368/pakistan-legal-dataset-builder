@@ -21,7 +21,11 @@
     "2024 MLD 243",
     "PLD 2019 SC 675"
   ],
-  "parties": [],
+  "parties": [
+    "Basharat Ali Chaudhry",
+    "Sabir Ali",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

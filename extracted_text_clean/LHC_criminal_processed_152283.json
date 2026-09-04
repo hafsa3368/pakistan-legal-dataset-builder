@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1274 of 2020",
   "date_of_order": "30.07.2021",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 497 Cr.PC",
     "section 497 Cr.P.C"
@@ -17,7 +17,20 @@
     "1996 SCMR 1125",
     "2020 SCMR 340"
   ],
-  "parties": [],
+  "parties": [
+    "Afzal Karim Virk",
+    "Shewak Rathore",
+    "Irshad Ali Shah",
+    "Jamal",
+    "Kamal",
+    "Jaffar",
+    "Ibrahim",
+    "Nizamuddin",
+    "Achar",
+    "Ramzan",
+    "Mst. Jamiat",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

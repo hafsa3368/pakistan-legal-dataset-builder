@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "Cr.Acquittal.Appeal.No.D-",
+  "case_number": "",
   "date_of_order": "07.05.2018",
-  "judge": "JUDGE Tufail",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 200 Cr.P.C",
     "Section 202 Cr.P.C",
@@ -20,7 +20,18 @@
     "2001 P.Cr.L.J 845",
     "2017 P.Cr.L.J 836"
   ],
-  "parties": [],
+  "parties": [
+    "Soorto",
+    "Pirdan",
+    "Haroo Bajeer",
+    "Nago",
+    "Partab alias Phatu",
+    "Veenjhraj",
+    "Durango",
+    "Jairam",
+    "Loono",
+    "Kalo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

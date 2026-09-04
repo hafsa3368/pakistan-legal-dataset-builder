@@ -8,10 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal AT Acquittal Appeal No. 149 of 2021",
   "date_of_order": "01.10.2024",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 265-K CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State v. Izzat Khan",
+    "Izzat Khan",
+    "Mr. Abrar Ali Khichi",
+    "Mr. Mamoon A.K Shirwany",
+    "Bilal Akbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

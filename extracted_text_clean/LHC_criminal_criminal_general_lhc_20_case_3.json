@@ -8,13 +8,19 @@
   "num_chunks": 4,
   "case_number": "Crl. Misc. No. 9627-M of 2023",
   "date_of_order": "17.11.2025",
-  "judge": "",
+  "judge": "Shah Nawaz Qureshi",
   "sections_cited": [
     "Section 561-A of the Code",
     "section 457, 380, 511 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Yar",
+    "United Bank Limited",
+    "Shabbir Ahmad",
+    "Khuda Bakhsh",
+    "Naeem Rasool"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -28,7 +28,15 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "Arshad Ali",
+    "The State",
+    "Mian Shahid Hameed",
+    "Ch. Zahid Javed",
+    "Akhtar Ali",
+    "Niaz Ali",
+    "Zafar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

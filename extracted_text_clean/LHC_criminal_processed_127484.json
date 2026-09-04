@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "",
   "date_of_order": "25.04.2018",
-  "judge": "JUDGE Shahid",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 9",
     "Section 382-B Cr.P.C",
@@ -33,7 +33,10 @@
     "PLD 1984 SC 278",
     "PLD 1987 SC 288"
   ],
-  "parties": [],
+  "parties": [
+    "Abbas Ali S/o Ahmed Ali Mangarhar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

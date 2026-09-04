@@ -8,14 +8,20 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.S-227 of 2021",
   "date_of_order": "01.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 436"
   ],
   "citations": [
     "1999 SCMR-2589"
   ],
-  "parties": [],
+  "parties": [
+    "Appellants",
+    "Applicant",
+    "Mr. Mushtaque Ahmed Memon",
+    "Ms. Sana Memon",
+    "Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

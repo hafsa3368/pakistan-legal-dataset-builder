@@ -9,9 +9,16 @@
   "case_number": "Criminal Bail Application No.S-183 of 2022",
   "date_of_order": "13.05.2022",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rasool Abbasi",
+    "Ms. Sana Memon",
+    "Mr. Abdul Waheed Laghari",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No. S-176 of 2023",
-  "date_of_order": "",
+  "date_of_order": "15-03-2024",
   "judge": "",
   "sections_cited": [
     "section 157 of the Code"
@@ -15,7 +15,15 @@
   "citations": [
     "1972 SCMR 516"
   ],
-  "parties": [],
+  "parties": [
+    "Shahid Hussain Solangi",
+    "Province of Sindh & others",
+    "Telenor Micro Finance Company",
+    "Aslam Abro",
+    "Said Jalal",
+    "The State",
+    "another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

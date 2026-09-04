@@ -8,10 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.S-87 of 2021",
   "date_of_order": "04-03-2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 173 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Akhtiar Ali",
+    "The State",
+    "The Respondents Through Mr. Asadullah Soomro, advocate",
+    "The Respondents",
+    "The Respondents Through Mr. Aftab Ahmed Shar, Additional P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Miscellaneous Application No.S-249 of 2022",
   "date_of_order": "30.05.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "193 P.P.C.",
+    "561-A Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bakhtiar A. Panhwar",
+    "the private respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

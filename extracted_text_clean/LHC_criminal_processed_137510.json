@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Criminal Appeal No. D",
+  "case_number": "",
   "date_of_order": "16.04.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -19,7 +19,19 @@
     "1993 SCMR 585",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Mr. Justice Muhammad Iqbal Mahar",
+    "Mr. Justice Irshad Ali Shah",
+    "Raja alias Wahid Bux",
+    "Ayaz Ali",
+    "Habibullah",
+    "Mir Muhammad",
+    "M/s A.R Faruq Pirzada and Mehfooz Ahmed Awan",
+    "Mr. Shabbir Ali Bozdar",
+    "The legal heirs of the deceased",
+    "Zulfiqar Ali Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

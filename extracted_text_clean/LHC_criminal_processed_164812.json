@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-303 of 2022",
   "date_of_order": "22.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulamullah Chang",
+    "Safa Hisbani",
+    "Irshad Ali Shah",
+    "State",
+    "complainant",
+    "witnesses"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

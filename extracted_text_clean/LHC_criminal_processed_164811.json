@@ -8,14 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-283 of 2022",
   "date_of_order": "22.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "Section 497 Cr.PC"
   ],
   "citations": [
     "2020 SCMR-1268"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ayaz Hussain Tunio",
+    "Ms. Safa Hisbani",
+    "Fareed Ahmed",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Misc. Application No.728 of 2021",
   "date_of_order": "03.05.2024",
-  "judge": "",
+  "judge": "XXXth-Judicial Magistrate East Karachi",
   "sections_cited": [
     "Section 173",
     "section 561-A Cr.P.C",
@@ -19,7 +19,13 @@
   "citations": [
     "1972 SCMR 516"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdullah Mahar",
+    "The State and others",
+    "Mr. Muhammad Juman",
+    "Mr. Muhammad Anwar Mahar",
+    "Mr. Muhammad Anwar Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

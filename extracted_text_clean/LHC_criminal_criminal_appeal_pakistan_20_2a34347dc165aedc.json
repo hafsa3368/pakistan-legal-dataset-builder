@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Petitions No.463",
   "date_of_order": "05.01.2026",
-  "judge": "",
+  "judge": "ISHTIAQ IBRAHIM",
   "sections_cited": [
     "sections 302, 397, 201 and 436 of the Pakistan Penal Code",
     "section 173 of the Code",
@@ -25,7 +25,10 @@
     "1995 SCMR 1359",
     "2017 SCMR 898"
   ],
-  "parties": [],
+  "parties": [
+    "Shahbaz Butt",
+    "The State & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Petition No.1080-L of 2023",
   "date_of_order": "11.02.2026",
-  "judge": "",
+  "judge": "ISHTIAQ IBRAHIM",
   "sections_cited": [
     "sections 302, 148 and 149 of the Pakistan Penal Code",
     "sections 302,148 and 149 PPC",
@@ -18,7 +18,17 @@
     "Section 302 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zulfiqar Ali alias Pappu",
+    "Rab Nawaz",
+    "Muhammad Bashir",
+    "The State",
+    "Shaukat Ali",
+    "Iftikhar",
+    "Sajjad",
+    "Abdul Razzaq",
+    "Mst. Zohran Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

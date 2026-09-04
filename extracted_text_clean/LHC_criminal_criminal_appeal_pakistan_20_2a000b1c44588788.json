@@ -8,7 +8,7 @@
   "num_chunks": 38,
   "case_number": "CRIMINAL PETITION NO.837 OF 2023",
   "date_of_order": "27.04.2023",
-  "judge": "",
+  "judge": "Malik Shahzad Ahmad Khan",
   "sections_cited": [
     "Section 302 PPC",
     "Section 302",
@@ -38,7 +38,14 @@
     "PLD 2000 SC 12",
     "PLD 2006 SC 465"
   ],
-  "parties": [],
+  "parties": [
+    "Shadullah",
+    "The State through Special Prosecutor, Balochistan and another",
+    "Murad Muhammad",
+    "Mirza",
+    "Frontier Corps",
+    "the legal heirs of the deceased"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

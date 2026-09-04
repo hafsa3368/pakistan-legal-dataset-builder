@@ -9,9 +9,16 @@
   "case_number": "Criminal Bail Application No.S-232 of 2022",
   "date_of_order": "28.03.2022",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mashooque Ali Bhurgri",
+    "Ms. Safa Hisbani",
+    "State",
+    "Irshad Ali Shah J"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

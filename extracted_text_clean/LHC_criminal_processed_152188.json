@@ -7,11 +7,27 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.D-31 of 2021",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "15-07-2021",
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Mustafa Son ofPorhoUrfBajar Khan",
+    "Dad Muhammad Son of Tharo Khan",
+    "Zulfiqar Ali Son of Noor Khan",
+    "Muhammad Qasim Son of PorhoUrfBijar Khan",
+    "Muhammad Mureed Son of Lal Khan",
+    "Kamal Khan Son of Mir Khan",
+    "Mr. ShewakRahtore",
+    "Deputy Prosecutor General, Sindh for the State",
+    "Majeed",
+    "Raja",
+    "Muhammad Khan",
+    "Muhammad Hassan",
+    "Rehmatullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

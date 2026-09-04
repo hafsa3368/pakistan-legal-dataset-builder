@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Criminal Miscellaneous Application No.S-67 of 2022",
   "date_of_order": "01.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rao Faisal Ali",
+    "Ms. Sana Memon",
+    "ASI Ali Nawaz",
+    "Mr. Aijaz Ahmed Chandio",
+    "Wahid Bux alias Ajiz Laghari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

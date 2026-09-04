@@ -8,10 +8,23 @@
   "num_chunks": 1,
   "case_number": "Criminal Miscellaneous Application No.S-462 of 2021",
   "date_of_order": "19.07.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Babar Hussain Arain",
+    "the applicant",
+    "private respondents",
+    "Mst. Ramsha Asghar",
+    "District Shaheed Benazirabad",
+    "the applicant",
+    "the respondent",
+    "the applicant",
+    "the applicant",
+    "Mst. Ramsha Asghar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

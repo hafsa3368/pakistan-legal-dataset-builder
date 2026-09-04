@@ -9,9 +9,16 @@
   "case_number": "Criminal Bail Application No. 553 of 2024",
   "date_of_order": "30.04.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hamza",
+    "The State",
+    "Mr. Shukat Ali Phull",
+    "Mr. Mumtaz Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-178 of 2020",
   "date_of_order": "09-07-2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 377-B",
     "section 34",
@@ -19,7 +19,10 @@
     "1996 SCMR 1553",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Shouban, Shaman and Mansoor all sons of Qurban Ali Khokhar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

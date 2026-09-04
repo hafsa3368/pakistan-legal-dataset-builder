@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Appeal No.D-",
+  "case_number": "",
   "date_of_order": "23.12.2019",
   "judge": "Irshad Ali Shah Mr",
   "sections_cited": [
@@ -21,7 +21,11 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Gul alias Munir Ahmed son of Agan Khan Narejo",
+    "Ms. Rameshan Oad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

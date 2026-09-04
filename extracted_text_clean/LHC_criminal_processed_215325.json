@@ -9,12 +9,20 @@
   "case_number": "Criminal Bail Application No. 828 of 2024",
   "date_of_order": "22.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497"
+  ],
   "citations": [
     "2021 SCMR 1880",
     "2022 SCMR 1223"
   ],
-  "parties": [],
+  "parties": [
+    "Aijaz ur Rehman",
+    "The State",
+    "Sunridge Foods Pvt. Limited",
+    "Iftikhar Ahmed",
+    "Ali Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

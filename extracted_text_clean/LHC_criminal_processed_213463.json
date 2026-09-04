@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 183 of 2024",
   "date_of_order": "24.04.2024",
-  "judge": "",
+  "judge": "Irshad Ali Bhatti",
   "sections_cited": [
     "section 498 Cr.P.C",
     "Section 162 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahbaz Khan @ Machhli",
+    "The State",
+    "Muhammad Asif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

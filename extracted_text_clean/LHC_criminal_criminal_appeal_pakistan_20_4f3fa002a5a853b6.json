@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Criminal Appeal Nos",
+  "case_number": "",
   "date_of_order": "10.09.2025",
-  "judge": "",
+  "judge": "Malik Shahzad Ahmad Khan",
   "sections_cited": [
     "sections 302/109/34 PPC",
     "section 7-ATA, 1997",
@@ -25,7 +25,11 @@
     "1995 SCMR 1345",
     "2009 SCMR 230"
   ],
-  "parties": [],
+  "parties": [
+    "Sikandar Ali Lashari",
+    "Muhammad Irfan Khan @ Faheem",
+    "The State through P.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

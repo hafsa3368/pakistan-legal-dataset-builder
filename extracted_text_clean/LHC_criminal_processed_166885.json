@@ -8,13 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-550 of 2022",
   "date_of_order": "23.05.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 P Cr. L J 143",
     "2020 P Cr. L J Note 107"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Chetan S. Kella",
+    "Ms. Safa Hisbani",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

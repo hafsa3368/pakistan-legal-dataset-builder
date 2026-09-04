@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "Criminal Acquittal Appeal No.S-224 of 2021",
   "date_of_order": "01.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Tarique Ahmed Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

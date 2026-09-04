@@ -6,10 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "Cr.Acquittal.Appeal.No.D-",
+  "case_number": "",
   "date_of_order": "16.05.2018",
-  "judge": "JUDGE Tufail",
-  "sections_cited": [],
+  "judge": "Naimatullah Phulpoto",
+  "sections_cited": [
+    "u/s 302, 342, 344, 34 PPC",
+    "u/s 342 Cr.P.C",
+    "u/s 22-A",
+    "U/S 265-H"
+  ],
   "citations": [
     "1995 SCMR 1639",
     "1999 SCMR 1220",

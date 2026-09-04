@@ -8,10 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No. 572 of 2024",
   "date_of_order": "22.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ghulam Hasnain",
+  "sections_cited": [
+    "u/s 498"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Ibrahim Ali Kazmi and another",
+    "The State",
+    "Syed Ali Asghar Kazmi",
+    "Mst. Shireen",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

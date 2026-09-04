@@ -8,14 +8,20 @@
   "num_chunks": 3,
   "case_number": "Criminal Miscellaneous Application No.S-351 of 2021",
   "date_of_order": "30.05.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 476 Cr.P.C",
     "section 466",
     "section 195 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Waheed",
+    "Mr. Amanullah Memon",
+    "Mr. Shahzado Saleem Nahiyoon",
+    "State",
+    "private respondent No.1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

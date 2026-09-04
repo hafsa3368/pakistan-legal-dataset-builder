@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.s-102 of 2023",
   "date_of_order": "08-12-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382",
     "section 11 or 10",
@@ -20,7 +20,10 @@
   "citations": [
     "1986 P.Cr.L.J 2496"
   ],
-  "parties": [],
+  "parties": [
+    "Zahid Hussain son of Four Ali bycaste Mallah",
+    "The State: Through Mr. Shafi Muhammad Mahar, Deputy Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

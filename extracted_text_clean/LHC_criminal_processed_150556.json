@@ -6,12 +6,23 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Acquittal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "01-04-2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 342 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dil Murad",
+    "Malik Bahar",
+    "Shahnawaz Khan Khush Jo Plot",
+    "Kandiaro",
+    "Naushahro Feroze",
+    "Jeeand Khan",
+    "State and others",
+    "Abdul Khaliq and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

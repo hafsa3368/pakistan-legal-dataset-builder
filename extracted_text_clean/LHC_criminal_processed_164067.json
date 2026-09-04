@@ -8,10 +8,12 @@
   "num_chunks": 1,
   "case_number": "Criminal Reference No.S-01 of 2022",
   "date_of_order": "11.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahid Ahmed Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

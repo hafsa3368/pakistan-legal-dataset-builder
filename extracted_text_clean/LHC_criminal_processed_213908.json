@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 383 of 2024",
   "date_of_order": "03.05.2024",
-  "judge": "",
+  "judge": "Muhammad Zareen Satti",
   "sections_cited": [
     "Section 497",
     "Section 21/25 of the Cyber Crime Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Haider Lodhi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "CRIMINAL PETITIONS NO.346",
   "date_of_order": "25.11.2025",
-  "judge": "",
+  "judge": "ISHTIAQ IBRAHIM",
   "sections_cited": [
     "section 302 of the Pakistan Penal Code",
     "section 302",
@@ -29,7 +29,11 @@
     "2021 SCMR 736",
     "PLD 1971 SC 541"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Siddique",
+    "The State",
+    "Sikandar Din"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

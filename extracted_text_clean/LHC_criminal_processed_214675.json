@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 86 of 2024",
   "date_of_order": "14.05.2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Zohaib",
+    "The State",
+    "Muhammad Zeeshan",
+    "Mst. Qurat-ul-Ain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

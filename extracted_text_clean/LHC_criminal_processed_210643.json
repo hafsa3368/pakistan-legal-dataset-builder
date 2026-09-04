@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Acquittal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "16-02-2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Ghaffar",
+    "The State",
+    "Wazeer Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

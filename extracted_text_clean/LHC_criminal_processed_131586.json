@@ -8,14 +8,18 @@
   "num_chunks": 6,
   "case_number": "Criminal Acquittal Appeal No.D-23 of 2013",
   "date_of_order": "03.09.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 302 PPC"
   ],
   "citations": [
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Khalil Ahmed s/o Noor Muhammad Shaikh",
+    "Ashfaq Ahmed s/o Aslam Shaikh",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

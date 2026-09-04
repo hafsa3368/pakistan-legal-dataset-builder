@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.S-71 of 2020",
   "date_of_order": "16.05.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saad Salman Ghani",
+    "Ms. Safa Hisbani",
+    "Nazir Muhammad",
+    "Mst. Mirzadi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

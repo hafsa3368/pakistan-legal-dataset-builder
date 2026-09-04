@@ -6,10 +6,12 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Petition Nos",
+  "case_number": "",
   "date_of_order": "07.04.2025",
   "judge": "Yahya Afridi",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 1998 SC 1445"
   ],

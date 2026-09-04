@@ -8,13 +8,25 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-264 of 2022",
   "date_of_order": "29.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "u/s 498 Cr.PC",
+    "Section 497 CrPC",
+    "u/s 162 Cr.PC"
+  ],
   "citations": [
     "2020 SCMR 666",
     "2011 SCMR 161"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Tarique Ahmed Shah",
+    "The State",
+    "Imdad Ali",
+    "Nakat",
+    "Muhammad Ali",
+    "Ayaz Ali Gopang",
+    "Sana Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

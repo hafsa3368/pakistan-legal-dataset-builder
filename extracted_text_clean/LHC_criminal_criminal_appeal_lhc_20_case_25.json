@@ -31,7 +31,14 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Taha Azaam Ullah",
+    "Adnan Abdullah Khan",
+    "Junaid Ahmad Khan",
+    "Quadrat Ullah Shahab",
+    "Tariq Saif-ur-Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

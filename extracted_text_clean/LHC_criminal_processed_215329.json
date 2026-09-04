@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 2843 of 2023",
   "date_of_order": "22.05.2024",
-  "judge": "",
+  "judge": "Shahmeel Ibne Mushtaq",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Noman",
+    "The State",
+    "Muhammad Kamran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

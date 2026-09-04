@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 357 of 2023",
   "date_of_order": "22.04.2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 23",
     "Section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Sami",
+    "The State",
+    "Muhammad Sami",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

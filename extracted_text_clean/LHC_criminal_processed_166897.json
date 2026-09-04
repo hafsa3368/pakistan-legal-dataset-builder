@@ -9,9 +9,19 @@
   "case_number": "Criminal Bail Application No.S-1175 of 2021",
   "date_of_order": "23.05.2022",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Asghar Mirbahar",
+    "Ms. Safa Hisbani",
+    "Irshad Ali Shah",
+    "PW Rashid Ali",
+    "The State of Sindh",
+    "Muhammad Danish"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

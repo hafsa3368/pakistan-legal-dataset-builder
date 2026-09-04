@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-55 of 2022",
   "date_of_order": "21.03.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 497 Cr.P.C",
     "section 452"
@@ -17,7 +17,16 @@
     "2020 SCMR 971",
     "1998 SCMR 500"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Faiz Ahmed Shah",
+    "Ms. Sana Memon",
+    "Mr. Ghulam Ali Mughal",
+    "Mst. Tahmina",
+    "Mst. Gulli",
+    "Mst. Hakimzadi",
+    "Mst. Hameedan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

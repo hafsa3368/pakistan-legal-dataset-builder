@@ -8,12 +8,17 @@
   "num_chunks": 1,
   "case_number": "Criminal Bail Application No. 325 of 2024",
   "date_of_order": "22.04.2024",
-  "judge": "",
+  "judge": "Aamir Haroon Meo",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Faisal",
+    "The State",
+    "Mr. Abrar Ali Khichi",
+    "Mr. Aamir Haroon Meo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

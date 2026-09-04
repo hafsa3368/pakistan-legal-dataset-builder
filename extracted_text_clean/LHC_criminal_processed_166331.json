@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1144 of 2021",
   "date_of_order": "13.05.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 498 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Asghar Mirbahar",
+    "State of Sindh",
+    "Mst. Ghazala"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

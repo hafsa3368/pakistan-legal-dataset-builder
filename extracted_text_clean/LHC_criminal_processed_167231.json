@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-440 of 2022",
   "date_of_order": "27.05.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Nazar Siyal",
+    "Ms. Sana Memon",
+    "Muhammad Khan",
+    "Irshad Ali Shah",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

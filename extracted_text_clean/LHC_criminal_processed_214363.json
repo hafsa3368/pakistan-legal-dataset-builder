@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 559 of 2024",
   "date_of_order": "09.05.2024",
-  "judge": "",
+  "judge": "Syed Ijtaba Hussain",
   "sections_cited": [
     "section 497 Cr.P.C",
     "Section 497 Cr.P.C"
@@ -17,7 +17,12 @@
     "2002 SCMR 442",
     "2023 SCMR 2122"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shakeel",
+    "The State",
+    "Mr. Jamshed Iqbal",
+    "Ms. Seema Zaidi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

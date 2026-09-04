@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.S-142 of 2023",
   "date_of_order": "15-04-2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 342 Cr.P.C",
     "section 376",
@@ -21,7 +21,11 @@
     "2018 SCMR 772",
     "PLD 2020 SC 313"
   ],
-  "parties": [],
+  "parties": [
+    "Khaliq alias Abdul Khaliq son of Khurshed Muhammad",
+    "The Complainant: Through Mr. Shoaib Niaz Khaskheli, advocate",
+    "The State: Through Mr. Shafi Muhammad Mahar, Deputy Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

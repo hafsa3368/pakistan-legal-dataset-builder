@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Jail Appeal No.D-",
+  "case_number": "",
   "date_of_order": "17.12.2019",
   "judge": "Irshad Ali Shah Mr",
   "sections_cited": [
@@ -18,7 +18,10 @@
     "2019 SCMR 610",
     "2014 SCMR-1034"
   ],
-  "parties": [],
+  "parties": [
+    "Qaim Muhammad son of Muhammad Hingorjo",
+    "Allah Bux son of Haji Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

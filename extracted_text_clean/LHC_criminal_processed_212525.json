@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No.S-03 of 2024",
   "date_of_order": "26-03-2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 302",
     "section 34 PPC",
@@ -19,7 +19,16 @@
     "2022 SCMR 888",
     "2016 SCMR 958"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Siddique and Inayatullah both by caste",
+    "The State: Through Syed Sardar Ali Shah Rizvi",
+    "the complainant party",
+    "the appellants",
+    "Muharram Ali",
+    "the legal heirs of the deceased",
+    "Naimatullah",
+    "Rooh Ullah and others Vs. The State and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

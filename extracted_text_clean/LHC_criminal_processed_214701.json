@@ -8,12 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No. 731 of 2024",
   "date_of_order": "15.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mudassir Khan Abbasi",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2023 SCMR 364"
   ],
-  "parties": [],
+  "parties": [
+    "Aamir Ali Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

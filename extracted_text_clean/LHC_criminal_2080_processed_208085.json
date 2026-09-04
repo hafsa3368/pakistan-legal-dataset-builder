@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-43 of 2020",
   "date_of_order": "06-12-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 342 Cr.P.C",
     "Section 221 Cr.P.C",
@@ -17,7 +17,14 @@
   "citations": [
     "2020 MLD 776"
   ],
-  "parties": [],
+  "parties": [
+    "Allah Bux son of Wali Muhammad",
+    "Imtiaz son of Allah Bux",
+    "Aijaz Ali s/o Allah Bux",
+    "Qamar Din",
+    "Ghulam Akber",
+    "Muhammad Ibrahim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

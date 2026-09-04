@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No.D-",
+  "case_number": "",
   "date_of_order": "30-05-2019",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 7"
   ],
@@ -16,7 +16,10 @@
     "1995 SCMR-127",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Ali Bux son of Imam Bux bycaste Mahsori"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

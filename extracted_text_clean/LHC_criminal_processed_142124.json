@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "13.12.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "u/s 457, 380 and 34 PPC",
+    "U/S 342 Cr.P.C"
+  ],
   "citations": [
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Shabbir Ahmed son of Muhammad Khan",
+    "Ms. Rameshan Oad, A.P.G"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

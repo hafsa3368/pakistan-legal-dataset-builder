@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 792 of 2024",
   "date_of_order": "29.05.2024",
-  "judge": "",
+  "judge": "Raja Rashid Ali",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Munsif Khan",
+    "The State",
+    "Muhammad Faiz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

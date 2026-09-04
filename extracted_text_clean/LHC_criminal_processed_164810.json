@@ -8,14 +8,21 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-210 of 2022",
   "date_of_order": "22.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "sections 322, 342, 337-F",
     "sections 392, 302, 506/2, 337-F",
     "section 34"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahzeb Abbasi",
+    "Ms. Safa Hisbani",
+    "Mr. Meer Ahmed Mangrio",
+    "Sabu",
+    "Aleem @ Geelo",
+    "Javed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

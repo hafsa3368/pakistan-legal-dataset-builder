@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Appeal No. D",
+  "case_number": "",
   "date_of_order": "19.01.2023",
-  "judge": "JUDGE Abdul Basit",
+  "judge": "Zafar Ahmed Rajput Justice Irshad",
   "sections_cited": [
     "Section 9",
     "Section 382-B",
@@ -16,7 +16,11 @@
     "Section 342"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Rasheed S/o Muhammad Ramzan",
+    "The State",
+    "ANF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 893 of 2022",
   "date_of_order": "14.07.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Saif",
+    "The State",
+    "Mr. Zahoor Shah Addl. P.G",
+    "Anamata",
+    "the complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

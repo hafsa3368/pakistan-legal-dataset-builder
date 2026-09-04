@@ -6,9 +6,9 @@
   "year": "2099",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Revision Application No. S-",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "29-01-2024",
+  "judge": "Irshad Ali Shah,J",
   "sections_cited": [
     "section 382",
     "section 161 Cr.P.C"
@@ -18,7 +18,10 @@
     "1996 SCMR 1553",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yasin Narejo",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

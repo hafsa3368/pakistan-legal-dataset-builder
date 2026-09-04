@@ -8,7 +8,7 @@
   "num_chunks": 36,
   "case_number": "CRIMINAL PETITION NO. 230 OF 2019",
   "date_of_order": "21.02.2019",
-  "judge": "",
+  "judge": "Yahya Afridi",
   "sections_cited": [
     "sections 302, 504, 109, 114, 148, 149 of Pakistan Penal Code",
     "sections 6 & 7",
@@ -38,7 +38,20 @@
     "2003 SCMR 472",
     "1994 SCMR 717"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Gohar",
+    "Sikandar",
+    "Abdul Sattar",
+    "Pervaiz Ahmed",
+    "Karam Ullah Chandio",
+    "Mukhtar Ahmad",
+    "Kabir Hussain",
+    "Buhran Khan",
+    "Sardar Khan",
+    "Ghulam Murtaza",
+    "Ghulam Qadir",
+    "Dur Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,26 @@
   "num_chunks": 2,
   "case_number": "Criminal Miscellaneous Application No.S-193 of 2022",
   "date_of_order": "01.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 22-A",
+    "Section 22-B",
+    "Section 561-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aijaz Ali Lakho",
+    "applicant",
+    "applicant",
+    "applicant",
+    "the police",
+    "applicant",
+    "proposed accused",
+    "respondent No.1",
+    "respondent No.1",
+    "respondent No.1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

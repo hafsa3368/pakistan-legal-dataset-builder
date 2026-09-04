@@ -8,12 +8,20 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-431 of 2021",
   "date_of_order": "26.07.2021",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Fawwad Naeem Arain",
+    "Ms. Sobia Bhatti",
+    "the State",
+    "Mst. Sakina",
+    "PW Shahbaz Shah alias Jahangir",
+    "Nand Lal",
+    "another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

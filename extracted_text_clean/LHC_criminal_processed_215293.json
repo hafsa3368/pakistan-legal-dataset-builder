@@ -9,9 +9,16 @@
   "case_number": "Criminal Acquittal Appeal No. 371 of 2024",
   "date_of_order": "21.05.2024",
   "judge": "Nadir",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Maria",
+    "the State and others",
+    "Mr. Saadat Hassan",
+    "the appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

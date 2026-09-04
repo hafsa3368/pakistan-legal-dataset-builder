@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.761 of 2024",
   "date_of_order": "03.05.2024",
-  "judge": "",
+  "judge": "Muhammad Yousuf",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saqib",
+    "The State",
+    "Waseem Akram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

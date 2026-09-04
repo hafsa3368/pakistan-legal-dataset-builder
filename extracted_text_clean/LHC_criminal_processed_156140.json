@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "Cr.Acquittal.Appeal.No.D-",
+  "case_number": "",
   "date_of_order": "03.04.2018",
-  "judge": "JUDGE Tufail",
-  "sections_cited": [],
+  "judge": "Naimatullah Phulpoto",
+  "sections_cited": [
+    "u/s 9",
+    "U/S 265-H"
+  ],
   "citations": [
     "2017 P.Cr.L.J 836",
     "1992 SCMR 489",
@@ -27,7 +30,10 @@
     "2004 SCMR 249",
     "2010 PCr.LJ 926"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Siddique s/o Haji Ismail by caste Soomro",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

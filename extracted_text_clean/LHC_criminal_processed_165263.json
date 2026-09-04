@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.S-101 of 2013",
   "date_of_order": "25.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kamran Baig",
+    "Ms. Sana Memon",
+    "Mr. Imtiaz Ali Channa"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

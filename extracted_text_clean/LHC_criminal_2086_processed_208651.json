@@ -7,11 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "09.01.2024",
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 324, 353, 34 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Salar Ahmed Khan Lund",
+    "Federation of Pakistan",
+    "Khan Muhammad Sangi",
+    "Qurban Ali Malano",
+    "Dareshani Ali Hyder ",
+    "Zeeshan Haider Qureshi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

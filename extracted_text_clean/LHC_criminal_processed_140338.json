@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "17.09.2019",
-  "judge": "JUDGE Ahmed/Pa",
+  "judge": "",
   "sections_cited": [
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Waqar Ahmed Memon",
+    "Mr. Ghulam Sarwar Qureshi",
+    "Mr. Muhammad Ismail Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

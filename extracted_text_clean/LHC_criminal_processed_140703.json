@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No. D",
+  "case_number": "",
   "date_of_order": "08-10-2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -14,7 +14,14 @@
     "section 149 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Wazeer Ali son of Khawand Ali Bhangwar",
+    "Zulfiqar Ali son of Ali Khan Bhangwar",
+    "Meer Sahib son of Ali Khan Bhangwar",
+    "Muhammad Khan son of Shah Murad Bhangwar",
+    "Fida Hussain son of Shah Bux Gudaro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

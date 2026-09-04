@@ -6,15 +6,24 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "constitutes nothing",
+  "case_number": "",
   "date_of_order": "",
   "judge": "Syed Mansoor Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Order XLVII, Rule 1, CPC",
+    "Code of Civil Procedure, 1908"
+  ],
   "citations": [
     "2023 SCMR 217",
     "2023 SCMR 1011"
   ],
-  "parties": [],
+  "parties": [
+    "Director Education Officer (Female) Charsadda",
+    "Sonia Begum",
+    "Justice Syed Mansoor Ali Shah",
+    "Muhammad Ali Mazhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

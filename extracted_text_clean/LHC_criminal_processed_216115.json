@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.755 of 2024",
   "date_of_order": "29.05.2024",
-  "judge": "",
+  "judge": "Irfan Ali Jamali",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aamir",
+    "The State",
+    "Muhammad Asghar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,8 +6,8 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "criminal and the same cannot",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "13.04.2013",
   "judge": "Aalia Neelum",
   "sections_cited": [
     "section 5 of the Illegal Dispossession Act"
@@ -17,7 +17,10 @@
     "2012 SCMR 1533",
     "PLD 2010 SC 605"
   ],
-  "parties": [],
+  "parties": [
+    "Jalal Akmal",
+    "A.S.J."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

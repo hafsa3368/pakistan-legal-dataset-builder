@@ -9,9 +9,15 @@
   "case_number": "Criminal Acquittal Appeal No. 31 of 2022",
   "date_of_order": "07.05.2024",
   "judge": "Nadir",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bashir Ahmed Ghous Shaikh",
+    "Muhammad Imran",
+    "the private respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

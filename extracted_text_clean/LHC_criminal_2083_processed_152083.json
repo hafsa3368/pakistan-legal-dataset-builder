@@ -8,14 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.S-01 of 2020",
   "date_of_order": "05.07.2021",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 382"
   ],
   "citations": [
     "2007 SCMR 1844"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Asghar Mirbahar",
+    "Mr. Shabeer Hussain Memon",
+    "Ms. Sana Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

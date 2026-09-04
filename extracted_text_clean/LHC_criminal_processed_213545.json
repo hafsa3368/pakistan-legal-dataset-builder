@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 629 of 2024",
   "date_of_order": "29.04.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Shaneel Memon",
+  "sections_cited": [
+    "u/s 498 Cr.P.C"
+  ],
   "citations": [
     "2023 SCMR 2122"
   ],
-  "parties": [],
+  "parties": [
+    "Mateen Ahmed Khan",
+    "The State",
+    "Sohail Ibrahim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

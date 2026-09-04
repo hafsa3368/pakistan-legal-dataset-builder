@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "22.11.2019",
   "judge": "",
   "sections_cited": [
@@ -20,7 +20,25 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    "Mubarak son of Jumoon",
+    "Ms. Rameshan Oad",
+    "Abbas Hyder",
+    "Ali Muhammad",
+    "Babar Ameer",
+    "Adnan Hussain",
+    "Tarique Hussain",
+    "mashir Nazeer Ahmed",
+    "Muhammad Ibrahim",
+    "Ashfaque Ahmed",
+    "Dr. Bashir Ahmed",
+    "Tapedar Talib",
+    "ASI Ghulam Nabi",
+    "Asadullah",
+    "Samiullah",
+    "Mst.Zahida",
+    "Rehmanullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

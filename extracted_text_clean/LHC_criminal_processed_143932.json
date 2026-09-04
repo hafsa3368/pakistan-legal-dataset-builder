@@ -8,10 +8,12 @@
   "num_chunks": 2,
   "case_number": "criminal case at the behest of respondents No.4",
   "date_of_order": "10.01.2020",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,12 +9,30 @@
   "case_number": "Criminal Bail Application No.S-132 of 2021",
   "date_of_order": "12.07.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2020 SCMR 417",
     "2020 SCMR 956"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Shafique Ahmed Shah",
+    "Ms. Sobia Bhatti",
+    "The State",
+    "Mr. Muhammad Akram Rajput",
+    "Ameer Bux",
+    "Murtaza",
+    "Majno",
+    "Zulfiqar alias Bhutto",
+    "Mst. Jado",
+    "Mst. Gulabi",
+    "Mst. Samreen",
+    "Mst. Shakeela",
+    "Mithal Khan",
+    "Nasreen",
+    "The High Court of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

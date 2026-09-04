@@ -9,9 +9,14 @@
   "case_number": "Criminal Bail Application No. 684 of 2024",
   "date_of_order": "25.04.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Waqas",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

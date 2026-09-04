@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 625 of 2023",
   "date_of_order": "16.05.2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Arsalan",
+    "The State",
+    "The State",
+    "Ms. Rubina Qadir",
+    "Muhammad Arsalan",
+    "Mr. Iftikhar Ahmed Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

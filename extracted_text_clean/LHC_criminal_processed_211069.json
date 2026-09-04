@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. S-107 of 2023",
-  "date_of_order": "",
+  "date_of_order": "27-02-2024",
   "judge": "",
   "sections_cited": [
     "section 34 PPC",
@@ -15,7 +15,20 @@
     "section 345 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saddam Hussain Lund & another",
+    "The State",
+    "Mr. Imdad Ali Malik",
+    "Mr. Shafi Muhammad Mahar",
+    "Deceased Mst. Sughar",
+    "Dodo Brother",
+    "Ahmed Deen Brother",
+    "Chanesar Brother",
+    "Imam Deen Brother",
+    "Mst. Saeedan Mother",
+    "Mai Nawaban Sister",
+    "Mst. Sadori Sister"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

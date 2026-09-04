@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.S-27 of 2024",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "15-04-2024",
+  "judge": "Muhammad Qayyum Arain",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dilshad Ahmed Shaikh",
+    "The State and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

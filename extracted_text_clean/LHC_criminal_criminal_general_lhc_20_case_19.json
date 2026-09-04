@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 7,
   "case_number": "Criminal Revision No. 791 of 2004",
-  "date_of_order": "",
+  "date_of_order": "12.3.2014",
   "judge": "Aalia Neelum",
   "sections_cited": [
     "sections 435/439 Cr.P.C",
@@ -22,7 +22,13 @@
     "section 2"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hamad Raza",
+    "The State",
+    "Saeed Qamar Azeem",
+    "Haroon Ahmad",
+    "Mian Nadeem Ullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

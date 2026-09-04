@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "criminal case do not",
+  "case_number": "",
   "date_of_order": "17.12.2013",
   "judge": "Aalia Neelum",
   "sections_cited": [
@@ -17,7 +17,16 @@
     "Section 405 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Rani Bibi",
+    "Mr. Naveed Anwar Chaudhry",
+    "Mr. Ashfaq Ahmad Kharal",
+    "Muhammad Naveed",
+    "Inspector",
+    "Mr. Munazzar Ghani Chaudhry",
+    "respondent No.3",
+    "respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

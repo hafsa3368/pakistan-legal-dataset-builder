@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.D-271 of 2019",
   "date_of_order": "17-04-2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mir Hassan",
+    "Naseer Ahmed @ Ayub",
+    "Ahsan Ali",
+    "The State",
+    "Central Prison Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

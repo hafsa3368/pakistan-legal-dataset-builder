@@ -8,12 +8,21 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "01.11.2019",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Noor-ul-Haq Qureshi",
+  "sections_cited": [
+    "U/s 265-K Cr.P.C"
+  ],
   "citations": [
     "2005 SCMR 1544"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Noor-ul-Haq Qureshi",
+    "Mr. Ghulamullah Chang",
+    "Ms. Rameshan Oad",
+    "The State through Advocate General, Sindh High Court of Karachi",
+    "Raja Abdul Rehman",
+    "Naseer Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

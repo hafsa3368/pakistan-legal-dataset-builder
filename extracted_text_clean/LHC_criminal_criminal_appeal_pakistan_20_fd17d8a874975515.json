@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "Criminal Petition Nos",
+  "case_number": "",
   "date_of_order": "13.03.2023",
   "judge": "Muhammad Hashim Khan Kakar Justice",
   "sections_cited": [
@@ -21,7 +21,21 @@
   "citations": [
     "2021 SCMR 873"
   ],
-  "parties": [],
+  "parties": [
+    "Zahir Zakir Jaffar",
+    "The State and another",
+    "Shaukat Ali Mukadam",
+    "Muhammad Iftikhar",
+    "Muhammad Jan",
+    "The State",
+    "Zakir Jaffar",
+    "Zahir Zakir Jaffar",
+    "Shaukat Ali Mukadam",
+    "The State",
+    "Muhammad Iftikhar",
+    "Muhammad Jan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

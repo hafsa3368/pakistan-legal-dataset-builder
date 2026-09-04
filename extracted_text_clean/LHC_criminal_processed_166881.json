@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-319 of 2022",
   "date_of_order": "23.05.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 Cr.PC",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "PLD 2015 SC 242"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Hashim Laghari",
+    "Ms. Safa Hisbani",
+    "Agha Abdul Nabi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

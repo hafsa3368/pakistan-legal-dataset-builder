@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Jail Appeal No. S-102 of 2021",
   "date_of_order": "04.03.2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 149 PPC",
@@ -25,7 +25,14 @@
     "1996 SCMR 1553",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Jatoi S/o Bago Shar",
+    "Farman S/o Achar Shar and Meero alias Mir Hassan S/o Jumo Shar",
+    "Sanjar Shar",
+    "The State",
+    "Akber",
+    "Ali Murad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

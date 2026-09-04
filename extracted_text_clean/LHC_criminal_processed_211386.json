@@ -6,14 +6,24 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Misc. Application No. S-",
+  "case_number": "",
   "date_of_order": "04.03.2024",
-  "judge": "Irfan/PA",
+  "judge": "",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Aftab Ahmed Shar",
+    "the applicant",
+    "the private respondents",
+    "the applicant",
+    "the private respondent",
+    "learned Ist Additional Sessions Judge Naushahro Feroze",
+    "the applicant",
+    "the private respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

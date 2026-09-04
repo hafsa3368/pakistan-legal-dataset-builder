@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Criminal Appeal No. 38 of 2016",
   "date_of_order": "03.02.2026",
-  "judge": "Raheel Approved for Reporting Judge",
+  "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
     "section 295-C",
     "section 173 of the Code",
@@ -19,7 +19,16 @@
     "1998 SCMR 1854",
     "2015 SCMR 1142"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Riaz",
+    "The State",
+    "Waqas Ahmad Khawaja",
+    "Noor Ahmad Khawaja",
+    "Mr. Muhammad Fahad Khan",
+    "Rao Muhammad Riaz",
+    "Mr. Muhammad Naeem Bhatti",
+    "Shafqat Mahmood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

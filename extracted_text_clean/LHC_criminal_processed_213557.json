@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.497 of 2021",
   "date_of_order": "29.04.2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "Section 342 Cr.PC"
@@ -16,7 +16,14 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Hira @ Muskan",
+    "Sajjad Ahmed @ Shahzad",
+    "The State",
+    "Muhammad Usman",
+    "Aisha",
+    "Zahoor Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

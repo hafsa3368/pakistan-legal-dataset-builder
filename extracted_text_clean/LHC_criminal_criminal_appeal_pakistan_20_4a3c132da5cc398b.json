@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Crl.P.L.A No.790 of 2017",
   "date_of_order": "13.03.2025",
-  "judge": "",
+  "judge": "Shakeel Ahmad",
   "sections_cited": [
     "Sections 302/324/353/186/148/149/120-B/109/337",
     "section 7 of the Anti Terrorism Act",
@@ -26,7 +26,11 @@
     "2006 SCMR 1846",
     "2024 SCMR 1146"
   ],
-  "parties": [],
+  "parties": [
+    "Abdullah alias Muhammad alias Masab",
+    "The State",
+    "Muhammad Muavia alias Muaz alias Asmat-Ullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

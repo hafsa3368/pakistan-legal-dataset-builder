@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "CRIMINAL APPEAL NO.257 OF 2025",
   "date_of_order": "05.03.2026",
-  "judge": "",
+  "judge": "ISHTIAQ IBRAHIM",
   "sections_cited": [
     "Sections 302, 324, 353, 396, 435, 427, 148 and 149 of the Pakistan Penal Code",
     "Section 7",
@@ -28,7 +28,10 @@
     "2011 SCMR 537",
     "PLD 1981 SC 142"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Imran & others",
+    "The State and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

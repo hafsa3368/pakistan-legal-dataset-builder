@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "criminal case F.I.R. No.324",
-  "date_of_order": "",
+  "date_of_order": "21.8.2013",
   "judge": "Aalia Neelum",
   "sections_cited": [
     "section 154 Cr.P.C",
@@ -21,7 +21,14 @@
     "PLD 2007 SC 539",
     "PLD 2013 Lahore 442"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Akhtar. A.S.J.",
+    "Ms. Fatima Malik",
+    "Mr. Maqsood ul Hassan",
+    "Syed Zaheer Ahmad Gillani",
+    "Aalia Neelum",
+    "Muhammad Arshad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

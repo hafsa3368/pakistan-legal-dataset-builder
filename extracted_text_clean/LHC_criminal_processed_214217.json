@@ -9,12 +9,17 @@
   "case_number": "Criminal Bail Application No. 701 of 2024",
   "date_of_order": "07.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2023 SCMR 1397",
     "2023 SCMR 514"
   ],
-  "parties": [],
+  "parties": [
+    "Daniyal son of Muneer",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

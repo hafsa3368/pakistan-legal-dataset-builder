@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Jail Appeal No.D-",
+  "case_number": "",
   "date_of_order": "26.09.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -16,7 +16,14 @@
     "2008 SCMR 1001",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Rasool alias Ghulam Muhammad alias Gulla",
+    "Allah Jurio",
+    "Ramzan",
+    "Rabdino",
+    "Mehmood",
+    "Khuda Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

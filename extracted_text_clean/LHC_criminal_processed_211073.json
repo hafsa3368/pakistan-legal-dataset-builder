@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Jail Appeal No. S-114 of 2023",
   "date_of_order": "27-02-2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 342 Cr.P.C",
     "section 382",
@@ -21,7 +21,13 @@
     "2010 SCMR 1122",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Asghar Ali",
+    "Wahid Bux",
+    "Muhammad Idrees Rajper",
+    "Mr. Abdul Raheem Ansari",
+    "Shafi Muhammad Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

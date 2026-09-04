@@ -6,12 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Jail Appeal No.S-",
+  "case_number": "",
   "date_of_order": "22.11.2019",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 302, 34 PPC",
+    "u/s 342 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mureed son of Versen Makwand",
+    "Mr. Shahzado Saleem Nahiyoon",
+    "Mr. Aslam Sipio",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

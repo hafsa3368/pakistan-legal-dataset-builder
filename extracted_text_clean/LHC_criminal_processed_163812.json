@@ -8,13 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.S-70 of 2022",
   "date_of_order": "08.04.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "sections 392, 506 and 34",
     "section 417 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Parshotam K. Khatri",
+    "the appellant/complainant",
+    "the private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

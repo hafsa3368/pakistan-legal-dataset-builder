@@ -9,11 +9,21 @@
   "case_number": "Criminal Bail Application No.S-787 of 2021",
   "date_of_order": "01.04.2022",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2021 SCMR 873"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Manzoor Ali Jessar",
+    "Ms. Safa Hisbani",
+    "Mr. Junaid Soomro",
+    "The State",
+    "Gulsher Chandio",
+    "Shahnaz Soomro",
+    "Shakeel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

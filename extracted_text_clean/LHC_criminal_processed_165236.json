@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-247 of 2022",
   "date_of_order": "25.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Tariq Brohi",
+    "Ms. Safa Hisbani",
+    "Syed Muhammad Ali Shah",
+    "Kazim Ali",
+    "Mst. Hajran",
+    "Ijazat Zahra"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,20 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-499 of 2021",
   "date_of_order": "02.08.2021",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 497 Cr.PC"
   ],
   "citations": [
     "2018 MLD 129"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Hameedullah Dahri",
+    "Ms. Sana Memon",
+    "State",
+    "Irshad Ali Shah",
+    "The STATE"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

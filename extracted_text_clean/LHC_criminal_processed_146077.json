@@ -7,14 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Misc. Appln. No. S-127 of 2020",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "03-09-2020",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 22-A",
     "section 200 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faiz Muhammad Larik",
+    "Mr. Zafar Ali Malgani",
+    "Mr. Ali Anwar Kandhro",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

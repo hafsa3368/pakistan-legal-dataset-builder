@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Revision Application No.S-26 of 2022",
   "date_of_order": "28.03.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 380, 457 and 427",
     "section 382-B Cr.P.C"
@@ -16,7 +16,10 @@
   "citations": [
     "1999 SCMR-2589"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mohsin Raza Gopang, Advocate",
+    "Mr. Muhammad Ali Noonari, Deputy Prosecutor General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

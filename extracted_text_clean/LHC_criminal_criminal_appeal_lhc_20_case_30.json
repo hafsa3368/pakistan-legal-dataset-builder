@@ -28,7 +28,14 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Bilal Hassan",
+    "Azmat Ullah",
+    "Sami Ullah",
+    "Shazia Begum",
+    "Ghulam Murtaza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

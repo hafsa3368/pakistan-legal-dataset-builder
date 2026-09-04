@@ -38,7 +38,14 @@
     "2017 YLR 1338",
     "2011 YLR 1614"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Imran",
+    "The State",
+    "Khadim Hussain",
+    "Muhammad Amjad",
+    "Noor Muhammad",
+    "Ashiq Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

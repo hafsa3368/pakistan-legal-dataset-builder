@@ -8,14 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-131 of 2023",
   "date_of_order": "22-01-2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 382"
   ],
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Manthar son of Shafi Muhammad bycaste Mazari",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

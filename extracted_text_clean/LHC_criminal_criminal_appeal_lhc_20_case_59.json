@@ -27,7 +27,15 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "Khalid alias Nadeem",
+    "Asghar alias Koudu",
+    "Muhammad Rafique alias Kona",
+    "Ejaz Butt",
+    "Ashfaque alias Ishaq",
+    "Shahbaz Butt",
+    "Munir alias Muniri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

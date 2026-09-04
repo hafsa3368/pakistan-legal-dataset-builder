@@ -24,7 +24,24 @@
     "2002 P Cr. L. J. 377",
     "1992 SCMR 1647"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "party": "Mst. Shaheen",
+      "role": "Appellant"
+    },
+    {
+      "party": "The State",
+      "role": "Respondent"
+    },
+    {
+      "party": "Mr. Haider Mehmood Mirza",
+      "role": "Advocate"
+    },
+    {
+      "party": "Ch. Muhammad Sarwar Sidhu",
+      "role": "Addl. Prosecutor General"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

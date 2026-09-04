@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 380 of 2021",
   "date_of_order": "13.10.2021",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sabir",
+    "The State",
+    "Sabir",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

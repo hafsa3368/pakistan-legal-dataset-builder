@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "CIVIL APPEAL NO.1486 OF 2017",
   "date_of_order": "01.10.2021",
-  "judge": "Judge Judge Islamabad",
+  "judge": "Muhammad Ali Mahar",
   "sections_cited": [
     "Section 9 and 10 of National Accountability Ordinance",
     "Section 15 of the National Accountability Ordinance",
@@ -20,7 +20,10 @@
     "2016 SCMR 2031",
     "2013 SCMR 1904"
   ],
-  "parties": [],
+  "parties": [
+    "Provincial Selection Board, Govt. of Khyber Pakhtunkhwa",
+    "Hidayat Ullah Khan Gandapur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

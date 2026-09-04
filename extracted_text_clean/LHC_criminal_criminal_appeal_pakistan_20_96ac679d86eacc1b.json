@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "CRIMINAL APPEAL NO.507 OF 2023",
   "date_of_order": "29.04.2025",
-  "judge": "",
+  "judge": "Muhammad Hashim Khan Kakar",
   "sections_cited": [
     "Sections 302, 324, 148",
     "Section 13 West Pakistan Arms Ordinance",
@@ -28,7 +28,19 @@
     "2019 SCMR 79",
     "2021 SCMR 1672"
   ],
-  "parties": [],
+  "parties": [
+    "Altaf Hussain",
+    "The State",
+    "Mr. Khawar Mehmood Khatana",
+    "Mr. Rai Akhtar Hussain",
+    "Abdul Ghafoor",
+    "Muhammad Ashfaq deceased",
+    "Muhammad Yasin",
+    "Liaqat Ali",
+    "Manzoor Ahmad",
+    "Haji Munawar Hussain",
+    "Sajid Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "24.01.2022",
-  "judge": "",
+  "judge": "SHAMASUDDIN ABBASI",
   "sections_cited": [
     "section 22-",
     "section 154"
@@ -16,7 +16,14 @@
   "citations": [
     "PLD 2007 SC 539"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Taj Muhammad Keerio",
+    "SHO concerned",
+    "respondent No.2",
+    "proposed accused",
+    "applicant",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

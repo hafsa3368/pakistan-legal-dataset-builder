@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.586 of 2024",
   "date_of_order": "08.05.2024",
-  "judge": "",
+  "judge": "Hussain ul Aziz Khattak",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Taj Muhammad",
+    "The State",
+    "Naseem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

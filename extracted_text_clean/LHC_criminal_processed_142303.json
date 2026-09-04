@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Appeal No.D-",
+  "case_number": "",
   "date_of_order": "17.12.2019",
   "judge": "Irshad Ali Shah Mr",
   "sections_cited": [
@@ -20,7 +20,13 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    "Munawar son of Anwar rind",
+    "Mr. Muhammad Sharif Siyal",
+    "State: Mr. Shahid Ahmed",
+    "Complainant SIP Asghar Ali Awan",
+    "Prosecution"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

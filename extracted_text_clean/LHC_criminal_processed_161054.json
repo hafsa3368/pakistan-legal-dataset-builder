@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No.S-170 of 2021",
   "date_of_order": "21-03-2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "Section 367 Cr.P.C",
     "section 195 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "ASI Sikandar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,23 @@
   "num_chunks": 4,
   "case_number": "Criminal Acquittal Appeal No.S-24 of 2015",
   "date_of_order": "14.09.2018",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 540 Cr.PC"
   ],
   "citations": [
     "2008 SCMR-1572"
   ],
-  "parties": [],
+  "parties": [
+    "Asif Parvaiz s/o Abdul Fattah Mahar",
+    "Mr.Raja Imtiaz Ali Solangi",
+    "Mashir Ali Nawaz",
+    "Abdul Nabi",
+    "Ameer Bux",
+    "Ali Asghar",
+    "Anwar Ali",
+    "Abdul Fattah Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

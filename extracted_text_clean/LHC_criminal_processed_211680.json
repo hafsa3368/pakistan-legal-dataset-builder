@@ -8,13 +8,29 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No. S-34 of 2020",
   "date_of_order": "05-03-2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Haibat @ Habibullah",
+    "Abdul Ahad",
+    "Lal Bux",
+    "Zulfiqar Ali",
+    "Ali Mardan Jagirani",
+    "Asghar",
+    "Raham Ali",
+    "M/s Sohail Ahmed Khoso and Abdul Qadeer Khoso",
+    "Awais Ahmed",
+    "Mansoor Ahmed",
+    "Muhammad Kashif",
+    "The State",
+    "Mr. Shafi Muhammad Mahar",
+    "M/s Rukhsar Ahmed Junejo and Raja Iftikhar Hussain Ansari",
+    "Ghulam Hyder"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-132 of 2023",
   "date_of_order": "22-01-2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 382"
   ],
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Allah Ditto son of Muhammad Qasim bycaste Mazari",
+    "The State",
+    "Muhammad Mansha vs. The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

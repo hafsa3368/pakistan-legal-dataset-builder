@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Criminal Misc. Application No.S-171 of 2024",
-  "date_of_order": "",
+  "date_of_order": "16-04-2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Haseeb Khuhro",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

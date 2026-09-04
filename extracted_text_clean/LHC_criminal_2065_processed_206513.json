@@ -6,12 +6,21 @@
   "year": "2065",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Misc. Application No.S-",
+  "case_number": "",
   "date_of_order": "01.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 22-A/B CrPC",
+    "u/s 561-A",
+    "u/s 200 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "PC Waseem",
+    "The State & others",
+    "The applicant",
+    "The private respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

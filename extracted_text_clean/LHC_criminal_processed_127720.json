@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "criminal cases. Things which are not",
+  "case_number": "",
   "date_of_order": "05.6.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ishad Ali Shah",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "illegal Dispossession Act 2005"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Waqar Ahmed Memon",
+    "Ms. Safa Hisbani",
+    "Usman Farooqui",
+    "Sharmila Farooqui",
+    "Amis-Curie"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

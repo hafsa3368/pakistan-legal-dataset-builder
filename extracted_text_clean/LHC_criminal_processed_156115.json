@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.D-94 of 2019",
   "date_of_order": "14.12.2021",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Inam",
+    "Gamthar",
+    "Sardar",
+    "Peroz alias Feroz",
+    "Abdul Fattah alias Fateh Muhammad",
+    "Muhammad Ishaq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

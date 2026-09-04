@@ -6,15 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitution cannot",
+  "case_number": "",
   "date_of_order": "07.05.2025",
-  "judge": "",
+  "judge": "Jamal Khan Mandokhail",
   "sections_cited": [
     "section 2",
     "section 169 of the Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jamal Khan Mandokhail",
+    "Naeem Akhter Afghan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

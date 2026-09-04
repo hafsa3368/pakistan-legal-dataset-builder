@@ -6,10 +6,12 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "misconduct. Another",
+  "case_number": "",
   "date_of_order": "17.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 302/34"
+  ],
   "citations": [
     "2009 SCMR 1197",
     "2011 SCMR 608"

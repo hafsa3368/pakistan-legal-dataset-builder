@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.S-186 of 2019",
   "date_of_order": "25.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danis",
   "sections_cited": [
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Meer Murtaza Abro",
+    "Ms. Sana Memon",
+    "Mr. Imdad Ali Dahri",
+    "IRSHAD ALI SHAH",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

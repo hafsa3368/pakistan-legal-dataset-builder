@@ -8,12 +8,15 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. S-42 of 2021",
   "date_of_order": "27-11-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farooque @ Farooque Ali son of Ali Murad Arbani",
+    "The State: Mr. Aftab Ahmed Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

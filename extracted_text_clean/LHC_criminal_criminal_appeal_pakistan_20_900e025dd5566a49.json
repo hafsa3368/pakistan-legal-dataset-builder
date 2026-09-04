@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "CRIMINAL PETITIONS NO.1327",
   "date_of_order": "13.02.2026",
-  "judge": "",
+  "judge": "ISHTIAQ IBRAHIM",
   "sections_cited": [
     "Sections 302, 324, 148 and 149 of the Pakistan Penal Code",
     "Section 7",
@@ -25,7 +25,18 @@
     "2013 SCMR 1602",
     "2024 SCMR 128"
   ],
-  "parties": [],
+  "parties": [
+    "Khurram Ijaz",
+    "The State",
+    "Sultan Mehmood",
+    "Syed Ahsan Shah",
+    "Syed Muhammad Farhad Tirmazi",
+    "Munir Ahmed Bhatti",
+    "Arif Ameer",
+    "Amir Mughal",
+    "Sabz Ali",
+    "Ahsan Ullah Jalali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

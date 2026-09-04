@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Anti-Terrorism Jail Appeal No. 171 of 2023",
   "date_of_order": "02.10.2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 21-M",
     "Section 382"
@@ -18,7 +18,11 @@
     "2016 SCMR 2021",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Abdullah Jaan",
+    "Abdul Hameed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Appeal No.S",
+  "case_number": "",
   "date_of_order": "09.07.2021",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 3",
     "section 426 Cr.P.C"
@@ -16,7 +16,13 @@
   "citations": [
     "1999 SCMR 2589"
   ],
-  "parties": [],
+  "parties": [
+    "Bilawal Bajeer",
+    "Sana Memon",
+    "Jahangir Khan Pathan",
+    "Waseem Akhtar",
+    "Mst. Khatoon Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

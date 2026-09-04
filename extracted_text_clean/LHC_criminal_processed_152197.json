@@ -8,12 +8,20 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-441 of 2021",
   "date_of_order": "16.07.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2009 SCMR-448"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Zainab",
+    "Mr. Noor-ul-Amin Sipio",
+    "Ms. Sobia Bhatti",
+    "Mr. Naseer A. Narejo",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,14 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "criminal case is a legal function same could not",
+  "case_number": "",
   "date_of_order": "15.04.2022",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bhagwan Das Bheel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

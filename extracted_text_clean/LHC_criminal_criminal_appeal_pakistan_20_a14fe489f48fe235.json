@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "CIVIL APPEAL NO.608 OF 2021",
   "date_of_order": "12.10.2021",
-  "judge": "Judge Judge Islamabad",
+  "judge": "Muhammad Ali Mazhar",
   "sections_cited": [
     "Section 173 Cr.P.C",
     "Sections 249 and 249-A Cr.P.C",
@@ -24,7 +24,10 @@
     "2009 SCMR 412",
     "2020 SCMR 1029"
   ],
-  "parties": [],
+  "parties": [
+    "Senior Superintendent of Police (Operations)",
+    "Shahid Nazir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

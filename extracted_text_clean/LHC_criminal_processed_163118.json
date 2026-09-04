@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-109 of 2018",
   "date_of_order": "28-03-2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 365-B",
     "section 34",
@@ -19,7 +19,14 @@
     "1995 SCMR-127",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Sabhago",
+    "Loung",
+    "The State",
+    "Mst. Rahmat Khatoon",
+    "Mst. Jadul",
+    "Shero"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

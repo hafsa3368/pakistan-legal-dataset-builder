@@ -9,9 +9,14 @@
   "case_number": "Criminal Bail Application No.S-42 of 2021",
   "date_of_order": "26.07.2021",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Nabi Bux Narejo, Mazhar Hussain Siyal and Sobdar Khan",
+    "Ms. Sobia Bhatti, A.P.G"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

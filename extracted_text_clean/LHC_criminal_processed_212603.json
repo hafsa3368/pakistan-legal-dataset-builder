@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Jail Appeal No. D",
+  "case_number": "",
   "date_of_order": "27-03-2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 382"
   ],
@@ -16,7 +16,12 @@
     "2023 SCMR 1669",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Ashique Hussain",
+    "The State",
+    "Muhammad Farooque Ali Jatoi",
+    "ANF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

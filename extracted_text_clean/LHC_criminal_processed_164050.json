@@ -8,12 +8,15 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.S-87 of 2022",
   "date_of_order": "11.04.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 417 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sohail Ahmed Baloch, Advocate for the appellant/complainant",
+    "the private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

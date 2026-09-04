@@ -8,12 +8,22 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-120 of 2022",
   "date_of_order": "15.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2009 SCMR-448"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Bhooro Bheel",
+    "Mr. Ali Muhammad Noonari",
+    "The complainant",
+    "Muhammad Shabbir alias Sabir",
+    "Muhammad Najeeb",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,14 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal No.S-72 of 2022",
   "date_of_order": "15-12-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Irshad Ahmed",
+    "Muhammad Nawaz Soomro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

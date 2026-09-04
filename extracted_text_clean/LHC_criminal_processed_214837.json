@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 616 of 2023",
   "date_of_order": "16.05.2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Arsalan",
+    "The State",
+    "Waqas Nazir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

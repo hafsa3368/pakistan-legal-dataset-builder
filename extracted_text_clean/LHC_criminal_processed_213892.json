@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal No. 615 of 2023",
   "date_of_order": "02.05.2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mehmood Raza",
+    "The State",
+    "The State",
+    "Mr. Muhammad Anwar Mahar",
+    "Mr. Muhammad Shafique Gopang"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

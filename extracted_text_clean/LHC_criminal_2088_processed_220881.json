@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Anti-Terrorism Appeal No. 203 of 2023",
   "date_of_order": "09.10.2024",
-  "judge": "JUDGE Nadir/PA",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 21-M",
     "Section 382"
@@ -16,7 +16,12 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Nadir Ali",
+    "Abdul Rehman",
+    "The State",
+    "Mr. Abrar Ali Khichi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

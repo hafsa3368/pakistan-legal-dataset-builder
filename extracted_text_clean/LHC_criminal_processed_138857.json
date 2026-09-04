@@ -9,11 +9,20 @@
   "case_number": "Criminal Bail Application No.S-224 of 2019",
   "date_of_order": "24.06.2019",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "S. 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2011 SCMR 1543"
   ],
-  "parties": [],
+  "parties": [
+    "Bhooral alias Bhooro",
+    "The State",
+    "Syed Shafiq Ahmed Shah",
+    "Ms. Safa Hisbani",
+    "Mr. Muhammad Yousuf Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

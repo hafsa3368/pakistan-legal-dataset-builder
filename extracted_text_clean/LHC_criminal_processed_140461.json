@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Jail Appeal No.D-",
+  "case_number": "",
   "date_of_order": "26.09.2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -16,7 +16,19 @@
     "2008 SCMR 1001",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Rasool alias Ghulam Muhammad alias Gulla",
+    "Allah Jurio son of Jan Mohammad alias Jani Mallah",
+    "Ramzan son of Esso Mallah",
+    "Rabdino alias Raboo son of Mamoon Mallah",
+    "Mehmood",
+    "Khuda Bux",
+    "Chagi",
+    "Mst",
+    "Sana Memon",
+    "Ashfaque Ali Khaskheli",
+    "Ashfaque Ahmed Lanjar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

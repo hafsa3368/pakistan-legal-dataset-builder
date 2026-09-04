@@ -8,15 +8,27 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.D-28 of 2022",
   "date_of_order": "26.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2012 YLR 1383",
     "2016 P. Cr. LJ Note 42",
     "2017 P Cr. LJ Note 213",
     "2020 P. Cr. LJ Note 103"
   ],
-  "parties": [],
+  "parties": [
+    "Mian Taj Muhammad Keerio",
+    "Mr. Shewak Rathore",
+    "Ali Raza",
+    "Mst. Fiza",
+    "Mst. Kanwal",
+    "Ali Nawaz",
+    "Nawab",
+    "Ghulam Hyder",
+    "Rasheeda"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

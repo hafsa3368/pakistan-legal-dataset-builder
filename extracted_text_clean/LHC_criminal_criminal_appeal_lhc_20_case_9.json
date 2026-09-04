@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Crl. Appeal No.10245 of 2022",
   "date_of_order": "24.03.2025",
-  "judge": "",
+  "judge": "AALIA NEELUM",
   "sections_cited": [
     "sections 302, 34",
     "section 302",
@@ -22,7 +22,17 @@
   "citations": [
     "2003 SCMR 477"
   ],
-  "parties": [],
+  "parties": [
+    "Shafqat Ali",
+    "The State",
+    "Tariq Mehmood",
+    "The State",
+    "Shaukat Ali",
+    "Mazhar Shahid",
+    "Humaira Bibi",
+    "Mushtaq Ahmad",
+    "Shamshad Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

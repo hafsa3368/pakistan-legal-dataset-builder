@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Criminal Petition Nos",
+  "case_number": "",
   "date_of_order": "02.10.2025",
-  "judge": "",
+  "judge": "Malik Shahzad Ahmad Khan",
   "sections_cited": [
     "sections 302, 324, 148, 149, 120-B, 337F",
     "sections 21-I, 21-L & 7",
@@ -30,7 +30,27 @@
     "1995 SCMR 1345",
     "2009 SCMR 230"
   ],
-  "parties": [],
+  "parties": [
+    "Azhar Iqbal",
+    "Zafar Iqbal",
+    "The State through P.G Punjab, Lahore & another",
+    "Muhammad Nawaz Cheema",
+    "The State, etc",
+    "Zafar Iqbal, etc",
+    "Muhammad Nawaz",
+    "Kashif Adnan",
+    "Tariq",
+    "Muhammad Inayat",
+    "Muhammad Aslam",
+    "Qaisar Shahzad",
+    "Shamshad Ahmad",
+    "Javed Iqbal",
+    "Mst. Shazia Bibi",
+    "Mst. Musarat Bibi",
+    "Shahid Ijaz",
+    "Qamar Zaman",
+    "Mazhar Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

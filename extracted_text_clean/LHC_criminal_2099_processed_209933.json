@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. S-131 OF 2019",
-  "date_of_order": "",
+  "date_of_order": "15-06-2019",
   "judge": "",
   "sections_cited": [
     "Section 302",
@@ -16,7 +16,21 @@
     "section 345 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahban Samejo",
+    "The State",
+    "Mst. Hawa",
+    "Sajid Ali",
+    "Abid Ali",
+    "Farhan Ali",
+    "Majid Ali",
+    "Mst. Zahida",
+    "Mst. Shahida",
+    "Wahid Bux",
+    "Shahmir",
+    "The legal heirs of deceased Hakim Ali",
+    "The legal heirs of deceased Mst. Ajaib"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

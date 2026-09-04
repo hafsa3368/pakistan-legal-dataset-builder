@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "Criminal Appeal No. S-",
+  "case_number": "",
   "date_of_order": "16.05.2019",
-  "judge": "",
+  "judge": "Shamsuddin Abbas",
   "sections_cited": [
     "Sections 302, 148, 149",
     "Section 302",
@@ -26,7 +26,12 @@
     "PLD 2014 Lahore 148",
     "PLD 1993 SC 247"
   ],
-  "parties": [],
+  "parties": [
+    "Zulfiqar Ahmed",
+    "Asif Ali",
+    "Maroof Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No. 831 of 2024",
   "date_of_order": "22.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Harchand Rai",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wasif Ali",
+    "The State",
+    "Abdul Nabi",
+    "Statistics Division Employees Cooperative Housing Society"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

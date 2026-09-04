@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Jail Appeal No. D",
+  "case_number": "",
   "date_of_order": "30-09-2019",
   "judge": "Muhammad Iqbal Mahar Mr",
   "sections_cited": [
@@ -17,7 +17,12 @@
     "1996 SCMR 1553",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Mukhtiar Ali son of Syed Wadal Ali Shah",
+    "Dildar Hussain son of Arbab Hussain Chandio",
+    "The State",
+    "Shahzado Saleem Nahiyoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
