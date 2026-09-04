@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. D-31 of 2022",
-  "date_of_order": "",
+  "date_of_order": "22.02.2023",
   "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 9"
@@ -15,7 +15,16 @@
   "citations": [
     "2021 SCMR 699"
   ],
-  "parties": [],
+  "parties": [
+    "Nazeer Ahmed Phulpoto",
+    "The State",
+    "M/s Mujeeb-ur-Rehman Soomro and Bahawaluddin Shaikh",
+    "NAB",
+    "Mr. Karim Bux Janwari",
+    "Pakistan",
+    "Mr. Dareshani Ali Hyder \"Ada\"",
+    "Mr. Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

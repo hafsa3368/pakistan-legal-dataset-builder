@@ -6,14 +6,28 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Appeal No. D-",
+  "case_number": "",
   "date_of_order": "08-02-2023",
   "judge": "Zafar Ahmed Rajput Mr",
   "sections_cited": [
     "Section 20"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Industrial Development Bank Limited",
+    "Abdul Salam son of Abdul Aziz Arain",
+    "Zafar Islam son of Abdul Aziz",
+    "Zahid Islam son of Abdul Aziz",
+    "Tahir Islam son of Abdul Aziz",
+    "Javed Islam son of Abdul Aziz",
+    "Khalid Islam son of Abdul Aziz",
+    "Shahid Islam son of Abdul Aziz",
+    "Mst. Najam Shaheed d/o Abdul Aziz",
+    "Hameeda Begum wd/o Abdul Aziz",
+    "Bhoora Khan son of Allah Bux",
+    "Karim Bux Janwari",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

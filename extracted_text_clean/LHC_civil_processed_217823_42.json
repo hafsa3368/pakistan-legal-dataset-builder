@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt:Petition No.S-288 of 2024",
   "date_of_order": "01.08.2024",
-  "judge": "",
+  "judge": "Asad Ali Khakhrani Abro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "petitioners",
+    "relatives",
+    "petitioners",
+    "petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Misc. Appln. No. S-193 of 2024",
-  "date_of_order": "",
+  "date_of_order": "04-07-2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.PC",
+    "u/s 22-A/B Cr. PC",
+    "u/s 200 Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Raza Pathan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

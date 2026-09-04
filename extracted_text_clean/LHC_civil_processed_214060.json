@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "criminal proceedings could not",
+  "case_number": "",
   "date_of_order": "07.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1982 SCMR 522",
     "2006 SCMR 1192",
@@ -17,7 +20,13 @@
     "2010 SCMR 105",
     "PLD 1981 SC 522"
   ],
-  "parties": [],
+  "parties": [
+    "Muhib Ali Leghari",
+    "Government of Sindh",
+    "Secretary, Home Department",
+    "M/s. Meer Ahmed Mangrio",
+    "Abdul Sattar Hulio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

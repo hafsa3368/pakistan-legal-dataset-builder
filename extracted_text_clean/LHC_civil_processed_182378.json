@@ -7,14 +7,26 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No.S-59 of 2020",
-  "date_of_order": "",
-  "judge": "Nasim /PA",
-  "sections_cited": [],
+  "date_of_order": "20-02-2023",
+  "judge": "",
+  "sections_cited": [
+    "u/s 561-A Cr.P.C",
+    "u/s 154 Cr.P.C",
+    "u/s 200 Cr.P.C"
+  ],
   "citations": [
     "PLD 2007 SC 539",
     "PLD 2010 SC 691"
   ],
-  "parties": [],
+  "parties": [
+    "Munwar Alam Khan",
+    "Qurban Ali Malano",
+    "Mr. Rashid Khan Durrani",
+    "Mr. Sarfraz Ahmed Akhund",
+    "The State",
+    "Mr. Shafi Muhammad Mahar",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

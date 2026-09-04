@@ -8,14 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Transfer Application No.03 of 2025",
   "date_of_order": "18.02.2025",
-  "judge": "",
+  "judge": "Baber Hussain",
   "sections_cited": [
     "sections 3, 4, 7 and 8 of the Illegal Dispossession Act",
     "section 540 Cr.PC",
     "Section 540 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nafees Alam Siddiqui",
+    "Muhammad Rashid Khan",
+    "Al-Mustafa Hospital"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

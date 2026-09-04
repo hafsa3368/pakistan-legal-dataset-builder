@@ -7,14 +7,20 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No. S-662 of 2022",
-  "date_of_order": "",
+  "date_of_order": "24-02-2023",
   "judge": "",
   "sections_cited": [
     "section 154 Cr.P.C",
     "section 195"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abid Ali Buriro & another",
+    "The State",
+    "Mr. Muhammad Hamzo Buriro",
+    "Mr. Shahid Ali K.Memon",
+    "Mr. Shafi Muhammad Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

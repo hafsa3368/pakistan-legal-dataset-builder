@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl.B.A.No.S-371 of 2024",
   "date_of_order": "19.07.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nadeem Ali Shaikh",
+    "The State",
+    "Saleemullah",
+    "Ghulam Rasool Narejo",
+    "Aitbar Ali Bullo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

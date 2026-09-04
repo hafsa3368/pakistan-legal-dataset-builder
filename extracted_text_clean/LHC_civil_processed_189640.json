@@ -6,12 +6,24 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitutional Petition No. D-",
+  "case_number": "",
   "date_of_order": "",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "U/S.365",
+    "496-A",
+    "364-A PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Faraz Ali",
+    "Mst.Amber",
+    "Mst.Sadaf",
+    "Faraz Ali",
+    "Mr. Atta Hussain Chandio",
+    "Mr. Sajid Hussain Mahessar",
+    "Mr. Munwar Ali Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

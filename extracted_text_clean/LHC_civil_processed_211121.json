@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Crl. Jail Appeal No. D",
+  "case_number": "",
   "date_of_order": "28-02-2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 382",
     "section 342 Cr.P.C",
@@ -23,7 +23,13 @@
     "2008 SCMR-1254",
     "2010 SCMR-927"
   ],
-  "parties": [],
+  "parties": [
+    "Shafique Ahmed s/o Muhammad Haroon Soomro",
+    "The State",
+    "Mr. Achar Khan Gabole",
+    "Mr. Asif Hussain Chandio",
+    "Karim Bux Janwari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

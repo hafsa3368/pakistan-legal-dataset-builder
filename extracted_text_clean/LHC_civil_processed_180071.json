@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No. S",
+  "case_number": "",
   "date_of_order": "06-02-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 382-B"
   ],
@@ -16,7 +16,16 @@
     "2008 SCMR 1001",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Akhtiar Ali s/o Muhammad Hashim Vistro",
+    "Sajid s/o Muhammad Hashim Vistro",
+    "Ghulam Hussain s/o Sulleman Vistro",
+    "Mumtaz Ali s/o Sulleman Vistro",
+    "Ahsan Ali s/o Sulleman Vistro",
+    "Sikandar Ali s/o Sulleman Vistro",
+    "Hussain Bux s/o Sultan Khan Vistro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

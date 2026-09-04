@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Constt:Petition No. S-259 of 2024",
+  "date_of_order": "04-07-2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22-A/B Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Nawaz Bangwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

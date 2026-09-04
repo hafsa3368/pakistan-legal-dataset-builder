@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Jail Appeal No. D",
+  "case_number": "",
   "date_of_order": "15-02-2024",
   "judge": "Irshad Ali Shah Mr",
   "sections_cited": [
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saeed-ur-Rehman son of Abdul Rehman Yousifzai Pathan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

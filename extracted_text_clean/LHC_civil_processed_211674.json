@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No. D-850 of 2019",
-  "date_of_order": "",
+  "date_of_order": "07.03.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farman Ali",
+    "Federation of Sindh & others",
+    "the petitioner",
+    "the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

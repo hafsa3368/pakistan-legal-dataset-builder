@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "22.02.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Farhan Ali Shaikh",
+    "Ms. Rizwana Memon",
+    "Mr. Kareem Bux Janwari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

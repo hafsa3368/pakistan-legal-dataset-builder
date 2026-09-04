@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Crl. Jail Appeal No. D-",
+  "case_number": "",
   "date_of_order": "07.05.2024",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 4/5 of the Explosive Substance Act",
     "Sections 6/7",
@@ -22,7 +22,12 @@
     "2005 SCMR 1038",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Sultan Ahmed",
+    "Jahangir Shah",
+    "Nadeem Ahmed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

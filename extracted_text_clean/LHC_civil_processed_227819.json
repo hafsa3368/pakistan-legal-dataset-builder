@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Crl. Anti-Terrorism Jail Appeal No. 97 of 2022",
   "date_of_order": "08.02.2023",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "section 7",
     "section 397 PPC",
@@ -25,7 +25,11 @@
     "2008 SCMR 865",
     "PLD 2020 SC 61"
   ],
-  "parties": [],
+  "parties": [
+    "Rizwan",
+    "State",
+    "Muhammad Shahid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

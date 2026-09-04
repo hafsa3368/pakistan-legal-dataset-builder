@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Appeal No. D",
+  "case_number": "",
   "date_of_order": "29-03-2023",
   "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 382-B Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rab Nawaz s/o Mazar by caste Lund",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Bail Application No.S-124 of 2022",
-  "date_of_order": "",
-  "judge": "Nasim /PA",
+  "date_of_order": "09.03.2023",
+  "judge": "",
   "sections_cited": [
     "section 514 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Fazul Rehman Buriro",
+    "The State & others",
+    "Syed Sardar Ali Shah Rizvi",
+    "Additional P.G for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

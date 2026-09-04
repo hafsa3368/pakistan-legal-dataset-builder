@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "criminal bail application is dismissed as not",
+  "case_number": "",
   "date_of_order": "26.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sadiq Khoso",
+    "Ms. Seema Zaidi",
+    "Sindh",
+    "Additional Prosecutor General Sindh",
+    "PS Surjani Town",
+    "Trial Court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

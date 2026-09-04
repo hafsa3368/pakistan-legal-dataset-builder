@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.D-16 of 2023",
   "date_of_order": "09.07.2024",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 382-B Cr.PC",
     "section 342 Cr.P.C"
@@ -17,7 +17,10 @@
     "2020 SCMR 687",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Bijar son of Abdul Nabi Jatt",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

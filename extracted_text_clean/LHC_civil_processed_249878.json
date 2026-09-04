@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.448 of 2025",
   "date_of_order": "14.03.2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "sections 376",
     "section 164",
@@ -16,7 +16,14 @@
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Habib Ahmed & Mr. Ali Afsar Jan, advocates for applicant Ms. Rubina Qadir",
+    "Mr. Riaz Ahmed Bhatti, advocate for complainant",
+    "PI/IO Mehboob Illahi of PS SSHIA, Karachi",
+    "Abdul Rafey son of Imran Iqbal",
+    "Asma",
+    "Muhammad Aslam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

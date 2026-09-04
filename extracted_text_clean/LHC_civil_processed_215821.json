@@ -9,9 +9,16 @@
   "case_number": "Crl. Revision Application No.10 of 2024",
   "date_of_order": "24.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gulberg Jamia Masjid",
+    "Osama Ali and others",
+    "Mr. Muhammad Aamir Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

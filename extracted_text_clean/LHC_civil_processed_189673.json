@@ -6,12 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Petition No.D-",
+  "case_number": "",
   "date_of_order": "",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Muhammad Barejo",
+    "Mr. Abdul Hamid Bhurgri, Addl.A.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

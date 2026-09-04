@@ -7,11 +7,22 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. D-66 of 2022",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "15.02.2023",
+  "judge": "Irsahd Ali Shah",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nisar Ahmed Sodhar",
+    "The State",
+    "M/s Allah Warayo Soomro and Ghulam Shabbir Phulpoto",
+    "M/s Mujeeb-ur-Rehman Soomro and Bahawaluddin Shaikh",
+    "NAB",
+    "Mr. Karim Bux Janwari",
+    "Pakistan",
+    "Medical Board"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

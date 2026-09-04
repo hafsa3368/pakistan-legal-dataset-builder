@@ -7,14 +7,23 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "22.02.2023",
+  "judge": "",
   "sections_cited": [
     "Section 365-B PPC",
     "Section 161 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aftab Ahmed Shar",
+    "Mst. Aisha Bibi",
+    "ASR",
+    "State",
+    "Baiji Sharif",
+    "Sonharo Khan Bulo",
+    "Maternal uncle of Mst. Aisha Bibi",
+    "Respondent No.7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

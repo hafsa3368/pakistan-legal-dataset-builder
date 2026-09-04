@@ -8,14 +8,24 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.138 of 2025",
   "date_of_order": "20.02.2025",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 324, 336-A, 34",
     "section 324, 335A, 34",
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mujahid Ali",
+    "Mubarak Ali",
+    "Bashir Ahmed",
+    "Tasleem",
+    "Nazir Ahmed",
+    "Zahoor Shah",
+    "Imtiaz Ali",
+    "Gulsher",
+    "Pro Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

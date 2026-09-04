@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "30.08.2018",
+  "judge": "(Retd.) Muhammad Saeed Azmat",
+  "sections_cited": [
+    "Section 498-A CrPC",
+    "Section 380 CrPC",
+    "Section 25-HDPE Act 2006"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sharbat Ali v. Sardar Muhammad",
+    "and",
+    "another",
+    "petitioner",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

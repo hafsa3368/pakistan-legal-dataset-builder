@@ -8,14 +8,26 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. S-33 of 2022",
   "date_of_order": "27-01-2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "u/s 342 Cr.P.C"
+  ],
   "citations": [
     "2008 SCMR 1001",
     "2020 SCMR 687",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Ayaz Ali son of Aijaz Hussain Sahito",
+    "Zeeshan son of Taj Muhammad Arain",
+    "Syed Sardar Ali Shah Rizvi",
+    "The State",
+    "In person",
+    "Wali Muhammad",
+    "Ihsan Ali",
+    "Muhammad Asif",
+    "PW7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

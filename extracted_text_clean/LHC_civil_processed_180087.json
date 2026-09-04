@@ -9,9 +9,14 @@
   "case_number": "Criminal Bail Application No. S-675 of 2022",
   "date_of_order": "06.02.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Subhan Ali Solangi",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

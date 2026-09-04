@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Bail Application No.S-631 of 2022",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "06.03.2023",
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 497"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Allah Bux @ Bakhshu",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

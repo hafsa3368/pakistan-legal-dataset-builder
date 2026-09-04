@@ -9,9 +9,16 @@
   "case_number": "Criminal Bail Application No.3043 of 2024",
   "date_of_order": "24.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "None present for applicant",
+    "learned trial Court",
+    "applicant/accused",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

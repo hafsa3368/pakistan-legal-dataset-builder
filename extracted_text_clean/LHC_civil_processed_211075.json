@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-54 of 2024",
-  "date_of_order": "",
+  "date_of_order": "27-02-2024",
   "judge": "",
   "sections_cited": [
     "section 200 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sajjad Ali Pirzado others",
+    "The State & others",
+    "Mr. J.K Jarwar",
+    "PS Mohbat Dero"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

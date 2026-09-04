@@ -7,13 +7,20 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Crl. Misc. Application No.S-348 of 2022",
-  "date_of_order": "",
-  "judge": "Nasim /PA",
+  "date_of_order": "08-03-2023",
+  "judge": "",
   "sections_cited": [
     "section 190 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dileep Kumar",
+    "The State & others",
+    "Mr. Sarfaraz",
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Shamsuddin Kobhar",
+    "Mr. Zulfiquar Ali Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

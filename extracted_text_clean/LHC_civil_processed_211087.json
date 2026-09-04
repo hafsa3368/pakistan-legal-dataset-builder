@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No. D-137 of 2023",
-  "date_of_order": "",
+  "date_of_order": "28.02.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kamran Ali and others",
+    "Province of Sindh & others",
+    "Secretary Worker Welfare Board Sindh Labour Department at Karachi",
+    "Mr. Aamir Ali Bhutto",
+    "Mr. Shaharyar Imdad Awan",
+    "Assistant Advocate General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

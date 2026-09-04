@@ -8,10 +8,19 @@
   "num_chunks": 4,
   "case_number": "Criminal Revision Application No.42 of 2025",
   "date_of_order": "21.02.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "SHAMSUDDIN ABBASI",
+  "sections_cited": [
+    "u/s 7 of Illegal Dispossession Act",
+    "u/s 7 of the Illegal Dispossession Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aijaz Farooq",
+    "Mr. Fayyaz Hussain",
+    "Mst. Nighat Sultana",
+    "Syed Asif",
+    "Muhammad Waseem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

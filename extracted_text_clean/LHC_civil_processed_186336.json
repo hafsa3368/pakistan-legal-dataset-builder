@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No.S-37 of 2023",
-  "date_of_order": "",
+  "date_of_order": "08.03.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498-A Cr.P.C",
+    "u/s 22A/B Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bashir Ahmed Siyal",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal.No.S-10 of 2022",
   "date_of_order": "29.07.2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 511 PPC",
     "Section 382-B Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Ali Jalbani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,20 @@
   "case_number": "Crl. Misc. Appl. No.449 of 2024",
   "date_of_order": "30.04.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22-A/B Cr.PC",
+    "u/s 561-A Cr.PC"
+  ],
   "citations": [
     "PLD 2010 SC 691"
   ],
-  "parties": [],
+  "parties": [
+    "Tayyab Hussain",
+    "The State",
+    "07 others",
+    "Mr. Ayaz Ali Chandio",
+    "The applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

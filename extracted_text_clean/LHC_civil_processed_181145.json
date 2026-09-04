@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Constitution Petition No.D-24 of 2023",
-  "date_of_order": "",
+  "date_of_order": "08-02-2023",
   "judge": "Zafar Ahmed Rajput Mr",
   "sections_cited": [
     "Section 7"
@@ -16,7 +16,12 @@
     "2014 SCMR 1499",
     "2006 SCMR 373"
   ],
-  "parties": [],
+  "parties": [
+    "The facts in brief necessary for disposal of instant petition are that an FIR Crime No. 160/2021 u/s 302, 324, 353, 34 PPC r/w Section 7 of ATA, was lodged with PS Ubauro on behalf of the State by ASI Altaf Hussain with regard to death of PC Sultan Ahmed at the hands of unknown culprits.",
+    "Mr. Ubedullah Ghoto, Advocate for the petitioners.",
+    "Mr. Shabbir Ali Bozdar, Advocate for respondents Nos. 8 & 9.",
+    "Mr. Shafi Muhammad Mahar, Deputy Prosecutor General."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

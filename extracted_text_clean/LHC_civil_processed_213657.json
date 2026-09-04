@@ -8,10 +8,20 @@
   "num_chunks": 1,
   "case_number": "Civil Petition No.186-K of 2013",
   "date_of_order": "30.04.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ayatullah Solangi",
+    "Executive Engineer Irrigation, Guddu Barrage Division Kashmore @ Kandhkot",
+    "Nemo",
+    "Mr. Nasrullah Solangi",
+    "Province of Sindh through Chief Secretary and others",
+    "Muhammad Arif and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

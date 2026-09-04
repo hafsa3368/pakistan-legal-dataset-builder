@@ -7,13 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No. D-1733 of 2023",
-  "date_of_order": "",
+  "date_of_order": "17.04.2024",
   "judge": "",
   "sections_cited": [
     "section 2"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Asif Ali",
+    "Chairman Sindh Labour Appellate Tribunal Karachi",
+    "other"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

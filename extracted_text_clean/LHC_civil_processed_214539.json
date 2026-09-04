@@ -8,14 +8,23 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "14.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Sindh Public Property (Removal of Encroachment) Act, 2010"
+  ],
   "citations": [
     "2020 SCMR 260",
     "2023 SCMR 413",
     "2023 SCMR 1434"
   ],
-  "parties": [],
+  "parties": [
+    "Ranjhan and others",
+    "The Presiding Officer, Anti Encroachment Tribunal, Larkana and others",
+    "Mr. Abdul Rehman Bhutto",
+    "Mr. Abdul Hamid Bhurgri",
+    "Addl.A.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

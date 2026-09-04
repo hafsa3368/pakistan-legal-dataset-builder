@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Revision Application No.S-115 of 2021",
-  "date_of_order": "",
+  "date_of_order": "07.03.2023",
   "judge": "",
   "sections_cited": [
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sibghatullah @ Bhali Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

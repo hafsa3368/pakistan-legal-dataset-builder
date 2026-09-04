@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No.S-592 of 2022",
-  "date_of_order": "",
+  "date_of_order": "20-02-2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zulfiquar Ali Bhanbhro",
+    "The State",
+    "Sher Khan",
+    "Bashir Ahmed",
+    "Wahid Bux",
+    "Shafi Muhammad Mahar",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

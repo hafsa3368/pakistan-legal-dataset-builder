@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.2858 of 2024",
   "date_of_order": "12.03.2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "section 489-F",
     "section 497",
@@ -20,7 +20,12 @@
     "2003 SCMR 573",
     "2021 SCMR 1466"
   ],
-  "parties": [],
+  "parties": [
+    "Zulfiqar Ali",
+    "Ms. Seema Zaidi",
+    "Majid Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

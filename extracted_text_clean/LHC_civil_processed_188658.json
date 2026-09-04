@@ -9,7 +9,10 @@
   "case_number": "Crl.Revision Appln.No.S-32 of 2021",
   "date_of_order": "20.03.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2018 SCMR 772",
     "1995 SCMR 1345",
@@ -17,7 +20,12 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mazhar Ali Bhutto",
+    "Mr. Ali Anwar Kandhro",
+    "the applicants",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

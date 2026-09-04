@@ -8,8 +8,11 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "14.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2021 SCMR 977",
     "2021 SCMR 185",
@@ -17,7 +20,14 @@
     "2020 SCMR 2041",
     "2020 SCMR 2068"
   ],
-  "parties": [],
+  "parties": [
+    "Imtiaz Ali",
+    "Province of Sindh",
+    "Governor of Sindh",
+    "Mr. Abdul Hamid Bhurgri",
+    "Addl.A.G Sindh",
+    "Mr. Habibullah G. Ghouri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No. D",
+  "case_number": "",
   "date_of_order": "29-02-2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 382",
     "section 342 Cr.P.C"
@@ -17,7 +17,11 @@
     "2015 SCMR-1002",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sharif son of Ghulam Qadir Khushk",
+    "Sabir son of Jaffar Machhi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,16 @@
   "case_number": "Crl. Jail Appeal No.643 of 2023",
   "date_of_order": "15.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Habib-ur-Rehman Jiskani",
+    "Ms. Seema Zaidi",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

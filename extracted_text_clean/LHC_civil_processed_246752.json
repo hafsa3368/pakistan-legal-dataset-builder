@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No.2869 of 2024",
   "date_of_order": "21.02.2025",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 93",
     "Section 51 of the Act",
@@ -20,7 +20,13 @@
   "citations": [
     "2020 SCMR 1257"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aslam Shar",
+    "Mr. Qamaruddin Nohri",
+    "Abdul Raheem alias Langra",
+    "Abu Shama",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

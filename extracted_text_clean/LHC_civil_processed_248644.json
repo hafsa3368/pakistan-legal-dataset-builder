@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No.416 of 2025",
   "date_of_order": "06.03.2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "Sections 380, 34 PPC",
     "Section 497"
@@ -17,7 +17,15 @@
     "2020 SCMR 249",
     "2016 SCMR 2064"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Waheed Ashraf",
+    "Shameem Sattar",
+    "Complainant",
+    "Faisal Bank Limited",
+    "Muhammad Haris",
+    "Muhammad Mohtashim",
+    "Asif Shahryar Munir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

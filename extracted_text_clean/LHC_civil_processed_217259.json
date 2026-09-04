@@ -17,7 +17,11 @@
   "citations": [
     "1999 SCMR 2589"
   ],
-  "parties": [],
+  "parties": [
+    "appellant",
+    "complainant",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

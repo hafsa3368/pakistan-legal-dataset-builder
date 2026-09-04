@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Jail Appeal No. S-09 of 2022",
   "date_of_order": "24-02-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 154"
   ],
@@ -16,7 +16,16 @@
     "2001 SCMR-424",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Shahbaz Ali",
+    "Ghulam Mustafa bycaste Mahar",
+    "Mst. Lal Khatoon",
+    "Munshi of Ghulam Muhammad Khan Mahar",
+    "Muhammad Ali",
+    "Mst. Farzana",
+    "Mst. Patni",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

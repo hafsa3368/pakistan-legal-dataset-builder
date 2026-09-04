@@ -9,9 +9,18 @@
   "case_number": "Criminal Bail Application No.202 of 2025",
   "date_of_order": "10.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Zaman Khan Tanoli",
+    "Mr. Qamaruddin Nohri",
+    "the applicant/surety",
+    "the Nazir of this Court",
+    "the trial Court",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

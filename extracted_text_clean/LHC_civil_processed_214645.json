@@ -8,14 +8,23 @@
   "num_chunks": 1,
   "case_number": "Civil Petition No.186-K of 2013",
   "date_of_order": "15.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 1 of the Limitation Act 1908",
+    "Section 9 of the Limitation Act 1908"
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
     "2001 SCMR 574"
   ],
-  "parties": [],
+  "parties": [
+    "Shoukat Ali Chachar",
+    "P.O Sindh through Secretary, Education and Literacy Department",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

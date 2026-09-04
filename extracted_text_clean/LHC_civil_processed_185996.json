@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No. S-615 of 2022",
-  "date_of_order": "",
+  "date_of_order": "03-03-2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 354, 506/2, 504, 148, 149 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Abdul Ghaffar @ Ghaffar",
+    "Mr. Amir Ali Bhutto",
+    "Mr. Khalil Ahmed Maitlo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

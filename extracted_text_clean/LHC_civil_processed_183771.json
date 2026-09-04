@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. D-80 of 2022",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "22.02.2023",
+  "judge": "Nisar Ahmed Bhanbhro",
+  "sections_cited": [
+    "u/s 9"
+  ],
   "citations": [
     "2002 SCMR 1381"
   ],
-  "parties": [],
+  "parties": [
+    "Anees-ur-Rehman Mahar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

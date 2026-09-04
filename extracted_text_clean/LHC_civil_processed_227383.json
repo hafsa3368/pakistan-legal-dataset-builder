@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Criminal Anti-Terrorism Appeals Nos",
+  "case_number": "",
   "date_of_order": "08.03.2023",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 7",
     "section 7",
@@ -27,7 +27,13 @@
     "1995 SCMR 1345",
     "PLD 2022 SC 21"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Naveed alias Junaid",
+    "The State",
+    "Naveed alias Junaid",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Crl. Acquittal Appeal No.S-58 of 2021",
-  "date_of_order": "",
-  "judge": "Nasim /PA",
+  "date_of_order": "02-03-2023",
+  "judge": "Mirpur Mathelo",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Asghar Ali Lakahn",
+    "The State and others",
+    "Mst. Fahmeeda",
+    "Mst. Naseeran",
+    "Abdul Khaliq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

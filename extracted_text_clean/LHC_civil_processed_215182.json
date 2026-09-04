@@ -6,12 +6,26 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Const. Petition No. D-",
+  "case_number": "",
   "date_of_order": "21.05.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Habibullah G. Ghouri",
+    "Mr. Abdul Hamid Bhurgri",
+    "D.G Health Services Hyderabad",
+    "Chief Secretary Sindh",
+    "Commissioner Larkana",
+    "Deputy Commissioner Larkana",
+    "Assistant Commissioner Larkana",
+    "Secretary Health",
+    "Director Health Services Larkana Division",
+    "Dr. Abdul Sattar Shaikh",
+    "Dr. Shoukat Ali Abro",
+    "Mr. Raja Darya Khan Qureshi",
+    "Mr. Sardar Ahmed Qazi ADC-II Larkana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

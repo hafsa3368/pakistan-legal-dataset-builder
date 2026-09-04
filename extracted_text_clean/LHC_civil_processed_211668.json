@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No. D",
+  "case_number": "",
   "date_of_order": "07-03-2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 382"
   ],
@@ -16,7 +16,10 @@
     "2019 SCMR 1649",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Siddique alias Rehman",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

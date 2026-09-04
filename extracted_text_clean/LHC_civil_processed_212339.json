@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No. D-892 of 2023",
-  "date_of_order": "",
+  "date_of_order": "21-03-2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 489-F PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Murad Ali Shah",
+    "The State and others",
+    "Mr. Muhammad Ali Napar",
+    "Mr. Noor Muhammad Memon",
+    "Mr. Zulfiquar Ali Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

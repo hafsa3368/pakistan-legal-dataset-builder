@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.145 of 2025",
   "date_of_order": "26.02.2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "sections 392, 397, 34",
     "Section 23",
@@ -17,7 +17,15 @@
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hussain son of Muhammad Ghani",
+    "Adil",
+    "Mr. Abdul Wahab Chohan",
+    "Ms. Seema Zaidi",
+    "Additional Prosecutor General Sindh",
+    "SIP Jafoor Khan of PS Saeedabad",
+    "Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

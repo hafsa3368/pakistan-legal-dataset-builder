@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No.S-22 of 2023",
-  "date_of_order": "",
+  "date_of_order": "30-01-2023",
   "judge": "",
   "sections_cited": [
     "Section 498-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sajjad Hussain Brohi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

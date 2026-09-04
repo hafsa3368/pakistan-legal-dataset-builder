@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Misc. Appln. No. S-",
+  "case_number": "",
   "date_of_order": "03.05.2024",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 22-A & 22-B Cr.P.C",
     "Section 154 Cr.P.C",
@@ -17,7 +17,10 @@
   "citations": [
     "2005 SCMR 951"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Pir Neel Kanwal Qureshi",
+    "SHO, P.S Allah-abad and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "civil Petition No.3rz",
-  "date_of_order": "",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "date_of_order": "03.09.2022",
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zarai Tarqiati Bank Limited",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

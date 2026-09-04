@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "30.04.2024",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Syed Fida Hussain Shah and Mumtaz Ali Brohi",
+    "Mr. Amar Saleem Butt, Deputy Chief Manager (Legal Services), SSGC, Head Office, Karachi",
+    "Mr. Mehboob Hussain Shaikh, Deputy Manager, Legal, SSGC, Larkana",
+    "Mr. Oshaq Ali Sangi, Assistant Attorney General for Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

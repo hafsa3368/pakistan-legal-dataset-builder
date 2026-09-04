@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt:Petition No.S-288 of 2024",
   "date_of_order": "01.08.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "u/s 22-A/B Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asad Ali Khakhrani Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

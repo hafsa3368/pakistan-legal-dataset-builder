@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Crl. Anti-Terrorism Jail Appeal No. 66 of 2022",
   "date_of_order": "01.02.2023",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 7",
     "section 392/34 PPC",
@@ -25,7 +25,11 @@
     "2008 SCMR 865",
     "PLD 2020 SC 61"
   ],
-  "parties": [],
+  "parties": [
+    "Israr Muhammad",
+    "Fayyaz @ Sajjad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

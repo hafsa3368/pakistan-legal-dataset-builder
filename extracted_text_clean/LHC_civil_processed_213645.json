@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "30.04.2024",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nazar Muhammad Unar and others",
+    "S.H.O. P.S. Allahabad and others",
+    "Mr. Arif Ali Kalhoro",
+    "Mr. Abdul Hamid Bhurgri",
+    "Mr. Abdul Waris Bhutto",
+    "Mr. Ali Anwar Kandhro",
+    "SIP Ali Dost"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

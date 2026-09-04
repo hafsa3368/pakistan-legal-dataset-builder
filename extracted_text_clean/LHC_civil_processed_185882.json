@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No.S-69 of 2020",
-  "date_of_order": "",
-  "judge": "Nasim /PA",
+  "date_of_order": "06.03.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bakhat Ali Ujjan",
+    "The State & others",
+    "Mr. Gulshan Ghumro",
+    "Mr. Zulfiquar Ali Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

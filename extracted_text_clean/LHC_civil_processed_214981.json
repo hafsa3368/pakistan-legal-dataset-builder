@@ -9,11 +9,19 @@
   "case_number": "Crl. Misc. Appl. No.508 of 2024",
   "date_of_order": "17.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22-A/B Cr.PC",
+    "u/s 561-A"
+  ],
   "citations": [
     "PLD 2010 SC 691"
   ],
-  "parties": [],
+  "parties": [
+    "Zuhaib Akhtar",
+    "Muhammad Mohtashim Mirza and others",
+    "Dhani Bux",
+    "Muhammad Saleem Bhatti and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

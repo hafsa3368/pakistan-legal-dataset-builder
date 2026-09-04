@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Jail Appeal No. D",
+  "case_number": "",
   "date_of_order": "28-03-2023",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 154"
   ],
@@ -16,7 +16,12 @@
     "2001 SCMR-424",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Khadim Hussain",
+    "Mushtaque",
+    "Nayyar Hussain",
+    "Anwar Ali @ Anoo @ Ashique Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

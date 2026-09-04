@@ -7,13 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-291 of 2023",
-  "date_of_order": "",
+  "date_of_order": "02.05.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 173 Cr.P.C",
+    "u/s 337A"
+  ],
   "citations": [
     "1972 SCMR 516"
   ],
-  "parties": [],
+  "parties": [
+    "Raham Dil Malik",
+    "SHO PS Site Area Sukkur & others",
+    "Mr. Shafi Muhammad Mahar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

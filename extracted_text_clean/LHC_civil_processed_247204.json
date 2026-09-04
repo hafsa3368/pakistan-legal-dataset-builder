@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.2785 of 2024",
   "date_of_order": "25.02.2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "Sections 395",
     "Section 497",
@@ -17,7 +17,16 @@
     "section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Shafiq Abdullah",
+    "Ms. Seema Zaidi",
+    "Muhammad Javed son of Sonehar",
+    "Khalid",
+    "Adnan",
+    "Azhar Iqbal",
+    "Syed Ali Shah",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

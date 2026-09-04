@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.345 of 2025",
   "date_of_order": "11.03.2025",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 302, 201, 34",
     "Section 497"
@@ -22,7 +22,14 @@
     "2016 PCr.LJ 994",
     "2018 YLR 2363"
   ],
-  "parties": [],
+  "parties": [
+    "Husnain alias Husnain Nawaz",
+    "The State",
+    "Ghulam Mustafa",
+    "Hasnain",
+    "Taufeeq",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

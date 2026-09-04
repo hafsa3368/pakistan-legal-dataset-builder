@@ -8,14 +8,24 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.2760 of 2024",
   "date_of_order": "11.03.2025",
-  "judge": "",
+  "judge": "Asadullah Burdi",
   "sections_cited": [
     "sections 395, 397",
     "Section 491",
     "section 491"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Imran",
+    "Sabir Hussain",
+    "Seema Zaidi",
+    "Suleman",
+    "police",
+    "complainant",
+    "SSP Malir",
+    "mother of applicant",
+    "Additional Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

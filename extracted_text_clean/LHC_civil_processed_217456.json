@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl.Misc.A.No.S-166 of 2024",
   "date_of_order": "18.07.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "Section 22-A CrPC",
+    "Section 22-B CrPC",
+    "Section 561-A CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst.Maryam",
+    "SHO, PS Garhi Yasin",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

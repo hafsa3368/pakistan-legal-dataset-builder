@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl.Revision Appln.No.D-10 of 2021",
   "date_of_order": "31.07.2024",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Khadim Hussain Tunio,",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jan Muhammad",
+    "Hazratullah",
+    "Mr. Ashique Illahi Sundrani",
+    "Mr. Aitbar Ali Bullo",
+    "Raheem Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

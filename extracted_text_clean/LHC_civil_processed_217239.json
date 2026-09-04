@@ -8,14 +8,17 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No.D-36 of 2023",
   "date_of_order": "10.07.2024",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 382-B Cr.PC"
   ],
   "citations": [
     "1995 SCMR-1345"
   ],
-  "parties": [],
+  "parties": [
+    "Javed Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

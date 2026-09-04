@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "22-03-2019",
+  "judge": "(Retd) Saqib Nisar",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Aleem Khan Ors Vs Federation Of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

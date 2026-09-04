@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.122 of 2025",
   "date_of_order": "20.02.2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "section 489-F",
     "Section 497",
@@ -19,7 +19,14 @@
     "2022 SCMR 750",
     "2020 SCMR 313"
   ],
-  "parties": [],
+  "parties": [
+    "Shaikh Abdul Mateen",
+    "Syed Farhat Hjssain (applicant/accused)",
+    "Mr. Zahoor Shah (Addl: P.G. Sindh)",
+    "Mr. Muhammad Azeem Khawaja (advocate for complainant)",
+    "Usmani Firm",
+    "Yasmeen Usmani (co-accused)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No.S-216 of 2022",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "13.02.2023",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 498-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pardeep Kumar",
+    "The State",
+    "Imdad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

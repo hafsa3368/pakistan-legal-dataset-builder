@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl.B.A.No.S-293 of 2024",
   "date_of_order": "25.07.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 498 Cr.PC",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Deedar Ali",
+    "The State",
+    "Imran Ali",
+    "the applicants",
+    "the complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

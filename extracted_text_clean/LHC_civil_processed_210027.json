@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No.S-106 of 2022",
-  "date_of_order": "",
+  "date_of_order": "30-01-2024",
   "judge": "",
   "sections_cited": [
     "Section 4",
@@ -16,7 +16,14 @@
   "citations": [
     "2021 SCMR 56"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Adil Ansari",
+    "The State & others",
+    "Mr. Mehfooz Ahmed Awan",
+    "Mr. UbedullahMalano",
+    "Mr. Munir Ahmed Maitlo",
+    "Mr. Muhammad AslamJatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

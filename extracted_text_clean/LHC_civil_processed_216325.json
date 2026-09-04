@@ -6,16 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No. D-",
+  "case_number": "",
   "date_of_order": "22.05.2024",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 9"
   ],
   "citations": [
     "PLD 2017 SC 671"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Nabi Jatoi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

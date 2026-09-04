@@ -8,10 +8,19 @@
   "num_chunks": 3,
   "case_number": "Criminal Acquittal Appeal.No.S-21 of 2023",
   "date_of_order": "27.03.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "PLD 2011 SC-554"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mehboob Ali Doongah",
+    "the appellant",
+    "the private respondents",
+    "State and others Vs. Abdul Khaliq and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

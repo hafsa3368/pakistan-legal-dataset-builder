@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "20.08.2021",
+  "judge": "(Retd.) Ibadur Rehman Khan",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "Section 380 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The petitioner, Mr. Khan, vs. The respondent, Mrs. Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,23 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. S-453 of 2022",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "17.02.2023",
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2008 SCMR 1556"
   ],
-  "parties": [],
+  "parties": [
+    "Dhani Bux @ Ali Raza",
+    "The State",
+    "Waheed Chandio",
+    "The State",
+    "Altaf Hussain",
+    "Rab Dino",
+    "M/s Ghulam Rasool Chandio and Syed Jaffer Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

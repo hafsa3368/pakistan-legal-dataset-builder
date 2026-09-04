@@ -9,13 +9,22 @@
   "case_number": "Civil Petition No.186-K of 2013",
   "date_of_order": "23.04.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
     "2001 SCMR 574"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Jabbar Shaikh and others",
+    "E.D.O (Education) Shikarpur and others",
+    "Mr. Nisar Ahmed G. Abro",
+    "Mr. Abdul Hamid Bhurgri",
+    "Province of Sindh through Chief Secretary and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

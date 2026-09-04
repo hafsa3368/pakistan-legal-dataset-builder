@@ -7,13 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No. S-137 of 2024",
-  "date_of_order": "",
+  "date_of_order": "01-04-2024",
   "judge": "",
   "sections_cited": [
     "section 173 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Roshan Ali Gadhi",
+    "The State & others",
+    "Mr. Sheeraz Fazal",
+    "Ashiq Ali",
+    "Gulshan",
+    "PW Ghulam Rasool",
+    "I.O/SIP Rab Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

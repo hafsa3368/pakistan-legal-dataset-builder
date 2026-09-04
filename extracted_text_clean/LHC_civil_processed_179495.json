@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No. D-27 of 2022",
-  "date_of_order": "",
+  "date_of_order": "31-01-2023",
   "judge": "Zafar Ahmed Rajput Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aamir Ali Bhutto",
+    "M/s Mujeeb-ur-Rehman Soomro and Bahawaluddin Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

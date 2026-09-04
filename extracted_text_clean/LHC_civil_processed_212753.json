@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No. D-246 of 2023",
-  "date_of_order": "",
+  "date_of_order": "03.04.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Azam Marri",
+    "Province of Sindh",
+    "Mr. Ghulam Abbas Kubar",
+    "Assistant A.G, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Revision Application No. D-08 of 2022",
-  "date_of_order": "",
+  "date_of_order": "27-03-2024",
   "judge": "",
   "sections_cited": [
     "section 33"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nizamuddin",
+    "The State",
+    "Gomal Transport",
+    "Syed Sardar Ali Shah Rizvi",
+    "Ms. Mallag Assa Dashti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

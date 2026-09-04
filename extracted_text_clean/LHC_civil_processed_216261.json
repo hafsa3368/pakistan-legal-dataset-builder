@@ -9,11 +9,20 @@
   "case_number": "Crl. Misc. Appl. No.551 of 2024",
   "date_of_order": "31.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22-A/B Cr.PC",
+    "u/s 561-A"
+  ],
   "citations": [
     "PLD 2010 SC 691"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Jan Paroza",
+    "The State and others",
+    "Mr. Imtiaz Ali Awan",
+    "Rai Ashraf and others",
+    "Muhammad Saleem Bhatti and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

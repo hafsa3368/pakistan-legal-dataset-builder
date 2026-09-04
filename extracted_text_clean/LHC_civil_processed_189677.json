@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "Misc. Appln. No. D-05 of 2023",
   "date_of_order": "",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "U/S 561-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Habibullah G. Ghouri, advocate for the applicant",
+    "Mr. Aitbar Ali Bullo, D.P.G for the State a/w S.I.P Khadim Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

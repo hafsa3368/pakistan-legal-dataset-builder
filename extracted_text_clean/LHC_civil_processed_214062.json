@@ -8,8 +8,12 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "07.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution"
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
@@ -17,7 +21,12 @@
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Sher Beg Bijarani and another",
+    "Government of Sindh, through Secretary Home Department and others",
+    "Nemo",
+    "Mr. Abdul Hamid Bhurgri, Additional Advocate General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

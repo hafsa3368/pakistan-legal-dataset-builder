@@ -6,12 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. Application No. D",
+  "case_number": "",
   "date_of_order": "03.07.2018",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Zafar Ali Shah Bukhari",
+    "Syed Sardar Ali Shah",
+    "State",
+    "DSP Sohail Ahmed Khan",
+    "SDPO Ubauro District Ghotki",
+    "SIP Imam Din",
+    "SHO Daharki"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

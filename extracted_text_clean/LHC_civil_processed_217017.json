@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No.D-06 of 2024",
   "date_of_order": "02.07.2024",
-  "judge": "JUDGE",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 382-B Cr.PC",
     "section 342 Cr.PC"
@@ -17,7 +17,12 @@
     "1998 SCMR-25",
     "1995 SCMR-1345"
   ],
-  "parties": [],
+  "parties": [
+    "Tufail Ahmed",
+    "Abdul Hameed @ Nango",
+    "Piyaro @ Saeed Rehman",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

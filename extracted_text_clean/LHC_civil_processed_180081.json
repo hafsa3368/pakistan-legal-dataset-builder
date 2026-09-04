@@ -9,9 +9,14 @@
   "case_number": "Criminal Bail Application No. S-632 of 2022",
   "date_of_order": "06.02.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khuda Bux Rind",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

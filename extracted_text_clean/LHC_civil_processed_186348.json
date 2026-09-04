@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Crl. Acquittal Appeal No.S-09 of 2021",
-  "date_of_order": "",
-  "judge": "Nasim /PA",
-  "sections_cited": [],
+  "date_of_order": "08.03.2023",
+  "judge": "Dareshani Ali Hyder Ada",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Taufique Hussain Shah",
+    "The State and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

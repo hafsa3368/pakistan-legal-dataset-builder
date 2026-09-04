@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Misc. Application No. S-",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "22-03-2024",
+  "judge": "Abdul Baqi Jan Kakar",
   "sections_cited": [
     "section 561-A Cr.P.C",
     "section 173",
@@ -18,7 +18,12 @@
   "citations": [
     "1972 SCMR 516"
   ],
-  "parties": [],
+  "parties": [
+    "Babloo Jan Solangi",
+    "SHO PS Mohbat Dero & others",
+    "Syed Sardar Ali Shah Rizvi",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

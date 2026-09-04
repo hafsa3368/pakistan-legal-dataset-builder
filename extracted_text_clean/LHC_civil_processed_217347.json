@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl.B.A.No.S-354 of 2024",
   "date_of_order": "15.07.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahbaz Ali Bhayo",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

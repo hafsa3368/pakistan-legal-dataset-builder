@@ -9,13 +9,20 @@
   "case_number": "Criminal Accountability Acquittal Appeal No. 06 of 2022",
   "date_of_order": "22.03.2023",
   "judge": "Naimatullah Phulpoto Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1995 SCMR 1354",
     "1995 SCMR 635",
     "1998 SCMR 1281"
   ],
-  "parties": [],
+  "parties": [
+    "National Accountability Bureau, through its’ Chairman through Syed Dilshad Hussain, Special Prosecutor NAB",
+    "Nemo",
+    "Javed Ahmed Jalalani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

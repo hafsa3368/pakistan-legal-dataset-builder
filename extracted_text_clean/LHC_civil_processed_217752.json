@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Jail Appeal No.S-30 of 2022",
   "date_of_order": "25.07.2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 342 Cr.PC",
     "Section 149 PPC",
@@ -24,7 +24,16 @@
     "2016 SCMR 2021",
     "2018 SCMR-772"
   ],
-  "parties": [],
+  "parties": [
+    "Tameer Shah s/o Aman Shah Syed",
+    "Inam Shah s/o Sharif Shah Syed",
+    "Muhammad Ali Shah",
+    "The State",
+    "Muhammad Aslam Shah",
+    "Mazhar Shah",
+    "Baqa Muhammad Shah",
+    "Raheel Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

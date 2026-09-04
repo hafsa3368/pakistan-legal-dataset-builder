@@ -7,13 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. S-62 of 2023",
-  "date_of_order": "",
+  "date_of_order": "01.03.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2009 SCMR 448"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sadique Brohi",
+    "The State",
+    "Muhammad Ayub",
+    "Muhammad Farooq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

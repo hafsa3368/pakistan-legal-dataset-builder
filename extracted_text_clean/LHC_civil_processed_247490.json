@@ -6,12 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "constitution petition is dismissed as not",
+  "case_number": "",
   "date_of_order": "27.02.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulfiqar Ali Khan",
+    "Mr. Ali Zardari",
+    "Mr. Qamaruddin Nohri",
+    "Kashif Baig",
+    "Mst. Saima Mustafa",
+    "Rana Murtaza",
+    "Ghulam Mustafa",
+    "Faisalabad High Court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No.S-594 of 2022",
-  "date_of_order": "",
+  "date_of_order": "30-01-2023",
   "judge": "",
   "sections_cited": [
     "Section 498-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Qadir Bux & others",
+    "The State",
+    "Abdul Rehman",
+    "Muhammad Hashim",
+    "Habib Rehman",
+    "The State",
+    "Hub Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

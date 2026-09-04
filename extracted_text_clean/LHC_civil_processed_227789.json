@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Anti-Terrorism Appeal No. 59 of 2022",
   "date_of_order": "26.01.2023",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "section 4/5 Explosive Substance Act",
     "section 7",
@@ -21,7 +21,12 @@
   "citations": [
     "PLD 1966 SC 708"
   ],
-  "parties": [],
+  "parties": [
+    "Fazal Meer",
+    "Mian Khan",
+    "The State",
+    "Mr. Muhammad Iqbal Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

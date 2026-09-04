@@ -7,13 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-397 of 2023",
-  "date_of_order": "",
+  "date_of_order": "01.03.2023",
   "judge": "",
   "sections_cited": [
     "section 200 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Anwar Ali Mahar",
+    "SHO PS Khanpur Mahar",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

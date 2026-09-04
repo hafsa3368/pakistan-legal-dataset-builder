@@ -9,9 +9,15 @@
   "case_number": "Criminal Bail Application No.2403 of 2024",
   "date_of_order": "10.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Zainab Bibi",
+    "Ms. Amna Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

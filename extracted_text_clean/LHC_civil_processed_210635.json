@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Constitution Petition No. D-1832 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "15-02-2024",
+  "judge": "Shahid Ali K.Memon",
   "sections_cited": [
     "section 173 Cr.P.C"
   ],
@@ -16,7 +16,11 @@
     "2014 SCMR 474",
     "2006 SCMR 373"
   ],
-  "parties": [],
+  "parties": [
+    "Zafarullah Magsi",
+    "Province of Sindh",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

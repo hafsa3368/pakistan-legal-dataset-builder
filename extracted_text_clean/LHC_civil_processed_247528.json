@@ -9,9 +9,23 @@
   "case_number": "Criminal Bail Application No.2604 of 2024",
   "date_of_order": "13.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M. A.",
+    "Niaz Ahmed",
+    "Raees Ahmed",
+    "Muzamil",
+    "Raja Sohail Ahmed",
+    "Ghulam Mustafa",
+    "Muhammad Arif",
+    "Allah Dino Memon",
+    "Mr. Mujahid Hussain",
+    "Mr. Neel Parkah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

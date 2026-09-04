@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Acquittal Appeal No.S-162 of 2022",
-  "date_of_order": "",
-  "judge": "Nasim /PA",
-  "sections_cited": [],
+  "date_of_order": "01.03.2023",
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "State and others vs. Abdul Khaliq and others (PLD 2011 SC-554)"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zainul Abideen Domki",
+    "Fayaz Ali Baloch and another",
+    "Mr. Abdul Salam Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

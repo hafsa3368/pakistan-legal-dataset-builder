@@ -6,14 +6,20 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitution Petition No. D-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "06.03.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 302, 504 and 34 PPC"
+  ],
   "citations": [
     "2006 SCMR 373"
   ],
-  "parties": [],
+  "parties": [
+    "Naimatullah Mubejo",
+    "P.O Sindh and others",
+    "Mr. Pervez Ali Maitlo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

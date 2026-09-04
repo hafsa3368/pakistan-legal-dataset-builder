@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No.S-440 of 2022",
-  "date_of_order": "",
+  "date_of_order": "30-01-2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22",
+    "u/s 561-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Adil Ansari",
+    "The State & others",
+    "Mr. Mehfooz Ahmed Awan",
+    "Mr. Muhammad Aslam Jatoi",
+    "Mr. Ubedullah Malano",
+    "Mr. Munir Ahmed Maitlo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

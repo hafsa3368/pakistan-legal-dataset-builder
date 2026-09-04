@@ -7,13 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. D-12 of 2023",
-  "date_of_order": "",
+  "date_of_order": "22.02.2023",
   "judge": "Zafar Ahmed Rajput Mr",
   "sections_cited": [
     "section 21-D"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hazir Khan @ Hazu",
+    "The State",
+    "Mr. Abdul Haseeb Khuhro",
+    "Mr. Aftab Ahmed Shar",
+    "Rehmoo @ Rehmat Ali",
+    "02 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

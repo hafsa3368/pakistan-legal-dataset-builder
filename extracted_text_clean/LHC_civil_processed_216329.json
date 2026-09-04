@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Crl. Acquittal Appeal No. S-",
+  "case_number": "",
   "date_of_order": "03.05.2024",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 337-A",
     "Section 249-",
@@ -22,7 +22,12 @@
     "2004 SCMR 1185",
     "2009 SCMR 6"
   ],
-  "parties": [],
+  "parties": [
+    "Sahib Khan Malik",
+    "Raham Ali",
+    "Mehrban",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

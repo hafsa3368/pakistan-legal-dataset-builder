@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No. S-115 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "06-03-2023",
+  "judge": "Shafi Muhammad Mahar",
   "sections_cited": [
     "section 86 Cr.P.C",
     "Section 86 Cr.P.C",
@@ -18,7 +18,11 @@
     "section 86/561-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saeed Ghani Mahesar",
+    "The State",
+    "M/s Nooruddin Mahesar and Abdul Sattar Mahesar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

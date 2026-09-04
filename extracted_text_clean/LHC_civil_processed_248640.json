@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.154 of 2025",
   "date_of_order": "05.03.2025",
-  "judge": "",
+  "judge": "Abdul Hakeem Jakhro",
   "sections_cited": [
     "sections 337-F",
     "section 497",
@@ -19,7 +19,14 @@
     "2021 SCMR 2086",
     "2022 SCMR 1271"
   ],
-  "parties": [],
+  "parties": [
+    "Farman",
+    "Akhtar Gul Khan",
+    "Mir Ghoas Khan",
+    "Saeed Ahmed Khoso",
+    "Dost Muhammad Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Appeal No. D",
+  "case_number": "",
   "date_of_order": "21-03-2023",
   "judge": "Irshad Ali Shah",
   "sections_cited": [
@@ -23,7 +23,10 @@
     "2008 SCMR-1254",
     "2010 SCMR-927"
   ],
-  "parties": [],
+  "parties": [
+    "Allah Dino son of Gul Hasssan Rind",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

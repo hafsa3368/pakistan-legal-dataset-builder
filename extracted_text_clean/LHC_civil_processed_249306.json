@@ -9,9 +9,18 @@
   "case_number": "Criminal Bail Application No.200 of 2025",
   "date_of_order": "10.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Falak Sher Khan son of Sher Muhammad Khan",
+    "Seema Zaidi",
+    "Ghulam Yaseen Mastoi",
+    "Shair Muhammad Khan",
+    "Shaheen Begum"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

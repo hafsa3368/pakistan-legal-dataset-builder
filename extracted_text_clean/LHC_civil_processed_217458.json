@@ -9,9 +9,17 @@
   "case_number": "Crl.Misc.A.No.S-234 of 2024",
   "date_of_order": "18.07.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22-A/B CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sunny Kumar",
+    "SHO",
+    "PS A-Section Kandhkot & Ors",
+    "Mr. Ayaz Ahmed Faras"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

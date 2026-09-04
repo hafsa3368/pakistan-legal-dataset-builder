@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No. D-140 of 2024",
-  "date_of_order": "",
+  "date_of_order": "22-02-2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 12 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Qadri Jilani Company & others",
+    "Federation of Pakistan & others",
+    "Fouji Fertilizer Company Limited",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

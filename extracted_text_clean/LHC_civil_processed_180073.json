@@ -8,12 +8,18 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No. S-315 of 2022",
   "date_of_order": "06-02-2023",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abid Hussain",
+    "State",
+    "Ameer Bux",
+    "Bashir Ahmed",
+    "Nazeer Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

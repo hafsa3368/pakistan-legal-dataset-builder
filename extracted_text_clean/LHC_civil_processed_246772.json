@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.2473 of 2024",
   "date_of_order": "12.02.2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "Sections 397, 302, 34"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nisar Ahmed",
+    "Muhammad Musa",
+    "Seema Zaidi",
+    "Zareef Khan",
+    "complainant",
+    "other PWs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

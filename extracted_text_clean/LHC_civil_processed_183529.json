@@ -8,13 +8,19 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "22.02.2023",
-  "judge": "",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "Section 426",
     "Section 32"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Muhammad Haseeb Jamali, Muzamil Hussain Jalbani and Gulzar Ahmed Soomro",
+    "M/s Mujeeb-ur-Rehman Soomro and Bahawal-ud-Din Shaikh",
+    "Mr. Nasir Mehmood Mughal, D.P.G.A. NAB",
+    "The State v. Tufail Ahmed Soomro and another",
+    "Waqar Ahmed Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

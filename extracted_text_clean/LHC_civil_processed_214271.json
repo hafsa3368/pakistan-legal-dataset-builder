@@ -9,9 +9,20 @@
   "case_number": "Crl. Revision Application No.60 of 2024",
   "date_of_order": "08.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nida Shahzad",
+    "Nida Shamim",
+    "The State",
+    "The State and another",
+    "Basam Ali Dahri",
+    "Khurram Lakhani",
+    "Amna Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

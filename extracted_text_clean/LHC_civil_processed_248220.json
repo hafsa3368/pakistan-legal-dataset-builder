@@ -8,13 +8,19 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.2353 of 2024",
   "date_of_order": "04.03.2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "sections 392, 397, 324, 34",
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Shahzaib son of Musarat Hussain alias Sharaf Hussain",
+    "complainant",
+    "Additional Prosecutor General Sindh",
+    "SHO/PI Gul Baig",
+    "SIP/PI Khuda Bux Lashari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

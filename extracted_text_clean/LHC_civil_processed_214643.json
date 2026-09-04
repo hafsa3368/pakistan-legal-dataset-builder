@@ -8,8 +8,24 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "15.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "PLD 2001 Supreme Court 415",
+    "PLD 2001 Supreme Court 415",
+    "Section 497 CrPC",
+    "Section 497 CrPC",
+    "Section 497 CrPC",
+    "2016 CLC 1",
+    "2015 PLC 45",
+    "2015 CLD 257",
+    "2011 SCMR 1990",
+    "2001 SCMR 574",
+    "2010 SCMR 105",
+    "Syed Iqbal Hussain Shah Gillani vs. PBC & Others reported as 2021 SCMR 425",
+    "Muhammad Fiaz Khan vs. Ajmer Khan & Another reported as 2010 SCMR 105"
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
@@ -17,7 +33,13 @@
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Niaz Ahmed Bahrani",
+    "The District Education Officer, Kashmore",
+    "Mr. Sajid Hussain Mahesar",
+    "Mr. Abdul Hamid Bhurgri",
+    "Additional Advocate General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

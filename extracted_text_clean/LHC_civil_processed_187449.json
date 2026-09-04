@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Anti-Terrorism Appeal No. 28 of 2022",
   "date_of_order": "14.02.2023",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "section 302",
     "section 7",
@@ -32,7 +32,12 @@
     "2021 SCMR 736",
     "2020 SCMR 857"
   ],
-  "parties": [],
+  "parties": [
+    "Fazal Saeed @ Kabari",
+    "The State",
+    "The State through Mr. Muhammad Iqbal Awan",
+    "Complainant: Tufail Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.S-43 of 2022",
   "date_of_order": "04.07.2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 342 Cr.PC",
     "Section 34 PPC",
@@ -20,7 +20,12 @@
     "2009 SCMR 120",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Wali Muhammad s/o Ghulam Qadir Solangi",
+    "Mst.Najma w/o Shahzado",
+    "The State",
+    "Accused Juman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

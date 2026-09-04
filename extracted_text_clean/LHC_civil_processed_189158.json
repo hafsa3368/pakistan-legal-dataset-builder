@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "21.03.2023",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed G. Abro",
+    "Mr. Sarfraz Ali M. Abbasi",
+    "Mr. Munwar Ali Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

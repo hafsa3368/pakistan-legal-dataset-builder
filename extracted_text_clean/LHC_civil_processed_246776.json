@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.3034 of 2024",
   "date_of_order": "10.02.2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "Section 9",
     "Section 103",
@@ -19,7 +19,17 @@
     "2024 SCMR 934",
     "2016 PCr.LJ Note 109"
   ],
-  "parties": [],
+  "parties": [
+    "Mazhar Ali",
+    "Ms. Amna Ansari",
+    "The State",
+    "SIP Ali Murad",
+    "Abid alias Aabi Arain",
+    "Zahid Sarfaraz Gill",
+    "The State",
+    "The State",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

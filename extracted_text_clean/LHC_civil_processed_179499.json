@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-1547 of 2022",
-  "date_of_order": "",
-  "judge": "JUDGE Nasim /PA",
-  "sections_cited": [],
+  "date_of_order": "31.01.2023",
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nusrat Hussain Memon, Advocate for the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

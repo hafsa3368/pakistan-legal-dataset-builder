@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Jail Appeal No. D",
+  "case_number": "",
   "date_of_order": "07-02-2024",
   "judge": "Irshad Ali Shah Mr",
   "sections_cited": [
@@ -16,7 +16,10 @@
     "2015 SCMR-1002",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Shoaib Anwar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

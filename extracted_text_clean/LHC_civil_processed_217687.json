@@ -8,14 +8,21 @@
   "num_chunks": 3,
   "case_number": "Crl.B.A.No.S-110 of 2024",
   "date_of_order": "26.07.2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 497 Cr.PC"
   ],
   "citations": [
     "2023 SCMR-1243"
   ],
-  "parties": [],
+  "parties": [
+    "Mujahid Hussain Buriro",
+    "The State",
+    "Mr. Muhammad Afzal Jagirani",
+    "Mr. Aitbar Ali Bullo",
+    "Mr. Rafique Ahmed Abro",
+    "Nabeel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

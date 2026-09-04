@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "29.01.2014",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 25-A of the Protection of Women from Domestic Violence Act 2005",
+    "Section 20 of the Protection of Women from Domestic Violence Act 2005"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner/ Appellant: Ayesha Gul Khan (V)",
+    "Respondent/ Opponent: Muhammad Aslam Khan Niazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

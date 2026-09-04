@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No.S-66 of 2019",
   "date_of_order": "20.03.2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 342 Cr.PC",
     "Section 302",
@@ -21,7 +21,18 @@
     "2001 SCMR-424",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Saddam Hussain s/o Abdul Karim Bhutto",
+    "The State",
+    "Mr. Abdul Rehman Bhutto",
+    "Mr. Ali Anwar Kandhro",
+    "Ameer Bux",
+    "Zulfiqar Ali",
+    "Ali Gohar",
+    "Akhtiar Ali",
+    "Din Muhammad",
+    "Abdul Karim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

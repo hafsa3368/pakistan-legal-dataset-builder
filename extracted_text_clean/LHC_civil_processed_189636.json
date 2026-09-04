@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitutional Petition No. D-",
+  "case_number": "",
   "date_of_order": "",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imtiaz Ali Jatoi",
+    "Mr. Muneer Ahmed Channa",
+    "Mr. Munwar Ali Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

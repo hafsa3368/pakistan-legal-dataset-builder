@@ -7,13 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Jail Appeal No.S-109 of 2022",
-  "date_of_order": "",
+  "date_of_order": "13-03-2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 426 Cr.P.C"
+  ],
   "citations": [
     "1999 SCMR-2589"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Nawaz Kori",
+    "The State",
+    "Mr. Shafique Ahmed Leghari",
+    "Mr. Muhammad Aslam Jatoi",
+    "Mr. Munir Ahmed Siyal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

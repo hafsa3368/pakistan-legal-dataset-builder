@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitution Petition No. D",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "21-02-2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bilawal Hussain",
+    "P.O Sindh & others",
+    "M/s. Abdul Raheem Mahar & Abdul Sallam Shaikh",
+    "Mr. Ghulam Mustafa Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,24 @@
   "case_number": "Criminal Acquittal Appeal No.D-10 of 2021",
   "date_of_order": "08-02-2023",
   "judge": "Zafar Ahmed Rajput Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Shahnaz w/o Allah Wadhayo bycaste Massan",
+    "Mst. Gul Bano w/o Shah Bux Massan",
+    "Sajida @ Shazia @ Shah Jehan d/o Haji Mirbahar",
+    "Aftab Hussain s/o Ghulam Muhammad Korai",
+    "Muhammad Siddique s/o Mitho Shar",
+    "Sadaruddin s/o Ali Muhammad Samejo",
+    "Saindad s/o Ameer Bux Chachar",
+    "Sanaullah s/o Umed Ali Mirani",
+    "Abdul Razzak s/o Muhammad Bux Soomro",
+    "Wahid Bux s/o Sadoro Chachar",
+    "Dilshad s/o Muhammad Ali @ Jago",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

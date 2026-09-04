@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.2686 of 2024",
   "date_of_order": "26.02.2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "sections 324, 511, 337F",
     "section 337L",
@@ -16,7 +16,13 @@
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Agha Mir",
+    "Meer Ahmed",
+    "Haji Sakhi Murad",
+    "Lawangin",
+    "Ameena"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

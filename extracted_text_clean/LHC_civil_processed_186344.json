@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Revision Application No.S-84 of 2020",
-  "date_of_order": "",
+  "date_of_order": "08.03.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498-A PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Attaullah Phulpoto",
+    "Ghulam Ahmed Mahar and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

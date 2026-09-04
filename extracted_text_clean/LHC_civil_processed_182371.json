@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Crl. Acquittal Appeal No.S-18 of 2023",
-  "date_of_order": "",
-  "judge": "Nasim /PA",
-  "sections_cited": [],
+  "date_of_order": "16-01-2023",
+  "judge": "",
+  "sections_cited": [
+    "u/s 506/2 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Amir Hussain Shah",
+    "Muhammad Ramzan",
+    "State and others",
+    "Abdul Khaliq and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

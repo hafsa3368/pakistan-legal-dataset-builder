@@ -7,15 +7,23 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No.S-694 of 2022",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "27-02-2023",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 498-A Cr.P.C"
   ],
   "citations": [
     "2021 SCMR 05"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Salam Vistro",
+    "The State",
+    "Waheed",
+    "Sadaqat",
+    "Saddam Hussain",
+    "Abu Bakar Siddique",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

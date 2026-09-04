@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Misc. Appln. No. S-206 of 2024",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "15.07.2024",
+  "judge": "Abdul Salam",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ayaz Ahmed Faras",
+    "Mr. Miran Bux K. Soomro",
+    "Mr. Aitbar Ali Bullo",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

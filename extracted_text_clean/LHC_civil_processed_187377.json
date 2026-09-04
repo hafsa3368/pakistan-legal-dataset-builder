@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Crl. Jail Appeal No.S-48 of 2018",
-  "date_of_order": "",
+  "date_of_order": "14-03-2023",
   "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 337A",
@@ -16,7 +16,27 @@
   "citations": [
     "2022 SCMR 1187"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Karim son of Haji Muhammad Hassan Kalhoro",
+    "Jan Muhammad s/o Hadi Dino Kalhoro",
+    "Ishaque son of Hadi Dino Kalhoro",
+    "Waseem @ Leemo s/o Muhammad Ishaque",
+    "Abdul Ghaffar @ Rustam s/o Muhammad Khan",
+    "Rahib son of Muhammad Khan",
+    "Ayaz son of Allah Dino",
+    "Nazeer son of Allah Dino",
+    "Manan son of Abdul Karim",
+    "Abdul Jabbar @ Punhal s/o Abdul Karim",
+    "Gulab son of Juwan",
+    "Maroof son of Jan Muhammad",
+    "Awais son of Muhammad Ishaque",
+    "Shahnawaz son of Jan Muhammad",
+    "Rafique @ Sheesho s/ o Jan Muhammad",
+    "Muhammad Siddique son of Mir Muhammad bycaste Kalhoro",
+    "Rasool Bux @ Mehar s/o Abdul Kareem",
+    "Ghulam Rasool @ Arbab son of Juwan",
+    "Rasheed son of Jan Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

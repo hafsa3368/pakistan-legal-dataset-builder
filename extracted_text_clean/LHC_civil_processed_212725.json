@@ -7,14 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No. S-648 of 2022",
-  "date_of_order": "",
+  "date_of_order": "01.04.2024",
   "judge": "",
   "sections_cited": [
     "section 22",
     "section 561-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sabir Hussain Arain",
+    "The State & others",
+    "Mr. Iftikhar Ali Arain",
+    "Mr. Aftab Ahmed Shar",
+    "Private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

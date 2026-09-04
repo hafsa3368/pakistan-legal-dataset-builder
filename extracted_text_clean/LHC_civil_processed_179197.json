@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Jail Appeal No.S-215 of 2019",
   "date_of_order": "30-01-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "section 382"
   ],
@@ -19,7 +19,18 @@
     "2018 SCMR 772",
     "PLD 2007 SC 223"
   ],
-  "parties": [],
+  "parties": [
+    "Jan Muhammad",
+    "State",
+    "Jan Muhammad son of Sher Muhammad bycaste Wassan",
+    "The State",
+    "Jan Muhammad",
+    "Mst. Zakia alias Mst. Najma",
+    "The State",
+    "Jan Muhammad",
+    "State",
+    "Mst. Zakia alias Mst. Najma"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

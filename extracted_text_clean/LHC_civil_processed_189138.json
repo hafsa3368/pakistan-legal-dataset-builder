@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl.Revision Appln.No.S-17 of 2023",
   "date_of_order": "24.03.2023",
-  "judge": "",
+  "judge": "Ghulam Murtaza Jokhio",
   "sections_cited": [
     "Section 161, 167, 34 PPC",
     "Section 5 of Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "applicant",
+    "private respondents",
+    "petitioner",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

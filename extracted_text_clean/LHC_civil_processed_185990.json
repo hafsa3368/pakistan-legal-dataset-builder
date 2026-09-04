@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Jail Appeal No. S-43 of 2022",
   "date_of_order": "02-03-2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 376 PPC",
     "section 382",
@@ -18,7 +18,11 @@
     "1996 SCMR 1553",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Ahmed Nawaz",
+    "Mr. Zulfiquar Ali Jatoi",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

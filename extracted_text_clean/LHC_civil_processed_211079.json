@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No.S-79 of 2024",
-  "date_of_order": "",
+  "date_of_order": "27-02-2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22",
+    "u/s 561-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Inayatullah Maitlo",
+    "The State & others",
+    "Ms. Quratul Ain Maitlo",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

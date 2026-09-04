@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Constt:Petition.No.D-285 of 2024",
   "date_of_order": "31.07.2024",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Khadim Hussain Tunio",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "u/s 506/2",
+    "u/s 380 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst.Fozia & another",
+    "SHO, P.S Ghouspur & Ors",
+    "petitioners",
+    "respondent No.6 & 7",
+    "official respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,21 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "24.04.2024",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "sections 95 and 9 of the Elections Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rafique Ahmed Mahesar",
+    "Federation of Pakistan and others",
+    "Hosh Muhammad Janveri",
+    "Federation of Pakistan and others",
+    "Masroor Hyder",
+    "Federation of Pakistan and others",
+    "Niaz Ali Buriro and others",
+    "Federation of Pakistan and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

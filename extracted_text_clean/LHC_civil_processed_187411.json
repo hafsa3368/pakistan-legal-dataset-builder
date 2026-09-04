@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Criminal Anti-Terrorism Appeals Nos",
+  "case_number": "",
   "date_of_order": "24.01.2023",
   "judge": "Naimatullah Phulpoto Mr",
   "sections_cited": [
@@ -27,7 +27,11 @@
     "2014 SCMR 749",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Ayub Khan",
+    "The State",
+    "Waliullah @ Nadeem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

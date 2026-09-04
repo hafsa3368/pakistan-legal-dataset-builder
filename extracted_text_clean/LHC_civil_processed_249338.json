@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.2941 of 2024",
   "date_of_order": "10.03.2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "section 489-F",
     "section 497",
@@ -19,7 +19,13 @@
     "2016 SCMR 2064",
     "2020 SCMR 2064"
   ],
-  "parties": [],
+  "parties": [
+    "Dilshad Munawar son of Munawar Hussain Butt",
+    "Ms. Seema Zaidi",
+    "Mr. Abdul Hafeez Sandhu",
+    "Mr. Akhtar Haleem Kalwar",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. S-28 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "13-03-2023",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahid Ahmed Shaikh",
+    "The State",
+    "Mr. Shafi Muhammad Mahar",
+    "Nizamuddin Soomro",
+    "Mr. Shafi Muhammad Mahar",
+    "The State",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

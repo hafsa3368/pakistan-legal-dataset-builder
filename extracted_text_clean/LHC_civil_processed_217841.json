@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Jail Appeal.No.S-31 of 2022",
   "date_of_order": "02.08.2024",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 25 of Sindh Arms Act",
     "Section 382-B Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tameer Shah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

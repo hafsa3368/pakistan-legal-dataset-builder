@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No. S-132 of 2023",
-  "date_of_order": "",
+  "date_of_order": "02.02.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hasnain Shah",
+    "Mst. Zeenat Shah & others",
+    "Mr. Khan Muhammad Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Revision Application No.S-123 of 2021",
-  "date_of_order": "",
-  "judge": "Nasim /PA",
+  "date_of_order": "13-03-2023",
+  "judge": "",
   "sections_cited": [
     "Section 540 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem Bandhani",
+    "Muhammad Ishfaque"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

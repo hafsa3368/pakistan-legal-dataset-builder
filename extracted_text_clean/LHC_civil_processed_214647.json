@@ -8,8 +8,11 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "15.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 977",
     "2021 SCMR 185",
@@ -17,7 +20,10 @@
     "2020 SCMR 2041",
     "2020 SCMR 2068"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Hameed Bhutto",
+    "Vice Chancellor, Shaheed Muhtarama Benazir Bhutto medical University, Larkana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
