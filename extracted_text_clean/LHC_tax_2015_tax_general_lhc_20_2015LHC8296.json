@@ -30,7 +30,11 @@
     "PLD 1970 SC 439",
     "PLD 1998 SC 64"
   ],
-  "parties": [],
+  "parties": [
+    "Haider Industries",
+    "Federation of Pakistan",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

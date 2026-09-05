@@ -6,15 +6,26 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. App. No. D",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "07-07-2022",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 491",
     "section 491 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bakhshan Khan Mahar",
+    "Mr. Shafi Muhammad Mahar",
+    "Mumtaz Ali Jessar",
+    "Abdul Hameed",
+    "SHO, Police Station Muhbatdero",
+    "SSP Naushahro Feroze",
+    "Lakhmeer Sargani",
+    "Mehboob Ali Chachar",
+    "Mst. Shuaau",
+    "Incharge Darul Aman Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

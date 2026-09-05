@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No. S-123 of 2019",
   "date_of_order": "21.09.2023",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "section 302, 353, 148 & 149",
     "section 302",
@@ -21,7 +21,14 @@
     "sections 302, 353, 399, 402, 148 & 149"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Mujahid alias Bajo",
+    "Makhno",
+    "Shahzado",
+    "Raheem Bakhsh",
+    "PC Sadruddin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

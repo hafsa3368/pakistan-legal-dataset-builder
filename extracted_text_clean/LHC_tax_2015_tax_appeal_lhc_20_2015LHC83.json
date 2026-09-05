@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "08.1.2015",
-  "judge": "JUDGE Rizwan",
+  "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
     "Section 133 of the Income Tax Ordinance",
     "section 124 of the Income Tax Ordinance",
@@ -26,7 +26,13 @@
     "PLD 1996 SC 182",
     "PLD 1994 SC 894"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue",
+    "M/s Azgard Nine Limited",
+    "Mr. Shahbaz Butt",
+    "Abid Aziz Sheikh",
+    "Nafees Cotton Mills Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

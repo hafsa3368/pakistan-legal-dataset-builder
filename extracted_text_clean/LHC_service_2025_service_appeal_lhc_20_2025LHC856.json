@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Civil Appeal No.1276 of 2019",
   "date_of_order": "21.02.2025",
-  "judge": "",
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
   "sections_cited": [
     "Section 22 of the Limitation Act",
     "section 22 of the Act"
@@ -19,7 +19,12 @@
     "2016 SCMR 1784",
     "1983 SCMR 57"
   ],
-  "parties": [],
+  "parties": [
+    "Mazhar Gilani",
+    "The Registrar, Lahore High Court, Lahore & others",
+    "Hafiz Tariq Nasim",
+    "Mr. Zubda Tul Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

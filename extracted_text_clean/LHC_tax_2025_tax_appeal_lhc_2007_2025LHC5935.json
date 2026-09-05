@@ -6,12 +6,21 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "criminal proceedings has no determinative",
+  "case_number": "",
   "date_of_order": "08.09.2025",
   "judge": "ANWAAR HUSSAIN",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Raaziq International (Pvt) Ltd.",
+    "Multan Export Company",
+    "Mr. Shakeel Javaid Chaudhry",
+    "Malik Tariq Saeed",
+    "Anwaar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

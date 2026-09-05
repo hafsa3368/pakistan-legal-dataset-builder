@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 33,
-  "case_number": "misconstruction then show cause notice",
+  "case_number": "",
   "date_of_order": "17-05-2017",
   "judge": "Tariq Saleem Sheikh",
   "sections_cited": [
@@ -31,7 +31,13 @@
     "2007 SCMR 1736",
     "2001 SCMR 1376"
   ],
-  "parties": [],
+  "parties": [
+    "WAK Limited",
+    "Customs, Excise and Sales Tax Appellate Tribunal and others",
+    "Mr. Ali Sibtain Fazli",
+    "Ms. Kausar Parveen",
+    "Tariq Saleem Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

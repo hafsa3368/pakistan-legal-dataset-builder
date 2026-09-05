@@ -9,9 +9,16 @@
   "case_number": "Criminal Revision Application No.185 of 2024",
   "date_of_order": "21.10.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Mazhar Hussain Gillani",
+    "Mst. Shagufta Rizwan and another",
+    "Mr. Zahoor Ahmed Chadhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Civil Aviation Authority and another",
+  "case_number": "",
   "date_of_order": "16.09.2022",
-  "judge": "",
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
   "sections_cited": [
     "Section 12 of the Punjab Civil Servants Act",
     "Section 12",
@@ -26,7 +26,10 @@
     "2015 SCMR 77",
     "2021 SCMR 962"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Anwar Ali",
+    "Lahore High Court, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

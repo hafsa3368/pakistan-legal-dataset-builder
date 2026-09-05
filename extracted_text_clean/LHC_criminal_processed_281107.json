@@ -8,10 +8,21 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Appln. No. S-468 of 2025",
   "date_of_order": "08-09-2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Shamusuddin Abbasi",
+  "sections_cited": [
+    "U/s 302, 324, 34"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zulfiqar @ Kashif",
+    "Zubair @ Zubair Ahmed",
+    "Shahbaz",
+    "The State",
+    "Ashique Ali Dayo",
+    "The State",
+    "Altaf",
+    "Mst. Akhtiar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

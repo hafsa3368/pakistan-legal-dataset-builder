@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Criminal Appeal No.D-05 of 2025",
   "date_of_order": "12.08.2025",
-  "judge": "JUDGE",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 9",
     "Section 382-B of the Code",
@@ -35,7 +35,10 @@
     "2023 YLR 276",
     "2025 SCMR 1344"
   ],
-  "parties": [],
+  "parties": [
+    "Shafi Muhammad S/o Muhammad Ameen Dool",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

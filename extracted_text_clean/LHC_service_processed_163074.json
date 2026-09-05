@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "29.03.2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Agha Waqar Ahmed",
+    "Mr. Ashfaque Nabi Kazi",
+    "Syed Shahzad Ali Shah",
+    "Faiz ur Rehman",
+    "AEFO/KOT",
+    "Mubashir Divisional Personal Officer Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

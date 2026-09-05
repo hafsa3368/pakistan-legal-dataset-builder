@@ -6,14 +6,18 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitution---Any procedure which was not",
+  "case_number": "",
   "date_of_order": "7th April, 2021",
-  "judge": "",
+  "judge": "Ghulam Yasin Bhatti",
   "sections_cited": [
     "Section 3 of the Law Reforms Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Yasin Bhatti",
+    "Federation of Pakistan, Ministry of Law and Justice, Parliamentary Affairs and Human Rights, Islamabad",
+    "Federation of Pakistan, Ministry of Law and Justice, Parliamentary Affairs and Human Rights, Islamabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,8 +8,16 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "25.04.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
+  "sections_cited": [
+    "Usman Ali Chhachhar v. Moula Bux Chachhar and others (2019 SCMR 2043)",
+    "Muhammad Amin Muhammad Bashir Limited v. Government of Pakistan through Secretary Ministry of Finance, Central Secretariat, Islamabad and others (2015 SCMR 630)",
+    "Abid Hassan and others v. P.I.A.C. and others (2005 SCMR 25)",
+    "Chairman, Regional Transport Authority, Rawalpindi v. Pakistan Mutual Insurance Company Limited, Rawalpindi (PLD 1991 Supreme Court 14)",
+    "Pakistan Medical and Dental Council through Authorized Representative v. Muhammad Junaid Alam and others (PLD 2019 Lahore 234)",
+    "Ameer Afzal etc. v. Govt. of Punjab (NLR Muhammad Junaid Alam and others (PLD 2019 Lahore 234)",
+    "Ameer Afzal etc. v. Govt. of Punjab (NLR 2"
+  ],
   "citations": [
     "2019 SCMR 2043",
     "2015 SCMR 630",
@@ -17,7 +25,10 @@
     "2008 SCMR 214",
     "PLD 2019 Lahore 234"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Faizan e Rasool",
+    "The Lahore High Court, Lahore through its Registrar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

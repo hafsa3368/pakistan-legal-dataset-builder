@@ -8,10 +8,15 @@
   "num_chunks": 5,
   "case_number": "CIVIL PETITION NO.2892 OF 2020",
   "date_of_order": "13.12.2021",
-  "judge": "Judge Judge",
-  "sections_cited": [],
+  "judge": "Muhammad Ali Mazhar",
+  "sections_cited": [
+    "u/s 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The Chairman Agriculture Policy Institute, Ministry of National Food Security & Research, Government of Pakistan, Islamabad and another",
+    "Zulqarnain Ali and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

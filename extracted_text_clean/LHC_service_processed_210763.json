@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No. D-131 of 2024",
-  "date_of_order": "",
+  "date_of_order": "21-02-2024",
   "judge": "",
   "sections_cited": [],
   "citations": [
     "2021 SCMR 977"
   ],
-  "parties": [],
+  "parties": [
+    "Amjad Ali Buriro and others",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

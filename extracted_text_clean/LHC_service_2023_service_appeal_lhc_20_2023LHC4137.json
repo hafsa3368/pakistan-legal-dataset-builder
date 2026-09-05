@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "civil servant to judge his suitability must not",
+  "case_number": "",
   "date_of_order": "22.06.2023",
-  "judge": "",
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
   "sections_cited": [
     "section 12 of the Punjab Civil Servants Act",
     "Section 12",
@@ -33,7 +33,10 @@
     "2021 SCMR 800",
     "PLD 1987 SC 304"
   ],
-  "parties": [],
+  "parties": [
+    "Mian Shahid Mehmood-II",
+    "The Registrar, Lahore High Court, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

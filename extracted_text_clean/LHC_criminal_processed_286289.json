@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "CRIMINAL APPEAL No.S-180 of 2024",
   "date_of_order": "14.10.2025",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "sections 377, 367-A",
     "section 367-",
@@ -22,7 +22,13 @@
     "2003 SCMR 663",
     "1995 SCMR 5"
   ],
-  "parties": [],
+  "parties": [
+    "Gul Hassan alias Gul s/o Karam Ali Shar",
+    "The State",
+    "Pehlwan Meghwar",
+    "Kelash",
+    "Hawks Oriental Public School"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Revision Application No.S-70 of 2024",
   "date_of_order": "09.12.2025",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 3, 4, 5, 7"
   ],
@@ -17,7 +17,12 @@
     "PLD 2007 Lahore 231",
     "PLD 2010 SC 661"
   ],
-  "parties": [],
+  "parties": [
+    "Benjamin",
+    "Yousif",
+    "Ghulam Mustafa",
+    "9 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "13.11.2014",
-  "judge": "Rizwan/Riaz Ahmad",
+  "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
     "Section 50 of the Income Tax Ordinance",
     "Section 50 of Ordinance",
@@ -26,7 +26,10 @@
     "1992 SCMR 1652",
     "PLD 1990 SC 68"
   ],
-  "parties": [],
+  "parties": [
+    "Ihsan Yousaf Textiles (Pvt) Limited",
+    "The Commissioner of Income Tax"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

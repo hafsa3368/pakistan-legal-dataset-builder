@@ -9,9 +9,18 @@
   "case_number": "W.P. No. 7848",
   "date_of_order": "08.12.2025",
   "judge": "Abid Hussain Chattha",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jawad Gulraiz Khan",
+    "Additional District Judge, Multan",
+    "Multan Electric Power Company Limited",
+    "Multan",
+    "WAPDA Employees Cooperative Housing Society Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

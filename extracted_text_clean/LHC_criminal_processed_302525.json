@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Jail Appeal No.D-34 of 2020",
   "date_of_order": "07-10-2025",
-  "judge": "JUDGE",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 302, 324, 337-F",
     "Section 544-A",
@@ -26,7 +26,12 @@
     "2003 YLR 1607",
     "PLD 2006 SC 153"
   ],
-  "parties": [],
+  "parties": [
+    "Imdad son of Attur Junejo",
+    "Saeed @ Shoukat son of Photo @ Rasool Bux Junejo through Mr. Rukhsar Ahmed Junejo, Advocate",
+    "The State: through Mr. Aitbar Ali Bullo, Deputy Prosecutor General, Sindh",
+    "Gullan son of Dilawar Junjo through Mr.Habibullah G. Ghouri, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

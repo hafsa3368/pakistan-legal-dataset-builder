@@ -8,7 +8,7 @@
   "num_chunks": 23,
   "case_number": "Criminal Appeal No.S-69 of 2024",
   "date_of_order": "20.11.2025",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi,",
   "sections_cited": [
     "Section 302",
     "Section 544-",
@@ -35,7 +35,19 @@
     "2017 SCMR 486",
     "2008 SCMR 6"
   ],
-  "parties": [],
+  "parties": [
+    "Khushhal son of Ratno",
+    "The State",
+    "Partab son of Ratno",
+    "Arbab son of Bachoo",
+    "Ghulam Hussain",
+    "Muhammad Salah",
+    "Dilbar",
+    "Sher Khan",
+    "Dr. Muhammad Ali",
+    "Arif Ali (Tapedar)",
+    "Fazal H"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

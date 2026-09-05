@@ -8,7 +8,7 @@
   "num_chunks": 21,
   "case_number": "Criminal Appeal No.S-122 of 2024",
   "date_of_order": "12.11.2025",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi,",
   "sections_cited": [
     "Section 302, 201 and 34",
     "Section 302",
@@ -29,7 +29,11 @@
     "2022 SCMR 1328",
     "2022 SCMR 1187"
   ],
-  "parties": [],
+  "parties": [
+    "Ganesh son of Ajeeto Mengwar",
+    "The State through Mr. Shahzado Saleem Nahiyoon",
+    "Amulakh Menghwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

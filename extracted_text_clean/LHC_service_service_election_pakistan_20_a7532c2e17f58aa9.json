@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "CIVIL PETITION NO.3455 OF 2020",
   "date_of_order": "01.12.2021",
-  "judge": "",
+  "judge": "Muhammad Ali Mazhar,",
   "sections_cited": [
     "Section 51 of the Capital Development Authority Ordinance",
     "Section 37",
@@ -22,7 +22,12 @@
     "2015 SCMR 338",
     "2015 SCMR 630"
   ],
-  "parties": [],
+  "parties": [
+    "Capital Development Authority through its Chairman, Islamabad",
+    "Shabir Hussain and others",
+    "Hafiz Arfat Ahmad, ASC Raja Abdul Ghafoor, AOR",
+    "N.R"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

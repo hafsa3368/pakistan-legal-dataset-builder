@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 21,
-  "case_number": "CIVIL PETITION Nos",
+  "case_number": "",
   "date_of_order": "07.03.2024",
   "judge": "Qazi Faez Isa",
   "sections_cited": [
@@ -23,7 +23,12 @@
     "2023 SCMR 129",
     "2022 SCMR 201"
   ],
-  "parties": [],
+  "parties": [
+    "Ayaz and others",
+    "The Province of Sindh through its Secretary Forest & Wildlife Department, Government of Sindh and others",
+    "Abdul Aziz",
+    "Mustafa Saeed and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 20,
   "case_number": "Criminal Jail Appeal No. D-33 of 2021",
   "date_of_order": "24.09.2025",
-  "judge": "JUDGE",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 302, 148, 149, 337-H",
     "Section 544-A",
@@ -34,7 +34,11 @@
     "2025 YLR 233",
     "2025 SCMR 888"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Mustafa son of Ghulam Sarwar Kori",
+    "The State",
+    "Mst. Ghulam Sakina D/o Wahid Bux w/o Nabi Bux Kori"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

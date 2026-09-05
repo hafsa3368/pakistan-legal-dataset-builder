@@ -8,14 +8,22 @@
   "num_chunks": 5,
   "case_number": "Civil Appeal No.2364 of 2016",
   "date_of_order": "24.04.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 962",
     "2007 SCMR 1769",
     "1996 SCMR 850"
   ],
-  "parties": [],
+  "parties": [
+    "Nazir Ahmed Langah",
+    "Lahore High Court",
+    "Zawar Ahmad Sheikh",
+    "Muhammad Sajid Mehmood Sethi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

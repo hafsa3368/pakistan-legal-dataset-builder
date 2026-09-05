@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 20,
-  "case_number": "construed together and not",
+  "case_number": "",
   "date_of_order": "07.01.2013",
   "judge": "SHAHID KARIM",
   "sections_cited": [
@@ -25,7 +25,10 @@
     "2021 SCMR 1453",
     "1994 SCMR 2213"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue",
+    "M/s Prime Commercial Bank Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

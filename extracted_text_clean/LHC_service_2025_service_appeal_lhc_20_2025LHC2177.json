@@ -8,15 +8,21 @@
   "num_chunks": 9,
   "case_number": "Crl. Appeal No.764 of 1993",
   "date_of_order": "14.03.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2010 SCMR 1554",
     "2015 SCMR 1472",
     "2021 SCMR 328",
     "2024 SCMR 1689"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Syed Ali Sana Bokhari",
+    "Chief Justice and Judges of the Lahore High Court / Authority through the Registrar, Lahore High Court, Lahore",
+    "Mr. Zubda-tul-Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

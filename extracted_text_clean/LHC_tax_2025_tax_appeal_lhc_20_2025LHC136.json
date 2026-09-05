@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitution. This power is exercised not",
+  "case_number": "",
   "date_of_order": "27.01.2025",
   "judge": "SULTAN TANVIR AHMAD",
   "sections_cited": [
@@ -22,7 +22,10 @@
     "2015 SCMR 1739",
     "2013 SCMR 1337"
   ],
-  "parties": [],
+  "parties": [
+    "Attock Refinery Limited",
+    "Federation of Pakistan etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

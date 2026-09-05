@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail No.S-452 of 2023",
   "date_of_order": "02.10.2023",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 337-A"
   ],
@@ -17,7 +17,12 @@
     "2019 MLD 125",
     "2018 YLR 2501"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yousif son of Allah Bux Brohi",
+    "Ali Gul son of Ali Anwar Brohi",
+    "Ahmed Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

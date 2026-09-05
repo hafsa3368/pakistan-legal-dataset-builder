@@ -8,13 +8,22 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Appln. No. S-209 of 2024",
   "date_of_order": "20-05-2024",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI,",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Section 399"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahmore son of Ali Bux Khoso",
+    "Muhammad Ramzan Malik s/o Buxio Khan Malik",
+    "The State",
+    "Azad",
+    "Javed",
+    "Mukhtiar",
+    "A.S.I. Shah Muhammad",
+    "Deputy Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

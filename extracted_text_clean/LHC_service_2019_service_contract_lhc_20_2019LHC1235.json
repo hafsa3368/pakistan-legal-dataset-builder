@@ -9,7 +9,10 @@
   "case_number": "W.P. No.256/2019",
   "date_of_order": "16.04.2019",
   "judge": "Riaz Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 1405",
     "2019 MLD 87",
@@ -21,7 +24,10 @@
     "PLD 2010 SC 759",
     "PLD 2003 SC 420"
   ],
-  "parties": [],
+  "parties": [
+    "Aatif Mehmood",
+    "Govt. of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

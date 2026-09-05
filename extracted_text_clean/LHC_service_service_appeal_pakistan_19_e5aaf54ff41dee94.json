@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 52,
-  "case_number": "Constitution shall not",
+  "case_number": "",
   "date_of_order": "30.05.2025",
   "judge": "William Douglas",
   "sections_cited": [
@@ -38,7 +38,12 @@
     "PLD 1988 SC 202",
     "PLD 2001 SC 607"
   ],
-  "parties": [],
+  "parties": [
+    "Shuhada Forum",
+    "Balochistan and others",
+    "Justice (R) Jawwad S. Khawaja and others",
+    "Indian Army"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

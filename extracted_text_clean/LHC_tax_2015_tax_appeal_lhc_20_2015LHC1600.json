@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 20,
-  "case_number": "civil standard was not",
+  "case_number": "",
   "date_of_order": "12.03.2015",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -24,7 +24,10 @@
   "citations": [
     "2014 SCMR 907"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue",
+    "M/s Tariq Poly Pack (Pvt) Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 20,
   "case_number": "Constitutional petition No.17862/2002",
   "date_of_order": "23.02.2015",
-  "judge": "JUDGE",
+  "judge": "SHAHID KARIM",
   "sections_cited": [
     "section 196 of the Customs Act",
     "section 25 of the Customs Act",
@@ -29,7 +29,14 @@
     "PLD 1988 Lahore 313",
     "PLD 1988 Lahore 32"
   ],
-  "parties": [],
+  "parties": [
+    "Lahore Feeds Limited",
+    "Olympia Feeds Limited",
+    "Punjab Feeds Limited",
+    "Customs",
+    "Sales Tax & Central Excise Appellate Tribunal",
+    "Collector of Customs, Sales Tax and Central Excise Adjudication (Appeals), Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

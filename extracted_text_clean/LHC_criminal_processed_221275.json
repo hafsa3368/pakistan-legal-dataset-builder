@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 1724 of 2024",
   "date_of_order": "21.10.2024",
-  "judge": "",
+  "judge": "Mallag Assa Dashti",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muneeb Alam Hashmi",
+    "The State",
+    "Syed Arif Riaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

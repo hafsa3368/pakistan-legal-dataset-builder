@@ -8,8 +8,11 @@
   "num_chunks": 5,
   "case_number": "CIVIL APPEAL NO.465 OF 2021",
   "date_of_order": "28.09.2021",
-  "judge": "Judge Judge Islamabad",
-  "sections_cited": [],
+  "judge": "Muhammad Ali Mazhar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 859",
     "2017 SCMR 890"

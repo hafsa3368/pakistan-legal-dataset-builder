@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "construction applies. Tax cannot",
+  "case_number": "",
   "date_of_order": "10.10.2025",
   "judge": "MALIK JAVID IQBAL WAINS",
   "sections_cited": [
@@ -22,7 +22,22 @@
     "section 38"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Finca Microfinance Bank Limited",
+    "The Commissioner (Enforcement) PRA, Lahore",
+    "The Punjab Revenue Authority",
+    "M/s. Naveed A. Andrabi",
+    "Shahbaz Butt",
+    "Khurram Shahbaz Butt",
+    "Muhammad Bilal Pervaiz",
+    "Rai Amir Ijaz Kharal",
+    "Ghualm Abkar Khosa",
+    "Rashid Khan",
+    "M/s Sardar Qasim Hassan Khan",
+    "Shahzad Ahmad Cheema",
+    "Waqas Ahmad Mir",
+    "Saif Ullah Khalid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

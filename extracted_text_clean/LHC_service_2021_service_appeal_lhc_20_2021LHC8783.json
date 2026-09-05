@@ -8,10 +8,17 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "10.12.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sher Hassan Pervez",
+    "The Registrar, Lahore High Court, Lahore",
+    "another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

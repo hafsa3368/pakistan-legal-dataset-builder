@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "constituted by the Chief Minister by notification",
+  "case_number": "",
   "date_of_order": "04.3.2021",
   "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
@@ -27,7 +27,10 @@
     "PLD 2008 Lahore 405",
     "PLD 1997 SC 401"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Arif Ameen etc",
+    "The Province of Punjab etc"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

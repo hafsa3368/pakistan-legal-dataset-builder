@@ -37,7 +37,13 @@
     "PLD 1970 SC 264",
     "PLD 1975 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue, Zone-II, Lahore",
+    "Shazia Zafar",
+    "M/s. Shahzad Ahmad Cheema, Kamran Sheikh Mughal, Sohail Tariq, Liaquat Ali Chaudhary, Ch. Muhammad Yaseen Zahid, Ch. Muhammad Shakeel, Sarfraz Ahmad Cheema, Naveed Tahir, Shahid Sarwar Chahil, Sheikh Aqeel Ahmad, Barrister Ahmad Pervaiz, Barrister Ahtsham Mukhtar, Barrister Saffi-ul- Hassan, Jawad H. Tarar, Rizwan Qureshi",
+    "Naeem Khan and Muhammad Yahya Johar",
+    "M/s. Barrister Shehryar Kasuri, Imtiaz Rasheed Siddiqui, Shehryar Kasuri, Raza Imtiaz Siddiqui, Hamza Sheikh, Qadeer Ahmad Klyar, Sabeel Tariq Mann, Raza Imtiaz Siddiqui, Zahid Attique Chaudhary, Ahsan Awan, Rashid Khan, Sameer Saeed Ahmad, Asad Abbas Raza, Muhammad Usman Zia, Muhammad Ahsan Mehmood, Muhammad Imran Rashid and Qaiser Mehmood Sipra"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

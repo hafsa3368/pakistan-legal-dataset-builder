@@ -8,8 +8,12 @@
   "num_chunks": 5,
   "case_number": "W.P. No.9314/2017",
   "date_of_order": "30.10.2017",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "R. 17-A",
+    "Art. 10-A",
+    "Rule 17-A"
+  ],
   "citations": [
     "1986 SCMR 1875",
     "1997 SCMR 1552",
@@ -17,7 +21,16 @@
     "2007 SCMR 152",
     "PLD 2002 SC 667"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Ali Naqi",
+    "GOVERNMENT OF THE PUNJAB",
+    "Tahir Latif",
+    "Federation of Pakistan",
+    "Osman Ghani",
+    "Riaz ul Haq",
+    "Allem Jaffar",
+    "WAPDA through its Chairman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

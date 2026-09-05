@@ -8,14 +8,21 @@
   "num_chunks": 7,
   "case_number": "W.P.No.6241 of 2020",
   "date_of_order": "12.03.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "2019 SCMR 124",
     "2013 SCMR 363",
     "2016 SCMR 2146"
   ],
-  "parties": [],
+  "parties": [
+    "WAQAS RASOOL and others",
+    "SECRETARY SCHOOL EDUCATION and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Jail Appeal No.S",
+  "case_number": "",
   "date_of_order": "11.12.2024",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "Section 302",
     "section 544-A Cr.P.C",
@@ -16,7 +16,15 @@
     "section 345 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rehmatullah Khakhrani",
+    "Naimatullah Khakhrani",
+    "The State",
+    "Jan Muhammad",
+    "Muhammad Hashim Mirbahar",
+    "Sher Muhammad",
+    "Rukhsana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

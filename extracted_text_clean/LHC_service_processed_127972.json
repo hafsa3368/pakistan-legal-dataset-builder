@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "Crl. Anti-Terrorism Appeal No.259 of 2017",
   "date_of_order": "06.03.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 4/5 Explosive Substances Act",
     "Section 7",
@@ -24,7 +24,10 @@
     "2005 SCMR 364",
     "PLD 1997 Karachi 146"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Asif son of Noor Islam",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

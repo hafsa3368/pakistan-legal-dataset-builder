@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "Constitutional Petition is not",
+  "case_number": "",
   "date_of_order": "27.01.2022",
   "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
@@ -23,7 +23,11 @@
     "PLD 2005 SC 806",
     "PLD 1966 SC 445"
   ],
-  "parties": [],
+  "parties": [
+    "United Bank Limited",
+    "Muhammad Usman Arshad",
+    "Malik Khalid Shafique"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

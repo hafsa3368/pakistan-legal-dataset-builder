@@ -6,14 +6,17 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Civil Judge-cum-Judicial Magistrate vide notification",
+  "case_number": "",
   "date_of_order": "20.06.2023",
   "judge": "Mian Farrukh",
   "sections_cited": [],
   "citations": [
     "2018 SCMR 1281"
   ],
-  "parties": [],
+  "parties": [
+    "Ch. Mehmood ul Hassan",
+    "Registrar, Lahore High Court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

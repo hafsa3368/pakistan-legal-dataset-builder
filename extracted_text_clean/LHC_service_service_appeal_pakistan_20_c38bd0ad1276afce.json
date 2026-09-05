@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Constitution Petition Nos",
+  "case_number": "",
   "date_of_order": "23.10.2023",
   "judge": "Jamal Khan Mandokhail Justice Muhammad",
   "sections_cited": [
@@ -25,7 +25,20 @@
     "PLD 2009 FSC 36",
     "PLD 2020 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Shuhada Forum, Balochistan",
+    "Justice (R) Jawwad S. Khawaja",
+    "The Province of Punjab",
+    "Federation of Pakistan",
+    "Supreme Court Bar Association of Pakistan",
+    "Karamat Ali",
+    "Zaman Khan Vardag",
+    "Aitzaz Ahsan",
+    "Junaid Razzaq",
+    "Secretary, Ministry of Law and Justice, Islamabad",
+    "Secretary, Ministry of Interior, Islamabad",
+    "Supreme Court Bar Association of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

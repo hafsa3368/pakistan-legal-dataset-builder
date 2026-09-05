@@ -8,14 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.969 of 2024",
   "date_of_order": "21.10.2024",
-  "judge": "",
+  "judge": "Qadir Hussain Khan",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [
     "1997 SCMR 971"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Amir",
+    "The State",
+    "Umair Farooq",
+    "Farman Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "24th April, 2017",
-  "judge": "",
+  "judge": "Abid Aziz Sheikh",
   "sections_cited": [
     "section 32 of the Customs Act",
     "section 32 of the Act",
@@ -18,7 +18,11 @@
     "sections 32 and 32 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "NEW SEA LINE INTERNATIONAL",
+    "FEDERATION OF PAKISTAN",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

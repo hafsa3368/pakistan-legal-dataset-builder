@@ -9,7 +9,10 @@
   "case_number": "W.P. No.26387/2021",
   "date_of_order": "21.12.2021",
   "judge": "Abid Aziz Sheikh",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR 969",
     "2015 SCMR 1006",
@@ -19,7 +22,12 @@
     "PLD 2013 Lahore 413",
     "PLD 2021 Lahore 770"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Muhammad Azeem Khan",
+    "Federation of Pakistan",
+    "Ali Raza",
+    "Malik Khalid Shafique"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -22,7 +22,10 @@
     "PLD 1995 SC 362",
     "PLD 1990 SC 497"
   ],
-  "parties": [],
+  "parties": [
+    "Sardar Ali Muhammad Khan",
+    "Muhammad Ayyub"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

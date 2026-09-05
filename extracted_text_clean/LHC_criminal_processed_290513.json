@@ -7,9 +7,12 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Criminal Misc. Application No.S-92 of 2025",
-  "date_of_order": "",
+  "date_of_order": "29-10-2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
   "parties": [
     "Muhammad Ibrahim "

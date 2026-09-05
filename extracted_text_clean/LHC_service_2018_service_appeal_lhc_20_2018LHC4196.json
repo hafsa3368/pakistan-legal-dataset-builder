@@ -6,15 +6,20 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "constrained to observe that this is case of no evidence",
+  "case_number": "",
   "date_of_order": "20.06.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
+  "sections_cited": [
+    "Article 189 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "2013 SCMR 752",
     "2021 SCMR 962"
   ],
-  "parties": [],
+  "parties": [
+    "Jameel Ahmed Khokhar",
+    "The Registrar, Lahore High Court, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

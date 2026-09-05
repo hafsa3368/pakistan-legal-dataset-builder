@@ -8,13 +8,28 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Appln. No. S-196 of 2024",
   "date_of_order": "13-05-2024",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Section 324 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Amanullah s/o Haji Allahyar Nindwani",
+    "Hassan Ali s/o Amanullah Nindwani",
+    "Javed s/o yar Ali",
+    "Imran s/o yar Ali",
+    "Parvez s/o Hamal",
+    "Abdul Waheed s/o Hamal",
+    "Zahid s/o Ahmedan",
+    "Feroz s/o Ahmedan",
+    "Mashghool s/o Ahmedan",
+    "Hamal s/o yar Ali",
+    "Subo s/o yar Ali",
+    "Imamdin s/o Haji Hassan",
+    "Pahardin s/o Imamdin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

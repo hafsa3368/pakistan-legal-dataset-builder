@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Misc. Application No.176 of 2025",
   "date_of_order": "12.05.2025",
-  "judge": "Naeem /PA",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 3",
     "Section 8",
@@ -25,7 +25,22 @@
     "2016 SCMR 193",
     "2006 SCMR 1192"
   ],
-  "parties": [],
+  "parties": [
+    "Hashim Muhammad Shamim",
+    "Abdul Rahman",
+    "Zafar",
+    "Zubair Ahmed Khan",
+    "Rohan",
+    "Abdul Rafay",
+    "Muhammad Arshad Khan",
+    "Shahid Hameed",
+    "Maymar Housing Services (Pvt) Limited",
+    "Abdul Samee",
+    "Abdul Samee",
+    "Abdul Samee",
+    "MDA",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

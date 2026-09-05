@@ -8,14 +8,22 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "25.04.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 962",
     "2015 SCMR 77",
     "2021 SCMR 1230"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Anayet Gondal",
+    "The Registrar, Lahore High Court, Lahore",
+    "Mian Tariq Hussain",
+    "Mr. Zawar Ahmad Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

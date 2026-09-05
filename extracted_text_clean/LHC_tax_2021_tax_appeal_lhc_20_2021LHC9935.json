@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "25.02.2021",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 127 of the Income Tax Ordinance",
     "Section 161",
@@ -17,7 +17,11 @@
     "section 127 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "ASHIQ AL CHAUDHARY",
+    "FEDERAL BOARD OF REVENUE",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "misconstruction any tax or charge has not",
+  "case_number": "",
   "date_of_order": "21.09.2022",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -24,7 +24,10 @@
   "citations": [
     "2016 SCMR 816"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue, Zone-I, Regional Tax Office, Faisalabad",
+    "M/s. Ahmad Straw Board Private Limited, Faisalabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

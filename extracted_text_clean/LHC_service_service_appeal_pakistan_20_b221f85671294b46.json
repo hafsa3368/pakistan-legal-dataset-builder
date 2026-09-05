@@ -8,8 +8,19 @@
   "num_chunks": 10,
   "case_number": "CIVIL PETITION NO. 1066 OF 2022",
   "date_of_order": "24.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Ali Mazhar",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Section 9(1) of the Ordinance",
+    "Section 11 of the Ordinance",
+    "Section 9(2) of the Ordinance",
+    "Section 4 of the Ordinance",
+    "Section 11 of the Ordinance",
+    "Section 9(1) of the Ordinance",
+    "Section 11 of the Ordinance",
+    "Section 4 of the Ordinance"
+  ],
   "citations": [],
   "parties": [
     "Rahimullah Khan"

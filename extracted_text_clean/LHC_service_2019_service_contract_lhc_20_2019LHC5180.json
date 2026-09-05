@@ -6,10 +6,13 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitution---No ground",
+  "case_number": "",
   "date_of_order": "20.02.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abid Aziz Sheikh",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2003 SCMR 291",
     "2015 SCMR 1257",
@@ -18,7 +21,10 @@
     "1999 SCMR 2883",
     "PLD 1995 SC 423"
   ],
-  "parties": [],
+  "parties": [
+    "BOARD OF INTERMEDIATE AND SECONDARY EDUCATION, SAHIWAL and another",
+    "AKHTAR USMAN and 2 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

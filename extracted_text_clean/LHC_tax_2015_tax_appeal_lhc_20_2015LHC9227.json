@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "23rd January, 2015",
-  "judge": "",
+  "judge": "Abid Aziz Sheikh",
   "sections_cited": [
     "section 62 of the Income Tax Ordinance",
     "Section 61 of the Income Tax Ordinance",
@@ -24,7 +24,10 @@
     "PLD 1967 SC 62",
     "PLD 1971 SC 124"
   ],
-  "parties": [],
+  "parties": [
+    "ENGLISH SHOES (PVT.) LTD.",
+    "The COMMISSIONER OF INCOME TAX/WEALTH TAX P.T.R."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

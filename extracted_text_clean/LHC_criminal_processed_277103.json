@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Appln. No. S-43 of 2024",
   "date_of_order": "02-05-2024",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI,",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "section 337-N"
@@ -18,7 +18,13 @@
     "2020 SCMR 956",
     "2012 SCMR 887"
   ],
-  "parties": [],
+  "parties": [
+    "Dawood son of Muhammad Yaqoob Gaincho",
+    "Dildar son of Muhammad Yaqoob Gaincho",
+    "The State",
+    "Patasho Gaincho",
+    "Amanullah Luhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

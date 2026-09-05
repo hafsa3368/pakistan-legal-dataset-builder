@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Bail Application No.D-34 of 2025",
   "date_of_order": "09.01.2025",
-  "judge": "JUDGE",
+  "judge": "Ali Haider 'Ada'",
   "sections_cited": [
     "Sections 302, 324, 353, 148, 149, 427",
     "Sections 6/7"
@@ -19,7 +19,15 @@
     "2015 SCMR 655",
     "2020 YLR Note 29"
   ],
-  "parties": [],
+  "parties": [
+    "Asghar",
+    "The State",
+    "Manzoor Ahmed",
+    "Muhammad Ali Napar",
+    "Riaz Hussain Khoso",
+    "Mehboob Ahmed",
+    "Ali Anwar Kandhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "CIVIL APPEAL NO.570 OF 2011",
   "date_of_order": "04.02.2020",
-  "judge": "",
+  "judge": "Yahya Afridi",
   "sections_cited": [
     "section 79 of the Customs Act",
     "Section 79 of the Act",
@@ -19,7 +19,10 @@
     "2018 SCMR 802",
     "PLD 1997 SC 582"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan through Chairman FBR",
+    "Saleem Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

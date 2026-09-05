@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Miscellaneous Application No.S-224 of 2025",
-  "date_of_order": "",
+  "date_of_order": "28.10.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Dhani Bakhsh Mari",
+    "ASI PS Sarhari",
+    "Saddam Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

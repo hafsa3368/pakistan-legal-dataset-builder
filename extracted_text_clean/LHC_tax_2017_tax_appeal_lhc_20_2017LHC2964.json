@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 30,
-  "case_number": "constituted their stock-in-trade and did not",
+  "case_number": "",
   "date_of_order": "27.04.2017",
   "judge": "TARIQ SALEEM SHEIKH",
   "sections_cited": [
@@ -26,7 +26,14 @@
     "PLD 2007 SC 517",
     "PLD 1967 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Coca-Cola Beverages Pakistan Limited",
+    "The Customs, Excise & Sales Tax Appellate Tribunal, etc.",
+    "Mr. Jahanzeb Inam",
+    "Mr. Sarfraz Ahmad Cheema",
+    "Dr. Ishtiaq Ahmad Khan",
+    "FBR"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,15 @@
   "case_number": "CIVIL APPEAL NO.894 OF 2015",
   "date_of_order": "24.04.2015",
   "judge": "Munib Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Secretary Finance, Government of Khyber Pakhtunkhwa, Peshawar",
+    "Syed Jehangir Shah and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

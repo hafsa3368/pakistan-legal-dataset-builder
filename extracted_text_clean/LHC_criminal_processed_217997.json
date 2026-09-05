@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Anti-Terrorism Jail Appeals No. 119",
   "date_of_order": "06.08.2024",
-  "judge": "JUDGE Nadir/PA",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 21-M",
     "Section 382",
@@ -20,7 +20,21 @@
     "2016 SCMR 2021",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Rasheed",
+    "Shaman",
+    "The State",
+    "Muhammad Rasheed",
+    "Shaman",
+    "The State",
+    "HC Muhammad Aslam",
+    "PC Aijaz",
+    "The State",
+    "Muhammad Rasheed",
+    "Shaman",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

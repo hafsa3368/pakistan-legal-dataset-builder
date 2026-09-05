@@ -21,7 +21,11 @@
     "PLD 1960 SC 60",
     "PLD 2004 Lhr 47"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Salma Muazzam",
+    "Lahore Development Authority",
+    "Government"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

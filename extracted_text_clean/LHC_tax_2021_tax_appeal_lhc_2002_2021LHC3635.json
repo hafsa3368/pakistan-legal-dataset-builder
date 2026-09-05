@@ -31,7 +31,12 @@
     "PLD 1984 LHR 450",
     "PLD 1999 SC 937"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman",
+    "The State",
+    "Muhammad Shafqat",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

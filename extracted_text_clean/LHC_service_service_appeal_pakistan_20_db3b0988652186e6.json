@@ -9,13 +9,19 @@
   "case_number": "Civil Appeals No.836-L",
   "date_of_order": "14.11.2023",
   "judge": "Syed Mansoor Ali Shah Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2023 SCMR 803",
     "2016 SCMR 1430",
     "2006 SCMR 63"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Shahida Siddiqa",
+    "Allied Bank Limited through its President, etc"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

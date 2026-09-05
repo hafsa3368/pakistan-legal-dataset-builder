@@ -8,15 +8,21 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "22.06.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1997 SCMR 1749",
     "1997 SCMR 1303",
     "2009 SCMR 259",
     "2023 SCMR 877"
   ],
-  "parties": [],
+  "parties": [
+    "S.M. Iqtidar-ul-Hassan Bukhari",
+    "Lahore High Court, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

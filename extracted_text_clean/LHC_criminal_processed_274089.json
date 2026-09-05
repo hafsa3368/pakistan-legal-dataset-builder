@@ -8,7 +8,7 @@
   "num_chunks": 18,
   "case_number": "Criminal Appeal No.D-39 of 2024",
   "date_of_order": "25.03.2025",
-  "judge": "JUDGE Naeem/PA",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 9",
     "Section 9",
@@ -30,7 +30,10 @@
     "1995 SCMR 1627",
     "PLD 1997 SC 408"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

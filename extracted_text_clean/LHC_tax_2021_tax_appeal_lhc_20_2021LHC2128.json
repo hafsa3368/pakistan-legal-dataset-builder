@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "constitutional petition challenging notice",
+  "case_number": "",
   "date_of_order": "15.06.2021",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -22,7 +22,17 @@
     "Sections 38 & 40"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Hassan",
+    "Federation of Pakistan through Ministry of Finance, Islamabad",
+    "M/s Ali Sibtain Fazli",
+    "Hasham Ahmad",
+    "Muhammad Umer Tariq Gill",
+    "Barrister Ameer Abbas Ali Khan",
+    "Ch. Imtiaz Elahi",
+    "Mr. Ahmad Zia Ch.",
+    "MUHAMMAD SAJID MEHMOOD SETHI"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Civil Appeals Nos",
+  "case_number": "",
   "date_of_order": "19.11.2011",
-  "judge": "",
+  "judge": "Nisar Ahmed Bhanbhro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed Bhanbhro",
+    "Mr. Noor Hassan Malik",
+    "Ahmed Bux Qasmi",
+    "Regional Director (Colleges), Sukkur Region, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

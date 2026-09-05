@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "civil court. In addition to the pronouncement",
+  "case_number": "",
   "date_of_order": "24.05.2021",
   "judge": "ANWAAR HUSSAIN",
   "sections_cited": [
@@ -16,7 +16,16 @@
     "2007 SCMR 54",
     "2015 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "Hamid Hayat",
+    "D.G. Excise and Taxation etc.",
+    "Mr. Asif Afzal Bhatti",
+    "Rana Saifullah",
+    "Inspector Excise",
+    "Hafizabad",
+    "Ch. Irshad Ullah Chatha",
+    "Additional Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -34,7 +34,11 @@
     "2025 SCMR 751",
     "2025 SCMR 704"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "name": "Muhammad Ismail s/o Meer Khan @ Kuri Mazari"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

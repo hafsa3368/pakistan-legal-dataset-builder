@@ -6,12 +6,25 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "civil servant even then she could not",
+  "case_number": "",
   "date_of_order": "31.03.2022",
   "judge": "Muhammad Shafi Siddiqui Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Irshad Ali Shah",
+    "The Petitioner",
+    "The Respondents",
+    "The Municipal Corporation Hyderabad",
+    "The Late Employee",
+    "The Widow",
+    "The Sons",
+    "The Daughters"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

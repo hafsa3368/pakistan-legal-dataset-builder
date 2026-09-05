@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Appeal No.D-22 of 2024",
   "date_of_order": "03.11.2025",
-  "judge": "JUDGE",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 302, 120-B, 201 and 34",
     "Section 302",
@@ -21,7 +21,13 @@
   "citations": [
     "2010 SCMR 1009"
   ],
-  "parties": [],
+  "parties": [
+    "Taroo Urif Khoso Bheel son of Lachman",
+    "Aneel son of Taroo Urif Khoso",
+    "The State",
+    "Girdhari son of Revo Bheel",
+    "Gulab Bheel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

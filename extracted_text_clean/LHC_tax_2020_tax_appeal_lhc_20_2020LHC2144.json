@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Crl.Org.No.43053 of 2020",
   "date_of_order": "01.10.2020",
-  "judge": "",
+  "judge": "Ch. Muhammad Zafar Iqbal",
   "sections_cited": [
     "Section 19",
     "Section 3",
@@ -22,7 +22,10 @@
     "1971 SCMR 743",
     "PLD 1979 SC 912"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Mohsin Rafiq",
+    "M/s. Siddiqui and Co."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Civil Judge Class II vide Notification",
+  "case_number": "",
   "date_of_order": "20.06.2023",
-  "judge": "",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "Section 5 of the Punjab Subordinate Judiciary Service Tribunal Act",
     "Section 21 of the Punjab Civil Servants Act",
@@ -21,7 +21,12 @@
     "1991 SCMR 440",
     "2007 SCMR 513"
   ],
-  "parties": [],
+  "parties": [
+    "ALI ASHTAR NAQVI",
+    "LAHORE HIGH COURT, LAHORE",
+    "M/s Abid Saqi and Sabahat Rizvi, Advocates",
+    "Mr. Jawwad Tariq Nasim, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

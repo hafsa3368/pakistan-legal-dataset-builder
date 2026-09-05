@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "17.09.2014",
-  "judge": "",
+  "judge": "Abid Aziz Sheikh",
   "sections_cited": [
     "section 47 of the Sales Tax Act",
     "sections 7, 8, 8A, 10, 11, 22 and 26 of the Sales Tax Act",
@@ -16,7 +16,10 @@
     "section 21 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue",
+    "Messrs AMTEX LTD."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

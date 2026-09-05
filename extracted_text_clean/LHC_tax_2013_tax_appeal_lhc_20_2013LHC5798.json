@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "6th May, 2013",
-  "judge": "",
+  "judge": "Abid Aziz Sheikh",
   "sections_cited": [
     "section 2",
     "section 179",
@@ -25,7 +25,10 @@
     "PLD 1971 SC 124",
     "PLD 1958 SC 104"
   ],
-  "parties": [],
+  "parties": [
+    "COLLECTOR OF CUSTOMS, LAHORE",
+    "SOUTH EAST TRADING"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

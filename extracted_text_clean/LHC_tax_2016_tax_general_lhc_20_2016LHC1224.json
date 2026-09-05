@@ -34,7 +34,11 @@
     "PLD 2010 Lahore 230",
     "PLD 2015 Islamabad 7"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Haider Khan",
+    "Province of the Punjab",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

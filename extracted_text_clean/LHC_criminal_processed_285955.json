@@ -8,14 +8,28 @@
   "num_chunks": 5,
   "case_number": "Criminal Misc. Application No.S-185 of 2024",
   "date_of_order": "02-10-2025",
-  "judge": "NAK/PA",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 302, 311, 120-B, 201, 148 and 149",
     "Section 173",
     "Sections 302, 364, 201, 148 and 149"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mushtaque Ali",
+    "Zulfiqar Ali",
+    "Ayaz Ali",
+    "Ali Asghar",
+    "Mst. Arbab Khatoon",
+    "Naseem Ahmed",
+    "Abdullah Khorro",
+    "Mst. Tasleeman",
+    "Ali Nawaz Khokhar",
+    "Muhammad Panah Khokhar",
+    "Muhammad Idrees Khokhar",
+    "Abdullah Khorro",
+    "Siyah Kari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

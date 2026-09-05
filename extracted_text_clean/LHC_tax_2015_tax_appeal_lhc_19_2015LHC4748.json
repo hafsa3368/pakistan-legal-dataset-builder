@@ -8,7 +8,7 @@
   "num_chunks": 41,
   "case_number": "Constitution. And P.T.R.No.17 of 1996",
   "date_of_order": "06.07.2015",
-  "judge": "",
+  "judge": "Shahid Karim",
   "sections_cited": [
     "section 136 of the Income Tax Ordinance",
     "section 136 of the Ordinance",
@@ -38,7 +38,11 @@
     "2006 SCMR 1248",
     "PLD 1975 SC 331"
   ],
-  "parties": [],
+  "parties": [
+    "Mian Muhammad Sharif",
+    "Income Tax Appellate Tribunal Lahore",
+    "Syed Sajjad Haider Rizvi Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

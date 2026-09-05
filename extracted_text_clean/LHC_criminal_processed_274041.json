@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Revision Application No.46 of 2025",
   "date_of_order": "15.05.2025",
-  "judge": "Naeem /PA",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 540",
     "Section 540 Cr.P.C",
@@ -17,7 +17,12 @@
     "section 540"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sajid Abbas Rizvi",
+    "Muhammad Atif Saeed",
+    "Syed Abid Hussain Rizvi",
+    "Areej Fatima Rizvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

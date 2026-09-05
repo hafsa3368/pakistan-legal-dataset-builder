@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "constitutional petition being not",
+  "case_number": "",
   "date_of_order": "18.09.2017",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 3 of the Law Reforms Ordinance",
     "Section 9",
@@ -25,7 +25,15 @@
     "PLD 1989 SC 109",
     "PLD 2017 Lahore 457"
   ],
-  "parties": [],
+  "parties": [
+    "Messrs Z & J HYGINIC PRODUCTS (PVT.) LTD.",
+    "FEDERATION OF PAKISTAN",
+    "other",
+    "Income Tax Officer",
+    "Muhammad Tariq Peerzada",
+    "Waheed Shahzad Butt",
+    "Muhammad Javed Ahmed Kasuri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

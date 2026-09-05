@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Misc. Application No.655 of 2024",
   "date_of_order": "19.05.2025",
-  "judge": "Naeem /PA",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 22-A",
     "Section 506-B, 504 and 34",
@@ -21,7 +21,13 @@
     "Section 561-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Adnan Sheikh",
+    "Mansoor Ali",
+    "Muzammil Ali Sheikh",
+    "Mustansar Ali Sheikh",
+    "Abid Hussain Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

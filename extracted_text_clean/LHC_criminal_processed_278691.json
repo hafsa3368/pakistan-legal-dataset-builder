@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Acquittal Appeal No.D-34 of 2022",
   "date_of_order": "19.08.2025",
-  "judge": "JUDGE",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 302, 364, 201, 147, 148",
     "Section 342",
@@ -21,7 +21,13 @@
     "2025 PCr.L.J 280",
     "PLD 2011 SC 554"
   ],
-  "parties": [],
+  "parties": [
+    "Rawat son of Muhammad Sulleman Shabrani",
+    "The State",
+    "Ali Jan and another",
+    "Abdul Razak and another unknown accused",
+    "Dhani Bux and one unknown accused"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

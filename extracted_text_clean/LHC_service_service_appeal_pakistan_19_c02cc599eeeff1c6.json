@@ -6,16 +6,19 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitution. It may be noted",
+  "case_number": "",
   "date_of_order": "",
-  "judge": "Approved for Reporting Azmat / Kehar Khan",
+  "judge": "",
   "sections_cited": [
     "Section 5 of the SJST Act"
   ],
   "citations": [
     "PLD 2023 SC 190"
   ],
-  "parties": [],
+  "parties": [
+    "",
+    "Syed Mansoor Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

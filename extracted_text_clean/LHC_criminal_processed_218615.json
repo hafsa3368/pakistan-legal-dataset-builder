@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.542 of 2017",
   "date_of_order": "23.08.2024",
-  "judge": "JUDGE Nadir/PA",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 9",
     "section 382-B Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State/ANF",
+    "Naimatullah Phulpoto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "Constitution provides that notwithstanding",
+  "case_number": "",
   "date_of_order": "10.05.2017",
   "judge": "Riaz Ahmad",
   "sections_cited": [
@@ -27,7 +27,13 @@
     "PLD 1996 SC 77",
     "PLD 2009 Lahore 657"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue",
+    "M/s Golden Pearl Cosmetics",
+    "Mr. Tariq Manzoor Sial",
+    "M/s Javed Iqbal Qazi",
+    "Malik Mumtaz Hussain Khokhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

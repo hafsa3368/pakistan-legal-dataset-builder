@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitution could not",
+  "case_number": "",
   "date_of_order": "30.09.2020",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 193 of the Customs Act",
     "Section 193 of the Act",
@@ -19,7 +19,15 @@
     "2011 SCMR 1813",
     "PLD 2010 SC 969"
   ],
-  "parties": [],
+  "parties": [
+    "M.D STEEL FURNACE",
+    "FEDERATION OF PAKISTAN",
+    "Indus Trading and Contracting Company",
+    "Ali S. Habib",
+    "S.H.O. Bhara Kahu",
+    "Abdul Khaliq Safrani",
+    "Ali Asad Gondal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

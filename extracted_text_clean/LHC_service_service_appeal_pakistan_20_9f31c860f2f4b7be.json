@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "CIVIL APPEAL NO. 19 OF 2022",
   "date_of_order": "06.10.2022",
-  "judge": "",
+  "judge": "Muhammad Ali Mazhar",
   "sections_cited": [
     "Section 5 of the Service Tribunal Act",
     "section 5 of the Service Tribunals Act",
@@ -20,7 +20,10 @@
     "2020 SCMR 656",
     "2020 SCMR 1418"
   ],
-  "parties": [],
+  "parties": [
+    "Government of Khyber Pakhtunkhwa",
+    "Nargis Jamal, Ex-DEO (Female) Karak"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

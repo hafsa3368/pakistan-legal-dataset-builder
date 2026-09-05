@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "misconduct. There is no doubt",
+  "case_number": "",
   "date_of_order": "10.12.2021",
-  "judge": "",
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
   "sections_cited": [
     "Section 10 of the Punjab Civil Servants Act"
   ],
@@ -21,7 +21,10 @@
     "2021 SCMR 1162",
     "2017 SCMR 2010"
   ],
-  "parties": [],
+  "parties": [
+    "Naeem Ahmad",
+    "Registrar, Lahore High Court, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

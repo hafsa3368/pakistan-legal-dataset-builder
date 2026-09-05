@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail No.S-343 of 2023",
   "date_of_order": "11.09.2023",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 337-A"
   ],
@@ -17,7 +17,13 @@
     "2019 MLD 125",
     "2018 YLR 2501"
   ],
-  "parties": [],
+  "parties": [
+    "Riaz Hussain",
+    "Haji alias Atibar Ali",
+    "Abdul Karem",
+    "Barkat Ali",
+    "Imamuddin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

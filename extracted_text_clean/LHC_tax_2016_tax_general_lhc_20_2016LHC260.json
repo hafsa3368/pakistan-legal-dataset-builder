@@ -6,7 +6,7 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "Civil Petition Nos",
+  "case_number": "",
   "date_of_order": "11.12.2015",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -27,7 +27,11 @@
     "PLD 1996 Lahore 672",
     "PLD 1997 Lahore 456"
   ],
-  "parties": [],
+  "parties": [
+    "Punjab Beverages Co. (Pvt.) Ltd.",
+    "Federation of Pakistan",
+    "Pepsico, Inc. U.S.A."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

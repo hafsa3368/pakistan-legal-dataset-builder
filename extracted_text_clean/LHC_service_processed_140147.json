@@ -6,12 +6,16 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "constitution petition is dismissed with no order",
+  "case_number": "",
   "date_of_order": "12.09.2019",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arbab Ali Hakro",
+    "Mr. Wasif Ali Mughal",
+    "Mr. Muhammad Ismail Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

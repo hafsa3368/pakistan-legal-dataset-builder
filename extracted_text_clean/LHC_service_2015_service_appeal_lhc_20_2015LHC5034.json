@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "civil and writ jurisdictions would not",
+  "case_number": "",
   "date_of_order": "05.08.2015",
   "judge": "Muhammad Sajid Mehmood Sethi",
   "sections_cited": [
@@ -19,7 +19,12 @@
     "2015 SCMR 253",
     "2011 SCMR 265"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Zafar",
+    "D. G. Pakistan Post",
+    "Islamabad",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

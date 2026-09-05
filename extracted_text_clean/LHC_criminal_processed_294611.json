@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Miscellaneous Application No.S-32 of 2025",
-  "date_of_order": "",
+  "date_of_order": "20.11.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shoukat Rai @ Shoukat Sindhi",
+    "Mr. Dhani Bakhsh Mari, Assistant P.G a/w SIP of PS Mithi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

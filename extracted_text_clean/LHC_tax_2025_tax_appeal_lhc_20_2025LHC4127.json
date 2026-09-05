@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 22,
-  "case_number": "Civil Appeals Nos",
+  "case_number": "",
   "date_of_order": "02.06.2025",
   "judge": "RASAAL HASAN SYED",
   "sections_cited": [
@@ -28,7 +28,13 @@
     "2011 CLC 377",
     "2019 MLD 846"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue, Cantt Zone, Regional Tax Office, Rawalpindi",
+    "Mr. Lal Faqeer",
+    "Mr. Manzoor Hussain",
+    "Yousaf Khan",
+    "S.O. I.R Legal (HQ) RTO, Rawalpindi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

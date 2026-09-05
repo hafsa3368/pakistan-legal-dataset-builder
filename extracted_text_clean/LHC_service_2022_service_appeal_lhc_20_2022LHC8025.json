@@ -8,12 +8,18 @@
   "num_chunks": 5,
   "case_number": "Civil Appeals No.1832",
   "date_of_order": "04.11.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2012 SCMR 126"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Afzal Khan",
+    "The Lahore High Court, Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,7 +9,11 @@
   "case_number": "",
   "date_of_order": "15.10.2014",
   "judge": "Approved for reporting irshad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 22 of the Ordinance"
+  ],
   "citations": [
     "2010 SCMR 1484",
     "2007 SCMR 1143",
@@ -20,7 +24,14 @@
     "2005 SCMR 824",
     "PLD 2010 SCMR 501"
   ],
-  "parties": [],
+  "parties": [
+    "Faqir Masih",
+    "The Joint Secretary (Admn.) and another",
+    "M. Tufail Hashmi",
+    "The Government of Pakistan",
+    "Allama Iqbal Open University",
+    "Chairman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

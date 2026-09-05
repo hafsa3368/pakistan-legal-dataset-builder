@@ -8,13 +8,17 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "03.01.2019",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 194 of the Income Tax Act",
     "Section 196 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Messrs CRAFTSMAN (PRIVATE) LIMITED",
+    "COLLECTOR OF CUSTOMS",
+    "other"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

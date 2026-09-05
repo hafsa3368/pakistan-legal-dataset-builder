@@ -25,7 +25,13 @@
     "2019 SCMR 865",
     "2020 SCMR 1157"
   ],
-  "parties": [],
+  "parties": [
+    "Majeed Fabrics (Pvt) Ltd",
+    "Federation of Pakistan through Ministry of Energy",
+    "FBR",
+    "LECO",
+    "FESCO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

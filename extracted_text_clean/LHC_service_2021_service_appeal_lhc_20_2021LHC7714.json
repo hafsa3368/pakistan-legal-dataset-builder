@@ -8,8 +8,12 @@
   "num_chunks": 10,
   "case_number": "",
   "date_of_order": "19.11.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD SAJID MEHMOOD",
+  "sections_cited": [
+    "u/s 498 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2013 SCMR 1707",
     "2016 SCMR 447",
@@ -18,7 +22,13 @@
     "2020 SCMR 994",
     "2020 SCMR 1029"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shabbir Ahmed Minhas",
+    "Lahore High Court, Lahore through Registrar",
+    "Hafiz Tariq Naseem",
+    "Mr. Tallat Farooq Shaikh",
+    "Mr. Iftikhar Ahmad Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

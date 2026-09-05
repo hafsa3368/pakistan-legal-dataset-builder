@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Crl. A.T.J.A. No.19 of 2017",
   "date_of_order": "13.02.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 385, 386,435 & 34",
     "Section 7",
@@ -27,7 +27,19 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "Aqil Abbas",
+    "Muhammad Kamran",
+    "Muhammad Tanveer",
+    "Muhammad Siddique",
+    "Muhammad Jawaid",
+    "Faisal",
+    "Justice Naimatullah Phulpoto",
+    "Justice Shamsuddin Abbasi",
+    "Muhammad Iqbal Awan",
+    "Muhammad Aslam",
+    "Ali Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

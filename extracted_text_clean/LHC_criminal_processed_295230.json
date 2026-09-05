@@ -8,7 +8,7 @@
   "num_chunks": 28,
   "case_number": "Criminal Appeal No.S-49 of 2024",
   "date_of_order": "12.11.2025",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 302",
     "Section 382-B",
@@ -38,7 +38,13 @@
     "1995 SCMR 1730",
     "2019 PCr.LJ 186"
   ],
-  "parties": [],
+  "parties": [
+    "Imamdino Sheedi",
+    "The State",
+    "Muhammad Ramzan @ Papu",
+    "Natho Khan",
+    "Ashraf Leghari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

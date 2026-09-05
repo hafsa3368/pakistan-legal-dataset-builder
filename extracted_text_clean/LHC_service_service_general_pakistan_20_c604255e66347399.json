@@ -9,7 +9,9 @@
   "case_number": "civil suit bearing No.268/1",
   "date_of_order": "16.01.2025",
   "judge": "Irfan Saadat Khan Justice Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 185 of the Constitution of Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "2023 SCMR 316",
     "1985 SCMR 1228",
@@ -21,7 +23,10 @@
     "PLD 1979 SC 18",
     "PLD 1963 SC 382"
   ],
-  "parties": [],
+  "parties": [
+    "Hashim Khan and others",
+    "Mst. Musarat Begum and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

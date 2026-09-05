@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.52336 of 2017",
   "date_of_order": "18.02.2021",
-  "judge": "Approved for Reporting JUDGE Farhan",
+  "judge": "SADAQAT ALI KHAN",
   "sections_cited": [
     "Section 8",
     "section 20",
@@ -16,7 +16,10 @@
     "Section 39"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Barrister Muhammad Umer Riaz",
+    "Nemo. SADAQAT ALI KHAN"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -30,7 +30,11 @@
     "PLD 2006 SC 602",
     "PLD 2007 SC 681"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shahbaz Najam",
+    "Federation of Pakistan etc.",
+    "NADRA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

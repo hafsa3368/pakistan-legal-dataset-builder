@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "civil petition for leave to appeal made no observations",
+  "case_number": "",
   "date_of_order": "23.10.2012",
   "judge": "",
   "sections_cited": [
@@ -23,7 +23,10 @@
     "PLD 2014 SC 585",
     "PLD 2001 SC 355"
   ],
-  "parties": [],
+  "parties": [
+    "GOVERNMENT OF PUNJAB",
+    "ISHTIAQ AHMAD BUTT and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

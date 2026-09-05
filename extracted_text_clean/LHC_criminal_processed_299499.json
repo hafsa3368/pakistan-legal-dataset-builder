@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Misc. Application No.S-330 of 2025",
-  "date_of_order": "",
+  "date_of_order": "22.12.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Moinuddin Akhter Qureshi",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

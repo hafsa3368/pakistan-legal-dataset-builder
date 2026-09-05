@@ -6,12 +6,17 @@
   "year": "2031",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitution Petition No. D-",
+  "case_number": "",
   "date_of_order": "",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Kashif Shaikh",
+    "P.O Sindh and others",
+    "Mr. Waqar Ali Phulpoto",
+    "Advocate for the Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

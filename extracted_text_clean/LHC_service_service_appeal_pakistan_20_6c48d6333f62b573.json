@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "Constitution will not",
+  "case_number": "",
   "date_of_order": "23.05.2025",
-  "judge": "",
+  "judge": "MIANGUL HASSAN AURANGZEB,",
   "sections_cited": [
     "Section 23 of the Punjab Civil Servants Act",
     "Section 23"
@@ -17,7 +17,10 @@
     "2005 SCMR 186",
     "2021 SCMR 1281"
   ],
-  "parties": [],
+  "parties": [
+    "Faheem Arshad and others",
+    "Manzoor-ul-Haq and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

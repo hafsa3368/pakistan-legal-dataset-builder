@@ -25,7 +25,11 @@
     "PLD 1964 SC 113",
     "PLD 1995 SC 659"
   ],
-  "parties": [],
+  "parties": [
+    "Pak Telecom Mobile Limited",
+    "Federation of Pakistan",
+    "other"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

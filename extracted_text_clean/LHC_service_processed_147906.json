@@ -9,11 +9,19 @@
   "case_number": "",
   "date_of_order": "26.11.2020",
   "judge": "Muhammad Shafi Siddiqui Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2006 SCMR 535"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Irshad Ali Shah",
+    "The petitioner",
+    "Deputy Superintendent in Sindh Police",
+    "Ghulam Akbar Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

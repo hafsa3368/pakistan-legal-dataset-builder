@@ -6,10 +6,13 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitution cannot",
+  "case_number": "",
   "date_of_order": "21.11.2014",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 456",
     "2015 SCMR 253",
@@ -21,7 +24,23 @@
     "PLD 2010 SC 969",
     "PLD 1981 Karachi 750"
   ],
-  "parties": [],
+  "parties": [
+    "SECRETARY FINANCE",
+    "ABDUL AZIZ",
+    "others",
+    "SECRETARY FINANCE and others",
+    "petitioners",
+    "ALI AZHAR KHAN BALOCH and others",
+    "MANZOOR AHMED and another",
+    "PEER MUHAMMAD",
+    "HAJI MUHAMMAD MUNEER and others",
+    "KHAILID MAHMOOD WATTOO and others",
+    "GOVERNMENT OF PUNJAB and others",
+    "KHALIL UR REHMAN and others",
+    "GOVERNMENT OF PAKISTAN and others",
+    "DR. GHAZANFARRULLAH and 2 others",
+    "SECRETARY HEALTH, GOVERNMENT OF PUNJAB, LAHORE and 6 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

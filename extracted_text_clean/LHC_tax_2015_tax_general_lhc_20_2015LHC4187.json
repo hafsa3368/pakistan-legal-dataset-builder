@@ -25,7 +25,11 @@
     "PLD 1964 SC 113",
     "PLD 1995 SC 659"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Daewoo Pakistan",
+    "Federation of Pakistan",
+    "FBR"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

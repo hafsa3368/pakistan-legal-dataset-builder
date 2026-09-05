@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "25.06.2015",
-  "judge": "",
+  "judge": "Abid Aziz Sheikh",
   "sections_cited": [
     "Section 24-A of the General Clauses Act",
     "section 47 of the Sales Tax Act",
@@ -17,7 +17,11 @@
     "Section 24A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "AYUB TEXTILE INDUSTRIES",
+    "COMMISSIONER (COLLECTOR) OF SALES TAX, REGIONAL TAX OFFICE, FAISALABAD",
+    "3 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

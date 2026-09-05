@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Criminal Jail Appeal No.D-37 of 2024",
   "date_of_order": "07-10-2025",
-  "judge": "JUDGE",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 9",
     "Section 374",
@@ -26,7 +26,12 @@
     "2010 PCr.LJ 1253",
     "PLD 1973 Lahore 365"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Umar s/o Shah Muhammad Kurd Brohi",
+    "Azizullah s/o Faqeer Ali Brohi",
+    "The State",
+    "Anees Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

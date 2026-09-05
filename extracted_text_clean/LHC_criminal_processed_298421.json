@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Crl. Bail Application No.S-44 of 2025",
   "date_of_order": "08.12.2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "Sections 302, 324, 114, 147, 148, 149, 427 and 337-H",
     "Section 7 and 8",
@@ -33,7 +33,12 @@
     "2013 SCMR 1415",
     "2024 SCMR 1605"
   ],
-  "parties": [],
+  "parties": [
+    "Salamat Ali Lakho",
+    "Amanat Ali Lakho",
+    "Rasheed Khan Marri",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

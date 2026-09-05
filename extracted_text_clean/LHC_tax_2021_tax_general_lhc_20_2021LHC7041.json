@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "misconceived and non-maintainable",
+  "case_number": "",
   "date_of_order": "24.08.2012",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 176 of the Income Tax Ordinance",
     "Section 114 of the Ordinance",
@@ -29,7 +29,10 @@
     "PLD 2021 Lahore 42",
     "PLD 1971 SC 279"
   ],
-  "parties": [],
+  "parties": [
+    "MUHAMMAD MUNIR PIRACHA",
+    "DEPUTY COMMISSIONER INLAND REVENUE, AUDIT-II, RAWALPINDI"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

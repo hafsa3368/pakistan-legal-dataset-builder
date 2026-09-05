@@ -8,14 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Appln. No. S-285 of 2025",
   "date_of_order": "01-09-2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [
     "2022 SCMR 1271"
   ],
-  "parties": [],
+  "parties": [
+    "Lateef @ Abdul Lateef Chano",
+    "Fida Hussain Kakepoto",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

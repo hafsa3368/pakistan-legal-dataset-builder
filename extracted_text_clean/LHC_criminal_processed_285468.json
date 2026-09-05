@@ -8,7 +8,7 @@
   "num_chunks": 23,
   "case_number": "Criminal Jail Appeal No.S-27 of 2022",
   "date_of_order": "12-09-2025",
-  "judge": "NAK/PA",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 302 and 34",
     "Section 25 of Sindh Arms Act",
@@ -32,7 +32,22 @@
     "PLD 2001 SC 107",
     "PLD 1985 SC 361"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Hyder @ Bano",
+    "The State through Mr. Sardar Ali Solangi",
+    "Ghulam Hyder",
+    "The State",
+    "Mst. Saima",
+    "The State",
+    "Mashooq Ali",
+    "The State",
+    "Allah Warrayo",
+    "The State",
+    "Zahid Hussain",
+    "The State",
+    "Imdad Ali Hulio",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

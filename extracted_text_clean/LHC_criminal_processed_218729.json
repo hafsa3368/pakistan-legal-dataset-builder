@@ -9,9 +9,18 @@
   "case_number": "Criminal Bail Application No.1299 of 2024",
   "date_of_order": "02.09.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abu Bakar Siddique",
+    "The State",
+    "M/s. Farooq H. Abbasi and Abdul Samad Khattak",
+    "Ms. Rubina Qadir",
+    "DPG",
+    "Nazakat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

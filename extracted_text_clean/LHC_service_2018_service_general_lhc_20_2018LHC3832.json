@@ -9,7 +9,10 @@
   "case_number": "W.P.No.8626-2018/BWP",
   "date_of_order": "08.10.2018",
   "judge": "MUZAMIL AKHTAR SHABIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 456",
     "2016 SCMR 842",
@@ -17,7 +20,11 @@
     "2016 SCMR 2057",
     "PLD 1994 SC 72"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Malik",
+    "Government of Punjab",
+    "Mr. Saeed Ahmad Ch."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

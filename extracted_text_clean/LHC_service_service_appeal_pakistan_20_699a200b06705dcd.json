@@ -8,13 +8,16 @@
   "num_chunks": 11,
   "case_number": "CIVIL APPEAL No. 64 OF 2022",
   "date_of_order": "30.05.2022",
-  "judge": "Judge Islamabad",
+  "judge": "MUHAMMAD ALI MAZHAR",
   "sections_cited": [
     "Section 7",
     "Section 7 of the Federal Public Service Commission Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Federal Public Service Commission, Islamabad",
+    "Dr. Shahid Hanif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

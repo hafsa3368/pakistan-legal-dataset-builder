@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Anti-Terrorism Jail Appeal No. 120 of 2023",
   "date_of_order": "22.08.2024",
-  "judge": "JUDGE Nadir/PA",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 382"
   ],
@@ -16,7 +16,11 @@
     "2011 SCMR 537",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Daniyal",
+    "The State",
+    "Agha Khan Hospital"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

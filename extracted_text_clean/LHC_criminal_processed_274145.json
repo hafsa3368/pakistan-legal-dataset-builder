@@ -8,7 +8,7 @@
   "num_chunks": 17,
   "case_number": "Criminal Appeal No.10 of 2021",
   "date_of_order": "17.04.2025",
-  "judge": "Naeem /PA",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "Sections 302, 365-B, 376 and 34",
     "section 302 PPC",
@@ -25,7 +25,11 @@
     "2007 SCMR 1427",
     "PLD 2002 SC 1048"
   ],
-  "parties": [],
+  "parties": [
+    "Zeeshan son of Abdul Jabbar",
+    "The State through Ms. Seema Zaidi, Addl. Prosecutor General, Sindh",
+    "Ghulam Nabi son of Jumma Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

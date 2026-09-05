@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Civil Procedure Code is not",
+  "case_number": "",
   "date_of_order": "22.05.2013",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -36,7 +36,14 @@
     "2007 CLC 610",
     "2006 CLC 1381"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner of Income Tax/Wealth Tax",
+    "M/s. Move Pvt. Ltd.",
+    "Syed Khalid Javed Bukhari",
+    "M/s. Ch. Saghir Ahmed",
+    "Muhammad Manzoor-ur-Haq",
+    "Abid Aziz Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

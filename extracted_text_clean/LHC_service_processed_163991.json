@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Civil Revision Application No.07 of 2020",
   "date_of_order": "22.03.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [
     "section 12"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Allah Bachayo Soomro",
+    "Ms. Gulnaz A. Hashmi",
+    "Additional A.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

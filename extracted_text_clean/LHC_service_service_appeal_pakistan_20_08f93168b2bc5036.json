@@ -8,7 +8,7 @@
   "num_chunks": 29,
   "case_number": "CIVIL PETITIONS FOR LEAVE TO APPEAL NO.4146",
   "date_of_order": "23.10.2025",
-  "judge": "Judge Judge Islamabad",
+  "judge": "MIANGUL HASSAN AURANGZEB",
   "sections_cited": [
     "section 21 of the General Clauses Act",
     "section 26 of the Khyber Pakhtunkhwa Civil Servants Act",
@@ -32,7 +32,10 @@
     "2022 SCMR 1583",
     "2021 SCMR 1195"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "The Secretary E&SE Department Khyber Pakhtunkhwa Peshawar and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "CIVIL PETITIONS NO. 657",
   "date_of_order": "05.07.2022",
-  "judge": "Judge Judge Islamabad",
+  "judge": "MUHAMMAD ALI MAZHAR",
   "sections_cited": [
     "Section 7 of the PACB Ordinance",
     "Section 7",
@@ -17,7 +17,16 @@
   "citations": [
     "2019 SCMR 1933"
   ],
-  "parties": [],
+  "parties": [
+    "Asrar Ahmed",
+    "Muhammad Rafiq Anjum",
+    "Muhammad Riaz",
+    "Tahir Iqbal",
+    "Syed Qamar Abbas",
+    "Muhammad Mushtaq",
+    "Chairman Pakistan Aeronautical Complex Board, Kamra",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

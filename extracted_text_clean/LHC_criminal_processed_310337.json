@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Appeal No.947 of 2025",
   "date_of_order": "26.03.2026",
-  "judge": "JUDGE",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 377 and 34",
     "section 164",
@@ -18,7 +18,22 @@
     "section 164 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Sajid",
+    "the State",
+    "Sajid",
+    "Ali Zaman",
+    "Shahbaz",
+    "Rehan",
+    "the State",
+    "Asif Shaikhani",
+    "Khuzaima Shaikhani",
+    "Muhammad Asif",
+    "Muhammad Shakir",
+    "Dr. Noor Ahmed Soomro",
+    "S.I. Saqib Ali",
+    "Muhammad Raza Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

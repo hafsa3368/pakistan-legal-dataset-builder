@@ -8,14 +8,22 @@
   "num_chunks": 5,
   "case_number": "Crl. Revision Application No.266 of 2022",
   "date_of_order": "26.05.2025",
-  "judge": "Naeem /PA",
+  "judge": "SHAMSUDDIN ABBASI,",
   "sections_cited": [
     "Section 435 and 439",
     "Sections 3, 4, 7 and 8 of the Illegal Dispossession Act",
     "Section 2 of the Illegal Dispossession Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aijaz Ali Arain",
+    "The State",
+    "Muhammad Shahid Waheed",
+    "Muhammad Ramzan Tabassum",
+    "Hassnain Ali Choohan",
+    "Samreen Ali Rizvi",
+    "Tahir Hussain Mangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

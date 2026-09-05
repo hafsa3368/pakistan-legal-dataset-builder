@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Appeal No.S",
+  "case_number": "",
   "date_of_order": "05.10.2023",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "Section 3 of the Illegal Dispossession Act",
     "section 544 Cr.P.C",
@@ -16,7 +16,16 @@
     "section 3 and 4 of the Illegal Dispossession Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Niaz Hussain son of Muhammad Hussain",
+    "Ali Khan son of Muhammad Hussain",
+    "Ayaz son of Niaz Hussain",
+    "Peeral son of Sheral",
+    "Soomar son of Sheral",
+    "Altaf son of Niaz Hussain",
+    "Haji Ghulam Hussain",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "misconceived and not",
+  "case_number": "",
   "date_of_order": "18.02.2019",
   "judge": "Muzamil Akhtar Shabir",
   "sections_cited": [
@@ -17,7 +17,11 @@
     "Section 47"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ramzan",
+    "Commissioner Inland Revenue",
+    "Rana Mushtaq Ahmed Toor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,7 +9,10 @@
   "case_number": "Civil Petition No.2761 of 2023",
   "date_of_order": "18.11.2025",
   "judge": "Aqeel Ahmed Abbasi Civil Petition",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2025 SCMR 92",
     "2022 SCMR 745",
@@ -17,7 +20,10 @@
     "2023 SCMR 1135",
     "2023 SCMR 603"
   ],
-  "parties": [],
+  "parties": [
+    "The Sr. General Manager (Chief Executive Officer), Pakistan Railways, Railway Headquarter, Lahore, & others",
+    "Syed Qaiser Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

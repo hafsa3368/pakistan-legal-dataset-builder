@@ -8,7 +8,7 @@
   "num_chunks": 30,
   "case_number": "W.P.NO.2832 OF 2021",
   "date_of_order": "16.02.2024",
-  "judge": "Approved for reporting JUDGE Zeeshan",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "sections 302, 396, 409, 412 & 109",
     "section 20 of the Act",
@@ -31,7 +31,10 @@
     "1992 SCMR 36",
     "2019 SCMR 946"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Tariq Khan",
+    "The National Bank of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

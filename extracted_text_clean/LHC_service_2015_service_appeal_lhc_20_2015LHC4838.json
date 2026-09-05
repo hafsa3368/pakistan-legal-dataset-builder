@@ -9,13 +9,23 @@
   "case_number": "W.P. No.7201 of 2015",
   "date_of_order": "22.06.2015",
   "judge": "Muhammad Sajid Mehmood Sethi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2007 SCMR 1355",
     "2012 SCMR 6",
     "2012 SCMR 12"
   ],
-  "parties": [],
+  "parties": [
+    "Azhar Hussain",
+    "Deputy Director Food Sahiwal & another",
+    "Mr. Nadeem Shoukat Minhas",
+    "Mr. Aziz-ur-Rehman",
+    "MUHAMMAD SAJID MEHMOOD SETHI",
+    "Deputy Director & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 22,
   "case_number": "Criminal Jail Appeal No. D-21 of 2024",
   "date_of_order": "01.10.2025",
-  "judge": "JUDGE NAK/PA",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 302, 324, 353, 395, 120-B",
     "Section 7",
@@ -27,7 +27,13 @@
     "2017 SCMR 283",
     "2021 SCMR 1387"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Sabzoi",
+    "Muhammad Hassan @ Gadehi Sabzoi",
+    "The State",
+    "Mr. Nazir Ahmed Bhangwar",
+    "Deputy Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

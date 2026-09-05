@@ -8,10 +8,17 @@
   "num_chunks": 9,
   "case_number": "CIVIL APPEAL NO. 512 OF 2021",
   "date_of_order": "20.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD ALI MAZHAR",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "SI. No. 32 at page 29 of the paper-book"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Senior General Manager, Pakistan Railways, etc....Appellants",
+    "Muhammad Pervaiz...Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "W.P. No. 361 of 2013",
   "date_of_order": "11.02.2013",
-  "judge": "",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "Section 3 of the Law Reforms Ordinance",
     "Section 177",
@@ -19,7 +19,10 @@
     "1998 SCMR 307",
     "PLD 2001 SC 355"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue",
+    "Messrs Crescent Carriers I.C.A."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

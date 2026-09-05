@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "W.P. No.52462/2017",
   "date_of_order": "13.12.2017",
-  "judge": "Raza/Riaz Ahmad",
+  "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
     "section 13 and 95",
     "section 223 of the Act",
@@ -26,7 +26,12 @@
     "PLD 2005 Lahore 185",
     "PLD 1976 SC 435"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "M/s Sufi Steel Industries Pvt. Ltd.",
+    "Pakistan Steel Metals Association",
+    "The Government of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

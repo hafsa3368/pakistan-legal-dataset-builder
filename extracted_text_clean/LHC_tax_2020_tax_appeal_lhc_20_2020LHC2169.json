@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitutional petition challenges the notice",
+  "case_number": "",
   "date_of_order": "25.09.2020",
   "judge": "SHAHID KARIM",
   "sections_cited": [
@@ -17,7 +17,10 @@
     "section 177 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "D.G.Khan Cement Co. Ltd. etc.",
+    "Federal Board of Revenue etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

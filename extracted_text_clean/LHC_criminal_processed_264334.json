@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No.D-72 of 2023",
   "date_of_order": "08-04-2025",
-  "judge": "JUDGE",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 9",
     "section 382-B Cr.PC",
@@ -27,7 +27,11 @@
     "2020 SCMR 857",
     "PLD 2019 SC 64"
   ],
-  "parties": [],
+  "parties": [
+    "Attaullah son of Amanullah Chachar",
+    "Mr. Ali Anwar Kandhro",
+    "The State of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

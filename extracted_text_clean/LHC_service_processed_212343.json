@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No. D-3633 of 2015",
-  "date_of_order": "",
+  "date_of_order": "21.03.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tarique Ali Mirani",
+    "Chancellor through its Secretary & others",
+    "Mr. Alam Sher Bozdar",
+    "Mr. Ghulam Mustafa G.Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

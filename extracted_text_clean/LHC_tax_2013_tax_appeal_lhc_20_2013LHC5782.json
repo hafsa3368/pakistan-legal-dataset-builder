@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "23rd May, 2013",
-  "judge": "",
+  "judge": "Abid Aziz Sheikh",
   "sections_cited": [
     "section 47 of the Sales Tax Act",
     "sections 22, 25 and 73 of the Sales Tax Act",
@@ -19,7 +19,10 @@
   "citations": [
     "1970 SCMR 872"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner of Income Tax",
+    "Messrs Multan Fabrics (PVT.) LTD. and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

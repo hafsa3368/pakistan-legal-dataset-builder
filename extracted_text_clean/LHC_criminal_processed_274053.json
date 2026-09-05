@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Misc. Application No.798 of 2024",
   "date_of_order": "06.05.2025",
-  "judge": "Naeem /PA",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 489-F and 420",
     "Section 489-F and 420",
@@ -21,7 +21,12 @@
     "Section 561-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tariq Mehmood",
+    "The State & 3 others",
+    "The State & 3 others",
+    "The State & 3 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

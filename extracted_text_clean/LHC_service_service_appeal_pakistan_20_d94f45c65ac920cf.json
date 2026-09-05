@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "CIVIL PETITIONS NO. 1775",
   "date_of_order": "28.09.2022",
-  "judge": "",
+  "judge": "Muhammad Ali Mazhar",
   "sections_cited": [
     "Section 7"
   ],
@@ -17,7 +17,14 @@
     "2012 SCMR 619",
     "2012 SCMR 864"
   ],
-  "parties": [],
+  "parties": [
+    "Controller General of Accounts, Government of Pakistan, Islamabad",
+    "Abdul Waheed",
+    "Sajid Iqbal",
+    "Syed Muhammad Usman",
+    "Ashar Jan Siddiqui",
+    "Muhammad Baqir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

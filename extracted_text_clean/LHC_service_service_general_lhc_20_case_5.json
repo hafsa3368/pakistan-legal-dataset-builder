@@ -9,7 +9,10 @@
   "case_number": "constitutes a species of Writ Petition No.33416 of 2022",
   "date_of_order": "15-04-2026",
   "judge": "ABID AZIZ SHEIKH",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 1181",
     "2025 SCMR 168",
@@ -17,7 +20,18 @@
     "2021 SCMR 1546",
     "PLD 2014 Lahore 506"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Azraf-ul-Haq Ahmad",
+    "The Secretary Agriculture etc.",
+    "Rana Abdul Jabbar",
+    "M/s Sardar Tariq Mahmood",
+    "Barrister M. Salman Khalid",
+    "Ms. Shehzeen Abdullah",
+    "Syed Asim",
+    "ABID AZIZ SHEIKH",
+    "PARB",
+    "Dr. M. Hassan Khan Amacha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

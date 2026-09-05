@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Criminal Appeal No. 31 of 2025",
   "date_of_order": "01.04.2026",
-  "judge": "JUDGE",
+  "judge": "Omar Sial",
   "sections_cited": [
     "Sections 6/9",
     "section 342 Cr.P.C",
@@ -16,7 +16,16 @@
     "section 12 of the Foreign Exchange Regulation Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rizwanullah",
+    "The State",
+    "Abdul Rahim",
+    "Qadir Khan alias Sajan",
+    "Asghar Khan",
+    "Khalid Khan",
+    "Muhammad Ashraf",
+    "Unnamed Importer in Canada"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

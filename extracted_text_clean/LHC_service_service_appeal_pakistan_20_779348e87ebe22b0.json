@@ -8,7 +8,7 @@
   "num_chunks": 32,
   "case_number": "CIVIL APPEALS NO.446",
   "date_of_order": "17.12.2021",
-  "judge": "Judge Judge Announced",
+  "judge": "MUHAMMAD ALI MAZHAR,",
   "sections_cited": [
     "Section 8 of the Civil Servants Act",
     "Section 9",
@@ -34,7 +34,24 @@
     "1992 SCMR 663",
     "1996 SCMR 1185"
   ],
-  "parties": [],
+  "parties": [
+    "Bashir Ahmed Badini",
+    "Shuja-ud-Din Abdul Qayyum",
+    "Nasir Khan Yousufzai",
+    "Zafarullah Bazai",
+    "Nazeer Ahmed Khajak",
+    "Hon’ble Chairman & Member of Administration Committee and Promotion Committee of Hon’ble High Court of Balochistan",
+    "Hon’ble Chief Justice of Balochistan High Court Quetta",
+    "Mr. Abdul Malik",
+    "Syed Rifaqat Hussain Shah",
+    "Mr. Shams ud Din",
+    "Mr. Muhammad Rauf Atta",
+    "Mr. Ayaz Khan Swati",
+    "Mr. Rashid Mehmood",
+    "Mr. Arshad Mehmood",
+    "Mr. Gul Hassan Tareen",
+    "Mr. Muhammad Shoaib Shaheen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

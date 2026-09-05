@@ -9,7 +9,10 @@
   "case_number": "W.P. No.60262 of 2019",
   "date_of_order": "24.03.2026",
   "judge": "Hassan Nawaz Makhdoom",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 SCMR 303",
     "1996 SCMR 413",
@@ -19,7 +22,16 @@
     "2021 SCMR 153",
     "2025 SCMR 453"
   ],
-  "parties": [],
+  "parties": [
+    "Javaid Ali Shah",
+    "Evacuee Trust Property Board",
+    "Syed Tassadaq Mustafa Naqvi",
+    "Syed Tassadaq Murtaza Naqvi",
+    "Barrister Naqsh Fatima Naqvi",
+    "Rana Zahid Nasim Shahid",
+    "Mr. Shuja ul Hakeem",
+    "Hassan Nawaz Makhdoom"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 21,
-  "case_number": "Constitutional petition the show-cause notices",
+  "case_number": "",
   "date_of_order": "12th March, 2015",
-  "judge": "",
+  "judge": "Abid Aziz Sheikh",
   "sections_cited": [
     "section 3 of Law Reforms Ordinance",
     "section 3 of the Ordinance",
@@ -31,7 +31,21 @@
     "PLD 1992 SC 723",
     "PLD 1979 SC 846"
   ],
-  "parties": [],
+  "parties": [
+    "Messrs NISHAT (CHUNIAN) LTD. through Chief Financial Officer",
+    "FEDERAL BOARD OF REVENUE through Secretary and 3 others",
+    "Regional Commissioner of Income Tax and others",
+    "M. Yousaf Academy Quick Fill C.N.G. and others",
+    "Iftikhar Hussain and others",
+    "Government of Pakistan and others",
+    "Muhammad Aslam Sukhera and others",
+    "Collector Land Acquisition, Lahore, Improvement Trust, Lahore and another",
+    "Deputy Commissioner/Administrator, District Council, Attock and another",
+    "Lawrencepur Woollen Textile Mills Ltd.",
+    "Vice Chancellor/Chairman Admission Board University of Health Science, Lahore",
+    "Breeha Zainab and another",
+    "Lahore Development Authority through its Director General, Lahore and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

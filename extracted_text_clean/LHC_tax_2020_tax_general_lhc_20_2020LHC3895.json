@@ -8,10 +8,17 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "03.12.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Messrs AAM DEVELOPERS (PRIVATE) LIMITED",
+    "FEDERAL BOARD OF REVENUE",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

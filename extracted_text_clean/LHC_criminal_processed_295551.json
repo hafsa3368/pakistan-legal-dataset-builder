@@ -7,13 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Miscellaneous Application No.S-233 of 2025",
-  "date_of_order": "",
+  "date_of_order": "18-11-2025",
   "judge": "",
   "sections_cited": [
     "section 561-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Ghaffar Narejo",
+    "Mr. Dhani Bakhsh Mari",
+    "respondent No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

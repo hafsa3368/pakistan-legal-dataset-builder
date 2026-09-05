@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.388 of 2024",
   "date_of_order": "07.08.2024",
-  "judge": "JUDGE Nadir/PA",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 342 Cr.PC",
     "Section 9",
@@ -17,7 +17,10 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Rizwan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

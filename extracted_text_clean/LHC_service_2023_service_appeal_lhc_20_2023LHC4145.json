@@ -8,13 +8,25 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "22.06.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD SAJID MEHMOOD SETHI",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1973 SCMR 304",
     "1998 SCMR 736"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ameen Shehzad",
+    "Lahore High Court",
+    "The Province of the Punjab through the Secretary, Services and General Administration, Lahore",
+    "Syed Muhammad Ashraf",
+    "Iftikharullah Malhi",
+    "Chief Secretary and another",
+    "Faiz Muhammad and another",
+    "Member (Revenue), Board of Revenue, Punjab and 2 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

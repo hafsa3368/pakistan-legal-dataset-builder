@@ -9,7 +9,10 @@
   "case_number": "Constitution Petitions No. D-3105 of 2017",
   "date_of_order": "16.01.2023",
   "judge": "Muhammad Ali Mazhar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 SCMR 1583",
     "1992 SCMR 1652",
@@ -21,7 +24,16 @@
     "PLD 1974 SC 180",
     "PLD 1979 SC 190"
   ],
-  "parties": [],
+  "parties": [
+    "M. Asghar Janjua and others",
+    "Tariq Mehmood and others",
+    "Zahid Akhtar Siddique & others",
+    "Federation of Pakistan & others",
+    "Mr. Muhammad Haseeb Jamali",
+    "Mr. K. A. Wahab",
+    "Mr. Mohsin Qadir Shahwani",
+    "Agha Zafar Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

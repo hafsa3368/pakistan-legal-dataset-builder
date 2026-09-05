@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "construed by the learned Single Judge. I.C.A.No. 1197 of 2021",
+  "case_number": "",
   "date_of_order": "05.04.2023",
   "judge": "Jawad Hassan",
   "sections_cited": [
@@ -15,7 +15,15 @@
     "Section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The Collector of Customs, Dry Port, Lahore",
+    "Bilal Akbar",
+    "M/S Waqar A. Sheikh",
+    "Rana Mehtab",
+    "M/S Ali Sibtain Fazli",
+    "Abad-ur-Rehman",
+    "Hasham Ahmad Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

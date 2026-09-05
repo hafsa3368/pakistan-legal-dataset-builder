@@ -9,7 +9,10 @@
   "case_number": "Civil Petition No.2330-L of 2019",
   "date_of_order": "23.10.2024",
   "judge": "Muhammad Ali Mazhar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2006 SCMR 434",
     "2024 SCMR 1484",
@@ -17,7 +20,13 @@
     "2022 SCMR 2114",
     "2023 SCMR 803"
   ],
-  "parties": [],
+  "parties": [
+    "Secretary to Government of the Punjab Law & Parliamentary Affairs Department, Lahore and another",
+    "Petitioners",
+    "Ali Ahmad Khan",
+    "Mr. Baleegh-uz-Zaman Ch.",
+    "Mr. Muhammad Anwar Bhanr"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

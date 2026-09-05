@@ -8,7 +8,7 @@
   "num_chunks": 29,
   "case_number": "constitutional petitions ICA No.61692 of 2021",
   "date_of_order": "12.06.2006",
-  "judge": "JUDGE",
+  "judge": "SHAHID KARIM",
   "sections_cited": [
     "Sections 3 and 4",
     "Section 3",
@@ -26,7 +26,12 @@
     "PLD 1998 Sindh 180",
     "PLD 2018 Sindh 448"
   ],
-  "parties": [],
+  "parties": [
+    "Hamza Sugar Mills Ltd. & others",
+    "Federation of Pakistan & others",
+    "M/s Imtiaz Rashid Siddiqui, Shehzad A. Elahi, Ali Sibtain Fazli, Waseem Ahmad Malik, Shahryar Kasuri, Hasham Ahmad Khan, Salman Zaheer Khan, Raza Imtiaz Siddiqui, Jamshed Alam, Fasih ur Rehman, Rana Muhammad Afzal Razzaq Khan, Ch. Sabir Ali, Muhammad Mussadiq Islam, Waqas Ahmad Aziz, Shahzad Ahmad Cheema, Mian Muhammad Naeem Watto, Abad ur Rehman, Muhammad Umer Tariq Gill, Esa Ahmad Jalil, Shahzad Ahmad and Kaiven Hussain Mir",
+    "M/s. Asad Ali Bajwa, D.A.G & Ijaz Rehmat Basra and Mr. Muhammad Zain Qazi, Asst. Attorney Generals. Mrs. Samia Khalid, Addl. A.G. Mr. Imran Khan Klair, A.A.G with M. Amin, Chief Agriculture Policy Institute, Abdul Rauf, Cane Commissioner, Punjab and Adnan Nazir, Asst. Cane Commissioner, Punjab. Mr. Imran Rasool, Advocate for FBR. Shahid Karim, J:-"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

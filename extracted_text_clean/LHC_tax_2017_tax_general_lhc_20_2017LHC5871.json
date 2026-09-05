@@ -8,13 +8,27 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "05.03.2012",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Masud Abid Naqvi",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Constitution of Pakistan, Art.199"
+  ],
   "citations": [
     "2014 SCMR 15",
     "PLD 1997 SC 334"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. KOUSAR KAMAL",
+    "CHAIRMAN, CUSTOMS, FBR",
+    "Messrs Delta Tires and Rubber Company Limited",
+    "Iqtedar Ahmad Chaudhary",
+    "Sarfraz Ahmad Cheema",
+    "Usman Azam",
+    "Central Board of Revenue",
+    "Messrs Trade International Lahore",
+    "D.G. Customs Valuation, Karachi",
+    "Sandalbar Enterprises (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "CRIMINAL REVISION NO.327 OF 2024",
   "date_of_order": "10.12.2024",
-  "judge": "JUDGE Sajjad APPROVED FOR REPORTING JUDGE JUDGE",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "Section 435",
     "Section 439 of The Code",
@@ -24,7 +24,10 @@
   "citations": [
     "2022 SCMR 1861"
   ],
-  "parties": [],
+  "parties": [
+    "Sheikh Rasheed Ahmed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Constitutional Petition is not",
+  "case_number": "",
   "date_of_order": "06-02-2023",
-  "judge": "Approved For Reporting JUDGE Arsalan",
+  "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
     "Section 9",
     "Section 27 of the PEC Act"
@@ -27,7 +27,10 @@
     "PLD 1981 Karachi 750",
     "PLD 1995 SC 530"
   ],
-  "parties": [],
+  "parties": [
+    "Hafiz Riaz Ahmad",
+    "Province of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

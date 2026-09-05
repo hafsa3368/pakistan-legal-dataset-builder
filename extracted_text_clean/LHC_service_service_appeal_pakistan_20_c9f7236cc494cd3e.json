@@ -8,8 +8,11 @@
   "num_chunks": 7,
   "case_number": "Civil Petition No.231-K of 2020",
   "date_of_order": "19.01.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Ali Mazhar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2003 SCMR 1037",
     "2014 SCMR 570"

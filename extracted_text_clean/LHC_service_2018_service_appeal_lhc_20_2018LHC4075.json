@@ -8,15 +8,23 @@
   "num_chunks": 7,
   "case_number": "W.P. No.7087 of 2014",
   "date_of_order": "01.12.2002",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "2001 SCMR 565",
     "2016 SCMR 183",
     "2012 SCMR 280",
     "2013 SCMR 1687"
   ],
-  "parties": [],
+  "parties": [
+    "UMAR HAYAT KHAWAJA",
+    "PRESIDENT, NATIONAL BANK OF PAKISTAN",
+    "9 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

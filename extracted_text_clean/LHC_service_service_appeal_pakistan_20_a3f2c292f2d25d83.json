@@ -9,12 +9,18 @@
   "case_number": "Civil Appeals No.106-K",
   "date_of_order": "01.09.2025",
   "judge": "Muhammad Ali Mazhar Justice Athar",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 1956",
     "PLD 2024 SC 1276"
   ],
-  "parties": [],
+  "parties": [
+    "The Province of Sindh through Chief Secretary and others",
+    "Azhar Ali Nadir Ali Sikandar Ali Imtiaz Ali Nadeem Abbas Khalid Ahmed Nadeem Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

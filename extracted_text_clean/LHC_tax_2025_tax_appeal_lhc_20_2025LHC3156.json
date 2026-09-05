@@ -6,9 +6,9 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "constrained to observe that this would not",
+  "case_number": "",
   "date_of_order": "14.05.2025",
-  "judge": "JUDGE Sajjad APPROVED FOR REPORTING JUDGE JUDGE",
+  "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
     "Section 133 of the Income Tax Ordinance",
     "section 111 of the Ordinance",
@@ -24,7 +24,11 @@
   "citations": [
     "1996 SCMR 230"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Amir Sajjad",
+    "Commissioner Inland Revenue, Jhelum Zone",
+    "other"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

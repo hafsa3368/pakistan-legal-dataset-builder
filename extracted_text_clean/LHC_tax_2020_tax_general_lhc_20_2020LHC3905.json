@@ -6,15 +6,20 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "constitutional petition was not",
+  "case_number": "",
   "date_of_order": "19.07.2017",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Hassan",
+  "sections_cited": [
+    "Section 131 Customs Act (IV of 1969)"
+  ],
   "citations": [
     "2014 SCMR 1203",
     "2002 SCMR 805"
   ],
-  "parties": [],
+  "parties": [
+    "Omer Flour Mills",
+    "Government of Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Anti-Terrorism Appeal No. 26 of 2024",
   "date_of_order": "27.08.2024",
-  "judge": "Nadir/PA",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 382"
   ],
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Ali",
+    "The State",
+    "Jasim Ali @ Shahzad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

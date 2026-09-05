@@ -22,7 +22,20 @@
     "section 68"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    {
+      "type": "petitioner",
+      "name": "Sufi Abdul Qadeer, Etc."
+    },
+    {
+      "type": "respondent",
+      "name": "Learned Addl. District Judge, Etc."
+    },
+    {
+      "type": "respondent",
+      "name": "Respondent No.3"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

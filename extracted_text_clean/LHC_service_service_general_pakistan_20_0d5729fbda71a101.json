@@ -8,14 +8,17 @@
   "num_chunks": 6,
   "case_number": "CIVIL PETITION NO.132-P OF 2021",
   "date_of_order": "16.12.2021",
-  "judge": "Judge Judge",
+  "judge": "MUHAMMAD ALI MAZHAR",
   "sections_cited": [
     "Section 10"
   ],
   "citations": [
     "2012 SCMR 686"
   ],
-  "parties": [],
+  "parties": [
+    "Government of Khyber Pakhtunkhwa through Secretary Communication & Works Department, Peshawar",
+    "Bacha Alam Khan and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

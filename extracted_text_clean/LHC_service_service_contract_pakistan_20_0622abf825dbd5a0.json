@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Appeals No. 290",
   "date_of_order": "02.06.2022",
-  "judge": "",
+  "judge": "Jamal Khan Mandokhail",
   "sections_cited": [
     "Section 4 of the Act",
     "section 4",
@@ -18,7 +18,16 @@
     "section 35"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Badshah Zarnin & others",
+    "Siraj Khan & others",
+    "Inayat or Rehman & others",
+    "M. Rail and others",
+    "Gold Ayub & others",
+    "Dust Muhammad & others",
+    "Zarif Shad & others",
+    "Jamal ud Din & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
