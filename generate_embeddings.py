@@ -5,6 +5,7 @@ C:\Users\Hamza\Desktop\qdrant
 python generate_embeddings.py --json_dir "d:\hafsa_thesis material\supreme_court_scraper\extracted_text_clean"
 -----------------------
 .\qdrant.exe
+python generate_embeddings.py --json_dir "extracted_text_clean" --repaired_list repair_metadata_progress.json
 
 ROOT CAUSE FOUND (via test_single_embed.py):
     Ollama ka error tha: {"error":"the input length exceeds the context length"}
