@@ -1273,14 +1273,18 @@ def main():
 
                     skipped += 1
 
-                    completed.add(
-                        str(file_path)
-                    )
+                    # Do NOT add to completed -- this file simply isn't in
+                    # Qdrant YET (e.g. still awaiting repair_metadata.py +
+                    # generate_embeddings.py). Marking it "completed" here
+                    # would permanently blacklist it from ever being
+                    # imported later, even after it's properly embedded.
+                    # Leaving it off the checkpoint means it's retried
+                    # every future run until it actually has a case_id.
 
                     log_error(
                         f"{file_path} | "
-                        f"SKIPPED: no matching "
-                        f"case_id in Qdrant"
+                        f"SKIPPED (not yet in checkpoint -- will retry "
+                        f"later): no matching case_id in Qdrant"
                     )
 
                     pbar.update(1)
