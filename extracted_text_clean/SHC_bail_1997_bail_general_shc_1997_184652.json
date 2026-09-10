@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 195 of 2023",
   "date_of_order": "17.01.2023",
-  "judge": "",
+  "judge": "Abdul Rehman",
   "sections_cited": [
     "sections 6 and 9 of the CNS Act",
     "section 9",
@@ -17,7 +17,16 @@
   "citations": [
     "PLD 1995 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman",
+    "Omar Sial",
+    "The State",
+    "The State",
+    "ANF",
+    "ANF",
+    "Abida Parveen Channer",
+    "Syed Waqar Alam Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

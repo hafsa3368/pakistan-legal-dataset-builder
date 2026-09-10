@@ -6,7 +6,7 @@
   "year": "1971",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Criminal Accountability Acquittal Appeal No.20 of 2022",
+  "case_number": "",
   "date_of_order": "19.05.2023",
   "judge": "Naimatullah Phulpoto",
   "sections_cited": [
@@ -21,7 +21,10 @@
     "2004 SCMR 1185",
     "2010 SCMR 222"
   ],
-  "parties": [],
+  "parties": [
+    "National Accountability Bureau (NAB)",
+    "Muhammad Younis son of Ali Muhammad Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

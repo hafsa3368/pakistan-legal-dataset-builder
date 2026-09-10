@@ -8,8 +8,11 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "10.03.2026",
-  "judge": "Abis Ali APPROVED FOR REPORTING JUDGE",
-  "sections_cited": [],
+  "judge": "MALIK WAQAR HAIDER AWAN",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2003 SCMR 1026",
     "2025 CLC 1951",
@@ -17,7 +20,11 @@
     "2024 MLD 32",
     "1998 MLD 2045"
   ],
-  "parties": [],
+  "parties": [
+    "Sardar Abdul Basit Khan",
+    "M/s SS Paper & Board Mills (Private) Limited",
+    "Swift Solar Energy Private Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

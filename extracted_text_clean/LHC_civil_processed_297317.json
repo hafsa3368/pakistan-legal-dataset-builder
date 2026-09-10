@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Crl. Acquittal Appeal No.D-03 of 2025",
+  "case_number": "",
   "date_of_order": "08.12.2025",
   "judge": "Shamsuddin Abbasi",
   "sections_cited": [
@@ -18,7 +18,16 @@
     "PLD 1995 SC 34",
     "PLD 2009 SC 53"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem",
+    "Mehar Ali",
+    "Ghazi Khan",
+    "Ghulam Qadir",
+    "Rasheed",
+    "Sarwar",
+    "Ali Sher Shah",
+    "DIG Mirpurkhas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

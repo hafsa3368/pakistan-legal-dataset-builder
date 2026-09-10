@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "T.A.No.698/IB/2016",
   "date_of_order": "03.03.2025",
   "judge": "MALIK JAVID IQBAL WAINS",
   "sections_cited": [
@@ -21,7 +21,13 @@
     "Section 3 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sheikh Naseem Akhtar",
+    "Commissioner Inland Revenue (Legal)",
+    "Malik Itaat Hussain Awan",
+    "Yousaf Khan",
+    "Hafiz Muhammad Idrees"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Crl. Acquittal Appeal No. 308 of 2014",
+  "case_number": "",
   "date_of_order": "13.04.2026",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zahoor-ul-Islam",
+    "Noor Alam",
+    "Muhammad Iqbal Awan",
+    "Farah Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

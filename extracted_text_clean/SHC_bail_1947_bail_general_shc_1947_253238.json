@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Crl. Bail Application No.07 of 2025",
   "date_of_order": "21.02.2025",
-  "judge": "Naeem /PA",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Sections 406, 409",
     "Section 5",
@@ -21,7 +21,28 @@
     "2009 SCMR 1488",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Javed",
+    "Muhammad Mujeeb",
+    "Mansoor Karim",
+    "Muhammad Shahzaib",
+    "Muhammad Waleed",
+    "Shabi ul Husnain",
+    "Fakhar ul Zaman",
+    "Muhammad Usman",
+    "Sohail Ahmed",
+    "Akhtar Sajjad",
+    "Mian Haad A.M. Paggawala",
+    "Mr. Raj Ali Wahid Kunwar",
+    "Mr. Shaukat Hayyat",
+    "Syed Muhammad Abdul Kabir",
+    "Ms. Amna Magsi",
+    "Mr. Mumtaz ul Hassan",
+    "Mr. Irshad Ali",
+    "DAG a/w Muhammad Junaid Hasan",
+    "Inspector/I.O. FIA Anti-Corruption Circle, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "1947",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.S-600 of 2025",
   "date_of_order": "30.05.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/s 4/5/23 PER Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Asad s/o Ali Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "CIVIL PETITIONS NO. 6406",
   "date_of_order": "13.06.2022",
-  "judge": "Judge Islamabad",
+  "judge": "MUHAMMAD ALI MAZHAR",
   "sections_cited": [
     "Section 3",
     "Section 4",
@@ -20,7 +20,10 @@
     "Section 35"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Market Committee, Multan",
+    "Additional Commissioner (Consolidation), Multan and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

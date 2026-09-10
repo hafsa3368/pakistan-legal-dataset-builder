@@ -6,14 +6,17 @@
   "year": "1979",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "Suleman Khan/PA",
+  "case_number": "Cr. Bail Application No.S-591 of 2025",
+  "date_of_order": "11.7.2025",
+  "judge": "Suleman Khan",
   "sections_cited": [
     "section 406, 419, 420, 109 and 34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahid Ali Memon",
+    "Saleem Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,24 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 6,
-  "case_number": "Criminal Petition Non106e020212",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "06.12.2022",
+  "judge": "Hashim Khun Hukur",
   "sections_cited": [
     "Section 161"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khalid",
+    "Malik ABC",
+    "Valyuri Lonors",
+    "Abid Majccd DPG Punjab",
+    "Muhammaid",
+    "Aqib Aman",
+    "Special Judge",
+    "Curential Court Fonneal",
+    "Muhammad Sharif deopilte"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

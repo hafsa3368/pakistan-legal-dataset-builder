@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Misc. Appl. No.152 of 2024",
+  "case_number": "",
   "date_of_order": "09.05.2024",
   "judge": "",
   "sections_cited": [
@@ -15,7 +15,14 @@
     "u/s 322 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdullah el Muttaq",
+    "The State",
+    "Ali Muhammad",
+    "The applicants",
+    "The State",
+    "the applicants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

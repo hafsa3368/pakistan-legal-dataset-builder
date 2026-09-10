@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constructed on Plot No.SC-II",
+  "case_number": "",
   "date_of_order": "29.08.2025",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "u/s 20 rule 13 CPC"
+  ],
   "citations": [],
   "parties": [
     "Ms. Asmat Rehman & others",

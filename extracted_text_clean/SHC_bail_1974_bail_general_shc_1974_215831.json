@@ -9,14 +9,29 @@
   "case_number": "Criminal Bail Application No.875 of 2024",
   "date_of_order": "23.05.2024",
   "judge": "Muhammad Shafi Siddiqui Justice Ms",
-  "sections_cited": [],
+  "sections_cited": [
+    "[the Ordinance, 1984]",
+    "u/s 498 Cr.P.C.",
+    "offences in respect of Banks (Special Courts) Ordinance, 1984",
+    "Federal Investigations Agency, 1974",
+    "Pakistan Penal Code [PPC]"
+  ],
   "citations": [
     "1995 SCMR 1249",
     "1996 SCMR 1132",
     "2022 MLD 577",
     "PLD 2004 Karachi 617"
   ],
-  "parties": [],
+  "parties": [
+    "Fahad Altaf S/o Altaf Hussain",
+    "The State",
+    "Muhammad Zeshan Qureshi S/o Muhammad Jamil Qureshi",
+    "The State",
+    "Mr. Ubaid Anwar",
+    "Consulate General Japan at Karachi",
+    "Mrs. Fumika Kumagae",
+    "Takahiro Kumagae"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

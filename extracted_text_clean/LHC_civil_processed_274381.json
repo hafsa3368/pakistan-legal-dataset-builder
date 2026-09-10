@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Criminal Acquittal Appeal No.442 of 2021",
+  "case_number": "",
   "date_of_order": "22.05.2025",
   "judge": "Shamsuddin Abbasi Appellant",
   "sections_cited": [
@@ -20,7 +20,10 @@
   "citations": [
     "PLD 2011 SC 554"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Hanif",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

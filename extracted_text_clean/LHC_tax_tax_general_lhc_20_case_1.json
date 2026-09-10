@@ -9,7 +9,10 @@
   "case_number": "W.P.No.171 of 2024",
   "date_of_order": "16.02.2026",
   "judge": "MALIK JAVID IQBAL WAINS",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 SCMR 201",
     "2021 SCMR 1230",
@@ -19,7 +22,18 @@
     "2021 SCMR 1376",
     "PLD 2023 SC 316"
   ],
-  "parties": [],
+  "parties": [
+    "GEPCO Engineers & Officers Association (Regd.)",
+    "Federation of Pakistan",
+    "Malik Tanveer Ahmad Awan",
+    "M/s Muhammad Ramzan Chaudhary",
+    "Barrister Abdul Qudoos Sohal",
+    "Ch. Ghulam Rasool",
+    "M/s Aurangzeb Mirza",
+    "Mr. Muhammad Irfan Hanjra",
+    "M/s Syed Ghazanfar Ali",
+    "Syed Salman Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

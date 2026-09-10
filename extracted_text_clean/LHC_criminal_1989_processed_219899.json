@@ -6,9 +6,9 @@
   "year": "1989",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Anti-Terrorism Appeal No. 80 of 2024",
+  "case_number": "",
   "date_of_order": "25.09.2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 21-M of the Antiterrorism Act",
     "Section 491 Cr.PC",
@@ -17,7 +17,14 @@
   "citations": [
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Haris Shah",
+    "Zia-ul-Haq",
+    "The State",
+    "Muhammad Ilyas",
+    "The State",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

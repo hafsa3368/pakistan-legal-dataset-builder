@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "ICA No.26984/2025",
   "date_of_order": "17.09.2025",
   "judge": "Abid Aziz Sheikh",
   "sections_cited": [
@@ -26,7 +26,13 @@
     "2025 SCMR 1248",
     "2023 CLC 616"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue",
+    "M/s Al Qadir Saeed Corporation Pvt. Limited",
+    "Syed Zain ul Abidien Bokhari",
+    "Chaudhry Qamar uz Zaman",
+    "ABID AZIZ SHEIKH"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

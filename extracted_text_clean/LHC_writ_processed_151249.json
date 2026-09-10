@@ -6,16 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "misconceived and even otherwise no case",
+  "case_number": "C.P. No.D-2386 of 2021",
   "date_of_order": "04.11.2020",
-  "judge": "JUDGE JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
     "2001 SCMR 574"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Bhajandas Tejwani",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "1973",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Appln.No.S-137 of 2020",
   "date_of_order": "31.03.2020",
-  "judge": "Ahmed/Pa",
+  "judge": "",
   "sections_cited": [
     "section 337-J PPC",
     "sections 269 and 270 PPC"
@@ -16,7 +16,10 @@
   "citations": [
     "PLD 1973 Lahore 874"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Imran Choudhary",
+    "Ms. Safa Hisbani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

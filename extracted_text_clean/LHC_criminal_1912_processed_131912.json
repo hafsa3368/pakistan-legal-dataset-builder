@@ -6,14 +6,17 @@
   "year": "1912",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Rev. A. No.S-58 of 2018",
+  "case_number": "",
   "date_of_order": "28.02.2018",
-  "judge": "",
+  "judge": "Ishad Ali Shah",
   "sections_cited": [
     "Section 24-A of General Clauses Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Habibullah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-162 of 2022",
   "date_of_order": "14.04.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "Article 199 of the Constitution"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aziz Ahmed Laghari",
+    "petitioner",
+    "respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

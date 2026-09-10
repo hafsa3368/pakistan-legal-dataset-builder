@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-1925 of 2021",
   "date_of_order": "29.03.2021",
-  "judge": "JUDGE JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
@@ -17,7 +20,10 @@
     "2019 SCMR 1952",
     "2019 SCMR 532"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Salahuddin Khan Gandapur",
+    "The petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

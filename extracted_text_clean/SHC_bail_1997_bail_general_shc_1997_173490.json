@@ -6,16 +6,19 @@
   "year": "1997",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 1608 of 2021",
   "date_of_order": "23rd November, 2021",
-  "judge": "",
+  "judge": "Naz Bibi",
   "sections_cited": [
     "sections 6 and 9",
     "section 103 Cr.P.C",
     "Section 25 of the CNS Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Naz Bibi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

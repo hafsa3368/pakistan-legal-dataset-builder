@@ -8,14 +8,20 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "25.11.2025",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 406, 419, 420, 468, 471, 109",
     "Sections 3 & 4",
     "Section 11-N"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sheeraz Khan S/o Ameer Khan",
+    "Shah Nawaz S/o Hadi Bux Mangnejo",
+    "Ubedullah Kalwar",
+    "Ameer Khan",
+    "Hadi Bux Mangnejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

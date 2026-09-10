@@ -6,10 +6,15 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Acquittal Appeal No.S-39 of 2021",
+  "case_number": "",
   "date_of_order": "22.04.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 188 IPC",
+    "P.L.D 2011 SC- 554"
+  ],
   "citations": [],
   "parties": [
     "Asif Ali Talpur",

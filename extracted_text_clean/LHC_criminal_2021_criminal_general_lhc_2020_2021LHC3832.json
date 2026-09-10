@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "criminal case being F.I.R. No. 312/20",
+  "case_number": "C.R. No. 22983 of 2021",
   "date_of_order": "29.06.2021",
-  "judge": "",
+  "judge": "Raheel Kamran",
   "sections_cited": [
     "Section 489-F of the Pakistan Penal Code",
     "section 79",
@@ -31,7 +31,14 @@
     "PLD 1988 SC 67",
     "PLD 2006 SC 32"
   ],
-  "parties": [],
+  "parties": [
+    "Amar Jeet Singh",
+    "Sant Singh J",
+    "Mr. Muhammad Iftikhar Ullah Dhillon",
+    "Ch. Muhammad Yousaf",
+    "The Superintendent of District Jail Sheikhupura",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No.489 of 2021",
   "date_of_order": "18.01.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 420/468/471 PPC",
     "section 468 PPC",
@@ -19,7 +19,14 @@
   "citations": [
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Aijaz Ahmed Hashmi",
+    "The State",
+    "Pakistan",
+    "Karachi Police Station Mithadar",
+    "DIGP Establishment CPO Sindh Karachi",
+    "State of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

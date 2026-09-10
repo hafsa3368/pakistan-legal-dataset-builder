@@ -6,7 +6,7 @@
   "year": "1999",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "25.04.2024",
   "judge": "Ahmad",
   "sections_cited": [
@@ -16,7 +16,12 @@
   "citations": [
     "1999 SCMR 2589"
   ],
-  "parties": [],
+  "parties": [
+    "Gul Hassan, Sheral, Mubarak and Bilal",
+    "Syed Sardar Ali Shah",
+    "Mr. Rukhsar Ahmed Junejo",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

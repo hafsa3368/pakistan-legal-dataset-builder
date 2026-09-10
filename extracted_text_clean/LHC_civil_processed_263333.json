@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Acquittal Appeal No.334 of 2020",
+  "case_number": "",
   "date_of_order": "05.05.2025",
   "judge": "Shamsuddin Abbasi Appellant",
   "sections_cited": [
@@ -17,7 +17,15 @@
     "1995 SCMR 635",
     "1998 SCMR 1281"
   ],
-  "parties": [],
+  "parties": [
+    "Mrs. Soofia Khan",
+    "The State",
+    "Syed Azhar Ali",
+    "Syed Mazhar Ali",
+    "Mohiuddin",
+    "Tehzeeb Fatima",
+    "Bushra"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

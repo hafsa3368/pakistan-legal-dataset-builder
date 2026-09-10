@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "",
   "date_of_order": "13th August 2023",
-  "judge": "",
+  "judge": "Sana Akram Minhas",
   "sections_cited": [
     "section 9",
     "section 5 of the Limitation Act",
@@ -33,7 +33,10 @@
     "2019 SCMR 2018",
     "PLD 1993 SC 109"
   ],
-  "parties": [],
+  "parties": [
+    "First Women Bank Ltd",
+    "Hascol Petroleum Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

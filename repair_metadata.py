@@ -64,7 +64,7 @@ def _handle_sigint(signum, frame):
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 try:
-    from new_extractor import extract_document_metadata, OUTPUT_DIR
+    from new_extractor import extract_document_metadata, OUTPUT_DIR, _is_well_formed_case_number
 except Exception as e:
     print(f"❌ Could not import new_extractor.py from this folder: {e}")
     print("   Make sure repair_metadata.py sits in the same directory as new_extractor.py")
@@ -162,23 +162,60 @@ def is_valid_judge(name) -> bool:
     return True
 
 
-# Same prefix list used by extract_document_metadata()'s case_number regex.
-# A real case number must START with one of these AND contain "No." followed
-# by an alphanumeric identifier. This replaces the old length-only check
-# (len >= 5), which let garbage sentence fragments like "Constitution is not"
-# or "W.P. Nos" pass through as "valid" and never get repaired.
-CASE_NUMBER_PREFIX_RE = re.compile(
-    r"^(?:Crl\.?|CRL\.?|Cr\.B\.A\.?|Cr\.R\.A\.?|Cr\.A\.?|Civil|W\.P\.?|Const\.?|Criminal|Misc\.?)",
-    re.I
-)
-# Requires an actual DIGIT to appear after "No." (with at most one
-# leading letter + separator in between, e.g. "No.S-1234" or "No.1234"),
-# not just any word character. Fixes a real gap: source PDF text sometimes
-# has a corrupted/mangled hyphen character right after the prefix letter
-# (e.g. "Cr. Misc. App. No. S <corrupted-char> 507 of 2023"), which stops
-# the extraction regex right at "No. S" -- a bare trailing letter with no
-# digit anywhere is always a truncated fragment, never a real case number.
-CASE_NUMBER_HAS_NO_RE = re.compile(r"No\.?\s*[A-Za-z]?[\s\-]?\d", re.I)
+# Delegates to new_extractor.py's _is_well_formed_case_number(), which uses
+# the SAME comprehensive prefix list (30+ formats -- Writ Petition, Cr.
+# Appeal, C.O., E.F.A., etc., both abbreviated and spelled-out) that
+# extract_document_metadata() itself uses to produce case_number values in
+# the first place. This module used to keep its own, much narrower prefix
+# list (only ~8 abbreviated forms) for this validity check -- that caused
+# a real, measured false-positive problem: a live Neo4j audit found ~23%
+# of case_numbers flagged "garbage" by the old narrower check, but most
+# turned out to be perfectly valid values like "Writ Petition No. 6694 of
+# 2021" or "Cr. Appeal No.S-372 of 2019" that the old check's prefix list
+# simply didn't recognize (spelled-out forms, not abbreviations). Reusing
+# the extractor's own validator keeps "is this valid" and "how did we
+# produce this" in sync, so this script no longer wastes effort trying to
+# "fix" values that were already correct.
+# Extra guard on top of _is_well_formed_case_number(): its regex's short
+# 1-2-letter abbreviation branches (E.A., T.A., M.A., C.R., etc., all
+# case-insensitive with optional dots/spaces) can accidentally match two
+# ordinary lowercase words at the start of a leaked prose fragment (e.g.
+# "E" matches the "e" in "e any...", "A" matches the "a" in "...any...");
+# the regex's generous ~40-char middle-gap wildcard (needed for genuine
+# captions like "C.O.S (Insurance) No.") then swallows the rest of the
+# garbage prose before a real "No.<digits>" elsewhere in the same string.
+# Observed live: "e any substantial reasons S.T.R No.05 of 2025" passed
+# _is_well_formed_case_number() whole, even though everything before
+# "S.T.R" is leaked prose, not part of any real case-number caption.
+#
+# A raw character-length cap on the prefix was tried first and reverted --
+# genuine spelled-out captions ("Criminal Miscellaneous Application",
+# "Criminal Bail Application") are legitimately long, so length alone
+# can't distinguish them from leaked prose of similar length. Instead,
+# every WORD in the prefix (text before the final "No.") must either be a
+# known legal-caption word or a short all-caps abbreviation token (e.g.
+# "S", "T", "R", "WP") -- an ordinary lowercase English word like "any"
+# or "reasons" fails this and correctly flags the value as unrecovered.
+_KNOWN_CAPTION_WORDS = {
+    "cr", "crl", "criminal", "civil", "const", "constt", "constitutional",
+    "constitution", "bail", "application", "applications", "app", "appln",
+    "appeal", "appeals", "petition", "petitions", "misc", "miscellaneous",
+    "writ", "revision", "revisions", "transfer", "election", "service",
+    "regular", "first", "review", "execution", "insurance", "diary",
+    "high", "court", "suo", "motu", "case", "jail", "accountability",
+    "intra", "reference", "original", "special", "suit", "suits",
+}
+_TRAILING_NO_RE = re.compile(r"Nos?\.?\s*[A-Za-z]?[\s\-]?\d[^$]*$", re.I)
+
+
+def _looks_like_caption_prefix(prefix: str) -> bool:
+    for tok in re.findall(r"[A-Za-z]+", prefix):
+        if tok.lower() in _KNOWN_CAPTION_WORDS:
+            continue
+        if tok.isupper() and len(tok) <= 4:
+            continue
+        return False
+    return True
 
 
 def is_valid_case_number(val) -> bool:
@@ -187,9 +224,12 @@ def is_valid_case_number(val) -> bool:
         return False
     if len(val) < 5 or len(val) > 60:
         return False
-    if not CASE_NUMBER_PREFIX_RE.match(val):
+    if not _is_well_formed_case_number(val):
         return False
-    if not CASE_NUMBER_HAS_NO_RE.search(val):
+    m = _TRAILING_NO_RE.search(val)
+    if not m:
+        return False
+    if not _looks_like_caption_prefix(val[:m.start()]):
         return False
     return True
 

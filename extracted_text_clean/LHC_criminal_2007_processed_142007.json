@@ -6,14 +6,17 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Acq. Appeal No.S-235 of 2019",
+  "case_number": "",
   "date_of_order": "09.12.2019",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "u/s 342 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Nabi son of Suhailo Dall",
+    "Mr. Shahzado Saleem Nahiyoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

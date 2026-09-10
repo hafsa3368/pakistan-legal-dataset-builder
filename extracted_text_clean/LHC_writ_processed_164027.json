@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-1575 of 2022",
   "date_of_order": "13.04.2022",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mir Murtaza Abro",
+    "Pakistan Orthopedic Association",
+    "Bait ul Shifa Bone Trauma Clinic Dodai"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

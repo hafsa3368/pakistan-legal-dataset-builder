@@ -6,7 +6,7 @@
   "year": "1995",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "CR. BAIL APPLN. NO.1145 OF 2025",
   "date_of_order": "02.06.2025",
   "judge": "MUSHARRAF ALI",
   "sections_cited": [
@@ -23,7 +23,18 @@
     "2014 P.Cr.L.J 178",
     "PLD 2013 Lahore 651"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Nasrullah Korai and Gulsher Advocate",
+    "S. M. Farhan Shafi",
+    "Amir @ Amiri",
+    "the State",
+    "complainant",
+    "learned II-Additional Sessions Judge, Central Karachi",
+    "learned Sessions Judge",
+    "the complainant",
+    "the learned Court below",
+    "the law officer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

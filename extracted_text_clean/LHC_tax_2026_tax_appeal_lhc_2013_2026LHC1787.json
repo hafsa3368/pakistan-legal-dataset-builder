@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 21,
-  "case_number": "misconceived and does not",
+  "case_number": "",
   "date_of_order": "27.01.2026",
   "judge": "MALIK JAVID IQBAL WAINS",
   "sections_cited": [
@@ -27,7 +27,19 @@
     "2003 SCMR 1401",
     "PLD 1956 SC 524"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue",
+    "M/s Northern Power Generation Company",
+    "M/s Muhammad Saeed Arain",
+    "Ch. Muhammad Abbas Majeed",
+    "M/s Asad Zaman Tarar",
+    "Barrister Hamza Shehram Sarwar",
+    "Malik Muhammad Shahzad Awan",
+    "Mirza Nasr Ahmad",
+    "M/s Fatima Fertilizer Company Limited",
+    "Lahore Rubber Store",
+    "Mehran Business International (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

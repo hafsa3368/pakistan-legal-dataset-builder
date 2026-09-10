@@ -6,16 +6,23 @@
   "year": "1950",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "CP No.D-5470 of 2025",
   "date_of_order": "29.01.2026",
-  "judge": "Zulfiqar Ali Sangi Date",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "section 16, 32, 79 & 192 of the Customs Act",
     "Section 156 of the Customs Act",
     "Sections 16, 32, 79 & 192 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Hashim",
+    "Federation of Pakistan",
+    "NADRA",
+    "Respondent No.3",
+    "Respondent No.4",
+    "Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "1997",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "criminal cases against any of the accused does not",
+  "case_number": "Cr. Bail Application No. 466 of 2021",
   "date_of_order": "04.05.2021",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Section 395 PPC",
     "Section 497 Cr.P.C"
@@ -24,7 +24,12 @@
     "2001 SCMR 14",
     "1997 SCMR 971"
   ],
-  "parties": [],
+  "parties": [
+    "Waseem @ Comando S/o Ishratullah",
+    "Syed Javed Shafique, S/o Shafi-ur-Rehman",
+    "Ameen S/o Aziz Ahmed",
+    "The State: Through Ms. Amna Ansari, Additional Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

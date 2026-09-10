@@ -6,9 +6,9 @@
   "year": "1969",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Appln: No.S-975 of 2016",
   "date_of_order": "06.01.2017",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 489-F and 420 PPC",
     "Section 489-F of the PPC",
@@ -20,7 +20,11 @@
   "citations": [
     "1969 SCMR 567"
   ],
-  "parties": [],
+  "parties": [
+    "Abdullah s/o Nabi Bux",
+    "Muhammad Hashim",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

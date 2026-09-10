@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 600 of 2023",
   "date_of_order": "18.02.2023",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 9",
     "section 103 Cr.P.C",
@@ -17,7 +17,13 @@
   "citations": [
     "2021 P.Cr.L.J. 443"
   ],
-  "parties": [],
+  "parties": [
+    "Asif Khan alias Mota",
+    "The State",
+    "Mr. Talib Ali Memon",
+    "Ms. Fozia",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

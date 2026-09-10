@@ -6,9 +6,9 @@
   "year": "1926",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Anti-Terrorism Appeal No. 50 of 2024",
+  "case_number": "",
   "date_of_order": "11.09.2024",
-  "judge": "",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 342 Cr.PC",
     "Section 7",
@@ -19,7 +19,13 @@
     "1995 SCMR127",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "PC Asif Khan",
+    "PC Muhammad Waseem",
+    "PC Muhammad Kashif",
+    "PC Babar Muneer Cheema",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

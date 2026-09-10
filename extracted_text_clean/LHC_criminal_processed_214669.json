@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Misc. Appl. No.253 of 2024",
+  "case_number": "",
   "date_of_order": "14.05.2024",
   "judge": "",
   "sections_cited": [
@@ -15,7 +15,11 @@
   "citations": [
     "PLD 2010 SC 691"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Nabi",
+    "Allah Dino and others",
+    "Mr. Jawaid Panhwar, advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

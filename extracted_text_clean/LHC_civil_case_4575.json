@@ -6,14 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. Appl. No.796 of 2024",
+  "case_number": "",
   "date_of_order": "19.11.2024",
   "judge": "",
   "sections_cited": [
     "section 154 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    " applicant",
+    "respondent No.4",
+    "SHO",
+    "learned counsel for applicant",
+    "learned APG",
+    "learned Justice of Peace"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,15 +7,22 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 1734 of 2020",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "01.01.2021",
+  "judge": "Muhammad Yaseen",
   "sections_cited": [
     "sections 11",
     "sections 4, 5 and 23 of the Foreign Exchange Regulation Act",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Muhammad Yaseen",
+    "Muhammad Sufian",
+    "Hassan Sabir",
+    "Waqar Alam Abbasi",
+    "Chaudhry Waseem Akhtar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

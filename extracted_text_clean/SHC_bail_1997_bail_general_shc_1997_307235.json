@@ -6,12 +6,20 @@
   "year": "1997",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. B.A. No.3389 of 2025",
   "date_of_order": "09.03.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 9"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Nazeer Janan & another",
+    "The State",
+    "M/s. Ajab Khan Khattak and Habib Ahmed Tajik",
+    "Mr. Mushraf Azhar",
+    "ANF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,21 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No. 414 of 2023",
   "date_of_order": "21.02.2023",
-  "judge": "",
+  "judge": "Abdul Kareem",
   "sections_cited": [
     "sections 6, 7, 8 and 9",
     "section 164 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Javed Ahmed Shar",
+    "Mr. Dilbar Ijaz Advocate",
+    "Tanveer Ashraf",
+    "Pakistan Customs",
+    "Mushtaq Ahmed",
+    "The Applicant",
+    "Pakistan Rangers"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

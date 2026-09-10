@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "02.04.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 365-A PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Hussain alias Muhammad Ali S/o Bakht Ali",
+    "Sabir S/o Hussain Bux alias Dost Ali",
+    "Naseer Khan alias Naseer S/o Khan Muhammad alias Bashir",
+    "Mr. Abdul Majeed Memon",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

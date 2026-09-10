@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No.3591 of 2025",
   "date_of_order": "29.12.2025",
-  "judge": "Farhan/PS",
+  "judge": "",
   "sections_cited": [
     "sections 22"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Adnan Ahmed Siddiqui s/o Shakeel Ahmed Siddiqui",
+    "Mst. Sadaf Adnan w/o Adnan Ahmed Siddiqui",
+    "Mr. Muhammad Jamil, Advocate for Applicants a/w both applicants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

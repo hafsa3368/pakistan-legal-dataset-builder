@@ -6,14 +6,20 @@
   "year": "1999",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.1102 of 2026",
   "date_of_order": "11.05.2026",
-  "judge": "HANIF JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Arsalan Shafi",
+    "The State",
+    "NAB",
+    "Syed Khurram Kamal",
+    "Danish Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

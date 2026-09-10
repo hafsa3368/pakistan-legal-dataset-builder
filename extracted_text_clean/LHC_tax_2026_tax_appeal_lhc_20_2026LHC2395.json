@@ -9,14 +9,21 @@
   "case_number": "W.P. No.794 of 2025",
   "date_of_order": "06.04.2026",
   "judge": "Muhammad Sajid Mehmood Sethi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2010 CLC 405",
     "2025 CLC 1048",
     "2013 SCMR 1049",
     "2017 SCMR 321"
   ],
-  "parties": [],
+  "parties": [
+    "Aamir Ali",
+    "District Judge, Vehari",
+    "Rana A. D. Kamran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

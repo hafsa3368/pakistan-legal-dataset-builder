@@ -6,9 +6,9 @@
   "year": "1947",
   "used_ocr": false,
   "num_chunks": 30,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.317 of 2015",
   "date_of_order": "27.09.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Sections 5-B and 5-C",
     "section 5",
@@ -33,7 +33,10 @@
     "PLD 2002 SC 1048",
     "PLD 2011 SC 1144"
   ],
-  "parties": [],
+  "parties": [
+    "Mumtaz ul Haq",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

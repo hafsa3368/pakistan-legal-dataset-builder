@@ -6,15 +6,19 @@
   "year": "1999",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-1174 of 2020",
   "date_of_order": "24.11.2021",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [
     "Section 7 of the Ordinance",
     "Section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Munir Ahmed Kalhoro",
+    "Mr. Jangu Khan",
+    "NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

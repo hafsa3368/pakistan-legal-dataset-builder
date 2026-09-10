@@ -8,15 +8,23 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No.452 of 2025",
   "date_of_order": "11.07.2025",
-  "judge": "Kamran/PS",
-  "sections_cited": [],
+  "judge": "Muhammad Noonari",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1986 SCMR 1380",
     "2021 SCMR 2086",
     "2022 SCMR 821",
     "2022 SCMR 1424"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Munawar Hussain, Advocate for the Applicant",
+    "a/w Applicant present on interim pre-arrest bail",
+    "Mr. Rab Nawaz Sargana, Advocate for the Complainant",
+    "Mr. Muhammad Noonari, DPG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

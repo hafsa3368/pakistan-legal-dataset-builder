@@ -20,7 +20,20 @@
     "PLD 1970 SC 323",
     "PLD 2021 Lahore 21"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "role": "petitioner",
+      "name": "Taj-ul-Malook"
+    },
+    {
+      "role": "respondent",
+      "name": "Inspector General of Police, Punjab, Lahore, etc."
+    },
+    {
+      "role": "respondent",
+      "name": "Mudassar Ali"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

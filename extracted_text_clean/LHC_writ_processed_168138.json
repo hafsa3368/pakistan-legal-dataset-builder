@@ -6,12 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-1924 of 2022",
   "date_of_order": "01.06.2022",
   "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Shoukat Ali Pathan",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

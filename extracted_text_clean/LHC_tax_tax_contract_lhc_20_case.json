@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Crl. Rev.. No. 834 of 2012",
+  "case_number": "",
   "date_of_order": "09.04.2025",
-  "judge": "",
+  "judge": "AALIA NEELUM, C.J",
   "sections_cited": [
     "section 420 PPC",
     "section 468 PPC",
@@ -22,7 +22,20 @@
     "Section 392 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State, etc.",
+    "Muhammad Shafique",
+    "M/s Chattha Enterprises",
+    "Mian Muhammad Asif Hayat",
+    "Abid Hussain Khichi",
+    "Munir Ahmad Bhatti",
+    "Rana Abdul Sattar Khan",
+    "Imran Sulehria",
+    "Nasrullah Khan",
+    "Mirza Abdul Majeed",
+    "Muhammad Ijaz",
+    "Rana Muhammad Arif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,21 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "construction over the land does not",
+  "case_number": "",
   "date_of_order": "09.02.2016",
-  "judge": "",
+  "judge": "Ghulam Qadir Jamali",
   "sections_cited": [
     "Section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Katcha Peshi",
+    "Mr. Irfan Ahmed Qureshi",
+    "Mr. Allah Bachayo Soomro",
+    "Ghulam Qadir Jamali",
+    "Mian Taj Muhammad Keerio",
+    "Mukhtiarkar Gothabad, Badin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

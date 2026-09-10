@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "constitutional jurisdiction. No coercive",
+  "case_number": "Writ Petition No.2343 of 2025",
   "date_of_order": "08.12.2025",
   "judge": "RAHEEL KAMRAN",
   "sections_cited": [
@@ -18,7 +18,14 @@
     "Sections 38 and 40 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khursheed & Sons",
+    "The Federation of Pakistan",
+    "Islamabad, through its Secretary",
+    "Mr. Mahmood Ahmad Bhatti, Advocate",
+    "Mr. Tanveer Ahmad, Advocate",
+    "RHEEL KAMRAN"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

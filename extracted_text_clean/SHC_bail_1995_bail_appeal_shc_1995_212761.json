@@ -6,14 +6,18 @@
   "year": "1995",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Misc. Appl. No. S-74 of 2024",
+  "case_number": "",
   "date_of_order": "02.04.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 426 Cr.PC"
+  ],
   "citations": [
     "1995 SCMR 2589"
   ],
-  "parties": [],
+  "parties": [
+    "Mushtaque Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

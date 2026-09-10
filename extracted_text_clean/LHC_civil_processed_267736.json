@@ -6,12 +6,18 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Criminal Acquittal Appeal No.493 of 2021",
+  "case_number": "",
   "date_of_order": "20.05.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ms. Amna Ansari",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Daniyal Shaikh",
+    "appellant",
+    " respondent No.1 in Cr.Acq.A 493/2021"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

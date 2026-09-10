@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "03.12.2021",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 9-C",
     "section 9",
@@ -32,7 +32,12 @@
     "2020 SCMR 1257",
     "2021 SCMR 460"
   ],
-  "parties": [],
+  "parties": [
+    "Shafique Ahmed",
+    "The State",
+    "Mr. Zubair Ahmed Khuhawar",
+    "Mr. Fayaz Hussain Sabki"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

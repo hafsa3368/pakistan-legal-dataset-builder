@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Criminal Acquittal Appeal No.61 of 2023",
+  "case_number": "",
   "date_of_order": "14.05.2025",
   "judge": "Shamsuddin Abbasi Appellant",
   "sections_cited": [
@@ -18,7 +18,12 @@
     "2024 SCMR 51",
     "2021 SCMR 873"
   ],
-  "parties": [],
+  "parties": [
+    "Capt. Syed Muhammad Aslam",
+    "Abdul Wahid Munshi Khan",
+    "Tariq Aziz",
+    "Sabir Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

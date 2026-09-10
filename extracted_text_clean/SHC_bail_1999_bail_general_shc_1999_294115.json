@@ -6,16 +6,25 @@
   "year": "1999",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. App. No. S",
+  "case_number": "",
   "date_of_order": "01.10.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "PLD 1970 Supreme Court 177",
+    "2011 P Cr. L J 344",
+    "2000 YLR 1293",
+    "1999 P Cr. L J 1870"
+  ],
   "citations": [
     "2011 P Cr. L J 344",
     "2000 YLR 1293",
     "1999 P Cr. L J 1870"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Nadeem Haider Shah",
+    "Mr. Mansoor Ahmed Shaikh",
+    "the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

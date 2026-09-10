@@ -8,14 +8,18 @@
   "num_chunks": 4,
   "case_number": "Criminal Revision Application No.58 of 2018",
   "date_of_order": "09.03.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 489-F PPC",
     "Section 345- and 345- Cr.P.C",
     "sections 345- and 345- Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ch. Muhammad Arshad",
+    "The State",
+    "Ayoob Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

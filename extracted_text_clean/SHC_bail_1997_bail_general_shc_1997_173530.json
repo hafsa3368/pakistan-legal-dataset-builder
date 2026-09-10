@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 436 of 2022",
   "date_of_order": "22.02.2022",
-  "judge": "",
+  "judge": "Ghulam Hussain",
   "sections_cited": [
     "sections 6 and 9",
     "section 9",
@@ -17,7 +17,15 @@
   "citations": [
     "2021 SCMR 460"
   ],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "The State",
+    "Mian Mohammad Hasnain",
+    "Syed Aijaz Hussain",
+    "Mr. Talib Ali Memon",
+    "The State",
+    "Malir Sessions Court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

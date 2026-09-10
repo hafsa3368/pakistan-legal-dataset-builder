@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No.S-05 of 2025",
   "date_of_order": "26.02.2025",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 426 Cr.P.C",
     "section 15"
@@ -18,7 +18,10 @@
     "2020 MLD 1664",
     "2014 SCMR 671"
   ],
-  "parties": [],
+  "parties": [
+    "Asif Ali @ Asif Khan",
+    "The State Vs. Asif Ali @ Asif Khan and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

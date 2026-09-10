@@ -8,13 +8,21 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 1545 of 2018",
   "date_of_order": "17.12.2018",
-  "judge": "",
+  "judge": "(Retd) Sardar Muhammad Saeed Khan Khokhar",
   "sections_cited": [
     "sections 6 and 9",
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Akbar Awan",
+    "State represented by Ms. Seema Zaidi",
+    "Mohammad Mohsin",
+    "State",
+    "State",
+    "Awami Colony police station",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

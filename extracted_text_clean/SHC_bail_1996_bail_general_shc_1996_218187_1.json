@@ -8,13 +8,23 @@
   "num_chunks": 2,
   "case_number": "Criminal Miscellaneous Application No.S-269 of 2024",
   "date_of_order": "15.08.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2017 SCMR 279",
     "1996 SCMR 1125"
   ],
-  "parties": [],
+  "parties": [
+    "Zulfiqar Ali Sangi",
+    "The State",
+    "Mumtaz Hussain and 5 others",
+    "The State",
+    "The State",
+    "the applicant",
+    "the accused"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

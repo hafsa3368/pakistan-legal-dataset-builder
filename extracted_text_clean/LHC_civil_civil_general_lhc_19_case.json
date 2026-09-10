@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Civil Judge held that the petitioner has C.R No.1921 of 2012",
+  "case_number": "C.R No.1921 of 2012",
   "date_of_order": "11.12.2013",
   "judge": "Aalia Neelum",
   "sections_cited": [
@@ -23,7 +23,11 @@
     "PLD 2007 SC 302",
     "PLD 2002 SC 293"
   ],
-  "parties": [],
+  "parties": [
+    "Pervaiz Akhtar Muhammad Arif",
+    "Mr. Qaisar Hasnain Khan",
+    "the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,10 +6,12 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl.Acquittal Appeal.No.S-43 of 2020",
+  "case_number": "",
   "date_of_order": "10.08.2020",
   "judge": "Irshad Ali Shah",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
   "parties": [
     "Ghufran Ali",

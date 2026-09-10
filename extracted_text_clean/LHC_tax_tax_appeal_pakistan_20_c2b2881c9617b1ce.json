@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "CIVIL APPEAL NO.33-K OF 2018",
   "date_of_order": "26.12.2022",
-  "judge": "",
+  "judge": "MUHAMMAD ALI MAZHAR",
   "sections_cited": [
     "Section 161 and 205 of the Income Tax Ordinance",
     "Section 122",
@@ -23,7 +23,10 @@
     "1997 SCMR 343",
     "1997 SCMR 1073"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "Zahid Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

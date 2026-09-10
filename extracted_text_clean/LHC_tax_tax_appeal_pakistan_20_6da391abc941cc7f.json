@@ -27,7 +27,12 @@
     "1995 SCMR 365",
     "1992 SCMR 523"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan LNG Limited",
+    "Serene Air (Pvt) Limited",
+    "Pakistan",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

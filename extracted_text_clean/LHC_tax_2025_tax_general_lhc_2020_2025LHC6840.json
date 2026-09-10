@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "construed accordingly. There is no cavil",
+  "case_number": "",
   "date_of_order": "20.11.2025",
   "judge": "Asim Hafeez",
   "sections_cited": [
@@ -24,7 +24,13 @@
   "citations": [
     "2016 SCMR 816"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue Multan Zone",
+    "Muhammad Kashif",
+    "Malik Muhammad Shahzad Awan",
+    "Muhammad Suleman Bhatti",
+    "Muhammad Imran Ghazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

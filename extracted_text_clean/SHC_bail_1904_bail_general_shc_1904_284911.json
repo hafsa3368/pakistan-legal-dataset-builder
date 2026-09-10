@@ -8,8 +8,10 @@
   "num_chunks": 2,
   "case_number": "Criminal A.T.A No.133 of 2020",
   "date_of_order": "07.10.2025",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 302, 323, 337-H, 148, 149"
+  ],
   "citations": [],
   "parties": [
     "Muhammad Khan Chachar "

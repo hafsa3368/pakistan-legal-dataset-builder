@@ -6,10 +6,12 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil Court adjudicated the dispute in Suit No.45 of 1995",
+  "case_number": "",
   "date_of_order": "30.03.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
   "parties": [
     "Mr. Naseem ur Rehman",

@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 24,
-  "case_number": "construction services in ignorance",
+  "case_number": "",
   "date_of_order": "04.11.2025",
   "judge": "Hassan Nawaz Makhdoom",
   "sections_cited": [
@@ -32,7 +32,12 @@
     "PLD 2014 SC 506",
     "PLD 2020 Islamabad 214"
   ],
-  "parties": [],
+  "parties": [
+    "Quaid-e-Azam Thermal Power Private Limited",
+    "Appellate Tribunal Inland Revenue",
+    "Federation of Pakistan",
+    "CIR/FBR"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

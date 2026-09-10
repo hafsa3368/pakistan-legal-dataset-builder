@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Acquittal Appeal No.83 of 2025",
+  "case_number": "",
   "date_of_order": "12.05.2025",
   "judge": "",
   "sections_cited": [
@@ -15,7 +15,11 @@
     "Section 249-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Muhammad Nawaz Kubar & Kashif Ali Shah",
+    "Mr. Neel Parkash",
+    "Mr. Noman Ali Phulpoto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

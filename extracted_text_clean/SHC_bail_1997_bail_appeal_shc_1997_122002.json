@@ -6,7 +6,7 @@
   "year": "1997",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Cr.Appeal.No.D-",
+  "case_number": "",
   "date_of_order": "16.01.2018",
   "judge": "Abdul Maalik Gaddi",
   "sections_cited": [
@@ -23,7 +23,11 @@
     "1996 P.Cr.L.J 440",
     "PLD 2009 Karachi 191"
   ],
-  "parties": [],
+  "parties": [
+    "Imam Bux Talpur",
+    "The State",
+    "The State of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "construction of ITR No.56081 of 2022",
+  "case_number": "",
   "date_of_order": "07.10.2024",
-  "judge": "JUDGE Approved for Reporting JUDGE Rizwan",
+  "judge": "ABID AZIZ SHEIKH",
   "sections_cited": [
     "section 133 of the Income Tax Ordinance",
     "Section 18 of the Income Tax Ordinance",
@@ -24,7 +24,10 @@
   "citations": [
     "PLD 1962 SC 128"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue",
+    "Air Sial Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

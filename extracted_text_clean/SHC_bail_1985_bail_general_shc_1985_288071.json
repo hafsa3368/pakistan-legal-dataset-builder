@@ -8,13 +8,16 @@
   "num_chunks": 1,
   "case_number": "Crl. Bail Appln. No. 2514 of 2025",
   "date_of_order": "20.10.2025",
-  "judge": "JUDGE Manthar Brohi",
+  "judge": "Omar Sial",
   "sections_cited": [
     "Sections 6/9",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Waqar @ Moota",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

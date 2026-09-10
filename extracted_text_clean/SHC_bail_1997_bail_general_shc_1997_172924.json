@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. 1968 of 2021",
   "date_of_order": "6th December, 2021",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 6 and 9",
     "section 9",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Majeed",
+    "Abdul Ghafoor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

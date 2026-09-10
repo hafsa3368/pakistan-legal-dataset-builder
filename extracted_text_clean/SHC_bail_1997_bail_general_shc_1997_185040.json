@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 201 of 2023",
   "date_of_order": "09.01.2023",
-  "judge": "",
+  "judge": "Ahmed Shah",
   "sections_cited": [
     "sections 6, 9",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Ahmed Shah",
+    "ANF",
+    "Hafeez"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

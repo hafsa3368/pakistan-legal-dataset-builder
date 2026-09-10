@@ -6,9 +6,9 @@
   "year": "1997",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P No. D-2442 of 2025",
   "date_of_order": "09.07.2025",
-  "judge": "JUDGE Jamil",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "Section 9",
     "section 25 of the Act",
@@ -17,7 +17,10 @@
   "citations": [
     "2024 SCMR 934"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Ahmed Khaskheli",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

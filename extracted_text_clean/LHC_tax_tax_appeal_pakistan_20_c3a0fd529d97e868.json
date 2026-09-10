@@ -8,13 +8,19 @@
   "num_chunks": 10,
   "case_number": "CIVIL PETITION NO.3760 OF 2019",
   "date_of_order": "01.12.2022",
-  "judge": "",
+  "judge": "Muhammad Ali Mazhar",
   "sections_cited": [
     "Section 4 of the Land Acquisition Act",
     "Section 18 of the Land Acquisition Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Malik Asif Taufique Awan, Addl. AG, Punjab",
+    "Mr. Mudassar Khalid Abbasi, ASC",
+    "Muhammad Akram and others",
+    "Muhammad Khalil Ahmad Abdullah and others",
+    "Deputy Commissioner/District Collector, Rawalpindi and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

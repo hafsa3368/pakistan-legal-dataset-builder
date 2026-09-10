@@ -9,14 +9,26 @@
   "case_number": "Criminal Bail Application No.875 of 2024",
   "date_of_order": "23.05.2024",
   "judge": "Muhammad Shafi Siddiqui Justice Ms",
-  "sections_cited": [],
+  "sections_cited": [
+    "Offences in respect of Banks (Special Courts) Ordinance, 1984",
+    "Federal Investigations Agency, 1974",
+    "Pakistan Penal Code [PPC]",
+    "Criminal Procedure Code [Cr.P.C]"
+  ],
   "citations": [
     "1995 SCMR 1249",
     "1996 SCMR 1132",
     "2022 MLD 577",
     "PLD 2004 Karachi 617"
   ],
-  "parties": [],
+  "parties": [
+    "Fumika Kumagae",
+    "Takashi Kumagae",
+    "Mission (Consulate General Japan)",
+    "Habib Bank Limited",
+    "K-Electric",
+    "Customs Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

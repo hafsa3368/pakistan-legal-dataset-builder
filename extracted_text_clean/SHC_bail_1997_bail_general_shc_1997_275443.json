@@ -6,9 +6,9 @@
   "year": "1997",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No. D-2114 of 2025",
   "date_of_order": "17.07.2025",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [
     "Section 9-2",
     "Section 9",
@@ -18,7 +18,13 @@
   "citations": [
     "2024 SCMR 934"
   ],
-  "parties": [],
+  "parties": [
+    "Rashid Khan",
+    "Bulbul Khan",
+    "The State",
+    "PI Sabir Shah",
+    "The Hon'ble Supreme Court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

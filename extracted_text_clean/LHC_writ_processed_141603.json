@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P.No.D-2534 of 2019",
   "date_of_order": "19.11.2019",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "Section 42 of the Specific Reliefs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Haji Khan Hingorjo",
+    "petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

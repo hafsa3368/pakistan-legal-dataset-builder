@@ -6,9 +6,9 @@
   "year": "1985",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 2674 of 2025",
   "date_of_order": "03.11.2025",
-  "judge": "JUDGE Saleem/PS",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 9",
     "section 497 Cr.P.C"
@@ -16,7 +16,15 @@
   "citations": [
     "PLD 1985 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Raza",
+    "Rajab Ali",
+    "Mallag Assa Dashti",
+    "Mr. Justice Omar Sial",
+    "Mr. Justice Miran Muhammad Shah",
+    "Mr. Ali Haider Saleem",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

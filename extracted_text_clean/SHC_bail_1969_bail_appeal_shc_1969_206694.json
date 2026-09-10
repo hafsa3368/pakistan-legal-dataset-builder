@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "07-12-2023",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 265-K Cr.P.C",
     "section 417 CrPC",
@@ -16,7 +16,11 @@
     "section 29 of the Limitation Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nemo",
+    "Mr. Kashif Nazeer",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

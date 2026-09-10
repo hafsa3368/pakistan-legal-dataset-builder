@@ -6,12 +6,23 @@
   "year": "unknown",
   "used_ocr": true,
   "num_chunks": 4,
-  "case_number": "Constitutional Petition No D1",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "CP No.D-145",
+  "date_of_order": "09.05.2019",
+  "judge": "Jastice Mahamuad Iabul Kathoru",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nawab Khohanu",
+    "Province of Sindh",
+    "Deputy Commissioner District Matiari",
+    "Senior Superintendent of Police District Matiari",
+    "Assistant Commissioner District Matiart",
+    "Station House Officer Police Station Matari Distrie Matar",
+    "Village H6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

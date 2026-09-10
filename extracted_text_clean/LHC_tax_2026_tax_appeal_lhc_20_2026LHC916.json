@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "",
   "date_of_order": "21.01.2026",
-  "judge": "JUDGE Zeeshan",
+  "judge": "Jawad Hassan",
   "sections_cited": [
     "section 133 of the Income Tax Ordinance",
     "section 120 of the Ordinance",
@@ -22,7 +22,10 @@
     "section 21"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue",
+    "Sajid Hussain Gondal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

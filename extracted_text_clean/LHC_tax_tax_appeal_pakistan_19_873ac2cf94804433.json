@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "C.P.L.A. No.1990 of 2025",
   "date_of_order": "15.01.2026",
   "judge": "Naeem Akhter Afghan Justice Muhammad",
   "sections_cited": [
@@ -28,7 +28,13 @@
     "2024 SCMR 426",
     "PLD 2006 SC 142"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Rifaqat Hussain Shah",
+    "Malik Itaat Hussain Awan",
+    "Ms. Romana Alam",
+    "Umer Tariq Khan",
+    "Mr. Waheed Butter"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

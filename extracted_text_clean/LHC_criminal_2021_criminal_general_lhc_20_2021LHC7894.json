@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Rev. No.94/2018",
+  "case_number": "",
   "date_of_order": "07.12.2021",
   "judge": "Muhammad Waheed Khan",
   "sections_cited": [
@@ -19,7 +19,12 @@
     "2015 P.Cr.L.J. 1566",
     "PLD 2001 Lahore 463"
   ],
-  "parties": [],
+  "parties": [
+    "Rao Khalid Iqbal",
+    "State, etc.",
+    "Mr. Khalid ur Rehman Mayo",
+    "Rao Muhammad Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 19,
-  "case_number": "civil revision. It would not",
+  "case_number": "C.R.No.569-D of 2017",
   "date_of_order": "12.02.2025",
   "judge": "Jawad Hassan",
   "sections_cited": [
@@ -22,7 +22,10 @@
     "PLD 2017 Lahore 68",
     "PLD 2023 Lahore 601"
   ],
-  "parties": [],
+  "parties": [
+    "Zubair Waheed Khan",
+    "Touseef Alam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "CIVIL PETITION NO.1896-L OF 2020",
   "date_of_order": "24.09.2021",
-  "judge": "",
+  "judge": "Muhammad Ali Mazhar",
   "sections_cited": [
     "Section 196 of the Customs Act",
     "Section 18 and 32 of the Customs Act",
@@ -24,7 +24,10 @@
     "2006 SCMR 425",
     "2008 SCMR 1538"
   ],
-  "parties": [],
+  "parties": [
+    "M/s T & N Pakistan Private Limited",
+    "The Collector Customs etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

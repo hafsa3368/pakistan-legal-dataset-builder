@@ -8,8 +8,12 @@
   "num_chunks": 3,
   "case_number": "W.P. No. 64646 of 2020",
   "date_of_order": "16.9.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Arif Mehmood",
+  "sections_cited": [
+    "S. 13",
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 CLC 1187",
     "2016 MLD 1095",
@@ -18,7 +22,11 @@
     "1991 SCMR 1185",
     "2019 MLD 772"
   ],
-  "parties": [],
+  "parties": [
+    "ABID AZIZ SHEIKH",
+    "ADDITIONAL DISTRICT JUDGE",
+    "others (not specified)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

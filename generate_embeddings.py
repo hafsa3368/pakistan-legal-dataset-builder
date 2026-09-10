@@ -403,10 +403,18 @@ def iter_chunks(json_dir: str, repaired_filenames: set = None, exclude_filenames
                 "chunk_text": chunk_text,
                 "generated_name": generated_name,
                 "actual_filename": actual_filename,
-                # Same derivation add_case_id_to_qdrant.py used to apply as a
-                # separate post-processing pass -- set directly at embed time
-                # instead, so newly-embedded points never need that extra step.
-                "case_id": actual_filename if actual_filename else generated_name,
+                # generated_name preferred over actual_filename: generated_name
+                # is always court+case_type+year+stem, and IS this file's own
+                # JSON filename on disk -- guaranteed unique by the filesystem.
+                # actual_filename (the raw original PDF name) has no such
+                # guarantee -- a live Neo4j audit found 59 cases where a
+                # generic hash-suffixed PDF name (e.g.
+                # "bail_general_pakistan_20_79805fbffadf2922.pdf") collided
+                # between the LHC and SHC source folders, merging two
+                # genuinely different cases under one case_id. Preferring
+                # generated_name here prevents that collision for every
+                # future embed.
+                "case_id": generated_name if generated_name else actual_filename,
                 "file_path": str(jf),
                 "court": data.get("court", "unknown"),
                 "case_type": data.get("case_type", "unknown"),

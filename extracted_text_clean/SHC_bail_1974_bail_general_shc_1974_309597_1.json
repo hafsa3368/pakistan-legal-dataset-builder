@@ -6,7 +6,7 @@
   "year": "1974",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitution. He further C.P. No. D",
+  "case_number": "",
   "date_of_order": "28.11.2025",
   "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
@@ -18,7 +18,11 @@
     "PLD 2016 Sindh 263",
     "PLD 2022 Lahore 119"
   ],
-  "parties": [],
+  "parties": [
+    "Ahmed Shahid",
+    "Regional Director (ANF)",
+    "Anti Narcotic Force (ANF)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

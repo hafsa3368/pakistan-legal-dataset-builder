@@ -6,7 +6,7 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "constitute a special procedure duly notified",
+  "case_number": "",
   "date_of_order": "28.01.2026",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -25,7 +25,10 @@
     "2009 SCMR 1126",
     "1992 SCMR 1898"
   ],
-  "parties": [],
+  "parties": [
+    "Foundation Wind Energy-II",
+    "Commissioner Punjab Revenue Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

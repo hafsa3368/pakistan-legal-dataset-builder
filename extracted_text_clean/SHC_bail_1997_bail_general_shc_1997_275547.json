@@ -6,9 +6,9 @@
   "year": "1997",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No. D-3151 of 2025",
   "date_of_order": "16.07.2025",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [
     "Section 92",
     "Section 9",
@@ -18,7 +18,32 @@
   "citations": [
     "2024 SCMR 934"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "Petitioner",
+      "name": "Rehmatullah son of Nadeem"
+    },
+    {
+      "type": "Prosecutor General",
+      "name": "Mumtaz Ali Shah"
+    },
+    {
+      "type": "Police",
+      "name": "SIP Muhammad Akbar"
+    },
+    {
+      "type": "Police",
+      "name": "SIP Muhammad Ashraf"
+    },
+    {
+      "type": "Police",
+      "name": "Zulfiqar Ali Sangi"
+    },
+    {
+      "type": "Prosecutor",
+      "name": "Mr. Mamoon A.K. Sherwany"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

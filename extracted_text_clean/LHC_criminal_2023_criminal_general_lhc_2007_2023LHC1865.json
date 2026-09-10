@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "criminal proceedings against the respondent No.4",
+  "case_number": "Writ Petition. No.9774 of 2022",
   "date_of_order": "10.02.2023",
   "judge": "SADIQ MAHMUD KHURRAM",
   "sections_cited": [
@@ -20,7 +20,13 @@
   "citations": [
     "PLD 2007 Lahore 53"
   ],
-  "parties": [],
+  "parties": [
+    "Umair Afzal",
+    "The Additional Sessions Judge/ Justice of Peace, Bahawalpur",
+    "three others",
+    "Mr. Zafar Iqbal Awan",
+    "Sadiq Mahmud Khurram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

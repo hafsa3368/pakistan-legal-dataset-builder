@@ -6,10 +6,12 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Crl.Tansfer Appln.No.S-68 of 2021",
+  "case_number": "",
   "date_of_order": "01.11.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
   "parties": [
     "Mr. Habibullah Ghouri",

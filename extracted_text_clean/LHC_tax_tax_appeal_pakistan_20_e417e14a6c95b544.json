@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "CIVIL PETITIONS NO. 4700",
   "date_of_order": "01.06.2022",
-  "judge": "Judge Judge Islamabad",
+  "judge": "MUHAMMAD ALI MAZHAR",
   "sections_cited": [
     "Section 8",
     "Section 7",
@@ -27,7 +27,21 @@
     "2009 SCMR 1279",
     "PLD 2016 SC 398"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Rajby Industries Karachi",
+    "M/s Multinational Export",
+    "M/s NFK Exports (Pvt.)Ltd. & others",
+    "M/s International Textile Limited",
+    "M/s Proline Private Limited",
+    "M/s Mustaqim Dyeing & Printing",
+    "M/s Liberty Mills Limited & others",
+    "M/s Gatron Ind. Ltd. & another",
+    "M/s Orient Textile Mills & others",
+    "M/s Mima Knit (Pvt.) Limited",
+    "M/s Adamjee Enterprises",
+    "M/s Aferoz Textile Industries Pvt. Ltd.",
+    "Federation of Pakistan and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

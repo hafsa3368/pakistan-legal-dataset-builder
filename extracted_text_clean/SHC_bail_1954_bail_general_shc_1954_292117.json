@@ -6,9 +6,9 @@
   "year": "1954",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Bail Application No. S-",
+  "case_number": "",
   "date_of_order": "27.08.2025",
-  "judge": "Irfan/PS",
+  "judge": "",
   "sections_cited": [
     "section 395 PPC"
   ],
@@ -16,7 +16,12 @@
     "2020 MLD 1466",
     "2022 SCMR 1954"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Nabi Bhayo",
+    "Shamsuddin Qureshi",
+    "Mr. Abdul Samad Noonari",
+    "Mr. Khalil Ahmed Maitlo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,15 +6,21 @@
   "year": "2006",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Acquittal Appeal No. 53 of 2023",
+  "case_number": "",
   "date_of_order": "07.08.2023",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 420, 468, 471, 448 and 34 PPC",
     "Section 249-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ahsan Junaid Mirza",
+    "Shaikh Farrukh Mumtaz",
+    "Mst. Kausar Huma",
+    "State and others",
+    "Abdul Khaliq and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

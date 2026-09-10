@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "W.P.No.1938 of 2023",
   "date_of_order": "13.04.2026",
-  "judge": "JUDGE Zeeshan",
+  "judge": "Sadaqat Ali Khan",
   "sections_cited": [
     "sections 420, 468 and 471 of the Pakistan Penal Code",
     "section 3 of the Law Reforms Ordinance",
@@ -25,7 +25,14 @@
     "2022 SCMR 1861",
     "1998 SCMR 1993"
   ],
-  "parties": [],
+  "parties": [
+    "RIZWAN ALI SAYAL",
+    "FEDERATION OF PAKISTAN",
+    "GOVERNMENT OF PUNJAB",
+    "PRESIDENT NATIONAL BANK OF PAKISTAN",
+    "CITY POLICE OFFICER, POLICE LINE, RAWALPINDI",
+    "MODEL CUSTOMS COLLECTORATE, ISLAMABAD"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "28.06.2021",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 3/4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdullah Khan",
+    "Shaban Khan",
+    "Mr. Sohail Ahmed Khoso",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

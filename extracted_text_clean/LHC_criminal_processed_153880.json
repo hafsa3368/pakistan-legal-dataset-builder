@@ -6,7 +6,7 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Anti-Terrorism Jail Appeal No. 147 of 2018",
+  "case_number": "",
   "date_of_order": "27.09.2021",
   "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
@@ -16,7 +16,10 @@
     "Section 302"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Anwar Ali Shah",
+    "Mr. Muhammad Iqbal Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

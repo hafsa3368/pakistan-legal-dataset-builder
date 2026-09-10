@@ -9,13 +9,24 @@
   "case_number": "Crl. Bail. Appln. No.S-20 of 2023",
   "date_of_order": "28.07.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 249-A Cr.P.C"
+  ],
   "citations": [
     "2016 P.Cr.LJ Note 127",
     "1986 P.Cr.LJ 1272",
     "PLD 1990 Kar 233"
   ],
-  "parties": [],
+  "parties": [
+    "Surety",
+    "The State",
+    "Gulzar son of Allah Dad Maitlo and Two Others",
+    "The State",
+    "Ahmed Said Shaikh",
+    "Muhammad Bukhshi and Another",
+    "Mst. Sardaran Bibi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 2034 of 2022",
   "date_of_order": "19.09.2022",
-  "judge": "",
+  "judge": "Amir Ahmed Khan",
   "sections_cited": [
     "section 489-F",
     "section 497 Cr.P.C"
@@ -16,7 +16,16 @@
   "citations": [
     "PLD 1995 SC 2"
   ],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Amir Ahmed Khan",
+    "The State",
+    "Naila Rana",
+    "Mohammad Yousuf",
+    "The State",
+    "Naheed A. Shahid",
+    "Faheem Ahmed Panhwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

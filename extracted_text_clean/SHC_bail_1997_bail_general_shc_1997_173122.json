@@ -6,9 +6,9 @@
   "year": "1997",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 1029 of 2021",
   "date_of_order": "22nd November, 2021",
-  "judge": "",
+  "judge": "Sher Zaman",
   "sections_cited": [
     "sections 6 and 9",
     "section 9",
@@ -21,7 +21,13 @@
     "PLD 2009 SC 39",
     "PLD 2009 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "The State",
+    "ANF",
+    "Mr. Zia Hussain Shah",
+    "Mr. Habib Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

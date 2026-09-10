@@ -7,13 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "01.07.2021",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 365-A, 148, 149"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jameel Ahmed",
+    "Allah",
+    "Mr. Irshad Hussain Dharejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

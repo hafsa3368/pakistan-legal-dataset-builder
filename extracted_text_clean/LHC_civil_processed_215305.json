@@ -6,14 +6,17 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Misc. Appl. No.325 of 2024",
+  "case_number": "",
   "date_of_order": "21.05.2024",
   "judge": "",
   "sections_cited": [
     "u/s 561-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Talat Parveen",
+    "The State and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

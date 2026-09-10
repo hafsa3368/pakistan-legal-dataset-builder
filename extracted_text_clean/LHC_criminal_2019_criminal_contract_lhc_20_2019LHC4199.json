@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "construction. The petitioner No.1",
+  "case_number": "C.R.No.293 of 2014",
   "date_of_order": "12.12.2019",
   "judge": "MIRZA VIQAS RAUF",
   "sections_cited": [
@@ -22,7 +22,12 @@
     "2014 CLC 561",
     "PLD 2009 Lahore 57"
   ],
-  "parties": [],
+  "parties": [
+    "THE LOUIS BERGER GROUP, ETC.",
+    "LTH JOINT VENTURE, ETC.",
+    "CIVIL AVIATION AUTHORITY",
+    "respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

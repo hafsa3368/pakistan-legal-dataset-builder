@@ -8,7 +8,7 @@
   "num_chunks": 1,
   "case_number": "Crl. Bail Application No. 601 of 2023",
   "date_of_order": "28.11.2022",
-  "judge": "",
+  "judge": "Abdul Khaliq",
   "sections_cited": [
     "sections 6, 9",
     "section 497 Cr.P.C"
@@ -16,7 +16,12 @@
   "citations": [
     "PLD 1995 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Ibrahim Rais and Matloob Hussain Qureshi",
+    "Ms. Abida Parveen Channer",
+    "ANF a/w PI Muhammad Imran",
+    "Omar Sial"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

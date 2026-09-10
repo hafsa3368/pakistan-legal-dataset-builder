@@ -6,16 +6,23 @@
   "year": "1997",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 1992 of 2021",
   "date_of_order": "8th December, 2021",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 6 and 9",
     "section 103 Cr.P.C",
     "section 25 of the CNS Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farhan",
+    "Ibrahim Hyderi police station",
+    "State",
+    "Asghar Ali",
+    "Malir",
+    "Syed Mohammad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

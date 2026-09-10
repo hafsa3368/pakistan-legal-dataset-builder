@@ -7,14 +7,19 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Criminal Bail Applications No. 15 of 2022",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "28.04.2022",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "sections 2",
     "section 156 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Haresh Kumar",
+    "The State",
+    "Sanjay Kumar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

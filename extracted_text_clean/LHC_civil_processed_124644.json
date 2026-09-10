@@ -6,10 +6,13 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc Appl No.S-706/2017",
+  "case_number": "",
   "date_of_order": "19.03.2018",
   "judge": "Sajjad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
   "parties": [
     "Mr. Rashid Khan Durani",
