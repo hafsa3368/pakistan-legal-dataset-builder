@@ -9,13 +9,21 @@
   "case_number": "Crl. Bail Application No.S-903 of 2023",
   "date_of_order": "01.12.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 249-A Cr.P.C"
+  ],
   "citations": [
     "2016 P.Cr.LJ Note 127",
     "1986 P.Cr.LJ 1272",
     "PLD 1990 Kar 233"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Rajab Ali Gaho",
+    "Mr. Khalid Hussain Lakho",
+    "The State",
+    "Masood s/o Hajjam Junejo",
+    "Khaliqdino son of Chakar Pahnwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,15 +6,21 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr. Bail Application No. 1926 of 2025",
+  "date_of_order": "25.09.2025",
   "judge": "",
   "sections_cited": [
     "section 376-B",
     "sections 3 and 4 of the Sindh Child Marriage Restraint Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zeeshan Khan",
+    "Mr. Saifullah",
+    "Mr. Fazal Khan",
+    "Mr. Muhammad Iqbal Awan",
+    "the complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

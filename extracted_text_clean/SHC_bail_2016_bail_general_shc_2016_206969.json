@@ -6,14 +6,24 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "constrained to hereby dismiss Banking Suit No.B-49 OF 2007",
+  "case_number": "",
   "date_of_order": "28.09.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Sindh High",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2020 SCMR 300"
   ],
-  "parties": [],
+  "parties": [
+    "Mr.Khurram Ashfaq",
+    "Ms.Noreen Saeed",
+    "Standard Chartered Bank (formerly Union Bank Limited)",
+    "Pakistan Agricultural Storage & Services Corporation (PASSCO)",
+    "Moon Enterprises",
+    "Sui Northern Gas Pipelines Limited",
+    "Ghulam Qadir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 6,
   "case_number": "Criminal Bail Application No.851 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "17.7.2023",
+  "judge": "Nazir Ahmed",
   "sections_cited": [
     "Section 6",
     "section 9",
@@ -37,7 +37,13 @@
     "2021 SCMR 1212",
     "2008 SCMR 1254"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Nazir Ahmed",
+    "Mr. Muntazir Mehdi",
+    "the applicant",
+    "the accused",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

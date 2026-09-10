@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Bail Application No.S-",
+  "case_number": "",
   "date_of_order": "16-07-2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 324 PPC",
     "Section 337L PPC",
@@ -22,7 +22,13 @@
     "PLD 2017 SC 730",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Sajid and Zubair",
+    "Syed Mehboob Ali Shah",
+    "The State",
+    "Muhammad Ibrahim Gambhir",
+    "Shafi Muhammad Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

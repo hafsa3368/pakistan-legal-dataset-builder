@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Bail Application No.516 of 2023",
   "date_of_order": "14.02.2023",
-  "judge": "",
+  "judge": "Afzal Haider",
   "sections_cited": [
     "Section 489-F PPC",
     "section 489-F",
@@ -21,7 +21,13 @@
     "2014 SCMR 1032",
     "1995 SCMR 170"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Jahangir",
+    "Muhammad Rizwan Khan",
+    "Muhammad Iqbal Awan",
+    "Pakistan Television",
+    "Muhammad Wasif Riaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

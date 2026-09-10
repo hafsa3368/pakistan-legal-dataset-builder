@@ -6,14 +6,22 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-119 of 2018",
   "date_of_order": "22.02.2018",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [
     "section 506/2, 504, 34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Syed Shafique Ahmed Shah",
+    "M/s Muhammad Ismail Bhutto",
+    "Syed Meeral Shah",
+    "Mr. Zeeshan Ali Memon",
+    "SSP Matiari",
+    "petitioner No. 2",
+    "petitioner No. 1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

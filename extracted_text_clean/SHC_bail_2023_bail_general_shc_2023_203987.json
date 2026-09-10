@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr. Bail Appln: No.D-55 of 2023",
   "date_of_order": "04.10.2023",
-  "judge": "JUDGE g",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "sections 302, 324, 353, 109,337-A",
     "Section 6/7",
@@ -23,7 +23,22 @@
     "2012 YLR 2942",
     "2021 MLD292"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Riaz, Muhammad Yaseen, Tajamul Hussain, Muzammil Hussain",
+    "Inspector Jabir Hussain Lahori",
+    "Salahuddin Pathan",
+    "Mukhtiarkar Sanghar",
+    "Tapedar",
+    "PC Rustam Ali",
+    "ASI Muhammad Yousif Pathan",
+    "Zulfiqar Ali Sangi",
+    "Muhammad Irfan",
+    "Muhammad Rehman",
+    "Amir Altaf",
+    "WHC Ali Muhammad",
+    "PC Zakir",
+    "ASCI"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

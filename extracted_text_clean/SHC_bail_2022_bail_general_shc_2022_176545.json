@@ -8,13 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Case No.75/2022",
   "date_of_order": "24.11.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Sections 381-A, 427, 34 PPC",
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khadim Hussain",
+    "The State v. Niaz Lund and others",
+    "The State",
+    "Niaz Hussain Lund"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

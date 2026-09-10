@@ -6,14 +6,19 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Appln No.2159 of 2025",
   "date_of_order": "25.08.2025",
   "judge": "Asif",
   "sections_cited": [
     "Sections 4/5/23 FER Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mumtaz Hussain",
+    "Mr. Muhammad Mushtaq, Advocate",
+    "the applicant",
+    "the applicant/a/w the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

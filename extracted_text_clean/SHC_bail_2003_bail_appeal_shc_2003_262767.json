@@ -6,9 +6,9 @@
   "year": "2003",
   "used_ocr": false,
   "num_chunks": 34,
-  "case_number": "Criminal Accountability Appeal No.L5 of 2001",
+  "case_number": "",
   "date_of_order": "03.12.2018",
-  "judge": "",
+  "judge": "Mohammad Khan Agha",
   "sections_cited": [
     "Sections 409 PPC",
     "Section 109 PPC",
@@ -31,7 +31,14 @@
     "PLD 2013 SC 829",
     "PLD 2017 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Wahab",
+    "Abdul Samad",
+    "Mohammad Akhter",
+    "Mohammad Asad Ashfaque",
+    "Adil Flayat Akhter",
+    "National Accountability Bureau"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

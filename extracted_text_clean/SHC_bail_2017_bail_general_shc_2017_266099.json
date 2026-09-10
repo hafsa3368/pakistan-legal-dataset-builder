@@ -6,12 +6,24 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Const. Petitiun No.D-6904 of 2019",
+  "case_number": "",
   "date_of_order": "23.10.2017",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mohammad Karinr Khan Agha",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mansoor Ahmed Rajput",
+    "Asif Raz",
+    "Nawaz Sharjeet Inam Memon",
+    "Zulfiqar Ali Shalwani",
+    "Mohammad Yousuf Kabolo",
+    "Government of Sindh",
+    "National Accountability Bureau",
+    "Special Prosecutor, NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

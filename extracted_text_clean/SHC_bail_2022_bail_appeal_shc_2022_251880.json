@@ -6,12 +6,20 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.S-203 of 2023",
   "date_of_order": "28.03.2025",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 426 Cr.P.C",
+    "u/s 409 PPC",
+    "u/s 5"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman Khoso",
+    "Mr. Jehanzeb Ali Dahri",
+    "Ms. Safa Hisbani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

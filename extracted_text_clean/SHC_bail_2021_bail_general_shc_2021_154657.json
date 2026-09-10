@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1060 of 2021",
   "date_of_order": "02.09.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 457/380/34 PPC",
     "section 497 Cr.P.C",
@@ -19,7 +19,17 @@
     "2000 P.Cr.L.J 1031",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Riaz Ahmed alias Waqeel",
+    "Mir Murtaza",
+    "The State",
+    "Ibrahim",
+    "Khan Muhammad Mallah",
+    "The State",
+    "The State",
+    "The State",
+    "ASI Rasool Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

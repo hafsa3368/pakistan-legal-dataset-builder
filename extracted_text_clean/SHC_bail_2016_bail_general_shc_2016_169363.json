@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "CRLJ note",
+  "case_number": "",
   "date_of_order": "27.02.2022",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 462-C, 427 PPC",
     "sections 15, 17 & 24",
@@ -28,7 +28,14 @@
     "2019 SCMR 1457",
     "2016 SCMR 1282"
   ],
-  "parties": [],
+  "parties": [
+    "Farhan Illahi Mahar",
+    "SSGC Larkana",
+    "Police Station Thul",
+    "Mr. Asif Hussain M. Nawaz Chandio",
+    "Mr. Aitbar Ali Bullo",
+    "Mr. Muhammad Ramzan Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

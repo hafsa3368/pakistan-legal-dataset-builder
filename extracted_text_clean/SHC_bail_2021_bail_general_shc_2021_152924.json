@@ -6,14 +6,21 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "civil servant at the time of making the nomination",
+  "case_number": "CP.No.D-4356 of 2019",
   "date_of_order": "02.09.2020",
-  "judge": "",
+  "judge": "Nazir Ahmed Shar",
   "sections_cited": [
     "section 8"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nazir Ahmed Shar",
+    "Dr. Sikandar Ali Memon",
+    "Dr. Muhammad Bux Dahani",
+    "Deputy Director Health Department",
+    "The Health Department",
+    "Malir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

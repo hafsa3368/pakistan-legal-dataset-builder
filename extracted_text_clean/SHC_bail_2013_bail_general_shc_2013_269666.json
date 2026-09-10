@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 6,
   "case_number": "Crl. Bail Application No.S-330 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "05-05-2025",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Sections 212 and 120-B of the Pakistan Penal Code",
     "Sections 23 and 27 of the Sindh Arms Act",
@@ -27,7 +27,10 @@
     "2021 YLR 2190",
     "2023 PCrLJ Note 684"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Waheed Shar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

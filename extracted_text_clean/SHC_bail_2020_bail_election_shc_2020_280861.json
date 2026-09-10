@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Bail Application No. 1514 of 2025",
   "date_of_order": "21.08.2025",
-  "judge": "",
+  "judge": "Muhammad Hasan (Akber)",
   "sections_cited": [
     "Section 409/419/420/468/471/472/473/109/34 PPC",
     "Section 5",
@@ -34,7 +34,10 @@
     "PLD 1995 SC 49",
     "PLD 2019 SC 112"
   ],
-  "parties": [],
+  "parties": [
+    "Akhtar Ali son of Ghulam Mustafa",
+    "Abdul Salam Mandhro son of Abdul Rahman Mandhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

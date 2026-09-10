@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "criminal and is not",
+  "case_number": "",
   "date_of_order": "01.12.2025",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
@@ -18,7 +18,11 @@
     "2024 SCMR 205",
     "2022 SCMR 1764"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Mr. Ali Haider Saleem",
+    "Deedar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

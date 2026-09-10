@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.667 of 2021",
   "date_of_order": "25.08.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 324/353/147/148/149/504 PPC",
     "section 497 Cr.P.C",
@@ -20,7 +20,13 @@
   "citations": [
     "PLD 2017 SC 730"
   ],
-  "parties": [],
+  "parties": [
+    "Abrar Hussain",
+    "Police Station Sujawal",
+    "State",
+    "Qurban Ali",
+    "Aachar Machhi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

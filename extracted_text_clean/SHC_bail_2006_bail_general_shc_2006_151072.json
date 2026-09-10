@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Bail Application No. 358 Of 2021",
   "date_of_order": "21.04.2021",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 6/9-C",
     "Sections 21 and 22",
@@ -32,7 +32,12 @@
     "2003 SCMR 573",
     "PLD 2009 SC 39"
   ],
-  "parties": [],
+  "parties": [
+    "Naseer Ahmed @ Naseera",
+    "The State",
+    "Ms. Khair un Nisa",
+    "Ms. Rubina Qadir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

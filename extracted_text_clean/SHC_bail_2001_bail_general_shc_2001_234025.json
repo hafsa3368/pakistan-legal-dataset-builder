@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No. D-40/2016",
   "date_of_order": "14.01.2020",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 19"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Achar Khan Gabol",
+    "petitioner",
+    "Nadeem son of Sono Khan Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

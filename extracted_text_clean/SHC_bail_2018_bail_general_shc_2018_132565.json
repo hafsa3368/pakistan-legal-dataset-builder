@@ -8,14 +8,29 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No.6185 of 2018",
   "date_of_order": "16.10.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "",
   "sections_cited": [],
   "citations": [
     "2008 SCMR 196",
     "2014 P.Cr.L.J. 1100",
     "2008 SCMR 1135"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Moulvi Iqbal Haider, Advocate for Petitioner in CP D-6185 of 2018",
+    "Mr. Muhammad Hafeez Sandhu, Advocate for Petitioner in CP D- 6075 of 2018",
+    "Mr. Muhammad Akbar Khan, Advocate for Petitioner in CP D – 5653 of 2018",
+    "Mr. Khalid Mehmood Awan, Advocate for Petitioners in CP D – 2314 and CP D – 7747 of 2017",
+    "Mr. Samsam Ali Khan, Advocate for Petitioner in CP D – 8002 of 2017",
+    "Mr. Zain A. Jatoi, Advocate for Petitioner in CP D- 5252 of 2018",
+    "Mr. Muhammad Akram Javed, Special Prosecutor NAB",
+    "Zulfiqar Hassan Ali",
+    "Shaukat Hussain",
+    "Nazar Ali",
+    "Karim Farishta",
+    "Essa Khan",
+    "Barkat Ali",
+    "Nizar Ali Fazwani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

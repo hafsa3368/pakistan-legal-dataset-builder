@@ -6,9 +6,9 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail Appln: No.S-540 of 2016",
   "date_of_order": "02.01.2017",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "Section 324 PPC",
     "section 497 Cr.P.C"
@@ -16,7 +16,11 @@
   "citations": [
     "2011 SCMR 45"
   ],
-  "parties": [],
+  "parties": [
+    "Waqas Khehro",
+    "Ghulam Abbas Khoso",
+    "SSGC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

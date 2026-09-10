@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Const. Petition No.D-",
+  "case_number": "",
   "date_of_order": "09-07-2025",
   "judge": "Muhammad Saleem Jessar Mr",
   "sections_cited": [
@@ -21,7 +21,13 @@
     "2022 SCMR 1555",
     "PLD 2014 SC 458"
   ],
-  "parties": [],
+  "parties": [
+    "Qamaruddin Khaskheli",
+    "Nasrullah Solangi",
+    "The State and Province of Sindh",
+    "M/s Zulfiqar Ahmed Jatoi",
+    "Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

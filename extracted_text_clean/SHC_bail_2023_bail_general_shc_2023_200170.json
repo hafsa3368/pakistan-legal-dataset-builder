@@ -6,14 +6,26 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Bail Application No.S-",
+  "case_number": "",
   "date_of_order": "17-07-2023",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Section 498 of IPC",
+    "Section 300 of IPC"
+  ],
   "citations": [
     "2020 P.Cr.L.J Note 199"
   ],
-  "parties": [],
+  "parties": [
+    "Amjad Ali Bohio",
+    "The State",
+    "Complainant Ghulam Fareed",
+    "Mr. Muhammad Nawaz Qazi",
+    "Mr. Aftab Ahmed Shar",
+    "Abdul Waheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Crl. Bail Application No.3203 of 2025",
   "date_of_order": "02.01.2026",
-  "judge": "",
+  "judge": "Syed Fiaz ul Hassan Shah",
   "sections_cited": [
     "sections 9, 10",
     "Sections 295-A, 295-B, 295-C, 298-A/34 PPC",
@@ -25,7 +25,12 @@
     "2023 P.Cr.L.J. 114",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Bilal S/o Shahbaz Mughal",
+    "Tahir S/o Faqir Muhammad Khaskheli",
+    "Muhammad Nadeem Ferozi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

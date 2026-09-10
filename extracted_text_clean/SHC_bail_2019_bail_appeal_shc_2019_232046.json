@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. D-195/2017",
   "date_of_order": "05.09.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner Aijaz Ali Memon",
+    "Special Prosecutor NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

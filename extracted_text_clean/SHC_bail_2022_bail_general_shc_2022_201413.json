@@ -8,7 +8,7 @@
   "num_chunks": 17,
   "case_number": "Civil Petition No.19-",
   "date_of_order": "21.08.2023",
-  "judge": "",
+  "judge": "Jawad Akbar Sarwana",
   "sections_cited": [
     "Section 9",
     "Section 151 Civil Procedure Code",
@@ -27,7 +27,12 @@
     "2000 CLC 1013",
     "PLD 2012 SC 288"
   ],
-  "parties": [],
+  "parties": [
+    "The Bank of Punjab",
+    "HASCOL Petroleum Limited",
+    "Mr Behzad Haider and Mehmood Ali",
+    "Ms Alizeh Bashir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,26 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.S-822 of 2023",
   "date_of_order": "11.09.2023",
   "judge": "Shahid",
   "sections_cited": [
     "Sections 147, 148, 149, 506/2, 403, 504 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Hussain Khan @ Budho, Ghulam Haider, Ghulam Rasool @ Karo, Sadam Hussain, Kandero, Ghulam Murtaza",
+    "Ghulam Fareed",
+    "Muhammad Hussain Khan @ Budho",
+    "Ghulam Haider",
+    "Ghulam Rasool @ Karo",
+    "Sadam Hussain",
+    "Kandero",
+    "Ghulam Murtaza",
+    "Ghulam Fareed",
+    "Asan",
+    "Dino"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

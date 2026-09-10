@@ -8,12 +8,20 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No. 479 of 2023",
   "date_of_order": "25.02.2023",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 9 of the CNS Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Hamza Siddique",
+    "ANF",
+    "APX Courier Services",
+    "Tehseen",
+    "F.I.R.",
+    "the Applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

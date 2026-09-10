@@ -7,13 +7,21 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No. 584 of 2021",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "20-05-2022",
+  "judge": "Sultan Aziz",
   "sections_cited": [
     "sections 6 and 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Sultan Aziz",
+    "S.I.P. Muhammad Hassan Koharo",
+    "Ms. Abida Parveen Channer",
+    "Shamsher Khan",
+    "ANF",
+    "Emirates Airline"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

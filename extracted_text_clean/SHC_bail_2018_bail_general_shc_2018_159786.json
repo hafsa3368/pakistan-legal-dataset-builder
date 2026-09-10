@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Crl. Misc. Application No. D-",
+  "case_number": "",
   "date_of_order": "05.03.2018",
   "judge": "Salahuddin Panhwar",
   "sections_cited": [
@@ -17,7 +17,22 @@
     "2006 SCMR 966",
     "PLD 2009 SC 385"
   ],
-  "parties": [],
+  "parties": [
+    "Mukhtiar Ahmed Khan Tamandar",
+    "Pervaiz Ahmed",
+    "Sardar Khan Chandio",
+    "Karamullah Khan",
+    "Karamullah Khan",
+    "Qabil Hussain",
+    "Ali Gohar Chandio",
+    "Ghulam Murtaza Chandio",
+    "Sikandar Chandio",
+    "Zulfiqar Chandio",
+    "Ghulam Qadir alias Qadu Chandio",
+    "Burhan Chandio",
+    "Manzoor Ahmed",
+    "Aijaz Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

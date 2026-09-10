@@ -6,16 +6,22 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 13 of 2020",
   "date_of_order": "27.02.2020",
-  "judge": "",
+  "judge": "ABDUL MOBEEN LAKHO",
   "sections_cited": [
     "section 103",
     "section 2",
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Sohail Uddin s/o Moin Uddin",
+    "Malik Asad Ali Khan",
+    "SSGC",
+    "Rana Sadiq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

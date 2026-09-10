@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Crl. Bail Application No.S-129 of 2023",
   "date_of_order": "19.02.2024",
-  "judge": "",
+  "judge": "Amjad Ali Bohio",
   "sections_cited": [
     "Section 377, 377-B, 292-C, 506",
     "Section 497 Cr.P.C",
@@ -24,7 +24,19 @@
     "2018 YLR Note 283",
     "2017 YLR Note 339"
   ],
-  "parties": [],
+  "parties": [
+    "Ahmed",
+    "Mubeen",
+    "Nabo",
+    "Habib",
+    "Soomar",
+    "Hakeem",
+    "Ghulam Muhammad son of Ameen",
+    "Riaz",
+    "Wasayo",
+    "Dhani Bakhsh Mari",
+    "Shaukat Ali Rahimoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,16 +6,25 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr. Bail Appln: No.S-744 of 2023",
   "date_of_order": "09.10.2023",
-  "judge": "",
+  "judge": "ZULFIQAR ALI SANGI",
   "sections_cited": [
     "section 489-F",
     "section 497",
     "Section 7 of Negotiable Instrument Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rashid",
+    "Abdul Rasheed",
+    "State",
+    "complainant",
+    "applicant",
+    "Mr. Aziz Ahmed Laghari",
+    "Ms. Rameshan Oad",
+    "Mr. Muhammad Shoaib"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

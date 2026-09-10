@@ -6,9 +6,9 @@
   "year": "2005",
   "used_ocr": false,
   "num_chunks": 22,
-  "case_number": "criminal record and are innocent",
+  "case_number": "Cr. Appeal No. 136 of 2014",
   "date_of_order": "19.12.2016",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Section 3 of the Illegal Dispossession Act",
     "Section 200 Cr.P.C",
@@ -33,7 +33,12 @@
     "PLD 2007 Lahore 231",
     "PLD 2011 SC 181"
   ],
-  "parties": [],
+  "parties": [
+    "Basar & others",
+    "The State and another",
+    "Basar & others",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

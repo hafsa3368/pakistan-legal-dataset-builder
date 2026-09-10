@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Civil Petition No.1418 of 2023",
   "date_of_order": "23.10.2023",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "section 9 of West Pakistan Family Court Act",
     "Section 17-A of Family Courts Act"
@@ -16,7 +16,11 @@
   "citations": [
     "2001 CLC 707"
   ],
-  "parties": [],
+  "parties": [
+    "Rehmat Ali",
+    "Mst. Shahida & Others",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

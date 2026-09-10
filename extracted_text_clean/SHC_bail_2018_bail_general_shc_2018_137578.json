@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "19.03.2019",
-  "judge": "Tufail/PA",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "Section 324, 504, 34 PPC",
     "Section 324 PPC",
@@ -17,7 +17,11 @@
     "Section 337-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "complainant",
+    "applicant",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

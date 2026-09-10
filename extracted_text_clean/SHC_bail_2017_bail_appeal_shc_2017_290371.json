@@ -8,12 +8,16 @@
   "num_chunks": 2,
   "case_number": "Civil Petition No.1809/L of 2002",
   "date_of_order": "13.11.2025",
-  "judge": "",
+  "judge": "B-K Soomro",
   "sections_cited": [
     "section 196 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Shahnawaz Memon, advocate",
+    "Mr. Fawad, advocate",
+    "Applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

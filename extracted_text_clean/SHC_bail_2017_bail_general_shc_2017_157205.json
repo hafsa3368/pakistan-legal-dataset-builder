@@ -6,15 +6,23 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. B.A. No.S-02 of 2022",
   "date_of_order": "21.02.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "section 489-F PPC",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Shahid Jugnu",
+    "The State",
+    "Muhammad Rahim Gaju",
+    "Mr. Imam Bakhsh Baloch",
+    "Ms. Rameshan Oad",
+    "The Honourable Supreme Court of Pakistan",
+    "Tando Adam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

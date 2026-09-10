@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Misc. Application No. 652 of 2022",
-  "date_of_order": "",
+  "date_of_order": "07-11-2022",
   "judge": "",
   "sections_cited": [
     "section 561-A Cr.P.C",
@@ -16,7 +16,10 @@
   "citations": [
     "PLD 2016 SC 55"
   ],
-  "parties": [],
+  "parties": [
+    "Appellants",
+    "Applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

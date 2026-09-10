@@ -6,14 +6,26 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Bail Appln. No. S",
+  "case_number": "",
   "date_of_order": "25.02.2023",
-  "judge": "",
+  "judge": "Zulifqar Ali Sangi",
   "sections_cited": [
     "Section 120-B, 221, 222, 223"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Asif Ali Korai",
+    "Sardar Ali Shah",
+    "Qadir bux @ Babu",
+    "Ghulam Dastagir Khokhar",
+    "Ali Bux Bhutto",
+    "Nabi Bux Dahri",
+    "Mohammad Ibrahim Bullo",
+    "PC/2698 Ellahi Bux",
+    "PC/240 Rustam Ali",
+    "HC/Mumtaz Hussain Malik",
+    "Babar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Bail Application No.D-28 of 2025",
   "date_of_order": "13.03.2025",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [
     "section 9",
     "sections 3 & 4",
@@ -35,7 +35,15 @@
     "PLD 2022 SC 497",
     "PLD 2022 SC 743"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Mahvish",
+    "Munawar Ali Bozdar",
+    "The State",
+    "Zahida",
+    "Muhammad Faheem Soomro",
+    "Right Bank Out Fall Drain (RBOD-II)",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

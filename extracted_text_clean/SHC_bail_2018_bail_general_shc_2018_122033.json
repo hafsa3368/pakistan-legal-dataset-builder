@@ -8,10 +8,12 @@
   "num_chunks": 1,
   "case_number": "Criminal Bail Application No.D-71 of 2017",
   "date_of_order": "17.01.2018",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Haider"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

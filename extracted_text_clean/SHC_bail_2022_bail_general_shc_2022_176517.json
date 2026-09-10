@@ -9,9 +9,23 @@
   "case_number": "Criminal Application No.S-1304 of 2022",
   "date_of_order": "02.01.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asif Ali Bughio",
+    "Mr. Zulqarnain Talpur",
+    "Mr. Nazar Muhammad Memon",
+    "complainant",
+    "applicants",
+    "accused",
+    "Zulfiqar Ali Shah",
+    "Syed Lal Hussain Shah alias Jahangir",
+    "Zarab Ali Shah",
+    "Mujahid Hussain Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,13 @@
   "case_number": "Criminal Bail Application No.S-1022 of 2016",
   "date_of_order": "06.12.2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ayaz Hussain Tunio, Advocate, Advocate alongwith applicant/accused"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

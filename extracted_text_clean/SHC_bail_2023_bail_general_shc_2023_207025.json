@@ -6,14 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constant absence of Plaintiff and no effort",
+  "case_number": "",
   "date_of_order": "13.10.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2020 SCMR 300"
   ],
-  "parties": [],
+  "parties": [
+    "KMC",
+    "KDA",
+    " Plaintiff"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

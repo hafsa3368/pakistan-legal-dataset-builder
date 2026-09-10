@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Bail Application No. 1958 of 2024",
   "date_of_order": "10.10.2024",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Sections 395 & 337-F",
     "section 395 PPC",
@@ -28,7 +28,13 @@
     "PLD 2009 SC 427",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Lal Muhammad son of Abdul Ghafoor",
+    "Yar Muhammad son of Abdul Ghafoor",
+    "Waliullah son of Abdul Ghafoor",
+    "Muhammad Sardar son of Abdul Ghafoor",
+    "Ashraf son of Lal Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

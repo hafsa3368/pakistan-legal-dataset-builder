@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "criminal record of nature nor",
+  "case_number": "Cr. Bail Appln: No.S-867 of 2023",
   "date_of_order": "21.08.2023",
-  "judge": "",
+  "judge": "ZULFIQAR ALI SANGI",
   "sections_cited": [
     "sections 506, 147, 148,149, 504, 337-A",
     "section 497",
@@ -17,7 +17,11 @@
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mohsin Raza Gopang",
+    "Ms. Rameshan Oad",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

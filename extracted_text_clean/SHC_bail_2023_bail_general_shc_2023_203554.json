@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Bail Application No. 1677 of 2023",
   "date_of_order": "03.10.2023",
-  "judge": "",
+  "judge": "Muhammad Tahir Bukhari",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Section 392/397/34 PPC",
@@ -27,7 +27,13 @@
     "2022 SCMR 2024",
     "2023 SCMR 679"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleh",
+    "Zain-ul- Abideen",
+    "complainant",
+    "prosecution",
+    "police"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

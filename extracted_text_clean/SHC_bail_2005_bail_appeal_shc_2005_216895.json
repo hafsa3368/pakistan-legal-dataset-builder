@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Appeal No. S-68 of 2024",
   "date_of_order": "27.06.2024",
-  "judge": "",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "section 3 of the Illegal Dispossession Act",
     "Section 342",
@@ -29,7 +29,10 @@
     "PLD 2003 Karachi 127",
     "PLD 2013 Lahore 651"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem s/o Muhammad Azam",
+    "Merajuddin s/o Salahuddin Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Crl. Bail Application No.S-288 of 2025",
   "date_of_order": "05.07.2022",
-  "judge": "",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Sections 452, 382, 381-A, 427, 436, 506/2, 337-A",
     "Sections 337-A",
@@ -20,7 +20,11 @@
     "2009 SCMR 299",
     "2025 SCMR 318"
   ],
-  "parties": [],
+  "parties": [
+    "Aqeel @ Raheem Bux Mahar",
+    "The State",
+    "Mst. Shazia Parveen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

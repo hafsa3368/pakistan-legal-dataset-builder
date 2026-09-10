@@ -8,12 +8,16 @@
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.D-22 of 2023",
   "date_of_order": "17.06.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [
     "Sections 387, 384, 324, 337H, 504"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sohail Ahmed Khoso, Advocate",
+    "Mr. Aftab Ahmed Shar, Additional P.G",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

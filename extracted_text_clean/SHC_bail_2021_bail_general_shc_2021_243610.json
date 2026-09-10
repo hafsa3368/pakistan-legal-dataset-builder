@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Crl.B.A.No.S-29 of 2025",
   "date_of_order": "06.02.2025",
-  "judge": "",
+  "judge": "RIAZAT ALI SAHAR",
   "sections_cited": [
     "Sections 409 & 34 PPC",
     "section 5 Act",
@@ -18,7 +18,12 @@
   "citations": [
     "PLD 2022 SC 475"
   ],
-  "parties": [],
+  "parties": [
+    "Gulshan Ali Mahar",
+    "The State",
+    "Syed Sardar Ali Shah",
+    "Imtiaz Jiskani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

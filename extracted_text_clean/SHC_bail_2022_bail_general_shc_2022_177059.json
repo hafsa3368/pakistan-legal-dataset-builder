@@ -8,10 +8,14 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No. 746 of 2022",
   "date_of_order": "04.08.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Gulzar Hussain",
+    "Mr. Khadim Hussain",
+    "Mr. Allah Ditta shakir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Bail Application No.2623 of 2023",
   "date_of_order": "11.12.2023",
-  "judge": "",
+  "judge": "Zahid Ali Metlo",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Section 489-F/34 PPC",
@@ -36,7 +36,12 @@
     "2018 P. Cr. L.J 469",
     "PLD 1998 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Riaz Ahmed",
+    "Mr. Talib Ali Memon",
+    "Mr. Shaukat Islam",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

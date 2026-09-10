@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Bail Application No. 1676 of 2023",
   "date_of_order": "14.09.2023",
-  "judge": "",
+  "judge": "Qamar Riaz Virk",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Section 6/9 CNS Act",
@@ -27,7 +27,14 @@
     "2021 SCMR 1212",
     "2008 SCMR 1254"
   ],
-  "parties": [],
+  "parties": [
+    "Sajjan Ji",
+    "The State",
+    "Abdul Qadir",
+    "Aya Khan",
+    "Muhammad Afzal",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

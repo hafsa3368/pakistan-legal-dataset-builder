@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Accountability Appeal No.D-39/2021",
   "date_of_order": "17.03.2021",
-  "judge": "JUDGE Tufail",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Sections 426 and 561-A",
     "section 10 of National Accountability Ordinance",
@@ -20,7 +20,11 @@
     "2019 MLD 358",
     "2019 YLR 1606"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ayaz Hussain Tunio",
+    "Mr. Jangoo Khan",
+    "NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

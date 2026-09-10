@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No.961 of 2020",
   "date_of_order": "19.08.2020",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 337-A",
     "section 2",
@@ -23,7 +23,14 @@
     "2014 P.Cr.L.J 624",
     "PLD 2017 SC 730"
   ],
-  "parties": [],
+  "parties": [
+    "Rizwan",
+    "Ahsan Ullah",
+    "Waqar",
+    "Waqas Ahmed",
+    "Muhammad Ahsan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

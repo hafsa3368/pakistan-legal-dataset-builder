@@ -6,9 +6,9 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail No.2324/2022",
   "date_of_order": "07.12.2022",
-  "judge": "",
+  "judge": "Mohammad Shareef",
   "sections_cited": [
     "section 9",
     "section 103 Cr.P.C",
@@ -19,7 +19,13 @@
     "PLD 2009 SC 39",
     "PLD 1995 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammad Shareef",
+    "Mr. Jameel Ahmed Shah",
+    "Omar Sial",
+    "The State",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

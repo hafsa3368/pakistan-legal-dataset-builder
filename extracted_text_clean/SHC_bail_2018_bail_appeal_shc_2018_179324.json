@@ -6,15 +6,23 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Cr.Acq. Appeal No. 94 of 2021",
+  "case_number": "",
   "date_of_order": "30.01.2023",
-  "judge": "Naveed PA",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 245",
     "Section 337-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Seema Zaidi",
+    "Kousar Amir",
+    "Aisha Amir",
+    "Umaira Amir",
+    "Amir Majeed",
+    "Aziz-ur-Rehman",
+    "Farrukh Sohail"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

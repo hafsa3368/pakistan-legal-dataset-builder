@@ -6,16 +6,27 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 1688 of 2016",
   "date_of_order": "26.12.2016",
-  "judge": "JUDGE Aadil Arab",
+  "judge": "Muhammad Ali Mazhar",
   "sections_cited": [
     "Sections 324/353/34 PPC",
     "Section 7",
     "Section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Applicant V E R S U S",
+    "The State",
+    "Applicant",
+    "Respondent",
+    "Dur Muhammad Mallah",
+    "Muhammad Iqbal Awan",
+    "Syed Zulqarnain",
+    "Younis",
+    "ASI Javed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

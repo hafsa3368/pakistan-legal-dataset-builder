@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1867 of 2020",
   "date_of_order": "12.01.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 380 PPC",
     "Section 497 Cr.P.C",
@@ -18,7 +18,14 @@
   "citations": [
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Shafqat Ullah Khan",
+    "The STATE",
+    "The STATE",
+    "Syed Meeral Shah Bukhari",
+    "Mr. A.J.K Marwat",
+    "Mr. Kamran Khan Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr. Bail ApplicationNo.421of",
   "date_of_order": "09.04.2020",
-  "judge": "Jamil Ahmed / PA",
+  "judge": "Jamil Ahmed",
   "sections_cited": [
     "Section 20, 21 and 24",
     "section 497 of the Cr.P.C",
@@ -21,7 +21,11 @@
     "2017 P.Cr.L.J. 1715",
     "2020 P.Cr.L.J. 259"
   ],
-  "parties": [],
+  "parties": [
+    "Saleem Khalid son of Khalid Abdul Aziz",
+    "Nimra Saleem d/o Muhammad Tahir Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

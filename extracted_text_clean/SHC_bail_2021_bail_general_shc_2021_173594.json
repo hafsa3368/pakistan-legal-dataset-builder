@@ -6,15 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 2282 of 2021",
   "date_of_order": "18.11.2021",
-  "judge": "",
+  "judge": "Ghulam Haider",
   "sections_cited": [
     "sections 6 and 9",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Ahsan",
+    "Omar Sial",
+    "State represented by the Government of Sindh through the Inspector General of Police, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

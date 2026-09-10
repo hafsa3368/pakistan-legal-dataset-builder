@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Bail Application No.545 of 2020",
   "date_of_order": "18.08.2020",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 380/454 PPC",
     "Section 380 PPC",
@@ -30,7 +30,14 @@
     "2020 P.Cr.L.J 31",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Shahid Ahmed",
+    "Abdul Majeed",
+    "Mst. Kulsoom",
+    "Mst. Najma Ateeq",
+    "Zaibun Nisa",
+    "The State Versus Shahid Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

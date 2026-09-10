@@ -6,15 +6,20 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 1840 of 2016",
   "date_of_order": "26.12.2016",
-  "judge": "JUDGE Aadil Arab",
+  "judge": "Muhammad Ali Mazhar",
   "sections_cited": [
     "Sections 147/149/123-B PPC",
     "Section 173 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Agha Jawad",
+    "The State",
+    "Mian Khan Malik",
+    "Mr. Muhammad Iqbal Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

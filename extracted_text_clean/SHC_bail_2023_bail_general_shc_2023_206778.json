@@ -8,10 +8,23 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "07.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arif Ali Lashari",
+    "applicant/surety",
+    "Ashfaque Ahmed",
+    "accused Sadiq Ali",
+    "accused Ahsan Ali",
+    "learned Counsel",
+    "Acquitted person (Trial Court)",
+    "Additional Prosecutor General",
+    "Zulfiqar Ali Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

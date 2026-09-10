@@ -6,14 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Bail Appln. No. S",
+  "case_number": "",
   "date_of_order": "21.11.2023",
   "judge": "",
   "sections_cited": [
     "Section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Feroz Ali Mirani",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

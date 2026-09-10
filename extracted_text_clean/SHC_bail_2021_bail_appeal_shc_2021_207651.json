@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Acquittal Appeal No.388 of 2023",
+  "case_number": "",
   "date_of_order": "30.11.2023",
-  "judge": "",
+  "judge": "Liaquat Ali Khan",
   "sections_cited": [
     "Sections 448,506-B and 34 PPC",
     "Section 249-A Cr.P.C",
@@ -22,7 +22,13 @@
     "section 417 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Meeral Shah Bukhari",
+    "Syed Jawed Raza",
+    "The State Vs. Zeshan and others",
+    "PS Surjani Town",
+    "Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

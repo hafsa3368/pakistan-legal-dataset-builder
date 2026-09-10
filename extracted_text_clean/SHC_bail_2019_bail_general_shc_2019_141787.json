@@ -6,8 +6,8 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr. Bail Application No. 1649 of 2019",
+  "date_of_order": "25-11-2019",
   "judge": "",
   "sections_cited": [
     "sections 269/270/337-J/34 PPC",
@@ -17,7 +17,11 @@
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mr. Imamuddin Chandio",
+    "Mr. Zaffar Ahmed Khan",
+    "APG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

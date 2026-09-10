@@ -8,13 +8,17 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.839 of 2024",
   "date_of_order": "26.03.2026",
-  "judge": "JUDGE Nadir/PS",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 93",
     "section 342 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Kashif",
+    "Nehal Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

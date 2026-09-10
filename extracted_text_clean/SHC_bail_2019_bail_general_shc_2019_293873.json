@@ -6,12 +6,19 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Criminal Bail Application No.S-",
+  "case_number": "",
   "date_of_order": "27.10.2025",
   "judge": "Tufail",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 8"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khalid Hussain",
+    "State",
+    "Mr. Irfan Ali Talpur",
+    "Mr. Peeral Majeedano"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

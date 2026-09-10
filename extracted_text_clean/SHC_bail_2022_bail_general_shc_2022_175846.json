@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No.1863 of 2022",
-  "date_of_order": "",
+  "date_of_order": "15.12.2022",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Fatima Khalid",
+    "Mr. Mamoon A.K. Sherwany",
+    "Ms. Seema Zaidi",
+    "complainant",
+    "applicant's mother",
+    "applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

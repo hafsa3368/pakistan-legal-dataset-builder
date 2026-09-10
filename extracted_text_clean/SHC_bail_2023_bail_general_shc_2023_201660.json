@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 6,
   "case_number": "Criminal Bail Application No.1280 of 2023",
-  "date_of_order": "",
+  "date_of_order": "07.08.2023",
   "judge": "",
   "sections_cited": [
     "Section 23",
@@ -24,7 +24,15 @@
   "citations": [
     "PLD 2014 Sindh 282"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muntazir Mehdi",
+    "Ghulam Rasool",
+    "Mr. Nisar Ahmed Narejo",
+    "Mr. Muhammad Ramzan",
+    "Additional PG",
+    "ASI Aziz-ur-Rehman",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

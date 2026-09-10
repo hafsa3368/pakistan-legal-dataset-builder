@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No.S-67 of 2020",
   "date_of_order": "14.03.2022",
-  "judge": "",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "sections 269, 270 and 337-J",
     "section 265-H",
@@ -28,7 +28,10 @@
     "2012 SCMR 577",
     "PLD 2009 Karachi 191"
   ],
-  "parties": [],
+  "parties": [
+    "Shahrukh",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

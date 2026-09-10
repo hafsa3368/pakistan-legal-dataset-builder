@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Cr.B.A.No.S-1017 of 2020",
   "date_of_order": "20.11.2020",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Shafique Khan",
+    "Ms. Sobia Bhatti",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

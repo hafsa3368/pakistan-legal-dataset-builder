@@ -6,7 +6,7 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "constituted and left the P.S vide entry No.6",
+  "case_number": "Cr. Bail Application No.S-191 of 2017",
   "date_of_order": "07.08.2017",
   "judge": "Shahid",
   "sections_cited": [
@@ -28,7 +28,11 @@
     "2008 SCMR 1616",
     "PLD 2009 SC 39"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulamullah Chang",
+    "Mr. Amjad Ali Sahito",
+    "Abdul Majeed son of Gul Hassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 377 of 2023",
   "date_of_order": "01.02.2023",
-  "judge": "",
+  "judge": "Osama Inayat",
   "sections_cited": [
     "sections 392, 394, 397, 109, 337-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Osama Sial",
+    "Abdul Hameed",
+    "Muntazir Mehdi",
+    "Mr. Ghulam Qasim Joyo",
+    "Mr. Muntazir Mehdi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "Cr.B.A.No.S-827 of 2020",
   "date_of_order": "21.01.2021",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 498 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Hassan Chandio",
+    "Mr. Suhail Memon",
+    "Ms. Sobia Bhatti",
+    "Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

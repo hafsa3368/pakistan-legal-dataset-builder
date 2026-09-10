@@ -6,16 +6,24 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Const. Petition No. D-",
+  "case_number": "",
   "date_of_order": "11.09.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "Section 16",
     "Section 25",
     "section 25"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rauf Ahmed Rufi",
+    "Manzoor Ahmed Rufi",
+    "Chairman NAB",
+    "Rufi Builders & Developers",
+    "Humair Associates Builders (Pvt) Ltd",
+    "Muhammad Farooque Shaikh",
+    "260 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Bail Application No.1701 of 2023",
   "date_of_order": "02.08.2023",
-  "judge": "",
+  "judge": "Khawaja Saif-ul-Islam",
   "sections_cited": [
     "Section 498 Cr.P.C",
     "Section 122",
@@ -22,7 +22,15 @@
     "section 497 of the Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shaikh Muhammad Kalam",
+    "Pakistan Railways",
+    "AS1/10 Shahzad Nazeer",
+    "Muhammad Ahmed",
+    "Assistant Attorney General",
+    "Muntazir Mehdi",
+    "Additional PG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

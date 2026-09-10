@@ -7,14 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl.B. Appln No.1860 of 2016",
-  "date_of_order": "",
+  "date_of_order": "28.12.2016",
   "judge": "",
   "sections_cited": [
     "Sections 409, 468, 471, 477-",
     "Section 3/4 AML Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shariq Ali Siddqiui & another",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

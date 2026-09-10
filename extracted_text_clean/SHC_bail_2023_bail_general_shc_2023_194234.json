@@ -8,7 +8,7 @@
   "num_chunks": 1,
   "case_number": "Crl. Bail Application No. 859 of 2023",
   "date_of_order": "05.04.2023",
-  "judge": "",
+  "judge": "Mohammad Ikram",
   "sections_cited": [
     "sections 6 and 9",
     "section 9",
@@ -17,7 +17,10 @@
   "citations": [
     "PLD 1995 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

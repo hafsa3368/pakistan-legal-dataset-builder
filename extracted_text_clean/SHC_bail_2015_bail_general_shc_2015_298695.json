@@ -9,9 +9,16 @@
   "case_number": "Crl. Revision Application No.S-157 of 2015",
   "date_of_order": "15.12.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abul Hussain",
+    "Qazeem-ul-Din",
+    "Shahid",
+    "the office"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

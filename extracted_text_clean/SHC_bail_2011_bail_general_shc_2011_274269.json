@@ -6,16 +6,20 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P.No.D-2090 of 2025",
   "date_of_order": "25.06.2025",
-  "judge": "Wasim PS",
+  "judge": "Muhammad Karim Khan Agha",
   "sections_cited": [
     "Section 93"
   ],
   "citations": [
     "2011 SCMR 1673"
   ],
-  "parties": [],
+  "parties": [
+    "Murtaza and Anis",
+    "Province of Sindh",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

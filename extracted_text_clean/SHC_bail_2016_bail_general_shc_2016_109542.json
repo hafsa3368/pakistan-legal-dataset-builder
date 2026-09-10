@@ -6,12 +6,23 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr. Bail Appln: No.S-989 of 2016",
   "date_of_order": "02.01.2017",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 324 and 353",
+    "u/s 114, 342, 353, 506, 504, 147, 148, 149, 337-A",
+    "u/s 22-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Azhar Ali s/o Abdul Majeed",
+    "Sikander Nazeer",
+    "Faisal Jumani",
+    "Ali Adil Jumani",
+    "Muhammad Lanjwani",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

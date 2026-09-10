@@ -8,13 +8,23 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No.S-877 of 2023",
   "date_of_order": "27.02.2024",
-  "judge": "",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "Sections 395, 397 PPC",
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Hassan",
+    "Daleel",
+    "Siyano",
+    "Allah Rakhiyo",
+    "Mr. Rashid Ali Sindhu",
+    "Mr. Shabir Ali Bozdar",
+    "The State",
+    "Hussain Bux",
+    "Abdul Rasheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

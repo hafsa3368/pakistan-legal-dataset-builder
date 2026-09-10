@@ -8,14 +8,18 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No.S-1124 of 2019",
   "date_of_order": "18.09.2023",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Section 8",
     "Section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Masood Rasool Babar Memon",
+    "Ms. Safa Hisbani",
+    "ASI Muhammad Ishaque Chang"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

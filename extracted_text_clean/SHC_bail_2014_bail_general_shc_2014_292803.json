@@ -8,12 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "28.08.2025",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 345"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mithal Shah",
+    "Bagan Shah",
+    "Koural Shah",
+    "Hashim Shah",
+    "Najam Shah",
+    "Muhammad Raza Katohar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

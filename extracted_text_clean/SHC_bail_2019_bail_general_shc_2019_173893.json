@@ -8,14 +8,20 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 1702 of 2020",
   "date_of_order": "30.11.2020",
-  "judge": "",
+  "judge": "Karim Bux",
   "sections_cited": [
     "section 8",
     "Section 3 of the Act",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Bashir Ali",
+    "Khawaja Muhammad Azeem",
+    "Faheem Hussain Panhwar",
+    "Mr. DPG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

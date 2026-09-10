@@ -8,8 +8,10 @@
   "num_chunks": 2,
   "case_number": "Cr.B.A.No.S-744 of 2020",
   "date_of_order": "23.11.2020",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 498 Cr.P.C"
+  ],
   "citations": [
     "2005 MLD 902",
     "2005 MLD 1079",
@@ -19,7 +21,15 @@
     "2010 YLR 780",
     "2006 YLR 2876"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Sameeullah Rind",
+    "Ms. Sobia Bhatti",
+    "Mr. Mushtaque Ahmed Abbasi",
+    "Jamaluddin",
+    "Imran",
+    "Sharik",
+    "Bilal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

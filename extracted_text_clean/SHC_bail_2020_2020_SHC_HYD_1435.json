@@ -8,14 +8,20 @@
   "num_chunks": 2,
   "case_number": "Cr.B.A.No.S-1070 of 2020",
   "date_of_order": "27.11.2020",
-  "judge": "Ahmed/Pa",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
   "citations": [
     "2020 P.Cr.L.J 1571"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Qambar Ali Jamali",
+    "The State",
+    "Mst. Azmat",
+    "Mst. Azmat's Witnesses",
+    "Co-accused Mst. Zeba Kausar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

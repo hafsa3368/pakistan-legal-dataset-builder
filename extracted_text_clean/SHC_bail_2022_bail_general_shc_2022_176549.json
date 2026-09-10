@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1463 of 2022",
   "date_of_order": "11.11.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Sections 337-F",
     "section 2",
@@ -20,7 +20,10 @@
     "2020 SCMR 971",
     "1994 P.Cr.L.J 1769"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Tarique Ahmed Shah",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

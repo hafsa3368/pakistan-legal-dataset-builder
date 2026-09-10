@@ -6,15 +6,20 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 1406 of 2018",
   "date_of_order": "22.11.2018",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "Sections 302/324/109/34 PPC",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kashif",
+    "Pervez",
+    "Sagheer",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

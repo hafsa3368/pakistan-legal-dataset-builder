@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Miscellaneous Application No.325 of 2023",
   "date_of_order": "22.11.2023",
-  "judge": "",
+  "judge": "Muhammad Baqar Mehdi",
   "sections_cited": [
     "Section 380/452/506/34 PPC",
     "section 173",
@@ -28,7 +28,13 @@
     "PLD 2018 SC 595",
     "PLD 1985 SC 62"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Baqar Mehdi",
+    "Ms. Rubina Qadir",
+    "Abdul Aziz",
+    "Aziz Lakhani",
+    " respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

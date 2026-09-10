@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Bail Application No.2779 of 2023",
   "date_of_order": "14.12.2023",
-  "judge": "",
+  "judge": "Aftab Hussain",
   "sections_cited": [
     "Sections 4/8 of the Gutka Mawa Act",
     "Section 8 of the Act",
@@ -31,7 +31,10 @@
     "PLD 1995 SC 34",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Meeral Shah Bukhari",
+    "the police officials"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

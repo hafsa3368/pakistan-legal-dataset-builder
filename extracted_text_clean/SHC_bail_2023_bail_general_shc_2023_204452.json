@@ -9,9 +9,14 @@
   "case_number": "Criminal Bail Application No.S-863 of 2023",
   "date_of_order": "23.10.2023",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 9"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Kashif",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

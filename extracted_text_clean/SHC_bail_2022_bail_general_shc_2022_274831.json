@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Bail Application No.1342 of 2025",
   "date_of_order": "26.06.2025",
-  "judge": "",
+  "judge": "Tasneem Sultana",
   "sections_cited": [
     "Section 506, 354, 34 PPC",
     "Sections 302, 324/34 PPC",
@@ -25,7 +25,32 @@
     "PLD 1995 SC 34",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "petitioner",
+      "name": "Muhammad Shaikh Alamgir"
+    },
+    {
+      "type": "petitioner",
+      "name": "Munir"
+    },
+    {
+      "type": "petitioner",
+      "name": "Nabeel Bengali"
+    },
+    {
+      "type": "respondent",
+      "name": "The State"
+    },
+    {
+      "type": "complainant",
+      "name": "Mst. Humera Bibi"
+    },
+    {
+      "type": "respondent",
+      "name": "Mr. Muhammad Mohsin Mangi"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

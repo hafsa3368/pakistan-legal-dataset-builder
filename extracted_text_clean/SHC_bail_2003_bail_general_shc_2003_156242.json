@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "03.12.2021",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "section 459, 337-A",
     "Section 459 PPC",
@@ -25,7 +25,14 @@
     "PLD 1995 SC 34",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Riaz Hussain alias More Bux",
+    "Nadir",
+    "Hubdar",
+    "Nadir Ali",
+    "Mr. Fayaz Hussain Sabki",
+    "Mr. Hemandas S. Sanghani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

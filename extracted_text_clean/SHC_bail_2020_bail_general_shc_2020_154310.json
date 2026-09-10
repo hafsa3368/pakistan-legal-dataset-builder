@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Bail Application No.235 of 2021",
   "date_of_order": "09.03.2020",
-  "judge": "",
+  "judge": "Shaikh Muhammad Ayoub",
   "sections_cited": [
     "Section 109/486-"
   ],
@@ -16,7 +16,13 @@
     "2019 SCMR 1129",
     "PLD 2009 SC 427"
   ],
-  "parties": [],
+  "parties": [
+    "Sheikh Muhammad Ayoub",
+    "The State",
+    "Mr. Sayeed Jamil",
+    "Mr. Siraj Ali Khan Chandio",
+    "Ms. Samina Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

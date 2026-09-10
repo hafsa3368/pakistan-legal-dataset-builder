@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Bail Application No.954 of 2023",
   "date_of_order": "03.05.2023",
-  "judge": "",
+  "judge": "Naseer-ul-Hassan Khokhar",
   "sections_cited": [
     "Section 498",
     "Section 489-F PPC",
@@ -28,7 +28,14 @@
     "2011 SCMR 1614",
     "2015 SCMR 1575"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Asif",
+    "Mr. Naseer-ul-Hassan Khokhar",
+    "Mr. Talib Ali Memon",
+    "Ghulam Rasool Soho",
+    "the complainant",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

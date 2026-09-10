@@ -8,14 +8,23 @@
   "num_chunks": 1,
   "case_number": "Cr.B.A.No.S-1069 of 2020",
   "date_of_order": "27.11.2020",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 498 Cr.P.C"
+  ],
   "citations": [
     "2000 SCMR 1074",
     "2005 YLR 346",
     "2005 YLR 284"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Wajid Ali Khaskheli",
+    "Ms. Sobia Bhatti",
+    "Tagio Khan",
+    "Irshad Ali Shah",
+    "Latif",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

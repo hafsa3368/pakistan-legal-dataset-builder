@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No. 1643 of 2024",
   "date_of_order": "10.10.2024",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Sections 337-F",
     "Section 337-F",
@@ -21,7 +21,14 @@
     "1994 P.Cr.L.J 1769",
     "PLD 2017 SC 730"
   ],
-  "parties": [],
+  "parties": [
+    "Murad Mirbahar",
+    "The State",
+    "Jamaluddin",
+    "Muhammad Umar Ghuman Mirbahar",
+    "Khadim Hussain",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

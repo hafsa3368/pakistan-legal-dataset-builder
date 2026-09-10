@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "criminal case then he cannot",
+  "case_number": "CR. BAIL APPLICATION NO.165/2017",
   "date_of_order": "16.05.2017",
-  "judge": "",
+  "judge": "Ghulam Akbar Jatoi",
   "sections_cited": [
     "section 336-B, 324 PPC",
     "section 7",
@@ -23,7 +23,14 @@
     "PLD 2016 SC 171",
     "PLD 2013 Lahore 173"
   ],
-  "parties": [],
+  "parties": [
+    "Asif and Rauf",
+    "Abdul Razzaque",
+    "Bilal Zahoor",
+    "Mr. Ghulam Akbar Jatoi",
+    "Mr. Muhammad Iqbal Awan",
+    "Ms. Sadia"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Bail Application No. 1532 of 2023",
   "date_of_order": "18.04.2023",
-  "judge": "",
+  "judge": "Shaikh Saqib Ahmed",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Section 365/34 PPC",
@@ -22,7 +22,16 @@
     "2021 SCMR 2086",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Shan Saleem",
+    "Mr. Siraj Ali Khan",
+    "Mr. Arsalan Naeem",
+    "Mr. Shaikh Faraz Ahmed",
+    "Mst. Aradhna",
+    "Mst. Bisma",
+    "Police Station Sahil Karachi South",
+    "Sara Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

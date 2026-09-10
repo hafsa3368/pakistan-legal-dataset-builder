@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No. D-1094 of 2025",
   "date_of_order": "26.08.2024",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 24-A of the General Clauses Act",
     "Section 3 of the Sindh Service Tribunal Act"
@@ -21,7 +21,13 @@
     "2021 SCMR 1390",
     "PLD 2007 SC 35"
   ],
-  "parties": [],
+  "parties": [
+    "Suhail Ahmed Soomro",
+    "Province of Sindh",
+    "Sindh Service Tribunal",
+    "Ali Azhar Khan Baloch",
+    "Sindh Service Tribunal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

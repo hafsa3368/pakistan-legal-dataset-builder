@@ -6,15 +6,24 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.S-1153 of 2022",
   "date_of_order": "24.11.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 9",
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khuda Dad",
+    "Ghulam Haider",
+    "Shahdad Brohi",
+    "Maqsood Raza Manganhar",
+    "The Police of P.S Sanghar",
+    "Abdul Hameed alias Lala Hameed",
+    "Tanver Jatt",
+    "Naeem Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

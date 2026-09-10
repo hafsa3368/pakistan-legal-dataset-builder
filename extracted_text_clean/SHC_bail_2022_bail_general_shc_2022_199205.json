@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Bail Application No.S-",
+  "case_number": "",
   "date_of_order": "12.06.2023",
   "judge": "Tufail",
   "sections_cited": [
@@ -23,7 +23,13 @@
     "2015 YLR 2595",
     "2005 YLR 1664"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Sarwar",
+    "The State",
+    "Abdul Aziz",
+    "Mashooque",
+    "Riaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

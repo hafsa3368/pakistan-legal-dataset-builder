@@ -8,7 +8,7 @@
   "num_chunks": 24,
   "case_number": "Criminal Appeal No.S-213 of 2021",
   "date_of_order": "19.05.2025",
-  "judge": "",
+  "judge": "Riazat Ali Sahar",
   "sections_cited": [
     "Section 8",
     "Section 8 of the Act",
@@ -34,7 +34,10 @@
     "2020 SCMR 857",
     "PLD 2019 SC 64"
   ],
-  "parties": [],
+  "parties": [
+    "Aijaz Ali @ Arbab Ali S/o Baradi and Javed Ali S/o Ghulam Murtaza @ Tajali Shah",
+    "The State through Ms. Sana Memon, Assistant Prosecutor General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

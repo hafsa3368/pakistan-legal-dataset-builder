@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Bail Application No.S-",
+  "case_number": "",
   "date_of_order": "02-08-2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Sections 506/2, 337A",
     "Section 497 Cr.P.C",
@@ -18,7 +18,14 @@
   "citations": [
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Allah Rakhiyo alias Muhammad Rakhiyal",
+    "Naseer",
+    "The State",
+    "The Complainant",
+    "Iftikhar Ahmed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

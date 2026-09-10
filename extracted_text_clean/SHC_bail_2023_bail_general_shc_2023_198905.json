@@ -8,10 +8,13 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-107 of 2020",
   "date_of_order": "14.06.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mehfooz Ahmed Awan",
+    "M/s Mujeeb Rehman Soomro and Bahawal Din"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

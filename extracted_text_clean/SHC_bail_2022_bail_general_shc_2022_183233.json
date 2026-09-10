@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 168 of 2023",
   "date_of_order": "04.01.2023",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 3 and 4 of the Foreigners Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shuja Khan",
+    "Abdul Mateen",
+    "Hikmatullah",
+    "NADRA",
+    "Government of Pakistan",
+    "Shuja Khan alias Saja Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

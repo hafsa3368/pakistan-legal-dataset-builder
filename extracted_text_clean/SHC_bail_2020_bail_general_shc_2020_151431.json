@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Civil Petition No.1435 of 2018",
   "date_of_order": "19.05.2021",
-  "judge": "JUDGE NAK/PA",
+  "judge": "",
   "sections_cited": [
     "section 204 Cr.P.C",
     "section 91 Cr.P.C",
@@ -19,7 +19,16 @@
   "citations": [
     "2014 SCMR 1762"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Ali Raza",
+    "Mr. Haider Waheed",
+    "Barrister Usman Shaikh",
+    "Mr. Farooq H. Naek",
+    "Mr. Shahbaz Sahotra",
+    "NAB",
+    "Special Prosecutor NAB",
+    "I.O"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

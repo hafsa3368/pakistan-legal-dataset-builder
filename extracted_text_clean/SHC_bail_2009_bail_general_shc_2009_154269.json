@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No.320 of 2021",
   "date_of_order": "29.09.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 506/337-A",
     "section 2",
@@ -18,7 +18,11 @@
   "citations": [
     "PLD 2009 SC 427"
   ],
-  "parties": [],
+  "parties": [
+    "Sunil",
+    "Mohan",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

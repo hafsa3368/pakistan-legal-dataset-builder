@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Bail Application No. 1846 of 2023",
   "date_of_order": "13.09.2023",
-  "judge": "",
+  "judge": "Muhammad Imran Kalmati",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Section 381/383/384/34 PPC",
@@ -28,7 +28,11 @@
     "2011 SCMR 815",
     "PLD 1989 SC 585"
   ],
-  "parties": [],
+  "parties": [
+    "Ms. Amna Ansari",
+    "Syed Ameer Shah",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

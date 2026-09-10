@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 2141 of 2021",
   "date_of_order": "22nd December, 2021",
-  "judge": "",
+  "judge": "Mohammad Razzaq",
   "sections_cited": [
     "sections 6 and 9",
     "section 103 Cr.P.C",
@@ -20,7 +20,11 @@
     "2015 SCMR 1077",
     "PLD 2009 Lahore 362"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammad Razzaq",
+    "Mohammad Zahid",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

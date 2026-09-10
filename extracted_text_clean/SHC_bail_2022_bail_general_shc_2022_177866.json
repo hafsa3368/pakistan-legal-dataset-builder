@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No.1571 of 2022",
   "date_of_order": "25.11.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Sections 324, 337-A",
     "Section 497 Cr.P.C"
@@ -16,7 +16,18 @@
   "citations": [
     "1994 P.Cr.L.J 1769"
   ],
-  "parties": [],
+  "parties": [
+    "Wahid Bux",
+    "Ali",
+    "Hamal",
+    "Mour Khan",
+    "Zulfiqar Ali",
+    "Gulzar",
+    "Peera",
+    "Ariz Muhammad",
+    "Peer Bux",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

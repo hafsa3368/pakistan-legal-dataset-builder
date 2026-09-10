@@ -8,12 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "03.02.2026",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Sections 364, 337-H"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Ghaffar Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

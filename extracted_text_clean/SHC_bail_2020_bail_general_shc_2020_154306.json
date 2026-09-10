@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1788 of 2020",
   "date_of_order": "13.01.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 354/337-A",
     "section 452",
@@ -21,7 +21,14 @@
   "citations": [
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Imran",
+    "Malik Usama",
+    "Syed Meeral Shah Bukhari",
+    "Mst. Bashiran",
+    "The State",
+    "The Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

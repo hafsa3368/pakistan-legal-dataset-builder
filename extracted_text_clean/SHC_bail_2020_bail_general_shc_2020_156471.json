@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Misc. Application No.769 of 2021",
   "date_of_order": "31.12.2021",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "section 497 Cr.PC",
     "Section 489-F",
@@ -19,7 +19,16 @@
     "2021 SCMR 87",
     "2020 SCMR 1115"
   ],
-  "parties": [],
+  "parties": [
+    "Noman Marwat",
+    "The State",
+    "Syed Ali Ahmed Zaidi",
+    "Irfan Ahmed Ali Zai",
+    "Altaf Lund",
+    "Mr.",
+    "Seema Zaidi",
+    "Zafar Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

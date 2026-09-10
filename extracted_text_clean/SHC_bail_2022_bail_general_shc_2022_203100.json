@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "criminal record or that he had not",
+  "case_number": "Cr. Bail No. 1082 of 2023",
   "date_of_order": "18.09.2023",
   "judge": "",
   "sections_cited": [
@@ -25,7 +25,15 @@
     "2002 SCMR 442",
     "2009 SCMR 174"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mian Ashfaque",
+    "Karim Buksh",
+    "Muntazir Mehdi Add. P.G",
+    "AVLC/CIA",
+    "Qamar-U-Zaman Abbasi",
+    "Muhammad Mumtaz Nawaz",
+    "AVLC/CIA Police"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

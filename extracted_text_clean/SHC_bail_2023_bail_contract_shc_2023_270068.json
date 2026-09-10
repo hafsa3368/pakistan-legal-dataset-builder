@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Crl. Bail Application No.S-668 of 2024",
   "date_of_order": "12th May 2023",
-  "judge": "",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Sections 302 and 34",
     "Section 497 Cr.P.C",
@@ -31,7 +31,10 @@
     "2022 SCMR 1271",
     "2022 SCMR 1555"
   ],
-  "parties": [],
+  "parties": [
+    "Zafarullah alias Ali Raza",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

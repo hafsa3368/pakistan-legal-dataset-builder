@@ -8,8 +8,10 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-1078 of 2024",
   "date_of_order": "20.01.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "U/s 302, 324, 147, 148, 149, 504, 337-A"
+  ],
   "citations": [
     "2021 SCMR 540",
     "2020 SCMR 956",
@@ -21,7 +23,19 @@
     "2021 YLR 841",
     "2018 P.Cr.L.J Note 184"
   ],
-  "parties": [],
+  "parties": [
+    "Allah Bux",
+    "Mola Bux",
+    "Ameer Bux",
+    "Raheem Bux",
+    "Ghulam Mustafa",
+    "Papo",
+    "Muhammad Usman",
+    "Dhani Bux",
+    "complainant",
+    "applicant",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

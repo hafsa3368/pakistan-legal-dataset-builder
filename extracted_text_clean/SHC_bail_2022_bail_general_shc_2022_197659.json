@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Bail Application No.720 of 2023",
   "date_of_order": "26.05.2023",
-  "judge": "",
+  "judge": "AMJAD ALI BOHIO",
   "sections_cited": [
     "Section 489-F PPC",
     "Section 489-F",
@@ -25,7 +25,12 @@
     "2009 SCMR 1488",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "M/S Imdad Ali Saheto and Allah Wadhayo",
+    "Mr. Siraj Ali Khan Chandio",
+    "Mr. Muhammad Nadeem Khan, Ms. Allena Naqvi and Ms. Fouzia Fateh",
+    "Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

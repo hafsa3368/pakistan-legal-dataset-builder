@@ -6,15 +6,25 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 1889 of 2025",
   "date_of_order": "16.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Muhammad Nawaz vs. The State (2002) SCMR 1381",
+    "Rehmatullah vs. The State (2011) SCMR 1332"
+  ],
   "citations": [
     "2002 SCMR 1381",
     "2011 SCMR 1332"
   ],
-  "parties": [],
+  "parties": [
+    "Akbar Ali & another",
+    "The State",
+    "Khurram Kambaiz Shaikh & another",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

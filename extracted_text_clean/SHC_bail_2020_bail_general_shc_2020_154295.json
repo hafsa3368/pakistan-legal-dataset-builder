@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1866 of 2020",
   "date_of_order": "31.08.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 392/34 PPC",
     "Section 342 Cr.P.C",
@@ -21,7 +21,14 @@
     "1987 P.Cr.L.J 1340",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Taha Asad Siddiqui",
+    "Munib Asad Siddiqui",
+    "Asad Masood Siddiqui",
+    "The State",
+    "Mr. Shakir Ali Rajper",
+    "Ms. Rahat Ehsan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

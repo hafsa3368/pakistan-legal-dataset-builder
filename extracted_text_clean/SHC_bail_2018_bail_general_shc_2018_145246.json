@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr. Bail ApplicationNo.419 of 2020",
   "date_of_order": "30.04.2020",
-  "judge": "",
+  "judge": "ABDUL MOBEEN LAKHO",
   "sections_cited": [
     "Section 489-F/420/406/34 PPC",
     "Section 489-F/4406/420/34 PPC",
@@ -18,7 +18,14 @@
   "citations": [
     "2009 SCMR 1488"
   ],
-  "parties": [],
+  "parties": [
+    "Asif Khan s/o Faramosh Khan",
+    "The State",
+    "Muhammad Noman",
+    "Muhammad Asghar",
+    "Muhammad Jawaid",
+    "Asif Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

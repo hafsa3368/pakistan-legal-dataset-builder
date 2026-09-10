@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 102 of 2023",
   "date_of_order": "17-04-2023",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 426 Cr.P.C",
     "sections 337-A",
@@ -19,7 +19,19 @@
     "1998 SCMR 1528",
     "2019 SCMR 516"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Sher",
+    "Jamsher Ali",
+    "Arjan",
+    "Saleem",
+    "Kareem",
+    "Bilwal",
+    "Abdul Rahim Samejo",
+    "Muhammad Iqbal Hingoro",
+    "The State",
+    "M/s. Kashif Hanif and Mallag Assa Dashti",
+    "M/s. Kashif Hanif and Mallag Assa Dashti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

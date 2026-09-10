@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 1821 of 2020",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "01.01.2021",
+  "judge": "Mewa Khan",
   "sections_cited": [
     "sections 6 and 9",
     "Section 25 of the CNS Act",
@@ -18,7 +18,11 @@
   "citations": [
     "2009 SCMR 291"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ather",
+    "Mr. Siraj Ali Khan Chandio",
+    "Omar Sial"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

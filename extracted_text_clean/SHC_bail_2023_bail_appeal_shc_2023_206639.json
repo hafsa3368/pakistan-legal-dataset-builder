@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Appeal No. 270 of 2020",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "06.12.2023",
+  "judge": "OMAR SIAL",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Inayat Ali Malkani",
+    "Mr. Muhammad Iqbal Awan",
+    "Omar Sial",
+    "the appellant",
+    "the complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

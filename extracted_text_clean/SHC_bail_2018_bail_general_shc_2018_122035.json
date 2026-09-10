@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Bail Application No.D-45 of 2017",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "16-01-2018",
+  "judge": "Abdullah Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed Chandio",
+    "Mr. Shahid Ahmed Shaikh D.P.G. Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.475 of 2023",
   "date_of_order": "17.01.2023",
-  "judge": "",
+  "judge": "Maroof Hussain Hashmi",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Section 399/402/34 PPC",
@@ -25,7 +25,14 @@
     "1997 SCMR 966",
     "1996 P. Cr. L.J 1970"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Maroof Hussain Hashmi",
+    "Mr. Zahoor Shah",
+    "The State",
+    "Abdul Zubair",
+    "Allah Ditta alias Dittu",
+    "Amir Ali Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

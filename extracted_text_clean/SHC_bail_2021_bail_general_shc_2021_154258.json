@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1395 of 2021",
   "date_of_order": "16.09.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 337-",
     "section 497 Cr.P.C",
@@ -19,7 +19,15 @@
   "citations": [
     "PLD 2017 SC 730"
   ],
-  "parties": [],
+  "parties": [
+    "Akbar Ali",
+    "Abdul Karim",
+    "Muhammad Hassan",
+    "The State",
+    "Complainant",
+    "Muhammad Latif",
+    "Prohibition Order Court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

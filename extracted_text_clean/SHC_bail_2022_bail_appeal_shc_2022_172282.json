@@ -6,12 +6,20 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Accountability Acquittal Appeal No.26 of 2012",
+  "case_number": "",
   "date_of_order": "06.10.2022",
-  "judge": "JUDGE Khuhro/PA",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 265-K Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "NAB",
+    "Mian Aftab Ahmed",
+    "Prosecutor General NAB",
+    "Deputy Prosecutor General NAB",
+    "Acting Additional Prosecutor General NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C.P. No. D-5492 of 2018",
+  "date_of_order": "14.02.2019",
   "judge": "CHIEF JUSTICE",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zia-ul-Hasan, Advocate",
+    "Mr. Niaz Hussain Meerani, Special Prosecutor NAB a/w I.O. Sarmad Abbas",
+    "Muhammad Salman Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

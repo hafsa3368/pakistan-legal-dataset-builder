@@ -6,15 +6,20 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Rev. Appln. No.S",
+  "case_number": "",
   "date_of_order": "14.12.2020",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 489-F PPC"
+  ],
   "citations": [
     "2003 SCMR 22",
     "PLD 1995 Karachi 209"
   ],
-  "parties": [],
+  "parties": [
+    "applicant",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

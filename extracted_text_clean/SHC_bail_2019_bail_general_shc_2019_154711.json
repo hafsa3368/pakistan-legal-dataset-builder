@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No. 2002 of 2019",
   "date_of_order": "03.02.2020",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 376 PPC",
     "Section 164 Cr.P.C",
@@ -16,7 +16,10 @@
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Fayyaz",
+    "The State Versus Muhammad Fayyaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

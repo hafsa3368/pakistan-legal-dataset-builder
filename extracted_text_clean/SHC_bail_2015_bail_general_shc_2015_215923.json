@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Crl. Bail Application. No. S",
+  "case_number": "",
   "date_of_order": "08.01.2024",
   "judge": "Karim Memon",
   "sections_cited": [
@@ -25,7 +25,10 @@
     "PLD 1989 SC 347",
     "PLD 2017 SC 730"
   ],
-  "parties": [],
+  "parties": [
+    "Hamayoon Shahzad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

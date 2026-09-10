@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 371 of 2017",
   "date_of_order": "04.09.2023",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 345 Cr.P.C",
     "Section 346 Cr.P.C"
@@ -16,7 +16,15 @@
   "citations": [
     "2020 P.Cr.LJ Note 20"
   ],
-  "parties": [],
+  "parties": [
+    "Chanoo Chaman",
+    "Mst. Samina @ Sumi",
+    "Mst. Hameeda",
+    "Kashif Khan Tanoli",
+    "Mateeullah",
+    "Seema Zaidi",
+    "Deedar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

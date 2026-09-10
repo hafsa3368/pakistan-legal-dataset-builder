@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Civil Revision Appln. No. S-125 of 2024",
   "date_of_order": "01.09.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "section 259",
     "Section 161 of West Pakistan Land Revenue Act",
@@ -22,7 +22,24 @@
     "2016 CLC 1372",
     "2017 MLD112"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Karam Ali Shah",
+    "Bibi Nasreen",
+    "Bibi Sheeren Syed Niaz Ali Shah",
+    "Qadir Bux",
+    "Rabail Bibi",
+    "Bibi Komal",
+    "Uroosa Bibi",
+    "Haseeba Bibi",
+    "Bibi Zamzam",
+    "Soman Bibi",
+    "City Survey Officer, Sukkur",
+    "Province of Sindh",
+    "Syed Hayat Ali Shah",
+    "Mr. Tariq Gul Mangi",
+    "Mr. Ayaz Ali Shaikh",
+    "Mr. Ghulam Abbas Kubar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constant absence of Plaintiff and no effort",
+  "case_number": "",
   "date_of_order": "09.08.2003",
   "judge": "",
   "sections_cited": [],
   "citations": [
     "2020 SCMR 300"
   ],
-  "parties": [],
+  "parties": [
+    " Plaintiff",
+    "Khurram Ashfaq, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

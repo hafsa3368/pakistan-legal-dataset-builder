@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "Civil Suit No.475 of 2015",
   "date_of_order": "17.08.2023",
-  "judge": "",
+  "judge": "Ali Haider",
   "sections_cited": [
     "Section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Mumtaz Shaikh",
+    "the present petitioner",
+    "Mst. Mumtaz Shaikh",
+    "the present petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

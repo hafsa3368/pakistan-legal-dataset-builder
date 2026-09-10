@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-1305 of 2022",
   "date_of_order": "26.12.2022",
-  "judge": "",
+  "judge": "MUHAMMAD FAISAL KAMAL ALAM",
   "sections_cited": [
     "Sections 436, 435, 440",
     "section 436 PPC",
@@ -17,7 +17,19 @@
   "citations": [
     "2009 YLR 2104"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sultan",
+    "Muhammad Afzal",
+    "Mukhtiar",
+    "Muhammad Ashraf",
+    "Pir Bux",
+    "Willayat Ali",
+    "Bashir Ahmed",
+    "Malik Fazal Khan",
+    "Darho",
+    "Liaquat",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

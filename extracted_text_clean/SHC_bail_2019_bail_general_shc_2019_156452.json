@@ -8,14 +8,18 @@
   "num_chunks": 5,
   "case_number": "Criminal Bail Application No.2271 of 2021",
   "date_of_order": "30.12.2021",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "sections 269, 270 PPC",
     "section 14",
     "section 5 of Sindh Pure Food Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Tahir",
+    "The State",
+    "Sharafi Goth"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

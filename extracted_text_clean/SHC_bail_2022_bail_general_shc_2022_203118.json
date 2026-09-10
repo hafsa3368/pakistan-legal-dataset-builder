@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1771 of 2023",
   "date_of_order": "02.02.2023",
-  "judge": "",
+  "judge": "Abid Ali",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Section 397/34 PPC",
@@ -17,7 +17,12 @@
     "Section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Meeral Shah Bukhari",
+    "Deedar",
+    "Wahid",
+    "Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

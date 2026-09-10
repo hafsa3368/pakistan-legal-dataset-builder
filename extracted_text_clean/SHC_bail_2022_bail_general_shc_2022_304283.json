@@ -6,14 +6,21 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Criminal Bail Application No.S-",
+  "case_number": "",
   "date_of_order": "13.11.2025",
   "judge": "Tufail",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 YLR 1046"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Hussain Shah",
+    "Mr. Muhammad Saleem Chhipa",
+    "Ms. Safa Hisbani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1711 of 2021",
   "date_of_order": "07.02.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 489-F/420 PPC",
     "Section 489-F PPC",
@@ -20,7 +20,17 @@
   "citations": [
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Faisal",
+    "The State",
+    "Irfan",
+    "The State",
+    "Muhammad TANVEER",
+    "The STATE",
+    "Muhammad Umar Panhwar",
+    "Zahoor Shah",
+    "Ishfaque Ahmed Buriro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

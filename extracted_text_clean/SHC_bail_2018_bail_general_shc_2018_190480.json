@@ -8,10 +8,22 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No. 463 of 2023",
   "date_of_order": "29.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Omar Sial",
+  "sections_cited": [
+    "6",
+    "9(c) of the CNS Act, 1997"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aslam Shar",
+    "Mr. Faheem Ahmed Panhwar",
+    "Omar Sial",
+    "Irfan alias Lal Baig",
+    "S.I. Sajid Mehmood",
+    "SSP Malir",
+    "Fatima",
+    "AIG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

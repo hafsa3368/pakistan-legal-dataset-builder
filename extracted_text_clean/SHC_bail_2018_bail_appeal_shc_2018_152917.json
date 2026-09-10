@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.P. No. D-8680 of 2017",
   "date_of_order": "31.08.2021",
-  "judge": "JUDGE SM",
+  "judge": "Irfan Saadat Khan",
   "sections_cited": [
     "Section 24",
     "Section 15/17",
@@ -16,7 +16,11 @@
     "Section 12 of the OGRA Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Muqeem",
+    "Federation of Pakistan",
+    "SSGC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

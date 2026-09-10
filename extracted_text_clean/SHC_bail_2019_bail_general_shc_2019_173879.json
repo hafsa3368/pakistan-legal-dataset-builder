@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 1556 of 2020",
   "date_of_order": "15th March, 2021",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 489-F, 420 and 34 PPC",
     "section 489-F PPC",
@@ -16,7 +16,11 @@
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nadia Mazhar",
+    "Muhammad Nawaz Khan",
+    "Mazhar Ghani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

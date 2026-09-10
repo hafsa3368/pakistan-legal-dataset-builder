@@ -6,7 +6,7 @@
   "year": "2001",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No.1455/2024",
   "date_of_order": "07.11.2025",
   "judge": "",
   "sections_cited": [
@@ -16,7 +16,10 @@
     "section 133 of the Income Tax Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faheem Ali Memon",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

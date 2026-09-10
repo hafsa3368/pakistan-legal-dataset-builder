@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. S-310 of 2024",
   "date_of_order": "25-10-2024",
   "judge": "AHMAD",
   "sections_cited": [
@@ -16,7 +16,12 @@
   "citations": [
     "2022 SCMR 663"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Muhammad Hanif Maitlo",
+    "Waqar Ali Phulpoto",
+    "Syed Sardar Ali Shah Rizvi",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

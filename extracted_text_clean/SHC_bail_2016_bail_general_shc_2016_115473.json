@@ -6,12 +6,26 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "criminal case in respect of a FIR No. 409/2016",
+  "case_number": "",
   "date_of_order": "21.11.2016",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nehrulal, Advocate",
+    "Mr. Zulqarnain Talpur, Advocate",
+    "SSP Jamshoro",
+    "SHO Kotri",
+    "ASI Zahid Hussain",
+    "PP Site Kotri",
+    "CIA Jamshoro",
+    "Allah Bachayo Soomro",
+    "Syed Amir Hussain",
+    "Asad Jamal",
+    "Ali Haider"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

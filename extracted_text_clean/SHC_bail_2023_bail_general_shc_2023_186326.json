@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 136 of 2023",
   "date_of_order": "23.10.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Omar Sial",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Deenar Karim",
+    "Mohammad Bilal",
+    "Muhammad Asghar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

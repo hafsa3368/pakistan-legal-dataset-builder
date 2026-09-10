@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No.S-1035 of 2023",
   "date_of_order": "09.10.2023",
-  "judge": "",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "sections 302, 34 PPC",
     "section 161 Cr.P.C",
@@ -18,7 +18,10 @@
     "2017 SCMR 279",
     "1996 SCMR 1125"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Hussain s/o Gul Muhammad Khaskheli",
+    "Complainant (not specified)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

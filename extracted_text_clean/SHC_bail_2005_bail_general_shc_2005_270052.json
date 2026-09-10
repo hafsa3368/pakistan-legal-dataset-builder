@@ -8,7 +8,7 @@
   "num_chunks": 23,
   "case_number": "Crl. Revision Application No.S-94 of 2024",
   "date_of_order": "29.11.2024",
-  "judge": "",
+  "judge": "Ali Haider ‘Ada’,J",
   "sections_cited": [
     "Sections 3 and 4 of the Illegal Dispossession Act",
     "section 3& 4 of Illegal Dispossession Act",
@@ -36,7 +36,11 @@
     "PLD 2010 SC 665",
     "PLD 2010 Lahore 394"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ishaque Kalhoro",
+    "The State",
+    "3 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

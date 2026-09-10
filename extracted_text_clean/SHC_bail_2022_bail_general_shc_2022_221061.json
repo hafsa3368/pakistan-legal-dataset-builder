@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "criminal case No. 29/2024",
   "date_of_order": "17.10.2024",
-  "judge": "Irfan/PA",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "sections 379, 504, 447 PPC",
     "section 497 Cr.P.C"
@@ -17,7 +17,12 @@
     "2024 SCMR 1605",
     "2001 P.Cr.L.J 344"
   ],
-  "parties": [],
+  "parties": [
+    "Faheemuddin son of Muhammad Salar",
+    "Ghulam Mujtaba son of Mehar Khan",
+    "The State",
+    "Khair Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

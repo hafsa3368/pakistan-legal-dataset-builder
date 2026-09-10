@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-62 of 2026",
   "date_of_order": "04.05.2026",
-  "judge": "",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Section 365-B PPC",
     "Section 497"
@@ -17,7 +17,13 @@
     "2025 SCMR 318",
     "2025 SCMR 1596"
   ],
-  "parties": [],
+  "parties": [
+    "Awal Khan Teghani",
+    "The State",
+    "Mr. Agha Imran Khan",
+    "Syed Sardar Ali Shah Rizvi",
+    "Nazir Ahmed Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,20 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 2881 of 2023",
   "date_of_order": "04-03-2024",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Yasin Ghazi",
+    "The State",
+    "The State through Mr. Pervaiz Ahmed Memon, Special Prosecutor Customs",
+    "Abdur Rauf",
+    "Abdul Samad Ghazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

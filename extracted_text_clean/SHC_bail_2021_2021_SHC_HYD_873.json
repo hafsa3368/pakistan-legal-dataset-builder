@@ -6,15 +6,20 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Crl. Rev. Appln. No.S",
+  "case_number": "",
   "date_of_order": "08.03.2021",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 489-F PPC"
+  ],
   "citations": [
     "2003 SCMR 22",
     "PLD 1995 Karachi 209"
   ],
-  "parties": [],
+  "parties": [
+    "Mian Taj Keerio",
+    "Ms. Rameshan Oad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

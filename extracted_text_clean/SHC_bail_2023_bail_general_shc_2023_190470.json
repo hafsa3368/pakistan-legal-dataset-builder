@@ -8,13 +8,20 @@
   "num_chunks": 1,
   "case_number": "Crl. Bail Application No. 636 of 2023",
   "date_of_order": "17.03.2023",
-  "judge": "",
+  "judge": "Aamir Ali",
   "sections_cited": [
     "section 23",
     "Section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aamir Ali",
+    "Ghazanfar Ali",
+    "Syed Suleman Badshah",
+    "Omar Sial",
+    " SITE-A police station",
+    "the father of the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

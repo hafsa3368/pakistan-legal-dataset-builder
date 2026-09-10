@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.D-30 of 2015",
   "date_of_order": "01.02.2018",
-  "judge": "JUDGE AH",
+  "judge": "Abdul Maalik Gaddi",
   "sections_cited": [
     "sections 9",
     "section 382-B Cr.P.C",
@@ -19,7 +19,13 @@
   "citations": [
     "2015 SCMR 1002"
   ],
-  "parties": [],
+  "parties": [
+    "Fateh Muhammad",
+    "The State",
+    "Syed Meeral Shah A.P.G.",
+    "S.H.O P.S A-Section Latifabad, Hyderabad",
+    "SIP Shahid Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

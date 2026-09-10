@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.2437 of 2021",
   "date_of_order": "07.02.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 337-F",
     "section 497",
@@ -19,7 +19,13 @@
   "citations": [
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Jehangir",
+    "Bilal Siddiq",
+    "Muhammad Siddiq",
+    "Mst. Zohra Siddiq",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

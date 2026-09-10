@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1877 of 2020",
   "date_of_order": "19.02.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 457/454/380/34 PPC",
     "section 497 Cr.P.C",
@@ -18,7 +18,11 @@
   "citations": [
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Zargoon Shah",
+    "Mujahid Khan",
+    "Muhammad Arshad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

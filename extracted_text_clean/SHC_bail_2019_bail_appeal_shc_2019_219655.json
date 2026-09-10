@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No. 307 of 2023",
   "date_of_order": "13.08.2024",
-  "judge": "",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "Sections 15, 17 and 24",
     "Section 15 of the Act",
@@ -20,7 +20,16 @@
     "Section 15"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mirza Noman Baig",
+    "The State",
+    "Sui Southern Gas Company",
+    "Syed Mahboob Bukhari S/o Syed Hassan Shah Bukhari",
+    "Rahim Buksh S/o Lakha Dino",
+    "Abdul Saboor Shaikh",
+    "SIP Muhammad Ayoub",
+    "SI Muhammad Bahadur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

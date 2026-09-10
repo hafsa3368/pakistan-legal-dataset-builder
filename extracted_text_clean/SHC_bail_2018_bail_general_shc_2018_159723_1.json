@@ -9,12 +9,20 @@
   "case_number": "civil suit No.209/2010",
   "date_of_order": "10-03-2022",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 SCMR 33",
     "PLD 2015 Sindh 336"
   ],
-  "parties": [],
+  "parties": [
+    "National Highway Authority",
+    "P.O. Sindh",
+    "Mr. Muhammad Junaid Akram",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

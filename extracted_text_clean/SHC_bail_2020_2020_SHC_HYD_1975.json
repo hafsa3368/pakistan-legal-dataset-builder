@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Cr.B.A.No.S-1090 of 2020",
   "date_of_order": "27.11.2020",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 497 Cr.P.C"
+  ],
   "citations": [
     "2010 SCMR 64"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulamullah Chang",
+    "Ms. Sobia Bhatti, A.P.G",
+    "Mr. Nabi Bux Narejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No.S-414 of 2024",
   "date_of_order": "05.08.2024",
-  "judge": "",
+  "judge": "Irfan Saadat Khan Leghari",
   "sections_cited": [
     "Sections 9",
     "Section 9"
@@ -19,7 +19,12 @@
     "2016 MLD 857",
     "2017 YLR Note 447"
   ],
-  "parties": [],
+  "parties": [
+    "Rasool Bux",
+    "The State",
+    "Mir Ali Nawaz",
+    "Syed Sardar Ali Shah DPG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

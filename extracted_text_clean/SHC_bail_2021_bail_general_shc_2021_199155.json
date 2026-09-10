@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Bail Appln. No. S",
+  "case_number": "",
   "date_of_order": "05.06.2023",
   "judge": "Akber",
   "sections_cited": [
@@ -18,7 +18,14 @@
     "2022 SCMR 842",
     "2023 SCMR 306"
   ],
-  "parties": [],
+  "parties": [
+    "Mr.Nazir Ahmed Junejo",
+    "Mr.Shafi Muhammad Mahar DPG",
+    "The State",
+    "Nawab Khan",
+    "Noor Khan",
+    "Taza Gul"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

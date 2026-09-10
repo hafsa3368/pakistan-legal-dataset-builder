@@ -6,15 +6,22 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Crl. Appeal No.S",
+  "case_number": "",
   "date_of_order": "27.11.2020",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 320 PPC"
+  ],
   "citations": [
     "2003 SCMR 22",
     "PLD 1995 Karachi 209"
   ],
-  "parties": [],
+  "parties": [
+    "Aijaz Ahmed Shaikh",
+    "Muhammad Hassan",
+    "Muhammad Essa",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

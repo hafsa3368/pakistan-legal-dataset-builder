@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Bail Application No. S-",
+  "case_number": "",
   "date_of_order": "03.02.2023",
   "judge": "Akber",
   "sections_cited": [
@@ -17,7 +17,12 @@
   "citations": [
     "2020 P.Cr.L.J Note 199"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed Kanasiro",
+    "Addl.P.G. O R D E R",
+    "Mr. Zulifqar Ali Jatoi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

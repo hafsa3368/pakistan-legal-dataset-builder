@@ -6,12 +6,23 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "C.P No.D-3641 of 2017",
+  "date_of_order": "08.02.2018",
+  "judge": "Abdullah Channa",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Meer Ahmed Mangrio",
+    "Mr. Muhammad Ismail Bhutto A.A.G. Sindh",
+    "Inspector Manzoor Ali",
+    "DIGP Hyderabad",
+    "Inspector Ali Akbar Channa",
+    "SHO PS A-Section, Dadu",
+    "ASI Gul Hassan Bhutto PS Khuda Abad",
+    "Mr. Lutfullah Arain D.A.G. for Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,8 +6,8 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr. Bail Appln. No.1624 of 2016",
+  "date_of_order": "26-12-2016",
   "judge": "Muhammad Ali Mazhar Mr",
   "sections_cited": [
     "Section 324, 353, 427, 34",
@@ -15,7 +15,13 @@
     "Section 103 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "M/s.Naveed Moin Faruqi and Mohammad Jawaid, Advocates for the Applicant",
+    "Muhammad Iqbal Awan, APG",
+    "Muhammad Ali Mazhar, J.",
+    "Mohammad Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

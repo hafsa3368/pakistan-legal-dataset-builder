@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "20-07-2022",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ayaz Ahmed Bhayo",
+    "M/s Mujeeb-ur-Rehman Soomro and Bahawal-ud-Din Shaikh",
+    "NAB",
+    "Mohbat Khan Rind",
+    "Muhtiarkar (Revenue), Taluka Kotdiji",
+    "Abdul Basit"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

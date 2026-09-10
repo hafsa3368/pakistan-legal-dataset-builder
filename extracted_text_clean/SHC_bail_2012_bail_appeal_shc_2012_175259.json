@@ -6,9 +6,9 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.S-18 of 2014",
   "date_of_order": "24.10.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 395 PPC",
     "Section 382-B Cr.P.C",
@@ -19,7 +19,16 @@
     "1995 SCMR 1345",
     "1992 SCMR 1134"
   ],
-  "parties": [],
+  "parties": [
+    "Gul Muhammad",
+    "Gul Hassan",
+    "Ali Hassan",
+    "Gulsher",
+    "Nawab Ali Solangi",
+    "LNC Ghulam Hyder Solangi",
+    "Ghulam Mustafa Bhatti",
+    "Usman Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

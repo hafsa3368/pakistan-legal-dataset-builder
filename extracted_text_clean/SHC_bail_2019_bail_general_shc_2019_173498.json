@@ -7,13 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 687 of 2022",
-  "date_of_order": "",
+  "date_of_order": "13.05.2022",
   "judge": "",
   "sections_cited": [
     "sections 6 and 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Sikandar",
+    "Naveed Afridi",
+    "State represented by the Deputy Prosecutor General",
+    "Ghulam Qadir Jalbani",
+    "Ittehad Town police station",
+    "ASi Manzoor Hussain Tanoli"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

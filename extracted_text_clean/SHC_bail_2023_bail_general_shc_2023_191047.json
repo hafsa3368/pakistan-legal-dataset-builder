@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1574 of 2022",
   "date_of_order": "12.01.2023",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 489-F PPC",
     "section 2",
@@ -18,7 +18,14 @@
   "citations": [
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Irfan",
+    "The State",
+    "The State",
+    "Muhammad Irfan",
+    "The State",
+    "Muhammad Irfan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

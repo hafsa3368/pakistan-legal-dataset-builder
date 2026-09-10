@@ -6,14 +6,22 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Bail Application Nos",
+  "case_number": "Crl. Bail Application Nos. 565",
   "date_of_order": "07.03.2023",
-  "judge": "",
+  "judge": "Mohammad Ali",
   "sections_cited": [
     "sections 6, 7, 8 and 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Arham Enterprises",
+    "Abdul Samad Ghazi",
+    "Intekhab Clearing Agency",
+    "Pakistan Customs",
+    "Mohammad Ali",
+    "Ubaid Khalid Kiyani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

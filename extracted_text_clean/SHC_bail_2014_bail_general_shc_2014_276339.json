@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No. D-937 of 2025",
   "date_of_order": "23.07.2025",
-  "judge": "",
+  "judge": "Riazat Ali Sahar,",
   "sections_cited": [
     "Section 9",
     "Section 17 of the Act",
@@ -24,7 +24,13 @@
     "PLD 2014 SC 458",
     "PLD 2001 SC 607"
   ],
-  "parties": [],
+  "parties": [
+    "Jhanwar Chakrani",
+    "The State and others",
+    "Mian Mumtaz Rabbani",
+    "M/s Athar Hussain Pathan, Assistant Advocate General",
+    "Khalil Ahmed Maitlo, Deputy P.G a/w ASI Ghulam Shabbir Shah of P.S, Patni-Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

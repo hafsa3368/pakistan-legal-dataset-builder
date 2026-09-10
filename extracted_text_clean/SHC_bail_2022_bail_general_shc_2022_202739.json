@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Bail Application No.1913 of 2023",
   "date_of_order": "04.08.2022",
-  "judge": "",
+  "judge": "Shaukat Hayat",
   "sections_cited": [
     "Section 497/498 Cr.P.C",
     "Section 6/9",
@@ -35,7 +35,16 @@
     "2011 SCMR 815",
     "PLD 1989 SC 585"
   ],
-  "parties": [],
+  "parties": [
+    "Adnan alias Sameer",
+    "Inspector Wajid Hussain of PS ANF Clifton, Karachi",
+    "Complainant",
+    "ANF",
+    "Special Prosecutor ANF",
+    "Ms. Abida Parveen Channar",
+    "P.S ANF Clifton Karachi",
+    "Special Court–II CNS"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

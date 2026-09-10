@@ -6,7 +6,7 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Const. Petition No. D",
+  "case_number": "",
   "date_of_order": "17-07-2025",
   "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
@@ -19,7 +19,11 @@
   "citations": [
     "2014 SCMR 1762"
   ],
-  "parties": [],
+  "parties": [
+    "Faisal Masih",
+    "Emmanuel",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

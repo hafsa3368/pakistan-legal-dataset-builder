@@ -6,12 +6,25 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 2462 of 2023",
   "date_of_order": "16.11.2023",
-  "judge": "Amjad PS",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Nasir",
+    "Mr. Altaf Ahmed Sahar",
+    "Mr. Muhammad Iqbal Awan",
+    "Mr. Qaim Deen",
+    "Commission Afghan Refugee Sindh",
+    "Saleh",
+    "Zikarullah",
+    "Government of Pakistan",
+    "Ministry of SAFRON"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

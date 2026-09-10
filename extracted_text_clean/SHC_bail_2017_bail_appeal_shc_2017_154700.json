@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No. 214 of 2017",
   "date_of_order": "12.07.2018",
-  "judge": "",
+  "judge": "Syed Khurram Kamal",
   "sections_cited": [
     "Section 3",
     "section 2 of the Illegal Dispossession Act",
@@ -21,7 +21,11 @@
   "citations": [
     "2013 P.Cr.L.J 767"
   ],
-  "parties": [],
+  "parties": [
+    "Akhtar Hussain",
+    "Muhammad Saleem Jessar",
+    "Muhammad Saleem Jessar (on behalf of the complainant/ respondent)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

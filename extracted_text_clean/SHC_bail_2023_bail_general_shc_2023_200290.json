@@ -6,16 +6,28 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Bail Application No. S",
+  "case_number": "",
   "date_of_order": "18.03.2023",
-  "judge": "",
+  "judge": "AMJAD ALI BOHIO",
   "sections_cited": [
     "Section 382 of the PPC",
     "Section 173 of the Cr.P.C",
     "Section 395 of the PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "AMJAD ALI BOHIO",
+    "Mr. Manzoor Hussain N. Larik",
+    "Mr. Zulifqar Ali Jatoi",
+    "The State",
+    "Sajid",
+    "Nadir",
+    "Ayub",
+    "Suhrab",
+    "The Police",
+    "Imdad Ali",
+    "The Ex- officio/Justice of Peace/Sessions Judge, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,15 +6,22 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail Appln: No.S-664 of 2023",
   "date_of_order": "09.10.2023",
-  "judge": "",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "sections 381-A and 34",
     "section 497"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Darya Khan",
+    "Qaim @ Dadoo",
+    "Dhani Bux Khoso",
+    "Karam",
+    "Wazeer",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

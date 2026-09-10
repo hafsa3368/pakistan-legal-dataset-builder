@@ -6,16 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "Cr. Bail Application No. 2248 of 2021",
+  "date_of_order": "24.12.2021",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 3",
     "section 161 Cr.P.C",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Imran Naseer",
+    "Muhammad Zulfikar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

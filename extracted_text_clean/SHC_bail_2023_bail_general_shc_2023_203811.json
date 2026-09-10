@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. S-1048 of 2023",
   "date_of_order": "13.10.2023",
   "judge": "Sajjad Ali Jessar",
   "sections_cited": [
@@ -17,7 +17,11 @@
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saddam Hussain Keerio",
+    "Ms. Sana Memon",
+    "Mahmood A. Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1002 of 2021",
   "date_of_order": "08.09.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 489-F PPC",
     "section 497 Cr.P.C",
@@ -16,7 +16,15 @@
     "Section 514 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Meeral Shah",
+    "Syed Meeral Shah",
+    "Syed Meeral Shah",
+    "Syed Meeral Shah",
+    "Muhammad Muzammil",
+    "Shaikh Muhammad Haris Siddiqui",
+    "Muhammad Riaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

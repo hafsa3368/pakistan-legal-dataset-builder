@@ -8,12 +8,15 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-5228 of 2018",
   "date_of_order": "11.08.2021",
-  "judge": "JUDGE NAK/PA",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 91"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nasir Ali Shah Bukhari",
+    "Muhammad Ali Shah Bukhari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

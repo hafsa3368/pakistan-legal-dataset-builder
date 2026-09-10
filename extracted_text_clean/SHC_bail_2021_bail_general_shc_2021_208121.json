@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Bail Application No.2440 of 2023",
   "date_of_order": "11.12.2023",
-  "judge": "",
+  "judge": "Shahbaz Sahotra",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Section 489-F PPC",
@@ -38,7 +38,12 @@
     "1995 SCMR 170",
     "2011 SCMR 1614"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Muhammad Mehdi",
+    "Mr. Talib Ali Memon",
+    "Mr. Khalil-uz-Zaman",
+    "Mr. Babar Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

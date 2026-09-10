@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-8671 of 2017",
   "date_of_order": "02.09.2021",
-  "judge": "JUDGE NAK/PA",
+  "judge": "",
   "sections_cited": [
     "section 204 Cr.P.C",
     "section 91 Cr.P.C",
@@ -19,7 +19,12 @@
   "citations": [
     "2014 SCMR 1762"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Nadeem Yaseen, Advocate in C.P.No.D-8671 of 2017",
+    "Mr. Aziz-ur-Rahman Akhund, Advocate in C.P.No.D-1404 of 2021",
+    "Mr. Shahbaz Sahotra, Special Prosecutor NAB a/w I.O. Naeemullah",
+    "Shamsuddin Abbasi, J:"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

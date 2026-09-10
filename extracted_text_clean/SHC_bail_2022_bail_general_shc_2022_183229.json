@@ -8,12 +8,15 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 336 of 2023",
   "date_of_order": "07.02.2023",
-  "judge": "",
+  "judge": "Ismail Khan",
   "sections_cited": [
     "sections 6 and 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ismail Khan",
+    "Mohammad Dawood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

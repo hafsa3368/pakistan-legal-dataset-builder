@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "30.08.2024",
-  "judge": "",
+  "judge": "Arbab Ali Hakro",
   "sections_cited": [
     "Section 10",
     "Section 5 of the Limitation Act",
@@ -19,7 +19,12 @@
   "citations": [
     "2023 SCMR 316"
   ],
-  "parties": [],
+  "parties": [
+    "Askari Bank Limited",
+    "M/s. Executive Aviation Pvt. Ltd.",
+    "M/s. Badar Alam",
+    "Kashif Badar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

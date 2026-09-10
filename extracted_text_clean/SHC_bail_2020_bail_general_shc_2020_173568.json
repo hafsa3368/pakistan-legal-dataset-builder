@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 1886 of 2021",
   "date_of_order": "29th November, 2021",
   "judge": "",
   "sections_cited": [
@@ -15,7 +15,12 @@
     "Section 25 CNS Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Syed Muhammad Sadeqain",
+    "Mr. Aamir Raza Dayo",
+    "Mr. Talib Ali Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

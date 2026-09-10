@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.986 of 2021",
   "date_of_order": "11.08.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 147/148/149/504/337-F",
     "section 497 Cr.P.C",
@@ -19,7 +19,18 @@
     "2009 SCMR 299",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Abdullah Sethar",
+    "State",
+    "Abdul Raheem",
+    "The State",
+    "Irshad Ali Shar",
+    "Rahat Ehsan",
+    "Sindh",
+    "Karachi",
+    "Malir",
+    "Judicial Magistrate-IV"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

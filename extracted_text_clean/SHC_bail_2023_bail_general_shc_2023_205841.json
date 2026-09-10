@@ -8,8 +8,10 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "22.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [
     "2020 SCMR 1049",
     "2021 SCMR 629",
@@ -21,7 +23,12 @@
     "2020 SCMR 2089",
     "PLD 2023 Islamabad 195"
   ],
-  "parties": [],
+  "parties": [
+    "Peer Syed Fayaz Shah",
+    "The State",
+    "Asadullah Shah",
+    "Bibi Hina Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

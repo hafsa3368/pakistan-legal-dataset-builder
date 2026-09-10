@@ -6,12 +6,16 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "Amjad PS",
+  "case_number": "Cr. Bail Application No. 2366 of 2023",
+  "date_of_order": "23-11-2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Khaliq",
+    "Government of Pakistan",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

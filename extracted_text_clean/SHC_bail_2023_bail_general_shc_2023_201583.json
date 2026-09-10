@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Bail Application No.1587 of 2023",
   "date_of_order": "06.07.2023",
-  "judge": "",
+  "judge": "Malik Waseem Hussain Awan",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "section 9",
@@ -27,7 +27,10 @@
     "2021 SCMR 1212",
     "2008 SCMR 1254"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Malik Waseem Hussain Awan",
+    "Mr. Muhammad Iqbal Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

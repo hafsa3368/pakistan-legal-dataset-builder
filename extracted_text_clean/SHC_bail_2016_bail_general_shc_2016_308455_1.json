@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "11.02.2026",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Farhan Ali Shaikh",
+    "Muhammad Nawaz Mahesar",
+    "Mukhtiarkar",
+    "District Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

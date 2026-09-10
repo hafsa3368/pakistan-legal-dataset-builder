@@ -6,14 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 1341 of 2021",
   "date_of_order": "22nd November, 2021",
-  "judge": "",
+  "judge": "Abdul Rahim Meghani",
   "sections_cited": [
     "sections 6 and 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Inspector Raja Mohammad Afzal",
+    "Mr. Liaquat Ali Khan",
+    "Mr. Khadim Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

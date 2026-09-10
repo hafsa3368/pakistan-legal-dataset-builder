@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No.448 of 2022",
   "date_of_order": "21.07.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 337-A/337-L",
     "section 497 Cr.P.C",
@@ -18,7 +18,17 @@
   "citations": [
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Noor Muhammad",
+    "Saima",
+    "Mr. Kiran Jehan",
+    "Ms. Rubina Qadir",
+    "Deputy Prosecutor General, Sindh",
+    "second wife of the applicant",
+    "ex-husband and wife",
+    "the complainant",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

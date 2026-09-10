@@ -8,12 +8,15 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No. 65 of 2018",
   "date_of_order": "20.11.2018",
-  "judge": "",
+  "judge": "Maroof Hussain Hashmi",
   "sections_cited": [
     "sections 15, 17 and 24"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tahir Ali",
+    "SSGC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

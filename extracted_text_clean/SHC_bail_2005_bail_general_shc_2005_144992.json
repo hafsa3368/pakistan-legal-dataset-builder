@@ -29,7 +29,15 @@
     "PLD 2016 SC 478",
     "PLD 1964 Dacca 111"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Kashif",
+    "Province of Sindh",
+    "Furqan Karim",
+    "Ahmed Pirzada",
+    "the Plaintiff",
+    "the Defendants",
+    "the Plaintiff's car"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

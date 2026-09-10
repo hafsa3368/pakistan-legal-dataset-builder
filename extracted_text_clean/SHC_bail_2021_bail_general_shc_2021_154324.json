@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No. 122 of 2021",
   "date_of_order": "12.08.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "section 506/2 PPC",
     "section 2",
@@ -20,7 +20,16 @@
     "2019 YLR Note 21",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Jibran Nasir",
+    "Mr. Muhammad Akbar Awan",
+    "Ms. Rubina Qadir",
+    "Nadir Khan",
+    "Samiullah",
+    "Zeeshanullah",
+    "The STATE",
+    "Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

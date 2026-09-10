@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Bail Application No.1421 of 2023",
   "date_of_order": "21.06.2023",
-  "judge": "",
+  "judge": "Wasique Ahmed Kehar",
   "sections_cited": [
     "Section 23",
     "Section 147/148/353/324/186 PPC",
@@ -27,7 +27,17 @@
     "2010 SCMR 1219",
     "PLD 1989 SC 633"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Zameer Ahnied Bhutto",
+    "Mr. Siraj Ali Khan",
+    "Owais Khan",
+    "Abdullah Khan",
+    "ASI Mushtaque Ahmed",
+    "PC Soomar",
+    "PC Shahid",
+    "HC Abdul Rehman",
+    "Owais Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 78 of 2023",
   "date_of_order": "23.10.2022",
-  "judge": "",
+  "judge": "Abdul Bari",
   "sections_cited": [
     "sections 6 and 9",
     "Section 103 Cr.P.C",
@@ -18,7 +18,14 @@
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Bari",
+    "Irshad Khan",
+    "ANF",
+    "Abida Parveen Channer",
+    "Omar Sial",
+    "Muneer Ahmed Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

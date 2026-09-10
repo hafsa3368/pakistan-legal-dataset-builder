@@ -6,12 +6,21 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.S-38 of 2023",
   "date_of_order": "12.09.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Zulfiqar Ali Sangi",
+  "sections_cited": [
+    "U/S 23-1"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Asif Ali",
+    "The State",
+    "Ms. Sana Memon",
+    "The State (APG)",
+    "Asif Ali",
+    "The State (APG)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

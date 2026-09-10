@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1649 of 2020",
   "date_of_order": "27.01.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 320/427 PPC",
     "Section 322/468/471/114 PPC",
@@ -23,7 +23,13 @@
   "citations": [
     "2005 P.Cr.L.J 1648"
   ],
-  "parties": [],
+  "parties": [
+    "Shah Fahad",
+    "Khalil-ur-Rehman",
+    "Muhammad Ijaz",
+    "Liaquat Ali Khaskheli",
+    "Rubina Qadir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

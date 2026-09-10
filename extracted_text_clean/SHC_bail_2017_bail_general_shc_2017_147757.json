@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "10.11.2020",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "sections 337-A",
     "section 497",
@@ -22,7 +22,12 @@
     "1994 PCr.LJ 1769",
     "PLD 2002 SC 1048"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem Jessar",
+    "Mr. Badal Gahoti",
+    "Mr. Asif Ali Talpur",
+    "Wazeer Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

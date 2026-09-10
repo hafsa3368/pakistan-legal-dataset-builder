@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "Criminal Bail Application No.D-04 of 2019",
   "date_of_order": "15.01.2019",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Inder Jeet D. Lohano",
+    "applicants",
+    "applicants",
+    "appellants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

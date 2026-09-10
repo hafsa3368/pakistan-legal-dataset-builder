@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.S-328 of 2017",
   "date_of_order": "11.08.2017",
   "judge": "Shahid",
   "sections_cited": [
@@ -36,7 +36,12 @@
     "2008 SCMR 1616",
     "2003 SCMR 54"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Shahzad Ahmed Narejo",
+    "Mr. Shahzado Saleem Nahiyoon",
+    "Qamar Abbas",
+    "Qaramat Hussain Rajput"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

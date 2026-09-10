@@ -6,15 +6,20 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-3391 of 2017",
   "date_of_order": "16.01.2018",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [
     "Sections 337-J, 371-A & 371-B PPC",
     "section 249-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Katcha Peshi",
+    "Mr. Raja H. R Naurang",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Pervaiz Tariq Tagar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

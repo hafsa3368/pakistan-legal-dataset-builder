@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Bail Application No.D-62 of 2017",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "17.01.2018",
+  "judge": "Abdullah Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Karamullah Memon",
+    "Shahzado Saleem Nahiyoon D.P.G. Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

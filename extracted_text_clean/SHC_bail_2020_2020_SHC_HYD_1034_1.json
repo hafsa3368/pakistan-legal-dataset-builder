@@ -6,12 +6,19 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.S-185 of 2020",
   "date_of_order": "18.12.2020",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 8 of SPPMSGM Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Majeed Magsi",
+    "Ms. Rameshan Oad",
+    "the appellant",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

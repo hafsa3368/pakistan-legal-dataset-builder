@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "14.09.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "561-A CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aurangzaib",
+    "Mehtab Ali",
+    "State versus Abdul Hameed and others",
+    "Mukhtiarkar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

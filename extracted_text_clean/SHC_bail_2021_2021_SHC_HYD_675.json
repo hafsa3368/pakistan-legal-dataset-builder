@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Cr.B.A.No.S-52 of 2021",
   "date_of_order": "16.03.2021",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 498 Cr.P.C"
+  ],
   "citations": [
     "2013 P.Cr.L.J 1424"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Rao Faisal Ali",
+    "Ms. Sobia Bhatti",
+    "Mr. Noor Muhammad Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

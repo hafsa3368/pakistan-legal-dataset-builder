@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "28.06.2021",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 489-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Anwar-ul-Hussain Hyder son of Ghulam Hussain Shah",
+    "Mr. Khan Muhammad Sangi, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Bail Application No. 1462 of 2023",
   "date_of_order": "04.06.2023",
-  "judge": "",
+  "judge": "Muhammad Rais Awan",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Section 322 PPC",
@@ -27,7 +27,14 @@
     "PLD 1995 SC 34",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Rais Awan",
+    "Mr. Siraj Ali Khan",
+    "the applicant",
+    "the private party",
+    "Sanaullah",
+    "SI Sohail Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

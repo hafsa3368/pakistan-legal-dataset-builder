@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Cr.B.A.Nos",
+  "case_number": "Cr.B.A.Nos.S-1198",
   "date_of_order": "08.02.2021",
-  "judge": "Ahmed/Pa",
+  "judge": "Irshad Ali Shah",
   "sections_cited": [
     "Section 498 Cr.P.C",
     "section 497 Cr.P.C"
@@ -16,7 +16,11 @@
   "citations": [
     "1986 SCMR-1380"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Tarique Ali Jakhrani and Farhan Ahmed Bozdar",
+    "Ms. Sobia Bhatti",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

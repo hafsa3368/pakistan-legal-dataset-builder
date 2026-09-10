@@ -7,11 +7,22 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "13-07-2022",
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Wahab G. Shaikh",
+    "M/s Mujeeb-ur-Rehman Soomro and Bahawal-ud-Din Shaikh",
+    "Mr. Achar Khan Gabol",
+    "Mr. Abdul Wahab G. Shaikh",
+    "Yar Muhammad Junejo",
+    "NAB",
+    "The applicant / surety",
+    "The applicant / accused"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No. 1924 of 2019",
   "date_of_order": "13.01.2020",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 380, 457, 34 PPC",
     "Section 497 Cr.P.C",
@@ -18,7 +18,11 @@
     "1986 SCMR 1380",
     "PLD 1995 SC 34"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Rawas Khan Afridi",
+    "Mr. Muhammad Rehan Qureshi",
+    "Ms. Rubina Qadir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

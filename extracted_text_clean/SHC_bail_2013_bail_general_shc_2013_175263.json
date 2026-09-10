@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Bail Application No.1838 of 2021",
   "date_of_order": "17.01.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 489-F PPC",
     "section 2",
@@ -32,7 +32,15 @@
     "2010 P.Cr.L.J 746",
     "1996 P.Cr.L.J 1422"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Rafi Kamboh",
+    "Mr. Muntazir Mehdi",
+    "Mr. Waqar Alam Abbasi",
+    "Javaria Haleem",
+    "Mst. Neelam Fatima",
+    "The State",
+    "Mst. Neelam Fatima and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

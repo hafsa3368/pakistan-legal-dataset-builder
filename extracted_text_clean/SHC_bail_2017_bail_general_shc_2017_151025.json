@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.191 of 2021",
   "date_of_order": "02.03.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 497",
     "sections 3, 4, 5, 6 and 7 of the Act",
@@ -17,7 +17,12 @@
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Moharram",
+    "Mr. Mansoor Ahmed Turk",
+    "Mr. Riasat Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

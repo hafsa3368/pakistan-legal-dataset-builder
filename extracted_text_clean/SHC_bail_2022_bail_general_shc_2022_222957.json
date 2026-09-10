@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No. 431 of 2024",
   "date_of_order": "18.11.2024",
-  "judge": "Aamir/PS",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 9",
     "Section 9 of the Act",
@@ -20,7 +20,15 @@
   "citations": [
     "2006 YLR 3167"
   ],
-  "parties": [],
+  "parties": [
+    "Rashid Ali son of Meer Muhammad Jalbani",
+    "The State",
+    "Syed Sardar Ali Shah",
+    "Badaruddin Memon",
+    "Meer Muhammad Jalbani",
+    "Shabbir Ali Bozdar",
+    "Rashid Ali Bozdar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

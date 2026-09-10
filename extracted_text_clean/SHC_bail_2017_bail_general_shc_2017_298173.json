@@ -9,9 +9,17 @@
   "case_number": "Crl. Bail Application No.S-261 of 2016",
   "date_of_order": "24.11.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zeeshan Ali Memon",
+    "Mr. Khalid Hussain Lakho",
+    "the applicant/surety",
+    "the applicant/accused Muhammad Umer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

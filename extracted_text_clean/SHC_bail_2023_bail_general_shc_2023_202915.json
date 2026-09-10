@@ -8,14 +8,20 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-709 of 2023",
   "date_of_order": "21.08.2023",
-  "judge": "",
+  "judge": "Zulfikar Ali Sangi",
   "sections_cited": [
     "sections 419, 420, 336 PPC",
     "section 2",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gul Hassan s/o Bhural Khan",
+    "Rohma",
+    "Raja Jawad Ali Sahar",
+    "Ms. Rameshan Oad",
+    "Mr. Anwer Ali Rajput"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

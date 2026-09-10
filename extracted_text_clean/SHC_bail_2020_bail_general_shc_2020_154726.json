@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No.1999 of 2020",
   "date_of_order": "16.02.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 382/457/34 PPC",
     "Section 173 Cr.P.C",
@@ -16,7 +16,14 @@
     "Section 514 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saindad",
+    "Khair Muhammad",
+    "Abdul Waheed",
+    "Muhammad Usman",
+    "Babu",
+    "Zamindar and businessman of Pan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

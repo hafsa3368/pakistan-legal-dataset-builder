@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Criminal Appeal No. 346 of 2021",
   "date_of_order": "08.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 3 of the Illegal Dispossession Act",
     "Section 340 Cr.P.C",
@@ -16,7 +16,15 @@
     "Section 544 of the Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Allauddin Malik",
+    "The State",
+    "Kashif Mumtaz Shah",
+    "Mohammad Mohsin",
+    "Rasheed Khan",
+    "Tanveer-ul-Haq",
+    "Nadeem Mushtaq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "CR. B.A. NO. 1463 OF 2016",
   "date_of_order": "14.11.2016",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 6/9-",
     "Section 6/9-C",
@@ -36,7 +36,15 @@
     "2007 SCMR 393",
     "PLD 2009 SC 39"
   ],
-  "parties": [],
+  "parties": [
+    "Siraj Muhammad",
+    "The State",
+    "The State",
+    "Mr. Inamullah",
+    "Mr. Zafar Ahmed Khan",
+    "Muhammad Yaqoob",
+    "Pir Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

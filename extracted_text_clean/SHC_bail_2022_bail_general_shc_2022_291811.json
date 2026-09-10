@@ -6,15 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "M.A No.2443 of 2022",
+  "date_of_order": "15.06.2022",
   "judge": "",
   "sections_cited": [
     "Section 498 Cr.P.C",
     "Sections 201, 223, 225-A, 225-B, 175, 166-A PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed K. Abro, advocate alongwith the applicant",
+    "AsgharAli"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

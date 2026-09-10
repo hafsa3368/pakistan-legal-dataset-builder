@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.S-1118 of 2022",
   "date_of_order": "17.11.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 9",
     "section 9"
@@ -17,7 +17,10 @@
     "2020 SCMR 350",
     "PLD 1972 SC 81"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Mustafa @ Mustu S/o Muhammad Qasim Brohi",
+    "The STATE"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

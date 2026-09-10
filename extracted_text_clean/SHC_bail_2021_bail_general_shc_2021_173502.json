@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 649 of 2022",
   "date_of_order": "22nd April, 2022",
-  "judge": "",
+  "judge": "Muhammad Noman Khan",
   "sections_cited": [
     "sections 6 and 9",
     "section 103 Cr.P.C",
@@ -18,7 +18,17 @@
   "citations": [
     "2021 SCMR 460"
   ],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "The State",
+    "The State",
+    "The State",
+    "The State",
+    "The State",
+    "The State",
+    "The State",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

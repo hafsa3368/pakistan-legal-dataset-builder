@@ -6,12 +6,18 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Cr. Bail Application No.S-601 of 2025",
+  "date_of_order": "16.7.2025",
+  "judge": "S.Nawaz",
+  "sections_cited": [
+    "u/s 365-B, 34 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rasool Bux Talani Domki",
+    "Hamid Ali",
+    "Abdul Ghafoor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

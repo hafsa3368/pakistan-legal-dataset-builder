@@ -8,10 +8,16 @@
   "num_chunks": 4,
   "case_number": "Civil Petition No.159 of 2024",
   "date_of_order": "25-01-2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ABDUL MOBEEN LAKHO",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nek Muhammad Brohi",
+    "Election Commission of Pakistan & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

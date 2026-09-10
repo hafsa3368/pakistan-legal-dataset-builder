@@ -8,14 +8,21 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 569 of 2022",
   "date_of_order": "07.03.2022",
-  "judge": "",
+  "judge": "Fayaz Ali",
   "sections_cited": [
     "sections 6 and 9",
     "section 497 Cr.P.C",
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Fayaz Ali",
+    "Asfand Yar",
+    "The State",
+    "Malir",
+    "S.I. Umer Hayat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

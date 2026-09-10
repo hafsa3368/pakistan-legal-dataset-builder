@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-1017 of 2023",
   "date_of_order": "02.10.2023",
-  "judge": "",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "section 08 of SPPMSSUGM Act",
     "section 497 Cr.P.C",
@@ -22,7 +22,12 @@
     "PLD 2017 SC 733",
     "PLD 2021 SC 903"
   ],
-  "parties": [],
+  "parties": [
+    "Zulfiqar Ali s/o Dur Muhammad",
+    "The State",
+    "Mr. Ahsan Gul Dahri",
+    "Ms. Rameshan Oad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

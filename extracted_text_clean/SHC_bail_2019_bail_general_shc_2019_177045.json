@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr. Bail Appln: No.S-945 of 2022",
   "date_of_order": "08.12.2022",
   "judge": "Shahid",
   "sections_cited": [
@@ -23,7 +23,15 @@
     "1995 SCMR 1350",
     "2003 SCMR 1419"
   ],
-  "parties": [],
+  "parties": [
+    "Nizamuddin",
+    "State",
+    "Babar Ali Unar",
+    "complainant",
+    "Mst. Afroze",
+    "Zubair Ali",
+    "Sadaqat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

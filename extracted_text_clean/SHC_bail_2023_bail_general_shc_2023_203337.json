@@ -8,14 +8,39 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No. 1842/2023",
   "date_of_order": "28-09-2023",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 354 PPC",
     "section 337-",
     "section 497 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    {
+      "petitioner": "Muhammad Musharaf",
+      "son of": "Muhammad Gufran"
+    },
+    {
+      "petitioner": "Muhammad Naeem",
+      "son of": "Muhammad Musharaf"
+    },
+    {
+      "petitioner": "Mst. Farah Naz",
+      "daughter of": "Muhammad Musharaf"
+    },
+    {
+      "petitioner": "Muhammad Ali",
+      "son of": "Muhammad Musharaf"
+    },
+    {
+      "complainant": "Sobia Zulfiqar",
+      "wife of": "Zulfiqar Ali"
+    },
+    {
+      "complainant": "Muhammad Nawaz",
+      "Advocate of": "Sobia Zulfiqar"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

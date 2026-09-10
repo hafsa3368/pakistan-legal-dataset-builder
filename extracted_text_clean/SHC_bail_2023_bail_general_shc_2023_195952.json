@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Crl. Bail Application No. 962 of 2023",
   "date_of_order": "22.02.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Omar Sial",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zahooruddin",
+    "Mr. Talib Ali Memon",
+    "Omar Sial"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

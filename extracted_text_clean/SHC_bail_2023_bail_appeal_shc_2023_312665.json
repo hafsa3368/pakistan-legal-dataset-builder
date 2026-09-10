@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Crl. Transfer Application No.S-07 of 2026",
   "date_of_order": "04.05.2026",
-  "judge": "",
+  "judge": "ARBAB ALI HAKRO",
   "sections_cited": [
     "section 526",
     "section 342",
@@ -22,7 +22,10 @@
     "2020 SCMR 1243",
     "PLD 1973 SC 327"
   ],
-  "parties": [],
+  "parties": [
+    "Qurban Ali Laghari",
+    "The State and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

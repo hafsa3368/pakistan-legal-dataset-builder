@@ -6,16 +6,22 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 1673 of 2021",
   "date_of_order": "25th November, 2021",
-  "judge": "",
+  "judge": "Zubair Ahmed",
   "sections_cited": [
     "sections 6 and 9",
     "section 103 Cr.P.C",
     "Section 25 of the CNS Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zubair Ahmed",
+    "Omar Sial",
+    "Mr. Abrar Ali Khichi",
+    "Ms. Sadia Khatoon",
+    "The State (through Additional Prosecutor General)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

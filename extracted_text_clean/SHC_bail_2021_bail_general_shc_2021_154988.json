@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "criminal case cannot",
+  "case_number": "",
   "date_of_order": "22.10.2021",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 337-A",
     "section 337-L, 337-A",
@@ -21,7 +21,16 @@
     "PLD 1995 SC 34",
     "PLD 2017 SC 733"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muneer Hussain Turk",
+    "Ms. Sana Memon",
+    "Mr. Anwar Hussain",
+    "Fayaz Hussain",
+    "Farooque Hussain",
+    "Ali Hyder @ Aziz",
+    "Complainant",
+    "Co-accused"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

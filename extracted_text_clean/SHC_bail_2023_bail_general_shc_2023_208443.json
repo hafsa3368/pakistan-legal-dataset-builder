@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Bail Application No.2319 of 2023",
   "date_of_order": "20.12.2023",
-  "judge": "",
+  "judge": "Abdul Razzaq Solangi",
   "sections_cited": [
     "Sections 406,408",
     "section 381 PPC",
@@ -34,7 +34,15 @@
     "2012 YLR 1296",
     "2002 P. Cr. L.J 965"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Jamshed Hussain",
+    "Lucky Commodator Pvt Ltd Ltd",
+    "The State",
+    "Mst. Asiya",
+    "Shameem Bibi",
+    "Akhtar Ali Ghow Ada",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

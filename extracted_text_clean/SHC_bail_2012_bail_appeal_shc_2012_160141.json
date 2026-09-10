@@ -8,12 +8,15 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "26.06.2018",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 540 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "appellants",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

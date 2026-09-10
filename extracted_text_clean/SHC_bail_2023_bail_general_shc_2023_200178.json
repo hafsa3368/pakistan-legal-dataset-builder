@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Bail Appln. No. S",
+  "case_number": "",
   "date_of_order": "17.07.2023",
-  "judge": "Faisal Mumtaz/PS",
+  "judge": "Faisal Mumtaz",
   "sections_cited": [
     "Section 9-C of the CNS Act",
     "Section 103 Cr.P.C",
@@ -21,7 +21,10 @@
     "2023 MLD 942",
     "2022 P Cr. L J 1466"
   ],
-  "parties": [],
+  "parties": [
+    "Gul Muhammad Phulpoto",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,21 @@
   "case_number": "",
   "date_of_order": "02.10.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2020 SCMR 300"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ilyas Waraich",
+    "Mr. Junaid Alam Khan",
+    "Plaintiff",
+    "Defendant Nos.2 and 3",
+    "KMC",
+    "Plaintiff"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

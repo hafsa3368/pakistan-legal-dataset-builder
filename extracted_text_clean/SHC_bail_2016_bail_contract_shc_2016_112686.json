@@ -6,7 +6,7 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr. Bail Appln. No.S-979 of 2016",
   "date_of_order": "02.12.2016",
   "judge": "Shahid",
   "sections_cited": [
@@ -16,7 +16,16 @@
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jameel Ahmed Memon",
+    "Muhammad Yaqoob",
+    "Abdul Rasheed Memon",
+    "Shazia",
+    "Muhammad Arif",
+    "Maryam",
+    "Muhammad Maroof",
+    "Imran Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

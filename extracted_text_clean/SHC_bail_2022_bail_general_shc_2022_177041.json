@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No.357 of 2022",
   "date_of_order": "11.11.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Sections 337-F",
     "section 2",
@@ -18,7 +18,13 @@
     "2022 SCMR 1271",
     "2014 YLR 1159"
   ],
-  "parties": [],
+  "parties": [
+    "Malhar",
+    "The State",
+    "The State v. Malhar and 04 others",
+    "PW Bharmal",
+    "Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

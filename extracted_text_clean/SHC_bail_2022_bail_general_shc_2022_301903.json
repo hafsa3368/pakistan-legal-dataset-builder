@@ -6,14 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.2899 of 2025",
   "date_of_order": "13.01.2026",
-  "judge": "JUDGE hanif",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 342"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Naimatullah Khan",
+    "ANF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

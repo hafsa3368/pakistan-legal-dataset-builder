@@ -6,9 +6,9 @@
   "year": "2006",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Cr.B.A.No.S-",
+  "case_number": "",
   "date_of_order": "08.04.2024",
-  "judge": "",
+  "judge": "ZULIFQAR ALI SANGI",
   "sections_cited": [
     "section 497 Cr.P.C"
   ],
@@ -20,7 +20,10 @@
     "PLD 2017 SC 733",
     "PLD 2021 SC 903"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Razak Kalhoro",
+    "Basit Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

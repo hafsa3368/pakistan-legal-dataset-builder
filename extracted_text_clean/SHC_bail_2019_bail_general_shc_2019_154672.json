@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Bail Application No.1554 of 2020",
   "date_of_order": "26.02.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 385/506-B/34 PPC",
     "section 497 Cr.P.C",
@@ -17,7 +17,23 @@
   "citations": [
     "PLD 2009 SC 427"
   ],
-  "parties": [],
+  "parties": [
+    "Afzal Zaman Khan",
+    "Hassan Zaman Khan",
+    "Ghulam Hussain",
+    "Kalan",
+    "State",
+    "Complainant",
+    "Farukh Afzal",
+    "Mobeen @ Kaka",
+    "Police Station Nazimabad",
+    "Ahbab Sweets",
+    "Inspector Shakeel Ahmed",
+    "SIU/CIA Karachi",
+    "Administrative Judge, ATC Karachi",
+    "SPP ATC Court",
+    "I.O"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

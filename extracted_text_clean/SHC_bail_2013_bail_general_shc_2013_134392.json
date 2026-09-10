@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "14.12.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "Shamsuddin Abbasi,",
   "sections_cited": [
     "Section 514",
     "section 514"
@@ -18,7 +18,16 @@
     "2000 SCMR 312",
     "PLD 2011 SC 116"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Fareed Anwar",
+    "Uncle of Fareed Anwar",
+    "Assistant Attorney General",
+    "Accused",
+    "Law abiding citizen",
+    "Cook",
+    "Large family"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

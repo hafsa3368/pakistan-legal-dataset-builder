@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 311 of 2020",
   "date_of_order": "31.03.2020",
-  "judge": "",
+  "judge": "ABDUL MOBEEN LAKHO",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "section 489-F PPC",
@@ -17,7 +17,14 @@
   "citations": [
     "2009 SCMR 1488"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Imran s/o Eid Muhammad",
+    "The State",
+    "Aziz ur Rehman s/o Qurban Hussain",
+    "Badar Khan",
+    "Nadeem Kamal",
+    "Intekhab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

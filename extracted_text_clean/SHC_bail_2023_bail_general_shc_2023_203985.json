@@ -8,12 +8,16 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-952 of 2023",
   "date_of_order": "25.09.2023",
-  "judge": "",
+  "judge": "ZULFIQAR ALI SANGI",
   "sections_cited": [
     "sections 397 and 34"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kamran @ Kami",
+    "Iqbal Ahmed",
+    "HBL Bank"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

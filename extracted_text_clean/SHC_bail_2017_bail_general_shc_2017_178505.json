@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.S-1043 of 2022",
   "date_of_order": "28.10.2022",
   "judge": "Shahid",
   "sections_cited": [
@@ -20,7 +20,10 @@
     "Section 8"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Sarwar S/o Rehmatullah Brohi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Crl. Bail Application No.S-135 of 2023",
   "date_of_order": "16.06.2023",
-  "judge": "",
+  "judge": "WASI Sher Ali Bullo",
   "sections_cited": [
     "Sections 120-B, 221, 222, 223 PPC",
     "Section 497 Cr.P.C",
@@ -22,7 +22,20 @@
   "citations": [
     "2022 SCMR 624"
   ],
-  "parties": [],
+  "parties": [
+    "PC Mumtaz Hussain Malik",
+    "HS Qamaruddin Khuhro",
+    "Babar Ali Khokhar",
+    "PC Ilahi Bux Bhutto",
+    "PC Rustum Ali",
+    "WASI Sher Ali Bullo",
+    "Raheem Bux",
+    "Qadir Bux @ Babu",
+    "Asif Ali",
+    "State",
+    "Saeed Ahmed Bhatt",
+    "Imran Mobeen Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

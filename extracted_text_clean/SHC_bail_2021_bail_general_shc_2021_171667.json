@@ -6,14 +6,22 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.D-25 of 2022",
   "date_of_order": "11.08.2022",
-  "judge": "JUDGE Shahid",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Fahmida Chandio",
+    "PC Mazhar Sadique",
+    "Mst. Fahmida Chandio",
+    "DSP Sikandar Ali Bhatti",
+    "Mst. Fahmida Chandio",
+    "Mr. Mehmood Alam Abbasi",
+    "Mr. Shahzado Saleem Nahiyoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

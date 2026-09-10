@@ -6,9 +6,9 @@
   "year": "2005",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 197 of 2025",
   "date_of_order": "13-08-2025",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 3",
     "Section 156 of the Customs Act",
@@ -20,7 +20,10 @@
   "citations": [
     "1976 SCMR 190"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Hassan",
+    "Imdad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

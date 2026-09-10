@@ -8,14 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1848 of 2022",
   "date_of_order": "05.12.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Sections 337-A",
     "Section 337-F",
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Zaman @ Abro",
+    "Master Ghulam Qadir",
+    "Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

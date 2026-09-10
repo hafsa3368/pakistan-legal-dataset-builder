@@ -6,7 +6,7 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Appln. No.685 of 2025",
   "date_of_order": "07.03.2025",
   "judge": "Shahbaz",
   "sections_cited": [
@@ -17,7 +17,11 @@
     "PLD 1995 SC 34",
     "PLD 2009 SC 427"
   ],
-  "parties": [],
+  "parties": [
+    "Rashid Ali Ali",
+    "Altaf Hussain",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.1710 of 2020",
   "date_of_order": "28.01.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 489-F PPC",
     "section 497 Cr.P.C",
@@ -18,7 +18,13 @@
     "Section 514 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Rehan",
+    "The State",
+    "Mr. Asif Ibrahim Memon",
+    "Mr. Talib Ali Memon",
+    "Mr. Siraj Ahmed Mangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-902 of 2023",
   "date_of_order": "11.09.2023",
-  "judge": "",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "section 8",
     "section 497 Cr.P.C"
@@ -21,7 +21,12 @@
     "PLD 2017 SC 733",
     "PLD 2021 SC 903"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Farhad Ali Abro",
+    "Ms. Rameshan Oad",
+    "State",
+    "Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

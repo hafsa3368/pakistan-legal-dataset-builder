@@ -8,14 +8,23 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.S-709 of 2023",
   "date_of_order": "21.08.2023",
-  "judge": "",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "sections 419, 420, 336 PPC",
     "section 2",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gul Hassan s/o Bhural Khan",
+    "Rohma",
+    "complainant",
+    "Assistant Prosecutor General Sindh",
+    "complainant",
+    "learned counsel for complainant",
+    "learned counsel for applicant",
+    "Raja Jawad Ali Sahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

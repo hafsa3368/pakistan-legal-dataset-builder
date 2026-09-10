@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "CR. B.A. NO. 1446 OF 2016",
   "date_of_order": "28.11.2016",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 324/353/186/34 PPC",
     "Section 381-A",
@@ -20,7 +20,16 @@
     "PLD 1995 SC 34",
     "PLD 1985 SC 402"
   ],
-  "parties": [],
+  "parties": [
+    "Mehboob son of Muhammad Soomar",
+    "S.I Khan Nawaz",
+    "PC Athar Shah 2478",
+    "PC Gohar 9158",
+    "PC Muhammad Afzal 20505",
+    "Jawed Leghari son of Ghulam Rasool",
+    "Jawed Leghari son of Muhammad Soomar",
+    "Mehboob son of Muhammad Soomar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

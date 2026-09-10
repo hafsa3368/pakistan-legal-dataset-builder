@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-47 of 2024",
-  "date_of_order": "",
+  "date_of_order": "28.10.2025",
   "judge": "",
   "sections_cited": [
     "Section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Safdar Kamal, Law officer NADRA",
+    "Mr. Shakeel Ahmed G.Ansari, Advocate for petitioner",
+    "Mr. Oshaq Ali Sangi, Assistant Attorney General a/w Safdar Kamal",
+    "Afzal Pathan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

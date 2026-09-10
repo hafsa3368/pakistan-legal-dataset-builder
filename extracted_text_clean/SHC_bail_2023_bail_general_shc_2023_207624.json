@@ -8,13 +8,20 @@
   "num_chunks": 5,
   "case_number": "Criminal Bail Application No. 2603 of 2023",
   "date_of_order": "07.12.2023",
-  "judge": "",
+  "judge": "Khalid Hussain Chandio",
   "sections_cited": [
     "Section 397/353/324/34 PPC",
     "Section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Arshad",
+    "Gul Ameen",
+    "Jan Muhammad",
+    "The Complainant",
+    "Mr. Saleem Akhtar Buriro",
+    "The Addl. P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

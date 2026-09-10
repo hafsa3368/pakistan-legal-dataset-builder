@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Bail Application No.1088 of 2023",
   "date_of_order": "06.05.2023",
-  "judge": "",
+  "judge": "Tariq Shahzad Bhatti",
   "sections_cited": [
     "Section 498",
     "Section 489-F PPC",
@@ -20,7 +20,13 @@
   "citations": [
     "2019 SCMR 1129"
   ],
-  "parties": [],
+  "parties": [
+    "Farukh Naseem",
+    "Naeem Bashir",
+    "Askari Bank North Karachi Branch",
+    "Health Scientific Company",
+    "Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

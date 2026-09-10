@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Bail Application No.1838 of 2023",
   "date_of_order": "12.08.2023",
-  "judge": "",
+  "judge": "Muhammad Shafquat Tanoli",
   "sections_cited": [
     "Section 497 Cr.P.C",
     "Section 489-F PPC",
@@ -35,7 +35,10 @@
     "2011 SCMR 1614",
     "2015 SCMR 1575"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Meeral Shah Bukhari",
+    "Malik Shoaib"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

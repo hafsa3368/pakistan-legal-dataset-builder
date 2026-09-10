@@ -8,14 +8,18 @@
   "num_chunks": 2,
   "case_number": "Crl. Bail Application No. 1596 of 2020",
   "date_of_order": "24.11.2020",
-  "judge": "",
+  "judge": "Ubaid Alam",
   "sections_cited": [
     "sections 15, 17 and 24",
     "Section 15",
     "section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "SSGC",
+    "Ramesh Kumar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

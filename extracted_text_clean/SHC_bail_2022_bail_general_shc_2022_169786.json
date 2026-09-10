@@ -8,13 +8,24 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.867 of 2022",
   "date_of_order": "24.11.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 392, 394 PPC",
     "Section 497 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Barkat Ali",
+    "Police",
+    "State",
+    "Mst. Mirzadi",
+    "Altaf Ali",
+    "Javed Abro",
+    "SHO P.S Sujawal",
+    "SSP AVLC Karachi",
+    "SHO P.S Shah Latif Town",
+    "SHO P.S Sujawal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

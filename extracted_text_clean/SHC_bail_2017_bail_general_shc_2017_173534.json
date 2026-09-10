@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No. 454 of 2022",
   "date_of_order": "18th April, 2022",
-  "judge": "",
+  "judge": "Wali Muhammad",
   "sections_cited": [
     "sections 6, 9-B and 9",
     "section 103 Cr.P.C",
@@ -23,7 +23,13 @@
     "2017 P.Cr.L.J. 501",
     "2011 SCMR 624"
   ],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Wali Muhammad",
+    "State",
+    "Police",
+    "Abdul Aziz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

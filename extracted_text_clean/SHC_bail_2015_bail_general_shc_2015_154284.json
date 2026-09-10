@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Bail Application No.550 of 2021",
   "date_of_order": "11.08.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 430/427/34 PPC",
     "section 14-",
@@ -19,7 +19,14 @@
     "Section 514 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rabnawaz",
+    "Shahab Ahmed",
+    "Syed Ahmed Umair Zaidi",
+    "Ms. Rahat Ehsan",
+    "Mr. Ghulam Nabi",
+    "Mr. Syed Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

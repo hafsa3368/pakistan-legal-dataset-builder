@@ -6,9 +6,9 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 622 of 2022",
   "date_of_order": "22nd April, 2022",
-  "judge": "",
+  "judge": "Sher Muhammad",
   "sections_cited": [
     "sections 6 and 9",
     "Section 25 of the CNS Act",
@@ -18,7 +18,10 @@
     "2017 SCMR 560",
     "2011 SCMR 1046"
   ],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

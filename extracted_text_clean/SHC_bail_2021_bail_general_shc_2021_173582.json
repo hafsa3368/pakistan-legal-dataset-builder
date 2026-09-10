@@ -6,12 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No. 2086 of 2021",
   "date_of_order": "22nd December, 2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 23"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Bacha Zaib and Habib Ahmed",
+    "Mr. Talib Ali Memon",
+    "APG a/w SIP Ghulam Shabbir",
+    "A.S.I. Mumtaz Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

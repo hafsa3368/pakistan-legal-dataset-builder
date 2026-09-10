@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-86 of 2024",
   "date_of_order": "19.03.2026",
-  "judge": "",
+  "judge": "Achar Khan Gabole",
   "sections_cited": [
     "Section 395 PPC",
     "Section 382-B Cr.P.C",
@@ -26,7 +26,12 @@
     "2011 PCr.LJ 1971",
     "PLD 1995 Karachi 209"
   ],
-  "parties": [],
+  "parties": [
+    "Saeed and another",
+    "The state",
+    "Ghulam Hussain",
+    "Abdul Sattar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

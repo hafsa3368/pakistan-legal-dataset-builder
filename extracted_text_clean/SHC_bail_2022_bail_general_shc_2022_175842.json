@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Bail Application No.S-1163 of 2022",
   "date_of_order": "11.11.2022",
   "judge": "Shahid",
   "sections_cited": [
@@ -17,7 +17,12 @@
     "2020 YLR Note 66",
     "2020 YLR 1544"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Hyder",
+    "Ali Hyder",
+    "Allah Dad",
+    "Mst. Habib Khatoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

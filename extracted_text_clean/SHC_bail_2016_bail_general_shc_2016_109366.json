@@ -6,12 +6,20 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-265 of 2015",
   "date_of_order": "15.01.2015",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Rehman, Advocate a/w Petitioner",
+    "Mr. Muhammad Altaf, Special Prosecutor NAB",
+    "NAB",
+    "Hassan Noor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
