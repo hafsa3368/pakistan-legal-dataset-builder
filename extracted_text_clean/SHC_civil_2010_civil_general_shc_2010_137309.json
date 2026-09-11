@@ -6,15 +6,18 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "constructed on Plot bearing No.D-37",
+  "case_number": "",
   "date_of_order": "20.02.2019",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 17 of the Registration Act",
     "Section 7 of the Illegal Dispossession Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Mansoor",
+    "Muhammad Rashid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,17 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A No. 92 of 2022",
   "date_of_order": "29.11.2023",
-  "judge": "JUDGE Amjad/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sami Ahsan, advocate for the appellant",
+    "Mr. Jaffar Raza, advocate for respondents",
+    "Mr. Abdul Jalil Zubedi, AAG",
+    "No.3 to 5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

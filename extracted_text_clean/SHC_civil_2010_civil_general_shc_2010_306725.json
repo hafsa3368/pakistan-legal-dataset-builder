@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Civil Appeal No.1509 of 2021",
   "date_of_order": "26.01.2026",
-  "judge": "",
+  "judge": "ARBAB ALI HAKRO",
   "sections_cited": [
     "Section 2",
     "Section 29"
@@ -24,7 +24,13 @@
     "PLD 2004 SC 416",
     "PLD 1991 SC 385"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan Telecommunication Company Ltd",
+    "Islamuddin",
+    "03 others",
+    "Syed Sardar Hussain Shah",
+    "Mr. Muhammad Ismail Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

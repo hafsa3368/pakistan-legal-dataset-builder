@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Civil Appeals No.93",
   "date_of_order": "22.01.2024",
-  "judge": "",
+  "judge": "Arbab Ali Hakro",
   "sections_cited": [
     "Section 115 of the Civil Procedure Code",
     "Section 7",
@@ -19,7 +19,14 @@
     "2006 SCMR 340",
     "2022 SCMR 933"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Nadir Ali Shah",
+    "Nawab",
+    "Hidayatullah",
+    "Rehmatullah",
+    "Ghulam Hussain",
+    "Syed Mithal Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

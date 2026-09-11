@@ -6,15 +6,24 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-1299 of 2023",
   "date_of_order": "17.10.2023",
-  "judge": "JUDGE Muhammad Danish",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "Section 16 of the University Act",
     "Section 16"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent No.4 - University",
+    "Petitioner",
+    "Respondent No.5",
+    "Petitioner",
+    "Respondent No.4 - University",
+    "Petitioner",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

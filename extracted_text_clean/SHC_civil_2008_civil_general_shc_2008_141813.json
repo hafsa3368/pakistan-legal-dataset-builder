@@ -6,7 +6,7 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Constt: Petitions No. D-775",
   "date_of_order": "1st August, 2011",
   "judge": "Khadim Hussain Shaikh",
   "sections_cited": [
@@ -17,7 +17,13 @@
     "2011 SCMR 279",
     "PLD 1991 SC 476"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed K. Abro",
+    "Mr. Muhammad Imran Abbasi",
+    "Mr. Safdar Ali Ghouri",
+    "Mr. Abdul Hamid Bhurgri",
+    "Mr. Abdul Rasheed Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

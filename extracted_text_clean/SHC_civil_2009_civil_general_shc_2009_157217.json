@@ -6,12 +6,17 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "civil remedy by way of F.C Suit No.95 of 2009",
+  "case_number": "",
   "date_of_order": "30.01.2018",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Qasim Raza Shah",
+    "Mr. Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

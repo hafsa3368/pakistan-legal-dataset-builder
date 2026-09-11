@@ -6,7 +6,7 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constable on son quota but nothing",
+  "case_number": "",
   "date_of_order": "03.09.2019",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -21,7 +21,12 @@
     "2011 SCMR 408",
     "PLD 1985 SC 159"
   ],
-  "parties": [],
+  "parties": [
+    "Imtiaz Hussain",
+    "Province of Sindh",
+    "DIGP, East",
+    "SSP East, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

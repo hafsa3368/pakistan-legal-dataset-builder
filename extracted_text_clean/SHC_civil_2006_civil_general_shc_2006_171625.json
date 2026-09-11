@@ -8,12 +8,16 @@
   "num_chunks": 10,
   "case_number": "",
   "date_of_order": "01.04.2022",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 35A CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wasim Iqbal",
+    "M/s. Karwan-e-Islami International",
+    "Federal Government of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

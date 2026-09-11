@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "21.02.2024",
   "judge": "Muhammad Shafi Siddiqui Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Karachi Metropolitan Corporation",
+    "M/s Sui Northern Gas Pipeline Ltd.",
+    "Mr. S. Hassan M. Abidi",
+    "Mr. Asim Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

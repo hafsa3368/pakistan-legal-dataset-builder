@@ -8,14 +8,24 @@
   "num_chunks": 2,
   "case_number": "Constitutional Petition No. D-1122 of 2023",
   "date_of_order": "26.07.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "KHADIM HUSSAIN TUNIO",
+  "sections_cited": [
+    "u/s 365-B and 34 PPC",
+    "u/s 164 Cr.PC",
+    "u/s 173 Cr.PC"
+  ],
   "citations": [
     "PLD 2010 SC 691",
     "PLD 2013 SC 401",
     "PLD 2016 SC 55"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Imam Ali Chang",
+    "respondent No. 4",
+    "respondent No. 3",
+    "respondent No. 6",
+    "respondent No. 2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

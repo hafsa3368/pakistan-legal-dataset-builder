@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 7,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "17-07-2023",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "sections 5 and 9 of the Competition Act",
     "section 4",
@@ -26,7 +26,12 @@
     "PLD 2021 Sindh 130",
     "PLD 1997 SC 3"
   ],
-  "parties": [],
+  "parties": [
+    "Alhaushabi Stevedores (Pvt) Ltd",
+    "Federation of Pakistan",
+    "Port Qasim Authority",
+    "Fauji Akbar Portia Marine Terminals Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

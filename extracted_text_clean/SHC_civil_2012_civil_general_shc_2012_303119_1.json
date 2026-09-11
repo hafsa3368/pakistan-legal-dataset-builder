@@ -6,12 +6,21 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "misconceived and not",
+  "case_number": "C.P No.D-474 of 2025",
   "date_of_order": "15.01.2026",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Arbab Ali Hakro Justice Riazat",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amjad Ali",
+    "Province of Sindh",
+    "Mrs. Razia Ali Zaman",
+    "Mr. Muhammad Ismail Bhutto",
+    "Saleem Memon",
+    "Inspector Muzaffar",
+    "Inspector Tahir Khanzada",
+    "Mr. Gulab Khan Qaimkhani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

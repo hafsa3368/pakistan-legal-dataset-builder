@@ -122,9 +122,14 @@ def save_repair_checkpoint(done_set: set):
 # FIELD VALIDATORS
 # (define what "empty/garbled" means for each field)
 # ==========================
+# Kept in sync with new_extractor.py's _JUDGE_NOISE_WORDS -- same
+# institutional-name-leak class of bug (see clean_judge_candidate() there).
 BAD_JUDGE_TOKENS = {
     "PA", "PS", "APG", "DPG", "ASC", "ORDER", "DATE", "JUDGE", "PRESENT",
-    "COURT", "SHEET", "HEARING", "COUNSEL"
+    "COURT", "SHEET", "HEARING", "COUNSEL",
+    "HIGH", "SUPREME", "BENCH", "CIRCUIT", "REGISTRY",
+    "LAHORE", "SINDH", "PESHAWAR", "BALOCHISTAN", "ISLAMABAD", "QUETTA",
+    "KARACHI", "HYDERABAD", "PER",
 }
 
 def _coerce_scalar(val) -> str:

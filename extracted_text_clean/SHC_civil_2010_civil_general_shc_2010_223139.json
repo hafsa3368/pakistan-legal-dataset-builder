@@ -9,7 +9,15 @@
   "case_number": "",
   "date_of_order": "11.12.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "2019 SCMR 1952",
+    "Raja Muhammad Nadeem vs. The State reported as PLD 2020 Supreme Court 282",
+    "SECP vs. East West Insurance Company reported as 2019 SCMR 532",
+    "PLD 2016 Sindh 168",
+    "Per Ijaz Ul Ahsan J. in Syed Iqbal Hussain Shah Gillani vs. PBC & Others reported as 2021 SCMR 425",
+    "Muhammad Fiaz Khan vs. Ajmer Khan & Another reported as 2010 SCMR 105"
+  ],
   "citations": [
     "2019 SCMR 1952",
     "2019 SCMR 532",
@@ -17,7 +25,17 @@
     "2010 SCMR 105",
     "PLD 2016 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Shahab Imam",
+    "Mr. Fahad Hussain",
+    "Mr. Anas Habib",
+    "Mr. Ghulam Shabbir Shah",
+    "The State",
+    "PBC & Others",
+    "Ajmer Khan & Another",
+    "East West Insurance Company",
+    "SECP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,17 +6,27 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No.26439/2024",
   "date_of_order": "14.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "PLD 2016 Sindh 168",
+    "Per Muhammad Ali Mazhar J. in CIR vs. Jahangir Khan Tareen reported as 2022 SCMR 92",
+    "Per Ijaz Ul Ahsan J. in Syed Iqbal Hussain Shah Gillani vs. PBC & Others reported as 2011 SCMR 425",
+    "Muhammad Fiaz Khan vs. Ajmer Khan & Another reported as 2010 SCMR 105"
+  ],
   "citations": [
     "2022 SCMR 92",
     "2021 SCMR 425",
     "2010 SCMR 105",
     "PLD 2016 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Nasir, advocate for the petitioners",
+    "Mr. Fahad Hussain Arijo, advocate for the respondent/SRB",
+    "Mr. Muhammad Kamran Khan, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,20 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "CP NO.D-5343/2013",
   "date_of_order": "24.09.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Matlab Hussain Qureshi",
+    "Mr. Ali Safdar Depar",
+    "Abdul Jabbar Shahani",
+    "SHEL"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

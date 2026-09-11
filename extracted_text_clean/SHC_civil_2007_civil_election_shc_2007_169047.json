@@ -6,12 +6,23 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-4240 of 2022",
   "date_of_order": "20.07.2022",
-  "judge": "JUDGE MUBASHIR",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Mr. Jehangir Khan",
+    "Sindh",
+    "Mr. Saifullah",
+    "Assistant, Advocate General",
+    "M/s. Abdullah Hanjrah",
+    "Sarmad Sarwar",
+    "Law Officers, ECP",
+    "Mr. Abdul Wahab Balouch",
+    "DAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

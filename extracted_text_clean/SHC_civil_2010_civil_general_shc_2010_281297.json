@@ -9,7 +9,10 @@
   "case_number": "",
   "date_of_order": "17.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
@@ -18,7 +21,15 @@
     "2010 SCMR 105",
     "PLD 2001 Karachi 60"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Jawed Farooqi",
+    "Mr. Shafqat Ali Shah Massomi",
+    "Mr. Wahid Bux",
+    "Ruqaya Khanum & Others",
+    "JS Investments Limited & Others",
+    "PBC & Others",
+    "Ajmer Khan & Another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

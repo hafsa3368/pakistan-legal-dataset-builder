@@ -9,7 +9,10 @@
   "case_number": "",
   "date_of_order": "03.12.2019",
   "judge": "Arshad Hussain Khan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2001 SCMR 1700",
     "2017 CLC 495",
@@ -25,7 +28,20 @@
     "PLD 2015 Sindh 134",
     "PLD 2015 SC 187"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Zulfiqar Hussain",
+    "Anees Parekh",
+    "Malik Zulfiqar Hussain",
+    "Anees Parekh",
+    "Pakistan Defence Officers' Housing Authority",
+    "Hina Fatima Abidi",
+    "Syed Abid Shirazi",
+    "Malik Zulfiqar Hussain",
+    "Anees Parekh",
+    "Pakistan Defence Officers' Housing Authority",
+    "Hina Fatima Abidi",
+    "Syed Abid Shirazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

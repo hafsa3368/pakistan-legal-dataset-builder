@@ -8,14 +8,24 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "09.10.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Yousuf Ali Sayeed",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2009 SCMR 264",
     "1996 CLC 79",
     "1991 MLD 1464"
   ],
-  "parties": [],
+  "parties": [
+    "Faysal Bank Limited",
+    "Muhammad Rafiq",
+    "Muhammad Yahya A. Ghaffar",
+    "A. R. Securities (Private) Limited",
+    "Muslim Commercial Bank Ltd",
+    "Messrs Habib Bank Limited",
+    "Messrs Pan Islamic Steamship Co. Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

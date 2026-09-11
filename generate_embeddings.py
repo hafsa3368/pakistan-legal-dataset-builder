@@ -66,6 +66,16 @@ from qdrant_client.models import (
     PayloadSchemaType,
 )
 
+# Double-check + repair layer: reuse the SAME judge/case_number cleaning,
+# validation, AND re-extraction logic new_extractor.py/repair_metadata.py
+# use, right before a payload is written to Qdrant. If a value is invalid,
+# this attempts a fresh extraction from the file's own text before giving
+# up and clearing to "" -- a last-resort safety net so garbage never
+# reaches the live database even if the source JSON on disk hasn't been
+# repaired yet, without discarding a fixable value without trying first.
+from new_extractor import clean_judge_candidate, is_valid_judge_name, extract_document_metadata
+from repair_metadata import is_valid_case_number, reconstruct_full_text, MAX_TEXT_CHARS
+
 # ---------------------------------------------------------------------------
 # CONFIG
 # ---------------------------------------------------------------------------
@@ -382,6 +392,45 @@ def iter_chunks(json_dir: str, repaired_filenames: set = None, exclude_filenames
         except (ValueError, TypeError):
             year_val = 0
 
+        # Double-check + repair layer (mirrors repair_metadata.py's own
+        # repair_file()): if the JSON's judge/case_number are already valid,
+        # keep them (judge still passed through the same cleaning pass). If
+        # either is invalid, attempt ONE fresh extraction from this file's
+        # own reconstructed text before giving up and clearing to "". Done
+        # once per FILE (not per chunk) -- every chunk from this file shares
+        # the same checked_judge/checked_case_number.
+        current_judge = data.get("judge", "")
+        current_case_number = data.get("case_number", "")
+
+        judge_clean = clean_judge_candidate(current_judge) if current_judge else ""
+        judge_valid = bool(judge_clean) and is_valid_judge_name(judge_clean)
+        case_number_valid = is_valid_case_number(current_case_number)
+
+        checked_judge = judge_clean if judge_valid else ""
+        checked_case_number = current_case_number if case_number_valid else ""
+
+        if not judge_valid or not case_number_valid:
+            full_text = reconstruct_full_text(data)
+            if full_text.strip():
+                if len(full_text) > MAX_TEXT_CHARS:
+                    full_text = full_text[:MAX_TEXT_CHARS]
+                row = {
+                    "court": data.get("court", ""),
+                    "case_type": data.get("case_type", ""),
+                    "year": data.get("year", ""),
+                }
+                fresh_meta = extract_document_metadata(full_text, row)
+
+                if not judge_valid:
+                    fresh_judge_clean = clean_judge_candidate(fresh_meta.get("judge", ""))
+                    if fresh_judge_clean and is_valid_judge_name(fresh_judge_clean):
+                        checked_judge = fresh_judge_clean
+
+                if not case_number_valid:
+                    fresh_case_number = fresh_meta.get("case_number", "")
+                    if is_valid_case_number(fresh_case_number):
+                        checked_case_number = fresh_case_number
+
         for chunk in chunks:
             chunk_text = chunk.get("text", "").strip()
             if not chunk_text:
@@ -418,10 +467,10 @@ def iter_chunks(json_dir: str, repaired_filenames: set = None, exclude_filenames
                 "file_path": str(jf),
                 "court": data.get("court", "unknown"),
                 "case_type": data.get("case_type", "unknown"),
-                "case_number": data.get("case_number", ""),
+                "case_number": checked_case_number,
                 "date_of_order": data.get("date_of_order", ""),
                 "year": year_val,
-                "judge": data.get("judge", ""),
+                "judge": checked_judge,
                 "sections_cited": data.get("sections_cited", []),
                 "citations": data.get("citations", []),
                 "parties": data.get("parties", []),

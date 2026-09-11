@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Jail Appeal Nos",
+  "case_number": "Criminal Jail Appeal Nos. 295",
   "date_of_order": "17.02.2026",
   "judge": "Nadeem",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "Section 397 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Fakhar",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

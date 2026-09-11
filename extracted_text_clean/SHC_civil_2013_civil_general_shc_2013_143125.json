@@ -8,10 +8,20 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "02.04.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "YOUSUF ALI SAYEED",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Saadullah",
+    "Muhammad Younus Tabani",
+    "Asghar Hussain Motiwala",
+    "Nadeem Ahmed",
+    "Mr. Abdul Rasheed Nizamani",
+    "Mr. Abdul Wajid Wyne",
+    "Mr. Naeem Suleman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

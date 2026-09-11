@@ -6,7 +6,7 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Org. Petition No.89/2011",
+  "case_number": "",
   "date_of_order": "13.01.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -18,7 +18,11 @@
     "2013 SCMR 1752",
     "2015 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Karim Khan",
+    "Abdul Jalil Zubedi",
+    "Arbab Imtiaz Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

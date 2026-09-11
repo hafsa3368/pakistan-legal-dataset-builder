@@ -8,13 +8,19 @@
   "num_chunks": 13,
   "case_number": "Constitution Petition No. D-2184 of 2008",
   "date_of_order": "10.10.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2006 MLD 207",
     "2005 SCMR 100"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Ishaque Muhammad Shah",
+    "National Bank of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "",
   "date_of_order": "19.03.2019",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "section 1",
     "Section 92 CPC",
@@ -22,7 +22,12 @@
     "2012 CLC 1372",
     "2012 MLD 188"
   ],
-  "parties": [],
+  "parties": [
+    "Mrs. Afroze Shah & Another",
+    "Advocate General Sindh & Others",
+    "Mohammad Hussain Qureshi",
+    "Islamic Education Trust & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

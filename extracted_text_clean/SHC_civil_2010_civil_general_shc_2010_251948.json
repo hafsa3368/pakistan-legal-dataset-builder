@@ -9,14 +9,23 @@
   "case_number": "",
   "date_of_order": "03.04.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "PLD 2016 Sindh 168",
+    "u/s 498 Cr.P.C.",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 SCMR 92",
     "2021 SCMR 425",
     "2010 SCMR 105",
     "PLD 2016 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Shahab Imam",
+    "Mr. Ameer Bakhsh Metlo",
+    "Ms. Zakia",
+    "Mr. Sandeep Malani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

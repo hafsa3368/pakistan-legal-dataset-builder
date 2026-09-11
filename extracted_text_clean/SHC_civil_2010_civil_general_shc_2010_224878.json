@@ -9,14 +9,26 @@
   "case_number": "",
   "date_of_order": "17.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "PLD 2016 Sindh 168",
+    "Section 144 CrPC"
+  ],
   "citations": [
     "2022 SCMR 92",
     "2021 SCMR 425",
     "2010 SCMR 105",
     "PLD 2016 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Saleem Mangrio",
+    "Mr. Fahad Hussain Arijo",
+    "Mr. Muhammad Kamran Khan",
+    "PBC & Others",
+    "Ajmer Khan & Another",
+    "Syed Iqbal Hussain Shah Gillani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

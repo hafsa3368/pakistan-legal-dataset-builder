@@ -9,13 +9,22 @@
   "case_number": "Constitution Petition No. D-389 of 2024",
   "date_of_order": "08-05-2024",
   "judge": "Karim Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 1021",
     "1985 SCMR 1158",
     "2019 SCMR 349"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Imamuddin& another",
+    "Province of Sindh & others",
+    "Mr. Nisar Ahmed Bhanbhro",
+    "Mr. Sarfraz Ali M.Abbasi",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

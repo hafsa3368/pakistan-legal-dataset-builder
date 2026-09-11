@@ -6,7 +6,7 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "23.04.2021",
   "judge": "Adnan Iqbal Chaudhry Constitutional Petition",
   "sections_cited": [
@@ -37,7 +37,12 @@
     "PLD 2016 SC 377",
     "PLD 2014 SC 206"
   ],
-  "parties": [],
+  "parties": [
+    "Surriya Kanwal",
+    "The Federation of Pakistan",
+    "Pakistan Bait-ul-Mal (PBM)",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

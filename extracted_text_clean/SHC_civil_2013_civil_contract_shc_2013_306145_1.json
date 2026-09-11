@@ -6,12 +6,19 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "constitutional jurisdiction is not",
+  "case_number": "C.P No.D-274 of 2026",
   "date_of_order": "17.02.2026",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Arbab Ali Hakro Justice Riazat",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Darya Khan Leghari",
+    "Province of Sindh",
+    "07 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

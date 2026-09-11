@@ -9,12 +9,22 @@
   "case_number": "constitution petition No. 3088 of 2013",
   "date_of_order": "09.05.2025",
   "judge": "Muhammad Karim Khan Agha Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2013 SCMR 1752",
     "2015 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "Manzoor Ahmed",
+    "province of Sindh",
+    "Malik Altaf Jawed",
+    "Mr. Faizan Hussain Memon",
+    "Mr. Ali Safdar Depar",
+    "Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

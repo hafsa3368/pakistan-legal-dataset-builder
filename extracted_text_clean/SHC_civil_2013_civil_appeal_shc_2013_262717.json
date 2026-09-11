@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Criminal Anti-Terroriem Appeals No. 15G",
+  "case_number": "",
   "date_of_order": "25.08.2021",
   "judge": "Mohammad Karim Khan Agha Mr",
   "sections_cited": [
@@ -22,7 +22,19 @@
     "section 31"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Arif Abbasi",
+    "Farzan Abbasi",
+    "Adil Abbasi",
+    "Mohammad Karim Khan Agha",
+    "Abdul Mobeen Lakho",
+    "The State",
+    "Shabbir Ahmed Khan",
+    "Mr. Ajab Khan Khattak",
+    "Mr. Muhammad Iqbal Awan",
+    "Mamoon A.K.Sherwany"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

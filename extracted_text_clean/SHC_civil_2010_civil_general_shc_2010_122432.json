@@ -6,14 +6,18 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "construction nor",
+  "case_number": "",
   "date_of_order": "25.01.2018",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 5"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Trustees of the Port of Karachi",
+    "Syed Fazal Mahmood Shah",
+    "Karachi Building Control Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

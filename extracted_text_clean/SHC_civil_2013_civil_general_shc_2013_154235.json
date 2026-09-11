@@ -6,12 +6,16 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "CP NO.D-723/2013",
   "date_of_order": "23.09.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ashraf Sammo",
+    "Mr. Ali Safdar Depar",
+    "Abdul Jabbar Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

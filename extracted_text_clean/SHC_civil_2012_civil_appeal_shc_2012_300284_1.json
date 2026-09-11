@@ -6,9 +6,9 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 32,
-  "case_number": "Criminal Cr. Acc. A. Nos",
+  "case_number": "Cr. Accountability Appeal No. D-21 of 2017",
   "date_of_order": "24th February, 2017",
-  "judge": "High Court",
+  "judge": "",
   "sections_cited": [
     "Section 10 of the National Accountability Ordinance",
     "Section 340 Criminal Procedure Code",
@@ -31,7 +31,13 @@
     "PLD 2022 SC 261",
     "PLD 2002 Peshawar 118"
   ],
-  "parties": [],
+  "parties": [
+    "Rabnawaz son of Ameer Bux, Khuhro",
+    "Dhani Bux, Son of Ameer Bux, Khuhro",
+    "The State/National Accountability Bureau",
+    "Masood Ahmed Khuhro",
+    "Ghulam Asghar Kanasro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

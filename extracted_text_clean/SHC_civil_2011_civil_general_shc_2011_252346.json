@@ -9,9 +9,26 @@
   "case_number": "Constitutional Petition No. D-2559 of 2023",
   "date_of_order": "29.10.2019",
   "judge": "Muhammad Karim Khan Agha Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zakir Ali Khan and 41 others",
+    "Ministry of Education, Government of Sindh",
+    "Mr. Justice Muhammad Karim Khan Agha",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Matloob Hussain Qureshi",
+    "Mr. K.A. Vaswani",
+    "Government Secondary Teachers Association",
+    "Sindh Education Department",
+    "Sindh Textbook Board",
+    "High School Teachers Association",
+    "KPK",
+    "Baluchistan",
+    "Jamshoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

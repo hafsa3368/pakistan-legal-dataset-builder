@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Civil Suit No.1273/20241",
   "date_of_order": "18.11.2025",
-  "judge": "",
+  "judge": "MUHAMMAD OSMAN ALI HADI",
   "sections_cited": [
     "section 301 of the Companies Act",
     "section 301",
@@ -22,7 +22,12 @@
     "PLD 2022 SC 769",
     "PLD 1999 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Barrister Salman Ahmed",
+    "M/s. Muhammad Ahmed Masood and Mirza Moiz Baig",
+    "Syed Hafiz Ebad",
+    "SECP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

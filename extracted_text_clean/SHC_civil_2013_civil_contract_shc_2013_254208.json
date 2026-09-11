@@ -7,11 +7,22 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Constitutional Petition No. D-1725 of 2015",
-  "date_of_order": "",
+  "date_of_order": "21.4.2025",
   "judge": "Head of Constitutional Benches Shafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 3",
+    "Article 4",
+    "Article 9",
+    "Article 25",
+    "Article 38"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Younis",
+    "Province of Sindh",
+    "Shahid Hussain Bhatti",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

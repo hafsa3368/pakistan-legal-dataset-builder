@@ -6,9 +6,9 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "civil Court could nonetheless",
+  "case_number": "",
   "date_of_order": "23.05.2019",
-  "judge": "",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "Section 27",
     "Section 40",
@@ -29,7 +29,12 @@
     "PLD 1996 SC 632",
     "PLD 2014 Lahore 221"
   ],
-  "parties": [],
+  "parties": [
+    "Lt Col (Retd) Shahid Hamid",
+    "Samba Bank Limited",
+    "Saleha Hyat",
+    "State Bank of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

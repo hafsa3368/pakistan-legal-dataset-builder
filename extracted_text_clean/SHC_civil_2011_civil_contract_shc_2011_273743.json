@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Civil Appeal No.60/2013",
   "date_of_order": "28.02.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mir Aijaz Hussain Talpur",
+    "Respondents 1 to 4",
+    "Respondents 5 to 12"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

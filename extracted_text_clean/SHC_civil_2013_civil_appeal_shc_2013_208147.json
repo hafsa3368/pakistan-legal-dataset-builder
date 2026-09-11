@@ -6,10 +6,15 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "MA No.1998 of 2023",
   "date_of_order": "19.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Section 439 CrPC",
+    "Section 28 of the Limitation Act 2005"
+  ],
   "citations": [
     "2023 SCMR 1434",
     "2023 SCMR 413",
@@ -17,7 +22,19 @@
     "2011 SCMR 1990",
     "2001 SCMR 574"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Fareed",
+    "Mirpurkhas",
+    "Muhammad Hanif Shaikh",
+    "Bibi Sara",
+    "Mst. Isma Bukhari",
+    "Mst. Isma Bukhari & Others",
+    "Arif Fareed vs. Bibi Sara & Others",
+    "Registrar Peshawar High Court",
+    "Aftab Alam",
+    "Naheed Nusrat Hashmi",
+    "Secretary Education (Elementary) Punjab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

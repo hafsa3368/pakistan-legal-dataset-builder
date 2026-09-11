@@ -6,12 +6,15 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CRA No.46 of 2012",
   "date_of_order": "31.01.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Khursheed Khan",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

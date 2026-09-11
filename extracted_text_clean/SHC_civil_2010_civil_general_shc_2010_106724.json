@@ -6,7 +6,7 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "construction of Flat No.5",
+  "case_number": "C. P. No.D-2524 of 2016",
   "date_of_order": "29.06.2016",
   "judge": "Nadeem Akhtar",
   "sections_cited": [
@@ -19,7 +19,15 @@
     "Section 2 of the Registration Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Muhammad",
+    "Salamat Bibi",
+    "Federation of Pakistan",
+    "D.H.A.",
+    "Nazar Hussain Dhoon",
+    "Aijaz Mubarak Khattak",
+    "Miranda Muhammad Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

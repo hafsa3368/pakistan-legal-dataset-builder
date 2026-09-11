@@ -6,12 +6,22 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "CP. No. D-8200 of 2022",
   "date_of_order": "26.08.2025",
   "judge": "Muhammad Karim Khan Agha Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Saeeduddin",
+    "Province of Sindh",
+    "Mr. Justice Muhammad Karim Khan Agha",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. R. B. Qureshi",
+    "Mr. Ali Safdar",
+    "Assistant Advocate General O R"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

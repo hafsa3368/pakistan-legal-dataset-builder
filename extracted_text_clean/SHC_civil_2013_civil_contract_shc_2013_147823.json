@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 21,
-  "case_number": "Constitution Petition No. D",
+  "case_number": "H. C. A. No. 249 of 2018",
   "date_of_order": "16.09.2020",
   "judge": "Chancery Division",
   "sections_cited": [
@@ -17,7 +17,10 @@
     "Section 6"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pakistan State Oil Company Limited",
+    "Pakistan National Shipping Corporation"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

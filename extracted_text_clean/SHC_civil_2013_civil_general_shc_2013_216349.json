@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "30.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "u/s 15",
+    "u/s 36 of Industrial Relations Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Hussain Shah",
+    "Mr. Jamshed Ahmed Faiz",
+    "Mr. Ali Raza Baloch",
+    "Asghar Ali Pathan",
+    "Abdul Samad Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,15 @@
   "num_chunks": 4,
   "case_number": "Civil Suit No. 1081 of 2022",
   "date_of_order": "06.03.2024",
-  "judge": "Naveed PA",
+  "judge": "",
   "sections_cited": [
     "section 115 of Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Tanveer Ali Abbasi",
+    "the defendant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

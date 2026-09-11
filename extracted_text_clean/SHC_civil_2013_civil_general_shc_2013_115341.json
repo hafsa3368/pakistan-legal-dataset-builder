@@ -9,11 +9,22 @@
   "case_number": "",
   "date_of_order": "17.11.2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2013 SCMR 1484"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Hajiran",
+    "Mst. Gul Bahar",
+    "Mr. Wishan Das Kolhi",
+    "Mr. Ali Abbas Memon",
+    "SIP Azizullah Seenhro",
+    "SHO P.S Samaro",
+    "Mr. Kamarullah Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 27,
   "case_number": "Criminal Jail Appeal No. D-31 of 2015",
   "date_of_order": "24.11.2020",
-  "judge": "JUDGE",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "section 7",
     "Section 544-A Cr.P.C",
@@ -38,7 +38,10 @@
     "2015 SCMR 856",
     "PLD 1962 SC 269"
   ],
-  "parties": [],
+  "parties": [
+    "ArslanSanjrani",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

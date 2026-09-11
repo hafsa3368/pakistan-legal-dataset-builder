@@ -6,17 +6,26 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.P. No. D-8517 of 2018",
   "date_of_order": "17.03.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2019 SCMR 1546",
     "2017 SCMR 456",
     "PLD 2016 SC 808",
     "PLD 2014 SC 545"
   ],
-  "parties": [],
+  "parties": [
+    "Mahmood Zamir Farooqui",
+    "Federation of Pakistan",
+    "Mr. Abdul Salam Memon",
+    "Mr. Ali T. Ibrahim",
+    "Ms. Wajiha Mehdi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

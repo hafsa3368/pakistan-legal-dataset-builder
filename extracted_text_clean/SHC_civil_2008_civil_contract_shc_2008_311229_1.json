@@ -6,12 +6,24 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-1273 of 2021",
   "date_of_order": "23.04.2026",
-  "judge": "JUDGE Muhammad Danish",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Allah Bachayo",
+    "Province of Sindh",
+    "Naeem Ahmed",
+    "Muhammad Alam",
+    "Muhammad Ismail Bhutto",
+    "Ms. Nasim Abbasi",
+    "Adnan Iqbal Chaudhry",
+    "Muhammad Danish"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

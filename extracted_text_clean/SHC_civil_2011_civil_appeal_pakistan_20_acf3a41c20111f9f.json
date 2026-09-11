@@ -6,10 +6,15 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "CPLA NO.1330-L OF 2025",
   "date_of_order": "27.10.2025",
-  "judge": "Judge Judge Islamabad",
-  "sections_cited": [],
+  "judge": "Miangul Hassan Aurangzeb",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Clause 16 of the nikahnama",
+    "Section 23 of the Muslim Personal Law (Shariat) Order, 1937"
+  ],
   "citations": [],
   "parties": [
     "Sajid Hussain"

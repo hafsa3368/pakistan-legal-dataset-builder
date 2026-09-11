@@ -6,12 +6,18 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP NO.D-1955/2018",
   "date_of_order": "11.10.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondents",
+    "Mr. Abdul Wahab Baloch",
+    "Mr. Sohail Hayat Khan Rana",
+    "Syed Ahsan Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Accountability Appeal No.08 of 2015",
   "date_of_order": "23.09.2020",
-  "judge": "",
+  "judge": "MOHAMMAD KARIM KHAN AGHA",
   "sections_cited": [
     "section 10",
     "section 15",
@@ -19,7 +19,14 @@
     "2018 SCMR 318",
     "2020 SCMR 1177"
   ],
-  "parties": [],
+  "parties": [
+    "Mirza Altaf Baig S",
+    "Mirza Younus Baig",
+    "Mr. R.D. Kalhoro",
+    "NAB",
+    "Muhammad Arshad",
+    "Zaheer Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

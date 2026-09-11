@@ -6,12 +6,16 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "misconceived and not",
+  "case_number": "C.P No.D-1616 of 2012",
   "date_of_order": "02.09.2020",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ayaz Karim Memon",
+    "Mr. Allah Bachayo Soomro",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

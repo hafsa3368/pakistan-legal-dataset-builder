@@ -6,14 +6,24 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil Appeals Nos",
+  "case_number": "C.P No.D-1746 of 2014",
   "date_of_order": "14.12.2016",
-  "judge": "JUDGE Aadil Arab",
-  "sections_cited": [],
+  "judge": "Muhammad Ali Mazhar",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "PLD 2001 Karachi 135"
   ],
-  "parties": [],
+  "parties": [
+    "Fateh Khan",
+    "Federation of Pakistan & others",
+    "Syed Samiullah Shah",
+    "Mr. Muhammad Ashraf",
+    "Sh. Liaqat Hussain",
+    "Muhammad Ali Mazhar",
+    "Aadil Arab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

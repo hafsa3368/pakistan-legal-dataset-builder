@@ -29,7 +29,11 @@
     "2019 SCMR 984",
     "2017 SCMR 1979"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammad Aslam",
+    "Pakistan International Airline (PIA)",
+    "Pakistan International Airline Corporation"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

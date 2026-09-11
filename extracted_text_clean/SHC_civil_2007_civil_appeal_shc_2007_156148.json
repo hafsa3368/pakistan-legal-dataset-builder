@@ -6,9 +6,9 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 19,
-  "case_number": "Cr.Acquittal.Appeal.No.D-",
+  "case_number": "",
   "date_of_order": "09.04.2018",
-  "judge": "JUDGE Tufail",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "section 364",
     "section 164"
@@ -30,7 +30,14 @@
     "2010 PCr.LJ 926",
     "2008 SCMR 1285"
   ],
-  "parties": [],
+  "parties": [
+    "State of Sindh",
+    "Abdul Karim s/o Muhammad Mitho",
+    "Syed Ilyas Zafar",
+    "Farhatullah Bano (now deceased)",
+    "Anis ur Rehman Memon",
+    "Nouman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

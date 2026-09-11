@@ -6,17 +6,26 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-7875 OF 2022",
   "date_of_order": "12.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "PLD 2016 Sindh 168",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 SCMR 92",
     "2021 SCMR 425",
     "2010 SCMR 105",
     "PLD 2016 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Mr.Adil Saeed",
+    "Mr.Imran Ahmed Khan Abro",
+    "Mr.Shamshad Narejo",
+    "PBC & Others",
+    "Ajmer Khan & Another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

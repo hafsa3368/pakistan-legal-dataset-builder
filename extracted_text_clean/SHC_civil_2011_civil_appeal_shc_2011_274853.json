@@ -8,7 +8,7 @@
   "num_chunks": 44,
   "case_number": "Criminal Accountability Appeal No.01 of 2018",
   "date_of_order": "22.04.2025",
-  "judge": "JUDGE",
+  "judge": "MUHAMMAD HASAN (AKBER)",
   "sections_cited": [
     "section 9",
     "section 11 of the Ordinance",
@@ -38,7 +38,11 @@
     "2017 PCr.LJ 747",
     "2018 PCr.LJ 477"
   ],
-  "parties": [],
+  "parties": [
+    "Hussain Bux Baloch",
+    "National Accountability Bureau",
+    "Syed Meeral Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -11,7 +11,11 @@
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners 1 and 2",
+    "Petitioners 3, 4 and 5",
+    "Respondents Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

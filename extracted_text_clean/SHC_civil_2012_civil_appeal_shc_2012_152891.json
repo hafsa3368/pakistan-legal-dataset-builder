@@ -6,7 +6,7 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Civil Appeal No. D",
+  "case_number": "",
   "date_of_order": "07.12.2017",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
@@ -20,7 +20,10 @@
     "Section 10 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Yameen Ali",
+    "National Bank of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

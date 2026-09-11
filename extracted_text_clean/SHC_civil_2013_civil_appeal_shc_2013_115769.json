@@ -9,9 +9,17 @@
   "case_number": "Civil Appeals No.154 of 2013",
   "date_of_order": "06.12.2016",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Saleem Hashmi",
+    "Mr. Allah Bachayo Soomro",
+    "Mushtaque Ahmed",
+    "Muhammad Ayoub"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,17 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "H.C.A. No. 213 of 2017",
   "date_of_order": "12.04.2017",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ARSHAD HUSSAIN KHAN",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Sufyan & others",
+    "Waheeda Aslam & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

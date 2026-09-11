@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "14.09.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Medical Superintendent, Ghulam Muhammad Mahar Medical College Hospital, Sukkur",
+    "Petitioner",
+    "Ghulam Muhammad Mahar Medical College Hospital, Sukkur",
+    "Health Department",
+    "Secretary Health"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

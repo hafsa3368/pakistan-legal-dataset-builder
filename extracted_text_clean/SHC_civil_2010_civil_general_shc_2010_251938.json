@@ -9,14 +9,23 @@
   "case_number": "",
   "date_of_order": "03.04.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "PLD 2016 Sindh 168",
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2022 SCMR 92",
     "2021 SCMR 425",
     "2010 SCMR 105",
     "PLD 2016 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Asif",
+    "Mr. Ghulam Shabbir Shah",
+    "Mr. Sandeep Malani",
+    "Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

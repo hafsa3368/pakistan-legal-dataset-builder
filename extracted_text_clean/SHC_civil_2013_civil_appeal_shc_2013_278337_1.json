@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. A.T. Jail Appeal No. 68 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "22-08-2025",
+  "judge": "Ghulam Shabbir Buledi",
   "sections_cited": [
     "sections 353, 324, 186, 337-f",
     "section 7",
@@ -21,7 +21,14 @@
   "citations": [
     "PLD 2020 SC 61"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Shabbir Buledi",
+    "Mr. Muhammad Iqbal Awan",
+    "Shahzad",
+    "Asghar",
+    "The State",
+    "The Appellants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,10 +6,12 @@
   "year": "1978",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "Civil Review Petition Nos",
+  "case_number": "",
   "date_of_order": "31.01.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 35"
+  ],
   "citations": [],
   "parties": [],
   "chunks": [

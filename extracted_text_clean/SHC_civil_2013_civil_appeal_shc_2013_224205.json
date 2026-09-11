@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr. A. T. J. Appeal.No.21 of 2024",
   "date_of_order": "17.12.2024",
-  "judge": "JUDGE IK",
+  "judge": "Salahuddin Panhwar",
   "sections_cited": [
     "Sections 324/353/427 PPC",
     "Section 25",
@@ -19,7 +19,13 @@
   "citations": [
     "PLD 2017 SC 671"
   ],
-  "parties": [],
+  "parties": [
+    "Irfan @ Lal",
+    "The State",
+    "The State through Mr. Siraj Ali Chandio",
+    "Anti-Terrorism Court No. X, Karachi",
+    "Irfan @ Lal and co-accused"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

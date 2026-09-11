@@ -6,7 +6,7 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 162 of 2023",
   "date_of_order": "19.10.2023",
   "judge": "",
   "sections_cited": [
@@ -22,7 +22,14 @@
     "PLD 2017 Sindh 324",
     "PLD 1975 Kar 979"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Masuma Hasan",
+    "Imtiaz Ali Khan",
+    "State Life Insurance Corporation (formerly American Life Insurance Company)",
+    "Wajihuddin",
+    "Late Fatehyab Ali Khan",
+    "Late Mumtaz Ali Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

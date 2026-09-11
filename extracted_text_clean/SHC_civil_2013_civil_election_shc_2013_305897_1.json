@@ -6,15 +6,20 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "C.P. No.D-2418 of 2017",
   "date_of_order": "12.02.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "2013 SCMR 1752",
     "2015 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "S.M. Kalim Makki",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

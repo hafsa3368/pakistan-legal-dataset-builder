@@ -6,7 +6,7 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "CP No.D-4289 of 2025",
   "date_of_order": "29.01.2025",
   "judge": "Muhammad Saleem Jessar Justice Nisar",
   "sections_cited": [
@@ -14,7 +14,19 @@
     "Section 7"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khadiim Hussain",
+    "Province of Sindh",
+    "Muntazir Mehdi",
+    "Additional Prosecutor General Sindh",
+    "Prosecutor General Sindh",
+    "Nadeem Ahmed Qureshi",
+    "Liaquat Ali Abro",
+    "Hakim Ali Shaikh",
+    "Ishtiaq A. Memon",
+    "Justice Muhammad Saleem Jessar",
+    "Justice Nisar Ahmed Bhanbhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

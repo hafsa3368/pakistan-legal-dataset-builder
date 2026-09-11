@@ -9,13 +9,24 @@
   "case_number": "Civil Petition No. 18-K of 2013",
   "date_of_order": "12.02.2019",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1996 SCMR 1185",
     "2006 SCMR678",
     "2012 CLC 16"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Sadia & others",
+    "Province of Sindh & others",
+    "Miss. Erum & others",
+    "Rizwan Ahmed & others",
+    "Abdul Khaliq Leghari",
+    "Allah Bachayo Soomro",
+    "Khalid Mahmood Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

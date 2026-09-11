@@ -6,10 +6,15 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "criminal proceedings being separate matter cannot",
+  "case_number": "C.P. No.D-4515 of 2017",
   "date_of_order": "13.09.2019",
   "judge": "Irfan Saadat Khan Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 498 CrPC",
+    "Section 4 of the Ordinance 2017",
+    "Section 6 of the Ordinance 2017"
+  ],
   "citations": [
     "2010 SCMR 1554",
     "2004 SCMR 678"

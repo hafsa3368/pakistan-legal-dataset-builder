@@ -8,13 +8,17 @@
   "num_chunks": 3,
   "case_number": "Misc. No.5809/2025",
   "date_of_order": "15.12.2023",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [
     "Section 3",
     "Section 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jamil Ahmed",
+    "Federation of Pakistan & Others",
+    "Hassan Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

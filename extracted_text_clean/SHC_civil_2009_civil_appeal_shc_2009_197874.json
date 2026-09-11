@@ -22,7 +22,11 @@
     "2017 SCMR 1710",
     "PLD 2003 SC 563"
   ],
-  "parties": [],
+  "parties": [
+    "Saddaruddin",
+    "The State",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

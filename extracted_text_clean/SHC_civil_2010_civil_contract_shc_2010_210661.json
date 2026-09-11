@@ -8,13 +8,23 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "14.02.2024",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 58 CrPC",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "1994 CLC 2150",
     "2015 SCMR 319"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Khursheed Begum and others",
+    "NIB Bank Limited and others",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Omar Sial",
+    "Mr. Khaleeq Ahmed, Advocate",
+    "Mr. Syed Daanish Ghazi, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

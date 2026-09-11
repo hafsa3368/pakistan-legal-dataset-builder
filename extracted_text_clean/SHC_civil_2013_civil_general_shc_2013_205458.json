@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Civil Procedure. There is no suggestion",
+  "case_number": "",
   "date_of_order": "17.11.2023",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "section 4 of Negotiable Instructions Act",
     "Section 4 of Negotiable Instruments Act",
@@ -17,7 +17,13 @@
   "citations": [
     "2017 CLC 1736"
   ],
-  "parties": [],
+  "parties": [
+    "Murtaza",
+    "Sheraz Khan",
+    "Others",
+    "Faridullah Khan",
+    "Masood Asghar Mian"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

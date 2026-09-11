@@ -6,12 +6,19 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.S-192 of 2023",
   "date_of_order": "10.09.2024",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 23"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sarwer",
+    "The State",
+    "The State (through Ms. Rameshan Oad, A.P.G.)",
+    "The State (through Zulfikar Ali Sangi, J.)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

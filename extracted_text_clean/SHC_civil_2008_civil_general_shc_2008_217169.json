@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 6,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "02.07.2024",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 12 CPC",
     "section 151 CPC",
@@ -24,7 +24,14 @@
     "1982 SCMR 650",
     "1989 CLC 1433"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Qadir Musani",
+    "Mian Aftab Iqbal",
+    "Qaiser Saleem",
+    "Mazhar Hussain",
+    "Mohammad Ali Memorial Cooperative Housing Society Ltd.",
+    "Azizuddin Babar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

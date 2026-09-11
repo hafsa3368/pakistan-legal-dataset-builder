@@ -8,7 +8,7 @@
   "num_chunks": 31,
   "case_number": "Criminal Appeal No.D-26 of 2021",
   "date_of_order": "19.09.2023",
-  "judge": "JUDGE",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "sections 78, 82, 94 and 95",
     "sections 167, 173, 174, 190 and 193 of Election Act",
@@ -38,7 +38,14 @@
     "2008 SCMR 350",
     "1996 SCMR 284"
   ],
-  "parties": [],
+  "parties": [
+    "Bibi Yasmeen Shah",
+    "Mr. Aijaz Ahmed Chandio",
+    "Mr. Zaheer Abbas",
+    "Mr. Ghulam Abbas Sangi",
+    "Dr. Fahmida Mirza",
+    "Sain Bux Channer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

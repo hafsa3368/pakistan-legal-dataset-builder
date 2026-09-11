@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "22.04.2024",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui Justice Ms",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kausar Mallkick and others",
+    "Bank Islami Pakistan Limited and others",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Justice Ms. Sana Akram Minhas",
+    "Mr. Khaleeq Ahmed",
+    "Syed Aijaz Hussain Shirazi",
+    "Muhammad Shafi Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

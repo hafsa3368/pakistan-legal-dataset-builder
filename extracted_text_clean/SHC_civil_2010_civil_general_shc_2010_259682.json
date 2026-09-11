@@ -7,13 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE",
+  "date_of_order": "23-4-2025",
+  "judge": "Sana Akram Minhas",
   "sections_cited": [
     "Sections 22-A and 22-B of the Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zaheer Ahmed Butt",
+    "Province of Sindh & Others",
+    "Sana Akram Minhas",
+    "The Respondent No.4",
+    "The Respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

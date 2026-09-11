@@ -9,11 +9,23 @@
   "case_number": "Constitutional Petition No. D-3095 of 2010",
   "date_of_order": "17.08.2007",
   "judge": "Head of Constitutional Benches Shafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 7"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Shoukat Ali Shah & others",
+    "Province of Sindh & others",
+    "Syed Mehbood Ali Shah & others",
+    "Province of Sindh & others",
+    "Ghulam Nabi & others",
+    "Province of Sindh & others",
+    "Raheel Ahmed & others",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

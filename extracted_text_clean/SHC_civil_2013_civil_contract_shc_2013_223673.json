@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "19.12.2024",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shakeel Ahmed Jokhio",
+    "Federation of Pakistan & Others",
+    "Messrs. Saathi M. Ishaque and S.K. Lodhi",
+    "Ms. Alizeh Bashir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Constitutional Petition No. D-1039 of 2024",
   "date_of_order": "03.03.2026",
-  "judge": "JUDGE",
+  "judge": "Amjad Ali Bohio",
   "sections_cited": [
     "Section 3 of the Act",
     "Section 45 of Sindh Local Government Ordinance",
@@ -25,7 +25,13 @@
     "1999 SCMR 2883",
     "2022 SCMR 2080"
   ],
-  "parties": [],
+  "parties": [
+    "Director Anti-Encroachment Sukkur Municipal Corporation, Sukkur",
+    "Province of Sindh and others",
+    "Sindh Road Transport Corporation",
+    "Muhammad Ramzan",
+    "Imtiaz Quershi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

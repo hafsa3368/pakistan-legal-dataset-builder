@@ -6,12 +6,25 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P Nos. D-580",
   "date_of_order": "15.12.2016",
-  "judge": "JUDGE Aadil Arab",
-  "sections_cited": [],
+  "judge": "Muhammad Ali Mazhar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Ali Mazhar",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Ch. Muhammad Ashraf",
+    "Ch. Azhar Elahi",
+    "Mr. Muhammad Ahsan Ghani",
+    "Mr. Javed Asghar Awan",
+    "Mr. Muhammad Rizwan Saeed",
+    "Sh. Liaqat Hussain",
+    "Nazakat Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

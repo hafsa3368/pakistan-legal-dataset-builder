@@ -6,14 +6,22 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No. D-2298 of 2021",
   "date_of_order": "29.01.2026",
-  "judge": "JUDGE Jamil",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Haji Muhammad Ismail Memon (PLD 2007 SC 35)"
+  ],
   "citations": [
     "PLD 2007 SC 35"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Farhat Qazi",
+    "D.M.C. East",
+    "Sindh",
+    "Abdul Mannan Siddiqui",
+    "Abdul Manan Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,20 @@
   "num_chunks": 10,
   "case_number": "",
   "date_of_order": "29.01.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Civil Procedure Code, 1908",
+    "Qanun-e-Shahadat Order, 1984",
+    "Evidence Law"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rizwan Ahmed",
+    "Mst. Shakeela Naz",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

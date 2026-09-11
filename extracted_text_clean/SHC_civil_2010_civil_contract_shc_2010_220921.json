@@ -8,14 +8,18 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "01.01.2010",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 15 and 16 of the Contract Act"
   ],
   "citations": [
     "2007 SCMR 969"
   ],
-  "parties": [],
+  "parties": [
+    "A.L. Alamchandani",
+    "M/s. NCEL Building Management Limited",
+    "Syed Wajahat Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

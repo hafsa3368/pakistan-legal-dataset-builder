@@ -9,9 +9,18 @@
   "case_number": "Civil Appeal No.54/2018",
   "date_of_order": "02.05.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Nargis Fatima",
+    "Khuda Buksh",
+    "Mr. Anwar Hussain",
+    "Mr. Sikander Khan",
+    "Mr. Muhammad Zahid Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

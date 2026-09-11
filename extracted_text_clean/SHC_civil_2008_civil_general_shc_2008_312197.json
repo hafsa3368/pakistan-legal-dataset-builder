@@ -6,12 +6,17 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No. 324/2021",
   "date_of_order": "30.04.2026",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Intervenor",
+    "Respondent Company",
+    "Securities Exchange Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

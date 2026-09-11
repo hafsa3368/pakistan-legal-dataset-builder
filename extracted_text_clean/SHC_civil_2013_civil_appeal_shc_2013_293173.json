@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Appeal No. S",
+  "case_number": "",
   "date_of_order": "17.11.2025",
   "judge": "Naveed Ali",
   "sections_cited": [
@@ -18,7 +18,10 @@
     "Sections 302, 201, 337-H, 149"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Azam Kalhoro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 23,
-  "case_number": "Criminal Anti-Terrorism Appeal No.155 of 2021",
+  "case_number": "",
   "date_of_order": "18.09.2021",
   "judge": "Mohammad Karim Khan Agha Mr",
   "sections_cited": [
@@ -34,7 +34,13 @@
     "2017 SCMR 960",
     "1993 SCMR 585"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Nazeer Ahmed S/o Sardar Muhammad",
+    "Mr. Muhammad Iqbal Awan",
+    "Ms. Fariyal Alvi",
+    "M/s. Peer Syed Asadullah Shah Rashidi and Muhammad Farooq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

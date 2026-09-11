@@ -6,9 +6,9 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "HCA No. 149 of 2018",
   "date_of_order": "01.07.2013",
-  "judge": "JUDGE Nasir/",
+  "judge": "Mohammad Abdur Rahman",
   "sections_cited": [
     "Section 3 of the Law Reforms Ordinance",
     "Section 15 of Ordinance",
@@ -18,7 +18,13 @@
     "1987 SCMR 1197",
     "1996 SCMR 1767"
   ],
-  "parties": [],
+  "parties": [
+    "Government of Sindh",
+    "Ahmed Saeed",
+    "other",
+    "Mr. Muhammad Hisham Mahar",
+    "Mr. Yousuf Molvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

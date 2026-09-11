@@ -8,8 +8,12 @@
   "num_chunks": 7,
   "case_number": "Constitutional Petition No.D-6583 of 2018",
   "date_of_order": "18.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "High-Level FR-17 Rule"
+  ],
   "citations": [
     "2010 SCMR 1301",
     "2012 SCMR 126",
@@ -18,7 +22,13 @@
     "2016 SCMR 871",
     "PLD 2013 SC 255"
   ],
-  "parties": [],
+  "parties": [
+    "Azhar Ali Farooqi",
+    "Federation of Pakistan",
+    "Muhammad Zafeer Abbasi",
+    "Nazar Hussain Mahar",
+    "Neelum S.Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

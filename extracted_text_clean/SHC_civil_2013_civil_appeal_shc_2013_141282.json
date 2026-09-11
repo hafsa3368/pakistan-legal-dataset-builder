@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Criminal Anti-Terrorism Appeal No.192 of 2018",
+  "case_number": "",
   "date_of_order": "30-10-2019",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "section 382-B Cr.P.C",
     "Section 265-C Cr.P.C",
@@ -19,7 +19,12 @@
     "section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Alamgir",
+    "The State",
+    "Mr. Muhammad Iqbal Awan",
+    "Mr. Qamar Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

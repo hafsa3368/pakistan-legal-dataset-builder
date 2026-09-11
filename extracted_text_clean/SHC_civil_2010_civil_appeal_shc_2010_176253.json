@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Civil Appeal No. 40 of 2021",
   "date_of_order": "09.09.2022",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON,",
   "sections_cited": [
     "Section 42 of the Specific Relief Act"
   ],
@@ -19,7 +19,12 @@
     "PLD 2006 SC 394",
     "PLD 1967 SC 249"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sachal",
+    "Imran nazir Shaikh",
+    "Mr. Sohail Anwar Arain",
+    "Mr. Ayaz Ali Rajpar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

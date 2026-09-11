@@ -6,12 +6,21 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-2123 of 2013",
   "date_of_order": "20.09.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Telenor LDI Communications (Pvt.) Ltd.",
+    "Federation of Pakistan",
+    "Telecard Ltd.",
+    "Competition Appellate Tribunal",
+    "petitioner",
+    "petitioner",
+    "respondent No.2",
+    "respondent No.1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

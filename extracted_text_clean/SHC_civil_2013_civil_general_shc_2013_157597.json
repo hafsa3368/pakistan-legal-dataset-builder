@@ -9,12 +9,24 @@
   "case_number": "Criminal Original Petition No.89 of 2011",
   "date_of_order": "12.10.2016",
   "judge": "Aftab Ahmed Gorar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 456",
     "2013 SCMR 1752"
   ],
-  "parties": [],
+  "parties": [
+    "Attaullah",
+    "Mr. Muhammed Mushaffy and Ms. Sana Amar",
+    "Mr. Muhammad Nishat Warsi",
+    "Mr. Farmanullah Khan",
+    "Sindh Government",
+    " respondent-SSGC",
+    "petitioner",
+    "batchmates"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

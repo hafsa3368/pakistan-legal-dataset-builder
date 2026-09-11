@@ -7,13 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No. D-749 of 2023",
-  "date_of_order": "",
+  "date_of_order": "14-05-2024",
   "judge": "Karim Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 1607"
   ],
-  "parties": [],
+  "parties": [
+    "Nirmal John",
+    "Province of Sindh",
+    "Mr. Riaz Ali Shaikh",
+    "Mr. Shaharyar Imdad Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

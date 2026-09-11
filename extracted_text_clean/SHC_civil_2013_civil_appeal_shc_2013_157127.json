@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. 521 of 2020",
   "date_of_order": "21.01.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 23",
     "Section 382-B",
@@ -22,7 +22,10 @@
     "2012 MLD 1315",
     "PLD 1996 Karachi 345"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Nadeem Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

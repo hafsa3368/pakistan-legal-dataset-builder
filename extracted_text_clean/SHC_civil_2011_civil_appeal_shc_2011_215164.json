@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "",
   "date_of_order": "13.02.2024",
-  "judge": "JUDGE",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "sections 148",
     "Section 148 of the Act",
@@ -32,7 +32,11 @@
     "PLD 2011 SC 296",
     "PLD 2015 SC 187"
   ],
-  "parties": [],
+  "parties": [
+    "Mehmooda Tapal",
+    "Standard Chartered Bank (Pakistan) Ltd",
+    "Ali Kashif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitution on the basis of allegations announcement",
+  "case_number": "",
   "date_of_order": "05.11.2023",
   "judge": "Aqeel Ahmed Abbasi Mr",
   "sections_cited": [
@@ -14,7 +14,15 @@
     "Section 46 of the Sindh Local Government Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naeb Amir of Jamaat-e-Islami, Karachi",
+    "Mayor of Karachi",
+    "Returning Officers of the UCs",
+    "Election Commission of Pakistan",
+    "Muhammad Hassan Akbar",
+    "Saifullah",
+    "Usman Farooq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

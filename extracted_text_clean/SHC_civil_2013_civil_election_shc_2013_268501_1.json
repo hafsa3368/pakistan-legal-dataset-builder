@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "constituted vide Notification",
+  "case_number": "C.P No.D-1661 of 2024",
   "date_of_order": "10.4.2025",
   "judge": "Arbab Ali Hakro",
   "sections_cited": [
@@ -23,7 +23,15 @@
     "2013 SCMR 1707",
     "PLD 1989 SC 360"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Rahim Bux Khokhar",
+    "Province of Sindh",
+    "Mehran University of Engineering and Technology",
+    "Lancaster University",
+    "Essex University",
+    "University of Hertfordshire",
+    "Rafiq Ahmed Dahri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

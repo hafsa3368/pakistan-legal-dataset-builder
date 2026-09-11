@@ -8,14 +8,22 @@
   "num_chunks": 3,
   "case_number": "Constt. Petition No. D-265 of 2023",
   "date_of_order": "23.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Yousuf Ali Sayeed",
+  "sections_cited": [
+    "Article 199 of Constitution of Pakistan",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2022 SCMR 1256",
     "2016 SCMR 2146",
     "2017 SCMR 2010"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Sui Southern Gas Company Limited",
+    "SSGCL",
+    "Saeed Ahmed Khoso"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

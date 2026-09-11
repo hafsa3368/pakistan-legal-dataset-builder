@@ -8,7 +8,7 @@
   "num_chunks": 20,
   "case_number": "Criminal Jail Appeal No. S-21 of 2022",
   "date_of_order": "07-07-2025",
-  "judge": "",
+  "judge": "KHALID HUSSAIN SHAHANI",
   "sections_cited": [
     "Sections 302, 324, 311, 337-F",
     "Section 23",
@@ -36,7 +36,19 @@
     "2017 SCMR 709",
     "PLD 2007 SC 87"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Ali @ Lami",
+    "Dost Ali",
+    "The State",
+    "Mst. Lakhan",
+    "Nabi Bux",
+    "Gulab @ Dahro",
+    "Jacobabad",
+    "Sindh",
+    "The State",
+    "Mr. Rafique K. Abro",
+    "Mr. Nazeer Ahmed Bhangwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

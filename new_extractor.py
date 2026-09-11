@@ -313,6 +313,15 @@ _JUDGE_NOISE_WORDS = {
     "petition", "petitions", "appeal", "appeals", "criminal", "civil",
     "application", "applications", "bail", "jail", "revision", "case",
     "cases", "court", "judicial", "department", "const", "constitutional",
+    # Institutional-name leak fragments: without these, only the LAST
+    # word of a multi-word court name gets stripped (e.g. "...Sarwana
+    # High Court" loses "Court" but keeps "High" dangling, since the
+    # strip loop stops as soon as it hits a word not in this set).
+    "high", "supreme", "bench", "circuit", "registry",
+    "lahore", "sindh", "peshawar", "balochistan", "islamabad", "quetta",
+    "karachi", "hyderabad",
+    # Stray leaked prefix observed live (e.g. "Per Ijaz ul Ahsan").
+    "per",
 }
 
 

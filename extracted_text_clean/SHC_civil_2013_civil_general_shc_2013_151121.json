@@ -6,15 +6,19 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.P. No. S-983 of 2020",
   "date_of_order": "30-03-2021",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 16",
     "section 10"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Yousuf",
+    "Zahid Hussain",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

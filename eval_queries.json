@@ -1,0 +1,37 @@
+[
+  {"category": "Bail / Criminal", "query": "What are the grounds for granting bail in a murder case?", "relevant_case_ids": ["case_1026_1.pdf"]},
+  {"category": "Bail / Criminal", "query": "Under what circumstances can pre-arrest bail be granted?", "relevant_case_ids": ["processed_221279.pdf"]},
+  {"category": "Bail / Criminal", "query": "Can bail be cancelled if the accused misuses the concession of bail?", "relevant_case_ids": ["case_2409_1.pdf"]},
+  {"category": "Bail / Criminal", "query": "What factors are considered when deciding post-arrest bail?", "relevant_case_ids": ["processed_278693.pdf"]},
+  {"category": "Bail / Criminal", "query": "Can an accused obtain bail when the prosecution evidence is contradictory?", "relevant_case_ids": ["case_1377_1.pdf"]},
+
+  {"category": "Custody / Family", "query": "What factors are considered by courts when deciding child custody?", "relevant_case_ids": ["civil_contract_lhc_2017_2022LHC3569.pdf"]},
+  {"category": "Custody / Family", "query": "Can the mother retain custody of a minor child after remarriage?", "relevant_case_ids": ["civil_contract_lhc_2018_2020LHC162.pdf"]},
+  {"category": "Custody / Family", "query": "What is the role of the welfare of the minor in custody cases?", "relevant_case_ids": ["civil_contract_lhc_2018_2020LHC162.pdf"]},
+  {"category": "Custody / Family", "query": "Can a father challenge a mother's custody of a minor child?", "relevant_case_ids": ["civil_contract_lhc_2018_2020LHC162.pdf"]},
+  {"category": "Custody / Family", "query": "Under what circumstances can custody be transferred from one parent to another?", "relevant_case_ids": ["civil_appeal_lhc_20_2025LHC2015.pdf"]},
+
+  {"category": "Tax", "query": "Can a taxpayer challenge an assessment order issued by the tax authorities?", "relevant_case_ids": ["tax_appeal_lhc_20_2015LHC83.pdf"]},
+  {"category": "Tax", "query": "What are the legal requirements for imposing a tax penalty?", "relevant_case_ids": ["criminal_appeal_pakistan_20_f6bee8b1227e303b.pdf"]},
+  {"category": "Tax", "query": "Can an assessment be reopened by the tax authorities after several years?", "relevant_case_ids": ["tax_general_lhc_20_2022LHC3042.pdf"]},
+  {"category": "Tax", "query": "What remedies are available against an unlawful tax demand?", "relevant_case_ids": ["tax_general_lhc_19_2015LHC6515.pdf"]},
+  {"category": "Tax", "query": "How have courts interpreted disputes concerning sales tax liability?", "relevant_case_ids": ["tax_appeal_lhc_20_2016LHC4462.pdf"]},
+
+  {"category": "Contempt of Court", "query": "What conduct amounts to contempt of court?", "relevant_case_ids": ["contempt_general_lhc_20_2022LHC6729.pdf"]},
+  {"category": "Contempt of Court", "query": "Can criticism of a court judgment constitute contempt of court?", "relevant_case_ids": ["civil_appeal_lhc_20_2018LHC3704.pdf"]},
+  {"category": "Contempt of Court", "query": "What is the difference between civil and criminal contempt?", "relevant_case_ids": ["civil_appeal_lhc_20_2023LHC4659.pdf"]},
+  {"category": "Contempt of Court", "query": "What factors are considered when imposing punishment for contempt?", "relevant_case_ids": ["contempt_appeal_lhc_1972_2021LHC8059.pdf"]},
+  {"category": "Contempt of Court", "query": "Can an apology result in the discharge of contempt proceedings?", "relevant_case_ids": ["contempt_general_lhc_20_2022LHC6729.pdf"]},
+
+  {"category": "Constitutional / Fundamental Rights", "query": "Can a government action violating fundamental rights be challenged before the High Court?", "relevant_case_ids": ["civil_appeal_lhc_20_2019LHC1872.pdf"]},
+  {"category": "Constitutional / Fundamental Rights", "query": "What are the requirements for maintaining a constitutional petition?", "relevant_case_ids": ["service_general_lhc_20_2022LHC2290.pdf"]},
+  {"category": "Constitutional / Fundamental Rights", "query": "How do courts interpret the right to due process?", "relevant_case_ids": ["tax_general_lhc_20_2018LHC727.pdf"]},
+  {"category": "Constitutional / Fundamental Rights", "query": "Can administrative authorities exercise powers beyond their statutory authority?", "relevant_case_ids": ["civil_general_lhc_20_2020LHC908.pdf"]},
+  {"category": "Constitutional / Fundamental Rights", "query": "When can the Supreme Court interfere with a High Court judgment?", "relevant_case_ids": ["civil_appeal_pakistan_20_e9afe5d638893e2f.pdf"]},
+
+  {"category": "Service / Employment", "query": "Can a government employee challenge an order of dismissal from service?", "relevant_case_ids": ["service_appeal_pakistan_20_59cf75626c9f066e.pdf"]},
+  {"category": "Service / Employment", "query": "What remedies are available against an unlawful departmental inquiry?", "relevant_case_ids": ["civil_contract_lhc_2019_2025LHC2137.pdf"]},
+  {"category": "Service / Employment", "query": "Can an employee be punished without being given an opportunity of hearing?", "relevant_case_ids": ["service_appeal_pakistan_20_6d7964e4c1a22630.pdf"]},
+  {"category": "Service / Employment", "query": "What principles govern seniority disputes among government employees?", "relevant_case_ids": ["service_appeal_pakistan_20_483c437b38c732b0.pdf"]},
+  {"category": "Service / Employment", "query": "Under what circumstances can a government employee challenge a transfer order?", "relevant_case_ids": ["civil_contract_lhc_20_2022LHC6795.pdf"]}
+]

@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "16.10.2018",
-  "judge": "",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "Section 5 of the Limitation Act"
   ],
@@ -19,7 +19,10 @@
     "2018 SCMR 636",
     "2018 SCMR 598"
   ],
-  "parties": [],
+  "parties": [
+    "Mirza Asghar Baig",
+    "National Refinery Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

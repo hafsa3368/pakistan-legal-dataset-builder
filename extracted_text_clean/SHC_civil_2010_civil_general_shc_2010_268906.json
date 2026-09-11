@@ -6,12 +6,15 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "H.C.A No.112 of 2024",
+  "date_of_order": "22-05-2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem Mangi",
+    "United Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

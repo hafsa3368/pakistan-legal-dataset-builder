@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 8,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "13-08-2018",
+  "judge": "ADNAN IQBAL CHAUDHRY",
   "sections_cited": [
     "Section 19 of the Specific Relief Act",
     "Section 19 Specific Relief Act",
@@ -21,7 +21,14 @@
     "PLD 2014 SC 506",
     "PLD 2009 Karachi 390"
   ],
-  "parties": [],
+  "parties": [
+    "Manzoor Ahmed Soomro",
+    "Hameed Ahmed",
+    "Arif Latif",
+    "Mukhtiarkar Shah Faisal Town",
+    "Board of Revenue",
+    "Akhtar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr. A. T. J. Appeal.No.187 of 2023",
   "date_of_order": "16.12.2024",
-  "judge": "JUDGE IK",
+  "judge": "Salahuddin Panhwar",
   "sections_cited": [
     "sections 397/353/324 PPC",
     "Section 24 of Sindh Arms Act",
@@ -18,7 +18,12 @@
     "section 382"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Azeem",
+    "Bilal",
+    "The Respondent",
+    "Anti- Terrorism Court No. III, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

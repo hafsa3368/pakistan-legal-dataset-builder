@@ -6,12 +6,17 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 196 of 2017",
   "date_of_order": "17.11.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abrar Ahmed",
+    "Mrs. Seema Waseem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

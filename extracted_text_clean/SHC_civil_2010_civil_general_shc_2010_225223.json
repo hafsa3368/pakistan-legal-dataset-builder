@@ -6,10 +6,15 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No.1241/2025",
   "date_of_order": "22.01.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Junaid Ghaffar",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Section 377 IPC",
+    "Section 12(1) of the Land Revenue Act, 1937"
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
@@ -17,7 +22,12 @@
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Zahid Farooq Mazari",
+    "the petitioners",
+    "the Government of Sindh",
+    "PBC & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1529 of 2017",
   "date_of_order": "17.05.2023",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Tarique G. Hanif Mangi",
+    "Mr. Ahmed Ali Shahani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

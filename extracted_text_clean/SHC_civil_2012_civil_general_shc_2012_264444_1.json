@@ -6,12 +6,19 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-52 of 2025",
   "date_of_order": "07.05.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shoukat Ali Rahimoon",
+    "Mr. Muhammad Sharif Solangi",
+    "Assistant A.G Sindh",
+    "D.C Umerkot",
+    "Muhammad Alam Soomro",
+    "Deputy Commissioner Umerkot"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

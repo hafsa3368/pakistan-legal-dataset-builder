@@ -6,12 +6,15 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "H.C.A. No.55 of 2023",
   "date_of_order": "06.03.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "MUHAMMAD IQBAL KALHORO,",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Sathi M. Ishaque and S.K. Lodhi, advocates for appellant",
+    "Mr. Muhammad Zahid Khan, advocate in person"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

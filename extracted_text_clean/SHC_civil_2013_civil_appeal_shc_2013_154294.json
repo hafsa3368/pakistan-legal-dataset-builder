@@ -8,7 +8,7 @@
   "num_chunks": 21,
   "case_number": "Criminal Appeal No.178 of 2017",
   "date_of_order": "04.09.2019",
-  "judge": "",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "section 376 PPC",
     "section 34 PPC",
@@ -29,7 +29,10 @@
     "1995 SCMR 1345",
     "PLD 1983 FSC 204"
   ],
-  "parties": [],
+  "parties": [
+    "Bilawal & through Mr. Mubashir Ahmed Azad @ Azam @ Azoo Mirza, Advocate",
+    "State: through Mr. Farman Ali Kanasro, Addl. Prosecutor General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

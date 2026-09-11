@@ -6,12 +6,16 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-2982 of 2012",
   "date_of_order": "21.12.2021",
-  "judge": "JUDGE",
+  "judge": "Muhammad Juaid Ghaffar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Habibullah and others",
+    "Mr. Iftikhar Ali Arain",
+    "Mr. Shaharyar Awan Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

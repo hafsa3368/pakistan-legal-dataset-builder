@@ -6,16 +6,23 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "MA No. 3351/2013",
   "date_of_order": "01.04.2013",
   "judge": "Munib Ahktar",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1982 CLC 1360",
     "PLD 1983 Karachi 609",
     "PLD 2011 Karachi 605"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulamali P. Allana",
+    "Louis Dreyfus Commodities Suisse SA",
+    "Mr. Salman Hamid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

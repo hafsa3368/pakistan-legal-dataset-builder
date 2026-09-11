@@ -8,12 +8,18 @@
   "num_chunks": 4,
   "case_number": "Criminal Revision Application No.S-19 of 2021",
   "date_of_order": "05.12.2022",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Jabbar",
+    "District & Sessions Judge Tando Allahyar",
+    "Naseer",
+    "Mr. Yaseen Laghari",
+    "Mr. Imran Ahmed Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

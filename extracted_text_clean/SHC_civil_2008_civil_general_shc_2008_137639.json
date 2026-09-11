@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "10.04.2019",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "Section 9",
     "Section 161 and 172 of the West Pakistan Land Revenue Act",
@@ -22,7 +22,14 @@
     "PLD 1967 SC 564",
     "PLD 1986 Lahore 18"
   ],
-  "parties": [],
+  "parties": [
+    "Saleem Shehzada",
+    "Province of Sindh & Others",
+    "Ahmed J. Ansari & Others",
+    "Province of Sindh & Others",
+    "Callmate Telips Telecom Limited",
+    "Pakistan Telecommunication Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "misconceived. Nonetheless",
+  "case_number": "",
   "date_of_order": "21.03.2018",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 13 of the Sindh Building Control Authority Ordinance",
     "section 7-E of the Sindh Building Control Ordinance",
@@ -23,7 +23,16 @@
     "PLD 1975 SC 463",
     "PLD 2002 SC 615"
   ],
-  "parties": [],
+  "parties": [
+    "Nazar Gul",
+    "Maymar Housing Service (Pvt.) Ltd.",
+    "Maymar Housing Service (Pvt.) Ltd. & another",
+    "Habib Bank Ltd.",
+    "HBL",
+    "Nazar Gul",
+    "Maymar Housing Service (Pvt.) Ltd.",
+    "HBL"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

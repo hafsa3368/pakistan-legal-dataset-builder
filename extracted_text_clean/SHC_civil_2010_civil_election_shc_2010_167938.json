@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "31-05-2022",
+  "judge": "Shabbir Ali Bozdar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ali Bozdar, Advocate for the Petitioner",
+    "Mr. Manoj Kumar Tejwani, Advocate for Respondent No.5/PPHI",
+    "Mr. Zulfiqar Ali Naich, Assistant A.G a/w Usman Abdullah, Deputy Commissioner, Ghotki"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

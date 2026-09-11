@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Appeal No.D-22 of 2021",
   "date_of_order": "14.11.2023",
-  "judge": "JUDGE",
+  "judge": "Arbab Ali Hakro",
   "sections_cited": [
     "Section 22",
     "Section 10"
@@ -16,7 +16,10 @@
   "citations": [
     "2014 SCMR 1048"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yousif Mahar",
+    "Zarai Taraqiati Bank Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Criminal Appeal No. S",
+  "case_number": "",
   "date_of_order": "31.07.2023",
   "judge": "Hafiz Fahad",
   "sections_cited": [
@@ -28,7 +28,10 @@
     "2016 SCMR 1628",
     "2019 SCMR 1412"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ayoub s/o Khamiso",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

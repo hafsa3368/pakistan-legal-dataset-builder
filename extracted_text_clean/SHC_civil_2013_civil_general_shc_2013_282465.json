@@ -7,14 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "23.09.2025",
   "judge": "",
   "sections_cited": [
     "Section 365-B, 452, 342 PPC",
     "Section 249-A or 265-K Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Gulzar Ahmed Malano",
+    "Mr. Shahryar Awan",
+    "Mst. Shah Naz",
+    "Lal Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

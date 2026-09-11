@@ -6,12 +6,19 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-1251 of 2024",
   "date_of_order": "13.11.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Tahseen Ali Shah",
+    "Province of Sindh and Others",
+    "Mst. Rukhsana",
+    "Province of Sindh and Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,20 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "MA No.1052 of 2021",
   "date_of_order": "06.09.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "P L D 1961 (W.P.) Karachi 623",
+    "2021 S C M R 1108"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Rauf and others",
+    "Muhammad Amin Lakhani and others",
+    "Mehmood Jabbar Lakhani and 2 others",
+    "Saadia Lakhany and 3 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

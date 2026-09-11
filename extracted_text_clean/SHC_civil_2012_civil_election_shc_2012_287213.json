@@ -6,12 +6,21 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Const. Petition No. D-",
+  "case_number": "",
   "date_of_order": "21.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 4 CrPC",
+    "Article 199 of the Constitution of Islamic Republic of Pakistan",
+    "Articles 9 and 25 of the Constitution"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sher Ali",
+    "Mr. Liaquat Ali Shar",
+    "Respondent No. 3",
+    "Secretary, Sindh Local Government Board"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

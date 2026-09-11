@@ -6,12 +6,23 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P. No.D-1642 of 2014",
   "date_of_order": "05.10.2016",
-  "judge": "JUDGE Aadil Arab",
-  "sections_cited": [],
+  "judge": "Muhammad Ali Mazhar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The Federation of Pakistan & another",
+    "Council for Works and Housing Research",
+    "Muhammad Ali Mazhar",
+    "Mr. Imdad Ali",
+    "Shaikh Liaqat Hussain",
+    "Ali Asghar",
+    "Syed Aamir Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

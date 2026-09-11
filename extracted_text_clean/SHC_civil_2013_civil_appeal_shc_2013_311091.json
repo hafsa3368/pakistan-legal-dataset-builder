@@ -8,12 +8,16 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-293 of 2026",
   "date_of_order": "14.04.2026",
-  "judge": "",
+  "judge": "Chander Kumar",
   "sections_cited": [
     "section 143 of the Sindh Local Government Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Tehseen Ahmed H. Qureshi",
+    "Mr. Ayaz Ali Rajpar",
+    "Mr. Raj Kumar Lohano"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

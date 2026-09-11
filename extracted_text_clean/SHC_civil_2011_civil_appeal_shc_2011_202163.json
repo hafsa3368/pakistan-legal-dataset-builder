@@ -28,7 +28,12 @@
     "PLD 2019 Sindh 144",
     "PLD 1993 SC 147"
   ],
-  "parties": [],
+  "parties": [
+    "Government of Sindh",
+    "Mrs. Hailey Vincent D’Abreo",
+    "Others",
+    "Karachi Metropolitan Corporation"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

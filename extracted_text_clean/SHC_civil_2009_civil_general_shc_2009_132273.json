@@ -24,7 +24,10 @@
     "1991 CLC Note 69",
     "PLD 1995 SC 362"
   ],
-  "parties": [],
+  "parties": [
+    "Novartis AG",
+    "Genix Pharma (Private) Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

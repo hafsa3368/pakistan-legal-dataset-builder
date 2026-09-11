@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "",
   "date_of_order": "03.09.2025",
-  "judge": "JUDGE",
+  "judge": "Khadim Hussain Tunio",
   "sections_cited": [
     "Section 22",
     "Section 18 of the FI Ordinance",
@@ -20,7 +20,13 @@
     "Section 22 of the FI Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The President MCB Bank Limited and others",
+    "Ghulam Hyder",
+    "Muhammad Ibrahim",
+    "Zulfiqar Ali Arain",
+    "NIB Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

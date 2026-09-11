@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Accountability Appeal No.07 of 2015",
   "date_of_order": "23.09.2020",
-  "judge": "",
+  "judge": "Zulfioqr Ali Sangi",
   "sections_cited": [
     "section 10",
     "section 15",
@@ -20,7 +20,12 @@
     "2020 SCMR 1177",
     "1994 SCMR667"
   ],
-  "parties": [],
+  "parties": [
+    "Mirza Altaf Baig",
+    "Mr. Mohammad Karim Khan Agha",
+    "Sher Muhammad",
+    "Fazal Ellahi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

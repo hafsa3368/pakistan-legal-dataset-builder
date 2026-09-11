@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Jail Appeal No.S-12 of 2025",
   "date_of_order": "23.07.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 342 Cr.P.C",
     "Sections 401 PPC",
@@ -23,7 +23,10 @@
     "PLD 1978 SC 10",
     "PLD 2007 Karachi 562"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Amir Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

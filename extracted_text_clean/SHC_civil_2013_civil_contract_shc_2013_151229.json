@@ -6,10 +6,13 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "27.04.2021",
   "judge": "Irfan Saadat Khan Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2020 SCMR 221",
     "2005 SCMR 642",
@@ -24,7 +27,12 @@
     "2020 SCMR 507",
     "2020 SCMR 1625"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Asad-ul-Rehman and 13 others",
+    "Government of Pakistan & 02 others",
+    "Mr. Zubair Ahmed Rajput",
+    "Mr. Muhammad Nishat Warsi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

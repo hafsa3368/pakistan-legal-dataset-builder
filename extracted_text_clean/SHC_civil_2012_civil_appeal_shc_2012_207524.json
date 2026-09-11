@@ -6,14 +6,21 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "High Court Appeal No.220 of 2019",
   "date_of_order": "13.12.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Alternative Medicine and Health Products Enlistment Rules, 2014"
+  ],
   "citations": [
     "PLD 2018 Sindh 448"
   ],
-  "parties": [],
+  "parties": [
+    "Reckitt Benckiser Pakistan Limited",
+    "Pakistan",
+    "DRAP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

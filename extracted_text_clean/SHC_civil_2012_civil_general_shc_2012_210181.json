@@ -6,14 +6,19 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "MA No.19303/2023",
   "date_of_order": "07.02.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2011 YLR 1473"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Hussain Bux Saryo",
+    "Mr. Hussain Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-212 of 2019",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "26.10.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sheeraz Fazal",
+    "Mr. Niaz Hussain Maitlo",
+    "Mr. Mehboob Ali Wassan",
+    "Shah Abdul Latif University",
+    "No.2",
+    "No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

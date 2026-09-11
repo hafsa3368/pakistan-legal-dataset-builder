@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Civil Appeal No.1954 of 2002",
   "date_of_order": "16.05.2019",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 151 CPC",
     "section 151 CPC",
@@ -26,7 +26,15 @@
     "1995 SCMR 584",
     "2001 MLD 1154"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Sarfaraz Ali Metlo",
+    "Mr.Naveed ul Haq",
+    "Albaraka Islamic Bank BSC",
+    "Defendant No.1",
+    "Defendant No.2",
+    "United Arab Emirates",
+    "Mauritius"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

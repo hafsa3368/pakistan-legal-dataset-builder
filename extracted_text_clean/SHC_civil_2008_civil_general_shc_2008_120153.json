@@ -6,7 +6,7 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "civil rights of the citizens cannot",
+  "case_number": "",
   "date_of_order": "29.04.2008",
   "judge": "Arshad Hussain Khan",
   "sections_cited": [
@@ -21,7 +21,12 @@
     "PLD 2003 Karachi 495",
     "PLD 1994 SC 693"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan State Oil Company Limited",
+    "Cantonment Board Clifton",
+    "Government of Pakistan",
+    "Ministry of Petroleum and Natural Resources"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

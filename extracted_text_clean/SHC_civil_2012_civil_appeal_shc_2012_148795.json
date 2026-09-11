@@ -6,12 +6,21 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "22.12.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s K-Electric Limited",
+    "Amjad Khan",
+    "Anwar Hussain",
+    "Shah Muhammad Khan",
+    "Javed Akhtar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

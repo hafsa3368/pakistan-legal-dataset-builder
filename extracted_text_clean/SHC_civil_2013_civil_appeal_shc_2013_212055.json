@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "",
   "date_of_order": "26.02.2024",
-  "judge": "JUDGE",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [],
   "citations": [
     "2001 SCMR 133",
@@ -18,7 +18,15 @@
     "PLD 1985 SC 345",
     "PLD 1963 SC 553"
   ],
-  "parties": [],
+  "parties": [
+    "Mansoor Akbar",
+    "Raza Ahmed",
+    "Tazeen Manzoor",
+    "Shireen Sultan",
+    "Zulfiqar Ali",
+    "Manzoor Ahmed",
+    "Mst. Zubaida"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,20 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "CRA No. 851 of 2019",
   "date_of_order": "08.12.2025",
   "judge": "",
   "sections_cited": [
     "section 196 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sardar Zafar Hussain",
+    "the Government",
+    "the Appellant",
+    "the Applicant",
+    "the Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

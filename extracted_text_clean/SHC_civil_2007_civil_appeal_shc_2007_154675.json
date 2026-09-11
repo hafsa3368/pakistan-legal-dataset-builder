@@ -6,7 +6,7 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 19,
-  "case_number": "Criminal Acquittal Appeal No.470 of 2010",
+  "case_number": "",
   "date_of_order": "11.09.2019",
   "judge": "Dost Mohammad Khan",
   "sections_cited": [
@@ -37,7 +37,21 @@
     "1972 SCMR 144",
     "1980 SCMR 708"
   ],
-  "parties": [],
+  "parties": [
+    "State",
+    "Muhammad Mohammad Boota",
+    "others",
+    "Ashraf Samo",
+    "Khwaja Mohammad Mukhtiar Butt",
+    "Khwaja Mehboob Alam Butt",
+    "Zulfiqar Ali Bhutto",
+    "Muhammad Boota",
+    "Mushtaq Ahmed Solangi",
+    "Ghulam Rasool Samoo",
+    "Azizur Rehman",
+    "Ali Asghar S/o Muhammad Boota",
+    "Ch. Nazar Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

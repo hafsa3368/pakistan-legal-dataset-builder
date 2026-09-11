@@ -8,7 +8,7 @@
   "num_chunks": 23,
   "case_number": "Civil Petitions No.409-K",
   "date_of_order": "15.05.2019",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 24-A of the General Clauses Act",
     "section 30 of the Act",
@@ -35,7 +35,11 @@
     "2010 SCMR 1484",
     "2009 SCMR 956"
   ],
-  "parties": [],
+  "parties": [
+    "Nadeem Ahmed",
+    "Federation of Pakistan",
+    "Pakistan State Oil Company Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Civil Appeal Nos",
+  "case_number": "",
   "date_of_order": "10-02-2022",
   "judge": "Muhammad Junaid Ghaffar Mr",
   "sections_cited": [
@@ -23,7 +23,10 @@
     "PLD 2010 SC 745",
     "PLD 2015 SC 344"
   ],
-  "parties": [],
+  "parties": [
+    "National Highway Authority of Pakistan",
+    "Muhammad Waris (deceased) through his legal heirs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

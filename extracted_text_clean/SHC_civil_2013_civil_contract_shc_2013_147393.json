@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Const. Petition No. D",
+  "case_number": "",
   "date_of_order": "29.10.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
@@ -14,7 +14,15 @@
     "Section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naveed Ahmed Abro",
+    "Province of Sindh",
+    "Ghulam Ali Birhmani",
+    "Ubaidullah Pahore",
+    "Mr. Muhammad Ashraf Samoo",
+    "Assistant A.G Sindh",
+    "Mr. Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

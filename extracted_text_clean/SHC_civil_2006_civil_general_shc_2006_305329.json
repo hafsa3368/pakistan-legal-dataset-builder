@@ -8,8 +8,11 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No. D-556 of 2025",
   "date_of_order": "04.02.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "PLD 2007 SC 35"
   ],

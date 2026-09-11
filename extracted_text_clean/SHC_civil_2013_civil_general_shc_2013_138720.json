@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "civil courts notwithstanding",
+  "case_number": "",
   "date_of_order": "07.05.2018",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 151 CPC",
     "Section 9 of the CPC",
@@ -23,7 +23,10 @@
     "1993 SCMR 2039",
     "2017 YLR 1579"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Afaque Yousuf",
+    "Mr. Mustafa Lakhani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

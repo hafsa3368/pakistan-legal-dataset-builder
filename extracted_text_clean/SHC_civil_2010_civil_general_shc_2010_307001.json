@@ -9,7 +9,10 @@
   "case_number": "Constitution Petition No. D-2357 of 2011",
   "date_of_order": "05-03-2026",
   "judge": "Adnan Iqbal Chaudhry Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 977",
     "2022 SCMR 897",
@@ -22,7 +25,22 @@
     "2022 SCMR 406",
     "2022 SCMR 566"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Afzal Jagirani, Advocate",
+    "Mr. Muhammad Aslam H.Jatoi",
+    "The State",
+    "Through Mr. Liaquat Ali Shar, Addl. Advocate General",
+    "Akhtiar Ali Shaikh & ors.",
+    "Deputy Controller, Civil Defense Kamber-Shahdadkot & ors",
+    "Akbar Ali Gaad & ors.",
+    "P.O Sindh through Secretary, Govt. of Sindh & others",
+    "Ayaz Ali Wadho & ors.",
+    "D.C.O, Larkana & others",
+    "Talib Hussain Junejo",
+    "P.O Sindh through Secretary, Govt. of Sindh & others",
+    "Nooruddin Jatoi Vs. Deputy Controller Civil Defence, (Defunct) Larkano now Kamber- Shahdadkot & others",
+    "Niaz Hussain & others Vs P.O Sindh through Secretary, Home Deptt. Karachi & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,18 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "MA No.20991 of 2013",
+  "date_of_order": "21-12-2023",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 7 of the Trade Organizations Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Printech Packages (Pvt.) Ltd.",
+    "Federation of Pakistan Chambers of Commerce & Industry",
+    "All Pakistan Paper Merchants Association"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

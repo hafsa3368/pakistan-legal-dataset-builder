@@ -6,14 +6,18 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Construction Group Company Limited and another",
+  "case_number": "",
   "date_of_order": "14.03.2018",
   "judge": "",
   "sections_cited": [
     "Section 489-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Creek Marina Private Limited",
+    "Guangdong Overseas Construction Group Company Limited",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

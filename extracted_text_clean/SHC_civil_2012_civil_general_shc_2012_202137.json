@@ -8,10 +8,21 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "29.08.2023",
-  "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Hussain Memon",
+    "Province of Sindh",
+    "SBCA",
+    "Sindh Building Control Authority",
+    "Sindh High Court",
+    "Muhammad Shafi Siddiqui",
+    "Arshad Hussain Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

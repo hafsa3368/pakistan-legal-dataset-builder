@@ -6,14 +6,17 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "HCA No.210 of 2019",
   "date_of_order": "28.02.2023",
   "judge": "Irfan Saadat Khan Mr",
   "sections_cited": [
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Wajahat Hussain Zaidi",
+    "United Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 13,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "24-12-2018",
   "judge": "Muhammad Ali Mazhar Mr",
   "sections_cited": [
     "Section 22",
@@ -20,7 +20,11 @@
     "2002 SCMR 1089",
     "PLD 1975 Karachi 870"
   ],
-  "parties": [],
+  "parties": [
+    "The Lake City Holdings (Private) Limited",
+    "United Bank Limited",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

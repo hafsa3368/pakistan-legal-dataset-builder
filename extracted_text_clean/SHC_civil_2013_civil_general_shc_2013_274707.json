@@ -8,13 +8,18 @@
   "num_chunks": 3,
   "case_number": "Crl. Revision Application No.S-26 of 2025",
   "date_of_order": "30.06.2025",
-  "judge": "",
+  "judge": "Abdul Majeed Memon",
   "sections_cited": [
     "sections 452, 365-B, 147, 148, 149 PPC",
     "Sections 3 and 4 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabir Ali Bozdar",
+    "Mr. Abdul Majeed Memon",
+    "Mr. Muhammad Raza Katohar",
+    "Respondents No.3 to 5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

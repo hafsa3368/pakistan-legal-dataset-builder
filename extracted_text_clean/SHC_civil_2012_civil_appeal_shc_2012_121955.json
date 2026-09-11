@@ -6,9 +6,9 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.D-115 of 2014",
   "date_of_order": "16.01.2018",
-  "judge": "JUDGE AH",
+  "judge": "Abdul Maalik Gaddi",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C",
@@ -18,7 +18,12 @@
   "citations": [
     "2015 SCMR 1002"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Munawar alias Qadoo alias Ali Hassan",
+    "The State",
+    "Munawar alias Qadoo alias Ali Hassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

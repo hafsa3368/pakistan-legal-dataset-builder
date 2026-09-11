@@ -6,7 +6,7 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr. Accountability Appeal No.06 of 2019",
   "date_of_order": "03.07.2019",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
@@ -26,7 +26,11 @@
     "PLD 1957 SC 157",
     "PLD 2001 SC 601"
   ],
-  "parties": [],
+  "parties": [
+    "Faisal",
+    "The State",
+    "Muhammad Rafi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

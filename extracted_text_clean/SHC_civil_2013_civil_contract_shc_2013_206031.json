@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Constitutional Petition No. S-1091 of 2023",
   "date_of_order": "08.11.2023",
-  "judge": "",
+  "judge": "Syed Haider Imam Rizvi",
   "sections_cited": [
     "Section 491",
     "Section 365-B PPC",
@@ -22,7 +22,12 @@
   "citations": [
     "1970 SCMR 437"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Salma Bano",
+    "Muhammad Shahzad",
+    "Ms. Neha",
+    "The respondent police officials"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

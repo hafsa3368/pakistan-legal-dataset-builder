@@ -6,9 +6,9 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 26,
-  "case_number": "Criminal Complaint No.105 of 2009",
+  "case_number": "High Court Appeal No.422 of 2017",
   "date_of_order": "03.02.2026",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 14 and 91 of the Limitation Act",
     "Sections 42, 54 and 56 of the Specific Relief Act",
@@ -38,7 +38,11 @@
     "2004 CLC 1029",
     "2015 YLR 550"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Hajani Sherbano",
+    "Qazi Muhammad Fareed",
+    "Al-Riaz Cooperative Housing Society Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

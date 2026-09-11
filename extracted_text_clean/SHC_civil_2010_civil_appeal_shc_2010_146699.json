@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "07.09.2020",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 11",
     "Section 13",
@@ -19,7 +19,11 @@
   "citations": [
     "1999 SCMR 2883"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Ghaffar",
+    "Muhammad Aalam",
+    "Madrsa Dar-ul- uloom Farooqia"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

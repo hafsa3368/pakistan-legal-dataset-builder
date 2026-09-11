@@ -8,12 +8,17 @@
   "num_chunks": 9,
   "case_number": "Constitutional Petition No. D-2845 of 2021",
   "date_of_order": "24.02.1977",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 356"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "Major Dr. Syeda Qurrat-ul-Ain",
+    "Karachi Port Trust",
+    "KPT Officers Cooperative Housing Society"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

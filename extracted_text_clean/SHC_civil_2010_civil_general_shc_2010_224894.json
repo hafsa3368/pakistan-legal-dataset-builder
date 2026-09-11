@@ -9,14 +9,27 @@
   "case_number": "",
   "date_of_order": "17.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "PLD 2016 Sindh 168",
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Syed Iqbal Hussain Shah Gillani vs. PBC & Others reported as 2021 SCMR 425",
+    "Muhammad Fiaz Khan vs. Ajmer Khan & Another reported as 2010 SCMR 105",
+    "CIR vs. Jahangir Khan Tareen reported as 2022 SCMR 92"
+  ],
   "citations": [
     "2022 SCMR 92",
     "2021 SCMR 425",
     "2010 SCMR 105",
     "PLD 2016 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Taimoor Ahmed Qureshi",
+    "Rana Sakhawat Ali",
+    "Ms. Alizeh Bashir",
+    "Mr. Ameer Bux Metlo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

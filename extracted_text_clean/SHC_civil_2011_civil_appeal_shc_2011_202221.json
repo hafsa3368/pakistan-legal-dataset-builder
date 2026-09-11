@@ -6,9 +6,9 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C. P. No. D-1561 of 2023",
   "date_of_order": "29.08.2023",
-  "judge": "JUDGE MUBASHIR",
+  "judge": "YOUSUF ALI SAYEED",
   "sections_cited": [
     "Section 12 of the Foreign Exchange Regulation Act",
     "Section 23-B",
@@ -17,7 +17,10 @@
     "section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Azam Memon",
+    "the Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

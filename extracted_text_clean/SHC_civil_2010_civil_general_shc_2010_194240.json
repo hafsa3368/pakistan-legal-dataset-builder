@@ -6,16 +6,30 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Crl. Rev. Application No. 101 of 2022",
+  "case_number": "",
   "date_of_order": "28.03.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Omar Sial",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "PLD 2010 SC 661",
+    "PLD 2010 SC 665",
+    "PLD 2010 SC 661"
+  ],
   "citations": [
     "2016 SCMR 1931",
     "PLD 2010 SC 661",
     "PLD 2010 SC 665"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Ali Ahmed Zaidi",
+    "Syed Naseem Kausar",
+    "The State",
+    "Farida Gul",
+    "Shaikh Mohammad Nasim",
+    "Bashir Ahmed",
+    "Mobashir Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

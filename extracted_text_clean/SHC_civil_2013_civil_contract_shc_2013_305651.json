@@ -8,8 +8,11 @@
   "num_chunks": 4,
   "case_number": "Constitution Petition No. D-14 of 2026",
   "date_of_order": "17-02-2026",
-  "judge": "JUDGE Zulfiqar",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2013 SCMR 304",
     "2020 SCMR 2068",
@@ -24,7 +27,12 @@
     "2015 SCMR 1257",
     "2005 SCMR 445"
   ],
-  "parties": [],
+  "parties": [
+    "Ashraf Ali Shah and others",
+    "Province of Sindh and others",
+    "Muhammad Arab Chandio and others",
+    "The State: Through Mr. Liaquat Ali Shar, Addl. Advocate General, Sindh along with Fayaz Hussain Kolachi, Executive Engineer, Public Health Engineering Division, Kamber, Sanaullah Shah, XEN, Shikarpur, Vijay, XEN, Kamber, Asif Raza, XEN Kashmore & Abdul Basit, XEN Jacobabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,17 +6,32 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No.18970/2021",
   "date_of_order": "16.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "PLD 2016 Sindh 168",
+    "CIR vs. Jahangir Khan Tareen reported as 2022 SCMR 92",
+    "Syed Iqbal Hussain Shah Gillani vs. PBC & Others reported as 2021 SCMR 425",
+    "Muhammad Fiaz Khan vs. Ajmer Khan & Another reported as 2010 SCMR 105"
+  ],
   "citations": [
     "2022 SCMR 92",
     "2021 SCMR 425",
     "2010 SCMR 105",
     "PLD 2016 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Mrs. Masooda Siraj",
+    "Mr. Jawed Hussain",
+    "Digicom Trading",
+    "Muhammad Ali Mazhar",
+    "Ijaz Ul Ahsan",
+    "PBC & Others",
+    "Ajmer Khan",
+    "Muhammad Fiaz Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

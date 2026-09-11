@@ -6,17 +6,29 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "C.P. No.D-3123 of 2025",
   "date_of_order": "26.02.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "2025 SCMR 443",
     "2022 SCMR 566",
     "2021 SCMR 977",
     "2024 SCMR 527"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Mutalib & others",
+    "Ashfaq Ahmed & others",
+    "Federation of Pakistan",
+    "Port Qasim Authority",
+    "Mr. Abdul Salam Memon",
+    "Mr. Naeem Iqbal",
+    "Mr. Arshad Khan Tanoli",
+    "Ms. Wajiha Mehdi DAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

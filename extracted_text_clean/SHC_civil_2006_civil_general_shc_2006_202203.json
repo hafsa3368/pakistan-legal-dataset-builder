@@ -6,9 +6,9 @@
   "year": "2006",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Constitution is infringed when it is not",
+  "case_number": "",
   "date_of_order": "17.09.2018",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 56",
     "section 63 of the Contract Act"
@@ -19,7 +19,14 @@
     "PLD 2013 SC 167",
     "PLD 2014 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Lucky Cement Limited",
+    "Pakistan and others",
+    "The Secretary, Ministry of Energy, Petroleum Division",
+    "The Secretary M/o. Commerce, Govt. of Pakistan",
+    "Sui Southern Gas Company Ltd",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

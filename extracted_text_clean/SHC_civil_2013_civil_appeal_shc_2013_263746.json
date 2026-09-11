@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Criminal Anti-Terrorism Jail Appeal No.55 of 2023",
+  "case_number": "",
   "date_of_order": "09.04.2025",
-  "judge": "",
+  "judge": "MUHAMMAD HASAN (AKBER)",
   "sections_cited": [
     "Section 265-H Cr.P.C",
     "Section 394/34 PPC",
@@ -25,7 +25,12 @@
     "2024 SCMR 1437",
     "2007 SCMR 206"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Muzammil",
+    "The State",
+    "Muhammad Muzammil",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

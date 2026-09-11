@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitution Petition No. D-",
+  "case_number": "C.P. No.D-797 of 2016",
   "date_of_order": "03.09.2020",
-  "judge": "JUDGE Irfan Ali",
+  "judge": "Abdul Maalik Gaddi",
   "sections_cited": [
     "Section 3",
     "Section 3 of the Act"
@@ -21,7 +21,11 @@
     "2016 SCMR 1375",
     "PLD 1973 SC 236"
   ],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Gulzar Ahmed",
+    "Provincial Assembly of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

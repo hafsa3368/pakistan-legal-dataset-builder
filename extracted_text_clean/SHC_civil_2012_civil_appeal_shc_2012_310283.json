@@ -6,7 +6,7 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "HCA No.160 of 2017",
   "date_of_order": "02.04.2026",
   "judge": "Arshad Hussain Khan Mr",
   "sections_cited": [
@@ -19,7 +19,10 @@
   "citations": [
     "PLD 1986 SC 74"
   ],
-  "parties": [],
+  "parties": [
+    "Asim Pervaiz Khan",
+    "Industrial Development Bank of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

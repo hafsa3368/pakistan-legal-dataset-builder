@@ -6,7 +6,7 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Acquittal Appeal No. D-30 of 2013",
+  "case_number": "",
   "date_of_order": "15.02.2018",
   "judge": "Abdul Maalik Gaddi Mr",
   "sections_cited": [
@@ -19,7 +19,15 @@
     "1993 SCMR 585",
     "1992 SCMR 96"
   ],
-  "parties": [],
+  "parties": [
+    "The State / Anti Narcotics Force",
+    "Faiz Muhammad Khoso",
+    "Anti Narcotics Force",
+    "ANF",
+    "Mr. Justice Abdul Maalik Gaddi",
+    "Mr. Justice Arshad Hussain Khan",
+    "Mr. Muhammad Ayoob Kassar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

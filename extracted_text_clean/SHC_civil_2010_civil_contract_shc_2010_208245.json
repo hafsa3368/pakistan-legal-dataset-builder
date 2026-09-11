@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "13.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Yassa Ali Mahar",
+    "Mr. Ghulam Abbas Kubar",
+    "Sukkur Municipal Corporation",
+    "Mr. Khuda Bux Chohan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

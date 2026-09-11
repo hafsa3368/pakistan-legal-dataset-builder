@@ -6,16 +6,23 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "constitutional bar of Article 212 does not",
+  "case_number": "C.P. No.D-5003 of 2023",
   "date_of_order": "03.09.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 212",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2008 SCMR 1535",
     "2008 SCMR 1138",
     "2010 SCMR 1466"
   ],
-  "parties": [],
+  "parties": [
+    "Khawaja Maqbool Mustafa",
+    "Province of Sindh",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

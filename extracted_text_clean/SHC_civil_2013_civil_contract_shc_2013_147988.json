@@ -6,14 +6,21 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "02.12.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
     "Section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Abdul Hussain and 04 others",
+    "Mr. Ali Safdar Depar",
+    "Mr. Justice Nadeem Akhtar",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Shahzad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

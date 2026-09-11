@@ -9,9 +9,20 @@
   "case_number": "Constitutional Petition No.D-3654 of 2019",
   "date_of_order": "22.08.2024",
   "judge": "Ayaz Gul",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 3 PEMRA Ordinance",
+    "Section 39 PEMRA Ordinance",
+    "Rule-12 PEMRA Rules",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Worldcall Cable (Private) Limited",
+    "The Federation of Pakistan",
+    "Mr. Fahad Hashmi",
+    "Mr. Khaleeq Ahmed",
+    "Mr. Kashif Hanif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

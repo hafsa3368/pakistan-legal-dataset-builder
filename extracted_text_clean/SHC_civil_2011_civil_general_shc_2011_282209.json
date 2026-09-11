@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Civil Revision Appln. No. S-23 of 2019",
   "date_of_order": "21.08.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 115 of the Code"
   ],
@@ -22,7 +22,28 @@
     "PLD 2009 SC 71",
     "PLD 2020 Sindh 129"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Ghalib Hussain Shah",
+    "Moazam Ali Shah",
+    "Azam Ali Shah",
+    "Zaigham Ali Shah",
+    "Asim Ali Shah",
+    "Mureed Hussain Shah",
+    "Dilshad @ Tahir Shah",
+    "Tarique Hussain Shah",
+    "Kashif Shah",
+    "Syed Wasif Ali Shah",
+    "Ghulam Mustafa Shah",
+    "Syed Himmat Ali Shah",
+    "Muhammad Asim Malik",
+    "Zulfiqar Ali Naich",
+    "Asadullah Soomro",
+    "Government of Sindh",
+    "Mukhtiarkar Revenue",
+    "Taluka Municipal Officer",
+    "Taluka Nazim Rohri",
+    "Muhammad Asim Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

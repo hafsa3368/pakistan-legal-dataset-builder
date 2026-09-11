@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Civil Suit No.298 of 1990",
   "date_of_order": "23.02.2018",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Sections 42 & 56 of the Specific Relief Act",
     "Sections 17 & 49 of the Registration Act",
@@ -16,7 +16,18 @@
     "Section 17 and 49 of the Registration Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Shamima Alam",
+    "Syed Abu Obedah",
+    "Karachi Development Authority",
+    "Sub-Registrar",
+    "Nemo",
+    "Ms. Naheed Akhter",
+    "Syed Aal-e-Maqbool Rizvi",
+    "Mr. S. M. Ali Azam",
+    "Mr. Muhammad Aziz Khan",
+    "State Counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

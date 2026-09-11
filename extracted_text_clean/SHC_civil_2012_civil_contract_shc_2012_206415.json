@@ -8,10 +8,21 @@
   "num_chunks": 4,
   "case_number": "Constitution Petition No. D-3913 of 2015",
   "date_of_order": "29.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Hyder Rajput",
+    "Federation of Pakistan & others",
+    "Mr. Muhammad Iqbal Kalhoro",
+    "Mr. Arbab Ali Hakro",
+    "Mr. Sohail Ahmed Khoso",
+    "Mr. Khan Muhammad Sangi",
+    "Mr. Dareshani Ali Haider ‘Ada’"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

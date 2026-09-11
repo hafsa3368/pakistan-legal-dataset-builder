@@ -8,10 +8,19 @@
   "num_chunks": 3,
   "case_number": "Civil Appeal No.1644 of 2013",
   "date_of_order": "17.09.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Rafiq Ahmed Kalwar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Qamar Ali Qureshi and 9 Others",
+    "Federation of Pakistan and 2 Others",
+    "Shahzad Waheed and 11 Others",
+    "Federation of Pakistan and 2 Others",
+    "Tufail Ahmed Kazi and Federation of Pakistan and 2 Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

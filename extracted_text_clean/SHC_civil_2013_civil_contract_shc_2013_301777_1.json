@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitution. iii. Direct the Respondents not",
+  "case_number": "C.P. No.D-1636 of 2023",
   "date_of_order": "24.11.2025",
-  "judge": "",
+  "judge": "Adnan-UL-Karim Memon",
   "sections_cited": [
     "Section 12",
     "Section 50",
@@ -20,7 +20,12 @@
     "Section 50 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Kashif and Others",
+    "Province of Sindh and Others",
+    "Razique Dino Memon and Others",
+    "Province of Sindh and Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

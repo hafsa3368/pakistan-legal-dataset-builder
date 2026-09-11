@@ -8,7 +8,7 @@
   "num_chunks": 29,
   "case_number": "Criminal Appeal No. S-23 of 2017",
   "date_of_order": "19.02.2024",
-  "judge": "",
+  "judge": "Muhammad SaleemJessar",
   "sections_cited": [
     "Section 409",
     "Section 5",
@@ -36,7 +36,15 @@
     "1995 SCMR 1345",
     "PLD 2002 SC 1048"
   ],
-  "parties": [],
+  "parties": [
+    "Veeram Khan",
+    "Abdul Razzak Soomro",
+    "Abdul Rehman",
+    "State of Pakistan",
+    "ASL ASI Aijaz Ali",
+    "ASL Imamuddin Khoso",
+    "PC Abdul Majid Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

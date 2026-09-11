@@ -6,12 +6,24 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "C.P. No.D-5010 of 2016",
   "date_of_order": "10.09.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Nadeem-ul-Haq",
+    "Mr. Jawad Dero",
+    "Ms. Rahat Ahsan",
+    "Mr. Habib Ahmed",
+    "Abdullah Shaikh",
+    "Ali Anwar Shah",
+    "Abid Bashir",
+    "Raza Mian",
+    "Sameer Khan Afridi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

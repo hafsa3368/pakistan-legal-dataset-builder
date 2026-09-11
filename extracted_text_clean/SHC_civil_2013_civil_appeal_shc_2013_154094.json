@@ -6,17 +6,27 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "misconduct. No statement",
+  "case_number": "C.P Nos.D-5396",
   "date_of_order": "31.08.2009",
   "judge": "Muhammad Ali Mazhar",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2007 SCMR 1726",
     "1998 SCMR 1970",
     "2003 SCMR 1110",
     "PLD 2012 SC 553"
   ],
-  "parties": [],
+  "parties": [
+    "Naeem Akhtar Chang",
+    "Federation of Pakistan & Ors",
+    "Muhammad Tahir Wagho",
+    "Federation of Pakistan & Ors",
+    "Shafique Ahmed Arain",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

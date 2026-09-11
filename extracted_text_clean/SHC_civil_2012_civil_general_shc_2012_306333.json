@@ -8,13 +8,20 @@
   "num_chunks": 4,
   "case_number": "Constitution Petition No.D-181 of 2023",
   "date_of_order": "25.02.2026",
-  "judge": "JUDGE Irshad Ali M/Steno",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2001 SCMR 1493",
     "2011 SCMR 279"
   ],
-  "parties": [],
+  "parties": [
+    "Ashraf Ali s/o Eid Muhammad Bajkani",
+    "Asghar Ali s/o Muhammad Panah Malik",
+    "P.O Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

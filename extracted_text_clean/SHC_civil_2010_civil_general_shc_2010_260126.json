@@ -9,14 +9,29 @@
   "case_number": "Misc. No.23705/2022",
   "date_of_order": "30.04.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "PLD 2016 Sindh 168"
+  ],
   "citations": [
     "2022 SCMR 92",
     "2021 SCMR 425",
     "2010 SCMR 105",
     "PLD 2016 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Tasleem Hussain Maitlo",
+    "Ms. Zakia",
+    "Mr. Ameer Bakhsh Metlo",
+    "Ms. Alizeh Bashir",
+    "Muhammad Ali Mazhar J.",
+    "Ijaz Ul Ahsan J.",
+    "Syed Iqbal Hussain Shah Gillani",
+    "PBC & Others",
+    "Muhammad Fiaz Khan",
+    "Ajmer Khan & Another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

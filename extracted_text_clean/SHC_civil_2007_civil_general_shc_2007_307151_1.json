@@ -6,12 +6,25 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "misconceived and not",
+  "case_number": "C.P No.D-4073 of 2025",
   "date_of_order": "27.02.2026",
-  "judge": "JUDGE Shahzad Soomro",
-  "sections_cited": [],
+  "judge": "Shahzad Soomro",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Fareed Ahmed",
+    "Mr. Altaf Ahmed",
+    "Mr. Abdul Jalil Zubedi",
+    "Ms. Wajiha Mehdi",
+    "Respondent No.2",
+    "Government of Sindh",
+    "Ministry of Human Development",
+    "Social Welfare and Special Education",
+    "Accountant General",
+    "Supreme Court of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

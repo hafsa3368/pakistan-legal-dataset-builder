@@ -8,10 +8,21 @@
   "num_chunks": 19,
   "case_number": "Criminal Case No.1163/2007",
   "date_of_order": "16.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Akbar Sarwana",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gulzar Ahmed and Another",
+    "Muhammad Zaman and Another",
+    "Gulzar Ahmed s/o Nazar Muhammad",
+    "Muhammad Anar s/o Sher Muhammad",
+    "Muhammad Abdul",
+    "Zarai Tarkiati Bank Ltd.",
+    "Agricultural Development Bank of Pakistan Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

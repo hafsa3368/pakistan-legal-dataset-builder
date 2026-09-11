@@ -9,14 +9,28 @@
   "case_number": "",
   "date_of_order": "10.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "PLD 2016 Sindh 168",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2022 SCMR 92",
     "2021 SCMR 425",
     "2010 SCMR 105",
     "PLD 2016 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mustafa Mamdani",
+    "Mr. Muhammad Tahir Khalil Dogar",
+    "Mr. Muhammad Khalil Dogar",
+    "Mr. Kashif Nazeer",
+    "The petitioner",
+    "The respondent",
+    "PBC & Others",
+    "Ajmer Khan & Another",
+    "Syed Iqbal Hussain Shah Gillani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

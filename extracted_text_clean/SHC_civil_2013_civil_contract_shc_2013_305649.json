@@ -8,8 +8,11 @@
   "num_chunks": 4,
   "case_number": "Constitution Petition No. D-14 of 2026",
   "date_of_order": "17-02-2026",
-  "judge": "JUDGE Zulfiqar",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2013 SCMR 304",
     "2020 SCMR 2068",
@@ -24,7 +27,18 @@
     "2015 SCMR 1257",
     "2005 SCMR 445"
   ],
-  "parties": [],
+  "parties": [
+    "Ashraf Ali Shah",
+    "Muhammad Arab Chandio",
+    "The State",
+    "Mr. Riaz Hussain Khoso",
+    "Mr. Liaquat Ali Shar",
+    "Fayaz Hussain Kolachi",
+    "Sanaullah Shah",
+    "Vijay",
+    "Asif Raza",
+    "Abdul Basit"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

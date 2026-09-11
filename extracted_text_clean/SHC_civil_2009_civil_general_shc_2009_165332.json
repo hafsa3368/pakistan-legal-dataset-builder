@@ -6,9 +6,9 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "Constitutional Petition is also not",
+  "case_number": "C. P. No.S-595 of 2010",
   "date_of_order": "15.04.2022",
-  "judge": "",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "Section 15",
     "section 20 of the Sindh Rented Premises Ordinance",
@@ -32,7 +32,12 @@
     "1995 MLD 1971",
     "PLD 2003 Karachi 156"
   ],
-  "parties": [],
+  "parties": [
+    "Muneer Ahmed Baluch & others",
+    "Khuda Bux Lashari & others",
+    "Muneer Ahmed & others",
+    "Abdul Paind Pathan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

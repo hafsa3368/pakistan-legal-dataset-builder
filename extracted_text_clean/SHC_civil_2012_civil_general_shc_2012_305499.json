@@ -6,10 +6,13 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitution2. In so far as the plea for de novo",
+  "case_number": "C.P. No.S-711 of 2021",
   "date_of_order": "16.02.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Aadil Arab",
+  "sections_cited": [
+    "Article 199 of the Constitution",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "1996 SCMR 1178",
     "2022 YLR 638",
@@ -19,7 +22,10 @@
     "2011 SCMR 1990",
     "2001 SCMR 574"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Mutalib, Advocate for the petitioner",
+    "Mr. Qamar Ahmed Shaikh, Advocate for the respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

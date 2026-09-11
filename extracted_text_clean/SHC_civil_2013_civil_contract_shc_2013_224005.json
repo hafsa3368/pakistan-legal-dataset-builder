@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "CP. No. D-886 of 2023",
   "date_of_order": "18.12.2024",
-  "judge": "JUDGE Shafi",
+  "judge": "Muhammad Karim Khan Agha",
   "sections_cited": [
     "section 15 of EPZA Ordinance"
   ],
@@ -24,7 +24,11 @@
     "PLD 2010 SC 676",
     "PLD 2024 SC 515"
   ],
-  "parties": [],
+  "parties": [
+    "Khair Nawaz Khan",
+    "Federation of Pakistan",
+    "other respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

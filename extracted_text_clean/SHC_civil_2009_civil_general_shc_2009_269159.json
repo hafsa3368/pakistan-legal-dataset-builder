@@ -6,12 +6,20 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P.No.D-855 of 2022",
   "date_of_order": "15.05.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Liaquat Ali Shar",
+    "Mr. Muhammad Haleem Buriro",
+    "Mr. Riaz Hussain Khoso",
+    "Mr. Rashid Ali Tunio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

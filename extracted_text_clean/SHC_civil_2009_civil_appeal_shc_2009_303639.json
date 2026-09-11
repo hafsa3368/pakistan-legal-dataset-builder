@@ -8,12 +8,16 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "28.01.2026",
-  "judge": "",
+  "judge": "Ghulam Rasool Korai",
   "sections_cited": [
     "Section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Standard Chartered Bank Limited",
+    "Syed Ahmed Zubair and Another",
+    "Syed Ahmed Obaid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

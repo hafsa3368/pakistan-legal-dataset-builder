@@ -9,9 +9,15 @@
   "case_number": "Constitutional Petition No. D-1799 of 2024",
   "date_of_order": "07.11.2025",
   "judge": "Shafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Abu Azam Khan & others",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

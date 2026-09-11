@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "10.02.2018",
-  "judge": "Shafi Muhammad/PA",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 22 of the Karachi Port Trust Act"
   ],
@@ -19,7 +19,12 @@
     "2016 SCMR 2146",
     "PLD 2012 SC 132"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Afzal Kousar",
+    "Federation of Pakistan and others",
+    "Hayat Khan and 4 others",
+    "Sabir Hussain and 5 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

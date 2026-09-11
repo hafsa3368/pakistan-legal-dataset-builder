@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1019 of 2025",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "17.12.2025",
+  "judge": "",
   "sections_cited": [
     "Section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asif Ali Rajput Bhatti",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

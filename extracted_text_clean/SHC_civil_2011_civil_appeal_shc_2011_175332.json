@@ -34,7 +34,13 @@
     "PLD 1953 FC 214",
     "PLD 1952 PC 109"
   ],
-  "parties": [],
+  "parties": [
+    "Haji Khan",
+    "Nasir Khan",
+    "Raja Nadeem Ashraf",
+    "The State",
+    "ANF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

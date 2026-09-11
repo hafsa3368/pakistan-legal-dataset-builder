@@ -9,7 +9,10 @@
   "case_number": "",
   "date_of_order": "12-04-2022",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 18 of the Land Acquisition Act",
+    "U/S 18 of Land Acquisition Act"
+  ],
   "citations": [
     "2004 CLC 1048",
     "2015 YLR 2599",
@@ -17,7 +20,18 @@
     "2001 YLR 618",
     "1980 CLC 1666"
   ],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Abdul Tawab",
+    "others",
+    "Ahmed Ali Shahani",
+    "Moula Dad Durrani",
+    "Assistant Commissioner",
+    "Pano Akil",
+    "Tariq G. Hanif Mangi",
+    "Advocate",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

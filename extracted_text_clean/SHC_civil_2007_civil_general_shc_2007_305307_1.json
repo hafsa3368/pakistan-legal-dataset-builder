@@ -6,14 +6,25 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "constraints cannot",
-  "date_of_order": "",
-  "judge": "Shafi JUDGE",
-  "sections_cited": [],
+  "case_number": "C.P. No.D-2566 of 2025",
+  "date_of_order": "09.02.2026",
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2007 SC 35"
   ],
-  "parties": [],
+  "parties": [
+    "Nadeem Akhtar Siddiqui",
+    "Province of Sindh",
+    "Syed Habib-ur-Rehman",
+    "Province of Sindh",
+    "Shahroz Khan",
+    "Province of Sindh",
+    "Jamal Yousuf",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

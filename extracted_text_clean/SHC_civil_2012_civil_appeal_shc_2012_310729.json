@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Appeal No.702 of 2024",
   "date_of_order": "16.04.2026",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Sections 409, 420, 468, 471, 109 & 34 PPC",
     "Section 5",
@@ -33,7 +33,11 @@
     "2024 SCMR 51",
     "2024 SCMR 156"
   ],
-  "parties": [],
+  "parties": [
+    "Naushad Ahmed",
+    "The State",
+    "Muhammad Ismail s/o Rasool Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

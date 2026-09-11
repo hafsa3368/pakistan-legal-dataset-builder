@@ -6,12 +6,18 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-1688 of 2012",
   "date_of_order": "06.08.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Allah Bachayo Soomro",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

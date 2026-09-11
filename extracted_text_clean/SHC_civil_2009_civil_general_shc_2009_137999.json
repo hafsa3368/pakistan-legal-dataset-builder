@@ -8,12 +8,31 @@
   "num_chunks": 14,
   "case_number": "Civil Suit No.886 of 2007",
   "date_of_order": "28.01.2019",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 39"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Zaibunisa",
+    "Iqbal Ahmad",
+    "Nemo",
+    "M/s. Adnan Ahmed and Bilawal Channa",
+    "Hafiz Brothers (Pvt.) Ltd.",
+    "Pakistan Industrial Credit and Investment Corporation Ltd.",
+    "Muhammad Amin",
+    "Zari Taraqiati Bank Limited",
+    "Ali Muhammad",
+    "Hussain Bakhsh",
+    "Khuda Bakhsh",
+    "Rehmatullah",
+    "Muhammad Younas",
+    "Abdul Rehman",
+    "Muhammad Akbar Shah",
+    "Mansoor Ashraf",
+    "Tawseen Abdul Haleem",
+    "Abdul Majeed Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

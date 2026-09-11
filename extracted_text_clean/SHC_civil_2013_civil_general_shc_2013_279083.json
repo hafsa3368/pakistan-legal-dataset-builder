@@ -6,14 +6,18 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-3930 of 2025",
   "date_of_order": "21.08.2025",
   "judge": "",
   "sections_cited": [
     "Section 120"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "TMC Gadap",
+    "Province of Sindh",
+    "TMC Ibrahim Hyderi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

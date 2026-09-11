@@ -7,15 +7,18 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "02-03-2018",
+  "judge": "ADNAN IQBAL CHAUDHRY",
   "sections_cited": [
     "section 2"
   ],
   "citations": [
     "PLD 1989 Kar 304"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Mustafa Hussain",
+    "Adnan Iqbal Chaudhry"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

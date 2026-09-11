@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 224 of 2015",
-  "date_of_order": "",
+  "date_of_order": "02.11.2022",
   "judge": "",
   "sections_cited": [
     "section 1"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Appealant 1",
+    "Appealant 2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

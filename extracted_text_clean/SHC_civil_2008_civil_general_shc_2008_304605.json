@@ -6,12 +6,15 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D-173 of 2008",
   "date_of_order": "06.02.2026",
-  "judge": "JUDGE TariqAli/PS",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

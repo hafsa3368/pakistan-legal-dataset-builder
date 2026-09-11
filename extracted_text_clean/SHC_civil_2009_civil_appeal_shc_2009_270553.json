@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Jail Appeal No.887 of 2019",
   "date_of_order": "29.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 409/420 PPC",
     "Section 5",
@@ -21,7 +21,11 @@
     "Section 21"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Abid",
+    "The State",
+    "Utility Stores Corporation of Pakistan (Pvt.) Ltd. (USC)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

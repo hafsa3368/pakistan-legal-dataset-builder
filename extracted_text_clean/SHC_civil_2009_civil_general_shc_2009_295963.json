@@ -6,10 +6,13 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitution is a sine qua non",
+  "case_number": "",
   "date_of_order": "28-11-2025",
   "judge": "Adnan Iqbal Chaudhry Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 1998 SC 161",
     "PLD 2009 Karachi 408"

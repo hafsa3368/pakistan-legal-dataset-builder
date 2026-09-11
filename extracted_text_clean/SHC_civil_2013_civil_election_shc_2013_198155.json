@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Election Appeal No. 11 of 2023",
   "date_of_order": "02.06.2023",
-  "judge": "",
+  "judge": "MOHAMMAD ABDUR RAHMAN",
   "sections_cited": [
     "Section 54 of the Local Government Act",
     "Section 47 of the Sindh Local Government Act",
@@ -22,7 +22,14 @@
   "citations": [
     "PLD 1997 SC 84"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Irshad Ali Shar",
+    "Mr. Syed Mohsin Khan",
+    "Abdullah Hanjrah",
+    "Pakistan Election Commission",
+    "KMC",
+    "Karachi Metropolitan Corporation"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

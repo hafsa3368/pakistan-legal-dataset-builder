@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Petition No.427/2010",
   "date_of_order": "26.01.2021",
-  "judge": "JUDGE Nadir",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "section 18 of the Act"
   ],
@@ -19,7 +19,13 @@
     "2014 SCMR 1336",
     "PLD 2010 SC 676"
   ],
-  "parties": [],
+  "parties": [
+    "Matloob Ahmed Shafiqui",
+    "06 others",
+    "The President",
+    "Zarai Taraqiati Bank",
+    "02 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

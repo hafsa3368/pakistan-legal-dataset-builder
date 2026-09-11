@@ -8,12 +8,18 @@
   "num_chunks": 3,
   "case_number": "Civil Revision Application No. 310/2011",
   "date_of_order": "18.11.2025",
-  "judge": "",
+  "judge": "Zafar Iqbal Seenharo",
   "sections_cited": [
     "Section 96"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Wahid Khan Abro",
+    "Muhammad Ibrahim",
+    "the wife and eight children of Muhammad Ibrahim",
+    "the Province of Sindh",
+    "the legal heirs of Abdul Wahid Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

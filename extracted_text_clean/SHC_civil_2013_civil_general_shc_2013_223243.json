@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "04.12.2024",
-  "judge": "",
+  "judge": "Salahuddin Panhwar,",
   "sections_cited": [
     "section 324, 353, 411, 186, 34 PPC",
     "section 7",
@@ -25,7 +25,13 @@
     "2018 P.Cr.L.J. 959",
     "PLD 2016 SC 951"
   ],
-  "parties": [],
+  "parties": [
+    "Appellant Noor Ali",
+    "Police",
+    "Yaseen",
+    "M/s. Javed Haleem and Shahiryar Ali advocates",
+    "Mr. Abrar Ali Khichi, APG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

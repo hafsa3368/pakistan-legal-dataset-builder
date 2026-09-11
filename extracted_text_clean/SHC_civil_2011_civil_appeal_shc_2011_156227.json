@@ -8,12 +8,18 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "01.12.2021",
-  "judge": "Adnan Iqbal Chaudhry Date",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 33 of EOB Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Imran Ali",
+    "Muhammad Jalil",
+    "Mst. Akbaro",
+    "Textile Corporation of Pakistan (Ltd.)",
+    "Bajwa Textile Mills Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

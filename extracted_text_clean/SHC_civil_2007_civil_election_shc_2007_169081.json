@@ -6,12 +6,23 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-4104 of 2022",
   "date_of_order": "20.07.2022",
-  "judge": "JUDGE MUBASHIR",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "PLD 2007 Supreme Court 277",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Raja Rashid Ali, Advocate",
+    "Mr. Saifullah, Assistant, Advocate General, Sindh",
+    "M/s. Abdullah Hanjrah and Sarmad Sarwar, Law Officers, ECP",
+    "Mr. Abdul Wahab Balouch, DAG",
+    "the Petitioners in all the Petitions",
+    "the Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

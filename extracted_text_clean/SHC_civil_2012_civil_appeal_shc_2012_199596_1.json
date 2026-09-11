@@ -6,9 +6,9 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "construct a project known",
+  "case_number": "HCA No. 251 of 2023",
   "date_of_order": "19.06.2023",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman,",
   "sections_cited": [
     "Section 15 of the Code",
     "Sections 94 and 151 of the Code",
@@ -16,7 +16,10 @@
     "section 3 and 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shaikh Anjum Rehmat & Others",
+    "Komail Naqvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,18 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "CP. No. D-1015 of 2014",
   "date_of_order": "10.04.2025",
   "judge": "Muhammad Karim Khan Agha Mr",
   "sections_cited": [],
   "citations": [
     "2017 SCMR 2010"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Muhammad Nawaz",
+    "Federation of Pakistan",
+    "DHA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

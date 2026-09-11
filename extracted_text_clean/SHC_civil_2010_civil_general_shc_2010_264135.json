@@ -6,15 +6,25 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No.9251/2025",
   "date_of_order": "13.05.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mansoor Ali Shah",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "CPLA 824-K of 2023"
+  ],
   "citations": [
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Mansoor Ali Shah J",
+    "CIR",
+    "Mekotex",
+    "PBC & Others",
+    "Muhammad Fiaz Khan",
+    "Ajmer Khan & Another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

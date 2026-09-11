@@ -8,7 +8,7 @@
   "num_chunks": 21,
   "case_number": "Civil Petition No.1485/2013",
   "date_of_order": "05.12.2018",
-  "judge": "Nadir/PA",
+  "judge": "Irfan Saadat Khan",
   "sections_cited": [
     "Section 2",
     "Section 11A"
@@ -18,7 +18,28 @@
     "2015 SCMR 456",
     "2010 SCMR 378"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "FIA",
+    "Rana Ghulam Shabbir",
+    "Muhammad Shehrayar Khan",
+    "Ali Sher Jakhrani",
+    "Mumtaz-ul-Hassan",
+    "Ms. Lubna Tiwana",
+    "Mirza Tanveer Ahmed",
+    "Mr. Iqbal M. Khurram",
+    "Malik Naeem Iqbal",
+    "Faizan H. Memon",
+    "Khurram Memon",
+    "Muhammad Anwar",
+    "Muhammad Ishaq",
+    "Mr. Abdul Salam Memon",
+    "Muhammad Nishat Warsi",
+    "Mr. Muhammad Arshad Khan Tanoli",
+    "Danish Rasheed",
+    "M/s. M.M Aqil Awan",
+    "Mr. Adnan-ul-Karim Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

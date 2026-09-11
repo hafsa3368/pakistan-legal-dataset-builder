@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "",
   "date_of_order": "13.10.2023",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 6",
     "Section 1"
@@ -16,7 +16,10 @@
   "citations": [
     "PLD 2014 SINDH 349"
   ],
-  "parties": [],
+  "parties": [
+    "Virgoz Oils & Fats Pte. Limited",
+    "Faisal Exports (Pvt.) Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

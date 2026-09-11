@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Civil Appeals No.160",
   "date_of_order": "30.09.2025",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Section 42, 54 and 56 of the Specific Relief Act",
     "Section 96 of the Code",
@@ -18,7 +18,15 @@
   "citations": [
     "1996 SCMR 336"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Waseem",
+    "Mst. Jameela Bano & Others",
+    "Noor Muhammad & Others",
+    "Abdul Karim & Others",
+    "KMC",
+    "Muhammad Aqil Zaidi",
+    "Altamash Arab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

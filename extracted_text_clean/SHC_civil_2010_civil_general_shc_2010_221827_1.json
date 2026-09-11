@@ -6,12 +6,19 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-605 of 2024",
   "date_of_order": "31.10.2024",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "SPPRA Rules, 2010",
+    "Rule 31"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ismail Bhutto",
+    "Addl. A.G Sindh",
+    "Respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

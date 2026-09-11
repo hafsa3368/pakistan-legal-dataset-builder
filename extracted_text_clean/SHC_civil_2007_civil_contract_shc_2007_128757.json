@@ -6,9 +6,9 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "civil jurisdiction on this High Court. Now",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "09-07-2018",
+  "judge": "ADNAN IQBAL CHAUDHRY",
   "sections_cited": [
     "Section 16",
     "Section 120 CPC",
@@ -30,7 +30,10 @@
     "PLD 1994 Kar 388",
     "PLD 2016 SC 174"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ayub Gabol",
+    "Province of Sindh and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

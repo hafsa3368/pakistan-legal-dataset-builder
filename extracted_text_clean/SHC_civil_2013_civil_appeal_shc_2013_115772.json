@@ -11,7 +11,12 @@
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Saleem Hashmi",
+    "Mr. Allah Bachayo Soomro",
+    "Mushtaque Ahmed",
+    "Muhammad Ayoub"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

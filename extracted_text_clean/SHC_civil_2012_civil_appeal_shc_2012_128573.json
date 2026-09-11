@@ -8,14 +8,22 @@
   "num_chunks": 19,
   "case_number": "civil Petition No.114/2013",
   "date_of_order": "10.05.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ARSHAD HUSSAIN KHAN",
+  "sections_cited": [
+    "u/s 21",
+    "u/s 146"
+  ],
   "citations": [
     "2014 SCMR 1481",
     "PLD 2015 SC 327",
     "PLD 2013 SC 364"
   ],
-  "parties": [],
+  "parties": [
+    "Saeeduddin Qureshi through LRs. Ishna Saeed & Mst. Imtiaz Bibi",
+    "Mrs. Bushra Qureshi & Dr. Waqar Saeed Through",
+    "Sardar Muhammad Riaz",
+    "Sardar Riaz Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

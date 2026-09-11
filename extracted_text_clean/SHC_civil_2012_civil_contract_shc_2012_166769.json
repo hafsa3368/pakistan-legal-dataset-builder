@@ -6,8 +6,8 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constructors versus Khairpur Special Economic",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "23-05-2022",
   "judge": "Adnan Iqbal Chaudhry Suit No",
   "sections_cited": [
     "section 20 of the Arbitration Act",
@@ -25,7 +25,13 @@
     "2011 CLC 1176",
     "PLD 2017 SC 53"
   ],
-  "parties": [],
+  "parties": [
+    "Ever Shine Constructors",
+    "Khairpur Special Economic Zone",
+    "Muhammad Masood Khan",
+    "Zakaullah Rana",
+    "Ashfaque Nabi Qazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

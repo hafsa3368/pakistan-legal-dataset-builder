@@ -6,12 +6,17 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "HCA No.451 of 2024",
   "date_of_order": "03.04.2026",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Industrial Management & Investment Company Ltd.",
+    "Port Qasim Authority",
+    "M/s. Hassan Ali Rice Export Co. Ltd.",
+    "KE"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

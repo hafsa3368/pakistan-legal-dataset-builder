@@ -6,9 +6,9 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "MA No.8436 of 2015",
   "date_of_order": "23.01.2017",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 151 of CPC",
     "Section 3",
@@ -18,7 +18,14 @@
   "citations": [
     "2004 SCMR 1934"
   ],
-  "parties": [],
+  "parties": [
+    "Tariq Rafi",
+    "Topgen Health Care/T.G. Pharma and others",
+    "ORIX leasing",
+    "Tariq Rafi",
+    "Abdul Wajid Wyne",
+    "Chaudhary Atif Rafiq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

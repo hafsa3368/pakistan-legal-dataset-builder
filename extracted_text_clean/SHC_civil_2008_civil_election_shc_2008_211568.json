@@ -6,9 +6,9 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitution and the rejection of the nomination",
+  "case_number": "ELECTION APPEAL NO.63 OF 2024",
   "date_of_order": "29.11.2023",
-  "judge": "Jamil/C",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Sections 231 and 232 of the Election Act",
     "section 12 of the Act",
@@ -28,7 +28,15 @@
     "PLD 2013 Lahore 509",
     "PLD 2003 Lahore 165"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Fahmida Mirza",
+    "Dr. Zulfiqar Ali Mirza",
+    "Pangrio Sugar Mills Ltd",
+    "Mirza Sugar Mills Ltd",
+    "State Bank of Pakistan",
+    "Returning Officer",
+    "Sajjad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

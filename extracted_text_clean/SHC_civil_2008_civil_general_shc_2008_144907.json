@@ -6,9 +6,9 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "MA No. 8814/2017",
+  "date_of_order": "22.04.2020",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 10",
     "section 358",
@@ -23,7 +23,11 @@
   "citations": [
     "PLD 1995 SC 362"
   ],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "Pakistan Textile City Limited",
+    "Port Qasim Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

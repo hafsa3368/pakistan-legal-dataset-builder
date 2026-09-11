@@ -9,7 +9,10 @@
   "case_number": "Constitutional Petition No. D-5575 of 2016",
   "date_of_order": "25.03.2013",
   "judge": "Head of Constitutional Benches Shafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 977",
     "2020 SCMR 2068",
@@ -18,7 +21,13 @@
     "2022 SCMR 406",
     "2022 SCMR 566"
   ],
-  "parties": [],
+  "parties": [
+    "Syed SajjadAli Shah & others",
+    "Chief Secretary Sindh & others",
+    "Mr. Abdul Samad Memo",
+    "Mr. Ali Safdar Depar",
+    "Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,22 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "High Court Appeal No.297 of 2018",
   "date_of_order": "13.03.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [],
   "citations": [
     "1988 CLC 1489"
   ],
-  "parties": [],
+  "parties": [
+    "Byco Petroleum Pakistan Limited",
+    "Pakistan Petroleum Limited",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Omar Sial",
+    "Mr. Sameer Tayebaly",
+    "Mr. Ijaz Ahmed Zahid",
+    "Muhammad Shafi Siddiqui, J."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

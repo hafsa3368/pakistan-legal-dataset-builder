@@ -6,12 +6,20 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Civil Judge Karachi South in suit No. 607/1983",
+  "case_number": "C.P. No. D-3898 of 2013",
   "date_of_order": "07.05.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Karimjee Ibrahimjee & sons",
+    "City District Government Karachi",
+    "KDA",
+    "KMC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

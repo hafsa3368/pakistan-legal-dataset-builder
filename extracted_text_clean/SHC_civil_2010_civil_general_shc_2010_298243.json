@@ -6,12 +6,22 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No.D-117 of 2023",
   "date_of_order": "24.11.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "Article 4",
+    "Article 9",
+    "Article 10",
+    "Article 18",
+    "Article 25"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Al-Fazal Public Elementary School",
+    "Province of Sindh",
+    "Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

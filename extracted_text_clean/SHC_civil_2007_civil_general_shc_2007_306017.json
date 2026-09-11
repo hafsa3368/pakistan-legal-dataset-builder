@@ -8,14 +8,21 @@
   "num_chunks": 4,
   "case_number": "constitutional petition No. D-51/2007",
   "date_of_order": "18.02.2026",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 15",
     "Section 28 of the Privatization Commission Ordinance",
     "Section 28 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sikandar Ali Sial & others",
+    "Federation of Pakistan & others",
+    "Fauji Fertilizer Company Limited (FFCL)",
+    "National Fertilizer Corporation Limited (NFCL)",
+    "Privatization Commission of Pakistan (PC)",
+    "Pak Saudi Fertilizer Limited (PSFL)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

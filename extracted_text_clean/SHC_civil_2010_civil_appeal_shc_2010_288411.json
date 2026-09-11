@@ -6,9 +6,9 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Appeal No. S-43 of 2024",
   "date_of_order": "23.10.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 410 of the Criminal Procedure Code",
     "Section 324 PPC",
@@ -18,7 +18,13 @@
     "Section 426 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sajid Ali",
+    "The State",
+    "Muhammad Azam",
+    "Muhammad Anas",
+    "Adnan @ Battu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

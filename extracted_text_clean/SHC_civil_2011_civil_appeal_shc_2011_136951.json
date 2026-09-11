@@ -8,12 +8,19 @@
   "num_chunks": 5,
   "case_number": "Civil Appeal No.42-K/2011",
   "date_of_order": "14.03.2019",
-  "judge": "JUDGE Irfan Ali",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 3 & 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Dodo and others",
+    "Mr. Bharat Kumar Suthar",
+    "Mr. Allah Bachayo Soomro",
+    "Mr. Dolat Ram",
+    "STEVTA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

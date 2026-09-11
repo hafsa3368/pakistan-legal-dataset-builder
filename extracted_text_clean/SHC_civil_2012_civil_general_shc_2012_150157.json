@@ -6,14 +6,24 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "T.A. No. 05 of 2021",
   "date_of_order": "08.03.2021",
   "judge": "Tufail",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2012 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulamullah Memon",
+    "Province of Sindh and others",
+    "Re-Niaz Hussain and others",
+    "Federation of Pakistan",
+    "Pakistan Newspaper Society and others",
+    "the respondents / defendants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

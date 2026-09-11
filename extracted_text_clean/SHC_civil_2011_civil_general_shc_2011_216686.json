@@ -8,12 +8,23 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No D-6228 of 2017",
   "date_of_order": "04.06.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Aqeel Ahmed Abbasi",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "PLD 1999 SC 504"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner, a retired Judicial Officer",
+    "Police Department",
+    "Government of Sindh",
+    "Mr. Saifullah, Asst. A.G. Sindh",
+    "Advocate General Sindh",
+    "Arshad Noor Khan",
+    "Government of Sindh through Home Secretary"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

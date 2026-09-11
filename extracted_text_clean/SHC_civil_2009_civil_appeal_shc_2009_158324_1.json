@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "27.07.2009",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Amjad Ali Keerio",
+    "Mr. Mehboob Ali Wassan",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

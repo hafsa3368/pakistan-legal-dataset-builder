@@ -6,12 +6,19 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-4701 of 2021",
   "date_of_order": "12.08.2021",
-  "judge": "JUDGE Khuhro/PA",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "SRO No.499(I)/2009"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imran Iqbal Khan",
+    "Mr. Muhammad Khalil Dogar",
+    "Mr. Kafeel Ahmed Abbasi",
+    "Mr. Hussain Bohra"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

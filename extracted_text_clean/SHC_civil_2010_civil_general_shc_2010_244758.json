@@ -6,15 +6,26 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No.2607/20025",
   "date_of_order": "10.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 397 CrPC",
+    "Section 482 CrPC"
+  ],
   "citations": [
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "PBC & Others",
+    "Ajmer Khan & Another",
+    "Mekotex",
+    "Syed Iqbal Hussain Shah Gillani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "15.12.2025",
-  "judge": "JUDGE Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "u/s 12(1)(c) of the Ordinance 2002"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed Dahri",
+    "Mr. S.M. Naveed Farooqui",
+    "Mr. Irfan Ali Bhughio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

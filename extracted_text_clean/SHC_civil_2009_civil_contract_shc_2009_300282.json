@@ -8,12 +8,16 @@
   "num_chunks": 8,
   "case_number": "Civil Appeal No.39 of 2021",
   "date_of_order": "17.12.2025",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 100"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ilyas since deceased",
+    "Awais Ali",
+    "5 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

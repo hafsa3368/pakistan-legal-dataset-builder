@@ -30,7 +30,11 @@
     "PLD 2006 Karachi 404",
     "PLD 1971 Lahore 77"
   ],
-  "parties": [],
+  "parties": [
+    "Mohsin Ahmad",
+    "Agha Asad Abbas Khan",
+    "Nasreen Irfan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

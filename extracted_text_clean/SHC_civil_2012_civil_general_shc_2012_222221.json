@@ -6,9 +6,9 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "misconstrued and no such",
+  "case_number": "",
   "date_of_order": "28.11.2012",
-  "judge": "",
+  "judge": "MOHAMMMAD ABDUR RAHMAN",
   "sections_cited": [
     "Section 10",
     "Section 10 of the Code"
@@ -17,7 +17,12 @@
     "2019 SCMR 1146",
     "PLD 2018 SC 468"
   ],
-  "parties": [],
+  "parties": [
+    "Plaintiff",
+    "Defendant",
+    "BoR",
+    "Government/Revenue Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

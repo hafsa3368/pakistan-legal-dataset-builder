@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 5,
   "case_number": "Constitutional Petition No. D-2044 of 2022",
-  "date_of_order": "",
+  "date_of_order": "11.08.2025",
   "judge": "Karim Memon",
   "sections_cited": [
     "Section 24-A of the General Clauses Act",
@@ -18,7 +18,13 @@
     "2006 SCMR 60",
     "2017 SCMR 969"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Haq Nawaz Talpur",
+    "Ms. Wajiha Mehdi",
+    "Assistant Attorney General",
+    "Syed Meeral Shah Bukhari",
+    "Special Prosecutor NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

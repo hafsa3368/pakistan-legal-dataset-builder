@@ -6,15 +6,21 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "CP No.D-5998 of 2024",
   "date_of_order": "18.12.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ijaz Ul Ahsan",
+  "sections_cited": [
+    "Section 9 of Ordinance No.LIV of 1965"
+  ],
   "citations": [
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "25 individuals (collectively) vs. Government of Sindh",
+    "Syed Iqbal Hussain Shah Gillani vs. PBC & Others",
+    "Muhammad Fiaz Khan vs. Ajmer Khan & Another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

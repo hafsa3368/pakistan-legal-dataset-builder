@@ -8,10 +8,17 @@
   "num_chunks": 6,
   "case_number": "Civil Suit No.1689 of 2008",
   "date_of_order": "27.02.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Saira Khatoon",
+    "Syed Muhammad Ashraf",
+    "Syed Asif Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitution Petition No. D",
+  "case_number": "",
   "date_of_order": "25-05-2022",
   "judge": "CHIEF JUSTICE",
   "sections_cited": [
@@ -19,7 +19,11 @@
     "section 111"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Usman",
+    "Trustees of the Port of Karachi",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

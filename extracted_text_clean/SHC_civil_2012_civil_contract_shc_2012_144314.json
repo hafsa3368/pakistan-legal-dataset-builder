@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Appeal No.03/2020",
   "date_of_order": "09-03-2020",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 126 of the Contract Act"
   ],
@@ -20,7 +20,12 @@
     "PLD 2004 SC 925",
     "PLD 2015 Islamabad 13"
   ],
-  "parties": [],
+  "parties": [
+    "Husein Industries Ltd.",
+    "Sui Southern Gas Company Ltd.",
+    "Nemo",
+    "HBL"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

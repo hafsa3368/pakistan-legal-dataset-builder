@@ -6,12 +6,19 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.6425/2025",
   "date_of_order": "15.04.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faizan Hussain Memon",
+    "Mr. Sandeep Malani",
+    "Syed Qamar-uz-Zaman Shah",
+    "Mr. Altamash Arab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

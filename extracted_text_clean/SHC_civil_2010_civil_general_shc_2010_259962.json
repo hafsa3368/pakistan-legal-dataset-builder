@@ -6,10 +6,14 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "criminal proceedings could not",
+  "case_number": "",
   "date_of_order": "29.04.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 196 CrPC",
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 MLD 882",
     "2001 YLR 916",
@@ -19,7 +23,13 @@
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "The petitioner, stated to be a society",
+    "Mr. Ali Ahmed Palh, advocate for the petitioners",
+    "Mr. Sandeep Malani, Additional Advocate General Sindh",
+    "Mr. Mushtaque Ahmed Garwan, Assistant Director, Agriculture Supply and Price Department, Sindh",
+    "Ajmer Khan & Another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

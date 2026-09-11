@@ -6,14 +6,19 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "constitutional jurisdiction cannot",
+  "case_number": "C.P No.S-98 of 2026",
   "date_of_order": "30.01.2026",
   "judge": "Ayaz Gul",
   "sections_cited": [
     "Section 14 of the West Pakistan Family Courts Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sajid Rasheed",
+    "XVIth Civil & Family Judge Central at Karachi",
+    "Respondent No.2",
+    "Respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

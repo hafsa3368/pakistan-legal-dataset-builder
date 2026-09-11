@@ -6,12 +6,20 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-1403 of 2013",
   "date_of_order": "03.09.2020",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Pervez Tarique Tagar",
+    "Mr. Allah Bachayo Soomro",
+    "Government of Sindh",
+    "Official Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,22 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-1085 of 2013",
   "date_of_order": "05.12.2019",
-  "judge": "JUDGE",
+  "judge": "Nadeem Akhtar",
   "sections_cited": [
     "section 17"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Nadeem Akhtar",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Muhammad Arshad S. Pathan",
+    "Mr. Allah Bachayo Soomro",
+    "Muhammad Ismail Siyal",
+    "Gul Sher Mastoi",
+    "HESCO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

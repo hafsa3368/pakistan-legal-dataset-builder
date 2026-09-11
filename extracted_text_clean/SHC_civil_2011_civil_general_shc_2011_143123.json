@@ -8,15 +8,21 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No. 378 of 2011",
   "date_of_order": "09.05.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Yousuf Ali Sayeed",
+  "sections_cited": [
+    "Section 23 Rule 1 CPC"
+  ],
   "citations": [
     "2011 SCMR 551",
     "2017 SCMR 2005",
     "PLD 2001 SC 325",
     "PLD 2003 Karachi 405"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Qudus Alvi",
+    "The NED University of Engineering & Technology",
+    "The NED University of Engineering Nos. 1 and 2 and Technology"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

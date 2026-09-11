@@ -6,9 +6,9 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 19,
-  "case_number": "constrained to once again file another",
+  "case_number": "HCA. NO. 282 OF 2015",
   "date_of_order": "07.03.2017",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 9",
     "Section 60",
@@ -26,7 +26,16 @@
     "PLD 1993 SC 109",
     "PLD 1959 Dacca 330"
   ],
-  "parties": [],
+  "parties": [
+    "Bank Alfalah Limited",
+    "Interglobe Commerce Pakistan (Pvt) Ltd & others",
+    "Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology (SZABIST)",
+    "CALLMATE TELIPS TELECOM LIMITED",
+    "Muhammad Ajmal Ansari",
+    "Hassan Jamil Ansari",
+    "Yuba Jamil Ansari",
+    "Ahmed Jamil Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

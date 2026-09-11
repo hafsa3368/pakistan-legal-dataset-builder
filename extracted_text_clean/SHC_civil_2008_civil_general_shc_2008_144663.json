@@ -6,10 +6,13 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "17.03.2020",
   "judge": "Nadeem Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 1272",
     "2000 SCMR 1864",
@@ -17,7 +20,15 @@
     "2010 SCMR 1399",
     "2018 SCMR 1181"
   ],
-  "parties": [],
+  "parties": [
+    "Farzana Shafique",
+    "Federation of Pakistan",
+    "Pakistan Television Corporation Limited",
+    "PTVC",
+    "Mr. Muhammad Kamran Mirza",
+    "Mr. Muhammad Asghar Malik",
+    "Mr. Muhammad Nishat Warsi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

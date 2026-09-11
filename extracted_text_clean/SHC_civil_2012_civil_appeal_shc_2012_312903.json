@@ -8,13 +8,17 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "06.05.2026",
-  "judge": "",
+  "judge": "Muhammad Siddique Soomro",
   "sections_cited": [
     "Section 10 of the Ordinance",
     "Section 10"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "Kazi Muhammad Umar",
+    "Shahzad Ahmed Narejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

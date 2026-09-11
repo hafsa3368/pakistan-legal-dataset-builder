@@ -19,7 +19,12 @@
     "1995 CLC 1332",
     "PLD 2014 Sindh 6"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Mustafa",
+    "Syed Azfar Ali",
+    "Port Qasim Authority",
+    "Federal Services Tribunal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

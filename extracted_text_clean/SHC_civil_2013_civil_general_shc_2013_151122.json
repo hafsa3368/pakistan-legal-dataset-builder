@@ -6,14 +6,18 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P. No. S-984 of 2020",
   "date_of_order": "30-03-2021",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 16"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem Nagori",
+    "Zahid Hussain",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

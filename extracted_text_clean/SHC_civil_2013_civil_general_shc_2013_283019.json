@@ -6,12 +6,16 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-718 of 2018",
   "date_of_order": "09.10.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Habibullah G. Ghouri",
+    "Muhammad Ashique Dhamraho",
+    "Liaquat Ali Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,21 @@
   "year": "2006",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "construction of townhouses on Plot Nos",
+  "case_number": "C.P. No. D-1073 of 2019",
   "date_of_order": "08.04.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 199 of the Constitution of the Islamic Republic of Pakistan 1973",
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Suhail Yousuf",
+    "Province of Sindh",
+    "SBCA",
+    "KBCA",
+    "Daily Jang"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

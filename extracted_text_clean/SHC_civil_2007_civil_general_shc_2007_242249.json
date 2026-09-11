@@ -6,9 +6,9 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "CP. No. D-2925 of 2013",
   "date_of_order": "28.01.2025",
-  "judge": "JUDGE Shafi",
+  "judge": "Muhammad Karim Khan Agha",
   "sections_cited": [],
   "citations": [
     "2003 SCMR 1128",
@@ -16,7 +16,12 @@
     "1991 SCMR 255",
     "2010 SCMR 1399"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Israr Khan",
+    "Federation of Pakistan",
+    "Pakistan Telecommunication Company Limited",
+    "PTCL"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

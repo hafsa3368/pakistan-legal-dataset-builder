@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Civil Appeals No. 247-K",
   "date_of_order": "17.12.2018",
-  "judge": "Nadir/PA",
+  "judge": "Irfan Saadat Khan",
   "sections_cited": [
     "Section 23 and 24 of KPT Act"
   ],
@@ -22,7 +22,12 @@
     "2014 SCMR 1189",
     "2016 SCMR 2125"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Irfan Saadat Khan",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Nazir Ahmed Soomro",
+    "Federation of Pakistan and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

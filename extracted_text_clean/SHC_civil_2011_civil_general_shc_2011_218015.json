@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-200 of 2011",
   "date_of_order": "05.10.2011",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Uzair Shaikh",
+    "Mr. Ashfaque Ahmed Abro",
+    "Mr. Rajib Ali Malano"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

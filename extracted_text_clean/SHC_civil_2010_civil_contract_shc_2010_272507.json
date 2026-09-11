@@ -6,12 +6,20 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitution is not",
+  "case_number": "",
   "date_of_order": "10.06.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Arbab Ali Hakro,",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nadir Ali Mahar",
+    "Province of Sindh",
+    "M/s Abdul Hafeez Kolachi",
+    "M/s Ghulam Kamber & Brothers"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

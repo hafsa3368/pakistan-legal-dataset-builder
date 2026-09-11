@@ -9,9 +9,19 @@
   "case_number": "Constitutional Petition No.1662 of 2013",
   "date_of_order": "03.03.2026",
   "judge": "Arbab Ali Hakro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Farkhanda Yasmeen Sahar",
+    "Province of Sindh and another",
+    "Mr. Manzoor Ahmed Panhwar",
+    "Mr. Rafique Ahmed Dahri",
+    "Mukhtiar Ali",
+    "Tando Muhammad Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

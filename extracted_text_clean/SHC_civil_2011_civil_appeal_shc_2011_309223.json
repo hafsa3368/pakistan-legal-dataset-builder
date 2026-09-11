@@ -6,12 +6,20 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "constructed on Plot No.18/12",
+  "case_number": "",
   "date_of_order": "01.04.2026",
-  "judge": "JUDGE KAMRAN/PS",
-  "sections_cited": [],
+  "judge": "Arshad Hussain Khan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Akhter S/o (Late) Ghulam Rasool & others",
+    "Muhammad Ashraf S/o Mian Karam Din & others",
+    "Mr. Farrukh Usman",
+    "Ms. Afsheen Aman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,28 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "MA No.3291/2025",
   "date_of_order": "18.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Rashid Anwer and Yousuf Khalid Anwer",
+    "Mr. Ali Nawaz Khuhawar",
+    "Mr. Waseem Ahmed",
+    "Messrs. Faisal Riaz Virk",
+    "Syed Asif Haider",
+    "Muhammad Zubair",
+    "Mehtab Khan Abbasi",
+    "Muhammad Irfan Siddiqui",
+    "Abdul Quddos",
+    "Adnan Arain",
+    "Ghulam Nabi",
+    "Zahid Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

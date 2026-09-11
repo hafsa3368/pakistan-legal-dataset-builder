@@ -9,9 +9,22 @@
   "case_number": "",
   "date_of_order": "30.10.2025",
   "judge": "Muhammad Saleem Jessar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amir Farooque Khaliji & others",
+    "Federation of Pakistan & others",
+    "HESCO",
+    "MEPCO",
+    "LESCO",
+    "PEPCO",
+    "ISECO/NTDC",
+    "GEPCO",
+    "JPCL (Jamshoro)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

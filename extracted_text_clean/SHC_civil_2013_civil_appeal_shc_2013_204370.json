@@ -8,8 +8,12 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "25.10.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "S 186 CrPC",
+    "Sindh Payment of Wages Act",
+    "S 498 Cr.P.C."
+  ],
   "citations": [
     "2020 CLC 131",
     "1996 SCMR 1165",
@@ -17,7 +21,11 @@
     "1991 SCMR 2136",
     "PLD 1974 SC 139"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Faran Sugar Mill Ltd.",
+    "Ms. Nasim Abbas",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,23 @@
   "num_chunks": 4,
   "case_number": "Miscellaneous Application No.6002 of 2010",
   "date_of_order": "05.09.2019",
-  "judge": "JUDGE Nadir/PA",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2006 SC 602",
     "PLD 2010 SC 676"
   ],
-  "parties": [],
+  "parties": [
+    "Raees Ahmed Ansari",
+    "Pakistan Steel Mill",
+    "2 others",
+    "Pakistan Steel Mill",
+    "Mr. Muhammad Nishat Warsi",
+    "Mr. Sannaullah Noor Guri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

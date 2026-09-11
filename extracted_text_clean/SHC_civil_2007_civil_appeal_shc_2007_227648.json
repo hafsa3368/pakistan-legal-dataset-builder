@@ -6,12 +6,24 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "HCA No.239 of 2007",
   "date_of_order": "13.01.2025",
-  "judge": "JUDGE Asif",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Tahmasp Rasheed Razvi, Abbas Rasheed Razvi and Shoaib Khatiyan",
+    "M/s. Anwar Mansoor Khan and Asim Mansoor Khan",
+    "M/s. Muhammad Ali Lakhani",
+    "Mr. Talha Javed",
+    "Mr. Sartaj Malkani",
+    "Ms. Rehana",
+    "Mr. Iftikhar Ahmed",
+    "Mr. Naeem Akhtar Talpur",
+    "Mr. Khaleeq Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

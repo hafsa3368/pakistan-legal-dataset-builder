@@ -6,12 +6,19 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No. D-5982 of 2025",
   "date_of_order": "04.03.2026",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Ayaz Gul",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gul Nawab",
+    "Province of Sindh",
+    "Safoora Begum",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

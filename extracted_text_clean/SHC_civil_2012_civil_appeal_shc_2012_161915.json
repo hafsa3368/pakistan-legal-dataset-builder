@@ -6,7 +6,7 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "misconceived and not",
+  "case_number": "C.P. No.D-3542 of 2015",
   "date_of_order": "29.3.2018",
   "judge": "Irfan Saadat Khan Mr",
   "sections_cited": [
@@ -30,7 +30,13 @@
     "PLD 1964 SC 97",
     "PLD 2014 SC 585"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. United Bank Limited",
+    "Muhammad Afzal Solangi",
+    "Full Bench of NIRC, Karachi",
+    "Single Bench of NIRC Karachi",
+    "Shaikh Liaquat Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

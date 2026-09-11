@@ -6,12 +6,19 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-3201 of 2021",
   "date_of_order": "25.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "SRO 130/2018",
+    "SRO 1038/2010"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Jawaid Farooqui",
+    "Ms.Mehreen Ibrahim",
+    "Mr.Rana Sakhawat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

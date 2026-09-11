@@ -8,15 +8,32 @@
   "num_chunks": 2,
   "case_number": "Misc. No.12536/2024",
   "date_of_order": "23.12.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Ali Mazhar",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Section 138 CrPC",
+    "Section 13(1) DPPC",
+    "Section 13(1) DPPC",
+    "Section 13(1) DPPC",
+    "Section 13(1) DPPC",
+    "Section 13(1) DPPC",
+    "Section 13(1) DPPC"
+  ],
   "citations": [
     "2022 SCMR 92",
     "2021 SCMR 425",
     "2010 SCMR 105",
     "PLD 2016 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mushtaq Hussain",
+    "Ms. Alizeh Bashir",
+    "Barrister Syed Ahsan Ali Shah",
+    "Mr. Ghulam Asghar Pathan",
+    "PBC & Others",
+    "Ajmer Khan & Another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "",
   "date_of_order": "27-10-2023",
-  "judge": "",
+  "judge": "Sana Akram Minhas",
   "sections_cited": [
     "section 19",
     "section 96 CPC",
@@ -35,7 +35,10 @@
     "2018 MLD 1293",
     "PLD 2015 Sindh 336"
   ],
-  "parties": [],
+  "parties": [
+    "Habib Bank Limited",
+    "Amin Soap & Oil Industries (Pvt) Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

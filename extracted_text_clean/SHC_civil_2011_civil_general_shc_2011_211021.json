@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-3125 of 2011",
   "date_of_order": "27.11.2010",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Iftikhar Ali Arain",
+    "Mr. Shahriyar I. Awan",
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

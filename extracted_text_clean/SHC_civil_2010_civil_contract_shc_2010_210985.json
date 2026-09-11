@@ -8,14 +8,20 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "21.02.2024",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2012 SCMR 773",
     "2020 SCMR 1053",
     "2020 CLC 410"
   ],
-  "parties": [],
+  "parties": [
+    "Sindh Text Book Board & another",
+    "Federation of Pakistan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

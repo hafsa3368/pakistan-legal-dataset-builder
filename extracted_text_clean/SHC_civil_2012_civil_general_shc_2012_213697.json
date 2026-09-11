@@ -7,13 +7,23 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Constitution Petition No. D-1788 of 2023",
-  "date_of_order": "",
+  "date_of_order": "30-04-2024",
   "judge": "Karim Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Rule 11-A of Sindh Civil Servants (Appointment, Promotion and Transfer) Rules, 1974",
+    "Province of Sindh Vs. Muhammad Taqi Shah (2018 SCMR 1607)"
+  ],
   "citations": [
     "2018 SCMR 1607"
   ],
-  "parties": [],
+  "parties": [
+    "Sarfraz Ali Abro",
+    "Province of Sindh",
+    "Government of Sindh",
+    "Muhammad Taqi Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

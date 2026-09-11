@@ -6,14 +6,22 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitution and is not",
+  "case_number": "",
   "date_of_order": "9th March 2023",
   "judge": "Salahuddin Panhwar Mr",
   "sections_cited": [],
   "citations": [
     "PLD 2009 SC 507"
   ],
-  "parties": [],
+  "parties": [
+    "Asadullah",
+    "Allah Bux",
+    "Mr. Nisar Ahmed",
+    "Mr. Ashok Kumar Jamba",
+    "SSGC",
+    "Mr. Qurban Ali Malano",
+    "Mr. Muhammad Qayyum Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

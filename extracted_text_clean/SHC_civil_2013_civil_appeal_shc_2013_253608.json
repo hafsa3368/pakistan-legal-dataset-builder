@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Appeal No.196/2013",
   "date_of_order": "08.04.2025",
-  "judge": "",
+  "judge": "MUHAMMAD JAFFER RAZA",
   "sections_cited": [
     "Section 100 CPC",
     "section 100"
@@ -18,7 +18,10 @@
     "2009 SCMR 276",
     "2024 SCMR 1496"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Standard Chartered Bank Pakistan Ltd and others",
+    "Mrs. Farzeen Agha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

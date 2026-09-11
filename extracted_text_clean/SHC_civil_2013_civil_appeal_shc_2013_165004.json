@@ -8,14 +8,20 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No.D-5282 of 2021",
   "date_of_order": "18.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon,",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2012 SCMR 126",
     "2013 SCMR 1150",
     "PLD 2013 SC 255"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Altaf Hussain",
+    "Mr. Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

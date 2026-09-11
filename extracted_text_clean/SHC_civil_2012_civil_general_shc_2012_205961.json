@@ -6,14 +6,21 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-5630 of 2023",
   "date_of_order": "02.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Malik Naeem Iqbal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 1974 SC 228"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Naeem Iqbal",
+    "Petitioner",
+    "Respondent/KPT"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "criminal case i.e. Defendant No.3",
+  "case_number": "",
   "date_of_order": "20.02.2025",
   "judge": "Muhammad Jaffer Raza Abdul Rasheed",
   "sections_cited": [
@@ -22,7 +22,13 @@
     "2004 MLD 491",
     "2020 MLD 1580"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rasheed Khanzada",
+    "Zarina Parveen",
+    "Federation of Pakistan",
+    "National Data Base Registration Authority (NADRA)",
+    "Meraj Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

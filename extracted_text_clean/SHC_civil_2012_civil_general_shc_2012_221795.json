@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "31.10.2024",
-  "judge": "",
+  "judge": "JAWAD AKBAR SARWANA",
   "sections_cited": [
     "Section 4 of the Limitation Act",
     "Section 14-B of the NEPRA Act",
@@ -20,7 +20,12 @@
     "2020 SCMR 1488",
     "2020 SCMR 1702"
   ],
-  "parties": [],
+  "parties": [
+    "Power Station (Private) Ltd.",
+    "National Electric Power Regulatory Authority",
+    "National Industrial Parks Development and Management Company",
+    "K-Electric Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

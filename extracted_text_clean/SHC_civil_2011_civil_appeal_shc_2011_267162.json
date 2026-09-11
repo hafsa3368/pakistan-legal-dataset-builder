@@ -9,7 +9,10 @@
   "case_number": "Civil Revision ApplicationNo. 149 of 2011",
   "date_of_order": "15.04.2025",
   "judge": "Muhammad Jaffer Raza Mst",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1987 MLD 2442",
     "1990 CLC 1842",
@@ -24,7 +27,12 @@
     "PLD 1965 Dacca 361",
     "PLD 2002 Karachi 408"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Noor Jehan",
+    "The Deputy District Officer, Land Management K.D.A. Wing & others",
+    "Mr. Muhammad Ali Waris Lari",
+    "Mr. Muhammad Aqil Zaidi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

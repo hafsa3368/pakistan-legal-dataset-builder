@@ -6,10 +6,12 @@
   "year": "2006",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "C.P No.D-1883 of 2023",
   "date_of_order": "18.12.2006",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Arbab Ali Hakro",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [
     "2010 SCMR 253",
     "2015 SCMR 1257",
@@ -17,7 +19,13 @@
     "2022 SCMR 406",
     "2021 SCMR 1995"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Jabbar",
+    "Province of Sindh",
+    "Mumtaz Ahmed Lashari",
+    "Rajesh Kumar Khagaija",
+    "Muhammad Ismail Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

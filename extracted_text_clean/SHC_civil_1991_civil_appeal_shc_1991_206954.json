@@ -6,10 +6,12 @@
   "year": "1991",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "High Court Appeal No.74 of 2017",
   "date_of_order": "05.12.2023",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "U/S 151"
+  ],
   "citations": [
     "1994 SCMR 65",
     "2003 CLC 504",

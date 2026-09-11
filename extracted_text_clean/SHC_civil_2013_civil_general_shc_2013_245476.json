@@ -6,16 +6,19 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "criminal case bearing No.2162/2015",
+  "case_number": "",
   "date_of_order": "13.02.2025",
-  "judge": "",
+  "judge": "MUHAMMAD JAFFER RAZA",
   "sections_cited": [
     "Section 22-A",
     "Section 118 of the Act",
     "Section 118of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Orient Communication (Pvt) Limited",
+    "Sher Afzal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 29,
   "case_number": "Misc. No.1907/2008",
   "date_of_order": "7 August 2024",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman",
   "sections_cited": [
     "Section 122 of the Income Tax Ordinance",
     "Section 67",
@@ -38,7 +38,12 @@
     "PLD 1964 SC 657",
     "PLD 1969 SC 187"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "petitioner": "Adamjee Insurance Company Limited, Messrs Adamjee Insurance Company Limited, M/s Habib Insurance Company Limited, M/s Premier Insurance Company Limited, I.G.I Insurance Limited, Messrs Adamjee Insurance Company Limited"
+    },
+    "respondent1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

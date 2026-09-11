@@ -6,14 +6,24 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Transfer Appln. No.S-62 of 2025",
   "date_of_order": "05.01.2026",
   "judge": "System Ordinance",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2020 SCMR 1243"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Mustafa Bhangwar",
+    "The State v. Aachar Ali Bangwar & others",
+    "Ziyad son of Manzoor",
+    "Manzoor",
+    "District Prison, Shikarpur",
+    "Juvenile Justice System Ordinance, 2000"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

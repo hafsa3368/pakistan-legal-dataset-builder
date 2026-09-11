@@ -6,12 +6,19 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C.P. No. D-2289 of 2008",
+  "date_of_order": "30.08.2017",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imtiaz Mansoor Solangi",
+    "Mr. Muhammad Aslam Butt",
+    "Mr. Usman Tufail Shaikh",
+    "Petitioners",
+    "P.I.A.",
+    "respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

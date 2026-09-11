@@ -6,12 +6,17 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No. 4512 of 2024",
   "date_of_order": "30.03.2022",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Sulaiman",
+    "Pakistan International Airlines Corporation & others",
+    "Muhammad Arshad",
+    "Humera Jabeen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

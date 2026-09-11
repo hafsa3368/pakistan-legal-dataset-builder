@@ -8,13 +8,18 @@
   "num_chunks": 4,
   "case_number": "Const. Petition No. S-1246 of 2025",
   "date_of_order": "02.02.2026",
-  "judge": "",
+  "judge": "Nisar Ahmed Bhanbhro",
   "sections_cited": [
     "Section 12",
     "Section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Nargis Sultana",
+    "Province of Sindh & Ors.",
+    "Syed Muhammad Mehdi & Ors.",
+    "KDA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

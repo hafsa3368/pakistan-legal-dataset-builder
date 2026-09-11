@@ -6,9 +6,9 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.D-44 of 2014",
   "date_of_order": "30.01.2018",
-  "judge": "JUDGE AH",
+  "judge": "Abdul Maalik Gaddi",
   "sections_cited": [
     "sections 9",
     "section 382-GB Cr.P.C",
@@ -18,7 +18,12 @@
   "citations": [
     "2015 SCMR 1002"
   ],
-  "parties": [],
+  "parties": [
+    "Asghar alias Munawar",
+    "The State through Mr. Shahzado Saleem Nahyoon",
+    "The State through SIP Rasheed Ahmed S.H.O P.S A-Section Nawabshah",
+    "The State through ASI Darban Ali of P.S A-Section, Nawabshah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

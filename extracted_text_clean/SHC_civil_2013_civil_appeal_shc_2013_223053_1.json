@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "10.12.2024",
-  "judge": "",
+  "judge": "Muhammad Luqman-ul-Haq",
   "sections_cited": [
     "section 68 of the Cantonment Act",
     "section 68 of the Act",
@@ -24,7 +24,11 @@
     "2002 YLR 1557",
     "2002 YLR 1559"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Naveed Anjum, advocate for the petitioner",
+    "Syed Zaeem Hyder Musavi, advocate for respondent",
+    "Ms.Rabia Khalid, Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

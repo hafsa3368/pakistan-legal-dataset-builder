@@ -9,14 +9,23 @@
   "case_number": "",
   "date_of_order": "07.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "PLD 2016 Sindh 168",
+    "CIR vs. Jahangir Khan Tareen reported as 2022 SCMR 92",
+    "Syed Iqbal Hussain Shah Gillani vs. PBC & Others reported as 2021 SCMR 425",
+    "Muhammad Fiaz Khan vs. Ajmer Khan & Another reported as 2010 SCMR 105"
+  ],
   "citations": [
     "2022 SCMR 92",
     "2021 SCMR 425",
     "2010 SCMR 105",
     "PLD 2016 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Ms. Ismat Mehdi",
+    "Mr. Irfan Mir Halepota",
+    "Ms. Alizeh Bashir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

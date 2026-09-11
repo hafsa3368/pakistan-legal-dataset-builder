@@ -9,11 +9,17 @@
   "case_number": "",
   "date_of_order": "29-09-2021",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2021 Sindh 328"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed Bhanbhbro",
+    "Mr. Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

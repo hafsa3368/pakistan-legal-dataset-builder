@@ -6,12 +6,24 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "21.04.2021",
   "judge": "Adnan Iqbal Chaudhry Constitutional Petition",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Basit",
+    "Province of Sindh",
+    "Malik Altaf Hussain",
+    "Mr. Samiullah Soomro",
+    "Mr. Ali Safdar Depar",
+    "Muhammad Bachal Rahupoto",
+    "Shehla Kashif",
+    "Khalid Hussain Khokhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

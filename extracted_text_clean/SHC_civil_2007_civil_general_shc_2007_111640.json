@@ -6,14 +6,21 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "constructed on Plot No.R-1032",
+  "case_number": "",
   "date_of_order": "11.01.2017",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Amin S/o Hakeem Muhammad Yamin",
+    "Mst: Shamim Begum @ Lala D/o Late Hakeem Muhammad Yamin",
+    "Muhammad Islam",
+    "Irfan",
+    "Muhammad Mohsin S/o Muhammad Amin",
+    "Muhammad Meraj S/o Muhammad Amin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,23 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.423 of 2022",
   "date_of_order": "11.08.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Somaiya Kamran & others",
+    "M/s Rufi Properties & others",
+    "Mr. Zia-ul-Haq Makhdoom",
+    "Mr. Riaz Ahmed Phulpoto",
+    "Mr. Muhammad Haseeb Jamali",
+    "Mr. Saad Khurram",
+    "Mr. Bisham",
+    "Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

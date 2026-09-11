@@ -6,9 +6,9 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "constructed over the canals and minors",
+  "case_number": "",
   "date_of_order": "28.06.2018",
-  "judge": "",
+  "judge": "Salahuddin Panhwar",
   "sections_cited": [
     "Section 28 of the Act",
     "section 133",
@@ -18,7 +18,15 @@
   "citations": [
     "2015 SCMR 338"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Aftab Ahmed Shar",
+    "Mr. Ahmed Ali Shahani",
+    "Muhammad Younis Domki",
+    "Salahuddin Panhwar",
+    "P.O. Sindh and others",
+    "Beneficiary khatedars",
+    "officials / subordinate of respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

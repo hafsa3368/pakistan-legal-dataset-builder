@@ -6,14 +6,18 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "construction of a house by Defendant No.2",
+  "case_number": "",
   "date_of_order": "07.05.2019",
-  "judge": "",
+  "judge": "Not specified",
   "sections_cited": [
     "Section 6 of the Sindh Building Control Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Plaintiff - S.B.C.A.",
+    "Defendant No.1 - S.B.C.A.",
+    "Defendant No.2 - Rizwan-ur-Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

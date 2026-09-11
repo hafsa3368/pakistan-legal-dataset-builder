@@ -6,12 +6,19 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitution Petition No. D-",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "",
+  "date_of_order": "14-05-2024",
+  "judge": "Aziz Aslam Bhurgi",
+  "sections_cited": [
+    "Section 22(1) of the Fundamental Rights Ordinance, 1973",
+    "Section 22(2) of the Fundamental Rights Ordinance, 1973",
+    "Article 19(1)(a) of the Constitution of Pakistan"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Atiq-ur-Rehman & others",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

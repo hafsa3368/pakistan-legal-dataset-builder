@@ -6,12 +6,17 @@
   "year": "2007",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-485 of 2007",
   "date_of_order": "26.04.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Malir Development Authority",
+    "Muhammad Saleem",
+    "1st. Addl. District & Sessions Judge",
+    "Malir Development Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,24 @@
   "num_chunks": 5,
   "case_number": "Civil Revision Application No.121 of 2016",
   "date_of_order": "28.07.2011",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 8",
     "section 39 of the Specific Relief Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Nadir Hayat Khan & others",
+    "Mst. Fatimunnisa & others",
+    "Mrs. Fahim Sayeed Ziai",
+    "Mst. Fatim-un-Nisa & others",
+    "Mr. Munawar Ghani",
+    "Mr. Muhammad Aslam Rajpar",
+    "Mr. Naseer Ahmed Khan",
+    "Mr. Muhammad Aqil Zaidi",
+    "Mr. M. Mohsin Khan",
+    "Mr. Talib Ali Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

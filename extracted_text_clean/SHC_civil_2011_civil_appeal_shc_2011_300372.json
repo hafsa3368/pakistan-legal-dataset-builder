@@ -6,9 +6,9 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Acquittal Appeal No.785 of 2022",
+  "case_number": "",
   "date_of_order": "22.12.2025",
-  "judge": "",
+  "judge": "Syed Fiaz ul Hassan Shah",
   "sections_cited": [
     "Sections 420/406 PPC",
     "Sections 419 and 420 PPC"
@@ -21,7 +21,14 @@
     "2015 SCMR 1142",
     "PLD 2003 SC 562"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shafique Khan Toori",
+    "The State and another",
+    "Muhammad Taqi",
+    "Sharafuddin Kanhar",
+    "Ali Murtaza",
+    "Syed Ali Murtaza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

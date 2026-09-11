@@ -6,10 +6,13 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "constituted vide notification",
+  "case_number": "",
   "date_of_order": "08.09.2017",
-  "judge": "Shafi P/A",
-  "sections_cited": [],
+  "judge": "Syed Hassan Azhar Rizvi",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 1602",
     "2016 SCMR 1443",

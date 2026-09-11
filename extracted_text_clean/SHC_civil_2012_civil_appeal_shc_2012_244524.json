@@ -8,14 +8,17 @@
   "num_chunks": 6,
   "case_number": "Civil Revision No.270 of 2019",
   "date_of_order": "27.01.2025",
-  "judge": "",
+  "judge": "Arbab Ali Hakro",
   "sections_cited": [
     "Section 115",
     "Section 12",
     "Section 12 of the CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Oil and Gas Development Company Ltd and another",
+    "Isra Islamic Foundation (Guarantee) Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,24 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "High Court Appeal No.283 of 2022",
   "date_of_order": "15.08.2024",
-  "judge": "Jawad Akbar Sarwana High Court",
-  "sections_cited": [],
+  "judge": "Jawad Akbar Sarwana High",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 998"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan Telecommunication Company Limited",
+    "Rasheed Ahmed",
+    "Pakistan Telecommunication Nos.1 &2 Company Limited",
+    "General Manager (HRA), Pakistan Telecommunication Company Limited",
+    "Rasheed Ahmed Jumani",
+    "Dr. Shahab Imam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

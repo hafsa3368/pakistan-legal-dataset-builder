@@ -8,13 +8,18 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "06.05.2026",
-  "judge": "",
+  "judge": "Shahzad Ahmed Narejo",
   "sections_cited": [
     "Section 10 of the Ordinance",
     "Section 10"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Appellant",
+    "Respondent’s bank",
+    "National Bank of Pakistan",
+    "Kazi Muhammad Umar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

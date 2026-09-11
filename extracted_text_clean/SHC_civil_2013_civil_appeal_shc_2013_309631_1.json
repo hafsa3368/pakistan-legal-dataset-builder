@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "C.P. No. D-68 of 2025",
   "date_of_order": "01.04.2026",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 34 of the Sindh Industrial Relations Act",
     "Section 34",
@@ -16,7 +16,13 @@
     "Section 45"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Marva Exports",
+    "Farman Khan and another",
+    "Mr. Dilawar Khan",
+    "Mr. Ali Safdar Depar",
+    "Mr. Faheem Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

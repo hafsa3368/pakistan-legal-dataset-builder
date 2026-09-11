@@ -6,12 +6,18 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Pett. No.D-128 of 2026",
+  "case_number": "",
   "date_of_order": "24.03.2026",
-  "judge": "",
+  "judge": "M.A. Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saifullah Soomro",
+    "Mr. Naveed Ahmed Shah",
+    "Ghulam Ali Tunio",
+    "Mian Zaheer Muhammad Babar",
+    "Respondents No. 4 to 8"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

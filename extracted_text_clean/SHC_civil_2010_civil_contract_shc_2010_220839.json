@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "",
   "date_of_order": "29.08.2024",
-  "judge": "",
+  "judge": "ARBAB ALI HAKRO",
   "sections_cited": [
     "Section 301",
     "Section 30",
@@ -25,7 +25,11 @@
     "PLD 1993 SC 773",
     "PLD 1959 Dacca 536"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Sadat Business Group Ltd",
+    "Federation of Pakistan",
+    "M/s Trading Corporation of Pakistan Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

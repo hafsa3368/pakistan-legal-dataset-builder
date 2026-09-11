@@ -8,13 +8,26 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "03.02.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ARSHAD HUSSAIN KHAN",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "2011 SCMR 279",
     "PLD 2007 SC 52"
   ],
-  "parties": [],
+  "parties": [
+    "Inayat Ali",
+    "Province of Sindh & others",
+    "landlord",
+    "private respondents No. 09 to 30",
+    "deputy commissioner",
+    "assistant commissioner Matiari",
+    "Police",
+    "Irrigation Department Matiari",
+    "sub-ordinates"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

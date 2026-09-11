@@ -6,10 +6,12 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Civil Petition Nos",
+  "case_number": "H.C.A NO.37/2014",
   "date_of_order": "06-02-2017",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Yousuf Ali Sayeed",
+  "sections_cited": [
+    "Section 23 of Schedule I of the Limitation Act, 1908"
+  ],
   "citations": [
     "2009 YLR 1624",
     "1998 SCMR 1993",
@@ -19,7 +21,12 @@
     "PLD 1990 SC 28",
     "PLD 1947 PC 95"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Mumtaz Ali and others",
+    "Mst. Khatoon Begum",
+    "Marine Management Company through Proprietor",
+    "Government of Pakistan through Secretary, Ministry of Defence"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

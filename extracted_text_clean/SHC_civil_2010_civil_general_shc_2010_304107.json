@@ -6,12 +6,24 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Const. Petition No. D",
+  "case_number": "",
   "date_of_order": "29.01.2026",
   "judge": "Azeem",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Ali Gabol",
+    "MUHAMMAD SALEEM JESSAR",
+    "the petitioner",
+    "the respondent",
+    "the respondent No. 04",
+    "Respondent No. 01",
+    "Respondent No. 02",
+    "Respondent No. 03"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "",
+  "case_number": "Cr. Jail ATA No.20 of 2019",
   "date_of_order": "11.10.2021",
-  "judge": "JUDGE",
+  "judge": "Zulfiqar Ahmed Khan",
   "sections_cited": [
     "Sections 392/353/324/34 PPC",
     "Sections 7",
@@ -31,7 +31,13 @@
     "2012 SCMR 428",
     "PLD 1990 Karachi 275"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammad Ali",
+    "State",
+    "Pervaiz alias Shoukat",
+    "Mohammad Azeem",
+    "Ahmed Niazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. Nos. D-611/2006",
   "date_of_order": "15.03.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Raja Qasit Nawaz Khan for petitioners",
+    "Mr. M. Nishat Warsi, Deputy Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

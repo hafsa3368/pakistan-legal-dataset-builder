@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Anti-Terrorism Jail Appeal No. 183 of 2023",
+  "case_number": "",
   "date_of_order": "04.09.2025",
   "judge": "Omar Sial Mr",
   "sections_cited": [
@@ -23,7 +23,14 @@
   "citations": [
     "PLD 2020 SC 61"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Rizwan",
+    "Muhammad Azeem",
+    "Mr. Muhammad Iqbal Awan",
+    "Mr. Habib-ur-Rehman Jiskani",
+    "Mr. Maaz Ali Maalik Gaddi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

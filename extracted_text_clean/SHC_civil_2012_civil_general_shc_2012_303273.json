@@ -7,9 +7,11 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitutional Petition No. D-5000 of 2025",
-  "date_of_order": "",
+  "date_of_order": "19.01.2026",
   "judge": "Abdul Mobeen Lakho",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
   "parties": [
     "Mst"

@@ -8,8 +8,12 @@
   "num_chunks": 10,
   "case_number": "Civil Revision Application No.33 of 2011",
   "date_of_order": "27.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 25 of the Specific Relief Act"
+  ],
   "citations": [
     "2022 SCMR 1433"
   ],

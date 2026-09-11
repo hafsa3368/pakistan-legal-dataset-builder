@@ -6,14 +6,31 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "23.01.2020",
   "judge": "Nadeem Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Removal from Service (Special Powers) Ordinance, 2000"
+  ],
   "citations": [
     "2004 SCMR 74"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Anwar",
+    "the Federation of Pakistan",
+    "Feroz Ahmed",
+    "Muhammad Sarwar",
+    "Muhammad Ashfaq Khan Lodhi",
+    "Muhammad Fareed",
+    "Syed Shoa-un-Nabi",
+    "Muhammad Nishat Warsi",
+    "Dilawar Hussain",
+    "Abdul Rauf",
+    "Abdul Waheed Khan",
+    "M. Sharif Bughio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

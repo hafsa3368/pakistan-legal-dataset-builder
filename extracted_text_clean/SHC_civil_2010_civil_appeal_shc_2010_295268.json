@@ -8,13 +8,19 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition No. S-826 of 2011",
   "date_of_order": "26.11.2025",
-  "judge": "",
+  "judge": "Nisar Ahmed Bhanbhro",
   "sections_cited": [
     "Section 8 of the Sindh Rented Premises Ordinance",
     "Section 15"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Abid Hussain Shirazi",
+    "Mr. Muhammad Ali Akbar",
+    "Mr. Ali Asghar",
+    "M/s Habib Bank Limited",
+    "Feroz Sajan & Ors."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

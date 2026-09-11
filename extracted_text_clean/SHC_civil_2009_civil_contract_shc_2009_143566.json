@@ -36,7 +36,11 @@
     "PLD 1994 SC 894",
     "PLD 1968 Karachi 252"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Chase International",
+    "M/s. Mediterranean Shipping Company S.A",
+    "M/s. MSC Agency Pakistan (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

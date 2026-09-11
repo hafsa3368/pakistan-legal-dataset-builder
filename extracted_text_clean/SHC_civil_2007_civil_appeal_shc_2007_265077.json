@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "13.05.2025",
-  "judge": "",
+  "judge": "Muhammad Jaffer Raza",
   "sections_cited": [
     "Section 42",
     "Section 100 CPC",
@@ -21,7 +21,11 @@
     "1996 CLC 1403",
     "2019 SCMR 524"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Abdul Samad Khattak, Ghulam Hussain and Farooq H.Abbasi",
+    "Ms. Deeba Ali Jaffri",
+    "Mr. Ahmed Khan Khaskhely"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

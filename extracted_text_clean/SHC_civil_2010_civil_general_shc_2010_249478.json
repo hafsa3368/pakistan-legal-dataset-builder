@@ -9,14 +9,30 @@
   "case_number": "",
   "date_of_order": "12.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "PLD 2016 Sindh 168",
+    "2022 SCMR 92",
+    "2016 Sindh 168",
+    "2021 SCMR 425",
+    "2010 SCMR 105",
+    "2010 SCMR 105",
+    "2016 Sindh 168",
+    "2021 SCMR 425",
+    "2022 SCMR 92",
+    "Per Ijaz Ul Ahsan J. in Syed Iqbal Hussain Shah Gillani vs. PBC & Others reported as 2010 SCMR 105"
+  ],
   "citations": [
     "2022 SCMR 92",
     "2021 SCMR 425",
     "2010 SCMR 105",
     "PLD 2016 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Anwar Kashif Mumtaz, advocate for the petitioner",
+    "Mr. Kashif Nazeer, Assistant Attorney General",
+    "Mr. Ameer Bakhsh Metlo, advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

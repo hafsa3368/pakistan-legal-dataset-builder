@@ -7,11 +7,20 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No. D-819 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "date_of_order": "13-02-2024",
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 498 CrPC",
+    "u/s 323 CrPC",
+    "Article 35-A of the Constitution of Pakistan",
+    "Section 12 of the Fundamental Rights (Amendment) Act, 2016"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sardar Ali Jarwar & others",
+    "P.O. Sindh & others",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

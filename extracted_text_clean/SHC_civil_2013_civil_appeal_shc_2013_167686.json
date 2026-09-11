@@ -8,13 +8,17 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No.D-01 of 2016",
   "date_of_order": "22.11.2022",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "sections 6",
     "section 302"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bilal Masood",
+    "The State",
+    "Muhammad Javed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

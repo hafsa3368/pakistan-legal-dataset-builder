@@ -8,12 +8,20 @@
   "num_chunks": 2,
   "case_number": "Civil Appeal No.27/2021",
   "date_of_order": "25.04.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Nadeem Qureshi",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Order VII Rule 11 CPC",
+    "Order VII Rule 11 CPC"
+  ],
   "citations": [
     "PLD 2012 SC 247"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Latif Leghari",
+    "Mr. Ahmed Khan Khaskheli",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

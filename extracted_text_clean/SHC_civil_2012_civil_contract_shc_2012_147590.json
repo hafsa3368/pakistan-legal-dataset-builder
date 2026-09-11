@@ -6,12 +6,19 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "10.11.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mujtaba Hassan and 27 others",
+    "Federation of Pakistan and 02 others",
+    "Oil & Gas Development Company Ltd.",
+    "Mr. Faizan Hussain Memon, advocate for the petitioners",
+    "Mr. Muhammad Nishat Warsi, DAG",
+    "Mr. Asad Manzoor Halepota, advocate for respondents 2 and 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

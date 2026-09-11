@@ -6,12 +6,22 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P Nos. D-580",
   "date_of_order": "15.12.2016",
-  "judge": "JUDGE Aadil Arab",
+  "judge": "Muhammad Ali Mazhar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ch. Muhammad Ashraf",
+    "Ch. Azhar Elahi",
+    "Mr. Muhammad Ahsan Ghani",
+    "Mr. Javed Asghar Awan",
+    "Mr. Muhammad Rizwan Saeed",
+    "Sh. Liaqat Hussain",
+    "Nazakat Hussain",
+    "Arbab Anas",
+    "The Respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

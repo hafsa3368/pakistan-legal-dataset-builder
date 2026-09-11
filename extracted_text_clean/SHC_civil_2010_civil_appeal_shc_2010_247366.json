@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "25.02.2025",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "section 24 of Ordinance",
     "section 151 CPC",
@@ -20,7 +20,10 @@
     "2002 SCMR 1405",
     "2000 MLD 1"
   ],
-  "parties": [],
+  "parties": [
+    "Capital Investment (Pvt) Ltd",
+    "MCB Bank Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

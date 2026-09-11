@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "25.04.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "u/s 31"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Israr Ahmed Shah",
+    "Mr. Liaquat Ali Shar",
+    "Additional Advocate General Sindh",
+    "respondent No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,16 +6,25 @@
   "year": "2006",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Criminal Miscellaneous Application No.S-",
+  "case_number": "",
   "date_of_order": "27.11.2025",
   "judge": "Tufail",
-  "sections_cited": [],
+  "sections_cited": [
+    "Syed Qamber Ali Shah v. Province of Sindh and others (2024 SCMR 1123)",
+    "Arsalan Raza v. Justice of Peace and others (2024 P.Cr.L.J 351)",
+    "Tariq Saddique Khokhar and 5 others v. Additional Sessions Judge, Lahore and 3 others (2006 P.Cr.L.J 622)"
+  ],
   "citations": [
     "2024 SCMR 1123",
     "2024 P.Cr.L.J 351",
     "2006 P.Cr.L.J 622"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ahsan Gul Dahri",
+    "Mr. Muhammad Hashim Leghari",
+    "Ms. Safa Hisbani",
+    "Respondents No.4 to 8"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

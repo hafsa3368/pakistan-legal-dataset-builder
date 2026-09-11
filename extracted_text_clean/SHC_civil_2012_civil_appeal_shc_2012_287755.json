@@ -6,7 +6,7 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "criminal accused of Crime No. 13/2011",
+  "case_number": "",
   "date_of_order": "15.10.2025",
   "judge": "Amjad Ali Sahito",
   "sections_cited": [
@@ -18,7 +18,17 @@
   "citations": [
     "2008 SCMR 329"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Saindad @ Saeedo son of unknown by caste Jatoi",
+    "The State",
+    "Inspector Ghulam Qadir Ansari",
+    "Inspector Ghulam Qadir Ansari",
+    "Abdul Khalique @ Khalique @ Bago",
+    "The State",
+    "Saindad @ Saeedo son of Muhammad Bux Jatoi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "",
   "date_of_order": "18.12.2015",
-  "judge": "",
+  "judge": "MUHAMMAD FAISAL KAMAL ALAM",
   "sections_cited": [
     "Section 39 of the Specific Relief Act",
     "Section 23",
@@ -24,7 +24,12 @@
     "2011 SCMR 1023",
     "PLD 1998 Karachi 348"
   ],
-  "parties": [],
+  "parties": [
+    "Muslim Commercial Bank (MCB)",
+    "Askari Commercial Bank Limited",
+    "Seema Shirazee",
+    "Adnan Shirazee"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

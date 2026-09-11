@@ -8,14 +8,17 @@
   "num_chunks": 6,
   "case_number": "Civil Appeal No. 306 of 2023",
   "date_of_order": "06.03.2026",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 100 of the Code",
     "Section 100 CPC",
     "Section 100"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ashraf Khan and others",
+    "Mst. Shumaila Abdul Aziz and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

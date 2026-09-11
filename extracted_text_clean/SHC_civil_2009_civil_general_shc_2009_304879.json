@@ -6,14 +6,23 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-446 of 2015",
   "date_of_order": "16.12.2025",
-  "judge": "JUDGE Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2009 SCMR-1"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed Dahri",
+    "Assistant Advocate General, Sindh",
+    "Faisal Khaskheli",
+    "Director Technical Public Health Engg:Department at Chief Engineer Officer Hyderabad",
+    "Amjad Ali Halepoto",
+    "Junior Cleark PHE TM Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

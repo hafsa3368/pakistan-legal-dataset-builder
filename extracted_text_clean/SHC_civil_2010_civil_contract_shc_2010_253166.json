@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "Civil Appeal No.S-35 of 2024",
   "date_of_order": "28.02.2025",
-  "judge": "",
+  "judge": "Abdul Hamid Bhurgri",
   "sections_cited": [
     "Section 100 of the Civil Procedure Code",
     "Section 96 of CPC",
@@ -37,7 +37,16 @@
     "PLD 2022 SC 716",
     "PLD 2012 SC 247"
   ],
-  "parties": [],
+  "parties": [
+    "Waqar Ali",
+    "Amir Khan Rahujo",
+    "Dileep Kumar",
+    "Muhammad Sulleman Unar",
+    "Imran Ali Junejo",
+    "Allah Bachayo Soomro",
+    "Kanaya Lal",
+    "Chetan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

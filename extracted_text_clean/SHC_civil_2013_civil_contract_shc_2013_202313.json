@@ -6,12 +6,18 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "construction thereon. Suit No.1114 of 2013",
+  "case_number": "",
   "date_of_order": "24.05.2022",
   "judge": "Aqeel Ahmed Abbasi Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zeeshan Pervez",
+    "Muhammad Nasir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

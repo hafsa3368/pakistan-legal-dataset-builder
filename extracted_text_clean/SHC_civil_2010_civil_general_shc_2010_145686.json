@@ -6,12 +6,21 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-1748 of 2010",
   "date_of_order": "05.08.2020",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Allah Bachayo Soomro",
+    "Mr. Ghulam Nabi Jarwar",
+    "Mr. Altaf Sachal Awan",
+    "petitioner",
+    "respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

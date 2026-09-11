@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Civil Appeals Nos",
+  "case_number": "",
   "date_of_order": "15.01.2019",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -14,7 +14,15 @@
     "section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Government of Sindh",
+    "Sindh Irrigation Drainage Authority",
+    "Respondent No. 2 / SIDA",
+    "Finance Department",
+    "Respondent No. 1",
+    "Respondent No. 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "construction of boundary wall on the Survey No.158/4",
+  "case_number": "",
   "date_of_order": "29.03.2011",
-  "judge": "",
+  "judge": "Arshad Hussin Khan",
   "sections_cited": [
     "Section 10A",
     "Section 67-A of the West Pakistan Land Revenue Rules",
@@ -26,7 +26,12 @@
     "PLD 2018 Sindh 303",
     "PLD 2003 Karachi 222"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Muhammad Ahmed Masood, and Shariq Razzaque Advocates",
+    "Mr. Suresh Kumar",
+    "Mr. Tufail H. Ebrahim",
+    "Mr. Iqbal Khurram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

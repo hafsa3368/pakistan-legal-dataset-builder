@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Anti-Terrorism Appeals No.362",
+  "case_number": "",
   "date_of_order": "05-11-2019",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Section 4/5 Explosive Substance Act",
     "Section 7",
@@ -22,7 +22,12 @@
     "section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Usman",
+    "The State",
+    "Muhammad Rafiq",
+    "Muhammad Iqbal Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

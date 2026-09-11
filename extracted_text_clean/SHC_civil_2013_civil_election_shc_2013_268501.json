@@ -6,7 +6,7 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "constituted vide Notification",
+  "case_number": "C.P No.D-1661 of 2024",
   "date_of_order": "10.4.2025",
   "judge": "Arbab Ali Hakro",
   "sections_cited": [
@@ -23,7 +23,14 @@
     "2013 SCMR 1707",
     "PLD 1989 SC 360"
   ],
-  "parties": [],
+  "parties": [
+    "Dr.Rahim Bux Khokhar",
+    "Province of Sindh",
+    "M/s Masood Rasool Babar Memon",
+    "Sajjad Ali Memon",
+    "Mr.Rafiq Ahmed Dahri",
+    "Assistant A.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

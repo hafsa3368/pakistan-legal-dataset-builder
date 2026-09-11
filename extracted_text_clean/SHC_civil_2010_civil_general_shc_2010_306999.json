@@ -9,7 +9,10 @@
   "case_number": "Constitution Petition No. D-2357 of 2011",
   "date_of_order": "05-03-2026",
   "judge": "Adnan Iqbal Chaudhry Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 977",
     "2022 SCMR 897",
@@ -22,7 +25,22 @@
     "2022 SCMR 406",
     "2022 SCMR 566"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Adnan Iqbal Chaudhry",
+    "Mr. Justice Abdul Hamid Bhurgri",
+    "Mr. Muhammad Afzal Jagirani",
+    "Mr. Muhammad Aslam H.Jatoi",
+    "P.O Sindh through Secretary, Govt. of Sindh & others",
+    "Deputy Controller, Civil Defense Kamber-Shahdadkot & ors",
+    "Deputy Controller Civil Defence, (Defunct) Larkano now Kamber- Shahdadkot & others",
+    "Niaz Hussain & others",
+    "Deputy Controller Civil Defence, (Defunct) Larkano now Kamber- Shahdadkot & others",
+    "Federation of Pakistan",
+    "Jabran Ali Khan",
+    "Commissioner Larkana",
+    "Khushal Khan Khattak University",
+    "Inayatullah Lashari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

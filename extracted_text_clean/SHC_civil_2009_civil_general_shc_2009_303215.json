@@ -6,12 +6,17 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "constitutionally obliged not",
+  "case_number": "C.P. No.D-7047 of 2021",
   "date_of_order": "20.01.2026",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Karachi College Teachers Cooperative Housing Societies",
+    "Province of Sindh",
+    "KMC",
+    "SBCA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,23 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Petition and notices",
+  "case_number": "",
   "date_of_order": "18.12.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "u/s 498 CrPC",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abid Iqbal",
+    "EDO Tando Muhammad Khan",
+    "Tando Muhammad Khan",
+    "Muhammad Yaqoob Vighamal",
+    "Sheraz Ahmed Patoli",
+    "Government of Sindh",
+    "National Bank of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

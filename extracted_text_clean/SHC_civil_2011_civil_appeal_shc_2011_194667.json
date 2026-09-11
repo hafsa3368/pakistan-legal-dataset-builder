@@ -6,9 +6,9 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 20,
-  "case_number": "Civil Procedure should be applied are not",
+  "case_number": "High Court Appeal No.104 of 2015",
   "date_of_order": "28.4.2023",
-  "judge": "JUDGE",
+  "judge": "Sana Akram Minhas",
   "sections_cited": [
     "section 93 of the Negotiable Instruments Act",
     "section 84",
@@ -26,7 +26,10 @@
     "PLD 1963 SC 163",
     "PLD 1996 SC 749"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Nina Industries Ltd",
+    "M/s E.F.U. General Insurance Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

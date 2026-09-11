@@ -8,7 +8,7 @@
   "num_chunks": 18,
   "case_number": "Civil Appeal No.133/2012",
   "date_of_order": "07.11.2016",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Section 100",
     "Sections 100 and 101",
@@ -20,7 +20,10 @@
     "PLD 1965 SC 134",
     "PLD 1994 SC 291"
   ],
-  "parties": [],
+  "parties": [
+    "Naseem Akhtar",
+    "Abdul Rehman Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

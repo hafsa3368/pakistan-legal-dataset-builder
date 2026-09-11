@@ -8,13 +8,22 @@
   "num_chunks": 7,
   "case_number": "civil suit No.1012/2008",
   "date_of_order": "22.11.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ARSHAD HUSSAIN KHAN",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2011 SCMR 279",
     "PLD 1991 SC 476"
   ],
-  "parties": [],
+  "parties": [
+    "MR. JUSTICE NADEEM AKHTAR",
+    "MR. JUSTICE ARSHAD HUSSAIN KHAN",
+    "MR. ABDUL WAHEED SIYAL",
+    "MOHammad SARFARAZ SULEHRY",
+    "MIAN MUHAMMAD SHAH",
+    "MUHAMMAD IQBAL CHAUDHRY"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

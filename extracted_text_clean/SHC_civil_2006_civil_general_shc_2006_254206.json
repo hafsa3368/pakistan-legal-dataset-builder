@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Constitutional Petition No. D-5627 of 2016",
-  "date_of_order": "",
+  "date_of_order": "21.4.2025",
   "judge": "Head of Constitutional Benches Shafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Kamaluddin",
+    "Federation of Pakistan & others",
+    "Muhammad Kamaluddin",
+    "Mr. Justice Muhammad Karim Khan Agha",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mujtaba Sohail Raja",
+    "Mohsain Shahwani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

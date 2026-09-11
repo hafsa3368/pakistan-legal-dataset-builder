@@ -6,12 +6,25 @@
   "year": "2009",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "High Court Appeal No.336",
   "date_of_order": "13.03.2024",
-  "judge": "JUDGE Asif",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Fateh Ali",
+    "Mst. Shahida & others",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Omar Sial",
+    "Mr. Muhammad Ramzan Tabassum",
+    "Mr. Hifzur Rahman",
+    "Mr. Abdul Jalil Zubedi",
+    "Mst. Shaker Khanam",
+    "Kamaluddin",
+    "Sabz Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

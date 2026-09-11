@@ -9,7 +9,10 @@
   "case_number": "Civil Petition No.1159 of 2018",
   "date_of_order": "31.12.2004",
   "judge": "Arshad Hussain Khan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR 2005",
     "0019 SCMR 648",
@@ -20,7 +23,12 @@
     "PLD 1961 SC 531",
     "PLD 1970 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Arshad Malik",
+    "Pakistan International Airline Corporation",
+    "Muhammad Ali Lakhani",
+    "Farkhunda Shaheen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

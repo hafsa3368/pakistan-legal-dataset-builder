@@ -6,12 +6,17 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "criminal case does not",
+  "case_number": "",
   "date_of_order": "26.03.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 489-F PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Owais Qarni",
+    "Shaikh Muhammad Talha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

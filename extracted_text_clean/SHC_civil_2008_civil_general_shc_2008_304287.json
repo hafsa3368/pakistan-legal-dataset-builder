@@ -6,9 +6,9 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitution. The constitutional court does not",
+  "case_number": "C.P No.D-1004 of 2013",
   "date_of_order": "28.01.2026",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Abdul Mobeen Lakho",
   "sections_cited": [
     "Section 10"
   ],
@@ -16,7 +16,19 @@
     "2001 SCMR 1493",
     "2011 SCMR 279"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Ghafoor and others",
+    "Federation of Pakistan and others",
+    "Port Qasim Authority/Respondent No.2",
+    "Assistant Advocate General Sindh a/w M. Nawaz",
+    "M. Sarmad Khan",
+    "Nasrullah Malik",
+    "Alizeh Azan",
+    "Ayan Mustafa Memon",
+    "Hassan N. Qamar",
+    "Rania Adeel",
+    "M. Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

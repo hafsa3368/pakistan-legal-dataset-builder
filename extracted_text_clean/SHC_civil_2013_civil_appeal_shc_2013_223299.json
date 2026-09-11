@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "CR. A.T. JAIL APPEAL NO.65/2023",
   "date_of_order": "04.12.2024",
-  "judge": "",
+  "judge": "Salahuddin Panhwar",
   "sections_cited": [
     "section 324, 353, 186, 34 PPC",
     "section 7",
@@ -25,7 +25,17 @@
     "2018 P.Cr.L.J. 959",
     "PLD 2016 SC 951"
   ],
-  "parties": [],
+  "parties": [
+    "Appellant",
+    "Police Station Zaman Town",
+    "Police party",
+    "Police Station Zaman Town",
+    "Shahzad Ali",
+    "Iftikhar Ahmed",
+    "Muhammad Arshad Tanoli",
+    "Abrar Ali Khichi",
+    "Mr. Muhammad Arshad Tariq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

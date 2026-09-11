@@ -6,14 +6,17 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-1860 of 2015",
   "date_of_order": "09.08.2023",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [
     "section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Proprietor of the Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

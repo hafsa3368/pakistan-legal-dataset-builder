@@ -9,13 +9,27 @@
   "case_number": "",
   "date_of_order": "02-11-2021",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 4 of the Contract Representatives Act 1872"
+  ],
   "citations": [
     "2016 SCMR 1375",
     "2021 SCMR 673",
     "2020 SCMR 507"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Waheed Bhanbhro",
+    "Mr. Nisar Ahmed Bhanbhro",
+    "Mr. Aamir Mustafa Kamario",
+    "Mr. Qurban Ali Malano",
+    "Mr. Shahriyar I.Awan",
+    "Mr. Abdul Waheed Bhanbhro",
+    "Government of Khyber Pakhtunkhwa",
+    "Muhammad Asif & Others",
+    "Provincial Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

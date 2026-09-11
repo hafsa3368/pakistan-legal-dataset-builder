@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 20,
-  "case_number": "constituents of the record and argued that knowledge",
+  "case_number": "",
   "date_of_order": "06.03.2019",
-  "judge": "",
+  "judge": "Agha Faisal,",
   "sections_cited": [
     "Section 34 of the Arbitration Act",
     "section 34 of the Arbitration Act",
@@ -26,7 +26,19 @@
     "PLD 1977 Karachi 822",
     "PLD 2010 Karachi 400"
   ],
-  "parties": [],
+  "parties": [
+    "United Mobile & Others",
+    "Abdul Rauf Essa & Others",
+    "Mohammad Ali Mazhar",
+    "Agha Faisal",
+    "Mohammad Ali Mazhar and Agha Faisal",
+    "United Mobile & Others",
+    "Abdul Rauf Essa & Others",
+    "Mohammad Ali Mazhar and Agha Faisal",
+    "United Mobile & Others",
+    "Abdul Rauf Essa & Others",
+    "Mohammad Ali Mazhar and Agha Faisal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

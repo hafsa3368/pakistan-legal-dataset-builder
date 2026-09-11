@@ -9,11 +9,21 @@
   "case_number": "Constitutional Petition No.D-220 of 2025",
   "date_of_order": "14.04.2025",
   "judge": "Adnan Ashraf Nizamani",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2012 SCMR 280"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Syed Fiaz ul Hasan Shah",
+    "Mr. Muhammad Saleem Kumbhar",
+    "Petitioners",
+    "Haji & Others",
+    "IMTIAZ ALI KHAN and others",
+    "State Bank of Pakistan through Governor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No. D-6344 of 2020",
   "date_of_order": "10.05.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Arbab Ali Hakro Justice Riazat",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Ilyaseenuzafar",
+    "Province of Sindh",
+    "other"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

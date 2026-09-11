@@ -6,10 +6,12 @@
   "year": "2006",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "constitutional and direct the respondent No.5",
+  "case_number": "",
   "date_of_order": "02.11.2021",
   "judge": "Adnan Iqbal Chaudhry Petitioner",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 3"
+  ],
   "citations": [
     "2016 YLR 940"
   ],

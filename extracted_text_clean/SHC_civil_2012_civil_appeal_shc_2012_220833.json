@@ -6,9 +6,9 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "HCA No. 205 of 2018",
   "date_of_order": "21.08.2024",
-  "judge": "JUDGE",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [],
   "citations": [
     "1994 CLC 2103",
@@ -19,7 +19,16 @@
     "1982 SCMR 816",
     "PLD 1982 Khi 745"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Mehmood Ali",
+    "Amjad Yousuf",
+    "Syed Faisal Ali",
+    "Mst. Zahida Begum",
+    "Zulfiqar Ali Abbasi",
+    "Zam Zam Builders & Developers",
+    "Sindhi Muslim Cooperative Housing Society",
+    "Meezan Bank"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

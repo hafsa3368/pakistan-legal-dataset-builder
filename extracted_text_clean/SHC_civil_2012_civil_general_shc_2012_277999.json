@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Constitution Petition No. D-2415 of 2022",
-  "date_of_order": "",
+  "date_of_order": "13.08.2024",
   "judge": "Karim Memon",
   "sections_cited": [
     "Section 87 of the KPT Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Imran Ahmed Alvi",
+    "Trustee of the Port of Karachi & others",
+    "Muhammad Nishat Warsi",
+    "Wajiha Mehdi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

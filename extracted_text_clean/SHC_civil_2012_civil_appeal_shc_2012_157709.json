@@ -6,9 +6,9 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No.D-154 of 2016",
   "date_of_order": "03-11-2021",
-  "judge": "JUDGE Ghulam Muhammad / Stenographer",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "section 382-B"
   ],
@@ -24,7 +24,10 @@
     "2017 SCMR 283",
     "2019 SCMR 1975"
   ],
-  "parties": [],
+  "parties": [
+    "Amanullah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

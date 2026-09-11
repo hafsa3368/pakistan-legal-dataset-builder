@@ -6,12 +6,23 @@
   "year": "2008",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitution Petitions merit no consideration",
+  "case_number": "",
   "date_of_order": "03.11.2021",
-  "judge": "Adnan Iqbal Chaudhry Date",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ismail",
+    "Gulji",
+    "Muhammad Rafique",
+    "Government",
+    "Director Sindh University Testing Center",
+    "Departmental Recruitment Committee (DRC)",
+    "Sindh University",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

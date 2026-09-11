@@ -6,12 +6,25 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-4991 of 2024",
   "date_of_order": "10.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Irfan Yaqoob Arfani",
+    "Mr.Sandeep Malani",
+    "Respondent No.02",
+    "Respondent No.03",
+    "Respondent No.05",
+    "Respondent No.06",
+    "Respondent No.07",
+    "Respondent No.08",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitutional jurisdiction subject to the non-availability",
+  "case_number": "C.P. No.D-1480 of 2011",
   "date_of_order": "12.09.2017",
   "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
@@ -24,7 +24,11 @@
     "2013 CLC 52",
     "PLD 1990 SC 1195"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ilyas",
+    "Muhammad Saleh",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

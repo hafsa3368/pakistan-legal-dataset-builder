@@ -6,7 +6,7 @@
   "year": "2011",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "06.02.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
@@ -18,7 +18,12 @@
     "2013 SCMR 1752",
     "2015 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "Okash Khalid Memon & 04 others",
+    "Province of Sindh and 02 others",
+    "Mr. Ali Asadullah Bullo",
+    "Mr. Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

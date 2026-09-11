@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "",
   "date_of_order": "26.11.2011",
-  "judge": "",
+  "judge": "Sana Akram Minhas",
   "sections_cited": [
     "section 151 of the Code",
     "section 22",
@@ -33,7 +33,11 @@
     "1982 SCMR 494",
     "1994 SCMR 1555"
   ],
-  "parties": [],
+  "parties": [
+    "Prime Builders",
+    "Pakistan Industrial Development Corporation (Pvt) Ltd & Another",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

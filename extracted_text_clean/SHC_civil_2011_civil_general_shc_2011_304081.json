@@ -9,9 +9,22 @@
   "case_number": "Civil Petitions No. 933-K",
   "date_of_order": "28.01.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 199 CrPC",
+    "Article 199 of the Constitution",
+    "Section 498 CrPC",
+    "Section 13 (1) (g) of the Constitution of Pakistan"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Ghulam Rasool Samoon",
+    "Mr.Rafiq Ahmed Dahri",
+    "Nisar Ali D.E.O (ES/HS)",
+    "Tando Muhammad Khan",
+    "Rashid",
+    "District Accounts Office, Umerkot",
+    "Secretary, School Education & Literacy Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

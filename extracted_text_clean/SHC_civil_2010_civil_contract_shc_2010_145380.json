@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "Constitution Petition No.D-2038/2010",
   "date_of_order": "2nd August, 2010",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 14 of the Arbitration Act",
     "sections 30 and 33 of the Arbitration Act",
@@ -27,7 +27,11 @@
     "PLD 1961 Karachi 623",
     "PLD 1987 SC 393"
   ],
-  "parties": [],
+  "parties": [
+    "Sadan General Trading LLC",
+    "Trading Corporation of Pakistan",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

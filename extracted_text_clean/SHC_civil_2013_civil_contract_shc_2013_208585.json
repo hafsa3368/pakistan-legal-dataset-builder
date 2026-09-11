@@ -6,10 +6,13 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "High Court Appeal No.62 of 2023",
   "date_of_order": "01.04.2013",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Sana Akram Minhas",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Order 38 rule 5 of the Code of Civil Procedure 1908"
+  ],
   "citations": [
     "1982 CLC 1360",
     "1983 SCMR 238",
@@ -20,7 +23,13 @@
     "PLD 2018 Sindh 339",
     "PLD 2020 Sindh 385"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulamali P. Allana",
+    "Louis Dreyfus Commodities Suisse SA",
+    "Louis Dreyfus Commodities Suisse Asia PTE. Ltd",
+    "Louis Dreyfus Commodities Suisse MEA Trading DMCC",
+    "Anza Trade (Pvt) Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

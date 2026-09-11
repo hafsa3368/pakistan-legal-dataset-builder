@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Civil Revision Application No.S-80 of 2024",
-  "date_of_order": "",
+  "date_of_order": "14-01-2026",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Dilip J. Mulani",
+    "Mr. Muhammad Essa Behan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

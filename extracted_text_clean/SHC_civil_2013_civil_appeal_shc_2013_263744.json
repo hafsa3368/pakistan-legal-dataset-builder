@@ -6,9 +6,9 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Criminal Anti-Terrorism Jail Appeals No.36 of 2023",
+  "case_number": "",
   "date_of_order": "09.04.2025",
-  "judge": "",
+  "judge": "MUHAMMAD HASAN (AKBER)",
   "sections_cited": [
     "Section 265-H Cr.P.C",
     "Section 7",
@@ -25,7 +25,18 @@
     "2024 SCMR 1437",
     "PLD 2020 SC 61"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ikram",
+    "The State",
+    "Muhammad Ikram",
+    "The State",
+    "Iqbal Awan",
+    "The State",
+    "Muhammad Ikram",
+    "The State",
+    "Iqbal Awan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

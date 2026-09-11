@@ -6,7 +6,7 @@
   "year": "2012",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "02.02.2021",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -18,7 +18,12 @@
     "1993 SCMR 1440",
     "2006 SCMR 60"
   ],
-  "parties": [],
+  "parties": [
+    "Mir Abdul Majeed",
+    "The Overseas Employment Corporation",
+    "Mumtaz Ali",
+    "C.P"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

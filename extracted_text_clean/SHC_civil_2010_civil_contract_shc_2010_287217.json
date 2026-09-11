@@ -6,12 +6,21 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P. NO. D-6206",
   "date_of_order": "22.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Rule 32 of the Sindh Public Procurement Rules, 2010"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khalilullah Jakhro",
+    "Mr. Sibghatullah Shaikh",
+    "Petitioner",
+    "Respondent No. 2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,8 +6,8 @@
   "year": "2010",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitutional Petition No.D-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "20.01.2023",
   "judge": "",
   "sections_cited": [
     "Section 9",
@@ -24,7 +24,10 @@
     "2010 SCMR 1925",
     "PLD 2007 SC 45"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Shereen",
+    "The State through Govern of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

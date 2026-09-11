@@ -8,13 +8,16 @@
   "num_chunks": 9,
   "case_number": "Civil Suit No 60 of 2008",
   "date_of_order": "06.07.2017",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [],
   "citations": [
     "2013 SCMR 1300",
     "2011 SCMR 249"
   ],
-  "parties": [],
+  "parties": [
+    "Saleh Muhammad",
+    "Mst. Rahima Bai and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

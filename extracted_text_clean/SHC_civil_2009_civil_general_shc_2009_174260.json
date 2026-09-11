@@ -8,14 +8,17 @@
   "num_chunks": 4,
   "case_number": "Criminal Revision Application No. 95 of 2017",
   "date_of_order": "04.08.2017",
-  "judge": "",
+  "judge": "OMAR SIAL",
   "sections_cited": [
     "section 540 Cr.P.C"
   ],
   "citations": [
     "PLD 2013 SC 160"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Muhammad Irfan Qadri",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
