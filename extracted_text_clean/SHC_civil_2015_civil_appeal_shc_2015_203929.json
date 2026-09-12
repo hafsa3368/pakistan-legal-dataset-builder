@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitutional jurisdiction subject to the non-availability",
+  "case_number": "C.P No.D-1203 of 2023",
   "date_of_order": "13.09.2023",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -19,7 +19,11 @@
     "2006 SCMR 778",
     "2008 SCMR 8"
   ],
-  "parties": [],
+  "parties": [
+    "Azizullah Brohi & Others",
+    "Sindh Labour Appellate Tribunal Hyderabad",
+    "Thatta Cement Company Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

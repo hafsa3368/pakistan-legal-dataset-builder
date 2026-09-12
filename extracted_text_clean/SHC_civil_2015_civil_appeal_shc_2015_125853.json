@@ -8,7 +8,7 @@
   "num_chunks": 20,
   "case_number": "Crl. A.T.J.A. No.20 of 2017",
   "date_of_order": "13.02.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 384, 385 & 34",
     "Section 7",
@@ -27,7 +27,16 @@
     "PLD 2002 SC 1048",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Aqil Abbas",
+    "Muhammad Kamran",
+    "Muhammad Tanveer",
+    "The State",
+    "Muhammad Kamran",
+    "Muhammad Tanveer",
+    "Aqil Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

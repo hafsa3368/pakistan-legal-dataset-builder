@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "",
   "date_of_order": "23.09.2020",
-  "judge": "",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "Section 9 of the Ordinance",
     "Section 10 of the Ordinance",
@@ -19,7 +19,11 @@
   "citations": [
     "PLD 2016 SC 712"
   ],
-  "parties": [],
+  "parties": [
+    "Farnaz Ahmed",
+    "Faysal Bank Limited",
+    "Nadeem Ahmed Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

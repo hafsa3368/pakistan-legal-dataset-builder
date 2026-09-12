@@ -6,12 +6,23 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-5966 of 2016",
   "date_of_order": "15.12.2016",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Amir Ali Shah",
+    "Chaudhry Muhammad Farooque",
+    "Ms. Samina Iqbal",
+    "NADRA",
+    "Mansoor Alam",
+    "Deputy Director",
+    "Arshad Hussain Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

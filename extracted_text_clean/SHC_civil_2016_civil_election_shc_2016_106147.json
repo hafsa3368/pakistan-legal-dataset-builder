@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "C.P. No. D-2199 of 2016",
   "date_of_order": "14.05.2016",
-  "judge": "JUDGE Suleman Khan/PA",
+  "judge": "Aqeel Ahmed Abbasi",
   "sections_cited": [
     "Section 18-A",
     "Section 47-A",
@@ -25,7 +25,10 @@
     "PLD 1998 SC 1445",
     "PLD 2007 SC 369"
   ],
-  "parties": [],
+  "parties": [
+    "Katcha Peshi",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

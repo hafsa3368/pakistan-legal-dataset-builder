@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Civil Revision Application No. 184 of 2017",
   "date_of_order": "31.08.2020",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 9",
     "Section 7 and 117 of the Sindh Land Revenue Act",
@@ -28,7 +28,20 @@
     "PLD 1983 SC 243",
     "PLD 2013 SC 255"
   ],
-  "parties": [],
+  "parties": [
+    "Bashir Ahmed",
+    "Maqsood Ahmed",
+    "Muhammad Yousif",
+    "Maqsood Ahmed",
+    "Muhammad Ashraf",
+    "Maqsood Ahmed",
+    "Abdul Hakeem",
+    "Maqsood Ahmed",
+    "Muhammad Ramzan",
+    "Maqsood Ahmed",
+    "Muhammad Ashraf",
+    "Maqsood Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

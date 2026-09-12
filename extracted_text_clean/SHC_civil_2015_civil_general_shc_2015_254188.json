@@ -9,7 +9,10 @@
   "case_number": "Constitutional Petition No. D-1524 of 2016",
   "date_of_order": "21.10.2015",
   "judge": "Muhammad Karim Khan Agha Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2013 SCMR 642",
     "2018 SCMR 598",
@@ -17,7 +20,11 @@
     "2013 SCMR 903",
     "2006 SCMR 434"
   ],
-  "parties": [],
+  "parties": [
+    "Raees Muhammad Khan",
+    "Federation of Pakistan",
+    "Zarai Taraqiati Bank Limited (ZTBL)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

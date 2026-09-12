@@ -9,12 +9,28 @@
   "case_number": "",
   "date_of_order": "31.01.2024",
   "judge": "Muhammad Shafi Siddiqui Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 1550",
     "PLD 2023 SC 241"
   ],
-  "parties": [],
+  "parties": [
+    "Fateh Textile Mills Ltd. & others",
+    "Allied Bank of Pakistan & another",
+    "Mr. S. Ahsan Imam Rizvi",
+    "M/s Bahadur Khosa and Assadullah Shar Advocates",
+    "Mr. Shahabuddin Kalwar",
+    "Mr. M. Saleem Mangrio Advocate",
+    "Mr. Raashid Anwar",
+    "Syed Mustafa Ali Advocates",
+    "Syed Ahsan Rahman",
+    "Law Officer Allied Bank Limited",
+    "Syed Mustafa Ali",
+    "Syed Ahsan Rahman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

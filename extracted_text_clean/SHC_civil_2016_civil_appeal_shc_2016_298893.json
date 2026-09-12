@@ -9,7 +9,9 @@
   "case_number": "Const. Petition No. S-1487 of 2019",
   "date_of_order": "15.12.2025",
   "judge": "Approved for reporting",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2019 MLD 772",
     "1987 SCMR 307",
@@ -24,7 +26,14 @@
     "PLD 2004 SC 921",
     "PLD 1982 SC 465"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Waheed Khan",
+    "Vth Addl: District Judge East & another",
+    "Mr. Arif Khan",
+    "Mr. Muhammad Shafi Malik",
+    "Mr. Pervaiz Ahmed Mastoi",
+    "M.Tahir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

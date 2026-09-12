@@ -6,12 +6,18 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No. D-2535 of 2016",
   "date_of_order": "21.04.2026",
-  "judge": "JUDGE Jamil",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Zubair",
+    "Administrator KMC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,15 +6,20 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "High Court Appeal No.428 of 2018",
   "date_of_order": "08.09.2020",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 151 of CPC",
     "Section 62 of the Contract Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sui Southern Gas Company Limited",
+    "Data Steel Pipe Industries (Pvt.) Limited",
+    "Nemo",
+    "SILK Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

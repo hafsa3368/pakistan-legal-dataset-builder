@@ -6,12 +6,24 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "25.04.2019",
   "judge": "CHIEF JUSTICE",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Zahid Ali",
+    "Raeesa Naz",
+    "Syeda Shama Mushtaq",
+    "Allah Nawaz Memon",
+    "Director General NAB",
+    "Mr. Zahid Hussain Baladi",
+    "Humair Builders",
+    "M/s. Humair Associates Builders (Pvt.) Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

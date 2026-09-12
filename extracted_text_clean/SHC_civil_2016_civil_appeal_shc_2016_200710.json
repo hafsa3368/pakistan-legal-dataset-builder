@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-4827 of 2016",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "09.08.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sundar Khan Chachar, Advocate",
+    "Mr. Irshad Hussain Dharejo",
+    "Muhammad Salman",
+    "Mr. Zulfiqar Ali Naich",
+    "Jameel Ahmed",
+    "Manghu Mal",
+    "The Board of Intermediate and Secondary Education (BISE), Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

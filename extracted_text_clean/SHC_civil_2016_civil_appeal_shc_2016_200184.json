@@ -6,16 +6,19 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Crl.Acq.AppealNo. S",
+  "case_number": "",
   "date_of_order": "04.10.2023",
-  "judge": "",
+  "judge": "AMJAD ALI BOHIO",
   "sections_cited": [
     "Section 417 of the Cr.P.C",
     "Section 15 and 17",
     "Section 342 of the Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hakim Ali Umrani",
+    "Ghulam Shabeer Mubejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

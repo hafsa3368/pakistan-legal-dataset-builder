@@ -6,12 +6,18 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitution Petition No. D",
+  "case_number": "",
   "date_of_order": "17.10.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Nadeem Qureshi",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent No.2",
+    "Respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

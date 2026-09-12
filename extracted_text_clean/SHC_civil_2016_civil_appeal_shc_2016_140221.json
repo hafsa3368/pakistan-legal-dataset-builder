@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "",
   "date_of_order": "13.09.2019",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "section 12 CPC",
     "Section 9",
@@ -22,7 +22,14 @@
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mohammad Ali Mazhar",
+    "Agha Faisal",
+    "United Bank Limited",
+    "Mohammad Arif Gohar",
+    "Mr. Muhammad Javed Tanoli",
+    "Mr. Aijaz Hussain Shirazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

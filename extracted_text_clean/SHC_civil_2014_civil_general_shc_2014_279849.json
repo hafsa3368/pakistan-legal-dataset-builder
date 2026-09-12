@@ -6,7 +6,7 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "constructed on Plot No.BC-II",
+  "case_number": "C.P No.S-801 of 2023",
   "date_of_order": "03.09.2025",
   "judge": "Muhammad Osman Ali Hadi",
   "sections_cited": [
@@ -26,7 +26,13 @@
     "PLD 2015 SC 33",
     "PLD 2021 SC 715"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Osman Ali Hadi",
+    "Mst. Sakina Khatoon and others",
+    "Mr. Mohsin Shahwani",
+    "Mr. Shahzad Afzal",
+    "Ms. Deeba Ali Jaffri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

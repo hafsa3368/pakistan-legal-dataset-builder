@@ -6,12 +6,19 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-7186 of 2015",
   "date_of_order": "30.09.2025",
-  "judge": "JUDGE Hyder/PS",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Niaz Ali",
+    "Chaudhary Azhar Elahi",
+    "Respondent No.2",
+    "Respondent No.3",
+    "Respondent No.4",
+    "Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

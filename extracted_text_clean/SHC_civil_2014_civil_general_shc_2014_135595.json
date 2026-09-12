@@ -6,12 +6,16 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-28 of 2016",
   "date_of_order": "22.04.2021",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imtiaz Ali Mahesar",
+    "Mr. Ayaz Hussain Tunio",
+    "District Education Dadu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

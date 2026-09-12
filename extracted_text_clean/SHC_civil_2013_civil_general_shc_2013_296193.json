@@ -6,12 +6,19 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-752 of 2024",
   "date_of_order": "12.11.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Waqas Ahmed",
+    "Province of Sindh",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

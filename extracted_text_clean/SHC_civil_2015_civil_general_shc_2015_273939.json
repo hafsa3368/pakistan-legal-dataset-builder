@@ -8,13 +8,20 @@
   "num_chunks": 1,
   "case_number": "Criminal Miscellaneous Application No.S-894 of 2024",
   "date_of_order": "03.02.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "u/s 22-A"
+  ],
   "citations": [
     "2024 SCMR 985",
     "2015 SCMR 1724"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mazhar Ali Laghari",
+    "Mr. Essa Behan",
+    "Ms. Sobia Bhatti",
+    "SIP Zeeshan Ali SHO PS Sekhat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

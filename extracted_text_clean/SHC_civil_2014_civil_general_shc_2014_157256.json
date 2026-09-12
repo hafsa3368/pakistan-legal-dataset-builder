@@ -6,7 +6,7 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitution does not",
+  "case_number": "",
   "date_of_order": "01.07.2012",
   "judge": "Aftab Ahmed Gorar Mr",
   "sections_cited": [],
@@ -14,7 +14,19 @@
     "2001 SCMR 1161",
     "PLD 1993 SC 341"
   ],
-  "parties": [],
+  "parties": [
+    "Rawal Khan and 75 others",
+    "Mr. Obaid-ur-Rehman Khan",
+    "Mr. Ali Safdar Depar",
+    "Dr. Liaquat Ali Abro",
+    "Nadeem Ahmed Qureshi",
+    "Sanaullah",
+    "Mengraj Mal",
+    "Government of Sindh",
+    "Finance Department",
+    "Dr. Liaquat Ali Abro",
+    "Nadeem Ahmed Qureshi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

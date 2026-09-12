@@ -6,12 +6,29 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-3223 of 2015",
   "date_of_order": "29.09.2016",
-  "judge": "JUDGE Aadil Arab",
-  "sections_cited": [],
+  "judge": "Muhammad Ali Mazhar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh & another",
+    "V E R",
+    "Mr. Justice Muhammad Ali Mazhar",
+    "Mr. Justice Arshad Hussain Khan",
+    "Wali Mohammad",
+    "Petitioner",
+    "Respondents",
+    "Mr. Ali Ahmed Ghumro",
+    "Mr. Abdul Jalil Zubedi",
+    "A.A.G",
+    "Muhammad Ali Mazhar, J",
+    "V E R",
+    "Aadil Arab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

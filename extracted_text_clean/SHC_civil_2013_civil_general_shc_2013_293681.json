@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "77.03.2025",
-  "judge": "",
+  "judge": "Additional District Judge-VI",
   "sections_cited": [
     "Section 55L-A of the Code",
     "Section 23",
@@ -17,7 +17,14 @@
     "Section 561-A of the Criminal Procedure Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Amir Irshad",
+    "The State",
+    "The Station House Officer, P.S. Airport",
+    "The Excise & Taxation Office",
+    "Sohail Jamil",
+    "Muneer Ahmed Jomani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

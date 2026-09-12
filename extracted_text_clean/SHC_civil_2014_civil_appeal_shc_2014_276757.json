@@ -6,12 +6,18 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil petition for leave to appeal No.83-K/2014",
+  "case_number": "",
   "date_of_order": "04.08.2025",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gul Bano",
+    "Shehnaz Bano & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

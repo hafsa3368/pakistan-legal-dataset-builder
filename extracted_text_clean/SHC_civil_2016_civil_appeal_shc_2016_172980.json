@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 12,
   "case_number": "Criminal Appeal No. 47 of 2021",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "19-10-2022",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 43",
     "section 32",
@@ -27,7 +27,13 @@
     "PLD 2017 Sindh 140",
     "PLD 2001 Karachi 283"
   ],
-  "parties": [],
+  "parties": [
+    "State/Anti-Narcotic Force",
+    "Nemo",
+    "Ayesha Zafar",
+    "Mehwish Tareen",
+    "Dr. Zeelaf Munir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

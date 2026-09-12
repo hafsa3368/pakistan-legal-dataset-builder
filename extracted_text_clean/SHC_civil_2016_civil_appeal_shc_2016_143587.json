@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 14,
   "case_number": "Criminal Appeal No. 486 of 2018",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "12.02.2020",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 397",
     "section 34 PPC",
@@ -24,7 +24,14 @@
     "PLD 1981 SC 142",
     "PLD 1993 SC 895"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Kashif",
+    "Muhammad Hanif",
+    "The State",
+    "Mr. Siraj Ahmed Khan Chandio",
+    "Haji Muhammad Ishtiaq",
+    "Mr. Muhammad Javed K.K. Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

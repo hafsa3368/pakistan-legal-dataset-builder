@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Crl. Jail Appeal No.S-169 of 2019",
   "date_of_order": "16-07-2021",
-  "judge": "",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "Section 23",
     "Section 382-B Cr.P.C",
@@ -23,7 +23,12 @@
     "2012 MLD 1315",
     "PLD 1996 Karachi 345"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Bachal",
+    "The State",
+    "Muhammad Bachal",
+    "Shah Murad alias Gulzar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

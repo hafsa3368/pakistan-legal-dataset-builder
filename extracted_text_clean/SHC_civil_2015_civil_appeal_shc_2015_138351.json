@@ -6,12 +6,20 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Anti Terrorism Jail Appeal No.225/2015",
+  "case_number": "",
   "date_of_order": "23.05.2017",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Yousuf Ali Sayeed",
+  "sections_cited": [
+    "S. 4 and S.5 of the Explosives Act 1908",
+    "S.7 of the Anti- Terrorism Act, 1997",
+    "S.382-B Cr. P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Rahim @ Gujjar",
+    "The State",
+    "Abrar Ali Khichi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

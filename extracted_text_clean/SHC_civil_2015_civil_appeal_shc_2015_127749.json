@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.D-26 of 2018",
   "date_of_order": "16.05.2018",
-  "judge": "JUDGE Arif",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C",
@@ -22,7 +22,13 @@
     "2018 MLD 422",
     "PLD 2006 Karachi 377"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Majeed",
+    "The State",
+    "Abdul Majeed s/o Gul Hassan",
+    "Muhammad Jamil Ahmed",
+    "Muhammad Ayoob Kasar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

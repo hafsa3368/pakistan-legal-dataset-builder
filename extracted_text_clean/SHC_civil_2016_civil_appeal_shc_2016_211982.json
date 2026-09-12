@@ -6,12 +6,18 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.13 of 2016",
   "date_of_order": "12.03.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aurangzeb and another",
+    "Bank Al-Falah Private Limited and others",
+    "Mr. Irfan Ahmed Memon",
+    "Mr. Aijaz Hussain Shirazi",
+    "Mr. Mubarak Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

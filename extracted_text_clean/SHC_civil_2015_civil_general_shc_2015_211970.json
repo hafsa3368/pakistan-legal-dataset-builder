@@ -38,7 +38,10 @@
     "PLD 1994 Karachi 112",
     "PLD 1985 Lahore 365"
   ],
-  "parties": [],
+  "parties": [
+    "Askari Bank Limited",
+    "Hafiz Ghulam Murtaza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

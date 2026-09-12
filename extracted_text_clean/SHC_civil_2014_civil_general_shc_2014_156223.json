@@ -6,12 +6,18 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitutional Petitions bearing No. D-1045",
+  "case_number": "",
   "date_of_order": "09.11.2021",
   "judge": "Adnan Iqbal Chaudhry Petitioners",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Akhlaque Hussain Memon & ors",
+    "Federation of Pakistan & Others",
+    "Mr. Taha Soomro",
+    "Mr. M. Arshad S. Pathan",
+    "Mr. Ashfaque Nabi Qazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,19 @@
   "num_chunks": 4,
   "case_number": "constitution petition No.2070/2015",
   "date_of_order": "30.01.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "Section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Hashim",
+    "Mst. Anita Kalim",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Omar Sial",
+    "Mr. Sikandar Khan",
+    "Mr. Faiz Durani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

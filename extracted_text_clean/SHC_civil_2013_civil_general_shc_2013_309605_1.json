@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No. D-5615 of 2025",
   "date_of_order": "02.04.2026",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Sections 80 and 81 of the Sindh Local Government Act",
     "Section 3 of the Local Governemnt Act",
@@ -17,7 +17,13 @@
     "Section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sher Ali",
+    "Province of Sindh & others",
+    "Mr. Ali Asadullah Bullo",
+    "Mr. Salman Sabir",
+    "Mr. Abdul Jalil Zubedi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

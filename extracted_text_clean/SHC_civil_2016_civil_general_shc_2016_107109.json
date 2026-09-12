@@ -6,12 +6,14 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P.No.D-5156/2015",
   "date_of_order": "29.09.2016",
   "judge": "Muhammad Ali Mazhar Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M. Azam Abbasi, Aurangzaib, Pervez Masih, Nawaz Masih, Abdul Shakoor and Sauood Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

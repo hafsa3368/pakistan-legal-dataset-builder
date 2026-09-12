@@ -6,14 +6,29 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P No.D-1702 of 2025",
   "date_of_order": "23.10.2025",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Director General Anti-Corruption Establishment Lahore and others vs. Muhammad Akram Khan and others"
+  ],
   "citations": [
     "PLD 2013 SC 401"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Sarbaz Ayaz Palijo",
+    "Mr. Rafique Ahmed Dahri",
+    "Assistant A.G Sindh",
+    "Dileejan Rind",
+    "Raza Muhammad Soomro",
+    "Mr. Shahid Ahmed Shaikh",
+    "Mr. Muzamil Khan",
+    "Mr. Arshad Ali Keerio",
+    "Mr. Parwaiz Ahmed Pirzada",
+    "Shamsuddin Rajper"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

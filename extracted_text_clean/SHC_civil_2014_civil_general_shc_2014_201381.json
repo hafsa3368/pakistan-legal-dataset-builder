@@ -8,7 +8,7 @@
   "num_chunks": 27,
   "case_number": "Civil Suit No.988/2012",
   "date_of_order": "22.05.2023",
-  "judge": "",
+  "judge": "Jawad Akbar Sarwana",
   "sections_cited": [
     "Section 151 CPC",
     "Section 73 of the Contract Act",
@@ -27,7 +27,12 @@
     "PLD 1994 SC 476",
     "PLD 1990 SC 28"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Feroz Ali",
+    "Syed Farhat Ali",
+    "Mst Tasneem Fatima Razi",
+    "Mst Taskeen Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,15 +6,19 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "C.P. No.D-7507 of 2021",
   "date_of_order": "18.02.2026",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "section 24",
     "section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Uzma Amir",
+    "Province of Sindh",
+    "Jinnah University for Women"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

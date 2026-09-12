@@ -6,7 +6,7 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Misc. A. No. D",
+  "case_number": "",
   "date_of_order": "20.02.2018",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,12 @@
     "section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aijaz Ali",
+    "Syed Meeral Shah Bukhari",
+    "Zahid Hussain Umrani",
+    "State v. Zahid Hussain & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

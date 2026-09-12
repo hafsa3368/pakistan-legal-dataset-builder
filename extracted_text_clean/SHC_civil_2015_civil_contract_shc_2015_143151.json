@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 27,
-  "case_number": "constraints and now",
+  "case_number": "",
   "date_of_order": "08.10.2019",
-  "judge": "",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "Sections 92",
     "Section 94",
@@ -25,7 +25,11 @@
     "PLD 2003 SC 215",
     "PLD 1969 SC 80"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Shan Associates",
+    "Getz Pharma (Private) Limited & others",
+    "Adamjee Insurance Company Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

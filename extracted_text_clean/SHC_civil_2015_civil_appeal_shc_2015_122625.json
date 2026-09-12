@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No.D-133 of 2014",
   "date_of_order": "22.01.2018",
-  "judge": "JUDGE AH",
+  "judge": "Abdul Maalik Gaddi",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C",
@@ -18,7 +18,15 @@
   "citations": [
     "2015 SCMR 1002"
   ],
-  "parties": [],
+  "parties": [
+    "Deedar Ali son of Nizamuddin",
+    "The State through Syed Meeral Shah A.P.G.",
+    "The State",
+    "SIP Sanaullah Jalbani",
+    "P.S Hamal",
+    "Shahdad Kot",
+    "Mst. Soomri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

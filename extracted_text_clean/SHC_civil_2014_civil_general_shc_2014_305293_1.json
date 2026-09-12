@@ -6,12 +6,26 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No. D-2291 of 2025",
   "date_of_order": "10.02.2026",
   "judge": "Zulfiqar Ali Sangi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syeda Sunderta Shah",
+    "Syeda Amna Shah",
+    "Province of Sindh",
+    "Rashid Rajpar",
+    "Abdul Jalil Zubedi",
+    "Riaz Hassan Khoso",
+    "Tahrim Jawahery",
+    "Adnan-ul-Karim Memon",
+    "Syed Jahangir Shah",
+    "Excise, Taxation & Narcotics, Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

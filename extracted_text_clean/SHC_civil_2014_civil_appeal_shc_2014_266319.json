@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Civil Suit No.1363/2014",
   "date_of_order": "13.03.2025",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Section 100",
     "Section 100 of the Code",
@@ -25,7 +25,14 @@
     "PLD 1965 SC 134",
     "PLD 1994 SC 291"
   ],
-  "parties": [],
+  "parties": [
+    "Shoukat Ali Gohar",
+    "Muhammad Naseem Choudhry and others",
+    "Muhammad Ibrahim Shaikh",
+    "Muhammad Naseem Choudhary",
+    "Mr. Muhammad Aqil",
+    "Muhammad Asif Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

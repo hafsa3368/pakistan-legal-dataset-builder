@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "Civil Appeal No.42 of 2016",
   "date_of_order": "22.5.2023",
-  "judge": "",
+  "judge": "ARBAB ALI HAKRO",
   "sections_cited": [
     "Section 100 of the Civil Procedure Code",
     "Section 42 of the Specific Relief Act",
@@ -38,7 +38,13 @@
     "2007 YLR 405",
     "2011 SCMR 1460"
   ],
-  "parties": [],
+  "parties": [
+    "Production Engineer PPL, I/C Camp office, Kandhkot",
+    "Azizullah s/o Kajlo Chachar",
+    "Through Mr. Ghulam Dastagir A. Shahani Advocate",
+    "Through Mr. Abdul Hamid Bhurgri Additional Advocate General",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

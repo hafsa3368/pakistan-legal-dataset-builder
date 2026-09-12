@@ -7,13 +7,25 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Constitution Petition No. D-178 of 2019",
-  "date_of_order": "",
+  "date_of_order": "02-05-2024",
   "judge": "Karim Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Rule 11-A of Sindh Civil Servants (Appointment, Promotion and Transfer) Rules, 1974"
+  ],
   "citations": [
     "2018 SCMR 1607"
   ],
-  "parties": [],
+  "parties": [
+    "Khalid Ahmed Bozdar",
+    "Province of Sindh",
+    "Education and Literacy Department Government of Sindh",
+    "Sadar Din",
+    "Alam Sher Bozdar",
+    "Muhammad Abdur Rahman",
+    "Asfandayar Kharal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

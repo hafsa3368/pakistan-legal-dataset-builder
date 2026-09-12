@@ -9,12 +9,19 @@
   "case_number": "Constitutional Petition No.D-1132 of 2024",
   "date_of_order": "12.11.2025",
   "judge": "Muhammad Karim Khan Agha Justice",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 10-A of the Constitution of Islamic Republic of Pakistan 1973"
+  ],
   "citations": [
     "2017 SCMR 2010",
     "2020 SCMR 1401"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Anwar Jellani",
+    "Administrator, Defence Housing Authority",
+    "DHA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

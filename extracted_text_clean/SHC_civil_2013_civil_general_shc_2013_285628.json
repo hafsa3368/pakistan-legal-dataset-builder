@@ -9,9 +9,18 @@
   "case_number": "Civil Petition No.186-K of 2013",
   "date_of_order": "02.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bashir Ahmed Ogahi",
+    "Secretary Education and Literacy Department",
+    "Inayatullah G. Morio",
+    "Liaquat Ali Shar",
+    "Ali Nawaz Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

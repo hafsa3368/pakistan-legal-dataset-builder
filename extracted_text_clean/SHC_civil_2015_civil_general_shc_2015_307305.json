@@ -9,9 +9,15 @@
   "case_number": "Civil Revision Application No.06/2019",
   "date_of_order": "03.03.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Wishan Das Kolhi",
+    "Mr. Muhammad Shareef Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

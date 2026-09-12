@@ -8,10 +8,20 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "24.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Abdul Razzak and Asim Amin, Advocates",
+    "Ms. Arjumand Khan, Advocate",
+    "Mr. Ghulam Haider Shaikh, Advocate",
+    "Mr. Abdul Razzak, Advocate",
+    "Mr. Asim Amin, Advocate",
+    "Mirza Anwer Baig"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

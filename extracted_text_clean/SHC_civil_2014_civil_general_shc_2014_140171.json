@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Civil Petitions No. 989",
   "date_of_order": "13.09.2019",
-  "judge": "JUDGE",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "Section 14",
     "section 14",
@@ -18,7 +18,11 @@
   "citations": [
     "2016 SCMR 992"
   ],
-  "parties": [],
+  "parties": [
+    "Sidra Khan",
+    "Province of Sindh",
+    "Wazeer Hussain Khoso"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

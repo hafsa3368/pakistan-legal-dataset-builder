@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "30.11.2021",
-  "judge": "Adnan Iqbal Chaudhry Date",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "section 11",
     "Section 3"
@@ -21,7 +21,13 @@
     "2019 SCMR 648",
     "2020 SCMR 1041"
   ],
-  "parties": [],
+  "parties": [
+    "Faisal Shah Muhammad",
+    "Ghulam Fareed Mangi",
+    "Muhammad Nawaz Panjhoto",
+    "Asif Ali Abro",
+    "Rafiq Ahmed Dahri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "constructed on Plot No.PR-2/32",
+  "case_number": "",
   "date_of_order": "28.11.2016",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Section 8 of Sindh Rented Premises Ordinance",
     "Section 21 of the Sindh Rented Premises Ordinance",
@@ -30,7 +30,15 @@
     "PLD 1983 Karachi 9",
     "PLD 1996 Karachi 494"
   ],
-  "parties": [],
+  "parties": [
+    "Israrul Haq",
+    "Mst. Zohra Jabeen",
+    "Nooruddin",
+    "Haji Salahuddin",
+    "Mr. Abdullah Chandio",
+    "M/s. Qaisar Hassan Khan",
+    "Altaf Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

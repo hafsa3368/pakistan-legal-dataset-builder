@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "CONST. PETITION No. D-7473 OF 2015",
   "date_of_order": "04.10.2021",
-  "judge": "Amjad/PS",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Mr. Nabi Bux Leghari",
+    "Mr. Abdul Jalil Zubedi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

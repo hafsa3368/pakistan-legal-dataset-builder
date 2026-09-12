@@ -6,12 +6,18 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No. D-5071 of 2014",
   "date_of_order": "23.04.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnanul-Karim Memon",
+  "sections_cited": [
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Farooq Kasmani",
+    "KMC",
+    "Karachi Municipal Corporation"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

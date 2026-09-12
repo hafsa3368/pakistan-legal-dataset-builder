@@ -6,12 +6,25 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-1855 of 2016",
   "date_of_order": "30.11.2016",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Sajjad Gopang, Advocate",
+    "Mr. Sher Muhammad Leghari, State Counsel a/w SIP Maqsood Ahmed Channa",
+    "SHO P.S 60 Mile and ASI Manzoor Ali o/b of SHO P.S B-Section, Nawabshah",
+    "Mst.Hakim Zadi",
+    "Soomar S/o Ali Dino",
+    "Ghulam Hussain",
+    "Javed",
+    "Sajjad",
+    "Ashiq",
+    "SIP Maqsood Ahmed Channa SHO P.S 30 Mile"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "constitutional jurisdiction of this Court. Honourable",
+  "case_number": "",
   "date_of_order": "09.10.2025",
   "judge": "Abdul Mobeen Lakho Mr",
   "sections_cited": [
@@ -24,7 +24,18 @@
     "PLD 2017 Lahore 111",
     "PLD 2011 SC 619"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Shah Latif CNC Station",
+    "Federation of Pakistan & others",
+    "M/s. Farooq H. Naek",
+    "M/s. Asim Iqbal",
+    "M/s. Danish Nayyar",
+    "M/s. Dua Nayyar",
+    "M/s. Shoukat Ali Junejo",
+    "M/s. Ali Akbar Junejo",
+    "Mr. Ghulam Abbas Sangi",
+    "Mr. Agha Mir Mustafa Khan Durrani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

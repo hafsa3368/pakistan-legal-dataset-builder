@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "01.10.2019",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "section 280 of the Act",
     "section 280 of Act"
@@ -21,7 +21,12 @@
     "1979 SCMR 32",
     "2017 SCMR 118"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Habibur Rehman Soomro",
+    "Federation of Pakistan",
+    "Defendant No.3",
+    "Defendant No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

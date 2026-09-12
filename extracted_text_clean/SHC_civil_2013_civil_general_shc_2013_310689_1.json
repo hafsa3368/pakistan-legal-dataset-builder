@@ -8,13 +8,17 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No. D-590 of 2026",
   "date_of_order": "05.03.2026",
-  "judge": "",
+  "judge": "B-K Soomro",
   "sections_cited": [
     "Section 353, 324, 34 PPC",
     "Section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rashid Iqbal S/o Abdul Qayyum (Late)",
+    "the petitioner",
+    "the state"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

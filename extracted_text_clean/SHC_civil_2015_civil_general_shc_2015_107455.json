@@ -6,12 +6,25 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.5876 of 2015",
   "date_of_order": "05.10.2016",
   "judge": "Muhammad Ali Mazhar",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 151 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh & others",
+    "Kamalauddin",
+    "KDA",
+    "KMC",
+    "LDA Choudhry Muhammad Arif",
+    "Kamalauddin",
+    "Shahid Saleem",
+    "KMC",
+    "Kamalauddin",
+    "Shahid Saleem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

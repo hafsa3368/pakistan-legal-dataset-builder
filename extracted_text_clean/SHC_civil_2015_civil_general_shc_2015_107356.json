@@ -6,12 +6,19 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-2949/2015",
   "date_of_order": "04.10.2016",
   "judge": "Muhammad Ali Mazhar Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Ali Mazhar",
+    "Mr. Justice Arshad Hussain Khan",
+    "Petitioner",
+    "The Member, Sindh Labour Appellate Tribunal & others",
+    "Mr. M.A.K. Azmati",
+    "Mr. Bashir Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

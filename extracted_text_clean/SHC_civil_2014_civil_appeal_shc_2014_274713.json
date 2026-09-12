@@ -7,14 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Civil Revision Application No.S-323 of 2024",
-  "date_of_order": "",
+  "date_of_order": "12.02.2025",
   "judge": "",
   "sections_cited": [
     "section 12",
     "section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aijaz Ali",
+    "Learned A.D.J Mirpurkhas and others",
+    "Mr. Dhiru Mal DM advocate for the applicant a/w applicant",
+    "Mr. Muhammad Sharif Solangi, Assistant A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

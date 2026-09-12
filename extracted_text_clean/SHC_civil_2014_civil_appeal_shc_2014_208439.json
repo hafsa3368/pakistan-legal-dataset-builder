@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Revision Application No. 23 of 2019",
   "date_of_order": "28.11.2023",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 337-A",
     "Section 382-B Cr.P.C",
@@ -20,7 +20,12 @@
   "citations": [
     "1999 MLD 2450"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ali",
+    "Muhammad Abu Bakar",
+    "The state",
+    "Danish Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

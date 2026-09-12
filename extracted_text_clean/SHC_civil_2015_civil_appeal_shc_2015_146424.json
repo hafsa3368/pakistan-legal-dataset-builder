@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Appeal No.292 of 2009",
   "date_of_order": "22.09.2020",
-  "judge": "JUDGE S",
+  "judge": "Abdul Maalik Gaddi",
   "sections_cited": [
     "Section 9",
     "Section 382-B Cr.P.C",
@@ -26,7 +26,10 @@
     "1995 SCMR 1345",
     "PLD 2009 Karachi 191"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Subhan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

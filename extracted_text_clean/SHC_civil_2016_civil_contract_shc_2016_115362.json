@@ -9,9 +9,18 @@
   "case_number": "",
   "date_of_order": "07.12.2016",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Irfan Ali Rahoojo",
+    "Mr. Ashfaque Nabi Kazi",
+    "ASI Imtiaz Ahmed",
+    "Mr. Abdul Shakoor Keerio",
+    "Syed Meeral Shah D.P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

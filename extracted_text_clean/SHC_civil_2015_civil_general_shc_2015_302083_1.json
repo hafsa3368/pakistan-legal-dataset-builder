@@ -6,12 +6,19 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Miscellaneous Application for non-prosecution",
+  "case_number": "C.P. No.D-664 of 2010",
   "date_of_order": "13.01.2026",
-  "judge": "JUDGE Aadil Arab",
-  "sections_cited": [],
+  "judge": "Aadil Arab",
+  "sections_cited": [
+    "Section 1 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zubair Hashmi",
+    "Dr. Khalid Ali z. Qazi",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

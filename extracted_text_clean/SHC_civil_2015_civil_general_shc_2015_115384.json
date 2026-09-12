@@ -9,9 +9,20 @@
   "case_number": "",
   "date_of_order": "11.11.2016",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Nabi Jarwar",
+    "Mr. Allah Bachayo Soomro",
+    "SIP Mocharo Khan P.S Peromal",
+    "ASI Muhammad Ayaz Mari",
+    "Moula Bux Brohi",
+    "Mr. Aqeel Ahmed Siddiqui",
+    "Mr. Pirbhulal U. Goklani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

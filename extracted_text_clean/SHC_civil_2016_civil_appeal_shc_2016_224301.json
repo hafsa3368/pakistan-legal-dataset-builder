@@ -9,7 +9,10 @@
   "case_number": "Civil Appeal No. 100 of 2022",
   "date_of_order": "05-11-2024",
   "judge": "Amjad Ali Bohio",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2002 SCMR 1089",
     "2011 MLD 803",
@@ -20,7 +23,18 @@
     "2005 SCMR 135",
     "PLD 1990 SC 642"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yaseen",
+    "Shamshad Ali",
+    "Mst. Naheed",
+    "Mst. Allah Rakhi",
+    "Sub Registrar Sanghar",
+    "Mukhtiarkar Land Revenue Sanghar",
+    "Province of Sindh",
+    "Mr. Yaseen Khaskheli",
+    "Mr. Niaz Hussain Laghari",
+    "Mr. Ayaz Ali Rajpar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

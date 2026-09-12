@@ -6,14 +6,17 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.NO.S-1263 of 2017",
   "date_of_order": "09.10.2017",
   "judge": "Shahid",
   "sections_cited": [
     "Section 395 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rahat Basheer Siddiqui",
+    "Mr. Sher Muhammad Leghari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

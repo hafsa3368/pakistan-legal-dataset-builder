@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl. Revision Appln. No. S-83 of 2025",
   "date_of_order": "10.11.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 540-",
     "Sections 360 and 369",
@@ -21,7 +21,12 @@
     "PLD 2013 Sindh 214",
     "PLD 2016 Peshawar 195"
   ],
-  "parties": [],
+  "parties": [
+    "Dhani Bux son of Ahmed Khan",
+    "Abdul Latif s/o Dhani Bux",
+    "The State",
+    "Muhammad Khan son of Saeed Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

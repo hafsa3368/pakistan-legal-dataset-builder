@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "26.10.2021",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Adnan Iqbal",
   "sections_cited": [
     "Section 3",
     "section 3",
@@ -17,7 +17,12 @@
   "citations": [
     "2014 SCMR 1611"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Hawa",
+    "National Highway Authority",
+    "Allah Bachayo Soomro",
+    "Ashfaque Nabi Qazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

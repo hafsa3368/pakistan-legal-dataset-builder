@@ -6,9 +6,9 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 25,
-  "case_number": "construction of a commercial building known",
+  "case_number": "C.P. No.D-5483 of 2024",
   "date_of_order": "05.03.2026",
-  "judge": "JUDGE",
+  "judge": "Zulfiqar Ali Sangi,",
   "sections_cited": [
     "section 11 of the Civil Procedure Code",
     "Section 11",
@@ -26,7 +26,17 @@
     "2011 SCMR 279",
     "PLD 1993 SC 473"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Mall Developers Pvt. Ltd.",
+    "Federation of Pakistan and others",
+    "M/s. Malik Naeem Iqbal and Malik Waseem Iqbal",
+    "Mr. Zaeem Haider",
+    "Ms. Wajiha M. Mehdi",
+    "Pakistan Defence Officers Housing Authority (DHA), Karachi",
+    "Mr. Khalid Javed",
+    "Mr. Waleed Khanzada",
+    "CBC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

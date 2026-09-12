@@ -6,14 +6,20 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-1558 of 2016",
   "date_of_order": "17.10.2016",
   "judge": "Shahid",
   "sections_cited": [
     "Section 265-K Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Asma",
+    "Jamil Ahmed",
+    "Allah Bachayo Soomro",
+    "Mr. Wilayat Ali Khan Magsi",
+    "Mr. Asad Jehangir Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

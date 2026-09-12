@@ -9,9 +9,20 @@
   "case_number": "",
   "date_of_order": "26.02.2020",
   "judge": "Nadeem Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Riffat John",
+    "Province of Sindh",
+    "2 others",
+    "Mr. Sajjad Ahmed",
+    "Mr. Ali Asadullah Bullo",
+    "Mr. Hakim Ali Shaikh",
+    "Dr. Altaf Hussain Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

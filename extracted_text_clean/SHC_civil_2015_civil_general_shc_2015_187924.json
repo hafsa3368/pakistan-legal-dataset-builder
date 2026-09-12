@@ -9,9 +9,16 @@
   "case_number": "Constitutional Petition No.D-821 of 2023",
   "date_of_order": "16.03.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Shoaib",
+    "Federation of Pakistan",
+    "Pakistan Rangers"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,19 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "civil servants into autonomous",
+  "case_number": "C.P. No.D-5884 of 2025",
   "date_of_order": "10.02.2026",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem",
+    "Federation of Pakistan",
+    "Pakistan Insurance Corporation",
+    "Muhammad Asif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

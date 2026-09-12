@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "17.03.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rana Raheel Mehmood Rajput",
+    "Mr. Muhammad Sharif Solangi",
+    "respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

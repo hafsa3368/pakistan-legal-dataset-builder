@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Acquittal Appeal No.461 of 2022",
+  "case_number": "",
   "date_of_order": "09.05.2023",
-  "judge": "",
+  "judge": "AMJAD ALI BOHIO",
   "sections_cited": [
     "section 417 Cr.P.C",
     "sections 15, 17",
@@ -17,7 +17,14 @@
   "citations": [
     "2016 SCMR 1282"
   ],
-  "parties": [],
+  "parties": [
+    "M/S Sui Southern Gas Company Ltd.",
+    "Tahir Ali",
+    "Ramesh Kumar",
+    "Malik Sadaqat Khan",
+    "Qurban Ali",
+    "SSGC Police Station"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "constitutional petition cannot",
+  "case_number": "",
   "date_of_order": "22-02-2022",
   "judge": "Muhammad Junaid Ghaffar Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Wahab & others",
+    "P.O. Sindh & Others",
+    "Mr. Qurban Ali Malano",
+    "Mr. Justice Muhammad Junaid Ghaffar",
+    "Mr. Justice Zulfiqar Ali Sangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

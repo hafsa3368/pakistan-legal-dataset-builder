@@ -8,8 +8,11 @@
   "num_chunks": 8,
   "case_number": "Civil Review Petition No. 193/2013",
   "date_of_order": "15.10.2018",
-  "judge": "JUDGE Shafi Muhammad /PA",
-  "sections_cited": [],
+  "judge": "Syed Hasan Azhar Rizvi",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2013 SCMR 1752",
     "2015 SCMR 456"

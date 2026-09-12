@@ -9,14 +9,24 @@
   "case_number": "Civil Appeal No.1-K/2021",
   "date_of_order": "03.02.2022",
   "judge": "Aftab Ahmed Gorar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1993 SCMR 105",
     "2021 SCMR 425",
     "2010 SCMR 105",
     "2008 SCMR 909"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Waheed Memon",
+    "Mr. Abdul Salam Memon",
+    "Mr. Suleman Huda",
+    "Mr. Muhammad Nishat Warsi",
+    "National Bank of Pakistan (NBP)",
+    "Ahmer Omer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

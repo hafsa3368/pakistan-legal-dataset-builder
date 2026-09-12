@@ -6,14 +6,22 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 35,
-  "case_number": "civil nature but a FIR No.33/2013",
+  "case_number": "C.P No. 674 of 2016",
   "date_of_order": "10.11.2016",
   "judge": "Ali Haider",
   "sections_cited": [
     "section 107/151 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashfaque Nabi Kazi",
+    "SIP Manzoor Ali",
+    "Mr. Yawar Abbas Mughal",
+    "Mst. Sughra Bibi",
+    "Mian Taj Muhammad Keerio",
+    "Mola Bux Shah",
+    "Ali Haider"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

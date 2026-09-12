@@ -6,12 +6,20 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "civil litigation. We have noted",
+  "case_number": "",
   "date_of_order": "31.01.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "A.Rasheed",
+  "sections_cited": [
+    "U/s 22-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "katcha Peshi",
+    "petitioner in C.P.No.D-2273 of 2016",
+    "petitioner in C.P.No.D-2277 of 2016",
+    "Syed Tarique Ahmed Shah",
+    "Mr. Muhammad Ismail Bhutto Asstt:A.G"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

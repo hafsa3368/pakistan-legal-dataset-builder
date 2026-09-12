@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "23.04.2025",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Wasim Iqbal, advocate for the respondent",
+    "Ms. Summiya Kalwar, advocate for respondent",
+    "Mr. Sandeep Malani, Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

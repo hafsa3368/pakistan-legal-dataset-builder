@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Civil Revision No.S-45 of 2019",
   "date_of_order": "14.04.2022",
-  "judge": "",
+  "judge": "Arshad Hussain Khan,",
   "sections_cited": [
     "section 236",
     "Section 115"
@@ -17,7 +17,16 @@
     "PLD 2015 SC 69",
     "PLD 2012 SC 247"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Sikandar Ali Junejo",
+    "Mr. Tarique G. Hanif Mangi",
+    "Re-Ameenullah & others",
+    "Mujeebullah & others",
+    "Shafi-e-Jaar",
+    "Shafi-e-Khalit",
+    "Javed Ahmed",
+    "Muhammad Imran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

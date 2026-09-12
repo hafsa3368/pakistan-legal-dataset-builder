@@ -6,12 +6,15 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-456 of 2009",
   "date_of_order": "06.08.2020",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Arshad S. Pathan, Advocate for the respondent No.2/HESCO",
+    "Mr. Muhammad Humayoon Khan, Deputy Attorney General for Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

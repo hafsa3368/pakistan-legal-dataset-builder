@@ -6,14 +6,21 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 28,
-  "case_number": "construction of the Plaintiff plot bearing No.B-2",
+  "case_number": "",
   "date_of_order": "30.04.2019",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 10"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar Shaikh",
+    "Adeel Zahoor Malik",
+    "SBCA",
+    "Muhammad Shahid Qadeer",
+    "Muhammad Shahid",
+    "Dhani Bux Lashari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,19 @@
   "num_chunks": 5,
   "case_number": "Civil Appeal No.S-08 of 2022",
   "date_of_order": "03.05.2024",
-  "judge": "Suleman Khan/PA",
-  "sections_cited": [],
+  "judge": "Suleman Khan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2013 SCMR 464",
     "2013 MLD 415"
   ],
-  "parties": [],
+  "parties": [
+    "Amad Saeed",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Constitution Petition No.S-902/2017",
   "date_of_order": "28.08.2023",
-  "judge": "",
+  "judge": "Arbab Ali Hakro",
   "sections_cited": [
     "Section 16 of the Sindh Rented Premises Ordinance",
     "Section 16",
@@ -19,7 +19,10 @@
     "2004 SCMR 1453",
     "PLD 2007 SC 504"
   ],
-  "parties": [],
+  "parties": [
+    "Iftikhar Hussain and another",
+    "Mst. Zahida Parveen and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

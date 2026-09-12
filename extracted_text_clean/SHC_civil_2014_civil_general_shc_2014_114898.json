@@ -8,12 +8,15 @@
   "num_chunks": 5,
   "case_number": "Criminal Case No.132 of 2014",
   "date_of_order": "07.02.2017",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Sections 489-F and 420 of PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Marhaba Aviation Services Private Limited",
+    "Real Air Travel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

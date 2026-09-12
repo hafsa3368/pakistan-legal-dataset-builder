@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.S-134 of 2025",
-  "date_of_order": "",
+  "date_of_order": "14.07.2025",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shafique Ahmed Khan Leghari",
+    "Mr. Agha Athar Hussain",
+    "Mr. Sudhamchand @ Sudhamo Kewal Ramani",
+    "Muhammad Siddique and others",
+    "Muhammad Hanif alias Arif and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

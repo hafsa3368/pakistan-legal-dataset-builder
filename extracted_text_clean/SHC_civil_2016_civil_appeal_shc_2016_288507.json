@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.D-17 of 2020",
   "date_of_order": "28.10.2025",
-  "judge": "JUDGE Zulfiqar",
+  "judge": "Amjad Ali Sahito",
   "sections_cited": [
     "Section 24 of Sindh Arms Act",
     "section 544-A Cr.P.C",
@@ -17,7 +17,15 @@
     "Section 537 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Hussain @ Sodho, Muhammad Ali, Fahad Hussain & Ghulam Ali",
+    "Muhammad Salih Marfani Chandio",
+    "The State",
+    "Nooruddin",
+    "Ali Anwar Kandhro",
+    "Noorullah Gulsher Khan Rind",
+    "Habibullah G. Ghouri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

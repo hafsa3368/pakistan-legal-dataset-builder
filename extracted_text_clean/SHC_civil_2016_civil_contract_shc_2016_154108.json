@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "CIVIL AVIATION AUTHORITY and another",
+  "case_number": "",
   "date_of_order": "23.08.2017",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "sections 21, 42 and 56 of the Specific Relief Act",
     "Sections 60 and 64 of the Easement Act",
@@ -37,7 +37,12 @@
     "PLD 1964 SC 106",
     "PLD 1959 Karachi 24"
   ],
-  "parties": [],
+  "parties": [
+    "Nizam Din & Sons (Pvt.) Limited",
+    "Pakistan Defence Officers Housing Authority",
+    "DA Marina Club",
+    "DHA Golf Club"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

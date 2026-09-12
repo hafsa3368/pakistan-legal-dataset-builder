@@ -6,7 +6,7 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "11.12.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
@@ -17,7 +17,12 @@
     "Section 2"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Bakhmina",
+    "The Government of Sindh",
+    "05 others",
+    "Constable Amjad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

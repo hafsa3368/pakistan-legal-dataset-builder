@@ -6,14 +6,19 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Civil Court. The Civil Court would not",
+  "case_number": "",
   "date_of_order": "05.10.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 161 of Sindh Revenue Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "petitioners",
+    "respondents",
+    "respondents No. 6 & 7",
+    "petitioners' predecessor-in-interest"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

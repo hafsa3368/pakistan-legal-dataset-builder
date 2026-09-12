@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Appeal No. 109 of 2017",
   "date_of_order": "25.06.2018",
-  "judge": "JUDGE Naeem",
+  "judge": "SHAMSUDDIN ABBASI,",
   "sections_cited": [
     "Sections 409, 420, 468,471 and 477-A",
     "Sections 409, 420, 468, 471 and 477-A",
@@ -19,7 +19,15 @@
     "Section 382-B"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farhan Saeed son of Saeed-ur-Rehman",
+    "The State",
+    "Samba Bank",
+    "Ahmed Waseem",
+    "Khurram Shahzad Dar",
+    "FIA",
+    "Navaid Afzal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

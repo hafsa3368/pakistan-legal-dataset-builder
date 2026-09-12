@@ -6,12 +6,20 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "MA No. 16741/2018",
   "date_of_order": "16-09-2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "Section 84 CrPC",
+    "Article 78 Qanun-e-Shahadat Order",
+    "Article 79 Qanun-e-Shahadat Order",
+    "Article 80 Qanun-e-Shahadat Order"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wakeel Akhtar",
+    "Shahzad Alam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Crl. Jail Appeal No.D-",
+  "case_number": "",
   "date_of_order": "01.12.2016",
-  "judge": "JUDGE",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 9",
     "section 265-K Cr.P.C",
@@ -19,7 +19,11 @@
     "section 25 of the CNS Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Younis Noonari",
+    "Syed Faheem Shah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

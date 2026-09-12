@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Civil Revision Application No.46/2014",
   "date_of_order": "01.02.2024",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 52",
     "Section 53",
@@ -23,7 +23,13 @@
     "2007 SCMR 368",
     "PLD 1969 Karachi 586"
   ],
-  "parties": [],
+  "parties": [
+    "Zafar Iqbal",
+    "Mst. Qaiser Jehan",
+    "The President Muslim Commercial Bank",
+    "Cantonment Executive Officer, Malir Cantt, Karachi",
+    "Manager Director, HBFC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

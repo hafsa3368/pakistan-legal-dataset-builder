@@ -6,15 +6,24 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-2050 of 2025",
   "date_of_order": "01.01.2026",
-  "judge": "",
+  "judge": "Abdullah Channa",
   "sections_cited": [
     "Sections 397 and 341 PPC",
     "Section 25 of the Sindh Arms Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. M.J @ Raees Amir Lutuf Ali Khan",
+    "Mr. Muhammad Ismail Bhutto",
+    "Aijaz",
+    "SIP Allahyar Balal",
+    "SIP Faheem Hussain",
+    "DIGP Office Hyderabad",
+    "Mr. Siraj Ahmed Bijarani A.P.G. Sindh",
+    "Police Station Khebrani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

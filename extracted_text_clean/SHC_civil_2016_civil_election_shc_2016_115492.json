@@ -6,12 +6,20 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Election Appeal No.22 of 2016",
   "date_of_order": "21.12.2016",
-  "judge": "",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rao Wahid Bux",
+    "Katcha Peshi",
+    "Imdad Ali",
+    "Syed Akhtar Hussain",
+    "Noor Ahmed Memon",
+    "Respondent No.1",
+    "Respondent No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

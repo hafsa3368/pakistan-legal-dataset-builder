@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Crl. Revision Application No.219 of 2021",
   "date_of_order": "24.01.2024",
-  "judge": "",
+  "judge": "Shamshad Ali Qureshi",
   "sections_cited": [
     "sections 7 & 8 of the Illegal Dispossession Act",
     "section 265-K",
@@ -31,7 +31,17 @@
     "PLD 2007 Lahore 231",
     "PLD 2010 SC 661"
   ],
-  "parties": [],
+  "parties": [
+    "Niaz Ahmed",
+    "Muhammad Aijaz",
+    "Niaz Ahmed's wife",
+    "Iftikhar",
+    "Muhammad Aijaz",
+    "Niaz Ahmed",
+    "Niaz Ahmed's wife",
+    "Muhammad Aijaz",
+    "Iftikhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,23 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "17.12.2020",
   "judge": "Nadeem Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 74"
   ],
-  "parties": [],
+  "parties": [
+    "Shakeel Ahmed",
+    "Secretary Education Govt.of Sindh",
+    "Mr. Ali Safdar",
+    "Nawaz Ali Shah Jilani",
+    "Director Schools Education"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

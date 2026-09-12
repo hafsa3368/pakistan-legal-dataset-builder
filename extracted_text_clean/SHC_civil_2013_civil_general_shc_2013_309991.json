@@ -6,14 +6,20 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Petition No. D",
+  "case_number": "",
   "date_of_order": "10.03.2026",
   "judge": "Azeem",
   "sections_cited": [],
   "citations": [
     "PLD 2013 SC 401"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Kamran Ali",
+    "Mr. Hakim Ali Shaikh",
+    "DSP Malir and Raza Mian",
+    "Director General, Anti-Corruption Establishment, Lahore and others",
+    "Muhammad Akram Khan and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

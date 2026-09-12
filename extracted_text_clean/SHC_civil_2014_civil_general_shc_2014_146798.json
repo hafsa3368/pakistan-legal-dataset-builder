@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "30.09.2020",
-  "judge": "JUDGE S",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ayaz Hussain Tunio",
+    "Mr. Muhammad Ramzan Khushk",
+    "HESCO",
+    "Muhammad Juman SDO HESCO",
+    "AS Abdul Jabar Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

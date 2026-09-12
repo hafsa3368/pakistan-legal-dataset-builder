@@ -7,9 +7,12 @@
   "used_ocr": false,
   "num_chunks": 7,
   "case_number": "Constitutional Petition No. D-4965 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "date_of_order": "24.01.2025",
+  "judge": "Muhammad Karim Khan Agha",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2010 SCMR 1301",
     "2014 SCMR 1189",
@@ -20,7 +23,16 @@
     "2008 SCMR 1138",
     "2010 SCMR 1466"
   ],
-  "parties": [],
+  "parties": [
+    "Saleem Khan",
+    "Mr. Justice Muhammad Karim Khan Agha",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Danish Rashid Khan",
+    "Mr. Ali Safdar Depar",
+    "Assistant AG",
+    "Mr. Nadeem Hussain Qureshi",
+    "Law Officer, Law Department, Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

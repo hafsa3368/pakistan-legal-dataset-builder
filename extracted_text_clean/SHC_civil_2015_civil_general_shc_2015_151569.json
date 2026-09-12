@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "26.05.2021",
   "judge": "Irfan Saadat Khan Mr",
   "sections_cited": [
@@ -16,7 +16,14 @@
     "2015 SCMR 456",
     "PLD 2007 SC 35"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Zamir Hussain Ghumro",
+    "Mr. Nishat Warsi",
+    "Federation of Pakistan",
+    "Adnan-ul-Karim Memon",
+    "Ali Azhar Khan Baloch",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

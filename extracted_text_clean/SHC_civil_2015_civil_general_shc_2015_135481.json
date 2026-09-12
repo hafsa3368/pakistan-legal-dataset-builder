@@ -6,10 +6,14 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "civil servant on any of the basic pay scales No.1",
+  "case_number": "",
   "date_of_order": "22.01.2019",
-  "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 204 of the Constitution"
+  ],
   "citations": [],
   "parties": [
     "Vs"

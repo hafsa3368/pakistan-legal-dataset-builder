@@ -6,12 +6,16 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.S-481 of 2016",
   "date_of_order": "18.11.2016",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State of Sindh",
+    "Allah Dino",
+    "Sher Muhammad Leghari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

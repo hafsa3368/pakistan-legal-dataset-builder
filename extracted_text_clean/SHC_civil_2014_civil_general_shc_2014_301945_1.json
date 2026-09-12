@@ -8,10 +8,26 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "12.11.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "u/s 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Keso Mal",
+    "Province of Sindh & others",
+    "Mir Pervaiz Akhtar Talpur",
+    "Farhan Ahmed Bozdar",
+    "Muhammad Sharif Solangi",
+    "Abdul Rashid District Accounts Office",
+    "Umerkot",
+    "Muhammad Ali Nohri",
+    "Deputy Commissioner",
+    "Provincial Ombudsman",
+    "Mirpurkhas",
+    "Education Department",
+    "Chairman NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

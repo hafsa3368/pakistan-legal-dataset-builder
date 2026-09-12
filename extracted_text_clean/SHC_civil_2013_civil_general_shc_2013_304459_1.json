@@ -6,16 +6,19 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitutional Petition No. D-",
+  "case_number": "",
   "date_of_order": "03.02.2026",
-  "judge": "",
+  "judge": "S.Ashfaq",
   "sections_cited": [
     "Sections 324, 114, 337-H",
     "Sections 87 and 88",
     "Section 512"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wahid Bakhsh Brohi",
+    "P.O Sindh & Ors."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "Criminal Revision Application No.S-23 of 2025",
   "date_of_order": "13.04.2026",
-  "judge": "",
+  "judge": "ARBAB ALI HAKRO",
   "sections_cited": [
     "Section 3",
     "Section 4",
@@ -26,7 +26,13 @@
     "PLD 2007 SC 423",
     "PLD 2011 SC 181"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem",
+    "Abdul Khalil",
+    "Nemo",
+    "Mr. Neel Parkash",
+    "Mr. Ghulam Saeed Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

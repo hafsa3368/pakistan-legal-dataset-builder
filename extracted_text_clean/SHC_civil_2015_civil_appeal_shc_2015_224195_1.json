@@ -6,12 +6,18 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil Appeals Nos",
+  "case_number": "",
   "date_of_order": "02.12.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada",
+    "Mr. Riaz Ali Shaikh",
+    "Mr. Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

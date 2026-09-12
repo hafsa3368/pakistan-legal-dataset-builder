@@ -6,12 +6,20 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "CP. No. D-5020 of 2021",
   "date_of_order": "29.05.2025",
   "judge": "Muhammad Karim Khan Agha Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Nasreen Khatoon",
+    "Federation of Pakistan",
+    "Pakistan Railways",
+    "Zahid Saeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

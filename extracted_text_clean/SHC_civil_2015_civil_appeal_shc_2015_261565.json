@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Appeal No.76/2021",
   "date_of_order": "06.05.2025",
-  "judge": "",
+  "judge": "MUHAMMAD JAFFER RAZA",
   "sections_cited": [
     "Section 100 CPC",
     "section 100"
@@ -17,7 +17,10 @@
     "2016 CLC 1284",
     "PLD 2008 SC 146"
   ],
-  "parties": [],
+  "parties": [
+    "Iqbal Ahmed Siddiqui",
+    "Khalid Moudod Siddiqui and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 21,
-  "case_number": "Criminal Complaint No. 64 of 2015",
+  "case_number": "",
   "date_of_order": "14.02.2018",
   "judge": "Shahid",
   "sections_cited": [
@@ -22,7 +22,13 @@
     "2010 SCMR 1254",
     "PLD 2007 Lahore 231"
   ],
-  "parties": [],
+  "parties": [
+    "Mian Taj Muhammad Keerio",
+    "Shahzado Saleem Nahiyoon",
+    "Junaid Abdul Basit",
+    "Muhammad Badar Alam",
+    "Zainul Abadin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

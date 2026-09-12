@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "Civil Aviation Authority and another",
+  "case_number": "C. P. NO. D-2628",
   "date_of_order": "26.03.2024",
   "judge": "Muhammad Junaid Ghaffar Mr",
   "sections_cited": [],
@@ -27,7 +27,16 @@
     "2021 SCMR 1376",
     "2013 SCMR 304"
   ],
-  "parties": [],
+  "parties": [
+    "Mumtaz Ali Panhwar & Others",
+    "Ghulam Muhammad Dotio & Others",
+    "Province of Sindh & Others",
+    "Mr. Justice Muhammad Junaid Ghaffar",
+    "Mr. Adnan-ul-Karim Memon",
+    "Mr. Ali Safar Deeper",
+    "M/s. M. M. Aqil Awan",
+    "Danish Rashid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

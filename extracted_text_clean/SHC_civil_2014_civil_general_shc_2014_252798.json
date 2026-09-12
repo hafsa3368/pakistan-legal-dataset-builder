@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "28.11.2012",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Sana Akram Minhas",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rehan Iqbal & Others",
+    "The Province of Sindh & Others",
+    "Mr. Muhammad Daud Narejo Ahmed",
+    "Mr. Shehryar Qazi",
+    "AAG, Sindh",
+    "Sana Akram Minhas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

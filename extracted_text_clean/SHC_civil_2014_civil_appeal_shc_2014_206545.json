@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "",
   "date_of_order": "01.11.2023",
-  "judge": "",
+  "judge": "Yousuf Ali Sayeed,",
   "sections_cited": [
     "Section 148 PPC",
     "Sections 365 and 511 PPC",
@@ -30,7 +30,13 @@
     "PLD 2021 SC 600",
     "PLD 1957 Dacca 503"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Yousuf Ali Sayeed & Zulfiqar Ali Sangi",
+    "Ghulam Shabeer Lashari",
+    "The State",
+    "Rattal Junejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

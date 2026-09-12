@@ -6,12 +6,16 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-6178 of 2022",
   "date_of_order": "13.03.2025",
-  "judge": "",
+  "judge": "Head of Const. Benches",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Ghani Usman",
+    "Director General KDA",
+    "K.D.A."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,20 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Civil Servant cannot",
+  "case_number": "C.P. No.D-1144 of 2024",
   "date_of_order": "29.10.2024",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mazhar Ali Laghari",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

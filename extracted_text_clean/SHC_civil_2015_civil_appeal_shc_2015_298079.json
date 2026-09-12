@@ -8,7 +8,7 @@
   "num_chunks": 22,
   "case_number": "Criminal Appeal No. S-36 of 2022",
   "date_of_order": "15.09.2025",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "section 395 PPC",
     "section 200 & 202",
@@ -32,7 +32,20 @@
     "1995 SCMR 1377",
     "2025 YLR 169"
   ],
-  "parties": [],
+  "parties": [
+    "Jameel Ahmed Chandio",
+    "Tariq Hussain",
+    "The State",
+    "Nooruddin Khooharo",
+    "Ali Hassan",
+    "Ameer Jan",
+    "Ghulam Farooque",
+    "Incharge of cattle shade",
+    "SHO Jameel Ahmed Chandio",
+    "DSP Mirokhan",
+    "DSP Nooruddin Khooharo",
+    "Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

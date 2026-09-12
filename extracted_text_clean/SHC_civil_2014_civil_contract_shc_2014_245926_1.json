@@ -6,16 +6,21 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No.D-1605 of 2014",
   "date_of_order": "11.02.2025",
-  "judge": "",
+  "judge": "S.M Imran Ahmed Alvi",
   "sections_cited": [],
   "citations": [
     "2022 SCMR 897",
     "2022 SCMR 406",
     "2021 SCMR 1995"
   ],
-  "parties": [],
+  "parties": [
+    "Ayaz Hussain Junejo and 29 others",
+    "Vice-Chancellor University of Sindh & others",
+    "Mr. Kamaluddin",
+    "Mr. Rafiq Ahmed Dahri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitutional Petition No. D-",
+  "case_number": "",
   "date_of_order": "25.09.2019",
   "judge": "Khadim Hussain Shaikh Mr",
   "sections_cited": [
@@ -19,7 +19,44 @@
     "PLD 2010 SC 906",
     "PLD 1949 Lahore 100"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "petitioner",
+      "name": "Mst. Noor Jehan"
+    },
+    {
+      "type": "petitioner",
+      "name": "others"
+    },
+    {
+      "type": "respondent",
+      "name": "Miss Shahnaz"
+    },
+    {
+      "type": "respondent",
+      "name": "P.O Sindh & others"
+    },
+    {
+      "type": "respondent",
+      "name": "Abdl Hamid Bhurgri"
+    },
+    {
+      "type": "respondent",
+      "name": "Abdl Khalique Bughio"
+    },
+    {
+      "type": "respondent",
+      "name": "Zahid Hussain"
+    },
+    {
+      "type": "respondent",
+      "name": "Riaz Hussain"
+    },
+    {
+      "type": "respondent",
+      "name": "Ayaz Hussain"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

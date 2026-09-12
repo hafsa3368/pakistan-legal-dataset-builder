@@ -6,14 +6,21 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "MA No.6546 of 2016",
   "date_of_order": "17.04.2017",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 151 of CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abu Bakar Bin Abdul Qadir",
+    "Laeeq Ahmed",
+    "S. Abdul Mannan Muttaqi",
+    "Defence House Authority",
+    "Gulistan Textile Mills Ltd",
+    "Askari Bank Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

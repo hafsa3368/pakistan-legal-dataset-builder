@@ -6,14 +6,22 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Const. Petition Nos",
+  "case_number": "Const. Petition Nos.D-3060/2016",
   "date_of_order": "29.09.2016",
   "judge": "",
   "sections_cited": [
     "Section 36"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pakistan",
+    "Punjab",
+    "Sindh",
+    "Khyber Pakhtunkhwa",
+    "Balochistan",
+    "Gilgit Baltistan",
+    "Azad Jammu and Kashmir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

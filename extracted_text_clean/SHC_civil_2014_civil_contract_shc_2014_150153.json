@@ -6,14 +6,20 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "misconceived notion",
-  "date_of_order": "",
-  "judge": "JUDGE Tufail",
-  "sections_cited": [],
+  "case_number": "C.P.No.D-1470 of 2020",
+  "date_of_order": "12.01.2021",
+  "judge": "Arshad Hussain Khan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2014 Sindh 378"
   ],
-  "parties": [],
+  "parties": [
+    "Imamuddin Otho",
+    "Taluka Municipal Administration Sehwan Sharif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

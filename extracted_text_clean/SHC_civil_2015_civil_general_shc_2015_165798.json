@@ -6,12 +6,20 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP NO.D-8341/2018",
   "date_of_order": "21.09.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdus-Salam Memon",
+    "Mr. Muhammad Arshad Tanoli",
+    "Mr. Muhammad Nishat Warsi",
+    "respondent No.2",
+    "respondent No.3",
+    "respondent No.4",
+    "respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

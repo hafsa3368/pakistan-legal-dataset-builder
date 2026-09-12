@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitution Petition No. D-",
+  "case_number": "",
   "date_of_order": "25.02.2024",
   "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
@@ -17,7 +17,12 @@
   "citations": [
     "2023 SCMR 407"
   ],
-  "parties": [],
+  "parties": [
+    "Imran Ali Lodhi",
+    "Federation of Pakistan",
+    "SEPCO",
+    "Ali Dino Gilal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

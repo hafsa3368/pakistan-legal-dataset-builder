@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Civil Misc. Appeal No.37 of 2024",
   "date_of_order": "03.03.2024",
-  "judge": "",
+  "judge": "Arshad Jamal Siddiqui",
   "sections_cited": [
     "section 12 CPC"
   ],
@@ -18,7 +18,10 @@
     "2000 SCMR 431",
     "2002 CLC 1295"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Arshad Jamal Siddiqui",
+    "respondents No.2 to 8"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

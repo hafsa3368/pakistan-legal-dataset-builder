@@ -8,14 +8,17 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "22.12.2016",
-  "judge": "",
+  "judge": "Sana Akram Minhas",
   "sections_cited": [
     "section 12 CPC"
   ],
   "citations": [
     "PLD 1992 Lah 60"
   ],
-  "parties": [],
+  "parties": [
+    "Mumtaz Hussain Siddiqui",
+    "Muhammad Tahir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

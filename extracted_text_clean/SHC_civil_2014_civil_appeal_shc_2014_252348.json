@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "",
   "date_of_order": "03.02.2025",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN,",
   "sections_cited": [
     "Section 9",
     "section 19 of the Ordinance",
@@ -19,7 +19,12 @@
     "Sections 3 and 17 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "Mrs. Batool Begum",
+    "Ishaq Jugnu",
+    "Muhmmad Shahid Jugnu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

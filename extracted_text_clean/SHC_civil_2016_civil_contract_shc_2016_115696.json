@@ -6,14 +6,22 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.S-1817 of 2016",
   "date_of_order": "25.11.2016",
   "judge": "Shahid",
   "sections_cited": [
     "Section 365-B & 452 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Fakhruddin Dahraj",
+    "Mr. Allah Bachayo Soomro",
+    "Mst.Nazia Hassan",
+    "Ali Ashgar",
+    "Nadeem S/o Nizamuddin Odhano",
+    "ASI Abdul Majeed",
+    "ASI Azizullah Pathan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

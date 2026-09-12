@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-672 of 2024",
   "date_of_order": "23.12.2019",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [
     "Section 11 of the Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Saleem Shah",
+    "The Fed. of Pakistan",
+    "Syed Naveed Ahmed Shah",
+    "Syed Zulfiqar Ali Shah",
+    "Allah Jewayo",
+    "Khadim Hussain Tunio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

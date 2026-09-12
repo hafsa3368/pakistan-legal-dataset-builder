@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "criminal procedure and evidence and any matter not",
+  "case_number": "C.P. No.S-731 of 2021",
   "date_of_order": "24 May 2023",
-  "judge": "",
+  "judge": "MOHAMMAD ABDUR RAHMAN",
   "sections_cited": [
     "section 1",
     "section 54",
@@ -17,7 +17,11 @@
   "citations": [
     "2018 SCMR 802"
   ],
-  "parties": [],
+  "parties": [
+    "MCB Bank Limited",
+    "Zahid Ali",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

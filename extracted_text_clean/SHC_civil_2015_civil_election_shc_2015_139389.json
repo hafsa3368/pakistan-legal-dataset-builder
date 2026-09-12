@@ -8,7 +8,7 @@
   "num_chunks": 25,
   "case_number": "Constitutional Petition No.D-3173 of 2016",
   "date_of_order": "18.12.2017",
-  "judge": "",
+  "judge": "Not Specified",
   "sections_cited": [
     "Section 54",
     "Sections 49, 50, 51 and 52",
@@ -21,7 +21,31 @@
   "citations": [
     "2014 SCMR 1015"
   ],
-  "parties": [],
+  "parties": [
+    "Jam Javed Ahmed Khan Dahar",
+    "Haji Muhammad Akbar",
+    "Muhammad Azeem Shambhani",
+    "Muhammad Punhal Khan",
+    "Abdul Razzaque",
+    "Aftab Hussain",
+    "Muhammad Hassan",
+    "Talib Ali Memon",
+    "Raja Iftikhar Hussain",
+    "Sohail Ahmed Khoso",
+    "Jaffar Ali Shah",
+    "Manzoor Hussain Ansari",
+    "Abdul Rasheed Kalwar",
+    "Liaquat Ali Shar",
+    "Nisar Ahmed Abro",
+    "DAG",
+    "Oshaque Ali Sangi",
+    "Jamshed Ahmed Faiz",
+    "Noor Hassan Malik",
+    "Muhammad Aslam Jatoi",
+    "Mahboob Ali Wassan",
+    "Muhammad Yousif Majeedano",
+    "Ali Mutahir Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

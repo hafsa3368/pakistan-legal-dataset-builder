@@ -17,7 +17,20 @@
     "section 76 of the Negotiable Instruments Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    {
+      "type": "appellant",
+      "name": "Syed Shah Rafiuddin"
+    },
+    {
+      "type": "respondent",
+      "name": "Shah Abdul Raheem and others"
+    },
+    {
+      "type": "nemo",
+      "name": "Nemo"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

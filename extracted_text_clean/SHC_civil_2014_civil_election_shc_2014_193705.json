@@ -6,14 +6,26 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Election Appeal No.04 of 2023",
   "date_of_order": "03.05.2023",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 SCMR 1015"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Dilber Khan Laghari",
+    "Mr. Wali Muhammad Khoso",
+    "Mr. Bashir Ahmed Almani",
+    "Mr. Zaheer Abbas",
+    "Mehboob Ali",
+    "Ali Akbar Brahmani",
+    "SSP Sanghar",
+    "Muhammad Asif Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

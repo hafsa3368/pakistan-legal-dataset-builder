@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-223 of 2023",
   "date_of_order": "01.10.2014",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sindh Workers Welfare Board",
+    "Sindh",
+    "Mr. Alam Sher Khan Bozdar",
+    "Mr. Samiullah Soomro",
+    "Mr. Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

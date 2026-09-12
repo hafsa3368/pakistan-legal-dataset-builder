@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Accountability Appeal No.73 of 2018",
   "date_of_order": "06.10.2020",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Section 382",
     "section 10",
@@ -20,7 +20,14 @@
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Asif Arshad",
+    "Mumtaz Ali Nizamani",
+    "Muhammad Adil Arshad",
+    "NAB",
+    "Muhammad Iqbal",
+    "Asif Enterprises"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

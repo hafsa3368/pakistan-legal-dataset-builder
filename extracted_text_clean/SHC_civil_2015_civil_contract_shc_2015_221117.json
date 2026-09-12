@@ -8,12 +8,16 @@
   "num_chunks": 3,
   "case_number": "Constitution Petition No.D-1163 of 2024",
   "date_of_order": "09.09.2024",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon,",
   "sections_cited": [
     "Section 3 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Meharchand & others",
+    "Province of Sindh & others",
+    "Muhammad Sharif Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

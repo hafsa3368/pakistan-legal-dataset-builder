@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Criminal Appeals No. S-164",
   "date_of_order": "20.01.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 265-H Cr.P.C",
     "Section 544-A Cr.P.C",
@@ -34,7 +34,12 @@
     "1995 SCMR 1377",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Asif @ Asho",
+    "Muhammad Nawab",
+    "The State",
+    "Hassan son of Chand"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

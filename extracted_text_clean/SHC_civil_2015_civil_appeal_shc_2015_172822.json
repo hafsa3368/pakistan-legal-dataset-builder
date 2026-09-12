@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No. 33 of 2020",
   "date_of_order": "23.12.2019",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 35",
     "section 397",
@@ -19,7 +19,23 @@
     "PLD 2015 SC 15",
     "PLD 1955 Lahore 650"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Pervez Butt",
+    "The State",
+    "Mr. Raj Ali Wahid Kunwar",
+    "Mr. Mubashir Ali Mirza",
+    "22-B Rizwan",
+    "22-B Ahtashamul Haq",
+    "22-B Muhammad Asif Soomro",
+    "22-B Abdul Rehman",
+    "22-B Muhammad Imran",
+    "22-B Aamir Gulzar",
+    "22-B Muhammad Farooq",
+    "22-B Mumtaz Hussain Lashari",
+    "22-B Gul Khatab Khan",
+    "22-B Abdul Sajid",
+    "22-B Adnan Murtaza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

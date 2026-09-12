@@ -8,8 +8,10 @@
   "num_chunks": 15,
   "case_number": "Civil Suit No.1108/1993",
   "date_of_order": "10.12.2013",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "u/s 498 CrPC"
+  ],
   "citations": [
     "1988 MLD 1927",
     "1996 SCMR 696",
@@ -27,7 +29,15 @@
     "PLD 2018 Sindh 274",
     "PLD 2003 Kar 253"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Sandeep Malani",
+    "Advocate General, Sindh",
+    "Mr. Muhammad Shahzad Ashraf",
+    "Metro Estates (Pvt) Ltd",
+    "Artistic Denim Mills Limited",
+    "Mr. Muhammad Faisal Ahmed",
+    "Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

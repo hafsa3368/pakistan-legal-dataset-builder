@@ -6,12 +6,21 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P. NO. D-6486 of 2015",
   "date_of_order": "23.11.2021",
-  "judge": "JUDGE SM",
-  "sections_cited": [],
+  "judge": "Irfan Saadat Khan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sindh Small Industries Corporation",
+    "Mr. Abdul Rauf Malik",
+    "Syed Hussain Shah",
+    "Justice Irfan Saadat Khan",
+    "Justice Agha Faisal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,16 +6,19 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Acquittal Appeal No. 307 of 2025",
+  "case_number": "",
   "date_of_order": "05.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 417",
     "Section 561-A Cr.P.C",
     "Sections 324/109/34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mir Kalam Khan",
+    "Muhammad Barat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

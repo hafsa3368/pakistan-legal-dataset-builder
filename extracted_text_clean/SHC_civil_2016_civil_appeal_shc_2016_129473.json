@@ -6,7 +6,7 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr. A.T. Appeal No. 66 of 2018",
   "date_of_order": "16-07-2018",
   "judge": "CHIEF JUSTICE",
   "sections_cited": [
@@ -26,7 +26,12 @@
     "2017 SCMR 986",
     "PLD 2017 Sindh 653"
   ],
-  "parties": [],
+  "parties": [
+    "Shakeel son of Dodo Khan",
+    "The State",
+    "Imran son of Ameer Bux",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

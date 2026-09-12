@@ -8,13 +8,20 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "15-12-2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 1983 SC 344",
     "PLD 2006 SC 202"
   ],
-  "parties": [],
+  "parties": [
+    "Khawaja Muhammad Arif",
+    "Mst. Zeenat Begum",
+    "Karachi Metropolitan Corporation (KDA Wing)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

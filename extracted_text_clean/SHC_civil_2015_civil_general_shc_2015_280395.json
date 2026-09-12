@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Criminal Original No.2461-W of 2016",
   "date_of_order": "13-8-2025",
-  "judge": "JUDGE",
+  "judge": "Sana Akram Minhas",
   "sections_cited": [
     "Section 18",
     "Section 151 of the Code"
@@ -19,7 +19,11 @@
     "1975 SCMR 505",
     "PLD 1969 SC 77"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Altaf Hussain & Others",
+    "Federation of Pakistan & Others",
+    "WAPDA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

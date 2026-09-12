@@ -6,15 +6,20 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Civil Appeal No. D",
+  "case_number": "",
   "date_of_order": "02-11-2021",
-  "judge": "",
+  "judge": "Muhammad Junaid Ghaffar",
   "sections_cited": [
     "section 22",
     "Section 10 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nadeem Abbas Shaikh",
+    "M/s JS Bank Limited",
+    "Mr. Muhammad Iqbal Memon",
+    "Mr. Abdul Ghaffar Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,23 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "constituted under Resolution No. F-2-21/75",
+  "case_number": "C.P. No.D-4945 of 2025",
   "date_of_order": "27.01.2026",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973",
+    "PLD 1990 SC 612"
+  ],
   "citations": [
     "PLD 1990 SC 612"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Shehla Kazmi",
+    "Federation of Pakistan",
+    "Province of Sindh",
+    "Quaid-e-Azam Academy",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

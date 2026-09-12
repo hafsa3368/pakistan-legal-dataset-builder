@@ -9,9 +9,18 @@
   "case_number": "",
   "date_of_order": "13.01.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kamran Ali Shaikh",
+    "Province of Sindh",
+    "Mehnaz Begum",
+    "Province of Sindh",
+    "Ameet Kumar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

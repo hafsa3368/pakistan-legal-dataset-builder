@@ -6,12 +6,21 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "High Court Appeal No.288 of 2018",
   "date_of_order": "21.12.2023",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 22 of the Financial Institutions (Recovery of Finance) Ordinance, 2001",
+    "Section-22 of the Financial Institutions (Recovery of Finance) Ordinance, 2001",
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "PSRM Steels Private Limited",
+    "Askari Bank Limited",
+    "Unique Trading Company"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

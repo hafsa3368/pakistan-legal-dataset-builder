@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Criminal Jail Appeal No.D-",
+  "case_number": "",
   "date_of_order": "26.07.2021",
-  "judge": "",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Sections 302, 324, 1",
     "Section 1,48",
@@ -25,7 +25,15 @@
     "PLD 2006 Karachi 377",
     "PLD 2006 Kar 377"
   ],
-  "parties": [],
+  "parties": [
+    "Riaz",
+    "Fida",
+    "Ghulam Mustafa",
+    "Sabir",
+    "Qurban Ali Khoso",
+    "The State",
+    "Qasim and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

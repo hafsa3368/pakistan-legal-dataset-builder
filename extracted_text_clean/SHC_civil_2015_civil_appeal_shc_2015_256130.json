@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "misconduct comes to the notice",
+  "case_number": "",
   "date_of_order": "16.04.2025",
   "judge": "Arshad Hussain Khan Mr",
   "sections_cited": [],
@@ -14,7 +14,12 @@
     "2022 SCMR 636",
     "2024 SCMR 1852"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Utility Store Corporation of Pakistan",
+    "National Industrial Relations Commission",
+    "Mr. Ali Asghar Mangi",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

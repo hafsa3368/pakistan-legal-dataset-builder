@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 21,
-  "case_number": "constitutional Cr. Appeal Nos",
+  "case_number": "Cr. Appeal No.S-27/2024",
   "date_of_order": "29.09.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 365-B, 376, 148, 149 and 382 PPC",
     "Section 164 Cr.P.C",
@@ -34,7 +34,14 @@
     "PLD 2020 SC 313",
     "PLD 2002 SC 1048"
   ],
-  "parties": [],
+  "parties": [
+    "Badal son of Akho Mal, Menghwar",
+    "Bhorio s/o Peemo Marwari",
+    "Khano s/o Bhorio",
+    "Hawa Bai @ Mst. Horri w/o Bhorio",
+    "Mukhtiar Hussain S/o Ghulam Akbar, Rind",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "constrained to note",
+  "case_number": "",
   "date_of_order": "22.02.2022",
-  "judge": "JUDGE",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "section 18 of the Land Acquisition Act",
     "section 4 of the Act",
@@ -28,7 +28,12 @@
     "PLD 2010 SC 745",
     "PLD 1993 SC 336"
   ],
-  "parties": [],
+  "parties": [
+    "Provincial Government of Sindh",
+    "Land Acquisition Officer (B&R) Hyderabad",
+    "Provincial Government of Sindh",
+    "Land Acquisition Officer (B&R) Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

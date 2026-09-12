@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Constitutional Petition No. D-6802 of 2025",
   "date_of_order": "15.11.2012",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon Mr. Justice Zulfiqar Ali Sangi",
   "sections_cited": [
     "Section 33 of the Industrial Relations Act",
     "Section 2",
@@ -27,7 +27,15 @@
     "2011 SCMR 1254",
     "PLD 2024 SC 1168"
   ],
-  "parties": [],
+  "parties": [
+    "Phoenix Armour (Pvt.) Ltd.",
+    "Muhammad Usman & others",
+    "Muhammad Ishaq Khan & others",
+    "Gul Faraz & others",
+    "Respondent No.1",
+    "Respondent No.2",
+    "Respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

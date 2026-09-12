@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 21,
-  "case_number": "",
+  "case_number": "C.P No.S-66 of 2025",
   "date_of_order": "27.02.2026",
-  "judge": "",
+  "judge": "ARBAB ALI HAKRO",
   "sections_cited": [
     "Section 151 of the Act",
     "Section 2",
@@ -27,7 +27,16 @@
     "2011 SCMR 1813",
     "1999 SCMR 1881"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Philips Morris (Pakistan) Ltd",
+    "Court of the Commissioner Workmen’s Compensation & Authority under Payment of Wages Act, Hyderabad",
+    "Mr.Kashif Hanif",
+    "Mr.Ali Akbar Memon",
+    "Mr.Muhammad Idris Kalo",
+    "Respondent No.2",
+    "Respondent No.3",
+    "M/s HRSG SSP (Private) Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "28.11.2012",
-  "judge": "JUDGE",
+  "judge": "Sana Akram Minhas",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kamran Jawaid & Others",
+    "Province of Sindh & Others",
+    "Mr. Muhammad Aamir, Advocate",
+    "Mr. Imran Abro, AAG, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

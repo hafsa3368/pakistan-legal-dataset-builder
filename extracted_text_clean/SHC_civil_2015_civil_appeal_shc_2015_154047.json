@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Civil Procedure Code being Suit No.527 of 2009",
+  "case_number": "HCA No.363/2016",
   "date_of_order": "25.04.2017",
   "judge": "Munib Akhtar Mr",
   "sections_cited": [
@@ -15,7 +15,17 @@
   "citations": [
     "2010 SCMR 973"
   ],
-  "parties": [],
+  "parties": [
+    "Sharafat Ali",
+    "Abdul Majeed",
+    "Mr. Justice Munib Akhtar",
+    "Mr. Justice Arshad Hussain Khan",
+    "Ms. Naheed Parveen",
+    "Mr. Badrul Alam",
+    "Tahira Shah",
+    "Muhammad Qutubuzzaman",
+    "Mr. Justice Arshad Hussain Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

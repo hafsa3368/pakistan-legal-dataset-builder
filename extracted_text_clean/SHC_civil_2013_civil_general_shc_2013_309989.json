@@ -6,14 +6,34 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Petition No. D",
+  "case_number": "",
   "date_of_order": "10.03.2026",
   "judge": "Azeem",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "PLD 2013 SC 401"
+  ],
   "citations": [
     "PLD 2013 SC 401"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Manzoor Hassan",
+    "SSP Karachi South",
+    "Shahra-e-Faisal",
+    "PS Gulistan-e-Johar",
+    "CPO",
+    "Mr. Hakim Ali Shaikh",
+    "APG",
+    "SSP Karachi South",
+    "SIP Aijaz",
+    "PS Civil Lines",
+    "PI Deen Muhammad",
+    "Raza Mian",
+    "DSP Legal-II",
+    "CPO",
+    "Mr. Tahir Hussain Mangi",
+    "APG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

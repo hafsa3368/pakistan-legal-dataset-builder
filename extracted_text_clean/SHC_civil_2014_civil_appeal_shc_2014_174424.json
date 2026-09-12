@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 8,
   "case_number": "Criminal Appeal No. 265 of 2014",
-  "date_of_order": "",
+  "date_of_order": "13-08-2014",
   "judge": "CHIEF JUSTICE",
   "sections_cited": [
     "section 342 Cr.P.C",
@@ -20,7 +20,12 @@
     "PLD 2009 Lahore 362",
     "PLD 2012 SC 380"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar",
+    "The State",
+    "Pakistan Coast Guard",
+    "Mohammad Yaseen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

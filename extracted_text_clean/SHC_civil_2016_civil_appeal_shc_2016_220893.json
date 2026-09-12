@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "16.02.2024",
-  "judge": "JUDGE",
+  "judge": "Arbab Ali Hakro",
   "sections_cited": [
     "Section 22",
     "Section 151",
@@ -19,7 +19,11 @@
   "citations": [
     "2014 SCMR 1222"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Ayaz Haider",
+    "National Bank of Pakistan",
+    "Arif Ikram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

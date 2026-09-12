@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No. D-4840 of 2024",
-  "date_of_order": "",
+  "date_of_order": "13-05-2026",
   "judge": "Muhammad Saleem Jessar Mr",
   "sections_cited": [
     "section 8 of the Sindh Civil Servant Act"
@@ -16,7 +16,13 @@
     "2013 SCMR 1752",
     "2015 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "Haji Khan",
+    "Province of Sindh through Chief Secretary, Sindh",
+    "Muhammad Arshad Khan Tanoli",
+    "Faizan Hussain Memon",
+    "Muhammad Saleem Jessar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

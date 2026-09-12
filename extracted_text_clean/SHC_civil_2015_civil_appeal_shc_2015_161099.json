@@ -9,9 +9,17 @@
   "case_number": "Civil Appeals No.19-K",
   "date_of_order": "24-02-2022",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondents Department",
+    "Government of Sindh and others",
+    "Loung Khan Rajper and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,21 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 316 of 2022",
   "date_of_order": "08.11.2023",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zahid Rasheed",
+    "Anita Nalini Das",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Jawad Akbar Sarwana",
+    "Mr. Rasheed Ashraf Mughal",
+    "Mr. Shahrukh Khan Brohi",
+    "Mr. Muhammad Shahabuddin",
+    "Mr. Suleman Hudda"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

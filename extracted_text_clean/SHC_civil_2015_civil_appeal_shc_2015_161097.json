@@ -7,11 +7,13 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Civil Appeals No. 19-K",
-  "date_of_order": "",
+  "date_of_order": "16-11-2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shewak Ram Valeecha, Advocate for Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

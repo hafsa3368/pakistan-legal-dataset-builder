@@ -6,12 +6,21 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.S-1534 of 2016",
   "date_of_order": "07.11.2016",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Omparkash H. Karmani",
+    "Mr. Ali Abbas Memon",
+    "S.I Muhammad Juman Khoso",
+    "SHO P.S Sanghar",
+    "Manzoor Ali SHO P.S B-Section Tandoadam",
+    "SIP Buland Khan I/C CIA Mirpurkhas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,16 +7,23 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitutional Petition No. D-105 of 2026",
-  "date_of_order": "",
+  "date_of_order": "03.02.2026",
   "judge": "Adnan Iqbal Chaudhry Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "u/s 482 Cr.P.C."
+  ],
   "citations": [
     "1995 SCMR 698",
     "PLD 2007 SC 298",
     "PLD 2014 Sindh 378",
     "PLD 2007 SC 472"
   ],
-  "parties": [],
+  "parties": [
+    "Sardar Khan",
+    "P.O Sindh and others",
+    "Faiz Muhammad Larik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

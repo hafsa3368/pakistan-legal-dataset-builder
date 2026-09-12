@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Criminal Appeal No. 392 of 2024",
   "date_of_order": "14.10.2025",
-  "judge": "",
+  "judge": "Tasneem Sultana",
   "sections_cited": [
     "Section 3 of the Illegal Dispossession Act",
     "Section 544-A Cr.P.C",
@@ -27,7 +27,11 @@
     "2014 SCMR 749",
     "PLD 2007 Lahore 231"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Naeem alias PTV",
+    "Muhammad Fazal",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

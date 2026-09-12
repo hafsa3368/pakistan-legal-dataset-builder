@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P.No.S-1133 of 2015",
   "date_of_order": "16.05.2016",
-  "judge": "Ahmed/Pa",
+  "judge": "",
   "sections_cited": [
     "Section 22-A",
     "Section 154 Cr.P.C",
@@ -17,7 +17,11 @@
   "citations": [
     "2002 SCMR 63"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Wahid Bux Aajiz Leghari",
+    "Mr. M. Ishaque Khoso",
+    "Mr. Allah Bachayo Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

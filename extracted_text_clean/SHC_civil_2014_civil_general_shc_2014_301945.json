@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "12.11.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Keso Mal",
+    "Province of Sindh",
+    "Respondent No.5",
+    "Respondent No.4",
+    "Respondent No.3",
+    "Chairman NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

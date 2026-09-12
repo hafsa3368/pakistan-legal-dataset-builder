@@ -6,15 +6,20 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No.D-999 of 2024",
   "date_of_order": "19.11.2025",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "sections 302, 324 & 34 PPC",
     "Section 345 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Inamuddin",
+    "Province of Sindh and Others",
+    "Mr. Muhammad Sharif Solangi",
+    "Sindh Police Recruitment Board (SPRB)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

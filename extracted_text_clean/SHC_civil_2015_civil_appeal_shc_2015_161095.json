@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Civil Appeals No. 19-K",
-  "date_of_order": "",
+  "date_of_order": "16-11-2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shewak Ram Valeecha",
+    "the Petitioner",
+    "Government of Sindh and others",
+    "Loung Khan Rajper and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "24.01.2018",
-  "judge": "",
+  "judge": "A.Rasheed",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ismail Bhutto Asstt: A.G",
+    "Syed Manzoor Ali",
+    "SSP Hyderabad",
+    "ASI Hassan Ali Abro",
+    "SHO P.S.Tando Yousuf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

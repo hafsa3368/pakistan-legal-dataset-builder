@@ -6,14 +6,28 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Const. Pett. No.D-1592 of 2025",
+  "case_number": "",
   "date_of_order": "12.01.2026",
-  "judge": "",
+  "judge": "Iqbal Ahmed Noon",
   "sections_cited": [
     "Section 10 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s A.R Faruq Pirzada, Advocate for petitioners in CP No.D-1447 of 2025",
+    "M/s Abdul Baqi Jan Kakar, Ahmed Mehran Goraya, Advocates for petitioners in CP No.D-1592 of 2025",
+    "Agha Athar Hussain, Assistant Advocate General a/w Rafia Javed",
+    "Additional Director Private School Karachi",
+    "Syed Naveed Ali Shah, Regional Director Private School Hyderabad",
+    "Abdul Hadi Daudpoto, Regional Director Private School Mirpur Khas",
+    "Fozia Naz Mangrio, Regional Director Private School Larkana",
+    "Hameeda Jatoi, Regional Director Sukkur",
+    "Shahnaz Lakho, Regional Director Shaheed Benazirabad",
+    "SIP Iqbal Ahmed Noon",
+    "SHO PS A Section Sukkur",
+    "Ghulam Asghar",
+    "SSP Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

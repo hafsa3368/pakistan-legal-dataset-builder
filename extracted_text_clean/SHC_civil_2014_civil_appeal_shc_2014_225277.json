@@ -6,12 +6,19 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "High Court Appeal No.203 of 2016",
   "date_of_order": "21.01.2025",
   "judge": "Ayaz Gul",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saleh Muhammad",
+    "Faqir Muhammad and others",
+    "Mr. M. Jamshed Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

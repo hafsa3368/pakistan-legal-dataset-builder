@@ -6,12 +6,22 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-5732 of 2015",
   "date_of_order": "30.09.2016",
   "judge": "Muhammad Ali Mazhar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Sui Southern Gas Company Ltd",
+    "Anna Safdar Ameer & another",
+    "Sheikh Liaqat Hussain",
+    "M/s. Asim Iqbal and Farmanullah advocates",
+    "Sheikh Liaqat Hussain",
+    "Muhammad Ali Mazhar, J"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

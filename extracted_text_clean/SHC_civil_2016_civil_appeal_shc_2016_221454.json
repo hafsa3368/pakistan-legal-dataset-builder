@@ -8,10 +8,22 @@
   "num_chunks": 3,
   "case_number": "Civil Revision Application No.22 of 2024",
   "date_of_order": "16.10.2024",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "Article 199 of the Constitution",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Faisal Kamal Alam",
+    "Yousuf Ali Sayeed",
+    "Mst. Rehana",
+    "Rashid Raees",
+    "the applicants/defendants",
+    "respondent No.1 to 3/plaintiffs",
+    "the applicants/defendants",
+    "the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

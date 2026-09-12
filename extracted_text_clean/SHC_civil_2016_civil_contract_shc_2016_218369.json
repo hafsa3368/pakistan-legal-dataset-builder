@@ -6,12 +6,18 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-373 of 2015",
   "date_of_order": "21.08.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Search Foundation",
+    "Government of Sindh",
+    "Mr. Saifullah",
+    "Assistant Advocate General",
+    "Mr. Ahmed Imran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

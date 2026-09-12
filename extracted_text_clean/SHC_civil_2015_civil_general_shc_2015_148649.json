@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "24.12.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
@@ -15,7 +15,13 @@
   "citations": [
     "2015 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "Niaz Ahmed Abro and others",
+    "Province of Sindh",
+    "Syed Zafar Ali Shah and 54 others",
+    "Ali Azhar Khan Baloch",
+    "Chief Secretary Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,30 @@
   "case_number": "Constitution Petition No.D-806 of 2022",
   "date_of_order": "10.05.2022",
   "judge": "Naimatullah Phulpoto Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Samiullah Khan",
+    "The Province of Sindh",
+    "Subhan Ali Shoro",
+    "The Province of Sindh",
+    "Abdul Salam Memon",
+    "Ms. Rabya Javed",
+    "Mehfooz Yar Khan",
+    "The Province of Sindh",
+    "Ali Safdar Depar",
+    "Muhammad Saleem Rajput",
+    "Ghulam Ali Brahmani",
+    "Rabia Syed",
+    "Shahid A. Abro",
+    "M.M. Aqil Awan",
+    "Danish Rashid Khan",
+    "Fayaz Ahmed Memon",
+    "The Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

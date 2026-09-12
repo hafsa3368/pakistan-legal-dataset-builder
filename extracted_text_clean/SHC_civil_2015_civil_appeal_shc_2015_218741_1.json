@@ -6,12 +6,23 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 108 of 2024",
   "date_of_order": "30-08-2024",
   "judge": "Adnan Iqbal Chaudhry",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Article 91 of the Limitation Act, 1908"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Menahel Majid w/o Khawaja Abdul Ghani Majid",
+    "Mr. Fiaz H. Shah",
+    "Sahibzada Ghulam Muhammad Khan and others",
+    "the High Court of Sindh Karachi",
+    "Mr. Justice Adnan Iqbal Chaudhry",
+    "Mr. Justice Jawad Akbar Sarwana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

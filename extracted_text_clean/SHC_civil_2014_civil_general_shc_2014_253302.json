@@ -9,11 +9,18 @@
   "case_number": "Constitutional Petition No. D-1333 of 2025",
   "date_of_order": "26.01.2021",
   "judge": "Head of Constitutional Benches Shafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2024 SCMR 1722"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Karim Khan Agha",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Gulzar Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

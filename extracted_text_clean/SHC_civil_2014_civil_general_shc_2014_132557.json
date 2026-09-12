@@ -6,9 +6,9 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "Constitutional jurisdiction is not",
+  "case_number": "C.P.No.D-5005 of 2018",
   "date_of_order": "01.10.2018",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 5 Act",
     "Section 403 Cr.P.C",
@@ -29,7 +29,14 @@
     "PLD 1996 SC 543",
     "PLD 2012 SC 179"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner (Mr. Sarmad Sattar Leghari)",
+    "Special Prosecutor for MAB (Mr. Muhammad Akram Javed)",
+    "Respondent No.4",
+    "The State",
+    "Abdul Sattar and others",
+    "Registrar Cooperative Societies Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,15 +7,27 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Constitutional Petition No. D-3240 of 2014",
-  "date_of_order": "",
-  "judge": "JUDGE Shafi",
+  "date_of_order": "02.4.2026",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "Section 39 of the Sindh Katchi Abadis Authority Act"
   ],
   "citations": [
     "1999 SCMR 2883"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yousuf Jamal & others",
+    "The Government of Sindh & others",
+    "Syed Ziauddin Nasir",
+    "Mr. Zulfiqar Ali Shaikh",
+    "Mr. Abdul Jalil Zubedi",
+    "Mr. Ghulam Muhammad",
+    "Mr. Khurram Ghayasuddin",
+    "Moulvi Iqbal Haider",
+    "The respondent / KDA",
+    "The respondent / KDA",
+    "KMC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

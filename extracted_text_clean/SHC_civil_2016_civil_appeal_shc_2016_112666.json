@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Civil Miscellaneous Applications being No.854/2011",
+  "case_number": "",
   "date_of_order": "16.12.2016",
-  "judge": "",
+  "judge": "MUHAMMAD FAISAL KAMAL ALAM",
   "sections_cited": [
     "Section 31 of the Land Acquisition Act",
     "Section 31",
@@ -25,7 +25,16 @@
     "PLD 2001 Karachi 442",
     "PLD 2005 Karachi 47"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Arbab Ali Hakro",
+    "Mr. Allah Bachayo Soomro",
+    "The State",
+    "Mst. Sirtaj Bibi",
+    "Deputy District Officer (Rev) and Land Acquisition Officer, Sanghar and another",
+    "Shoukat Ali",
+    "Government of Khyber Pakhtunkhwa Works and Services/Communication and Works Department, Peshawar and Others",
+    "Fazle Wahid Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

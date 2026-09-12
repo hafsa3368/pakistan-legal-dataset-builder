@@ -8,13 +8,16 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "10.04.2017",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 171 of the Contract Act",
     "Section 152"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abu Dhabi Flour & Animal Feed Factory",
+    "Karachi Port Trust"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

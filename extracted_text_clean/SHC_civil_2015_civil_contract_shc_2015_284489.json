@@ -9,9 +9,23 @@
   "case_number": "Const. Petition No.D-1347 of 2009",
   "date_of_order": "24-09-2025",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Imdad Ali Mangi",
+    "Mukesh Kumar G. Karara",
+    "Sheeraz Fazal",
+    "Ali Raza Baloch",
+    "Sarmad Ali Shah",
+    "Mujeeb-ur-Rehman Soomro",
+    "Justice Riazat Ali Sahar",
+    "Justice Zulfiqar Ali Sangi",
+    "Justice Mr. Sohail Ahmed Khoso"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

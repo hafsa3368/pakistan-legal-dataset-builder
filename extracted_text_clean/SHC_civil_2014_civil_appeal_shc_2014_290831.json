@@ -22,7 +22,11 @@
     "PLD 2019 Sindh 1",
     "PLD 2024 Sindh 89"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Civil Aviation Authority",
+    "Muhammad Tajamul Gulzar",
+    "Noman Tajamul"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

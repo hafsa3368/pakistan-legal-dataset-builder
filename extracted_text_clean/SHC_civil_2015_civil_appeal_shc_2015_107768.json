@@ -6,12 +6,21 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P.No.D-5105/2016",
   "date_of_order": "14.10.2016",
   "judge": "Muhammad Ali Mazhar",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Engro Fertilizers Limited",
+    "Abdul Jamal Nasir & others",
+    "M/s Muhammad Humayun and Ghulam Murtaza Saryo",
+    "Mr.Rafiullah",
+    "Mr. Shaikh Liaquat Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

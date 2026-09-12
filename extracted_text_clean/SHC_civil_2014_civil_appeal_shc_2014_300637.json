@@ -6,7 +6,7 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "T Appeal No.49 of 2023",
   "date_of_order": "04.11.2025",
   "judge": "Jawad Akbar Sarwana",
   "sections_cited": [
@@ -15,7 +15,23 @@
     "section 80"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem s/o Abdullah Arain",
+    "Syed Noor Kazim s/o Syed Ahmed Ali Shah",
+    "Syed Ghayasuddin s/o Syed Noor Kazim",
+    "Syed Moinuddin s/o Syed Noor Kazim",
+    "Syed Mohiuddin s/o Syed Noor Kazim",
+    "Syed Salahuddin s/o Syed Noor Kazim",
+    "Sabiha d/o Syed Noor Kazim",
+    "Shagufta d/o Syed Noor Kazim",
+    "Ammar s/o Shoaib Siddiqui",
+    "Basil s/o Shoaib Siddiqui",
+    "Hira d/o Shoaib Siddiqui",
+    "Rakesh Kumar Lohana",
+    "Ghulam Mustafa Burdi",
+    "Syed Jan Muhammad Bukhari",
+    "Jaleel Ahmed Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

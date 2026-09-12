@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "20 October 2023",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman",
   "sections_cited": [
     "Section 265-H",
     "Sections 365-B of the Pakistan Penal Code",
@@ -18,7 +18,17 @@
     "Section 365-B of the Pakistan Penal Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Asghar Mirbahar",
+    "The State",
+    "Ms. Safa Hisbani",
+    "Agha Ghulam Abbas",
+    "Mst. Haseena",
+    "Samina",
+    "Mashooque",
+    "Naban",
+    "Ali Hasan Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

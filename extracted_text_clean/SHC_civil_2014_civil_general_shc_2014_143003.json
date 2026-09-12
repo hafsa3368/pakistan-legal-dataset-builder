@@ -6,14 +6,19 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "10.01.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
     "section 2"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Rani widow of Mushtaque",
+    "Province of Sindh",
+    "11 others",
+    "Police department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

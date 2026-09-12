@@ -9,9 +9,17 @@
   "case_number": "Civil Suit No. 168/2015",
   "date_of_order": "04.11.2016",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kamran Haider",
+    "Mr. Sher Muhammad Laghari",
+    "SIP Muhammad Urs",
+    "ASI Sabir Hassan Gopang",
+    "Mr. Asif Rizwan Kamboh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

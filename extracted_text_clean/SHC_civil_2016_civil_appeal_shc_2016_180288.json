@@ -6,12 +6,19 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "HCA No.331 of 2016",
   "date_of_order": "09.02.2023",
-  "judge": "JUDGE SM",
-  "sections_cited": [],
+  "judge": "Irfan Saadat Khan",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ali Waris Lari",
+    "Mr. Aijaz Shirazi",
+    "Respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

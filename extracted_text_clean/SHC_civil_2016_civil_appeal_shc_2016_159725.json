@@ -6,7 +6,7 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil Appeal No.D-",
+  "case_number": "",
   "date_of_order": "16-03-2022",
   "judge": "Muhammad Junaid Ghaffar Mr",
   "sections_cited": [
@@ -21,7 +21,13 @@
     "2004 YLR 77",
     "2001 YLR 618"
   ],
-  "parties": [],
+  "parties": [
+    "National Highway Authority & another",
+    "Muhammad Waris through his Legal Heirs",
+    "Mr. Nishad Ali Shaikh",
+    "Mr. A.M Mobeen Khan",
+    "Mr. Abdul Salam Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

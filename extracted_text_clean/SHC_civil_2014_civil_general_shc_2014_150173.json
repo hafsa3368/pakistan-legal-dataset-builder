@@ -6,14 +6,19 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition No.D",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "16.03.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [
     "2014 SCMR 1189"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Zia-ul-Haq Makhdoom",
+    "Mr. Zulfiqar Ali Domki",
+    "Mr. Zamir Hussain Ghumro",
+    "Mr. Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Miscellaneous Appeal No. 189 of 2025",
   "date_of_order": "02.01.2026",
-  "judge": "",
+  "judge": "Syed Fiaz ul Hasan Shah,",
   "sections_cited": [
     "Section 39",
     "Section 2",
@@ -31,7 +31,14 @@
     "PLD 1984 SC 8",
     "PLD 1983 Karachi 357"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Masood, Advocate",
+    "M/s Shariq A. Razzak & Muhammad Altaf Advocates",
+    "Mr. Muhammad Ali Lakhani, Advocate",
+    "Mr. Mujtaba Sohail Raja, Advocate",
+    "Humair Majeed",
+    "Arif Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

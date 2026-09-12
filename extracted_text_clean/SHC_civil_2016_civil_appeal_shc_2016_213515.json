@@ -6,14 +6,26 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "High Court Appeals No.432",
   "date_of_order": "25.04.2024",
   "judge": "Muhammad Shafi Siddiqui Justice Ms",
   "sections_cited": [
     "section 29A of Negotiable Instrument Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saeed Noor Khan and others",
+    "Syed Adnan Ali and another",
+    "Shaikh Ammad Arif and another",
+    "Mst. Nida Haris and another",
+    "Munsif Zaidi and another",
+    "Tartiq Yaqoob Zaidi and another",
+    "Salman Zaidi and another",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Justice Ms. Sana Akram Minhas",
+    "Mr. Khuram Gul Ghory",
+    "Mr. Muhammad Arif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

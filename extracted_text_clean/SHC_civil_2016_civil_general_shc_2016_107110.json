@@ -6,12 +6,20 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. NO. D-2181/2016",
   "date_of_order": "29.09.2016",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD ALI MAZHAR",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Rule 10 of SCUG Service Rules, 1982"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Perdeep Kumar & others",
+    "Province of Sindh & others",
+    "Petitioners",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

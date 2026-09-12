@@ -24,7 +24,11 @@
     "PLD 1973 SC 104",
     "PLD 1984 SC 8"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Abdullah",
+    "Sanofi Aventis",
+    "Sanofi Aventis and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

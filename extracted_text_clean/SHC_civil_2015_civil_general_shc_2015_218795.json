@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "MA No.10798/2024",
+  "date_of_order": "16-08-2024",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "sections 17 and 18",
     "Sections 17 and 18 of the IPOP Act",
@@ -17,7 +17,12 @@
   "citations": [
     "2022 SCMR 979"
   ],
-  "parties": [],
+  "parties": [
+    "S.S. Corporation",
+    "Ms. Saira Shaikh",
+    "Ms. Hanya Haroon",
+    "Sabiha Khatoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

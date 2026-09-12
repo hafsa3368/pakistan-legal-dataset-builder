@@ -6,16 +6,27 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "HCA No.437 of 2018",
   "date_of_order": "23.12.2025",
-  "judge": "",
+  "judge": "Muhammad Fahad Pirzada",
   "sections_cited": [
     "Section 2 CPC",
     "Section 2 of CPC",
     "section 144"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Fahad Pirzada",
+    "M/s. Uzma Farooq and Zahra Vayani",
+    "Mr. Abdullah Jamil Khan",
+    "Mr. Muhammad Akbar Khan",
+    "SUPARCO",
+    "Waqas Khan",
+    "the Chairman Suparco and others",
+    "Noman Saleem",
+    "Syed Mohiuddin M. Bukhari",
+    "Rashid Hussain Khokar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

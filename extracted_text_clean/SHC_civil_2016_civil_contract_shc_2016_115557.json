@@ -6,12 +6,19 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-1062 of 2015",
   "date_of_order": "30.11.2016",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Badal Gahothi",
+    "Mr. Anwar H. Ansari",
+    "Haji Muhammad",
+    "Mst. Samina",
+    "Detenue",
+    "Family members of Detenue"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

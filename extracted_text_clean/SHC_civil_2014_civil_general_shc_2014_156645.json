@@ -6,12 +6,18 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No.D-3310 of 2017",
   "date_of_order": "24.11.2021",
   "judge": "Hafiz Fahad",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "In person",
+    "Through Zulfiqar Ali Abbasi, Advocate",
+    "Through Mr. Allah Bachayo Soomro, Addl. Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

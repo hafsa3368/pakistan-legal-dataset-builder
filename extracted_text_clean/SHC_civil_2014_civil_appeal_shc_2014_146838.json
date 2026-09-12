@@ -6,9 +6,9 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "Civil Appeal Nos",
+  "case_number": "",
   "date_of_order": "11.09.2020",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON,",
   "sections_cited": [
     "Section 96 CPC",
     "Section 100"
@@ -18,7 +18,11 @@
     "2016 CLC 1245",
     "2012 CLC-644"
   ],
-  "parties": [],
+  "parties": [
+    "Balach ----------",
+    "Imtiaz-ul-Haq and others",
+    "Imtiaz-ul-Haq and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

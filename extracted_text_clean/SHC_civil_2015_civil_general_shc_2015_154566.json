@@ -6,7 +6,7 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "Constitutional Petition under Article 199 is not",
+  "case_number": "",
   "date_of_order": "11.10.2021",
   "judge": "Salahuddin Panhwar Mr",
   "sections_cited": [
@@ -31,7 +31,12 @@
     "PLD 1996 SC 771",
     "PLD 1960 SC 266"
   ],
-  "parties": [],
+  "parties": [
+    "Mehtab Ahamed Siddiqui & another",
+    "Mr. Muhammad Nishat Warsi",
+    "Mr. Omer Memon",
+    "Mr. Umar Akhund"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

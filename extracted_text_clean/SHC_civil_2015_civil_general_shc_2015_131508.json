@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "constructed such that it covers both Plot No.R-164",
+  "case_number": "",
   "date_of_order": "26.02.2018",
-  "judge": "",
+  "judge": "ADNAN IQBAL CHAUDHRY",
   "sections_cited": [
     "section 9 of the Specific Relief Act"
   ],
@@ -19,7 +19,11 @@
     "PLD 1987 Kar 58",
     "PLD 1992 Kar 323"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Shafaat Ali",
+    "Syed Feroz Ali",
+    "Adnan Iqbal Chaudhry"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

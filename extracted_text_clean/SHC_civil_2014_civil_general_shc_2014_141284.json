@@ -8,10 +8,20 @@
   "num_chunks": 11,
   "case_number": "",
   "date_of_order": "05.04.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "Fatal Accidents Act, 1855",
+    "Qanun-e-Shahadat Order, 1984",
+    "Evidence Law",
+    "Civil Procedure Code, 1908"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mazhar Ali",
+    "Anwar Javed Khan",
+    "Nemo",
+    "M/s Park Avenue Owners/Occupants Welfare Association and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

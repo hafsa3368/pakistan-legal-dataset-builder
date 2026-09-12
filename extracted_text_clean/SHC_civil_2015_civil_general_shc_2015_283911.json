@@ -6,12 +6,16 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-4552 of 2015",
   "date_of_order": "01.10.2025",
-  "judge": "JUDGE Hyder/PS",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Arif, Advocates for the Petitioner",
+    "Mr. Ameeruddin, Advocate for the Respondent No.5",
+    "Mehran Khan, AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "",
   "date_of_order": "08.09.2020",
-  "judge": "",
+  "judge": "Rana Ikramullah",
   "sections_cited": [
     "Section 151 CPC",
     "Section 151"
@@ -24,7 +24,13 @@
     "PLD 1990 SC 1",
     "PLD 1962 SC 291"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Zeeshan Abdullah",
+    "Mr. Ravi Pinjani",
+    "Ms. Wieb Rosemarie Dakhan",
+    "Ms. Firdous Mahmood Hussain",
+    "Mr. Shahnawaz Dakhan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

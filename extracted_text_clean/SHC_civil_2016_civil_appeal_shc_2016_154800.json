@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Misc. Appeal. No.17 of 2020",
   "date_of_order": "06.10.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 151 CPC",
     "Section 7",
@@ -23,7 +23,14 @@
     "2014 MLD 400",
     "PLD 1971 SC 376"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Farooq Ahmed",
+    "Federal Public Service Commission (FPSC)",
+    "Assistant Attorney General for Pakistan",
+    "FPSC Shah",
+    "A.D. Legal",
+    "FPSC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "13.10.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sohail Ahmed Khoso",
+    "Syed Tanveer Abbas Shah",
+    "Mr. Nisar Ahmed G. Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

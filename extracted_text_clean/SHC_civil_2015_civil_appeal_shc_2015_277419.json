@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Criminal Appeal No. S-122 of 2023",
   "date_of_order": "07.08.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 467",
     "section 470 & 471 PPC",
@@ -33,7 +33,11 @@
     "PLD 2005 Karachi 528",
     "PLD 1990 Karachi 275"
   ],
-  "parties": [],
+  "parties": [
+    "Amanullah son of Ali Gohar",
+    "Safiullah son of Ali Dino",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

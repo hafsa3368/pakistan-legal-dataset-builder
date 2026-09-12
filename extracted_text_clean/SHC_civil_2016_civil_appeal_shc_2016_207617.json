@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Criminal Acquittal Appeal No.33 of 2022",
+  "case_number": "",
   "date_of_order": "04.12.2023",
-  "judge": "",
+  "judge": "Asad Ali Leghari",
   "sections_cited": [
     "Section 489-F/420/34",
     "section 22-A",
@@ -27,7 +27,11 @@
     "2017 SCMR 1639",
     "PLD 2011 SC 554"
   ],
-  "parties": [],
+  "parties": [
+    "Asif Zameer",
+    "The State v Qamar Raza and another",
+    "Meezan Bank"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

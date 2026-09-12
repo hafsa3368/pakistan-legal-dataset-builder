@@ -6,12 +6,18 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.418 of 2003",
   "date_of_order": "05.12.2024",
-  "judge": "Judge Ayub",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Karachi Electric Supply Corporation",
+    "K- Electric Limited",
+    "Pakistan PTA Limited",
+    "Lottee Pakistan PTA Limited",
+    "Lottee Chemical Pakistan Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

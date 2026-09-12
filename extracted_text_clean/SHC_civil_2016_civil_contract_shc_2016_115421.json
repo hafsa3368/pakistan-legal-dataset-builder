@@ -6,12 +6,22 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.S-1634 of 2016",
   "date_of_order": "07.11.2016",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Karamullah Memon",
+    "Mr. Allah Bachayo Soomro",
+    "DIG Hyderabad",
+    "Nusrat Ali Baloch",
+    "SHO P.S Kotri",
+    "Syed Amir Hussain",
+    "SSP Jamshoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

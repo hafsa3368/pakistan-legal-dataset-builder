@@ -8,13 +8,16 @@
   "num_chunks": 5,
   "case_number": "Civil Appeal No.64/2016",
   "date_of_order": "18.01.2021",
-  "judge": "",
+  "judge": "MUHAMMAD AAMIR QURISHI",
   "sections_cited": [
     "section 151 CPC",
     "section 115"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Orangi Charitable Trust (OST)",
+    "Abid Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

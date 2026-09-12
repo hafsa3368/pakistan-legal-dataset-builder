@@ -6,15 +6,25 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitution is not",
+  "case_number": "C.P No.D-1305 of 2025",
   "date_of_order": "08.08.2023",
-  "judge": "JUDGE Shahzad Soomro",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2020 SCMR 1",
     "2015 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Majid Sahito",
+    "Irum Bukhari & others",
+    "Mr. Muhammad Rizwan, advocate for the petitioners",
+    "Mr. Faizan H. Memon, advocate for respondent No.1",
+    "Syed Khurram, advocate for respondent No.4",
+    "Mr. Ali Safdar Depar, AAG",
+    "Ms. Wajiha Mehdi, Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

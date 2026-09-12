@@ -8,13 +8,19 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.255 of 2020",
   "date_of_order": "22.01.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 23",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Masoom Ali",
+    "Pakistan",
+    "Pakistan Rangers",
+    "Muhammad Imran Kalmati",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

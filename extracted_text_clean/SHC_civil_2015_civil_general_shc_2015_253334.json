@@ -6,12 +6,19 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "CP. No. D-2792 of 2015",
   "date_of_order": "14.04.2025",
   "judge": "Muhammad Karim Khan Agha Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Asif",
+    "Federation of Pakistan",
+    "KPT football team"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

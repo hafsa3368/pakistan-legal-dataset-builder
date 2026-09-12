@@ -8,13 +8,18 @@
   "num_chunks": 9,
   "case_number": "",
   "date_of_order": "28.01.2019",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 306 of the Succession Act",
     "Section 18"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Allied Bank Limited",
+    "Qamar Hussain Naqvi",
+    "Nemo",
+    "Ameerzadi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

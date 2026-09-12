@@ -9,7 +9,10 @@
   "case_number": "Constitutional Petition No.D-1277 of 2023",
   "date_of_order": "15.10.2025",
   "judge": "Shafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 811",
     "2015 SCMR 456",
@@ -17,7 +20,11 @@
     "2012 SCMR 686",
     "PLD 2012 SC 1089"
   ],
-  "parties": [],
+  "parties": [
+    "Waqar Ali",
+    "Federation of Pakistan",
+    "Nizam Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

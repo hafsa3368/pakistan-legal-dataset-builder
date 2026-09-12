@@ -8,7 +8,7 @@
   "num_chunks": 24,
   "case_number": "Criminal Jail Appeal No.S-61 of 2024",
   "date_of_order": "24.07.2025",
-  "judge": "",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Sections 302, 376",
     "Section 382-B",
@@ -37,7 +37,11 @@
     "1969 SCMR 390",
     "2023 MLD 918"
   ],
-  "parties": [],
+  "parties": [
+    "Irshad Ali S/o Maqsood Ali Rajput",
+    "The State",
+    "Muhammad Ashruf S/o Abdul Razzaque"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

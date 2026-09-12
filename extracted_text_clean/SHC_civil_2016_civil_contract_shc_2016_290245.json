@@ -28,7 +28,11 @@
     "1999 MLD 901",
     "PLD 1969 SC 265"
   ],
-  "parties": [],
+  "parties": [
+    "Habib Ahmed",
+    "Syed Mansoor Ahmed",
+    "Adnan Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

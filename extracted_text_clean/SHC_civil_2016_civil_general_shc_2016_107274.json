@@ -6,12 +6,14 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. 5179 of 2015",
   "date_of_order": "03.10.2016",
-  "judge": "JUDGE Aadil Arab",
+  "judge": "Aadil Arab",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Jalil Zubedi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

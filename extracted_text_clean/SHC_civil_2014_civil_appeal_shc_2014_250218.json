@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "",
   "date_of_order": "17.05.2014",
-  "judge": "",
+  "judge": "Muhammad Karim Khan Agha",
   "sections_cited": [
     "Section 9",
     "Section 382-",
@@ -25,7 +25,10 @@
     "2021 SCMR 49",
     "2021 SCMR 380"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Sarwan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

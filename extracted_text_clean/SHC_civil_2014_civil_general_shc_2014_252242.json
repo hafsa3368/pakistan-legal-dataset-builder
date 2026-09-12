@@ -9,14 +9,24 @@
   "case_number": "Constitutional Petition No. 6/2011",
   "date_of_order": "07.04.2025",
   "judge": "Muhammad Karim Khan Agha Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 77 CrPC"
+  ],
   "citations": [
     "2013 SCMR 1752",
     "2015 SCMR 456",
     "2005 SCMR 716",
     "2005 SCMR 1212"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Majeed",
+    "Federation of Pakistan & others",
+    "Board of Intermediate and Secondary Education Sukkur",
+    "Employees' Old-Age Benefits Institution (EOBI)",
+    "Respondent No. 3",
+    "Respondent No. 4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

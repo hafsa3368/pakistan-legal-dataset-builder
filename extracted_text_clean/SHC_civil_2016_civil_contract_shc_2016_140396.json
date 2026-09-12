@@ -23,7 +23,14 @@
     "1988 SCMR 892",
     "PLD 1988 Karachi 489"
   ],
-  "parties": [],
+  "parties": [
+    "Karachi International Container Terminal Ltd.",
+    "Brig (Retd.) Arif Mahmud Malik",
+    "Brig (Retd.) Arif Mehmood Malik",
+    "Muhammad Yousuf Alam",
+    "Malik Altaf Javed",
+    "Muhammad Saleem Khaskheli"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

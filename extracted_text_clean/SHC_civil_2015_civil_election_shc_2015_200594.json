@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Election Appeal No.07 of 2023",
   "date_of_order": "24.07.2023",
-  "judge": "",
+  "judge": "Arbab Ali Hakro,",
   "sections_cited": [
     "Section 54 of the Sindh Local Government Act"
   ],
@@ -17,7 +17,14 @@
     "2016 SCMR 1312",
     "2014 SCMR 1015"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Mustafa son of Beerbal",
+    "Nemo",
+    "Election Commission of Pakistan",
+    "Ms. Shamim Mughal",
+    "Mr. Zaheer Abbas",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

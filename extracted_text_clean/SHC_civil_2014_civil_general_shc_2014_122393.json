@@ -6,12 +6,16 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-340 of 2013",
   "date_of_order": "24.01.2018",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Meeral Shah",
+    "Mr. Muhammad Ismail Bhutto",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

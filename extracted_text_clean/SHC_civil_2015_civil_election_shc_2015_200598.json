@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Election Appeal No.11 of 2023",
   "date_of_order": "24.07.2023",
-  "judge": "",
+  "judge": "ARBAB ALI HAKRO",
   "sections_cited": [
     "Section 54 of the Sindh Local Government Act",
     "Section 149 CPC",
@@ -17,7 +17,14 @@
   "citations": [
     "2014 SCMR 1015"
   ],
-  "parties": [],
+  "parties": [
+    "Imdad son of Ghulam Qadir",
+    "Taj Muhammad son of Moula Bux Hajano",
+    "Nemo",
+    "Through Ms. Shamim Mughal, Assistant Attorney General for Pakistan",
+    "Mr. Zaheer Abbas",
+    "Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,20 @@
   "case_number": "Constitutional Petition No. D-1599 of 2014",
   "date_of_order": "15.12.2025",
   "judge": "Riazat Ali Sahar Petitioner",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Asghar Ali",
+    "Province of Sindh",
+    "Quaid-e-Awam University",
+    "South City Hospital",
+    "Aga Khan University Hospital",
+    "National Medical Centre",
+    "Hira Medical Centre",
+    "University of Engineering, Science and Technology"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

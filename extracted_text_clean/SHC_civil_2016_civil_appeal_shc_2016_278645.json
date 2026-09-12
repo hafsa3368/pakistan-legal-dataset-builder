@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitution Petition No.D",
+  "case_number": "",
   "date_of_order": "24.07.2025",
-  "judge": "",
+  "judge": "Tasneem Sultana",
   "sections_cited": [
     "Section 265-H",
     "Section 365-A PPC",
@@ -33,7 +33,16 @@
     "PLD 2009 SC 460",
     "PLD 2015 SC 15"
   ],
-  "parties": [],
+  "parties": [
+    "Faisal Ansari @ Soni",
+    "Qaiser @ Kala",
+    "Province of Sindh",
+    "Inspector General of Prisons & Corrections Service Sindh",
+    "Senior Superintendent Central Prison & Correction Facilities Karachi",
+    "State",
+    "Asif Ali @ Asif Patel",
+    "Ali Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

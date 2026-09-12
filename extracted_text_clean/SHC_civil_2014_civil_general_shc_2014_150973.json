@@ -6,12 +6,22 @@
   "year": "2014",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "21.04.2021",
   "judge": "Adnan Iqbal Chaudhry Constitutional Petition",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wazir Ali Industries Limited",
+    "Sindh Labour Appellate Tribunal and another",
+    "Muhammad Javed Khan",
+    "Abdul Wahid Khan",
+    "Babar",
+    "the legal heirs of the deceased",
+    "the relevant/official departments"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

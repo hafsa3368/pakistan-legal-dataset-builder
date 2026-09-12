@@ -8,13 +8,20 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-6585 of 2022",
   "date_of_order": "17.01.2024",
-  "judge": "JUDGE Amjad PS",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "Sections 29, 31, 33 of the Sindh Mental Health Act",
     "Section 151"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar",
+    "Syed Asif Ali",
+    "others",
+    "Petitioners",
+    "Respondent No.1",
+    "Respondent No.7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

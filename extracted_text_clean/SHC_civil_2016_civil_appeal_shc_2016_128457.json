@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 9,
   "case_number": "Civil Petition No.599-K/2013",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "31-03-2016",
+  "judge": "ADNAN IQBAL CHAUDHRY",
   "sections_cited": [
     "Section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "House Building Finance Corporation Limited",
+    "First Dawood Investment Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

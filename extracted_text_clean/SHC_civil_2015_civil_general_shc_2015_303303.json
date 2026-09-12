@@ -8,10 +8,18 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No. D-3950 of 2024",
   "date_of_order": "31.12.2014",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "u/s 199 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tahira Khatoon & others",
+    "Federation of Pakistan & others",
+    "Abdul Jabbar Rajper",
+    "Mehreen Ibrahim DAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

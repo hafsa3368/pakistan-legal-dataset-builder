@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "Civil Procedure are not",
+  "case_number": "High Court Appeal No.183 of 2021",
   "date_of_order": "17.09.2025",
-  "judge": "",
+  "judge": "MUHAMMAD HASAN (AKBER)",
   "sections_cited": [
     "Section 3 of the Law Reforms Ordinance",
     "sections 30 and 33 of the Arbitration Act",
@@ -33,7 +33,10 @@
     "PLD 1996 SC 108",
     "PLD 2017 Islamabad 1"
   ],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "M/s Zaheeruddin Consultants (Pvt.) Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

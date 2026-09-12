@@ -6,14 +6,27 @@
   "year": "2013",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "constituted under Resolution No. F-2-21/75",
+  "case_number": "C.P. No.D-4945 of 2025",
   "date_of_order": "27.01.2026",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 1990 SC 612"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Shehla Kazmi",
+    "Federation of Pakistan",
+    "Province of Sindh",
+    "Quaid-e- Azam Academy",
+    "Ms. Mehreen Ibrahim",
+    "Mr. Zahid Ahmed",
+    "Mr. Abdul Aleem Sheikh",
+    "Dr. Rana Khan",
+    "Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

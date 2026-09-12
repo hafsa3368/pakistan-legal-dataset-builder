@@ -19,7 +19,11 @@
     "2010 SCMR 984",
     "2010 SCMR 1630"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal",
+    "Mehmood Ali",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

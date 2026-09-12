@@ -6,9 +6,9 @@
   "year": "2015",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "C.P No.S-38 of 2019",
   "date_of_order": "08.03.2021",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "section 114 of Civil Procedure Code",
     "section 18",
@@ -23,7 +23,12 @@
   "citations": [
     "PLD 1970 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shahid Hussain",
+    "Hyderabad Development Authority (HDA)",
+    "Commissioner for Workmen's Compensation and Authority",
+    "Commissioner Workmen Compensation East Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
