@@ -6,12 +6,16 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-772 of 2016",
   "date_of_order": "08.11.2016",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Allah Bachayo Soomro, Additional A.G"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

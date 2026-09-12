@@ -6,12 +6,23 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-1823 of 2016",
   "date_of_order": "01.12.2016",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mumtaz Sachal Awan",
+    "Mr. Sher Muhammad Legahri",
+    "SSP Hyderabad",
+    "SHO Market",
+    "SIP Sohail Sarwar",
+    "SIP Hadi Shah",
+    "Home Secretary Sindh",
+    "SSP Karachi Central"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

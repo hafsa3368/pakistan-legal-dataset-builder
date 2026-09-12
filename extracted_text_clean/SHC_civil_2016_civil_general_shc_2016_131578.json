@@ -6,12 +6,25 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "C.P. No.D-42 of 2013",
   "date_of_order": "24.09.2018",
-  "judge": "JUDGE Nadir/PA",
+  "judge": "Irfan Saadat Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Zulfiqar Shah & others",
+    "The State & Others",
+    "KMC Central",
+    "DMC Korangi",
+    "DMC South",
+    "DMC West",
+    "DMC Malir",
+    "KMC",
+    "Government of Sindh",
+    "The Hon'ble Chief Justice",
+    "Sindh",
+    "KMC Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

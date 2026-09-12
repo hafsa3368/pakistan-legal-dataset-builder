@@ -6,12 +6,17 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-2116 of 2016",
   "date_of_order": "29.01.2019",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sajjad Ali Jessar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-1761 of 2016",
   "date_of_order": "21.11.2016",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mian Taj Muhammad Keerio",
+    "Mr. Allah Bachayo Soomro",
+    "ASI Muhammad Aslam",
+    "ASG",
+    "SHO",
+    "Private respondents No.7 to 9"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

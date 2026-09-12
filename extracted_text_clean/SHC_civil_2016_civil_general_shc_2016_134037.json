@@ -6,7 +6,7 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Constable. He further added that no violation",
+  "case_number": "",
   "date_of_order": "27.11.2018",
   "judge": "Irfan Saadat Khan Mr",
   "sections_cited": [
@@ -16,7 +16,15 @@
   "citations": [
     "2016 SCMR 1254"
   ],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Muhammad Waris",
+    "Waseem Abbas",
+    "Saddam Hussain Khan",
+    "Muhammad Imran Khan",
+    "Faraz Akhtar Ali",
+    "Police Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

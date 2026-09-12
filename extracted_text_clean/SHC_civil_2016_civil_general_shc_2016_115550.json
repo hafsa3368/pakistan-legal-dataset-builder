@@ -9,9 +9,19 @@
   "case_number": "",
   "date_of_order": "24.10.2016",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sanaullah Khoso",
+    "Ms. Shaista Shah",
+    "SSP Hyderabad",
+    "respondent No.2",
+    "respondent No.4 (SHO P.S Kazi Ahmed)",
+    "respondent No.5 Kirshan Thakur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

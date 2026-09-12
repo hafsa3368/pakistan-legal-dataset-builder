@@ -6,12 +6,25 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "Constitutional Petition is dismissed for non-prosecution",
+  "case_number": "",
   "date_of_order": "10.10.2016",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Idrees Naqshbandi",
+    "Al-Mehran Cooperative Dairy and Society Ltd.",
+    "Ali Haider",
+    "Mr. Ashfaque Nabi Kazi",
+    "Mr. Noor Ali",
+    "Mr. Ali Abbas Memon",
+    "Mr. Aqeel Ahmed Siddiqui",
+    "Mr. Faiz Muhammad Chandio",
+    "Jagdish R. Mullani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

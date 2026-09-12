@@ -6,12 +6,19 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. 1725 of 2016",
   "date_of_order": "19.12.2016",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Noor Ahmed alias Rabbani",
+    "Mr. Allah Bachayo Soomro",
+    "Respondent No.1 (Senior Superintendent of Police, Shaheed Benazirabad)",
+    "Respondents No.3 and 4 (SHOs of P.Ss Sarhari and Khadhar)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

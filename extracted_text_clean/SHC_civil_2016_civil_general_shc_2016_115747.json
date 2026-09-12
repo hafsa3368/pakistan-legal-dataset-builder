@@ -6,12 +6,23 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-1719 of 2016",
   "date_of_order": "18.11.2016",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imdad Ali Memon",
+    "respondents No.5 to 7 and 11 to 13 & 14",
+    "Mr. Sher Muhammad Leghari",
+    "State Counsel",
+    "DIG Hyderabad",
+    "SIP Javed Akhtar o/b",
+    "SIP Muhammad Siddique Mallah o/b",
+    "SHO P.S Hala",
+    "SSP Matiari",
+    "Syed Abdul Latif SHO Kotri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

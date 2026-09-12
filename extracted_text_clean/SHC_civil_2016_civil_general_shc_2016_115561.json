@@ -6,12 +6,21 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.S-1267 of 2015",
   "date_of_order": "08.11.2016",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Shabana Widow of Shoukat Ali",
+    "Shoukat Ali",
+    "Mr. Abdul Hameed Bajwar",
+    "Mr. Allah Bachayo Soomro",
+    "Additional A.G"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

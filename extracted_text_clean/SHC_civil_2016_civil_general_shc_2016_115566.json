@@ -6,12 +6,21 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-1121 of 2016",
   "date_of_order": "28.10.2016",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ayaz Ali Ghuryani",
+    "Mr. Allah Bachayo Soomro",
+    "Akhtiar",
+    "petitioner",
+    "official respondents",
+    "petitioner lady"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

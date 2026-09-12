@@ -6,12 +6,15 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. A. No. D",
+  "case_number": "",
   "date_of_order": "01.02.2018",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Meeral Shah Bukhari",
+    "Mr. Nazeer Ahmed Bhatti, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

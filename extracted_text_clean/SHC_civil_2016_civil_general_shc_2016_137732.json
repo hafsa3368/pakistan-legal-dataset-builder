@@ -6,12 +6,20 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-3036 of 2017",
   "date_of_order": "19.03.2019",
-  "judge": "JUDGE Irfan Ali",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Nisar Ahmed",
+    "Province of Sindh",
+    "the petitioner",
+    "Ghulam Sarwar Baloch",
+    "the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

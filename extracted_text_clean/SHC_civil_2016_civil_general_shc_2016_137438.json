@@ -6,12 +6,16 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "MA No. 54/2014",
+  "date_of_order": "09-04-2019",
+  "judge": "M.Tahir",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahzad Saleem Khan, Advocate for the petitioner",
+    "Mr. Muzammil Soomro, Advocate for the Objector (Sarwat Butt)",
+    "Mr. Javed Iqbal, Advocate for applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

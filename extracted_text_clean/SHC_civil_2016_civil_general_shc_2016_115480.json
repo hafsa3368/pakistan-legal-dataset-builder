@@ -9,9 +9,20 @@
   "case_number": "",
   "date_of_order": "21.11.2016",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Anwar Sangi",
+    "Mr. Allah Bachayo Soomro",
+    "SHO P.S Market",
+    "SIP Hadi Bux",
+    "SIP Ghulam Shabbir Abbasi",
+    "Mr. Ayaz Ahmed Memon",
+    "Muhammad Nawaz Khushk"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

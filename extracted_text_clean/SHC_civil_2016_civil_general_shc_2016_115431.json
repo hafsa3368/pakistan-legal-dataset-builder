@@ -6,12 +6,19 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.S-1977 of 2016",
   "date_of_order": "19.12.2016",
   "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mashooque Ali Bhurgari",
+    "Mr. Allah Bachayo Soomro",
+    "SIP Ghulam Mustafa Bhatti",
+    "SHO P.S Nindo",
+    "SIP Muhammad Bux Chandio",
+    "SHO P.S Kadhan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

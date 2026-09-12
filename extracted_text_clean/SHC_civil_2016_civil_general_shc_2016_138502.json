@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 15,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "31.05.2019",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 9",
     "section 10",
@@ -22,7 +22,11 @@
     "1993 MLD 1571",
     "2016 SCMR 451"
   ],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "Tuwairqi Steel Mills Ltd",
+    "Al-Tuwairqi Holding Company"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

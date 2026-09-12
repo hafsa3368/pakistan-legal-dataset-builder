@@ -6,12 +6,26 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-1630 of 2016",
   "date_of_order": "14.12.2016",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Ghaffar Malik",
+    "Mr. Mumtaz Alam Laghari",
+    "Mr. Ashfaque Nabi Kazi",
+    "petitioners",
+    "respondents",
+    "No.6",
+    "No.7",
+    "Chetan",
+    "Dharmo",
+    "ASI Ghulam Qadir Jalbani",
+    "SHO P.S Mari Jalbani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

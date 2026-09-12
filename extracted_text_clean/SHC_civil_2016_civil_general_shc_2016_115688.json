@@ -6,7 +6,7 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-1709 of 2016",
   "date_of_order": "18.11.2016",
   "judge": "Shahid",
   "sections_cited": [
@@ -15,7 +15,11 @@
     "Section 365-B"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst.Arshee",
+    "Muhammad Shahrukh Khan",
+    "Amanullah S/o Ghulam Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

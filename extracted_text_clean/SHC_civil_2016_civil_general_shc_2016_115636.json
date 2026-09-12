@@ -6,12 +6,17 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-1600 of 2016",
   "date_of_order": "11.11.2016",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Yameen Rajput, Advocate",
+    "Mr. Allah Bachayo Soomro, Additional A.G",
+    "SIP Muhammad Younus Rajput",
+    "SHO P.S Shahdadpur, District Sanghar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

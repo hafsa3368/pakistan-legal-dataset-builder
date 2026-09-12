@@ -6,12 +6,24 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "criminal case cannot",
+  "case_number": "C.P. No.S-1464 of 2016",
   "date_of_order": "31.10.2016",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashfaque Nabi Kazi",
+    "SHO/SIP Ghulam Mustafa Laghari",
+    "SSP Naushero Feroze",
+    "DIG Shaheed Benazirabad",
+    "SIP Abrar Rind",
+    "Mr. Shahzad Ali Mastoi",
+    "Mir Hassan",
+    "Ali Asghar Machi",
+    "Ghulam Mustafa"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

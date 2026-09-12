@@ -6,12 +6,25 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P. No.S-830",
   "date_of_order": "31.10.2016",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Fahmida",
+    "Muhammad Shahid",
+    "Abdul Majeed",
+    "Abdul Hameed",
+    "Mumtaz",
+    "Muhammad Saleem",
+    "Abdul Ghaffar",
+    "Mrs. Razia Ali Zaman Khan",
+    "Mr. Muhammad Qasim Daudpota"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

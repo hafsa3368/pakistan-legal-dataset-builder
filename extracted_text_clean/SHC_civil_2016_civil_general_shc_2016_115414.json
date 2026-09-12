@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "18.10.2016",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Katcha Peshi",
+    "Mr. Muhammad Saleem Chohan",
+    "Mr. Ashfaque Nabi Kazi",
+    "Mr. Liaquat Ali Malak"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

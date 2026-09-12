@@ -6,12 +6,22 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-1802 of 2016",
   "date_of_order": "25.11.2016",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ahmed Khan Pathan",
+    "Jai Parkash",
+    "Chandar",
+    "Mr. Aijaz Ahmed Bhutto",
+    "Mr. Ghulam Mustafa Soomro",
+    "Mr. Allah Bachayo Soomro",
+    "Nisar Ahmed Mughal",
+    "Additional SHO Shahdadpur",
+    "Petitioner (unwell)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "criminal case in respect of FIR No. 41/2016",
+  "case_number": "C.P. No.S-1789 of 2016",
   "date_of_order": "21.11.2016",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Aijaz Ali Bhutto",
+    "Mr. Allah Bachayo Soomro",
+    "ASI Piral Dahri",
+    "SHO P.S Pubjo",
+    "SSP Shaheed Benazirabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

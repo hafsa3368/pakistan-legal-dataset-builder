@@ -6,12 +6,23 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No.S-1695 of 2016",
   "date_of_order": "14.12.2016",
   "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashfaque Nabi Kazi",
+    "Assistant A.G.",
+    "Mr. Habib-ur-Rehman",
+    "Assistant Director (Legal), NADRA",
+    "Mr. Muhammad Ishaque Khoso",
+    "Ali Haider",
+    "Petitioner",
+    "Respondent No.3",
+    "Petitioners",
+    "Respondent No.6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

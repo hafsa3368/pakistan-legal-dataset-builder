@@ -6,12 +6,18 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-1574 of 2016",
   "date_of_order": "24.10.2016",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashok Kumar D. Lohano",
+    "Mr. Muhammad Jameel Khan",
+    "Mr. Anwar H. Ansari",
+    "Manzoor Ali",
+    "Hadi Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

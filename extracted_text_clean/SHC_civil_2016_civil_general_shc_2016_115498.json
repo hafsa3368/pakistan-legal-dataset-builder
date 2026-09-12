@@ -6,12 +6,19 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "civil suit having No. 50/2016",
+  "case_number": "",
   "date_of_order": "24.10.2016",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sher Muhammad Laghari",
+    "petitioner",
+    "State Counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

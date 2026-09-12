@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "23.12.2016",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Hassan Chandio",
+    "Mr. Sher Muhammad Laghari",
+    "Muhammad Akram",
+    "Mst. Mukhtiar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

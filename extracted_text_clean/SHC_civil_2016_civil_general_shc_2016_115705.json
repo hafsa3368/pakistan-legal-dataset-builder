@@ -6,12 +6,15 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.S-1832 of 2016",
   "date_of_order": "05.12.2016",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Abbas Memon",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

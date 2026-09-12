@@ -6,12 +6,15 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-357 of 2016",
   "date_of_order": "25.02.2019",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ishrat Ali Lohar",
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

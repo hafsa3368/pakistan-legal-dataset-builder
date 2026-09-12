@@ -6,12 +6,23 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. Appln. No.S-",
+  "case_number": "",
   "date_of_order": "19.12.2016",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bashir Ahmed Almani",
+    "Syed Meeral Shah D.P.G.",
+    "Mr. Khadim Hussain Soomro",
+    "State",
+    "Aziz",
+    "Raja",
+    "Darya Khan Mari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

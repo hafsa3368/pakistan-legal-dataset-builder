@@ -6,12 +6,24 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.S-828 of 2016",
   "date_of_order": "21.11.2016",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Abdul Latif",
+    "Ms. Samreen Ali",
+    "Allah Bachayo Soomro",
+    "petitioner No.1",
+    "petitioner No.2",
+    "respondent No.6",
+    "respondent No.7",
+    "respondent No.8",
+    "respondent No.9"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

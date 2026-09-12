@@ -6,12 +6,15 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.S-335 of 2014",
   "date_of_order": "14.12.2016",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Katcha Peshi",
+    "respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

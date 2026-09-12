@@ -6,12 +6,21 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "criminal case in respect of FIR No. 215/2016",
+  "case_number": "",
   "date_of_order": "21.11.2016",
   "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Allah Bachayo Soomro",
+    "SIP Manzoor Ali",
+    "SSP Hyderabad",
+    "SIP Abdul Hakeem",
+    "SHO Nasim Nagar",
+    "ASI Manzoor Jamali",
+    "Mr. Aijaz Bhutto",
+    "Imam Bux Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

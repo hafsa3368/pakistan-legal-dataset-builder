@@ -9,12 +9,20 @@
   "case_number": "Civil Appeal No.190-K/2015",
   "date_of_order": "12.12.2019",
   "judge": "Fahad Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2012 CLC 16",
     "2015 SCMR 445"
   ],
-  "parties": [],
+  "parties": [
+    "Qurban Ali",
+    "Mr. Badal Gahoti",
+    "Mr. Allah Bachayo Soomro",
+    "Additional Advocate General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

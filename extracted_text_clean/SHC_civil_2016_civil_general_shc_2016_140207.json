@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "misconceived and CMA No.13352/2017",
+  "case_number": "",
   "date_of_order": "17-04-2019",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 10",
     "section 202 of the Contract Act",
@@ -21,7 +21,16 @@
     "PLD 2007 Karachi 527",
     "PLD 2011 Karachi 151"
   ],
-  "parties": [],
+  "parties": [
+    "Zamir Ahmed Khan",
+    "Muhammad Hassan Chaniyoon",
+    "Province of Sindh",
+    "Nemo",
+    "Zamir Ahmed Khan",
+    "Muhammad Hassan",
+    "Abdul Waheed",
+    "Nisar Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

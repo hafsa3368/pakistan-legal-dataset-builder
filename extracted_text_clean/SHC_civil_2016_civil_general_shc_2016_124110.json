@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "29.01.2018",
-  "judge": "JUDGE Tufail",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Imran Qureshi and Muhammad Aleem Arain",
+    "Mr. Anwar H. Ansari",
+    "SSP Hyderabad",
+    "SHO Market",
+    "private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
