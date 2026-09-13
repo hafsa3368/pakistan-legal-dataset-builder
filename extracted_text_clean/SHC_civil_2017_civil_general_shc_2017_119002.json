@@ -6,12 +6,19 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.NO.S-378 of 2017",
   "date_of_order": "07.08.2017",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faisal Nadeem Abro",
+    "Mr. Imdad Ali Memon",
+    "State Counsel a/w ASI Muhammad Bux",
+    "Mr. Abdul Haque Laghari",
+    "Respondent No. 2",
+    "Respondent No. 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

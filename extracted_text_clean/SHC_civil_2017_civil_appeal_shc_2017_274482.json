@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 31,
-  "case_number": "construction attached by Respondent No.1",
+  "case_number": "H.C.A. No.D-318 of 2017",
   "date_of_order": "06.05.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -30,7 +30,11 @@
     "2019 CLC 321",
     "1975 SCMR 157"
   ],
-  "parties": [],
+  "parties": [
+    "Raja Saqib Khan",
+    "Raja Sabri Khan",
+    "Mrs. Sarosh Rahim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

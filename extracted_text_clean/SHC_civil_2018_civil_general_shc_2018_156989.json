@@ -6,14 +6,26 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P.No.D-3313 of 2019",
   "date_of_order": "24.01.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "PLD 1980 SC 64"
+  ],
   "citations": [
     "PLD 1980 SC 64"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Sahibzada Muhammad Matin Mirza",
+    "Mr. Faizan Mansoor",
+    "Mr. Muhammad Yaseen Khan Azad",
+    "Board of Revenue Sindh",
+    "NAB",
+    "Learned Special Prosecutor NAB",
+    "Relevant civil courts"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

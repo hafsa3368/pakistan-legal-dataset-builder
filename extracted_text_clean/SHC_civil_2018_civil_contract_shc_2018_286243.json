@@ -9,11 +9,20 @@
   "case_number": "Constitutional Petition No.D-5404 of 2023",
   "date_of_order": "15.10.2025",
   "judge": "SHAFI",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 SCMR 694"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Shabbir Shaikh",
+    "Province of Sindh",
+    "Government of Sindh",
+    "Land Utilization Department",
+    "Criminal Prosecution Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

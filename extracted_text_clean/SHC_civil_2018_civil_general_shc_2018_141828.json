@@ -9,12 +9,21 @@
   "case_number": "",
   "date_of_order": "26.11.2019",
   "judge": "Fahad Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 1254",
     "2011 SCMR 408"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Nadeem Akhtar",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Zubair Ahmed Mirbahar",
+    "Mr. Muhammad Ismail Bhutto",
+    "I.G.P Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

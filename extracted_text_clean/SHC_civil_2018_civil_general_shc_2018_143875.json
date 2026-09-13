@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petitions No.D-2293 of 2018",
   "date_of_order": "20.02.2020",
-  "judge": "JUDGE Nadir",
+  "judge": "Nadeem Akhtar",
   "sections_cited": [
     "Section 3"
   ],
@@ -16,7 +16,18 @@
     "2018 SCMR 1181",
     "2019 SCMR 648"
   ],
-  "parties": [],
+  "parties": [
+    "Noureen Naz",
+    "Province of Sindh",
+    "Muhammad Islam",
+    "Province of Sindh",
+    "Habibul Hassan",
+    "Province of Sindh",
+    "Imtiaz Ali Shekh",
+    "Province of Sindh",
+    "Sadaqat Ali",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

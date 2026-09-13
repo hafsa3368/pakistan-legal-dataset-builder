@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "Civil Suit bearing No. 1153 of 2006",
+  "case_number": "",
   "date_of_order": "01.12.1997",
   "judge": "Aftab Ahmed Gorar Mr",
   "sections_cited": [
@@ -32,7 +32,11 @@
     "PLD 2005 Sindh 1",
     "PLD 2020 Sindh 9"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Habibur Rehman Soomro",
+    "Federation of Pakistan",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,21 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "C.P No.D-28 of 2018",
+  "date_of_order": "07.02.2018",
+  "judge": "Abdullah Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Shafique Ahmed Shah",
+    "Mr. Muhammad Ismail Bhutto",
+    "DIGP Hyderabad",
+    "SSP Hyderabad",
+    "SIP Najamdin Nizamani",
+    "SIP Pahardin Dahani",
+    "Syed Meeral Shah",
+    "Respondent No.7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,8 +8,12 @@
   "num_chunks": 5,
   "case_number": "Criminal Jail Appeal No.7/2020",
   "date_of_order": "13.06.2023",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 9",
+    "u/s 342 Cr.P.C",
+    "u/s 340 Cr.P.C"
+  ],
   "citations": [
     "2022 SCMR 1641",
     "2015 SCMR 1002",
@@ -23,7 +27,13 @@
     "2021 SCMR 492",
     "2021 SCMR 380"
   ],
-  "parties": [],
+  "parties": [
+    "Lal Bux S/o Shafi Muhammad Brohi",
+    "State",
+    "Najeeb-Ur-Rahman",
+    "Samina",
+    "DIGP Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

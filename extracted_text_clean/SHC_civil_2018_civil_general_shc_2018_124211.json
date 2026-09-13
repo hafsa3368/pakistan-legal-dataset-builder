@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "30.01.2018",
-  "judge": "",
+  "judge": "kara Hussain",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Pervaiz Tariq Tagar",
+    "Mr. Rashid Raees",
+    "Mr. Ghulam Abbas Sangi",
+    "PS Nasim Nagar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.D-52 of 2015",
   "date_of_order": "10.01.2018",
-  "judge": "JUDGE AH",
+  "judge": "Abdul Maalik Gaddi",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C",
@@ -18,7 +18,13 @@
   "citations": [
     "2015 SCMR 1002"
   ],
-  "parties": [],
+  "parties": [
+    "Akber son of Abdul Majeed alias Nokaf Buledi",
+    "The State",
+    "Syed Meeral Shah A.P.G.",
+    "SIP Muhammad Laiq",
+    "Zulfiqar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

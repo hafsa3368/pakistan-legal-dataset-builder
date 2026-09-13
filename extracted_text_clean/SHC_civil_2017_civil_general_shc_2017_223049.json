@@ -6,12 +6,17 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.22856/2024",
   "date_of_order": "10.12.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Saad Shafiq Siddiqui",
+    "Mr. Zafar Hussain",
+    "Mr. Darvesh K. Mandhan",
+    "Ms. Rabia Khalid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

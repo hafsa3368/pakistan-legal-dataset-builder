@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "construction of a building on Plot No.77",
+  "case_number": "",
   "date_of_order": "02.04.2019",
-  "judge": "",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "section 39 of the Specific Relief Act"
   ],
@@ -16,7 +16,16 @@
     "1996 SCMR 1539",
     "PLD 2015 SC 212"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Shamshad Begum",
+    "Muhammad Arshad (Late)",
+    "Mst. Mahjabeen",
+    "Nisar Ahmed",
+    "Defence Housing Authority",
+    "Muhammad Saleem Mangrio",
+    "S. Ali Ahmed Tariq",
+    "Sohail H. K. Rana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

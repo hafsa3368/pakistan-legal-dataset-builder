@@ -8,12 +8,17 @@
   "num_chunks": 6,
   "case_number": "Civil Revision Appln. No.S-55 of 2023",
   "date_of_order": "22.01.2026",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 115"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Akbar Ali s/o Khuda Bux",
+    "Nisar Ghulam Hussain s/o Allah Ditta",
+    "Nisar Ali Shah s/o Pir Shah",
+    "Sukkur Motor Works Association"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

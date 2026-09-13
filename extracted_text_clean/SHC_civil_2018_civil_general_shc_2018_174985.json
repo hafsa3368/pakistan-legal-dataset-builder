@@ -6,17 +6,23 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "MA No. 2530/2020",
   "date_of_order": "28-03-2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1996 SCMR 696",
     "2002 CLC 449",
     "1992 SCMR 2238",
     "PLD 1983 SC 5"
   ],
-  "parties": [],
+  "parties": [
+    "Eaton Phoenixtec MMPL Co., Ltd.",
+    "Messrs. New Rabia Enterprises"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

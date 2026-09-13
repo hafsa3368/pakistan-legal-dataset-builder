@@ -6,17 +6,27 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "13.03.2020",
   "judge": "Nadeem Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 162",
     "1996 SCMR 1185",
     "2015 SCMR 1257",
     "2016 SCMR 137"
   ],
-  "parties": [],
+  "parties": [
+    "Zeeshan Usmani",
+    "Federation of Pakistan",
+    "Mst. Saima Ather",
+    "Mr. Faizan Hussain Memon",
+    "Mr. Asim Iqbal",
+    "Mr. Muhammad Nishat Warsi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

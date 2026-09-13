@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Constitution Petition No. S-284 of 2019",
   "date_of_order": "26th May, 2022",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 15 and 17",
     "section 5 of the Act"
@@ -16,7 +16,11 @@
   "citations": [
     "2021 SCMR 56"
   ],
-  "parties": [],
+  "parties": [
+    "SSGC",
+    "The State",
+    "Mian Haroon Riaz Lucky"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

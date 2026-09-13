@@ -6,12 +6,15 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "M.A. No. 321 of 2018",
+  "date_of_order": "18-12-2018",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Fayaz Ahmed Metlo",
+    "Mr. Mohammad Yusuf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

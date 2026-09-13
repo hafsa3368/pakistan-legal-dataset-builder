@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Appeal No.D-34 of 2023",
   "date_of_order": "09.01.2018",
-  "judge": "Faisal Mumtaz/PS JUDGE",
+  "judge": "Faisal Mumtaz",
   "sections_cited": [
     "Section 22",
     "Section 10",
@@ -21,7 +21,10 @@
     "PLD 2012 SC 268",
     "PLD 1974 SC 134"
   ],
-  "parties": [],
+  "parties": [
+    "Ahmed Nawaz",
+    "M/s Zarai Tarakiyati Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

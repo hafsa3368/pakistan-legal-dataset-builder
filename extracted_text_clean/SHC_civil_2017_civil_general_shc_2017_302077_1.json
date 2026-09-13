@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Constitutional Petition No. D-2525 of 2018",
   "date_of_order": "13.01.2026",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "section 16",
     "sections 4 and 4 of the Reorganization Ordinance",
@@ -19,7 +19,11 @@
     "2014 SCMR 1336",
     "SCMR 1914 AND 2014"
   ],
-  "parties": [],
+  "parties": [
+    "Wahid Bux Mallah",
+    "Federation of Pakistan",
+    "NICL"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

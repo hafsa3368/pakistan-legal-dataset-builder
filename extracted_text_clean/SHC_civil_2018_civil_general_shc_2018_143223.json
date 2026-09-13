@@ -8,10 +8,17 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "15.11.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "YOUSEF ALI SAYEED",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Manzoor Ahmed Soomro",
+    "Hameed Ahmed",
+    "Arif Latif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

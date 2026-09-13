@@ -9,7 +9,10 @@
   "case_number": "",
   "date_of_order": "13-09-2018",
   "judge": "Muhammad Ali Mazhar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1987 SCMR 1704",
     "1992 SCMR 19",
@@ -17,7 +20,11 @@
     "PLD 1971 SC 550",
     "PLD 2016 SC 409"
   ],
-  "parties": [],
+  "parties": [
+    "Port Qasim Authority",
+    "Industrial Management & Investment Company Ltd.",
+    "Aromatic Foods (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

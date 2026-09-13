@@ -11,7 +11,14 @@
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Petitioner",
+    "Respondent",
+    "Respondent",
+    "Assistant Attorney General",
+    "Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

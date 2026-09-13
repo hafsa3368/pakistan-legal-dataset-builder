@@ -6,12 +6,15 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.NO.S-342 of 2017",
   "date_of_order": "07.08.2017",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aijaz Ahmed Chandio",
+    "State Counsel a/w ASI Muhammad Yousuf of P.S Model District Badin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

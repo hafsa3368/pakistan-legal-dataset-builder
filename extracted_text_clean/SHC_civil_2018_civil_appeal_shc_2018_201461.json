@@ -6,12 +6,19 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Petition No.D-",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "case_number": "",
+  "date_of_order": "22.08.2023",
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Achar Khan Gabol",
+    "M/s Mujeeb Rehman Soomro and Bahawal Din Shaikh",
+    "Mr. Dareshani Ali Haider",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

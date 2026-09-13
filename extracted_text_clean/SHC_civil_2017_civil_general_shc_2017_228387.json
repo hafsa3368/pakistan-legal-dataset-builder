@@ -6,10 +6,13 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "Constt. Petition No. D-",
+  "case_number": "",
   "date_of_order": "21.09.2017",
   "judge": "Junald Ghaffan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1986 SCMR 1096",
     "1998 SCMR 2268",
@@ -27,7 +30,27 @@
     "1999 SCMR 467",
     "1993 SCMR 362"
   ],
-  "parties": [],
+  "parties": [
+    "G. Abro",
+    "D.A.G.",
+    "Mr. Ghulam Dastagir A. Shahani",
+    "Mr. Habibullah G. Ghouri",
+    "Mr. Rashid Mustafa Solangi",
+    "Mr. Faiz Muhammad Larik",
+    "Mr. Rafique Ahmed K. Abro",
+    "Mr. Abdul Rehman A. Bhutto",
+    "Mr. Ashfaq Hussain Abro",
+    "Mr. Safdar Ali Ghouri",
+    "Mr. Fida Hussain Shah",
+    "Mr. Imtiaz Ali Bhatti",
+    "Mr. Saleem Raza Jakhar",
+    "Mr. Mazhar Ali Bhutto",
+    "Mr. Abdul Hamid Bhurgri",
+    "Mr. Abid Hussain Qadri",
+    "Mr. Ameer Ahmed Narejo",
+    "Mr. Muhammad Ashique Dhamraho",
+    "Mr. Nisar Ahmed G. Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

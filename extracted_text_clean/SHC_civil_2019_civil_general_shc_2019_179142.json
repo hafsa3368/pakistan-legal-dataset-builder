@@ -6,14 +6,21 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Rev. Application No. 188 of 2020",
+  "case_number": "",
   "date_of_order": "02.11.2020",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 540 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naeem Malik",
+    "Mr. Badar Hussain",
+    "Mr. Sarfraz Ali",
+    "Mr. Talib Ali Memon",
+    "Mr. Naeem Malik",
+    "The respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

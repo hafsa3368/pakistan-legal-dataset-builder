@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "constructed on a residential plot No.A-9",
+  "case_number": "M.A Nos.11139",
   "date_of_order": "11.01.2018",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 94",
     "section 1-C",
@@ -18,7 +18,17 @@
     "Section 19 of the Amendment Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hanif Ahmed",
+    "Abdul Khaliq Ali",
+    "Sindh Building Control Authority",
+    "Yasir Ahmed",
+    "6 others",
+    "M/s. Muneer A. Malik",
+    "Chaudhry Atif Rafiq",
+    "Mr. Muhammad Usman Tufail",
+    "Dr. Muhammad Farogh Naseem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

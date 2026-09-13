@@ -6,12 +6,22 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional jurisdiction cannot",
+  "case_number": "C.P No.D-956 of 2025",
   "date_of_order": "04.03.2026",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Arbab Ali Hakro Justice Muhammad",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zahid",
+    "Province of Sindh",
+    "Others",
+    "Mr. Ayaz Ali Rajper",
+    "Assistant A.G Sindh",
+    "ADC-II Sanghar (Moula Dad)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

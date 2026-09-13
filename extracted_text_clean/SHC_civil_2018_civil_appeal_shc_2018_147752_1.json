@@ -8,14 +8,28 @@
   "num_chunks": 7,
   "case_number": "",
   "date_of_order": "29.10.2020",
-  "judge": "JUDGE S",
+  "judge": "",
   "sections_cited": [
     "sections 302/34 PPC"
   ],
   "citations": [
     "2003 SCMR 477"
   ],
-  "parties": [],
+  "parties": [
+    "The State Vs. Amanullah and another",
+    "Amanullah and another",
+    "Amanullah",
+    "The State",
+    "Respondents No. 2 and 3",
+    "Respondent No. 3",
+    "Respondent No. 2",
+    "Mukhtar",
+    "P.W Dilawar Iqbal",
+    "Imran",
+    "Muhammad Ishtiaq",
+    "A.P.G. Sindh",
+    "A.P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

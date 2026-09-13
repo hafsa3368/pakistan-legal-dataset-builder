@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Civil Revision No.18 of 2020",
   "date_of_order": "12.09.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Munawar Hussain Memon, Advocate",
+    "Mr. Asif Hyder K. Phulpoto, Advocate",
+    "Mr. Ghulam Abbas Kubar, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

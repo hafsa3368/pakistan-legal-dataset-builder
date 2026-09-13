@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Civil Reference No.01 of 2009",
   "date_of_order": "01.04.2026",
-  "judge": "JUDGE KAMRAN/PS",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Sections 4 and 6 of the Land Acquisition Act",
     "Section 18 of the Land Acquisition Act",
@@ -16,7 +16,10 @@
     "Section 34 of the Land Acquisition Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Noor-ud-Din S/o Abdullah & others",
+    "PTCL & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

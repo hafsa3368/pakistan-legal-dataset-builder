@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal ATA No.212",
   "date_of_order": "15.72.2027",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "section 7",
     "Section 382-B Cr.P.C",
@@ -20,7 +20,10 @@
     "2020 SCMR 610",
     "2020 SCMR 474"
   ],
-  "parties": [],
+  "parties": [
+    "Zaher Ahmed @ Gul S/o. Ghulam Nabi",
+    "State/Complainanth"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

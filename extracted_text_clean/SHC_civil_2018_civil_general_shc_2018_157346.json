@@ -6,12 +6,19 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C. P. No. D-7142 of 2021",
   "date_of_order": "25.11.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Cable Operators Association of Pakistan",
+    "Respondents",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,27 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "criminal case being Case No.122 of 2011",
+  "case_number": "",
   "date_of_order": "18.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1998 P. Cr. L J 1539"
   ],
-  "parties": [],
+  "parties": [
+    "Imtiaz Ahmed",
+    "Muhammad Hussain",
+    "Imtiaz Ahmed and another",
+    "Muhammad Usman",
+    "Allah Rakhio",
+    "The State",
+    "Dr. Muhammad Islam",
+    "Government of N.-W.F.P.",
+    "Federal Investigation Agency"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

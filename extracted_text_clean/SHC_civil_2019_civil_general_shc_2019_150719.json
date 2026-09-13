@@ -6,12 +6,17 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "C.P. Nos.D-6449/2020",
+  "date_of_order": "08.04.2021",
+  "judge": "S.Akhtar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Malik Altaf Hussain",
+    "Mr. Ali Asadullah Bullo",
+    "Mr. Muhammad Nishat Warsi",
+    "Respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 26,
-  "case_number": "Criminal Jail Appeal No.D-",
+  "case_number": "Cr. Jail Appeal No.D-05 of 2020",
   "date_of_order": "17.08.2023",
   "judge": "Zulfiqar Ali Sangi Appellants",
   "sections_cited": [
@@ -36,7 +36,13 @@
     "2002 SCMR 1089",
     "2016 SCMR 986"
   ],
-  "parties": [],
+  "parties": [
+    "Rahib Ali",
+    "Muhammad Mavia",
+    "The State",
+    "Agha Abdul Nabi",
+    "ANF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

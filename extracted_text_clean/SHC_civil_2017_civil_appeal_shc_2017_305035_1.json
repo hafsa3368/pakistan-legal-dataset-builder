@@ -6,12 +6,17 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "constitutional bar is not",
+  "case_number": "C.P No.D-100 of 2026",
   "date_of_order": "04.02.2026",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zubair Khan",
+    "Province of Sindh",
+    "03 others",
+    "Mir Muhammad Nohri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

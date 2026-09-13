@@ -6,12 +6,25 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "MA No. 11376/2019",
   "date_of_order": "15-09-2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Samina",
+    "Faraz Tasneem",
+    "Muhammad Hanif",
+    "Sohail",
+    "Anas Hanif",
+    "Nemo",
+    "Sub-Registrar T Division I",
+    "Sub-Registrar-I",
+    "Sindh Building Control Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

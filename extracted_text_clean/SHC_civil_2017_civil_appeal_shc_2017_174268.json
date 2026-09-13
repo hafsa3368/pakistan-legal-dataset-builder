@@ -6,14 +6,20 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Acq. Appeal No. 492 of 2017",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "08.11.2018",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 39-E of the Electricity Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abid Hussain",
+    "The State",
+    "Muhammad Younus",
+    "Judicial Magistrate-VII, Karachi (West)",
+    "K-Electric"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

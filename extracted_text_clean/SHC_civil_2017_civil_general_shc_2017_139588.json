@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Civil Transfer Application No.S-10 of 2019",
-  "date_of_order": "",
+  "date_of_order": "08-07-2019",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Zafar-ul-Haq and others",
+    "Nadir and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Appeal No.108 of 2017",
   "date_of_order": "18.01.2021",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "section 42 of Specific Relief Act",
     "Section 115",
@@ -22,7 +22,15 @@
     "PLD 2000 SC 820",
     "PLD 2012 Sindh 92"
   ],
-  "parties": [],
+  "parties": [
+    "Sodho Khan",
+    "Raja Imtiaz Ali",
+    "Ghulam Safdar",
+    "Ghulam Safdar and others",
+    "defendant No.1",
+    "defendant No.2",
+    "defendant No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

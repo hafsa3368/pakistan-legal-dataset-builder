@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Acquittal Appeal No.S-178 of 2024",
+  "case_number": "",
   "date_of_order": "29.05.2025",
   "judge": "Miran Muhammad Shah",
   "sections_cited": [
@@ -14,7 +14,13 @@
     "Sections 3, 4, 7 & 8 of Illegal Dispossession Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khalid Mehmood Almani",
+    "Dhani Bux",
+    "Jan Muhammad",
+    "Abdullah Babbar",
+    "Murtaza Babbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

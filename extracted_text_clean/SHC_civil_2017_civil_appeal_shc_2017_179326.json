@@ -6,15 +6,24 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Cr.Acq. Appeal No. 56 of 2021",
+  "case_number": "",
   "date_of_order": "30.01.2023",
-  "judge": "Naveed PA",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 265-K Cr.P.C",
     "Section 496A PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iftikhar",
+    "M.A.",
+    "Shreen Bibi",
+    "Seema Zaidi",
+    "The Appellant",
+    "The Respondent",
+    "The Complainant",
+    "The Respondent No. 2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

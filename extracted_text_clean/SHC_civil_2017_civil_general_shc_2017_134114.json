@@ -9,9 +9,25 @@
   "case_number": "Civil Petition No. 426-K of 2017",
   "date_of_order": "09.08.2017",
   "judge": "Syed Hassan Azhar Rizvi Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Dileep Kumar & others",
+    "Dr. Gul Hassan Dahri and others",
+    "Dr. Shakil Ahmed Memon & others",
+    "Dr. Abid Hussain and others",
+    "Dr. Rahana Fayyaz and others",
+    "Dr. Kelash Babu",
+    "Dr. Aftab Haider Deeshak and others",
+    "Dr. Sabrina and others",
+    "Dr. Moomal and others",
+    "Dr. Tahira Tauseef and others",
+    "Dr. Kanwar Gul",
+    "Dr. Behsham Kumar and others",
+    "Dr. Fahad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

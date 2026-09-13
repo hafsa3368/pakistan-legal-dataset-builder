@@ -8,10 +8,17 @@
   "num_chunks": 4,
   "case_number": "Constitution Petition No.D-3210 of 2022",
   "date_of_order": "07.12.2023",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 9 Specific Relief Act, 1877",
+    "Section 49 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shan son of Sohail William",
+    "Roshan",
+    "Bansi Lal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

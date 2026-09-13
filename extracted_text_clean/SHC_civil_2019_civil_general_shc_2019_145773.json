@@ -6,12 +6,16 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-2881 of 2018",
   "date_of_order": "11.08.2020",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hameedullah Dahri, Advocate for the petitioners",
+    "Mr. Allah Bachayo Soomro, Additional Advocate General, Sindh",
+    "Mr. Imdad Ali R. Unar, Advocate for the respondents No.5 and 6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Civil Suit No.526/1984",
   "date_of_order": "12.10.2021",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Section 151 CPC",
     "Section 53-A"
@@ -29,7 +29,11 @@
     "PLD 1998 Lahore 548",
     "PLD 1970 Karachi 657"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Syed Maqbool Hussain Shah and Khawaja Naveed Ahmed Advocates for Defendant No.1",
+    "Mr. Asif Rasheed, Advocate for Defendant No.2",
+    "Amtur Rehman, widow of Syed Kazim Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

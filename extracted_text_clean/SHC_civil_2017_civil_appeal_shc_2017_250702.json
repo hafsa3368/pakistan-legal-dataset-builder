@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "constructed at Plot Nos",
+  "case_number": "HCA No.119 of 2024",
   "date_of_order": "04.09.2024",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman",
   "sections_cited": [
     "section 3 of the Law Reforms Ordinance",
     "Section 15 Code",
@@ -26,7 +26,11 @@
     "2000 SCMR 53",
     "PLD 1976 SC 785"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ishrat Zahid Alvi",
+    "Malik Naeem Iqbal",
+    "Mr. Salma Javed Mirza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

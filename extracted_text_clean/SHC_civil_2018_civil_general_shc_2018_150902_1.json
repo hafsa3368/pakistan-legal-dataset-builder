@@ -6,15 +6,27 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "15.04.2021",
   "judge": "Adnan Iqbal Chaudhry Constitutional Petition",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1986 CLC 286",
     "PLD 1988 Lahore 416"
   ],
-  "parties": [],
+  "parties": [
+    "Bashir Ahmed Abbasi Kalhoro",
+    "The Government of Sindh",
+    "Mr. Ahmed Ali Ghumro",
+    "Mr. Ali Safdar Depar",
+    "Mr. Ali Safdar Depar",
+    "The Government of Sindh",
+    "Mr. Ahmed Ali Ghumro",
+    "The Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

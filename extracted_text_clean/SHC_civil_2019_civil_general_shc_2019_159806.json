@@ -6,12 +6,18 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C.P. No. D-4863 of 2019",
+  "date_of_order": "30.9.2019",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Safdar Depar",
+    "Raza Mian DSP",
+    "SIP Syed Ehsan",
+    "Aqeel",
+    "Adnan Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

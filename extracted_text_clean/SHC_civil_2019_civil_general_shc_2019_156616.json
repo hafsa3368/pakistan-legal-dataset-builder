@@ -9,13 +9,19 @@
   "case_number": "",
   "date_of_order": "27.10.2021",
   "judge": "Adnan Iqbal Chaudhry Petitioners",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR 637",
     "2014 SCMR 157",
     "2011 SCMR 1198"
   ],
-  "parties": [],
+  "parties": [
+    "Muzaffar Hussain and another",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

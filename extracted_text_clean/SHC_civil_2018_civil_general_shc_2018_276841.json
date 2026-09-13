@@ -6,10 +6,15 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Civil judge in Civil Suit No.25/2018",
+  "case_number": "",
   "date_of_order": "05.08.2025",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 25 Civil Procedure Code",
+    "Section 7 Civil Procedure Code",
+    "Section 10 Civil Procedure Code",
+    "Section 498 CrPC"
+  ],
   "citations": [],
   "parties": [
     "Vs"

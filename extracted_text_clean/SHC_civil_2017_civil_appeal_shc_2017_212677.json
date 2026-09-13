@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl. Jail Appeal No.D-28 of 2012",
   "date_of_order": "25.10.2017",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rukhsar Ahmed Junejo",
+    "Syed Sardar Ali Shah",
+    "Aurangzeb alias Junaid Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

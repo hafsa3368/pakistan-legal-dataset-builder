@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "19.72.2419",
-  "judge": "",
+  "judge": "MOHAMMAD KARIM KHAN AGHA",
   "sections_cited": [
     "Section 7",
     "Section 6",
@@ -17,7 +17,10 @@
     "section 6"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Raju son of Abdul Kareem Bux",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "misconceived and not",
+  "case_number": "",
   "date_of_order": "22.04.2019",
   "judge": "Irfan Saadat Khan Mr",
   "sections_cited": [
@@ -23,7 +23,14 @@
     "1998 SCMR 1078",
     "PLD 2006 SC 773"
   ],
-  "parties": [],
+  "parties": [
+    "Waleed Saad",
+    "Chief Secretary, Government of Sindh, Karachi & 06 others",
+    "Mr. Imran Taj",
+    "S.M. Abid",
+    "Mr. Muhammad Yousuf Rahopoto",
+    "Assistant A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,20 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil Appeal No. D",
+  "case_number": "",
   "date_of_order": "09-12-2021",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zarai Taraqiati Bank Ltd.",
+    "Muhammad Ibrahim & another",
+    "Mr. Fareed Ahmed Soomro",
+    "Judge Judge ARBROHI"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-1012 of 2025",
   "date_of_order": "03.03.2026",
   "judge": "Adnan Iqbal Chaudhry Mr",
   "sections_cited": [
@@ -14,7 +14,12 @@
     "section 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zamir Hussain and another",
+    "Federation of Pakistan",
+    "Mr. Riaz Hussain Khoso, D.A.G",
+    "Mr. Habibullah G. Ghouri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

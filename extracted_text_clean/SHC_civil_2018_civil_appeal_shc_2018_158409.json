@@ -7,11 +7,20 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "02.03.2022",
+  "judge": "Syed Jaffar Ali Shah",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Jaffar Ali Shah",
+    "Mr. Daman Ali Laghari",
+    "Mr. Ahmed Ali Shahani",
+    "Mr. No. 8",
+    "Allah Warrayo s/o Khushi Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,10 +6,14 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitution. Notwithstanding",
+  "case_number": "",
   "date_of_order": "20.09.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 1991 of the Constitution",
+    "Article 199 of the Constitution"
+  ],
   "citations": [],
   "parties": [
     "Mr"

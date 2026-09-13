@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "10.03.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
@@ -17,7 +17,12 @@
     "Section 33"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. K-Electric, Limited",
+    "Muhammad Aslam Shah",
+    "Raees Khan",
+    "Muhammad Boota"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

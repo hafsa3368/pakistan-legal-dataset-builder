@@ -8,10 +8,22 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "01.02.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "A.Rasheed",
+  "sections_cited": [
+    "U/s 452, 342, 34 PPC",
+    "U/s 173 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Agha Waqar Ahmed Advocate",
+    "Mr. Muhammad Ismail Bhutto",
+    "Manzoor Ali",
+    "SSP & POI Manzoor Ali",
+    "DIG DSP Aurengzaib Abbasi",
+    "SDPO Tando Jam, Insp.Asad Nabi",
+    "PSI Ghulam Shabir",
+    "Mr. Masood Rasul Babar Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

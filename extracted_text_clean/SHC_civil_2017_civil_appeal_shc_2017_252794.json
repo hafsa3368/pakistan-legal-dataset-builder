@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitution Petition No. S",
+  "case_number": "",
   "date_of_order": "25.03.2025",
   "judge": "Muhammad Jaffer Raza Kashif Ali",
   "sections_cited": [
@@ -17,7 +17,12 @@
     "2023 SCMR 1434",
     "2023 SCMR 246"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Jaffer Raza Kashif Ali Memon",
+    "Mst. Zoya",
+    "Mr. Ahmed Hussain Jokhio",
+    "Mr. Aftab Ahmed Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

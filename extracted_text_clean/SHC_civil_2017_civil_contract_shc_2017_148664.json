@@ -8,10 +8,15 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "04.11.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Hamid Hussain Rizvi",
+    "Muhammad Asif Saeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

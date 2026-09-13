@@ -6,12 +6,24 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "C.P No.D-702",
   "date_of_order": "24.10.2019",
   "judge": "Fahad Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Nadeem Akhtar",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Ayaz Ali Rajpar",
+    "Mr. Imamuddin Otho",
+    "Mr. Allah Bachayo Soomro",
+    "Dr. Riffat Arif",
+    "Mst. Ayaz Ali Rajpar",
+    "Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Criminal Accountability Appeal No.29 of 2018",
   "date_of_order": "01.07.2020",
-  "judge": "JUDGE",
+  "judge": "Omar Sial",
   "sections_cited": [
     "Section 382",
     "Section 265-C Cr.P.C",
@@ -32,7 +32,15 @@
     "PLD 2006 Karachi 511",
     "PLD 2005 SC 63"
   ],
-  "parties": [],
+  "parties": [
+    "Aleemuddin",
+    "The State (NAB)",
+    "Haroon Punjwani",
+    "The State through Chairman NAB",
+    "Muhammad Asad Abbassi",
+    "The State through Chairman NAB",
+    "Mansoor Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

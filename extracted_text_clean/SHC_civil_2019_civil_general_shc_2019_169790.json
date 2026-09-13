@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Misc. Application No. 528 of 2019",
   "date_of_order": "04.08.2022",
-  "judge": "",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "Section 468/471/420 PPC",
     "section 173 Cr.P.C",
@@ -17,7 +17,12 @@
     "section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Tassadduq Nadeem, Advocate for the Applicant/Complainant",
+    "Mr. Khadim Hussain, Addl. Prosecutor General, Sindh",
+    "Mr. Haresh Kumar, Advocate for the Respondent No.6/the accused",
+    "None for Respondent No.7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

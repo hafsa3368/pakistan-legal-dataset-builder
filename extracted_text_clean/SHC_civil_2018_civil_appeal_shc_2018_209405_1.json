@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Crl. Revision Application No. S-65 of 2023",
   "date_of_order": "12.01.2024",
-  "judge": "",
+  "judge": "M.Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sofan Shah",
+    "Mr. Bakshan Khan Mahar",
+    "Syed Sardar Ali Shah",
+    "Zulfiqar Ali Sangi",
+    "Muhammad Rafique"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

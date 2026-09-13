@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Civil Appeal No.D-34 of 2020",
   "date_of_order": "15.8.2023",
-  "judge": "JUDGE",
+  "judge": "Arbab Ali Hakro",
   "sections_cited": [
     "Section 22",
     "Section 24 of the Ordinance",
@@ -16,7 +16,11 @@
     "Section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zarai Taraqiati Bank Ltd",
+    "Abdul Karim",
+    "02 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

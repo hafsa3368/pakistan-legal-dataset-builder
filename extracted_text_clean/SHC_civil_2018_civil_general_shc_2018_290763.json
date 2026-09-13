@@ -6,10 +6,13 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Civil Rev. No. S-24 of 2023",
+  "case_number": "",
   "date_of_order": "18-03-2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "JAWAD AKBAR SARWANA",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
   "parties": [
     "No"

@@ -9,9 +9,22 @@
   "case_number": "Constitutional Petition No.D-7576 of 2019",
   "date_of_order": "18.02.2020",
   "judge": "Nadeem Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Badaruddin",
+    "Federation of Pakistan",
+    "Pakistan Telecommunication Employees Trust",
+    "Mr. Muhammad Nishat Warsi",
+    "M/s. Altamash Faisal Arab",
+    "Muhammad Rehan Thahim",
+    "Shakeel Ahmed",
+    "Anis Hyder",
+    "Muhammad Shoukat Qadri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

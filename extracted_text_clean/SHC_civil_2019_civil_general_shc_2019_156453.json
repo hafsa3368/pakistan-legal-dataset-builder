@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Misc. Application No.283 of 2021",
   "date_of_order": "30.12.2021",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "section 337-A",
     "Sections 96 & 97 PPC",
@@ -24,7 +24,14 @@
   "citations": [
     "PLD 2018 SC 595"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sharif Khoso",
+    "The State",
+    "Ali Raza Jatoi",
+    "Mr. Ragib Ibrahim Junejo",
+    "Mr. Muhammad Noonari",
+    "Zahooruddin Mehsood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

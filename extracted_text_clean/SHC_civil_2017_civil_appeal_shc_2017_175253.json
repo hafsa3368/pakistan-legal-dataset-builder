@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Appeal No.D-68 of 2018",
   "date_of_order": "18.10.2022",
-  "judge": "JUDGE Shahid",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Sections 376, 114, 34 PPC",
     "Sections 6/7",
@@ -21,7 +21,10 @@
     "Section 6"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Haresh Kumar S/o Naroo Meghwar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

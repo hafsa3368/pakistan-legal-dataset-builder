@@ -6,14 +6,23 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-4492 of 2021",
   "date_of_order": "02.05.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2022 SCMR 92"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Nawaz Khuhawar",
+    "Mr. Kumail Abbas",
+    "Digicom Trading",
+    "DCIR",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

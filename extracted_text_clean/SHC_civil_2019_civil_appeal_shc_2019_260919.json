@@ -8,10 +8,16 @@
   "num_chunks": 4,
   "case_number": "Civil Appeal No.342/2022",
   "date_of_order": "02.05.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD JAFFER RAZA,",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nabeel Ahmed",
+    "Rana Rizwan Manzoor Ahmed and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

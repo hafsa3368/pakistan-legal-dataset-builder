@@ -6,12 +6,19 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "C.P No.D-1225 of 2011",
+  "date_of_order": "07.02.2018",
+  "judge": "Abdullah Channa",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulamullah Chang",
+    "Mr. Muhammad Ismail Bhutto",
+    "Syed Meeral Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

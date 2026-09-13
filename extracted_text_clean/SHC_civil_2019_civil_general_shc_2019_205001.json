@@ -6,12 +6,23 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "civil servant on any of the basic pay scales No. 1",
+  "case_number": "",
   "date_of_order": "02.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "11-A of the Sindh Civil Servants (Appointment, Promotion and Transfer) Rules, 1974"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ihsanaullah Mahar",
+    "Province of Sindh",
+    "Muhammad Ali Napar",
+    "Danish Ali Bhatti",
+    "Ali Raza Baloch",
+    "Irfan Meo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

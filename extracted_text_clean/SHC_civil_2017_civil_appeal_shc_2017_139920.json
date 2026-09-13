@@ -8,8 +8,11 @@
   "num_chunks": 4,
   "case_number": "Civil Revision No. 20 of 2018",
   "date_of_order": "28.02.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 1983 SC 5"
   ],

@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "Civil Appeal No.3435/2018",
   "date_of_order": "08.09.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "J.M.Zeeshan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent No.2",
+    "Respondent No.3",
+    "Respondent No.4",
+    "Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

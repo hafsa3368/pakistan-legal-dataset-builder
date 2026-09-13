@@ -6,12 +6,25 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "22.04.2021",
   "judge": "Adnan Iqbal Chaudhry Constitutional Petition",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 25 of the Constitution",
+    "Article 4 read with Article 9, 18 and 25 of the Constitution"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Husnain Ali and others",
+    "Province of Sindh",
+    "Mr. Ghazanfar Ali Jatoi",
+    "Mr. Ali Safdar Depar",
+    "Asst. Advocate General Sindh",
+    "Dr. Kazim Hussain Jatoi",
+    "Secretary Health",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

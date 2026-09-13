@@ -6,14 +6,17 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "19.10.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
     "Section 11"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sajid Jalil",
+    "National Bank of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

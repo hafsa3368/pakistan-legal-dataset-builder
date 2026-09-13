@@ -6,12 +6,21 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-635 of 2017",
   "date_of_order": "21.11.2019",
-  "judge": "JUDGE g",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Amjad Ali Mangi, Advocate for the petitioners",
+    "Mrs. Razia Ali Zaman Khan, Advocate for respondent No. 4",
+    "Mr. Zaheeruddin Sahito, Advocate for SBCA",
+    "Mr. Allah Bachayo Soomro, Addl. A.G Sindh",
+    "SSP Jamshoro",
+    "Chairman Anti Encroachment Cell / Deputy Commissioner Jamshoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

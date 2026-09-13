@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-1400 of 2023",
   "date_of_order": "07.11.2023",
-  "judge": "JUDGE Irfan/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Niaz Hussain Maitlo",
+    "Mr. Irshad Hussain Dharejo",
+    "Mr. Manzoor Hussain Larik",
+    "Mr. Ghulam Mustafa Abro",
+    "Shah Abdul Lateef University",
+    "SALU Employee Welfare Association"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

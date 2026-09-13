@@ -6,14 +6,18 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.NO.S-1219 of 2017",
   "date_of_order": "29.09.2017",
   "judge": "Shahid",
   "sections_cited": [
     "Section 133 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asim Shabbir Soomro, Advocate a/w petitioner",
+    "Mr. Imtiaz Ali Mahar, State Counsel",
+    "Baboo, Muhammad Moosa, Ahsan Memon, Habibullah, Inayatullah and Aijaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

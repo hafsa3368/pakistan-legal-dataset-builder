@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "civil suit No.139/2016",
   "date_of_order": "08.05.2023",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 265-H",
     "Section 342 Cr.P.C",
@@ -22,7 +22,16 @@
     "2009 SCMR 1066",
     "2010 SCMR 1254"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem",
+    "Niamat Ali",
+    "Sadique",
+    "Abdul Razzaque",
+    "Qurban",
+    "Altaf Hussain Solangi",
+    "Hameedullah Dahri",
+    "Imran Ahmed Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "civil suits bearing Nos",
+  "case_number": "CP No.S-1358 of 2023",
   "date_of_order": "02.02.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Nisar Ahmed Bhanbhro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Javed Raza",
+    "Ali Hassan",
+    "Aadia Pervaiz Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

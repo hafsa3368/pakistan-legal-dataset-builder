@@ -6,16 +6,24 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 67,
-  "case_number": "",
+  "case_number": "C.P.No.D-699",
   "date_of_order": "16.04.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2009 SC 507",
     "PLD 2014 SC 350",
     "PLD 1994 SC 693"
   ],
-  "parties": [],
+  "parties": [
+    "عبدالجبار ولد محمد ہاشم",
+    "ریخ محمد ولد شری محمد",
+    "ہاشم ولد خری محمد",
+    "ی عل نواز ولد خری محمد"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

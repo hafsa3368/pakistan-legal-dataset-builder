@@ -7,11 +7,24 @@
   "used_ocr": false,
   "num_chunks": 6,
   "case_number": "Civil Revision Application No.S-192 of 2020",
-  "date_of_order": "",
+  "date_of_order": "27-05-2024",
   "judge": "Karim Memon",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Salma Parveen",
+    "Muhammad Aslam",
+    "Ali Jan",
+    "Mst. Salma Parveen & others",
+    "Muhammad Aslam & others",
+    "Muhammad Aslam",
+    "Muhammad Naeem",
+    "Muhammad Waseem",
+    "Ghulam Muhammad",
+    "Jan Muhammad",
+    "Muhammad Saleem",
+    "Muhammad Akram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

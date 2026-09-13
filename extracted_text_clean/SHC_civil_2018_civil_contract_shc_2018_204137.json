@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 134 of 2020",
   "date_of_order": "18.10.2023",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -15,7 +15,10 @@
   "citations": [
     "PLD 1996 SC 797"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "M/s Al-Hassan Tech & Eng. Svc. (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

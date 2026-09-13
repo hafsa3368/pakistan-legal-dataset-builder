@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "constitutional and contrary to the norms",
+  "case_number": "C.P. No. D-191 of 2024",
   "date_of_order": "22.01.2024",
-  "judge": "",
+  "judge": "Abdul Mobeen Lakho",
   "sections_cited": [
     "Section 63 of the Election Act",
     "section 12 and 14"
@@ -18,7 +18,10 @@
     "2003 MLD 1089",
     "PLD 2007 SC 277"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Murtaza & another",
+    "Muhammad Ali Khan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

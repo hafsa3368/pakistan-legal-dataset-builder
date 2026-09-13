@@ -6,14 +6,21 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "misconceived. 4. CMA No. 1579/2018",
+  "case_number": "",
   "date_of_order": "30-01-2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2012 SC 247"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammad Qasim",
+    "Haroon Qasim Hussain",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

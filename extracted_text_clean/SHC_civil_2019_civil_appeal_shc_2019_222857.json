@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 21,
-  "case_number": "",
+  "case_number": "HCA No.02 of 2023",
   "date_of_order": "16.09.2017",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman",
   "sections_cited": [
     "Section 15 of Ordinance",
     "Section 3 of the Law Reforms Ordinance"
@@ -30,7 +30,12 @@
     "PLD 2003 Karachi 253",
     "PLD 2015 Sindh 472"
   ],
-  "parties": [],
+  "parties": [
+    "M/s New Rabia Enterprises",
+    "Eaton Phoenixtee MMPL Col. Ltd",
+    "Mr. Khalid Jawed Khan",
+    "Miss Alizeh Bashir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

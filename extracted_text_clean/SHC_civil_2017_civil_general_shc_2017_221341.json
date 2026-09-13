@@ -6,12 +6,19 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-2011 of 2021",
   "date_of_order": "21.10.2024",
   "judge": "Ayaz Gul",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khalil Ullah",
+    "Federation of Pakistan",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

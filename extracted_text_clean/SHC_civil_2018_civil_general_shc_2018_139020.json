@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "construction on the Suit Plot shall not",
+  "case_number": "",
   "date_of_order": "24.12.2018",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 19"
   ],
@@ -20,7 +20,12 @@
     "PLD 1994 SC 512",
     "PLD 1995 SC 423"
   ],
-  "parties": [],
+  "parties": [
+    "Mrs. Zarina Iqbal",
+    "Haji Jaffar",
+    "Sindh Building Control Authority",
+    "The Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

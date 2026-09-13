@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Accountability Acquittal Appeal No. 04 of 2017",
+  "case_number": "",
   "date_of_order": "19.08.2025",
-  "judge": "JUDGE",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 32 of the Nationality Accountability Ordinance",
     "section 32 of the Ordinance",
@@ -26,7 +26,14 @@
     "PLD 1963 SC 322",
     "PLD 1970 SC 514"
   ],
-  "parties": [],
+  "parties": [
+    "The State through Chairman NAB",
+    "Dr. Asghar Abbas Sheikh & Others",
+    "Syed Meeral Shah, Special Prosecutor, NAB",
+    "Ms. Amna Usman, Advocate",
+    "Mr. Shaukat Hayat, Advocate",
+    "Mr. Muhammad Iqbal Awan, Additional Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

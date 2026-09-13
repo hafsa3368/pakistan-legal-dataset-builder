@@ -6,14 +6,20 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-3328 of 2018",
   "date_of_order": "27.03.2019",
   "judge": "",
   "sections_cited": [
     "section 173"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Willayat Ali Khan and Aijaz Ali Magsi",
+    "Mr. Muhammad Ismail Bhutto, Addl: A.G",
+    "SIP Abdul Hafeez Soomro",
+    "Mrs. Sobia Bhatti",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

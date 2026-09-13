@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "C.P. No. D-2378 of 2015",
   "date_of_order": "08.02.2018",
   "judge": "",
   "sections_cited": [
@@ -19,7 +19,16 @@
     "PLD 2011 SC 22",
     "PLD 2011 DC 22"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Shoukat Iqbal Advocate",
+    "Mr. Muhammad Asghar Malik",
+    "Mr. Shaikh Liaquat Hussain",
+    "PTV",
+    "Tariq Mehmood Cheema",
+    "Deputy Controller Administration and Personnel - (Establishment)",
+    "Pakistan Television Corporation Limited",
+    "Ministry of Information and Broadcasting"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

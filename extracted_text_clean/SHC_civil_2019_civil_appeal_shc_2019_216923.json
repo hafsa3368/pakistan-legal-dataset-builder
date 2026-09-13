@@ -6,10 +6,13 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "criminal case against Respondent No.1",
+  "case_number": "High Court Appeal No.415 of 2022",
   "date_of_order": "21-5-2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Sana Akram Minhas",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2019 MLD 337",
     "1998 SCMR 1993",
@@ -19,7 +22,11 @@
     "PLD 2006 SC 432",
     "PLD 2016 SC 478"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Hussain",
+    "Imtiaz Ahmed",
+    "Rabia Begum"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

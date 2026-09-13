@@ -9,11 +9,19 @@
   "case_number": "Constitutional Petition No. D-4060 of 2023",
   "date_of_order": "03.09.2025",
   "judge": "Muhammad Karim Khan Agha Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2023 SCMR 848"
   ],
-  "parties": [],
+  "parties": [
+    "Rizwan Aziz Siddiqui",
+    "Federation of Pakistan",
+    "others",
+    "Syed Nadeem ul Haque"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

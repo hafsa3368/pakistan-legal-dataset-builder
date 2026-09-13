@@ -8,10 +8,16 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "23.01.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Akbar Sarwana",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zeeshan Aziz",
+    "Malik Tauseef Ahsan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

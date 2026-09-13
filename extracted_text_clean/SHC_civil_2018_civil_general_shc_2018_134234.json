@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "",
+  "case_number": "C.P. Nos.D-7077",
   "date_of_order": "09.05.2018",
   "judge": "Irfan Saadat Khan Mr",
   "sections_cited": [
@@ -32,7 +32,28 @@
     "PLD 2005 SC 373",
     "PLD 2011 SC 44"
   ],
-  "parties": [],
+  "parties": [
+    "Government of Sindh",
+    "M/s. Zaheer-ul-Hassan Minhas",
+    "Asif Ali",
+    "Farhan-ul-Hassan Minhas",
+    "Nazeer Ahmed Shar",
+    "Sofia Saeed Shah",
+    "Asif Ibrahim",
+    "Rana Sakhawat",
+    "Javed Akbar",
+    "Salman Ahmed",
+    "Javed Haleem",
+    "Waheed Ali Ghumro",
+    "Afnan Saiduzaman Siddiqui",
+    "Ghulam Mujtaba Sahito",
+    "Khalid Mehmood Siddiqui",
+    "Barrister Shahrayar Mehar",
+    "M/s. Jawad Akbar Sarwana",
+    "Jamaluddin Bukhari",
+    "Muhammad Aziz Rana",
+    "SESSI"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

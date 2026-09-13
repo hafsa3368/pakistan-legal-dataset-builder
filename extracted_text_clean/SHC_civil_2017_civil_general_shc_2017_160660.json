@@ -8,10 +8,15 @@
   "num_chunks": 6,
   "case_number": "Criminal Original Petition No.89/2011",
   "date_of_order": "16.03.2022",
-  "judge": "JUDGE Nadir/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khursheed Khalil Khan",
+    "Province of Sindh",
+    "KDA",
+    "SBCA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

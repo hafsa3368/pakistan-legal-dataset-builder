@@ -6,12 +6,22 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "civil nature. Respondent No.6",
+  "case_number": "C.P.NO.S-1653 of 2017",
   "date_of_order": "09.10.2017",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed Durani",
+    "Mr. Shoukat Ali Kaka",
+    "Inspector Sohail Sarwar",
+    "SIP Mirzo Khan",
+    "DSP",
+    "DIGP Hyderabad",
+    "Mumtaz Ali Brohi",
+    "SHO P.S Pinyari",
+    "respondent No.7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

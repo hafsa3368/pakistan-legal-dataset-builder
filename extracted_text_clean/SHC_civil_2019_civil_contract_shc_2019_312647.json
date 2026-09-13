@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Revision Application No. 253 of 2024",
   "date_of_order": "23.04.2026",
-  "judge": "",
+  "judge": "Arbab Ali Hakro",
   "sections_cited": [
     "Section 151",
     "Section 115",
@@ -17,7 +17,13 @@
     "Section 2"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Afzal",
+    "Naeemullah",
+    "Ayaz Ali Rajper",
+    "Muhammad Aleem Arain",
+    "Muhammad Ramzan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

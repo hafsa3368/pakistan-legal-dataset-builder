@@ -9,13 +9,22 @@
   "case_number": "",
   "date_of_order": "08-03-2022",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2014 SCMR 157",
     "2012 SCMR 1198",
     "2015 SCMR 112"
   ],
-  "parties": [],
+  "parties": [
+    "Saleem Ahmed Magsi",
+    "Province of Sindh",
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Qurban Ali Malano",
+    "Mr. Zulfiqar Ali Naich",
+    "Paras Balouch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

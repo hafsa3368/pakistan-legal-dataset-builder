@@ -9,9 +9,16 @@
   "case_number": "Constitutional Petition No.D-3508 of 2024",
   "date_of_order": "12.11.2025",
   "judge": "Muhammad Karim Khan Agha Justice",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nadeem Ahmed Qureshi",
+    "Province of Sindh",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

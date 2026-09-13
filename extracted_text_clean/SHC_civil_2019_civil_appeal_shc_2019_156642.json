@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No.631 of 2021",
   "date_of_order": "10.01.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar,",
   "sections_cited": [
     "Section 489-F PPC",
     "section 489-F PPC",
@@ -17,7 +17,11 @@
     "section 408 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Afzal Ahmed",
+    "The State",
+    "Mst. Muntaha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

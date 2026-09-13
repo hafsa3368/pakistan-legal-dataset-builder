@@ -6,14 +6,22 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "21.12.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
     "Section 143 of The Sindh Local Government Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Younus",
+    "Province of Sindh",
+    "KMC",
+    "Saeed Akhtar",
+    "Ali Safdar Depar",
+    "Syed Shoa-un-Nabi",
+    "Iqbal Khurram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

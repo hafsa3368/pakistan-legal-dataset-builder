@@ -6,10 +6,13 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "construe such guarantee as not",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "MA No. 8430/2022",
+  "date_of_order": "31.08.2023",
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 558",
     "1999 SCMR 2367",
@@ -19,7 +22,12 @@
     "PLD 2020 Sindh 551",
     "PLD 1994 SC 311"
   ],
-  "parties": [],
+  "parties": [
+    "Ziauddin Ahmed & Co. (Pvt.) Limited",
+    "Karachi Shipyard & Engineering Works Ltd.",
+    "Nemo",
+    "M/s. Gravity Works"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

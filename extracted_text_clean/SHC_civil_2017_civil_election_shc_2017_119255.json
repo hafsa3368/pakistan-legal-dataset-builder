@@ -6,12 +6,29 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "MA No.12740 of 2017",
   "date_of_order": "27.10.2017",
   "judge": "Javaid",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Members of Rizvia Societies",
+    "Syed Ahsan Raza",
+    "Mr. Masroor Ahsan",
+    "Syed Lal Hassan",
+    "Syed Aal-e-Maqbool Rizvi",
+    "Ms. Naheed Akhtar",
+    "Syed Ali Ghazanfar Rizvi",
+    "Waseem Mehdi Syed",
+    "Raees Swaley",
+    "Ishrat Swaley",
+    "Syed Masood Hussain Jaffri",
+    "Syed Haider Abbas Rizvi",
+    "Government",
+    "Erstwhile Managing Committee"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

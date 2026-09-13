@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-228 of 2020",
   "date_of_order": "28.01.2019",
-  "judge": "JUDGE Sulemen Khan/PA",
+  "judge": "Sulemen Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Akhtiar Ahmed Heesbani",
+    "Mr. Zulfiqar Ali Naich",
+    "Aijaz Ahmed Khuhro",
+    "Muhammad Iqbal Kalhoro",
+    "Sobodero",
+    "The Respondents No.4 and 5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

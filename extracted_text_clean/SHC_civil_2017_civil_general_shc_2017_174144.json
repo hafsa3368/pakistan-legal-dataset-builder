@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P.Nos.D-2024",
   "date_of_order": "06.06.2017",
-  "judge": "JUDGE g",
+  "judge": "Aqeel Ahmed Abbasi",
   "sections_cited": [
     "Section 5 of Ordinance",
     "Sections 4 & 5 of the Ordinance",
@@ -17,7 +17,19 @@
     "Section 5 of the Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aslam Baig Leghari",
+    "Mr. Rashid Ali Shah",
+    "Mr. Muhammad Zainuddin",
+    "Mr. Kanji Mal Menghwar",
+    "Mr. Inam Ali Malik",
+    "Mr. Imtiaz Ali Channa",
+    "Mr. Zaheeruddin Nohri",
+    "Mr. G.M. Leghari",
+    "Hafiz Muhammad Ansari",
+    "Allah Bachayo Soomro",
+    "Additional A.G, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

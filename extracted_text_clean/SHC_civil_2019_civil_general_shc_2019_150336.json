@@ -6,17 +6,33 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "constitutional jurisdiction does not",
+  "case_number": "",
   "date_of_order": "24.02.2021",
   "judge": "Hafiz Fahad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2005 SCMR 961",
     "PLD 2016 Peshawar 266",
     "PLD 2011 Lahore 555",
     "PLD 2011 Lahore 605"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Dilawar Qureshi",
+    "Mr. Allah Bachayo Soomro",
+    "Mr. Najab Din Rajpar",
+    "Respondent No.6",
+    "Respondent No.2",
+    "Respondent No.3",
+    "Respondent No.4",
+    "Respondent No.5",
+    "Respondent No.6",
+    "University of Sindh",
+    "Hyderabad Institute of Arts, Science & Technology",
+    "Deputy Registrar (Gen) University of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

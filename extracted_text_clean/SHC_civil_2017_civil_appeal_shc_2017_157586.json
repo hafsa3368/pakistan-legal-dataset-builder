@@ -29,7 +29,12 @@
     "PLD 2005 Karachi 128",
     "PLD 2010 SC 1052"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Munir Ahmed Dogar",
+    "Zulfiqar Ali Machhi",
+    "Afghan Construction and Logistics Unit"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

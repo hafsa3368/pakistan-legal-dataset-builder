@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Jail Appeal No. D-15 of 2023",
   "date_of_order": "29.11.2023",
-  "judge": "",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "Section 6",
     "Section 9",
@@ -22,7 +22,14 @@
     "2009 SCMR 230",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Yousuf Ali Sayeed & Zulfiqar Ali Sangi",
+    "Arshad Ali",
+    "Asif Ali",
+    "The State",
+    "Zulfiqar Ali Jatoi",
+    "Rukhsar Ahmed Junejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

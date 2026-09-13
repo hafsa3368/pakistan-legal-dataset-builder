@@ -6,12 +6,20 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C. P. No. D-4714 of 2022",
   "date_of_order": "27.04.2023",
   "judge": "CHIEF JUSTICE MUBASHIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Haroon Shaikh",
+    "Mr. Khaleeque Ahmed",
+    "Yousuf Ali Sayeed",
+    "The Petitioners",
+    "The Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

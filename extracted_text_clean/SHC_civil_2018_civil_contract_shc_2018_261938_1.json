@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-276 of 2025",
   "date_of_order": "30.04.2025",
   "judge": "",
   "sections_cited": [
@@ -16,7 +16,14 @@
     "Section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Prem Chand",
+    "Mr. Muhammad Sharif Solangi",
+    "IO Inspector Ghulam Mustafa",
+    "respondent No.4",
+    "petitioner No.1",
+    "petitioner No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

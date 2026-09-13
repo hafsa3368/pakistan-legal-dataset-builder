@@ -6,14 +6,21 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-1554 of 2022",
   "date_of_order": "14.06.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [
     "Section 20 of the Election Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Hashim Laghari",
+    "Mr. Ashfaque Nabi Qazi",
+    "Mr. Ayaz Ali Rajper",
+    "ECP (Abdullah Hanjra)",
+    "ECP (Zaheer Abbas)",
+    "Sanghar (Shahnawaz Brohi)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,21 @@
   "num_chunks": 7,
   "case_number": "Constitutional Petition No.D-6654 of 2018",
   "date_of_order": "19.04.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Under Article 5 of the Constitution",
+    "Article 12 of the Vienna Convention on Consular Relation 1963"
+  ],
   "citations": [
     "2014 SCMR 111"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan & another",
+    "Mr. Muhammad Nishat Warsi, DAG",
+    "Republic of Fiji",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

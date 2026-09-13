@@ -6,14 +6,25 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "C.P.No.D-157",
+  "date_of_order": "08.02.2024",
+  "judge": "AQEEL AHMED ABBASI, CJ",
   "sections_cited": [
     "Section 62"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ameer Gul Khan",
+    "Chief Election Commtsstoner & others",
+    "Mr.Amir Nawaz Warraich",
+    "Mr.Saiful1ah",
+    "Mr.Irshad A1i",
+    "Mr.Abdullah Hanjrah",
+    "Mr.Sarmad Sarwar",
+    "Muhammad Shah Khan",
+    "Asal Khan",
+    "Sanaullah Kalwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "MA No. 41/2004",
+  "date_of_order": "08.04.2019",
+  "judge": "M.Tahir",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aamir Malik",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

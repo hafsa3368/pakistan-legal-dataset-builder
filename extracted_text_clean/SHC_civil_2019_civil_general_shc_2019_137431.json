@@ -6,12 +6,25 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "M.A. NO. 58/2019",
   "date_of_order": "10.04.2019",
   "judge": "Arshad Hussain Khan",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Homi Jehangirji Kaikoabad",
+    "Dolly Homi Kaikoabad",
+    "Pir Asad Bacha",
+    "Liaqat Ali",
+    "Vera Homi Kaikobad",
+    "Armin Homi Kaikobad",
+    "Consulate General of Pakistan",
+    "Assistant Private Secretary",
+    "Liaqat Ali s/o Abbas Khan",
+    "Pir Jamil Khan s/o Pir Ajab Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

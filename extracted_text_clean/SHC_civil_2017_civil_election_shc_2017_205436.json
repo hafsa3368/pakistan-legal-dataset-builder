@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-5712 of 2023",
   "date_of_order": "03.11.2023",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "section 50 of the Elections Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pakistan Tehreek-e-Insaf (PTI)",
+    "Haleem Adil Sheikh",
+    "Noorul Haq N. Qureshi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

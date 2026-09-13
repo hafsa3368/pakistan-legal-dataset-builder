@@ -8,8 +8,11 @@
   "num_chunks": 8,
   "case_number": "Constitutional Petition No. D-4903 of 2020",
   "date_of_order": "04.05.2015",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2025 SCMR 104",
     "2025 SCMR 443",
@@ -19,7 +22,14 @@
     "2022 SCMR 406",
     "2022 SCMR 897"
   ],
-  "parties": [],
+  "parties": [
+    "Shabbir Ahmed",
+    "Federation of Pakistan",
+    "Mr. Ali Asadullah Bullo",
+    "Mr. Khaleeq Ahmed",
+    "Mr. Muhammad Akbar Khan",
+    "Mr. Khalid Mahmood Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

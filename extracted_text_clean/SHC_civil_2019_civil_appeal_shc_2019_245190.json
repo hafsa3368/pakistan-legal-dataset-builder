@@ -6,10 +6,16 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "MA No. 14786/2022",
   "date_of_order": "12-11-2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Omar Sial",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 24(2) of the Limited Liability Partnership Act, 2009",
+    "Order VI, Rule 17, CPC",
+    "Section 24(2) of the Limited Liability Partnership Act, 2009"
+  ],
   "citations": [
     "2008 SCMR 515",
     "1988 SCMR 34",
@@ -17,7 +23,14 @@
     "PLD 1985 SC 345",
     "PLD 2005 SC 787"
   ],
-  "parties": [],
+  "parties": [
+    "Zafar Mustafa Khan",
+    "Mst. Qurat-ul-Ain",
+    "Mr. Abdul Qadir",
+    "the Plaintiff",
+    "the Defendant",
+    "the Sub-Registrar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

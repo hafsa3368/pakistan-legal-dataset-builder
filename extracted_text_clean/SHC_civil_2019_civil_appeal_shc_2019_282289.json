@@ -8,7 +8,7 @@
   "num_chunks": 25,
   "case_number": "Criminal Jail Appeal No.S-526 of 2022",
   "date_of_order": "18.08.2025",
-  "judge": "",
+  "judge": "Ali Haider 'Ada'",
   "sections_cited": [
     "Section 544-A of the Code",
     "Section 382-B",
@@ -37,7 +37,15 @@
     "2017 SCMR 486",
     "2025 YLR 1321"
   ],
-  "parties": [],
+  "parties": [
+    "Mehboob Ali",
+    "The State",
+    "Muhammad Ismail Jamali",
+    "Syed Mumtaz Hussain Shah",
+    "Muhammad Ayoub",
+    "Mst. Husna",
+    "Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

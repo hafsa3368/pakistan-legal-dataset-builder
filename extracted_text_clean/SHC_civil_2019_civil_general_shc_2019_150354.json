@@ -6,10 +6,13 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "09.03.2021",
   "judge": "Muhammad Shafi Siddiqui Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1991 SCMR 2087",
     "2014 SCMR 1843",

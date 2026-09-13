@@ -6,10 +6,18 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "constitutional jurisdiction cannot",
+  "case_number": "C.P No.D-2555 of 2024",
   "date_of_order": "28.01.2026",
-  "judge": "Zulfiqar Ali Sanghi Date",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973",
+    "Articles 17, 19-A, and 25 of the Constitution of the Islamic Republic of Pakistan, 1973",
+    "The Sindh Students Union Act, 2019",
+    "The University of Karachi Act, 1972",
+    "The Constitution of Islamic Republic of Pakistan"
+  ],
   "citations": [],
   "parties": [
     "No"

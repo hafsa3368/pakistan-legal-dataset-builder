@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "misconstrue the orders of the honorable",
+  "case_number": "",
   "date_of_order": "16.04.2019",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "section 59 of the Ordinance",
     "section 57",
@@ -21,7 +21,30 @@
     "1996 SCMR 645",
     "PLD 2002 Karachi 209"
   ],
-  "parties": [],
+  "parties": [
+    "Pfizer Pakistan Private Limited",
+    "Federation of Pakistan",
+    "Sanofi Aventis Pakistan Limited",
+    "Federation of Pakistan",
+    "OBS Pakistan (Pvt.) Limited",
+    "Federation of Pakistan",
+    "Barrett Hodgson Pakistan (Pvt.) Limited",
+    "Federation & Others",
+    "Indus Pharma Private Limited",
+    "Federation of Pakistan",
+    "Tabros Pharma (Pvt.) Limited",
+    "Federation of Pakistan",
+    "Martin Dow Limited",
+    "Federation of Pakistan",
+    "Epla Laboratories (Pvt.) Limited",
+    "Federation of Pakistan",
+    "Martin Dow Marker Private Limited",
+    "Federation of Pakistan",
+    "Hakimsons (Impex) Private Limited",
+    "Federation of Pakistan",
+    "The Searle Company Limited",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

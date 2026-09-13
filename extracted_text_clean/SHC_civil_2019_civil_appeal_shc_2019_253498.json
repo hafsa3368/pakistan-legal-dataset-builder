@@ -6,12 +6,29 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "High Court Appeal No.499 of 2024",
   "date_of_order": "21.04.2025",
-  "judge": "JUDGE HANIF",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mustafa Adam",
+    "Junaid Ahmed Adam and others",
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Muhammad Osman Ali Hadi",
+    "M/s. Omer Soomro",
+    "Maria Shoaib Khan",
+    "Shah Muhammad Mazari",
+    "Abdul Haseeb Qazi",
+    "M/s. Malik Naeem Iqbal",
+    "Talha Abbasi",
+    "Waseem Iqbal",
+    "Rehman Aziz Malik",
+    "Aijaz Ali Tunio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

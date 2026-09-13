@@ -8,13 +8,20 @@
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No. 272 of 2020",
   "date_of_order": "30.11.2020",
-  "judge": "",
+  "judge": "Muhammad Ali Khan",
   "sections_cited": [
     "section 516-A Cr.P.C",
     "sections 380, 457 and 34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Usman Asghar of SIU/CIA",
+    "Mr. Zulfiqar Ali Langeh",
+    "Mr. Zahoor Shah",
+    "P.S. Defence",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

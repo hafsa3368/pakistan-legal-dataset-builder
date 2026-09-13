@@ -6,14 +6,26 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constituency. The appellant has not",
+  "case_number": "Election Appeal No. S-07 of 2024",
   "date_of_order": "08.01.2024",
   "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "Section 60 of Election Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Amir Ali Shah Jeelani",
+    "Assistant Commissioner/Returning Officer PS-26 Khairpur-I",
+    "District Election Commissioner, District Khairpur",
+    "Provincial Election Commissioner of Sindh, Having Office Pakistan Secretariat, Block No. 44-A Shahrah-e-Iraq, Saddar Karachi",
+    "Election Commission of Pakistan",
+    "Mr. Nazeer Ahmed Chachar",
+    "Mr. Zeeshan Hyder, Law Officer, Election Commission of Pakistan",
+    "Mr. Dareshani Ali Hyder 'Ada'",
+    "Mr. Umair Ali",
+    "Mr. Muhammad Ali",
+    "Mr. Zulfiqar Ali Sangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

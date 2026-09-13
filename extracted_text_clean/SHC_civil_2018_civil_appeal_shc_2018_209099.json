@@ -6,14 +6,19 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 231 of 2023",
   "date_of_order": "12.01.2024",
-  "judge": "JUDGE Amjad PS",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "Section 27 of the Specific Relief Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nasir Zahoor",
+    "Shakeel Raza Khan",
+    "Muhammadd Shafi Siddiqui",
+    "Muhabbat Ali Ujjan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

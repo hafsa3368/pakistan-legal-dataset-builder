@@ -7,13 +7,28 @@
   "used_ocr": false,
   "num_chunks": 7,
   "case_number": "Constitution Petition No. D-1173 of 2023",
-  "date_of_order": "",
+  "date_of_order": "25-02-2025",
   "judge": "Shahid Anwar Bajwa",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2005 SCMR 100"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sadiq",
+    "Abdul Salam",
+    "Altaf Hussain",
+    "P.O Sindh",
+    "Syed Zaffar Ali Shah",
+    "Mr. Sheeraz Fazal",
+    "Mr. Zulfiqar Ali Naich",
+    "Dilyawar Soomro",
+    "Javed Ahmed Channa",
+    "United Energy Pakistan",
+    "Sindh Education Foundation"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

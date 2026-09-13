@@ -6,14 +6,21 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitution. He further submitted that his non-appearance",
+  "case_number": "C.P No.S-4022 of 2012",
   "date_of_order": "23.10.2018",
-  "judge": "",
+  "judge": "Shaikh Liaquat Hussain, Assistant Attorney General",
   "sections_cited": [
     "Section 151"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sanaullah Noor Ghouri Advocate for Respondent/SUPARCO",
+    "Shaikh Liaquat Hussain, Assistant Attorney General",
+    "Petitioner/Petitioner/Applicant",
+    "Respondent/SUPARCO",
+    "Petitioner",
+    "Respondent/SUPARCO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

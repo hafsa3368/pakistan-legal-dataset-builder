@@ -8,13 +8,19 @@
   "num_chunks": 3,
   "case_number": "Criminal Misc. Application No. 457 of 2019",
   "date_of_order": "12.01.2023",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 337-A",
     "Section 182-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Complainant/Applicant",
+    "Complainant/Applicant",
+    "Accused/Applicant",
+    "State/Respondent",
+    "State/Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Constitution Petition No. S",
+  "case_number": "",
   "date_of_order": "15.05.2025",
   "judge": "Muhammad Jaffer Raza Constitution Petition",
   "sections_cited": [
@@ -24,7 +24,15 @@
   "citations": [
     "PLD 2007 SC 45"
   ],
-  "parties": [],
+  "parties": [
+    "Mirza Mehboob (since deceased) through his legal heir Ahmed Ali Rauf Mirza",
+    "Mst. Najma Begum & others",
+    "Mr. Muhammad Kamran Mirza",
+    "Mr. Zameer Ahmed Bhutto",
+    "Ghulam Mustafa",
+    "Abdul Razzaque Abbasi",
+    "Respondent No.1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

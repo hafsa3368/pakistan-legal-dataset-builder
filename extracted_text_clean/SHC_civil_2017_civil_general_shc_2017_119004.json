@@ -6,12 +6,25 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.NO.S-745 of 2016",
   "date_of_order": "18.09.2017",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sajjad Ali Rind, Advocate",
+    "Mr. Ghulam Shabbir Zardari, Assistant A.G",
+    "Ayoub Durani DSP Latifabad",
+    "Najamuddin o/b of SSP Hyderabad",
+    "Syed Aamir o/b of SHO A-Section Latifabad",
+    "Sher Zaman",
+    "Muhammad Hanif Memon",
+    "Police officials",
+    "Petitioner",
+    "Respondent No. 2",
+    "Respondent No. 1",
+    "Respondent No. 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

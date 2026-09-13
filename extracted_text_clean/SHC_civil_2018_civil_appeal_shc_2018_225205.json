@@ -9,11 +9,20 @@
   "case_number": "Civil Appeals No.1363",
   "date_of_order": "07.05.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 CLC 116"
   ],
-  "parties": [],
+  "parties": [
+    "Messrs. Faiz Ahmed and Sualeha Baig",
+    "Mr. Nadir Hussain",
+    "Mr. Irfan Mir Halepota",
+    "Mr. Akhtar Hussain",
+    "Ms. Alizeh Bashir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

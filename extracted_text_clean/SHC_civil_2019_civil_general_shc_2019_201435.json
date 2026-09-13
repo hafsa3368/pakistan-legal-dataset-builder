@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 81,
-  "case_number": "Constitution and is not",
+  "case_number": "",
   "date_of_order": "21.04.2019",
   "judge": "Salahuddin Panhwar Mr",
   "sections_cited": [
@@ -29,7 +29,14 @@
     "PLD 2014 SC 350",
     "PLD 1994 SC 693"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Jabbar s/o Muhammad Hashim",
+    "Khair Muhammad s/o Sher Muhammad",
+    "Hashim s/o Khair Muhammad",
+    "Ali Nawaz s/o Khair Muhammad",
+    "Aijaz Ali Shar s/o Qutubuddin Shar",
+    "Muhammad Suleman s/o Muhammad Tagial"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

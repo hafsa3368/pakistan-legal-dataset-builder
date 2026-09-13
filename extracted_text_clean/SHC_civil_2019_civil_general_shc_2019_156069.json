@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "Misc. No.25072/2021",
   "date_of_order": "13.12.2021",
-  "judge": "JUDGE Abrar",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "respondent No.1",
+    "respondent No.2",
+    "respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

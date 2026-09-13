@@ -6,12 +6,18 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-1105 of 2020",
   "date_of_order": "12.01.2021",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Muhammad Ramzan and Nisar Ahmed Narejo Advocates",
+    "Mr. Allah Bachayo Soomro, Addl. A.G Sindh",
+    "DIGP Hyderabad Range"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

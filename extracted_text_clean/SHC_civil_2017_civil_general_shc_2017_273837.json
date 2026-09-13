@@ -6,12 +6,19 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-426 of 2017",
   "date_of_order": "22.05.2025",
-  "judge": "Wasim PS",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Salahuddin Ahmed",
+    "Zehra Sehar",
+    "Mehboob Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 9,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "01.03.2024",
   "judge": "Ajmal Mian",
   "sections_cited": [
     "sections 153 and 152 CPC",
@@ -28,7 +28,29 @@
     "PLD 2022 SC 73",
     "PLD 2010 SC 38"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Qayum Khan",
+    "Abdul Azeez",
+    "Abdul Sattar Khan",
+    "Shoaib Siddique",
+    "Qammar Siddique",
+    "Shahab Siddique",
+    "Shahid Siddique",
+    "Azrah",
+    "Uzmah",
+    "Zeenat Begum",
+    "Mrs. Surraiya Qaiser Begum",
+    "Mrs. Sadiqa Begum",
+    "Sohail Ahmed",
+    "Sameer Ali Khan",
+    "Faryal Ali Khan",
+    "Muhammad Asif",
+    "Nadia Sohail",
+    "Muhammad Kazif Badar",
+    "Farzana Yasmin",
+    "Abdul Razzaq Khan",
+    "Abdul Qadeer Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

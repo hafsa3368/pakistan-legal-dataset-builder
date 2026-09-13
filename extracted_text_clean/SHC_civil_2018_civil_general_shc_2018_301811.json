@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "criminal proceedings are not",
+  "case_number": "C.P. No.D-1898 of 2025",
   "date_of_order": "15.12.2025",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 491 Cr.P.C",
     "Sections 22-A and 22-B Cr.P.C",
@@ -20,7 +20,10 @@
   "citations": [
     "PLD 2018 SC 595"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Hyder",
+    "Province of Sindh and Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

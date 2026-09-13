@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-1517 of 2026",
   "date_of_order": "31.03.2026",
-  "judge": "",
+  "judge": "B-K Soomro",
   "sections_cited": [
     "section 365-B PPC",
     "Section 173 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Ubedullah Malik and Aurangzeb, Advocates",
+    "M/s. Hakim Ali Shaikh and Sageer Ahmed Abbasi, Additional Advocates General, Sindh",
+    "Ms. Siddiqa Nausheen",
+    "Respondent No.6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

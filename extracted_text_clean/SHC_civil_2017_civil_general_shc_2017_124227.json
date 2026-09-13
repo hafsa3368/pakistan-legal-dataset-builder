@@ -6,12 +6,17 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-3047 of 2017",
   "date_of_order": "15.02.2018",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ismail Bhutto",
+    "Syed Meeral Shah",
+    "ASI Ikhtiar Ali Channa",
+    "Mr. Ayatullah Khowaja"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "",
+  "case_number": "Cr. Appeal No. D-37 of 2020",
   "date_of_order": "11.05.2023",
-  "judge": "JUDGE",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "section 245 Cr.P.C",
     "Section 382-B Cr.PC",
@@ -37,7 +37,10 @@
     "2022 SCMR 1148",
     "2022 SCMR 998"
   ],
-  "parties": [],
+  "parties": [
+    "Imtiaz Lolai",
+    "State of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

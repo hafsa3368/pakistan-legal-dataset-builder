@@ -6,14 +6,23 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "constituted by the Respondent No.1",
+  "case_number": "",
   "date_of_order": "23.05.2019",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [],
   "citations": [
     "2015 SCMR 74"
   ],
-  "parties": [],
+  "parties": [
+    "Faheem Ahmed Attari and 70 others",
+    "Syed Rizwan Ali Kazmi and 08 others",
+    "Muhammad Javed & 23 others",
+    "Shaikh Muhammad Iqbal and 04 others",
+    "Kamran Aziz Khan and 13 others",
+    "Ghulam Hussain and another",
+    "Muhammad Irfan and 99 others",
+    "Waqas Khan and 03 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Constitutional Petition C.P No.D-1655 of 2016",
   "date_of_order": "27.10.2021",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Adnan Iqbal",
   "sections_cited": [
     "Section 3"
   ],
@@ -20,7 +20,12 @@
     "2020 SCMR 1625",
     "2020 SCMR 2068"
   ],
-  "parties": [],
+  "parties": [
+    "Junaid Ahmed & another",
+    "Province of Sindh & Others",
+    "Sardar Ali Shah & Others",
+    "Govt. of Sindh& Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

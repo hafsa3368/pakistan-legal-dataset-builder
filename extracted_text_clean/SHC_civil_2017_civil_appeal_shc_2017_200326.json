@@ -6,12 +6,18 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "criminal case. This Notice",
+  "case_number": "M.A. No.4900 of 2019",
   "date_of_order": "10.02.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sohrab Khan",
+    "Allied Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

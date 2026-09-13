@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Criminal Anti-Terrorism Appeal No.167 of 2018",
+  "case_number": "",
   "date_of_order": "25-10-2019",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Section 7",
     "Section 6",
@@ -27,7 +27,15 @@
     "2019 MLD 670",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Khair Muhammad, Appellant through Advocate",
+    "Mr. Khadim Hussain, DPG",
+    "Mr. Khair Muhammad, S/o Ghulam Mujtaba Advocate Appellant through Respondent/The State",
+    "Mr. Khadim Hussain, DPG",
+    "Muhammad Abid Hussain @ Tao, S/o Ghulam Mujtaba Advocate Appellant through Respondent/The State",
+    "Mr. Khair Muhammad, S/o Ghulam Mujtaba Advocate Appellant through Respondent/The State",
+    "Mr. Khadim Hussain, DPG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

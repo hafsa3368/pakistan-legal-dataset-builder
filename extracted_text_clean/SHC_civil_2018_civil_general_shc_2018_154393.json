@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "",
   "date_of_order": "06-05-2021",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 44-A CPC",
     "Section 44-A CPC",
@@ -28,7 +28,10 @@
     "PLD 2016 SC 174",
     "PLD 1981 Kar 197"
   ],
-  "parties": [],
+  "parties": [
+    "Mena Energy DMCC",
+    "Hascol Petroleum Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

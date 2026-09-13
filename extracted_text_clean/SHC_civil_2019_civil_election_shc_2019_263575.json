@@ -9,9 +9,20 @@
   "case_number": "",
   "date_of_order": "07-05-2025",
   "judge": "Mohammad Karim Khan Agha Justice",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Komal Jan",
+    "Province of Sindh",
+    "Dow University of Health Sciences, Karachi - DUHS",
+    "Mr. Talha Abbasi",
+    "Mr. Imtiaz Ahmed Solangi",
+    "Mr. Muhammad Wasiq Mirza",
+    "Mr. Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

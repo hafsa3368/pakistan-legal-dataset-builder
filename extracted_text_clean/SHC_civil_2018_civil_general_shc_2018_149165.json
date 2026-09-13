@@ -6,12 +6,18 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-2332 of 2017",
   "date_of_order": "22.01.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "CMA 1718/21",
+    "CMA 1719/21"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Dhani Bakhsh Baloch",
+    "Mr. M. NIshat Warsi, Deputy Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

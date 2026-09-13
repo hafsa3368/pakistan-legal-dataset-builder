@@ -6,16 +6,20 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "constructing on Plot No. 56/I",
+  "case_number": "",
   "date_of_order": "22-01-2020",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 4 of the Easements Act",
     "section 7 of the Easements Act",
     "section 22 of the Easements Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Humayun Sattar",
+    "Faizan Elahi",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

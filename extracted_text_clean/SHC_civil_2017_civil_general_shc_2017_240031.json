@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "Constt. Petition No. D-",
+  "case_number": "",
   "date_of_order": "21.09.2017",
   "judge": "Junald Ghaffan",
   "sections_cited": [],
@@ -27,7 +27,25 @@
     "1999 SCMR 467",
     "1993 SCMR 362"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Dastagir A. Shahani, Advocate",
+    "Mr. Habibullah G. Ghouri, Advocate",
+    "Mr. Rashid Mustafa Solangi, Advocate",
+    "Mr. Faiz Muhammad Larik, Advocate",
+    "Mr. Rafique Ahmed K. Abro, Advocate",
+    "Mr. Abdul Rehman A. Bhutto, Advocate",
+    "Mr. Ashfaq Hussain Abro, Advocate",
+    "Mr. Safdar Ali Ghouri, Advocate",
+    "Mr. Fida Hussain Shah, Advocate",
+    "Mr. Imtiaz Ali Bhatti, Advocate",
+    "Mr. Saleem Raza Jakhar, Advocate",
+    "Mr. Mazhar Ali Bhutto, Advocate",
+    "Mr. Abdul Hamid Bhurgri, Addl. A.G.",
+    "Mr. Abid Hussain Qadri",
+    "Mr. Ameer Ahmed Narejo",
+    "Mr. Muhammad Ashique Dhamraho, Advocate",
+    "Mr. Nisal Ahmed G. Abro, D.A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

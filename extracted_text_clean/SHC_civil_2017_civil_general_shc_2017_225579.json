@@ -6,12 +6,17 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-7598 of 2022",
   "date_of_order": "29.01.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s.Aqeel Ahmed Khan",
+    "M.Salman Khan",
+    "Mr.Muhammad Khalil Dogar",
+    "Ms.Alizeh Bashir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

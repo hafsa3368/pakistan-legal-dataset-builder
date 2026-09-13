@@ -6,12 +6,17 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "Constitution has no provision",
+  "case_number": "H.C.A. No.83 of 2022",
   "date_of_order": "08.04.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Haroon Abdullah",
+    "Pakistan Airline Pilots Association",
+    "Mr. Muhammad Ali Lakhani",
+    "Mr. Imtiaz Ali Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

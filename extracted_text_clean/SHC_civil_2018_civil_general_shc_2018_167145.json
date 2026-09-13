@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No. D-1043 of 2018",
-  "date_of_order": "",
+  "date_of_order": "25.05.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Const. Art. 19",
+    "Const. Art. 25-25A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Naimat Ali Shah",
+    "Mr. Qurban Ali Malano",
+    "Mr. Sanwan Khan Jagirani",
+    "SIDA",
+    "Mr. Mehboob Ali Wassan",
+    "Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

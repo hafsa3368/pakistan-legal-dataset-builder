@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Jail Appeal No. 844 of 2019",
   "date_of_order": "20.03.2017",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 154 Cr.P.C",
     "sections 324 and 34",
@@ -18,7 +18,18 @@
     "section 161"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Kaneez Fatima & Rameez Hameed Khan",
+    "The State",
+    "Danish Hameed Khan",
+    "Khalid Hameed Khan",
+    "Somiya Hameed Khan",
+    "Sana Hameed Khan",
+    "Mehreen Afzaal",
+    "Rameez Hameed Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,15 +6,20 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Civil Revision Application bearing No.08 of 2020",
+  "case_number": "C.P No.D-450 of 2020",
   "date_of_order": "18.08.2020",
-  "judge": "JUDGE",
+  "judge": "Abdul Maalik Gaddi",
   "sections_cited": [
     "Section 47",
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Maalik Gaddi",
+    "Adnan-ul-Karim Memon",
+    "petitioners",
+    "Muhammad Asif Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

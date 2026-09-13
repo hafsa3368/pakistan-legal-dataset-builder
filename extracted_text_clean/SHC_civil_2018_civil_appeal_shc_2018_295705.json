@@ -6,12 +6,21 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal Nos. 394",
   "date_of_order": "01.12.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faiz Durrani",
+    "Mr. Kashif Hanif",
+    "SSGC",
+    "Mr. Ghulam Muhammad",
+    "Mr. Ali Haider",
+    "Mr. Ghazi Khan Khalil",
+    "Raja Lov Kush",
+    "Zahrah Sehr Vayani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

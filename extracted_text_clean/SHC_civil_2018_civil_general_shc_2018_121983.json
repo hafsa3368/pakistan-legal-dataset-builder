@@ -8,10 +8,12 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "10.01.2018",
-  "judge": "JUDGE Tufail",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Asghar Mirbahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

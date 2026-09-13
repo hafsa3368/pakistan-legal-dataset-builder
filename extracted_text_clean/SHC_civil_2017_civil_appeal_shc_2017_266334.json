@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Civil Suit No. 340/2017",
   "date_of_order": "13.03.2025",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN,",
   "sections_cited": [
     "section 151",
     "section 22 of the Limitation Act",
@@ -30,7 +30,10 @@
     "PLD 1965 SC 134",
     "PLD 1994 SC 291"
   ],
-  "parties": [],
+  "parties": [
+    "The Administrator DHA Karachi and another",
+    "Yousuf Rasool Naroo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

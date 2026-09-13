@@ -6,12 +6,18 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "construction could be seen. There is no such",
+  "case_number": "H.C.A. No.227",
   "date_of_order": "26.10.2023",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Ayaz Gul",
+  "sections_cited": [
+    "U/S 151 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Mustafa",
+    "Muhammad Younis",
+    "Mst. Nasreen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

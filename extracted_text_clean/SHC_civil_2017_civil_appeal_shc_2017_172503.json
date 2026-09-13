@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal A.T. Appeal No.39 of 2021",
   "date_of_order": "06.10.2022",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "section 7",
     "Section 342",
@@ -31,7 +31,12 @@
     "2001 SCMR 199",
     "2015 SCMR 856"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Naseer Ahmed @ Mullan",
+    "The State through Mr. Muhammad Iqbal Awan, Addl. Prosecutor General Sindh",
+    "The State through Mr. Muhammad Iqbal Awan, Addl. Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

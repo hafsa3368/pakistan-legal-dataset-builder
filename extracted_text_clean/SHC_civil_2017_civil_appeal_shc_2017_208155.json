@@ -6,15 +6,19 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Civil Procedure. There is no suggestion",
+  "case_number": "",
   "date_of_order": "19.12.2023",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "Section 115 of the Code",
     "section 115 of Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mushtaque Ali & Others",
+    "Continental Enterprises",
+    "Judgment Debtor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

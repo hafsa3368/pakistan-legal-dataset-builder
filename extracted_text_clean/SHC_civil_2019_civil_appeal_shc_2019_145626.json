@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "06.08.2020",
-  "judge": "JUDGE S",
+  "judge": "Abdul Maalik Gaddi",
   "sections_cited": [
     "section 9",
     "section 382-B Cr.P.C",
@@ -16,7 +16,12 @@
     "section 345 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    {
+      "role": "Petitioner",
+      "name": "Bashir Ahmed S/o Wali Muhammad"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,15 +7,23 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "01-06-2022",
+  "judge": "Ch. Shahid Hussain Rajput",
   "sections_cited": [
     "Section 71"
   ],
   "citations": [
     "2019 CLC 1592"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Anwar Ali Lohar",
+    "Mr. Muhammad Hamzo Buriro",
+    "Mr. Asfandyar Kharal",
+    "Mr. Zeeshan Haider Qureshi",
+    "Ch. Shahid Hussain Rajput",
+    "Mr. Hamzo Buriro",
+    "Respondent No.5&6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,19 @@
   "case_number": "",
   "date_of_order": "01.02.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Order XXI Rule 84",
+    "Order XXI Rule 85",
+    "Rule 90 of the Order XXI, CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Respondent No.1",
+    "Auction Purchaser",
+    "Appellants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

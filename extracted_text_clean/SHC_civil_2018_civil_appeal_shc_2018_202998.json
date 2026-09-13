@@ -8,7 +8,7 @@
   "num_chunks": 18,
   "case_number": "Criminal A.T.J.Appeal No. 08 of 2023",
   "date_of_order": "04.09.2023",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Section 376 of the PPC",
     "section 154 Cr.P.C",
@@ -36,7 +36,13 @@
     "PLD 2010 SC 669",
     "PLD 2002 SC 52"
   ],
-  "parties": [],
+  "parties": [
+    "Amjad Ali alias Zakir alias Sajid S/o Khairat Ali",
+    "The State",
+    "Mr. Iftikhar Ahmed Shah",
+    "Mr. Muhammad Iqbal Awan",
+    "Additional Prosecutor General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,22 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.NO.S-221 OF 2017",
   "date_of_order": "07.08.2017",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sajid Soomro",
+    "Mr. Anwar H. Ansari",
+    "SHO Jamshoro",
+    "Haji Manzoor",
+    "Petitioner",
+    "State Counsel",
+    "SHO Jamshoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

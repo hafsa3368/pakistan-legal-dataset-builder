@@ -6,12 +6,22 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-303 of 2021",
   "date_of_order": "24.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of Islamic Republic of Pakistan of 1973",
+    "The Gas (Theft Control and Recovery) Act 2016"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "SSGCL",
+    "Federation of Pakistan",
+    "Arsalan Haryah",
+    "Aashique Hussain Wahocho"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "28.08.2023",
-  "judge": "",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "Section 3 of Illegal Dispossession Act",
     "Section 417",
@@ -19,7 +19,11 @@
     "2010 SCMR 1254",
     "PLD 2012 SC 501"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ali Bhatti",
+    "The State",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

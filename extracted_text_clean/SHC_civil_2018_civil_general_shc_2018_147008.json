@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "14.10.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zahid World Corporation",
+    "Federation of Pakistan & Another",
+    "SHS Nutrition Proprietor & Others",
+    "Federation of Pakistan & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

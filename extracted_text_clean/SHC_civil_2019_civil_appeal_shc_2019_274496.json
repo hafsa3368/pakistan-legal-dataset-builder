@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "20.05.2025",
   "judge": "Omar Sial Mr",
   "sections_cited": [
@@ -21,7 +21,16 @@
     "2023 SCMR 1427",
     "PLD 2016 SC 358"
   ],
-  "parties": [],
+  "parties": [
+    "Pfizer Pakistan Ltd.",
+    "Full Bench of NIRC & Others",
+    "Pfizer USA",
+    "Wyeth Pakistan Limited",
+    "MTK & Co Contractor",
+    "Amir Anjum and others",
+    "Wyeth Pakistan Limited Employees Union",
+    "Pfizer Pakistan Employees Union"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

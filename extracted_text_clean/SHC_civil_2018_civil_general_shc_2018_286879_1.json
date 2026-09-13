@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1816 of 2024",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "date_of_order": "20.10.2025",
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Sindh Empowerment of Persons with Disabilities Act, 2018"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "None",
+    "None",
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

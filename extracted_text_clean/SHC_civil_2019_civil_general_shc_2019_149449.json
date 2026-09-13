@@ -6,10 +6,13 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "04.02.2021",
   "judge": "Muhammad Shafi Siddiqui Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR 637",
     "2006 SCMR 1876",
@@ -18,7 +21,26 @@
     "2015 SCMR 112",
     "2013 SCMR 264"
   ],
-  "parties": [],
+  "parties": [
+    "Akhtar Hussain and 07 others",
+    "The Government of Sindh & 03 others",
+    "Mukhtiar Ahmed and 131 others",
+    "Province of Sindh & 04 others",
+    "Abdul Majeed and another",
+    "The Government of Sindh & 03 others",
+    "Shah Murad and 05 others",
+    "Province of Sindh & 60 others",
+    "Qadir Bux and 02 others",
+    "The Government of Sindh & 03 others",
+    "Mr. Abdul Salam Memon",
+    "M/s. Raj Ali Wahid and Jamshed Abbasi",
+    "Mr. Meer Ahmed Mangrio",
+    "Mr. Javed Hussain",
+    "Assistant Advocate General Sindh a/w Dr. Sikandar Memon",
+    "Dr. Khalilullah",
+    "Dy.Project Director, EPI",
+    "Mr. Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

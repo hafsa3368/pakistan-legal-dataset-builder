@@ -6,14 +6,20 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A. No.54 of 2020",
   "date_of_order": "06.11.2023",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1993 SCMR 1949"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Data Steel Pipe Industries (Pvt.) Ltd.",
+    "M/s Sui Northern Gas Pipelines Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

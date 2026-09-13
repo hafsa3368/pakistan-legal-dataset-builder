@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Criminal Appeal Nos",
+  "case_number": "Criminal Appeal Nos. 79",
   "date_of_order": "29.05.2025",
   "judge": "",
   "sections_cited": [
@@ -22,7 +22,18 @@
     "2023 MLD 1938",
     "2018 MLD 1495"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Raheem",
+    "Muhammad Yameen",
+    "The State",
+    "Shamimullah",
+    "Abdul Talib",
+    "Muhammad Naveed Idrees",
+    "Muhammad Iqbal Baloch",
+    "Salahuddin Khan Gandapur",
+    "Qamaruddin Nohri",
+    "Subhan Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

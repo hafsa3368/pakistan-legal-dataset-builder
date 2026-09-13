@@ -6,12 +6,24 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Petition No.D",
+  "case_number": "",
   "date_of_order": "28.04.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Nadeem A. Shaikh and Saleem Michel",
+    "Mr. Rafiq Ahmed Kalwar",
+    "Mr. Muhammad Yasir",
+    "Mr. Mansoor Ali Oanhwar & Muzaffar Ali",
+    "Mr. Usman Farooq",
+    "Ms. Seema Zaidi",
+    "Mr. Ali Safdar Depar",
+    "Ali Gul Sanjrani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,15 +6,19 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-4198 of 2021",
   "date_of_order": "08.11.2021",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 23",
     "section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Ahmed Ali Hussain",
+    "Mr.Shahbaz Sahotra, Spl. Prosecutor NAB a/w Mr.Ghulam Abbas, IO NAB",
+    "Mr.Haroon Rasheed, Case Officer NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

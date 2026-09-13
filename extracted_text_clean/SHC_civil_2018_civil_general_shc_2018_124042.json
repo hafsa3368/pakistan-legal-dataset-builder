@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "31.01.2018",
-  "judge": "",
+  "judge": "A.Rasheed",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hameedullah Dahri",
+    "Mr. Muhammad Ismail Bhutto",
+    "ASI S. Laeeque Hyder",
+    "M. Iqbal Wassan",
+    "ASI Mariyam",
+    "Nawabshah Inspector",
+    "Learned Asstt:A.G",
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -27,7 +27,11 @@
     "PLD 2004 SC 298",
     "PLD 2005 SC 686"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shahid",
+    "Fareed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

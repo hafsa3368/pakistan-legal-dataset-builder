@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "constituting a Board of Governors",
+  "case_number": "",
   "date_of_order": "12.09.2019",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -15,7 +15,11 @@
     "Section 3 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shamim Akhtar",
+    "Mr. Ali Safdar Depar",
+    "Assistant Advocate General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

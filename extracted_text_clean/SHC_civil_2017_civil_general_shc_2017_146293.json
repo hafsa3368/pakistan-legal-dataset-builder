@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Const. Petition No. D-",
+  "case_number": "",
   "date_of_order": "09.09.2020",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "section 9",
     "section 10 of the National Accountability Ordinance"
@@ -17,7 +17,16 @@
     "2016 SCMR 2064",
     "PLD 2009 SC 427"
   ],
-  "parties": [],
+  "parties": [
+    "Hameedullah Khan",
+    "Zulfiqar Ali Mirani",
+    "Shafqat Ali Shah",
+    "Muhammad Luqman",
+    "Kausar Jabeen",
+    "Mumtaz Hussain",
+    "Federation of Pakistan",
+    "M/s. Shah Mirani Associates"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

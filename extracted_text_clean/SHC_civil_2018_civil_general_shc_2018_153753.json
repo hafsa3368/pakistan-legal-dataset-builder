@@ -6,12 +6,22 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Court is not",
+  "case_number": "",
   "date_of_order": "28-09-2021",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Moulana Shahzado Dreho",
+    "respondent No.1",
+    "respondent No.2",
+    "respondent No.3",
+    "the Petitioner",
+    "learned 3rd JM Sukkur",
+    "the Municipal officials"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.D-27 of 2017",
   "date_of_order": "07.05.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Naimatullah Phulpoto",
+  "sections_cited": [
+    "u/s 302",
+    "u/s 302 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wali Muhammad",
+    "Zahid Hussain",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

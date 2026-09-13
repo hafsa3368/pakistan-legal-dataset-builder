@@ -8,12 +8,15 @@
   "num_chunks": 2,
   "case_number": "Constitution Petition No. 358 of 2025",
   "date_of_order": "29.04.2025",
-  "judge": "",
+  "judge": "Nadeem Qureshi",
   "sections_cited": [
     "Section 15 of the Sindh Rented Premises Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sardar Sheraz Anjum",
+    "The Applicant/landlord"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

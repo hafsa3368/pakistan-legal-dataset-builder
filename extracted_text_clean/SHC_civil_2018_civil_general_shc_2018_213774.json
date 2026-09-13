@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.S-1084 of 2022",
   "date_of_order": "03.04.2024",
   "judge": "",
   "sections_cited": [
@@ -17,7 +17,10 @@
     "2018 SCMR 1720",
     "PLD 2018 SC 35"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Khan Zaman Khattak",
+    "Mr. Z.U. Mujahid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

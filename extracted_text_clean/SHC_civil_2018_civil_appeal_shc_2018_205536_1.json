@@ -6,14 +6,20 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "HCA No.263 of 2018",
   "date_of_order": "08.08.2023",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman",
   "sections_cited": [
     "Section 3 of the Law Reforms Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mian Mushtaq Ahmed",
+    "Nemo",
+    "Mr. Hassan Tariq",
+    "Ghulam Akbar Lashari",
+    "Mr. Saifullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

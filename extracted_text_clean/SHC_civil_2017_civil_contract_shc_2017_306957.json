@@ -8,10 +8,18 @@
   "num_chunks": 3,
   "case_number": "Civil Appeal No.48 of 2013",
   "date_of_order": "17.02.2026",
-  "judge": "JUDGE Muhammad Danish",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Aqeela Gulnaz",
+    "Province of Sindh",
+    "Mr. Noor Nabi Samoo",
+    "Mr. Muhammad Ismail Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

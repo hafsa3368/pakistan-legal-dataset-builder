@@ -8,12 +8,23 @@
   "num_chunks": 17,
   "case_number": "Civil Review Petition No. 193/2013",
   "date_of_order": "03.10.2024",
-  "judge": "JUDGE Irfan",
+  "judge": "",
   "sections_cited": [],
   "citations": [
     "2022 SCMR 550"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Riazat Ali Sahar",
+    "Mr. Hameedullah Dahri",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Niaz Hussain Mirani",
+    "Mr. Zarar Qadir Shoro",
+    "Respondent No. 6",
+    "Respondent No. 7",
+    "Respondent No. 8",
+    "Respondent No. 9",
+    "Respondent No. 10"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

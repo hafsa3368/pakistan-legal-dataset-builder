@@ -26,7 +26,10 @@
     "PLD 2012 SC 247",
     "PLD 2002 Karachi 408"
   ],
-  "parties": [],
+  "parties": [
+    "CSM Pakistan (Guarantee) Limited",
+    "Kresta Corp."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

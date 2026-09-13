@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 35,
-  "case_number": "",
+  "case_number": "CP Nos. D-7826/2017",
   "date_of_order": "30.11.2017",
-  "judge": "JUDGE",
+  "judge": "Munib Akhtar",
   "sections_cited": [
     "section 2"
   ],
@@ -18,7 +18,14 @@
     "PLD 2017 Lah 830",
     "PLD 2017 Sindh 347"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners (comprising of two petitions)",
+    "Petitioners (comprising of three petitions)",
+    "NTS",
+    "Provincial Government of Sindh",
+    "Health Department",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "Civil Judge Lahore would not",
+  "case_number": "High Court Appeal No. 284 of 2018",
   "date_of_order": "21.01.2021",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -18,7 +18,10 @@
     "Section 81 of Trademark Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Famous Brands (Private) Ltd.",
+    "Samsonite IP Holdings S.a.r.I and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

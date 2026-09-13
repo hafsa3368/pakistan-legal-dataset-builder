@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitution is different and does not",
+  "case_number": "",
   "date_of_order": "07-03-2024",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 27 of the Agricultural Produce Markets Act",
     "sections 16",
@@ -20,7 +20,12 @@
     "2011 CLC 1176",
     "2022 YLR 2188"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Habib Sugar Mills Ltd.",
+    "Province of Sindh",
+    "Market Committee Nawabshah",
+    "Shaheed Benazirabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

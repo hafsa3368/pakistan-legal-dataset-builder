@@ -6,12 +6,24 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "10.12.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Zarina Anwar",
+    "The Secretary Ministry of Education",
+    "04 others",
+    "Mr. Babar Ali Shaikh",
+    "Mr. Ali Safdar Depar",
+    "Riaz Ahmed",
+    "Assistant Accounts Officer",
+    "Accountant General Sindh",
+    "Jawed Ali Khawaja",
+    "Litigation Officer",
+    "SELD"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

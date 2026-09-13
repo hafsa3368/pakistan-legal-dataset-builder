@@ -9,9 +9,16 @@
   "case_number": "Civil Petition No.1899",
   "date_of_order": "16.08.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hameedullah Dahri",
+    "Mr. Rafique Ahmed Dahri",
+    "Ali Ahmed Khowaja",
+    "STBB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

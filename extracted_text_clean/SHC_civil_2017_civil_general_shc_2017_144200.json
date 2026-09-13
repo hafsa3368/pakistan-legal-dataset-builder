@@ -6,12 +6,24 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Petition No.D",
+  "case_number": "",
   "date_of_order": "04.03.2020",
   "judge": "Nadeem Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Nadeem Akhtar",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Ghulam Murtaza Daudpoto",
+    "Province of Sindh",
+    "Mr. Munawar Alam Khan",
+    "Mr. Shakeel Ahmed",
+    "Mr. Faizan Hussain",
+    "Mr. Hakim Ali Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

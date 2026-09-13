@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitution Civil Servants cannot",
+  "case_number": "C.P No.D-597 of 2017",
   "date_of_order": "31.01.2017",
-  "judge": "JUDGE",
+  "judge": "Irfan Saadat Khan",
   "sections_cited": [
     "Section 2"
   ],
@@ -16,7 +16,12 @@
     "2015 SCMR 456",
     "2016 SCMR 1021"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Azeem Soomro and others",
+    "Province of Sindh and others",
+    "Mr. Justice Irfan Saadat Khan",
+    "Mr. Justice Adnan-ul-Karim Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

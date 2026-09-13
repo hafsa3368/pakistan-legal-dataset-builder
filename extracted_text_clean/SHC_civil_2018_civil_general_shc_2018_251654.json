@@ -6,12 +6,20 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "constitutes not",
+  "case_number": "CP No. D-269 of 2025",
   "date_of_order": "17.03.2025",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Riazat Ali Sahara",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "C.P. No.52 of 2018"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Shafique Ahmed Shah",
+    "Respondent No.3 to 5",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

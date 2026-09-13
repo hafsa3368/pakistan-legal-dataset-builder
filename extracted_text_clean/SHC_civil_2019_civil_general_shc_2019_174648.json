@@ -6,14 +6,20 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Rev. Application No. 01 of 2018",
+  "case_number": "",
   "date_of_order": "26.09.2019",
   "judge": "CHIEF JUSTICE",
   "sections_cited": [
     "section 265-C Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ahmed Ali M. Shaikh",
+    "Omar Sial",
+    "Zubair Ahmed Rajput",
+    "Zahid Hussain Baladi",
+    "NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

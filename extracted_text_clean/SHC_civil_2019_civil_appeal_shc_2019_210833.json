@@ -6,15 +6,23 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "High Court Appeal No.52 of 2024",
   "date_of_order": "21.02.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Not available",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 CLC 697",
     "PLD 1985 SC 345"
   ],
-  "parties": [],
+  "parties": [
+    "Gohar Yaqoob Khan",
+    "Abdul Rasheed Memon",
+    "M/s Muhammad Tarique Siddiqui",
+    "Irfanullah Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,12 +9,22 @@
   "case_number": "Constitutional Petition No. D-5497 of 2019",
   "date_of_order": "13.12.2017",
   "judge": "Mohammad Karim Khan Agha Justice",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2012 SCMR 126",
     "2022 SCMR 1546"
   ],
-  "parties": [],
+  "parties": [
+    "Manzoor Ahmed",
+    "Province of Sindh",
+    "Justice Mohammad Karim Khan Agha",
+    "Justice Adnan-ul-Karim Memon",
+    "Mr. Ali Asadullah Bullo",
+    "Mr. Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

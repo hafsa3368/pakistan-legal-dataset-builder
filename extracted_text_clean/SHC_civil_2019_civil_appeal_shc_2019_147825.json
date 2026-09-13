@@ -6,12 +6,21 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "H. C. A. No. 347 of 2019",
   "date_of_order": "05.10.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naseem Ahmed Malik",
+    "Saeed Iqbal",
+    "Muhammad Shahid Qadeer Suharwrdy",
+    "S. Ali Ahmed Tariq",
+    "Defence Officers’ Housing Authority (DHA)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,19 @@
   "num_chunks": 5,
   "case_number": "Civil Appeal No.64 of 2023",
   "date_of_order": "20.11.2023",
-  "judge": "",
+  "judge": "S.M. Imran Alvi",
   "sections_cited": [
     "section 42 of Specific Relief Act",
     "section 101 of CPC",
     "Section 100 of CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. S.M. Imran Alvi",
+    "appellant",
+    "F.C.",
+    "No. 592 of 2012"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

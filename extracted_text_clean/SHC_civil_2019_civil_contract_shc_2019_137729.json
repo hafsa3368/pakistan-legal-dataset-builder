@@ -6,12 +6,18 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-355 of 2019",
   "date_of_order": "27.03.2019",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Badar Rajpar",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Asad Ali Jatoi",
+    "Mst. Uzma Phulpoto",
+    "Saddam Hussain s/o Ghulam Sarwar Lashari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

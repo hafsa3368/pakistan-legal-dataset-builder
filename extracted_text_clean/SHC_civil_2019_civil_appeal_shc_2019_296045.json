@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Criminal Acquittal Appeal No. S-I0 of 2023",
+  "case_number": "",
   "date_of_order": "27.02.2025",
-  "judge": "",
+  "judge": "Riazat Ali Sahar",
   "sections_cited": [
     "Section 24",
     "Sections 302 and 324"
@@ -24,7 +24,10 @@
     "2009 SCMR 230",
     "PLD 2019 SC 64"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Saddam Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

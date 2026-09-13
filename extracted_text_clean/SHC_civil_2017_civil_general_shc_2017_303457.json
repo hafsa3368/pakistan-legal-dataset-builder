@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "26.01.2026",
-  "judge": "Muhammad Osman Ali Hadi Date",
+  "judge": "Muhammad Osman Ali Hadi",
   "sections_cited": [
     "Section 301 of the Companies Act",
     "Section 84 of the Companies Act",
@@ -17,7 +17,13 @@
     "Section 304"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The Additional Registrar of Companies",
+    "Business Live (Private) Limited",
+    "Syed Ebad-ur-Rehman",
+    "SECP",
+    "B4U Group"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

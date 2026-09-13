@@ -6,12 +6,15 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-2285 of 2017",
   "date_of_order": "10.02.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Sarwar Baloch A.A.G. for Pakistan",
+    "Mr. Habibur Rehman Dashti Assistant Director (Legal) NADRA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

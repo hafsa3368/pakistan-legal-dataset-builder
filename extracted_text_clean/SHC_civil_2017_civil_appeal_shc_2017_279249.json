@@ -9,11 +9,23 @@
   "case_number": "Civil Appeal No. 2-K/2015",
   "date_of_order": "28.08.2025",
   "judge": "Muhammad Karim Khan Agha Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2020 SCMR 1846"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sajid Farooqui & others",
+    "Federation of Pakistan & others",
+    "Mr. Justice Muhammad Karim Khan Agha",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Ms. Wajiha Mehdi",
+    "Mr. Ali Ahmed Turabi",
+    "The Petitioners",
+    "The Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

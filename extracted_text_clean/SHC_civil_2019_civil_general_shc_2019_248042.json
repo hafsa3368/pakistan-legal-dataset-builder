@@ -9,7 +9,10 @@
   "case_number": "",
   "date_of_order": "24.02.2025",
   "judge": "Muhammad Jaffer Raza",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2023 SCMR 1118",
     "2007 CLC 288",
@@ -17,7 +20,11 @@
     "PLD 2020 Islamabad 361",
     "PLD 2020 Sindh 352"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Global Aviation Pvt. Ltd",
+    "M/s Saudi Gulf Airlines",
+    "Syed Mustafa Mehdi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

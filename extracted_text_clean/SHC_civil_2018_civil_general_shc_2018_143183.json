@@ -9,9 +9,15 @@
   "case_number": "",
   "date_of_order": "16.01.2020",
   "judge": "Nadeem Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhib Ali",
+    "The Province of Sindh and 06 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "02.03.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
@@ -15,7 +15,14 @@
   "citations": [
     "2019 SCMR 648"
   ],
-  "parties": [],
+  "parties": [
+    "Sikandar Ali",
+    "Imtiaz Ali Sangrasi",
+    "Ayaz Hussain Khichi",
+    "Mohammad Qasim",
+    "Ali Akber",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,22 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "CP. No. D-1832 of 2019",
   "date_of_order": "20.01.2025",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Muhammad Karim Khan Agha",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Fakhr-ul-Hasnain",
+    "Province of Sindh",
+    "Police Department",
+    "Ali Safdar Depar",
+    "Mr. Justice Muhammad Karim Khan Agha",
+    "Mr. Justice Adnan-ul_Karim Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

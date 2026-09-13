@@ -6,16 +6,23 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional petition No.D-",
+  "case_number": "",
   "date_of_order": "05.03.2026",
-  "judge": "JUDGE",
+  "judge": "Khalid Hussain Abro",
   "sections_cited": [
     "Sections 452 and 365-B PPC"
   ],
   "citations": [
     "1970 SCMR 473"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Zohra Bibi",
+    "Imran Khan",
+    "Kashif-ur-Rehman",
+    "Syed Safdar Hussain",
+    "Mst. Mehwish",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

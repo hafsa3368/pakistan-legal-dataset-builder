@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "02.11.2019",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [
     "Section 10",
     "Section 10 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Zarai Taraqiati Bank Ltd.",
+    "Abdul Ghafoor and others",
+    "Mr. Faheem Majeed Memon",
+    "Mr. Ashok Kumar K. Jamba"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

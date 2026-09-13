@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "10.03.2021",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -23,7 +23,14 @@
     "2013 SCMR 1707",
     "PLD 1975 SC 244"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Imran Ali Hashmi",
+    "The University of Karachi",
+    "Dr. Shaista Parveen",
+    "The University of Karachi",
+    "Dr. Zahid Hussain",
+    "The University of Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

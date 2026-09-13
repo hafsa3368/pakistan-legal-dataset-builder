@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No. S-83 of 2021",
   "date_of_order": "27.11.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 302",
     "Section 149 PPC",
@@ -18,7 +18,13 @@
     "Section 342 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gul Zaman son Muhammad Hayat, Almani",
+    "Sikandar son of Muhammad Hayat, Almani",
+    "Munawar Ali son of Muhammad Hayat Almani",
+    "Asghar Ali son of Muhammad Khan, Almani",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

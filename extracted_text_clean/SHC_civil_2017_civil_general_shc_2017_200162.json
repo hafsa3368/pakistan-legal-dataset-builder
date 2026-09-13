@@ -6,10 +6,13 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "constitute a reportable item to Defendant Nos",
+  "case_number": "MA No. 9885/23",
   "date_of_order": "07.07.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 SCMR 1387",
     "2021 CLC 1160",
@@ -17,7 +20,11 @@
     "2019 CLC 1141",
     "1997 SCMR 1508"
   ],
-  "parties": [],
+  "parties": [
+    "Mr Raashid Mureed",
+    "Mr Haroon Dugal",
+    "Defendant No.1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

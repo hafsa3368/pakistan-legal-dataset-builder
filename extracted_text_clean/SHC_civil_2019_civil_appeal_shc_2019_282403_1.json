@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "",
+  "case_number": "Cr. Appeal No. D-287 of 2019",
   "date_of_order": "16.09.2025",
   "judge": "Amjad Ali Bohio",
   "sections_cited": [
@@ -38,7 +38,10 @@
     "2001 SCMR 36",
     "2009 SCMR 291"
   ],
-  "parties": [],
+  "parties": [
+    "Ehtisham ul Haq",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

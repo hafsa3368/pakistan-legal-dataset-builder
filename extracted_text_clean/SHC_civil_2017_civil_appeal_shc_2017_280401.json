@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "Criminal Acquittal Appeal No.S-19 of 2022",
+  "case_number": "",
   "date_of_order": "08.09.2025",
   "judge": "Nisar Ahmed Bhanbhro Appellant",
   "sections_cited": [
@@ -29,7 +29,11 @@
     "PLD 2010 SC 725",
     "PLD 2010 SC 661"
   ],
-  "parties": [],
+  "parties": [
+    "Shabir Ahmed Abbasi",
+    "Ghulam Murtafa and others",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

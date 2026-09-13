@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "08.10.2019",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Ali Shah Rizvi, Deputy Prosecutor General",
+    "Mr. Shahryar Imdad Awan, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

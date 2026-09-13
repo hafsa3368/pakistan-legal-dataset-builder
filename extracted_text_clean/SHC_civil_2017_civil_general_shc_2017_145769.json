@@ -6,12 +6,18 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-925 of 2017",
   "date_of_order": "05.08.2020",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Allah Bachayo Soomro",
+    "Peeral Khan Khoso",
+    "Sindh Blood transfusion authority",
+    "Dadu",
+    "Muhammad Umar Jamali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

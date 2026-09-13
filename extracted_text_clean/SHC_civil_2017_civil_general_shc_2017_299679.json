@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "22.12.2025",
-  "judge": "Muhammad Osman Ali Hadi Date",
+  "judge": "Muhammad Osman Ali Hadi",
   "sections_cited": [
     "section 301",
     "section 304 of the Companies Act",
@@ -21,7 +21,11 @@
     "sections 301 and 304 of the Companies Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The Additional Registrar of Companies",
+    "Global Ads & Marketing (Pvt.) Ltd.",
+    "Syed Ebad-ur-Rehman, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

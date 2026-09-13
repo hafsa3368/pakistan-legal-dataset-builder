@@ -6,16 +6,23 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-2574 of 2019",
   "date_of_order": "20.11.2019",
-  "judge": "JUDGE g",
+  "judge": "",
   "sections_cited": [
     "Section 22 of Sindh University Act",
     "Section 2",
     "Section 22"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "University of Sindh",
+    "Syndicate of University of Sindh",
+    "Management of University of Sindh",
+    "University of Sindh Jamshoro",
+    "Selection Board of University of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

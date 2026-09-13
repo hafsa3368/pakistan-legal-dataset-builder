@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "Constt. Petition No. D-",
+  "case_number": "",
   "date_of_order": "21.09.2017",
   "judge": "Junald Ghaffan",
   "sections_cited": [],
@@ -27,7 +27,17 @@
     "1999 SCMR 467",
     "1993 SCMR 362"
   ],
-  "parties": [],
+  "parties": [
+    "Constt. Petition No. D-551 of 2007",
+    "Constt. Petition No. D-289, 1103 of 2010",
+    "Constt. Petition No. D-882, 1203, 1467, 2464, 2550, 2640, 2641, 2643 and 2699 of 2011",
+    "Constt. Petition No. D-01, 123,124,605, 1105, 11717, 1226, 1325, 1384 and 1409 of 2012",
+    "Constt. Petition No. D-518, 745,771, 1213 and 1299 of 2013",
+    "Constt. Petition No. D-290, 355, 356, 357, 358, 510, 582, 591, 696, 1328, 1329, 1330, 1331, 1377, 1378 and 1379 of 2014",
+    "Constt. Petition No. D-316, 397, 511, 613, 685, 913, 947, 979, 1076, 1173, 1393, and 1435 of 2015",
+    "Constt. Petition No. D-14, 15, 31, 130, 896, 931, 1243, 1296, 1297, 1298 and 1299 of 2016",
+    "Constt. Petition No. D-12, 136, 137 and 523 of 2017"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

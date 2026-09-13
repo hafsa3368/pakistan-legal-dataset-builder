@@ -6,12 +6,15 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-195 of 2018",
   "date_of_order": "11.02.2025",
-  "judge": "",
+  "judge": "Abdullah Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bashir Ahmed Almani",
+    "Mr. Rafique Ahmed Dahri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

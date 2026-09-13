@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 13,
   "case_number": "Cr.A.T.A. No.112 of 2019",
-  "date_of_order": "",
-  "judge": "JUDGE",
+  "date_of_order": "02.07.2021",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "section 7",
     "section 25",
@@ -22,7 +22,17 @@
   "citations": [
     "PLD 2021 SC 600"
   ],
-  "parties": [],
+  "parties": [
+    "Kamran Khan son of Dawood Khan",
+    "Muhammad Asif son of Muhammad Latif",
+    "State",
+    "Muhammad Latifuddin Pasha",
+    "Abrar Ahmed Khichi",
+    "Aurangzeb",
+    "Muhammad Shoaib",
+    "Police Constable",
+    "Farooq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

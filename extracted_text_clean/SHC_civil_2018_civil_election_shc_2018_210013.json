@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-95 of 2024",
   "date_of_order": "22.06.2022",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Qurban Ali Malano",
+    "Mr. Zeeshan Haider Qureshi",
+    "Mr. Dareshani Ali Haider 'Ada'",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

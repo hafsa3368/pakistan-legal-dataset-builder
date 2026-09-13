@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "High Court Appeal No.59 of 2017",
   "date_of_order": "19-1-2026",
-  "judge": "JUDGE",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 14 of the Agricultural Produce Markets Act",
     "Section 14",
@@ -22,7 +22,12 @@
     "Section 25-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Market Committee Karachi",
+    "Haji Shah Jehan",
+    "Province of Sindh",
+    "The Director General, Agricultural (Extension) Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

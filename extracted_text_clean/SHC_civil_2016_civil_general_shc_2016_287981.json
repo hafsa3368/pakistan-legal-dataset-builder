@@ -6,12 +6,29 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "construction of a room by the respondent No.5",
+  "case_number": "C.P No. D-431 of 2016",
   "date_of_order": "20.10.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD SALEEM JESSAR",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ahmed Ali Nizamani",
+    "Province of Sindh & Others",
+    "Superior College of Science for Girls & Boys",
+    "The Smart School City Campus",
+    "H.D.A",
+    "SBCA & HMC",
+    "The County College",
+    "Imran Ali Tunio",
+    "Mr. Abdul Ghafoor Hakro",
+    "M/s Muhammad Arshad Pathan",
+    "Safder Hussain Leghari",
+    "Mr. S.M Naveed Farooqui",
+    "Mr. Muhammad Ismail Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

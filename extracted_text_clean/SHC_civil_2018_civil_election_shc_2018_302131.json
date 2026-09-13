@@ -8,13 +8,19 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition No. D-5049 of 2024",
   "date_of_order": "13.01.2026",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [],
   "citations": [
     "2020 SCMR 631",
     "2021 SCMR 425"
   ],
-  "parties": [],
+  "parties": [
+    "Sharifullah",
+    "Province of Sindh",
+    "Al-Asif Square Resident Welfare Association",
+    "Mr. Abdul Majeed Khoso",
+    "Mr. Mehran Khan AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

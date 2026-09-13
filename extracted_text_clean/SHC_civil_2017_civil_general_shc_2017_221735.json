@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitution is not",
+  "case_number": "CP No. D-5370 of 2024",
   "date_of_order": "31.10.2024",
-  "judge": "JUDGE Shafi",
+  "judge": "Salahuddin Panhwar",
   "sections_cited": [
     "sections 154 and 156"
   ],
@@ -16,7 +16,11 @@
     "2017 SCMR 1340",
     "PLD 2023 SC 265"
   ],
-  "parties": [],
+  "parties": [
+    "Abid Khan",
+    "Abdul Qadir Khuharo",
+    "Zohaib Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

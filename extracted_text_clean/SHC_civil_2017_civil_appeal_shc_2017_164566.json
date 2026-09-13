@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No.D-65 of 2018",
   "date_of_order": "29.03.2022",
   "judge": "Muhammad Saleem Jessar Mr",
   "sections_cited": [
@@ -32,7 +32,14 @@
     "2018 P.Cr.L.J. 1015",
     "PLD 1993 SC 408"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Himat Gul",
+    "Pathan",
+    "The State",
+    "Himat Gul",
+    "Nousherwan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

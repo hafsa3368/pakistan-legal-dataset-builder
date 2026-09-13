@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Civil Court. In view of above we do not",
+  "case_number": "High Court Appeal No.04 of 2025",
   "date_of_order": "14.01.2025",
   "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
@@ -20,7 +20,12 @@
   "citations": [
     "PLD 1997 SC 03"
   ],
-  "parties": [],
+  "parties": [
+    "Prof. Dr. Shamim Khurshid Hashmi",
+    "KDAOCHS Residents Welfare Association",
+    "Mr. Abdul Qadir Khan",
+    "Barrister Hasan Khurshid Hashmi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

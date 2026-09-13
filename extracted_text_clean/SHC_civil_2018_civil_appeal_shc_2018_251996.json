@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Crl. Jail Appeal No. S-74 of 2023",
   "date_of_order": "17.02.2025",
-  "judge": "",
+  "judge": "Riazat Ali Sahar",
   "sections_cited": [
     "Section 377-B of the Pakistan Penal Code",
     "Section 3",
@@ -31,7 +31,20 @@
     "2020 SCMR 857",
     "PLD 2019 SC 64"
   ],
-  "parties": [],
+  "parties": [
+    "Nadeem",
+    "The State",
+    "Shoukat Ali",
+    "Bagh Ali Mangi",
+    "Waris Ali",
+    "Abid Ali",
+    "Qurban Ali Bhatti",
+    "Ghulam Sarwar Waseer",
+    "Mashir",
+    "Mst. Zeenat Gujar",
+    "Muneer Ahmed",
+    "Abdul Jabbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

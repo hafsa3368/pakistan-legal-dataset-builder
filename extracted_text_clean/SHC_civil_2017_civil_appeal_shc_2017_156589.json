@@ -8,7 +8,7 @@
   "num_chunks": 27,
   "case_number": "Civil Petition No.700-K of 2018",
   "date_of_order": "17.12.2021",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 80 of The Negotiable Instrument Act",
     "Section 96 of the Code",
@@ -22,7 +22,15 @@
     "2003 CLC 71",
     "1991 SCMR 2324"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Irfan & another",
+    "Province of Sindh & Ors",
+    "Muhammad Yaseen & another",
+    "Qadeer Muhammad & others",
+    "Muhammad Arshad S. Pathan",
+    "Ahmed Murtaza A. Arab",
+    "Rafique Ahmed Dahri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

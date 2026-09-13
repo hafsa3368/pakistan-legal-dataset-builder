@@ -6,12 +6,18 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-5566 of 2025",
   "date_of_order": "09.08.2023",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Article 199 of the Constitution of Pakistan"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Humayun Bakht",
+    "Federation of Pakistan",
+    "NADRA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

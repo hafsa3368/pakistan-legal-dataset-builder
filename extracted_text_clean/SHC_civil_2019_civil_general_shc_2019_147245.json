@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "10.04.2019",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
@@ -18,7 +18,12 @@
     "PLD 1963 SC 382",
     "PLD 1995 Karachi 282"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Nadeem Akhtar",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Muhammad Ali Lakhani",
+    "Mr. Khalid Mahmood Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

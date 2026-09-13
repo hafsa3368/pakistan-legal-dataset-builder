@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "Civil Revision Application No. S-",
+  "case_number": "",
   "date_of_order": "21.08.2025",
-  "judge": "",
+  "judge": "Ali Haider 'Ada'",
   "sections_cited": [
     "Section 10",
     "Section 11 of the Code",
@@ -18,7 +18,10 @@
     "2016 YLR 773",
     "2025 SCMR 1262"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman S/o Ameer Bux Mirani",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

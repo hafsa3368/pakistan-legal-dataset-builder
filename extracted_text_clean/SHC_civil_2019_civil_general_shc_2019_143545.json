@@ -8,13 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "24.04.2019",
-  "judge": "Khuhro/PA",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2010 Karachi 153",
     "PLD 2019 Sindh 1"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Waqar Ahmed, advocate for the petitioner",
+    "Mr. Abdul Qadir Anwar, advocate for the legal heirs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "",
+  "case_number": "C.P. Nos.D-7077",
   "date_of_order": "09.05.2018",
   "judge": "Irfan Saadat Khan Mr",
   "sections_cited": [
@@ -32,7 +32,12 @@
     "PLD 2005 SC 373",
     "PLD 2011 SC 44"
   ],
-  "parties": [],
+  "parties": [
+    "Government of Sindh",
+    "SESSI",
+    "other counsel",
+    "Employees'"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

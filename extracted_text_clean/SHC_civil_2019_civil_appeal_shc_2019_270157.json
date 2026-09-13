@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Criminal Appeal Nos",
+  "case_number": "Criminal Appeal Nos. 79",
   "date_of_order": "29.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 397 PPC",
     "Sections 392/397/34 PPC",
@@ -22,7 +22,16 @@
     "2023 MLD 1938",
     "2018 MLD 1495"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Raheem of Syed Karim",
+    "Muhammad Yameen son of Muhammad Farosh",
+    "The State",
+    "Shamimullah",
+    "Abdul Talib",
+    "I.O. SIP Muhammad Sarfaraz Hussain",
+    "Muhammad Naveed Idrees",
+    "Subhan Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

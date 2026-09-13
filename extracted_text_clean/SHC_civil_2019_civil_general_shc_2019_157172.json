@@ -9,9 +9,15 @@
   "case_number": "Civil Petitions No.549",
   "date_of_order": "25.01.2022",
   "judge": "Aftab Ahmed Gorar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Haider",
+    "Military Accounts (MES)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

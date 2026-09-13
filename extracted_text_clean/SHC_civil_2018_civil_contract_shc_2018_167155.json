@@ -6,10 +6,13 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitution does not",
+  "case_number": "",
   "date_of_order": "17.05.2022",
   "judge": "Naimatullah Phulpoto Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2001 SCMR 1161",
     "2013 SCMR 1687",
@@ -19,7 +22,12 @@
     "PLD 1993 SC 341",
     "PLD 2010 SC 265"
   ],
-  "parties": [],
+  "parties": [
+    "Yasmin & 327 Petitioners",
+    "Mr. Abdul Nabi Joyo, advocate",
+    "Mr. Muhammad Nishat Warsi, DAG",
+    "Pir Riaz Muhammad Shah, advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

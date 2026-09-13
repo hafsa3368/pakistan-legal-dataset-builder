@@ -8,12 +8,25 @@
   "num_chunks": 3,
   "case_number": "Civil Suit No.68 of 2017",
   "date_of_order": "22.01.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Akbar Sarwana",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Divisional Bench’s judgment of this Court in 2005 MLD 60",
+    "Federation of Pakistan vs. ASPI, PLD 1960 (W.P.) Karachi 562",
+    "PLD 2016 S.C. 478",
+    "PLD 2006 S.C. 432",
+    "PLD 1963 (W.P.) Karachi 155"
+  ],
   "citations": [
     "2005 MLD 60"
   ],
-  "parties": [],
+  "parties": [
+    "Ejaz Farooq",
+    "Muhammad Aslam",
+    "Mr. Usman Farooq",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

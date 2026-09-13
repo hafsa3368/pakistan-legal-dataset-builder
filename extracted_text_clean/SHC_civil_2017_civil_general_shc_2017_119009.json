@@ -6,12 +6,22 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.NO.S-1269 of 2017",
   "date_of_order": "09.10.2017",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ayatullah Khawaja",
+    "Mr. Sher Muhammad Leghari",
+    "Inspector Manzoor Ali",
+    "DIGP Hyderabad",
+    "Inspector Yousuf Tagar",
+    "CIA Tando Allahyar",
+    "SIP Riaz Soomro",
+    "SHO P.S B-Section Tando Allahyar",
+    "Addl.SHO of P.S A- Section Tando Allahyar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,14 @@
   "case_number": "Criminal Jail Appeal No.S-73 of 2018",
   "date_of_order": "05.05.2025",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 365-B PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Harichand and others",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

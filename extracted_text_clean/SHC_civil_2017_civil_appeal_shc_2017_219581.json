@@ -8,12 +8,17 @@
   "num_chunks": 5,
   "case_number": "Civil Appeal No.S-37 of 2017",
   "date_of_order": "22.04.2024",
-  "judge": "Faisal Mumtaz/PS",
+  "judge": "Faisal Mumtaz",
   "sections_cited": [
     "Section 96 of the Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Imdad Ali son of Muhammad Haroon",
+    "Najeebullah son of Haji Abdul Wahid",
+    "Imdad Petroleum Service",
+    "M/s Najeeb Jatoi Petroleum Services"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

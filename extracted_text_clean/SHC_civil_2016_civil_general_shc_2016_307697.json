@@ -6,12 +6,27 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "C.P. No. D-5229 of 2016",
   "date_of_order": "11.03.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Zulfiqar Ali Sangi For",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mehmood Salahuddin",
+    "Sindh Labour Appellate Tribunal and another",
+    "M/s. Pakistan Security Printing Corporation (Pvt.) Ltd.",
+    "Mehmood Salahuddin and others",
+    "M/s. Ch. Azhar Ellahi",
+    "Mohsin",
+    "Mr. Sardar Sultan Jahangir Khan",
+    "Ms. Wajiha Mahdi",
+    "Mr. Abdul Jaleel Zubedi",
+    "Mr. Shahzad Ahmed",
+    "Pakistan Security Printing Corporation (Pvt.) Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

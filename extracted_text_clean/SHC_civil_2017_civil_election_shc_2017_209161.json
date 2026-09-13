@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Election appeal No.S-46 of 2024",
   "date_of_order": "09.01.2024",
   "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
@@ -18,7 +18,17 @@
     "Section 140"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Mubeen",
+    "Mubeen Ahmed",
+    "Election Commission of Pakistan",
+    "Election Officer Sanghar",
+    "Mr. Ali Gul Abbasi",
+    "Mr. Muhammad Zubair Malik",
+    "Mr. Zeeshan Hyder",
+    "Mr. Dareshani Ali Hyder",
+    "Mr. Muhammad Umair"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

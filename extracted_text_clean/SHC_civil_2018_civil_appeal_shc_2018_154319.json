@@ -8,13 +8,19 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.556 of 2019",
   "date_of_order": "26.01.2021",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 392/394/397/34 PPC",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zubair Ahmed",
+    "Abdul Rasheed",
+    "State",
+    "Raja Rashid Ali",
+    "Ms. Shehzana Latif, Assistant Prosecutor General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

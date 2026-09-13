@@ -8,10 +8,22 @@
   "num_chunks": 12,
   "case_number": "Constitutional Petition No.D-54 of 2016",
   "date_of_order": "01.04.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mirza Naseem Baig",
+    "The Administrator, K.E.S.C. Employees Cooperative Housing Society",
+    "K.E.S.C. Employees Co-operative Housing Society Ltd.",
+    "Malir Cantonment",
+    "Province of Sindh",
+    "District Officer, Cooperative Societies",
+    "Sub-Registrar-II, Gulshan-e-Iqbal",
+    "Board of Revenue"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

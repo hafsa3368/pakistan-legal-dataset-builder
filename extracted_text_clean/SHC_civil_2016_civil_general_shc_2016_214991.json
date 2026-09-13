@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No. D-1545 of 2022",
-  "date_of_order": "",
+  "date_of_order": "16-05-2024",
   "judge": "Karim Memon",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Manzoor Ahmed Phulpoto",
+    "Province of Sindh",
+    "Education and Literacy Department Government of Sindh",
+    "Mr. Waqar Ahmed Phulpoto",
+    "Mr. Shehryar Imdad Awan",
+    "Nasim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

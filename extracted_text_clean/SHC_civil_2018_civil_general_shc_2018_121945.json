@@ -6,12 +6,18 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-3544 of 2017",
   "date_of_order": "16.01.2018",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bagchand Bheel",
+    "Mr. Muhammad Ismail Bhutto",
+    "Learned Counsel",
+    "the petitioner",
+    "the respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

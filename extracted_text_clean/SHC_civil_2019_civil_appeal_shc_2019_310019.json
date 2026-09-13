@@ -9,9 +9,19 @@
   "case_number": "",
   "date_of_order": "14.04.2026",
   "judge": "Muhammad Iqbal Kalhoro",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Syed Manzoor Ali",
+    "Haji Adam Khan Jokhio",
+    "Mr. Qamar Abbas Abbasi",
+    "M/s Ari",
+    "M/s Usman S/o Sadiq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

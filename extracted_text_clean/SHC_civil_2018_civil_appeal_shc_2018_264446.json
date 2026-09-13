@@ -8,13 +8,23 @@
   "num_chunks": 3,
   "case_number": "Criminal Revision No.27 of 2021",
   "date_of_order": "03.03.2021",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 337-F",
     "Section 341 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wajid Ali",
+    "Lutif Ali",
+    "Syed Abdullah Shah",
+    "Riaz Ali",
+    "Irshad Ali Shah",
+    "The State",
+    "Mr. Habibullah G. Ghouri",
+    "Mr. Nazir Ahmed Bangwar",
+    "Dr. Abdul Aziz Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

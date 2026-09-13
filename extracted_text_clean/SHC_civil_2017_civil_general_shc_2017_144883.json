@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "civil courts.- No civil",
+  "case_number": "MA 2 No. 290/2020",
   "date_of_order": "21-02-2020",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 16",
     "section 2 of the Act",
@@ -27,7 +27,12 @@
     "2011 SCMR 1886",
     "PLD 1993 Lah 390"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Zain ul Abideen",
+    "Federal Board of Revenue",
+    "Deputy Commissioner Inland Revenue",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Election appeal No.S-45 of 2024",
   "date_of_order": "09.01.2024",
   "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
@@ -18,7 +18,14 @@
     "Section 140"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Mubeen",
+    "Deedar Ali",
+    "Election Commission of Pakistan",
+    "Muhammad Zubair Malik",
+    "Muhammad Zubair Malik",
+    "Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Acquittal Appeal No.767 of 2022",
+  "case_number": "",
   "date_of_order": "13.05.2025",
-  "judge": "",
+  "judge": "KHALID HUSSAIN SHAHANI",
   "sections_cited": [
     "Section 417",
     "Section 265-K Cr.P.C"
@@ -17,7 +17,12 @@
     "2010 SCMR 1254",
     "2016 SCMR 1931"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sarfaraz",
+    "The State",
+    "Mst. Gul Cheher",
+    "Muhammad Junaid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

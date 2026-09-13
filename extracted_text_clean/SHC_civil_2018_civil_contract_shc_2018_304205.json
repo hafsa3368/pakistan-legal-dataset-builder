@@ -6,15 +6,20 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-1680 of 2025",
   "date_of_order": "27.11.2025",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [
     "Sections 365-B, 458 and 34 PPC",
     "Section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed Dahri",
+    "Assistant A.G Sindh",
+    "Mr. Nazar Muhammad Memon",
+    "Investigation Officer SIP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

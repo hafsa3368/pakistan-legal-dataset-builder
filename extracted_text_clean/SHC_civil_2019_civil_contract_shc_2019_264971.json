@@ -8,10 +8,17 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "17.01.2025",
-  "judge": "JUDGE Tahseen/PA",
-  "sections_cited": [],
+  "judge": "Zafar Ahmed Rajput",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Rasheed s/o Noor Muhammad",
+    "Muhammad Raees S/o. Mashiullah",
+    "The Presiding Officer, Court of XIVth Additional District Judge, Karachi (East)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

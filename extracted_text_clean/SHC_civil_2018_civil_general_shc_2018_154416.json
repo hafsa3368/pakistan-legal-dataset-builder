@@ -6,12 +6,22 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-1796 of 2018",
   "date_of_order": "08.10.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kafeel Ahmed Abbasi",
+    "Deputy Attorney General",
+    "Mr. Hussain Bohra",
+    "Assistant Attorney General",
+    "Federation of Pakistan and others",
+    "Premier Systems (Pvt.) Ltd. and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Pett.No.D-1617 of 2025",
+  "case_number": "",
   "date_of_order": "16.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "s. 498 Cr.P.C.",
+    "s. 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Parvez Ali Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

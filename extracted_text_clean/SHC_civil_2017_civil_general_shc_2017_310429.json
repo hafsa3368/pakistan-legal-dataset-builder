@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Miscellaneous Application No.4600 of 2024",
   "date_of_order": "13.04.2026",
-  "judge": "",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Sections 22-A and 22-B",
     "Sections 221 and 222",
@@ -19,7 +19,11 @@
     "2025 YLR 2230",
     "2025 SCMR 1123"
   ],
-  "parties": [],
+  "parties": [
+    "Altaf Hussain Rind",
+    "The State and others",
+    "Maroof Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

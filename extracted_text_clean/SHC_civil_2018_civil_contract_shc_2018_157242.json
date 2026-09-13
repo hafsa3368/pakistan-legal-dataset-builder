@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "civil suits was not",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "31-01-2022",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 120 CPC",
     "sections 16, 17 and 20 CPC",
@@ -29,7 +29,15 @@
     "PLD 2010 Kar 261",
     "PLD 2013 Sindh 80"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ayan Mustafa Memon",
+    "Mr. Fayyaz Ali Metlo",
+    "Mr. Pervez Ahmed Mastoi",
+    "The Province of Sindh",
+    "Shah Abdul Latif University",
+    "Sindh Public Procurement Regulatory Authority",
+    "consultant (no name mentioned)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

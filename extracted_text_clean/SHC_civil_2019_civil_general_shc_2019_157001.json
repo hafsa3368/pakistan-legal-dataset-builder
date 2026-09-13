@@ -8,14 +8,27 @@
   "num_chunks": 12,
   "case_number": "Constitutional Petition No.D-5987 of 2021",
   "date_of_order": "22.03.2018",
-  "judge": "JUDGE Nadir/PA",
+  "judge": "Abdul Jabbar Shahani",
   "sections_cited": [
     "Sections 14 & 15"
   ],
   "citations": [
     "2021 SCMR 1204"
   ],
-  "parties": [],
+  "parties": [
+    "Waqar Ali Khoso & 60 others",
+    "The Government of Sindh and 03 others",
+    "Sajid Ali Shahani and 28 others",
+    "Province of Sindh and 03 others",
+    "Ali Safdar Depar",
+    "Sikandar Memon",
+    "Mr. Abdul Salam Memon",
+    "Ms. Rabya Javed",
+    "Mr. Zamir Hussain Ghumro",
+    "Mr. Faizan Hussain Memon",
+    "Mr. Abdul Jabbar Shahani",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Civil Appeal Nos",
+  "case_number": "",
   "date_of_order": "26.02.2026",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Section 100 of the Code",
     "Section 96 CPC",
@@ -19,7 +19,12 @@
     "2012 SCMR 930",
     "PLD 2012 Sindh 92"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Memona Arshi",
+    "Mst. Rani Akhtar and others",
+    "Mst. Suriya Siddiqui",
+    "Mst. Rani Akhtar and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

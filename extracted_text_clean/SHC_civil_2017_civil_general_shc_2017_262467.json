@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitutional jurisdiction is not",
+  "case_number": "",
   "date_of_order": "22-4-2025",
   "judge": "Sana Akram Minhas",
   "sections_cited": [
@@ -15,7 +15,22 @@
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Murtaza Lahbar",
+    "Province of Sindh",
+    "Pakistan Post Office Workers Cooperative Housing Society",
+    "Abdul Jalil Zubedi",
+    "Respondent No. 3",
+    "Registrar, Cooperative Societies Sindh",
+    "Mr. Aamir Aziz Khan",
+    "Mr. Babar Ali Shaikh",
+    "M/s Fayaz Ali Metlo",
+    "Ms. Adeela Ansari",
+    "Ms. Aliya Manzoor",
+    "Mr. Ghous Bux",
+    "Mr. Shahryar Qazi",
+    "Mr. Hasnain Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -31,7 +31,13 @@
     "PLD 1997 SC 408",
     "PLD 2006 SC 61"
   ],
-  "parties": [],
+  "parties": [
+    "Sardar Ali",
+    "The State",
+    "Mr. Ameet Kumar",
+    "Mr. Habib Ahmed",
+    "ANF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

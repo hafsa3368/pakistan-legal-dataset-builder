@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "misconceived and merit no consideration",
+  "case_number": "",
   "date_of_order": "07.11.2023",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -17,7 +17,17 @@
     "Section 47"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Basit Khan",
+    "Bank Islami Pakistan Limited",
+    "Shakil-ur-Rehman",
+    "Muhammad Fayyaz",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Jawad Akbar Sarwana",
+    "Mr. Muhammad Ali Waris Lari",
+    "Mr. Faiz Durrani",
+    "Mr. Sohail Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

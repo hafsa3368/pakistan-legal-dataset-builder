@@ -6,12 +6,18 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-229 of 2025",
   "date_of_order": "17.11.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Karar Hussain",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mukhtiar Ahmed",
+    "The Province of Sindh and Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

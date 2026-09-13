@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "",
   "date_of_order": "12.03.2026",
-  "judge": "",
+  "judge": "Muhammad Hasan (Akber)",
   "sections_cited": [
     "section 12 CPC"
   ],
@@ -17,7 +17,10 @@
     "2009 SCMR 1079",
     "1997 MLD 2964"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Muhammad, Faisal and Qaiser Riaz",
+    "Jan Ali Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

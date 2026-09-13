@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1491 of 2022",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "26.06.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Achar Khan Gabol",
+    "Mr. Sohail Ahmed Khoso",
+    "Mr. Niaz Hussain Maitlo",
+    "Vice Chancellor, Shah Abdul Latif University, Khairpur",
+    "Controller of Examinations"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

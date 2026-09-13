@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "Civil Appeal No.S-04 of 2020",
   "date_of_order": "18.03.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "JAWAD AKBAR SARWANA",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saleem Ali Chandio",
+    "Syed Abid Hussain Shah",
+    "Syed Khadim Hussain Shah",
+    "Abdul Raheem Chandio",
+    "Mazhar Ali Bhutto",
+    "Abdul Waris Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

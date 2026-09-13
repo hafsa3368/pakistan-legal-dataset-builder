@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "01.02.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "A.Rasheed",
+  "sections_cited": [
+    "U/s 353, 147,148 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ismail Bhutto",
+    "Syed Meeral Shah Bukhari",
+    "DSP G.Qadir Shaikh",
+    "Inspector Nadeem Chanar",
+    "SHO P.S.Jam Datar",
+    "Benazirabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

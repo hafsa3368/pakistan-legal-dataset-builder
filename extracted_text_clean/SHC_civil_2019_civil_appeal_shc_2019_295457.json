@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "civil suit No.201/2023",
   "date_of_order": "28.10.2025",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 100",
     "Section 96",
@@ -21,7 +21,17 @@
     "PLD 1965 SC 134",
     "PLD 1994 SC 291"
   ],
-  "parties": [],
+  "parties": [
+    "Nawab Zada",
+    "Muhammad Younis",
+    "Muhammad Younis",
+    "Muhammad Younis",
+    "Muhammad Younis",
+    "Muhammad Younis",
+    "Muhammad Younis",
+    "Muhammad Younis",
+    "Muhammad Younis"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

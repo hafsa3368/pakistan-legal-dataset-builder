@@ -6,12 +6,16 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Pett No.D-1571 of 2025",
+  "case_number": "",
   "date_of_order": "24.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed Muhammadi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

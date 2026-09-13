@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Appeal No 339/2019",
   "date_of_order": "14.03.2025",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN,",
   "sections_cited": [
     "Section 100",
     "section 100 of the CPC",
@@ -24,7 +24,10 @@
     "PLD 1965 SC 134",
     "PLD 1994 SC 291"
   ],
-  "parties": [],
+  "parties": [
+    "Mrs. Shehla Hussain and another",
+    "M/s. Habib Bank Ltd and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

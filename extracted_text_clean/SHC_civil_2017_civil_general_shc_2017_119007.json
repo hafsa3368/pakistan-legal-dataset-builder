@@ -6,12 +6,23 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.NO.S-1229 OF 2017",
   "date_of_order": "02.10.2017",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imtiaz Ali Mahar",
+    "Abdul Haq",
+    "Ghulam Nabi",
+    "Ghulam Sarwar",
+    "Abdul Rasool",
+    "Ghulam Rasool",
+    "the petitioner",
+    "the private respondents",
+    "the official respondents",
+    "the police"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "30.10.2017",
   "judge": "Irfan Saadat Khan Mr",
   "sections_cited": [
@@ -30,7 +30,10 @@
     "PLD 1975 SC 506",
     "PLD 2015 SC 401"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "Airport Security Force"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

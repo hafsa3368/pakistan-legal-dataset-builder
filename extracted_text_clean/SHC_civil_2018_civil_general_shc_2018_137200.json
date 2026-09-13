@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "",
   "date_of_order": "26.02.2019",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "Section 80 of the Customs Act"
   ],
@@ -16,7 +16,14 @@
     "1989 SCMR 353",
     "PLD 1970 SC 453"
   ],
-  "parties": [],
+  "parties": [
+    "Ikramullah and Others",
+    "Federation of Pakistan & Others",
+    "Khitab Khan & Others",
+    "Federation of Pakistan & Others",
+    "Jehanzeb & Others",
+    "Federation of Pakistan & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

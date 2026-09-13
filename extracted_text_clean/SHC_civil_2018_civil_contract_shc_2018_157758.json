@@ -9,12 +9,20 @@
   "case_number": "",
   "date_of_order": "27.10.2010",
   "judge": "Aftab Ahmed Gorar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2015 SCMR 365",
     "PLD 1970 SC 203"
   ],
-  "parties": [],
+  "parties": [
+    "Mahmood Zamir Farooqui",
+    "Mr. Abdul Salam Memon",
+    "Mr. Muhammad Nishat Warsi",
+    "Mr. Ghulam Rasool Korai"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

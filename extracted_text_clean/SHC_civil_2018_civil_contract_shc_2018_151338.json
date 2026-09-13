@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "MA No. 12658/2018",
   "date_of_order": "08-02-2021",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 55 of the Contract Act"
   ],
@@ -17,7 +17,11 @@
     "2003 SCMR 1261",
     "PLD 2003 SC 430"
   ],
-  "parties": [],
+  "parties": [
+    "Mrs. Tahera Iqbal Kazi and another",
+    "Mrs. Naseem Abid Khan and others",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

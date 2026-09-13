@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Constitution Petition No. D-96 of 2019",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "25.04.2024",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nadeem Abbas Mallah",
+    "Province of Sindh",
+    "School Education Department Government of Sindh",
+    "Mureed Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

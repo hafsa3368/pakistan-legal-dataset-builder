@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "01.03.2021",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -29,7 +29,28 @@
     "2020 YLR 1103",
     "2015 SCMR 74"
   ],
-  "parties": [],
+  "parties": [
+    "Faisal Rasheed",
+    "Muhammad Jamil Khan",
+    "Muhammad Naveed",
+    "Syed Khawaja Najeeb Ullah",
+    "Nudrat Buland Iqbal",
+    "Muhammad Yusuf Sheikh",
+    "Rahim",
+    "Syed Hussain Ahmed Qadri",
+    "Muhammad Mohsin Abbasi",
+    "Syed Ali Hasnain Zaidi",
+    "Waseem Ullah",
+    "Rehan Ali",
+    "Mr. Mujtaba Sohail Raja",
+    "Mr. Tariq Mehmood",
+    "Mr. Raj Ali Wahid Kunwar",
+    "Dr. Rana Khan",
+    "Mr. Shoaib Ali Khatyan",
+    "Mr. Fayyaz Ali Metlo",
+    "Mr. Rana Aziz",
+    "Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

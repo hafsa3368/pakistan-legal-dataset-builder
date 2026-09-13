@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Civil Appeal No.S-32 of 2020",
   "date_of_order": "19.01.2024",
-  "judge": "Suleman Khan/PA",
+  "judge": "Suleman Khan",
   "sections_cited": [
     "Section 96 of the Code"
   ],
@@ -18,7 +18,10 @@
     "2016 SCMR 1403",
     "PLD 2021 Sindh 103"
   ],
-  "parties": [],
+  "parties": [
+    "Ashique Ali Sahito",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

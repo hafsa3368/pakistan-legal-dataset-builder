@@ -6,12 +6,24 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitutional Petition No. S",
+  "case_number": "",
   "date_of_order": "04.01.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Ahmer Hameed",
+    "Mst. Iqbal-un-Nisa Begum",
+    "Syed Saeed Hasan Zaidi",
+    "Mr. Roomi Iqbal",
+    "Ms. Noshaba Haque Solangi",
+    "Ms. Shehzana Latif",
+    "Abdullah Memon",
+    "A. Khaliq Khan Zai"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

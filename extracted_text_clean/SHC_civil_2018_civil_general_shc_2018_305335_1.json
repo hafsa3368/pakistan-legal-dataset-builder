@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Constitutional Petition No. D-4800 of 2025",
   "date_of_order": "28.08.2024",
-  "judge": "JUDGE SHAFI",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 32A of the Customs Act",
     "Section 8",
@@ -29,7 +29,11 @@
     "PLD 2016 SC 570",
     "PLD 2007 SC 642"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Furqan Khalid",
+    "Federation of Pakistan",
+    "M/s Ermi Fresh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

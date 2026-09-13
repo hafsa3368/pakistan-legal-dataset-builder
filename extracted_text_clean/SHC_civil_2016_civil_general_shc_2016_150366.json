@@ -6,14 +6,38 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "17.03.2021",
   "judge": "Muhammad Shafi Siddiqui Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 1992 SC 207"
   ],
-  "parties": [],
+  "parties": [
+    "Majid Hussain Khokhar",
+    "Federation of Pakistan",
+    "Muhammad Adil",
+    "Federation of Pakistan and 10 others",
+    "Inayatullah",
+    "Federation of Pakistan and another",
+    "Tehseen Shahzad",
+    "Federation of Pakistan and another",
+    "Syed Ashiq Ali Shah",
+    "Federation of Pakistan and another",
+    "Manzoor Ali Jamali",
+    "Federation of Pakistan and another",
+    "Muhammad Javed",
+    "Federation of Pakistan and another",
+    "Inayatullah Gabol",
+    "Federation of Pakistan and another",
+    "Naseer Ahmed",
+    "Federation of Pakistan and another",
+    "Tariq Mateen",
+    "Federation of Pakistan and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

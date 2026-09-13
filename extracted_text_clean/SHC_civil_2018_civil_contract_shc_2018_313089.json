@@ -8,13 +8,22 @@
   "num_chunks": 2,
   "case_number": "Constitutional Petition No.D-590 of 2026",
   "date_of_order": "07.05.2026",
-  "judge": "",
+  "judge": "Alam Sher Khan Bozdar",
   "sections_cited": [
     "sections 452 and 365-B PPC",
     "section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Lubna",
+    "P.O.Sindh",
+    "Mr. Alam Sher Khan Bozdar",
+    "Mr. Israr Ahmed Shah",
+    "Mr. Gulzar Ahmed Malano",
+    "SIP Ghulam Safdar Bozdar",
+    "Aalia",
+    "Mr. Ali Akbar Leghari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -30,7 +30,11 @@
     "1992 SCMR 1300",
     "1980 SCMR 593"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shabbir",
+    "Syed Hanif Shah",
+    "Noor Muhammad Momin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

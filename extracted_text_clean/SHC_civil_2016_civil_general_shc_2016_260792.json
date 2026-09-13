@@ -8,10 +8,20 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "20.02.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Farhan Ali Shaikh",
+    "Mr. Ghulam Abbas Kubar",
+    "the petitioner",
+    "the party",
+    "the party/petitioner",
+    "learned counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,23 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA NO.85",
   "date_of_order": "03.05.2019",
   "judge": "Arshad Hussain Khan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Adil Abbas Khan",
+    "Abid Ali Khan",
+    "Mst. Saghir Fatima",
+    "Ghulam Nabi Murtaza Khan",
+    "Mst. Sadaf Fatima Khan",
+    "Adil Abbas Khan",
+    "Mst. Shafaq Zehra"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

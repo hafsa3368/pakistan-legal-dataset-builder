@@ -6,14 +6,21 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No. D-1088 of 2025",
   "date_of_order": "11.03.2026",
-  "judge": "JUDGE",
+  "judge": "Liaquat Ali Shar",
   "sections_cited": [
     "section 11 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Habibullah G. Ghouri, Ashfaque Hussain Abro, Faiz Muhammad Larik, Tufail Ahmed Kumbhar, Abdul Sami Soomro, Abdul Rehman Bhutto, Mansoor Ali Panhwar, Zuhaib Azam Rajput, Nisar Ahmed Abro, Javed Ahmed Soomro, Riaz Hussain Khoso, Abdul Qudoos Jatoi, Mujahid Ali Jatoi, Muhammad Afzal Jagirani & Ali Raza Pathan, Advocates for the Petitioners",
+    "Mr. Liaquat Ali Shar, Additional Advocate General, Sindh",
+    "Mr. Ghulam Farooq Leghari, Director General, SPDPA, DEPD, Karachi",
+    "Muhammad Daim Deputy Director, GVREC, SPDPA, Karachi",
+    "Saeed Ahmed Jatoi, Deputy Director, DEPD Larkana",
+    "Rakesh Lal, M.O on behalf District Health Officer, Larkana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "01.02.2018",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Raja Hansraj Naurang",
+    "Mr. Wali Muhammad Jamari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

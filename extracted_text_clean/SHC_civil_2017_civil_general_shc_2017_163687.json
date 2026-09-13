@@ -9,12 +9,18 @@
   "case_number": "Constitutional Petition No.D-567 of 2019",
   "date_of_order": "28.01.2022",
   "judge": "Aftab Ahmed Gorar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 1021",
     "PLD 1960 SC 81"
   ],
-  "parties": [],
+  "parties": [
+    "Nasir Ahmed",
+    "Port Qasim Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

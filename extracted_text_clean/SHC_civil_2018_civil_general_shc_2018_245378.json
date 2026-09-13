@@ -6,14 +6,23 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C.P. No. D-980 of 2020",
+  "date_of_order": "11-02-2025",
   "judge": "",
   "sections_cited": [],
   "citations": [
     "2018 SCMR 1328"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Ali Hussain",
+    "Mr. Arshad Hussain Shahzad",
+    "Syed Hamza Hashmi",
+    "Mr. Imran Ahmed",
+    "Mr. Ameer Bux Metlo",
+    "Mr. Asad Aftab Solangi",
+    "Ms. Alizeh Bashir",
+    "The Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

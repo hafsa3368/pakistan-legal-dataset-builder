@@ -9,11 +9,27 @@
   "case_number": "Constitutional Petition No. D-6684 of 2022",
   "date_of_order": "01.09.2025",
   "judge": "Head of Constitutional Benches",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C.",
+    "50% departmental quota",
+    "2005 Gazette of Pakistan SRO",
+    "ESTA Code"
+  ],
   "citations": [
     "2023 SCMR 111"
   ],
-  "parties": [],
+  "parties": [
+    "Hina Imran",
+    "Federation of Pakistan",
+    "Adnan-ul-Karim Memon",
+    "Muhammad Karim Khan Agha",
+    "Gul Muhammad Farooqui",
+    "Wajiha Mehdi",
+    "Liaquat Haroon",
+    "Abdul Hameed",
+    "Controller General of Accounts"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

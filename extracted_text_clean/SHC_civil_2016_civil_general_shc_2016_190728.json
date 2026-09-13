@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "constructed on the suit property. If not",
+  "case_number": "",
   "date_of_order": "01.03.2016",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 12 CPC",
     "section 47 CPC",
@@ -25,7 +25,14 @@
     "PLD 1963 Dacca 849",
     "PLD 1964 Dacca 202"
   ],
-  "parties": [],
+  "parties": [
+    "Jawed Sarwar",
+    "Rana Munir & another",
+    "Rana Munir Ahmed Khan",
+    "Mst. Abida Munir",
+    "Rana Ahsan",
+    "Maryam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

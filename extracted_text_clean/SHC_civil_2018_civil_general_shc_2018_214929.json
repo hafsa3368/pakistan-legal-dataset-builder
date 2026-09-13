@@ -7,13 +7,22 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No. D-321 of 2020",
-  "date_of_order": "",
+  "date_of_order": "14-05-2024",
   "judge": "Karim Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Rule 11-A of Civil Servants (Appointment, Promotion & Transfer) Rules, 1974"
+  ],
   "citations": [
     "2018 SCMR 1607"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shafique Solangi",
+    "Federation of Pakistan",
+    "President Zarai Tarqiati Bank Limited",
+    "Ghulam Qadir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

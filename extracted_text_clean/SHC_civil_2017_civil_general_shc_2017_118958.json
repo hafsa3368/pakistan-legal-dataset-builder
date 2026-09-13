@@ -6,12 +6,18 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.NO.S-1347 of 2017",
   "date_of_order": "15.09.2017",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gulab Khan Qaimkhani",
+    "Imtiaz Ali Mahar",
+    "Sohail Khaskheli",
+    "Muhammad Mithal",
+    "Akhlaque Ahmed Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

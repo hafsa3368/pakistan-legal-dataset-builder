@@ -6,16 +6,21 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-5453 of 2015",
   "date_of_order": "20.05.2019",
-  "judge": "",
+  "judge": "Durdana Tanveer DAG",
   "sections_cited": [
     "section 114",
     "Section 151 CPC",
     "Section 114 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Riaz Ahmed Bhatti, Advocate for the Applicant",
+    "Mr. Muhammad Akram Javed, Special Prosecutor NAB",
+    "Ms. Durdana Tanveer DAG",
+    "NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

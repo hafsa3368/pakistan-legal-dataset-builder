@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Petition NO. 4266/2018",
   "date_of_order": "18.11.2025",
-  "judge": "JUDGE Aadil Arab",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "Sections 36, 38, 37"
   ],
@@ -21,7 +21,11 @@
     "PLD 2020 Sindh 611",
     "PLD 2011 Karachi 451"
   ],
-  "parties": [],
+  "parties": [
+    "City School (Pvt.) Limited, Karachi",
+    "Province of Sindh",
+    "The Works Cooperative Housing Society Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

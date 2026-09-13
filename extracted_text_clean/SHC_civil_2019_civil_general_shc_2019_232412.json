@@ -8,12 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "08.10.2019",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 494, 506/2"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mansoor Hussain Maitlo",
+    "Mr. Khalil Ahmed Pirzado",
+    "Syed Sardar Ali Shah Rizvi",
+    "Mr. Shahryar Imdad Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,20 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 315 of 2019",
   "date_of_order": "19.09.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Iktikhar Cutchi",
+    "Ibrahim Nawroz Ali Bhamani",
+    "Mr. Shahzeb Akhtar Khan",
+    "Mr. Danyal Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

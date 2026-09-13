@@ -8,10 +8,22 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "02.02.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sharif Buriro",
+    "Mr. Zeeshan Haider Qureshi",
+    "Mr. Ahmed Ali Shahani",
+    "Election Commission of Pakistan",
+    "Assistant Advocate General Sindh",
+    "Polling Station GPS Khanan Buriro",
+    "District Returning Officer",
+    "Returning Officer",
+    "Community Hall Nek Muhammad Buriro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

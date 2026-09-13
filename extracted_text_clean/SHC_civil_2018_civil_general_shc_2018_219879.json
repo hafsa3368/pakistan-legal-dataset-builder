@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-250 of 2018",
   "date_of_order": "22.02.2023",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Raza Soomro, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

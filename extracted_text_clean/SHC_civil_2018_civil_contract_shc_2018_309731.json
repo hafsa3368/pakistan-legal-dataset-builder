@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "constituted a valid grievance notice",
+  "case_number": "C.P. No. D-2361 of 2022",
   "date_of_order": "25.03.2026",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 58",
     "Section 33",
@@ -19,7 +19,12 @@
   "citations": [
     "2024 SCMR 71"
   ],
-  "parties": [],
+  "parties": [
+    "Ms. Nazia Tariq",
+    "M/s Karachi Electric",
+    "Mr. Ayan Mustafa Memon",
+    "Ms. Wajiha Mehdi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

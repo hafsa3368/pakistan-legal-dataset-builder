@@ -30,7 +30,10 @@
     "PLD 1995 Lahore 405",
     "PLD 2012 Sindh 293"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Waheed Khan",
+    "Khush Muhammad Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

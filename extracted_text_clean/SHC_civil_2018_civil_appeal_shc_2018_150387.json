@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Civil Appeal No.21 of 2018",
   "date_of_order": "01.02.2021",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 115",
     "section 115"
@@ -18,7 +18,12 @@
     "PLD 2000 SC 820",
     "PLD 2012 Sindh 92"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Hussain @ Ghulamoon",
+    "Mst. Sibyani",
+    "Muhammad Ismail s/o Phullo Sheedi",
+    "Piyaro son of Phullo Sheedi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

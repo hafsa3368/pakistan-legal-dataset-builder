@@ -6,9 +6,9 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "civil suit and is not",
+  "case_number": "",
   "date_of_order": "27th January, 2025",
-  "judge": "",
+  "judge": "Sana Akram Minhas",
   "sections_cited": [
     "Section 191 of the Act",
     "Section 19 of Act",
@@ -37,7 +37,13 @@
     "2024 SCMR 1059",
     "1989 MLD 3281"
   ],
-  "parties": [],
+  "parties": [
+    "All Pakistan Restaurant Association & Others",
+    "Province of Sindh & Others",
+    "Sindh Food Authority",
+    "Government of Sindh",
+    "Mr. Rajesh Kumar Khagaija"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

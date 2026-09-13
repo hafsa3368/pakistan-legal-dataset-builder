@@ -6,16 +6,20 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "civil dispute with respondent No.8",
+  "case_number": "C.P No.S-56 of 2026",
   "date_of_order": "26.01.2026",
-  "judge": "",
+  "judge": "Mr.Sher Dil Ansari",
   "sections_cited": [
     "Sections 22"
   ],
   "citations": [
     "PLD 2016 SC 581"
   ],
-  "parties": [],
+  "parties": [
+    "Nisar Shah",
+    "Province of Sindh",
+    "other respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

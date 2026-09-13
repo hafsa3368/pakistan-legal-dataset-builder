@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "01.02.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mukesh Kumar G. Karara",
+    "Pakistan Railways",
+    "Mr. Ghulam Abbas Akhtar",
+    "Mr. Ashfque Hussain Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

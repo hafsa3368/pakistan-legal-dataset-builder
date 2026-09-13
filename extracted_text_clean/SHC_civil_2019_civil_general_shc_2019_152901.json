@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "constructed on Plot No. FL-16",
+  "case_number": "",
   "date_of_order": "20.08.2021",
   "judge": "Arshad Hussain Khan",
   "sections_cited": [
@@ -16,7 +16,11 @@
     "1996 SCMR 696",
     "2003 SCMR 1261"
   ],
-  "parties": [],
+  "parties": [
+    " plaintiff",
+    "defendant No.1",
+    "defendant No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

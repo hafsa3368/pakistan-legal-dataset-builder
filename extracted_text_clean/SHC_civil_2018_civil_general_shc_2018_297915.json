@@ -8,10 +8,23 @@
   "num_chunks": 5,
   "case_number": "Const. Petition No.S-272 of 2020",
   "date_of_order": "08.12.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Nisar Ahmed Bhanbhro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 16 of the Limitation Act, 1966",
+    "Section 13 of the Limitation Act, 1966"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nisar Ahmed and another",
+    "Amarnath Motumal and others",
+    "Noor Mohammad and others",
+    "Abdul Rehman and others",
+    "Badaruddin and others",
+    "Vado Akharo Trust",
+    "Ashok Kumar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

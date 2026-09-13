@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Civil Appeal No. S-",
+  "case_number": "",
   "date_of_order": "27 May 2024",
-  "judge": "",
+  "judge": "MOHAMMAD ABDUR RAHMAN,",
   "sections_cited": [
     "Section 96 of Code",
     "Section 489-F of the Pakistan Penal Code",
@@ -20,7 +20,12 @@
     "1972 SCMR 332",
     "PLD 1963 SC 163"
   ],
-  "parties": [],
+  "parties": [
+    "Shahbaz Ahmed",
+    "Abdul Khalique",
+    "Mr. Rana Hafiz Tanveer Ahmed",
+    "Mr. Achar Khan Gabole"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

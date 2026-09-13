@@ -9,9 +9,16 @@
   "case_number": "Constitutional Petition No.D-6845 of 2016",
   "date_of_order": "14.01.2020",
   "judge": "Nadeem Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Junaid Ahmed",
+    "Province of Sindh",
+    "3 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -17,7 +17,16 @@
     "2016 SCMR 992",
     "PLD 2016 SC 637"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "petitioner",
+      "name": "Dr. Gulshan Ali Memon"
+    },
+    {
+      "type": "respondent",
+      "name": "Province of Sindh & others"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

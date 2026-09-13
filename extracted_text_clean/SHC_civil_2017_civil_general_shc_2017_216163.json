@@ -6,10 +6,12 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitution Petitions Nos",
+  "case_number": "CP No.S-2319 of 2017",
   "date_of_order": "06.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Faisal Kamal Alam",
+  "sections_cited": [
+    "Section 2 of the Landlord and Tenant Act, 1897"
+  ],
   "citations": [
     "2006 SCMR 152",
     "2000 SCMR 472",
@@ -18,7 +20,15 @@
     "2013 CLC 1541",
     "2015 CLC 238"
   ],
-  "parties": [],
+  "parties": [
+    "Adam Ali Mohammad Ali Lotia, Ms. Naheed Lotia, Naveed Abbas Lotia",
+    "Standard Chartered Bank Ltd.",
+    "Express Services",
+    "Texcot International",
+    "Banaras House",
+    "M/s. Raizeda (Pvt.) Ltd.",
+    "M/s. A.F. Container System"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

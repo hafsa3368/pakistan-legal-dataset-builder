@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "MA No.8792/2017",
   "date_of_order": "29.08.2023",
   "judge": "",
   "sections_cited": [
@@ -24,7 +24,10 @@
     "2018 SCMR 662",
     "PLD 2010 SC 705"
   ],
-  "parties": [],
+  "parties": [
+    "plaintiff",
+    "defendant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

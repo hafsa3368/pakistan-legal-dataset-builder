@@ -6,14 +6,18 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "20.04.2021",
   "judge": "Adnan Iqbal Chaudhry Constitutional Petition",
   "sections_cited": [
     "Section 13"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sahib Khan Lund Baloch",
+    "Province of Sindh",
+    "Mr. Ahmed Ali Ghumro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,14 +9,22 @@
   "case_number": "Constitutional Petition No.D-1786 of 2018",
   "date_of_order": "10.01.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2005 SCMR 100",
     "2015 SCMR 1257",
     "PLD 2010 SC 676",
     "PLD 2011 SC 132"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Nasir & 11 others",
+    "Ghulam Asghar Narejo & 31 others",
+    "Pakistan Steel Mill",
+    "Hadeed Welfare Trust"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

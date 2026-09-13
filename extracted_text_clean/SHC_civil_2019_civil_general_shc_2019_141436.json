@@ -6,12 +6,23 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-1534 of 2019",
   "date_of_order": "07.01.2019",
   "judge": "Fahad Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Qadir Bux",
+    "Mr. Salman Talbudin",
+    "Advocate General, Sindh",
+    "Allah Bachayo Soomro",
+    "Muhammad Ismail Bhutto",
+    "Dr. Shahid Islam",
+    "Focal Person LUH, Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

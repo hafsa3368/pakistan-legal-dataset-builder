@@ -6,10 +6,13 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "Constitution Petition Nos",
+  "case_number": "Constitution Petition Nos. D-1276",
   "date_of_order": "30.04.2025",
   "judge": "Muhammad Junaid Ghaffar",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 2039",
     "2020 SCMR 1499",
@@ -18,7 +21,15 @@
     "PLD 1989 SC 75",
     "PLD 1977 SC 507"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Abbott Laboratories Pakistan Limited",
+    "Federation of Pakistan",
+    "Drug Regulatory Authority of Pakistan",
+    "Ms. Mehreen Ibrahim",
+    "Mr. Abdullah Nizamani",
+    "Mr. Abdul Sattar Pirzada",
+    "Mr. Muhammad Inzimam Sharif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

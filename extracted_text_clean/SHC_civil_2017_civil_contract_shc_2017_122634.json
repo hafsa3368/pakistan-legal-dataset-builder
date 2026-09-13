@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "25.01.2018",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "A.Rasheed",
+  "sections_cited": [
+    "U/s 161 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zahid Hussain Rajput",
+    "Mr. Muhammad Ismail Bhutto",
+    "Syed Manzoor Ali",
+    "private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

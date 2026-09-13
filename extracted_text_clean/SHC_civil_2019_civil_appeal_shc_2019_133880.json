@@ -8,13 +8,17 @@
   "num_chunks": 2,
   "case_number": "Misc. No.36659",
   "date_of_order": "06.12.2018",
-  "judge": "JUDGE Nadir/PA",
+  "judge": "",
   "sections_cited": [
     "section 33 of the Industrial Relation Act",
     "section 58 of the Industrial Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Bank",
+    "DAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

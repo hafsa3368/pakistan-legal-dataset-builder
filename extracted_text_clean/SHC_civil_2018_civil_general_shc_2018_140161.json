@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "Misc. Application bearing No. 131/2018",
+  "case_number": "M.A. No. 10986 of 2018",
   "date_of_order": "26.04.2017",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 151 CPC",
     "Section 151",
@@ -35,7 +35,12 @@
     "2014 CLC 244",
     "1989 MLD 171"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. M. Ishaque Memon",
+    "Mr. Zeeshan Abdullah",
+    "Habib Trading Company",
+    "Summit Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

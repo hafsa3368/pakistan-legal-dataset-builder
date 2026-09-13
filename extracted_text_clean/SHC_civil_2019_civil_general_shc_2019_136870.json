@@ -6,12 +6,19 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.NO.D-2226 of 2018",
   "date_of_order": "27.02.2019",
-  "judge": "JUDGE Shahid",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Wahid Bux Aajiz Leghari",
+    "Mr. Muhammad Ismail Bhutto",
+    "petitioners",
+    "official respondents",
+    "No.2",
+    "No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

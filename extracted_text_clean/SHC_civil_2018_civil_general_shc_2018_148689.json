@@ -9,13 +9,26 @@
   "case_number": "Misc. Application No.570 of 2018",
   "date_of_order": "07.12.2020",
   "judge": "Shahid",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR 633",
     "2014 P. Cr.L.J 858",
     "2013 P.Cr.L.J. 1440"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mashooque Ali Bhurgri",
+    "Mr. Zaheeruddin S. Leghari",
+    "Mr. Shahid A. Shaikh",
+    "The State",
+    "Ashfaque Ali",
+    "Imtiaz Ali",
+    "Shahwez Ali Memon",
+    "Muhammad Iqbal",
+    "Muhammad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

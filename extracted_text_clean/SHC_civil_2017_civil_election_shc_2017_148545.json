@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 41,
-  "case_number": "constitution of Defendant No.1",
+  "case_number": "",
   "date_of_order": "22.09.2020",
   "judge": "Arshad Hussain Khan Mr",
   "sections_cited": [
@@ -34,7 +34,20 @@
     "2015 CLC 1",
     "1999 MLD 3173"
   ],
-  "parties": [],
+  "parties": [
+    "Advocate General Sindh",
+    "Rt. Rev. Sadiq Daniel",
+    "Victor Dass",
+    "Mr. Humphrey Sarfaraz Peter",
+    "Altamash Faisal Arab",
+    "Nadir Khan Burdi",
+    "Shaukat M. Ali",
+    "Muhammad Riaz Abbasi",
+    "Khawaja Shamsul Islam",
+    "M. Mansoor Mir",
+    "Abdul Razzaq",
+    "Iqbal Khurram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

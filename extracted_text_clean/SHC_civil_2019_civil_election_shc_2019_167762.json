@@ -7,15 +7,21 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "01-06-2022",
+  "judge": "Ch. Shahid Hussain Rajput",
   "sections_cited": [
     "Section 71"
   ],
   "citations": [
     "2019 CLC 1592"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Anwar Ali Lohar, Advocate for the Petitioners",
+    "Mr. Muhammad Hamzo Buriro, D.A.G.",
+    "Mr. Asfandyar Kharal, Assistant A.G.",
+    "Mr. Zeeshan Haider Qureshi, Law Officer, Election Commission",
+    "Ch. Shahid Hussain Rajput, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "",
   "date_of_order": "21.12.2012",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 16 of the Contract Act",
     "sections 168 and 169"
@@ -17,7 +17,13 @@
     "2018 CLC 1720",
     "2014 SCMR 1181"
   ],
-  "parties": [],
+  "parties": [
+    "Suriya Iqbal Chishti",
+    "Hassan-uz-Zaman Iqbal Chishti",
+    "Tariq Iqbal Chishti",
+    "Mrs. Rubina Majidulla",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

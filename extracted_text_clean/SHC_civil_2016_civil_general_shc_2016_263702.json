@@ -6,12 +6,19 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-4939 of 2024",
   "date_of_order": "09.05.2025",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 6"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sui Gas",
+    "SSGC",
+    "Mr. Waseem Akhtar",
+    "Mr. R.D. Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

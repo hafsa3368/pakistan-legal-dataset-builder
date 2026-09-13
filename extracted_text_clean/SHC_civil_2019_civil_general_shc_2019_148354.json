@@ -6,12 +6,24 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitutional Petition Nos",
+  "case_number": "Constitutional Petition Nos.D-1051/2019",
   "date_of_order": "17.12.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Syed Sultan Ahmed",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S Mirza Sarfaraz Ahmed",
+    "Nasir Abbas",
+    "Asif Ikram",
+    "Dr. Saif-ur-Rehman",
+    "Khair Muhammad",
+    "Mr. Ali Safdar Depar",
+    "Syed Najam Ahmed Shah",
+    "Shahab Qamar",
+    "Sikandar Hassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

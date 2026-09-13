@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No. 641 of 2022",
   "date_of_order": "12.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 410 of the Code",
     "Sections 466, 468, 477 PPC",
@@ -22,7 +22,20 @@
     "Sections 466, 468 or 477 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ashraf Qaimkhani",
+    "The State",
+    "Basharat",
+    "Ehtesham alias Baba",
+    "Arif Razzak Abbasi",
+    "Muhammad Hanif Abbasi",
+    "Safdar Ali Abbasi",
+    "Farooq Ahmed Bugti",
+    "Muhammad Ibrahim",
+    "Shoukat Ali",
+    "Muhammad Ilyas",
+    "Abdul Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

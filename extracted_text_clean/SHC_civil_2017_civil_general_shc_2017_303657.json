@@ -6,12 +6,22 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitutional jurisdiction cannot",
+  "case_number": "C.P No.D-2348 of 2017",
   "date_of_order": "22.01.2026",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Arbab Ali Hakro Justice Riazat",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jawad Ali and another",
+    "Province of Sindh and Others",
+    "Mr. Muhammad Arshad Pathan",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Waqar Ali Leghari",
+    "Israr Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

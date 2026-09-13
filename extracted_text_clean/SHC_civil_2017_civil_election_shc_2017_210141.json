@@ -8,12 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "01.02.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 59 of the Elections Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Election Commission of Pakistan",
+    "Mr. Nusrat Hussain Memon",
+    "Mr. Zeeshan Haider Qureshi",
+    "Mr. Dareshani Ali Haider",
+    "Mr. Ashfaque Hussain Abro",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

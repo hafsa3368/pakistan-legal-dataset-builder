@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "civil suit is generally not",
+  "case_number": "MA No. 7171/2018",
   "date_of_order": "11-02-2025",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 9 of the Land Acquisition Act",
     "section 9",
@@ -27,7 +27,13 @@
     "2018 SCMR 1444",
     "PLD 2007 SC 620"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Ruknuddin (Pvt.) Ltd.",
+    "Province of Sindh & others",
+    "Karachi Water & Sewerage Board",
+    "Project Director of Project K-4",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

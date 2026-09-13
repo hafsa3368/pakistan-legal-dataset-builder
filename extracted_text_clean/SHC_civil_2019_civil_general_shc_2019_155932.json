@@ -6,12 +6,17 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-6001 of 2021",
   "date_of_order": "22.11.2021",
-  "judge": "JUDGE",
+  "judge": "Irfan Saadat Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ashfaq Hussain & others",
+    "Province of Sindh, & others",
+    "Syed Bashir Hussain Shah",
+    "Mr. Ali Safdar Deepar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

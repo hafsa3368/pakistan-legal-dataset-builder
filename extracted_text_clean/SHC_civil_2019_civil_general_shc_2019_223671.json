@@ -6,10 +6,12 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "MA No.28114/2024",
   "date_of_order": "19.12.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2019 SCMR 1952",
     "2019 SCMR 532",
@@ -19,7 +21,16 @@
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Masood Ahmed Shah Bukhari",
+    "Malik Altaf Hussain",
+    "Mr. Sarmad Hani",
+    "Mr. Zarar Qadir Shoro",
+    "Mr. Kafil Ahmed Abbasi",
+    "Mr. Abdul Jabbar Shahani",
+    "Syed Imdad Ali Shah",
+    "Mr. Javed Ali Khawaja"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

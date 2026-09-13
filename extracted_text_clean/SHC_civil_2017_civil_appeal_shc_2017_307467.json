@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Appeal No.132 of 2017",
   "date_of_order": "18.12.2025",
-  "judge": "",
+  "judge": "MUHAMMAD HASAN (AKBER)",
   "sections_cited": [
     "section 2 of the Civil Procedure Code"
   ],
@@ -29,7 +29,10 @@
     "PLD 2008 SC 155",
     "PLD 2007 SC 609"
   ],
-  "parties": [],
+  "parties": [
+    "Shahabuddin",
+    "Shahnawaz and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

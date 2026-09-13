@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Civil Petition No.252-P of 2025",
   "date_of_order": "16.02.2026",
-  "judge": "",
+  "judge": "Nisar Ahmed Bhanbhro",
   "sections_cited": [
     "Section 10 of the Family Courts Act",
     "Section 10"
@@ -30,7 +30,12 @@
     "PLD 1992 Karachi 46",
     "PLD 2018 Peshawar 34"
   ],
-  "parties": [],
+  "parties": [
+    "Amna Jatoi",
+    "Jahanzeb",
+    "Mr. Raj Ali Wahid Kunwar",
+    "Ms. Pia Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

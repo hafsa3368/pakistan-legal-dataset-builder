@@ -8,14 +8,26 @@
   "num_chunks": 7,
   "case_number": "Constitutional Petition No.S-1015 of 2021",
   "date_of_order": "29.12.2021",
-  "judge": "",
+  "judge": "Scherazade Jamali",
   "sections_cited": [
     "Section 75 of the Family Law Act",
     "Section 77",
     "Section 231 of the Family Law Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sardar Muhammad Latif Khan Khosa",
+    "Mr. Baqar Mehdi",
+    "Mr. Tasadduq Nadeem",
+    "Hashim Jawad Gillani",
+    "Mr. Amer Raza Naqvi",
+    "Qazi Muhammad Bashir",
+    "Imran Jagirani",
+    "Inspector Ali Raza",
+    "S.P. Clifton, Karachi",
+    "Darakhshan Police Station, Karachi",
+    "Minor Hasan Syed Gillani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

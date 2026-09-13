@@ -6,12 +6,15 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-48 of 2018",
   "date_of_order": "30.01.2019",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imran Ashraf Panhwar",
+    "Mr. Rao Faisal Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

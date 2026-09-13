@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No. S-30 of 2020",
   "date_of_order": "26.05.2025",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 24 of Sindh Arms Act",
     "Section 382-B"
@@ -20,7 +20,10 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    "Nadir: Through Mr. Ashique Hussain son of Adam Laar Kalhoro",
+    "The State: Through Mr. Ali Anwar Kandhro, Addl. Prosecutor General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

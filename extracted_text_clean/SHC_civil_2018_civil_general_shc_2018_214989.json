@@ -9,12 +9,21 @@
   "case_number": "Constitution Petition No. D-23 of 2020",
   "date_of_order": "28.08.2014",
   "judge": "Karim Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2012 SCMR 686",
     "2018 SCMR 414"
   ],
-  "parties": [],
+  "parties": [
+    "Ms. Firdos Noor Malik",
+    "Province of Sindh",
+    "Mr. Alam Sher Bozdar",
+    "Mr. Ghulam Mustafa G.Abro",
+    "Dilawar Soomro AEO/Focal Person District Education Officer (ES&HS)",
+    "Government of Sindh Education Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

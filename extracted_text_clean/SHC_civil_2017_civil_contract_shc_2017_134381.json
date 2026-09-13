@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitutional Petition in hand is not",
+  "case_number": "C.P. No.D-4849 of 2018",
   "date_of_order": "17.12.2018",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "Section 114 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Shahab Sarki & Meraj-u-ddin, Advocates",
+    "Respondent-Bank",
+    "Mr. Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

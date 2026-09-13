@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "11.02.2019",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 34 of the Code",
     "Section 138 of the Indian Negotiable Instruments Act",
@@ -17,7 +17,11 @@
     "Section 79 of the Negotiable Instruments Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pervaiz Hussain",
+    "Sameer Pervaiz Hussain",
+    "Mian Khurram Rasool"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,22 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "11.03.2021",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [],
   "citations": [
     "2019 SCMR 124"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Nabi",
+    "Province of Sindh",
+    "Muhammad Abid Khan",
+    "Government of Sindh",
+    "Mr. Raghib Ibrahim Junejo",
+    "Mr. Taj Fareen Khan",
+    "Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

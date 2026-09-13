@@ -6,12 +6,22 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No. D-7590 of 2019",
   "date_of_order": "29.10.2021",
-  "judge": "JUDGE SM",
-  "sections_cited": [],
+  "judge": "Irfan Saadat Khan",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Nabi",
+    "The Secretary, Education & Literacy, Govt. of Sindh",
+    "Mr. Imtiaz Mansoor Solangi",
+    "Mr. Ali Safdar Deepar",
+    "Justice Irfan Saadat Khan",
+    "Justice Arshad Hussain Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

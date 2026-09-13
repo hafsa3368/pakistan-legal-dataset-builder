@@ -9,7 +9,9 @@
   "case_number": "Constitutional Petition No. D-4769 of 2014",
   "date_of_order": "17.04.2025",
   "judge": "Muhammad Karim Khan Agha Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2024 SCMR 1258",
     "2021 SCMR 824",
@@ -19,7 +21,15 @@
     "2022 SCMR 650",
     "2003 SCMR 291"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Kousar Noor",
+    "Province of Sindh",
+    "Mr. Imtiaz Ali Solangi",
+    "M/s ZuberAhmed Rajput",
+    "Mr.Ali Safdar Depar",
+    "Sindh Information and Archives Department",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

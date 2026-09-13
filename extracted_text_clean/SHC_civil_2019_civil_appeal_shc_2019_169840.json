@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Civil Appeal No. 33/2017",
   "date_of_order": "12-11-2021",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 29",
     "section 16 of the Specific Relief Act",
@@ -21,7 +21,16 @@
     "2005 SCMR 1408",
     "PLD 1965 SC 651"
   ],
-  "parties": [],
+  "parties": [
+    "Shamsher Ali",
+    "Abdul Jabbar",
+    "The Mukhtiarkar",
+    "03 Others",
+    "Mr. Ghulam Nabi Meo Rajput",
+    "Mr. Rafique Ahmed Dahri",
+    "Safdar Hussain Laghari",
+    "Mr. Muhammad Arshad Pathan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

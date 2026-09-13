@@ -6,14 +6,23 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "misconceived and not",
+  "case_number": "",
   "date_of_order": "12.02.2021",
   "judge": "Arshad Hussain Khan",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2019 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Azeem",
+    "Province of Sindh",
+    "Mr. Justice Arshad Hussain Khan",
+    "Mr. Noorul Ameen Sipio",
+    "Mr. Wali Muhammad Jamari",
+    "Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

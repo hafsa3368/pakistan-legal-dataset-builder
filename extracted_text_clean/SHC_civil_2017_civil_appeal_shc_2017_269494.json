@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Civil Appeal No.68 of 2022",
   "date_of_order": "28.04.2025",
-  "judge": "",
+  "judge": "Mst. Shahzadi Bano",
   "sections_cited": [
     "section 11-1/2",
     "Section 100 CPC",
@@ -16,7 +16,10 @@
     "section 100"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Shahzadi Bano and others",
+    "Jawaid Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

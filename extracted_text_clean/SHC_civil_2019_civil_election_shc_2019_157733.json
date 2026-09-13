@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitution a retired pilot member is not",
+  "case_number": "MA No. 22254 of 2021",
   "date_of_order": "26-01-2022",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 2 of the Societies Registration Act"
   ],
@@ -17,7 +17,12 @@
     "2017 CLC Note 234",
     "2017 MLD 1835"
   ],
-  "parties": [],
+  "parties": [
+    "Haroon Abdullah",
+    "Pakistan Airline Pilots' Association",
+    "Saeed Khan",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

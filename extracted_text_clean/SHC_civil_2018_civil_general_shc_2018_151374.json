@@ -6,14 +6,23 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition Nos",
+  "case_number": "",
   "date_of_order": "17.05.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [
     "2018 SCMR1181"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Malik Naeem Iqbal and Saleem Khaskheli, advocates for the petitioners in C.P Nos. 875/2020, 1087/2020, 1355/2020, 1863/2020, 4015/2020,6182/2020, 6526/2020, 1366/2021",
+    "Syed Shoa-un-Nabi, Mr. Muhammad Khan Lakho and Ms. Shazia Zafar, advocates for the petitioners in C.P Nos. 5332/2018, 1441/2020, 3428/2020, 3429/2020, 4577/2020, 5073/2020, 5420/2020, 5999/2020, 1604/2021, 1892/2021",
+    "Mr. Muzafar Ali, advocate for the petitioner in C.P No. 5027/2020",
+    "Mr. Samiullah Soomro, advocate for the petitioner in C.P No. D-5273/2020",
+    "Mr. Aamer Latif advocate for the petitioners in C.P Nos. 645/2020 and 1923/2020",
+    "Mr. Tariq Ahmed Memon, advocate for the petitioners in C.P Nos. 6047/2018, 1253/2020 and 317/2021",
+    "M/s Mukesh Kumar G. Karara and Nabi Bux advocates for respondents No.2 and 3 in C.P. No. D-1892/2021",
+    "Mr. Asim Iqbal advocate for SSGC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

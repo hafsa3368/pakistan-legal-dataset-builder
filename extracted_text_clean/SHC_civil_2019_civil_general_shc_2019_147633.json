@@ -6,12 +6,17 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "21.10.2020",
   "judge": "Adnan Iqbal Chaudhry Constitutional Petition",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Haleem Memon",
+    "Province of Sindh",
+    "Abdul Rasheed",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

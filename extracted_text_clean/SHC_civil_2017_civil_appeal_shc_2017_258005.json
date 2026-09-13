@@ -8,8 +8,11 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-661 of 2017",
   "date_of_order": "05.12.2026",
-  "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "judge": "Sulemen Khan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
   "parties": [
     "Mr"

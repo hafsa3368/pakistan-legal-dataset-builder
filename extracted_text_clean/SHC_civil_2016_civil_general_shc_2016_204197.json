@@ -6,14 +6,22 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-4644 of 2016",
   "date_of_order": "19.10.2023",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [
     "Section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sardar Ghulam Mustafa",
+    "Memon Group of Industries",
+    "Altaf Ahmed Shaikh",
+    "Abdul Jaleel Zubedi",
+    "Muhammad Ayub Awan",
+    "Muhammad Shafi Siddiqui",
+    "Jawad Akbar Sarwana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Const. Petition No. D-",
+  "case_number": "",
   "date_of_order": "28.09.2020",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Section 18",
     "Section 24",
@@ -18,7 +18,21 @@
     "2016 SCMR 2064",
     "PLD 2009 SC 427"
   ],
-  "parties": [],
+  "parties": [
+    "Roshan Ali Kanasro",
+    "Federation of Pakistan",
+    "Shahenshah Hussain",
+    "Waqar Ali Shah",
+    "Altaf Hussain",
+    "Abdul Fattah Daudpoto",
+    "Abdul Majeed Soomro",
+    "Muhammad Azam",
+    "Ghulam Murtaza Daudpoto",
+    "N.A.B",
+    "N.A.B",
+    "N.A.B",
+    "N.A.B"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

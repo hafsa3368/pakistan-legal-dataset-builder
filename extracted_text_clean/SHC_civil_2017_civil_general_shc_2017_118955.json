@@ -6,12 +6,20 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.NO.S-349 of 2017",
   "date_of_order": "07.08.2017",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Raja Hans Raj Naurang",
+    "Mr. Anwar H. Ansari",
+    "Inspector Sohail Sarwar",
+    "SSP Hyderabad",
+    "Additional A.G",
+    "No.3",
+    "No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "",
   "date_of_order": "11.03.2021",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "section 15",
     "section 51",
@@ -18,7 +18,32 @@
     "section 15 of the Finance Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Yunus Textile Mills Ltd.",
+    "Pakistan & Others",
+    "Liberty Mills Ltd.",
+    "Federation of Pakistan & Others",
+    "Feroze 1888 Mills Ltd.",
+    "Pakistan & Others",
+    "Liberty Mills Ltd.",
+    "Pakistan & Others",
+    "Liberty Mills Ltd.",
+    "Pakistan & Others",
+    "Feroze Textile Mills Ltd.",
+    "Pakistan & Others",
+    "Gul Ahmed Textile Mills Ltd.",
+    "Pakistan & Others",
+    "J.B. Ind",
+    "Federation of Pakistan & Others",
+    "Bari Textile Mills (Pvt.) Limited",
+    "Pakistan & Others",
+    "M.N. Textile (Pvt.) Limited",
+    "Pakistan & Others",
+    "M.N. Traders (Pvt.) Limited",
+    "Pakistan & Others",
+    "ASCO International(Pvt.) Limited",
+    "Pakistan & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

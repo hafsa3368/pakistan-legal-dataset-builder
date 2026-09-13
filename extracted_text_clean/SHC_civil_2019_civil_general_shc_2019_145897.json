@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "constitutional petition No.250 of 2016",
   "date_of_order": "27.03.2019",
-  "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "judge": "Irfan Ali",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mian Taj Muhammad Keerio",
+    "Mr. Muhammad Humayoon Khan",
+    "Mr. Allah Bachayo Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "civil as well as criminal jurisdiction. Not",
+  "case_number": "",
   "date_of_order": "01-03-2022",
   "judge": "Muhammad Junaid Ghaffar Mr",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "Sections 4 & 5 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Altaf Hussain",
+    "Fed. of Pakistan & Ors"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

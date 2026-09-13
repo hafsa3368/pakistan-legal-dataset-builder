@@ -8,8 +8,11 @@
   "num_chunks": 9,
   "case_number": "Civil Petitions No. 797",
   "date_of_order": "20-11-2025",
-  "judge": "JUDGE Muhammad Danish",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 1218"
   ],

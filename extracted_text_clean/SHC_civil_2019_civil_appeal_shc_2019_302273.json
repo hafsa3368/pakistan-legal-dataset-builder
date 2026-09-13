@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No. S-504 of 2024",
   "date_of_order": "20.11.2025",
-  "judge": "",
+  "judge": "ALI HAIDER ‘ADA’",
   "sections_cited": [
     "Section 544-A",
     "Section 342"
@@ -20,7 +20,10 @@
     "2025 SCMR 1730",
     "2025 MLD 1803"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Rashid",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

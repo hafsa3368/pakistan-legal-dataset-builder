@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr. Appeal No. S-35 of 2024",
   "date_of_order": "21-07-2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 410 of the Code",
     "Sections 302, 114, 337-",
@@ -24,7 +24,14 @@
     "2017 SCMR 986",
     "2024 SCMR 1782"
   ],
-  "parties": [],
+  "parties": [
+    "Sain Dad",
+    "Sain Dino Shar",
+    "The State",
+    "Mr. Abdul Rehman Bhutto",
+    "Mr. Asif Ali Abdul Razzak Soomro",
+    "Mr. Nazeer Ahmed Bhangwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

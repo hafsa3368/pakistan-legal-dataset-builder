@@ -6,12 +6,22 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-85 of 2012",
   "date_of_order": "28.01.2019",
-  "judge": "JUDGE Irfan Ali",
+  "judge": "Irfan Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Arshad S. Pathan",
+    "Razia Ali Zaman Khan",
+    "Zaheeruddin Sahito",
+    "Irfan Ali Bughio",
+    "Allah Bachayo Soomro",
+    "Muhammad Saulat Rizvi",
+    "Muhammad Arshad S. Pathan",
+    "Irfan Ali",
+    "Ameer Faisal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

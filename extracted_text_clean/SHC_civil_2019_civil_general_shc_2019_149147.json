@@ -6,12 +6,20 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition No.D",
+  "case_number": "",
   "date_of_order": "20.11.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Moulvi Iqbal Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Moulvi Iqbal Haider",
+    "Mr. Muhammad Nishat Warsi",
+    "petitioners in C.P Nos.5891/2020 and 6048/2020",
+    "respondents in C.P Nos. 6152/2020, 6051/2020 and 6052/2020"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

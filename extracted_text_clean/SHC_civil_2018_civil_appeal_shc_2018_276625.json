@@ -8,12 +8,17 @@
   "num_chunks": 7,
   "case_number": "Civil Appeal No.85 of 2009",
   "date_of_order": "06.03.2024",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 79"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Matco Rice (Pvt.) Limited",
+    "Syed Aley Sadquain Naqvi",
+    "Province of Sindh",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

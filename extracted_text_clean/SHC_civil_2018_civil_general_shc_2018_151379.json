@@ -6,14 +6,41 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition Nos",
+  "case_number": "",
   "date_of_order": "17.05.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Syed Shoa-un-Nabi",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR1181"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Malik Naeem Iqbal",
+    "Saleem Khaskheli",
+    "Syed Shoa-un-Nabi",
+    "Muhammad Khan Lakho",
+    "Ms. Shazia Zafar",
+    "Muzafar Ali",
+    "Samiullah Soomro",
+    "Aamer Latif",
+    "Tariq Ahmed Memon",
+    "M/s Mukesh Kumar G. Karara",
+    "Nabi Bux",
+    "Mr. Asim Iqbal",
+    "M/s Malik Naeem Iqbal",
+    "Saleem Khaskheli",
+    "Syed Shoa-un-Nabi",
+    "Muhammad Khan Lakho",
+    "Ms. Shazia Zafar",
+    "Muzafar Ali",
+    "Samiullah Soomro",
+    "Aamer Latif",
+    "Tariq Ahmed Memon",
+    "M/s Asim Iqbal",
+    "M/s Mukesh Kumar G. Karara"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

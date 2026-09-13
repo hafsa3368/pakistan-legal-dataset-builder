@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Appeal No.106 of 2020",
   "date_of_order": "25.02.2021",
-  "judge": "",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "Section 23",
     "Section 382-B",
@@ -29,7 +29,14 @@
     "1995 SCMR 1345",
     "2019 MLD 675"
   ],
-  "parties": [],
+  "parties": [
+    "Faheem @ Bara",
+    "The State",
+    "Uzair son of Abdul Rauf",
+    "ASi Asghar Khan",
+    "PC Naeem Abbas",
+    "I.O/S.I Muhammad Bachal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

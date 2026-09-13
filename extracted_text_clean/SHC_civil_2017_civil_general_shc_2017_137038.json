@@ -6,12 +6,21 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-973 of 2013",
   "date_of_order": "28.02.2019",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Wali Muhammad Khoso",
+    "Mr. Zaheeruddin Sahito",
+    "Dr. Zahir Hussain Subuhpoto",
+    "Tando Muhammad Khan",
+    "Dr. Abdul Qadir Junejo",
+    "Dr. Ahtesham Rana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,26 @@
   "case_number": "",
   "date_of_order": "17.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 138(5) E.P.A.",
+    "Section 16 E.P.A.",
+    "Section 27 E.P.A."
+  ],
   "citations": [
     "2018 SCMR 1328"
   ],
-  "parties": [],
+  "parties": [
+    "Messrs. Abdul Rahim Lakhani and Atta Muhammad Qureshi",
+    "Mr. Muhammad Ali Shahani",
+    "Mr. Zubair Bilal",
+    "Chief Commissioner LTO",
+    "Abdul Hafeez",
+    "Mr. Kashif Nazir",
+    "Assistant Attorney General Parawise",
+    "respondents No.3,4 & 5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

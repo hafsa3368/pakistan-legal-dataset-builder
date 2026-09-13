@@ -6,10 +6,13 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Const. Petition No.D-",
+  "case_number": "",
   "date_of_order": "04.08.2015",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
   "parties": [
     "Kamran Ali Rajput "

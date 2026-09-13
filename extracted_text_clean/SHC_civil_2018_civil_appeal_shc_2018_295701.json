@@ -6,12 +6,18 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 388 of 2018",
   "date_of_order": "01.12.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    ""
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Navin Merchant",
+    "SSGC",
+    "Ms. Zahrah Sehr Vayani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

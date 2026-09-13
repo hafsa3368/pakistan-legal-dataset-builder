@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "22.12.2025",
-  "judge": "Muhammad Osman Ali Hadi Date",
+  "judge": "Muhammad Osman Ali Hadi",
   "sections_cited": [
     "Section 301 of the Companies Act",
     "Section 84 of the Companies Act",
@@ -17,7 +17,13 @@
     "Section 304"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "B4U Consultant (SMC-Pvt.) Ltd.",
+    "SECP",
+    "Syed Ebad-ur-Rehman",
+    "The Petitioner",
+    "The Respondent-Company"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

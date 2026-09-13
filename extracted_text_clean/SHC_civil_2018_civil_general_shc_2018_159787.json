@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Crl. Misc. Application No. D-",
+  "case_number": "",
   "date_of_order": "02.03.2018",
   "judge": "Salahuddin Panhwar",
   "sections_cited": [
@@ -18,7 +18,22 @@
     "section 169 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pervaiz Ahmed",
+    "Mukhtiar Ahmed Khan Tamandar",
+    "Karamullah Khan",
+    "Sardar Ahmed Khan",
+    "Burhan Chandio",
+    "Ali Gohar Chandio",
+    "Ghulam Murtaza Chandio",
+    "Sikandar Chandio",
+    "Zulfiqar Chandio",
+    "Ghulam Qadir alias Qadu Chandio",
+    "Qurban Ali Malano",
+    "Muhammad Aijaz Bhatti",
+    "Mr. Justice Salahuddin Panhwar",
+    "Mr. Justice Adnan Iqbal Chaudhry"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

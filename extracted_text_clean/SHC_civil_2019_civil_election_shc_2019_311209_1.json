@@ -8,8 +8,11 @@
   "num_chunks": 7,
   "case_number": "Constitution Petition No.D-587 of 2025",
   "date_of_order": "26.02.2026",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Amjad Ali Bohio",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 1509",
     "1986 CLC 507",
@@ -21,7 +24,17 @@
     "PLD 1966 Dacca 296",
     "PLD 2009 Karachi 392"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Imamuddin",
+    "M/s Shaheed Mohtarma Benazir Bhutto Medical University Larkana",
+    "M/s Mehfooz Ahmed Awan",
+    "Zulfiqar Ali Channa",
+    "Mr. Muhammad Uzair Shaikh",
+    "Mr. Qurban Ali Malano",
+    "Ali Raza Balouch",
+    "Mr. Justice Amjad Ali Bohio",
+    "Mr. Justice Ali Haider 'Ada'"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

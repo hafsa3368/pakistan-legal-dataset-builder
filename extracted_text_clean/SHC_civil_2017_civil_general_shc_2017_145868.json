@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P. No.D-1270 of 2018",
   "date_of_order": "12.08.2020",
   "judge": "Abdul Maalik Gaddi Mr",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "Section 8"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jhando Khan",
+    "Province of Sindh through Secretary Revenue & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

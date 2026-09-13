@@ -6,12 +6,17 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "C.P No.D-3569 of 2017",
+  "date_of_order": "18.01.2018",
+  "judge": "Abdullah Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Wali Muhammad Jamari",
+    "Mr. Habibur Rehman Legal Assistant for NADRA",
+    "petitioner",
+    "respondent No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

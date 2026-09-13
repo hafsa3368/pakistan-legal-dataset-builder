@@ -6,14 +6,22 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "constitutional jurisdiction cannot",
+  "case_number": "C.P.No.D-769 of 2023",
   "date_of_order": "03.03.2026",
-  "judge": "JUDGE",
+  "judge": "ZULFIQAR ALI SANGI",
   "sections_cited": [
     "Section 7 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Afzal Hussain Baloch",
+    "Province of Sindh",
+    "Muhammad Arshad Khan Tanoli",
+    "Ayan Mustafa Memon",
+    "Talha Abbasi",
+    "Azain Memon",
+    "Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,23 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No.471 of 2018",
   "date_of_order": "28.11.2023",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Ayaz Gul",
+  "sections_cited": [
+    "Section 397 CrPC",
+    "Section 438 CrPC"
+  ],
   "citations": [
     "PLD 2023 SC 211"
   ],
-  "parties": [],
+  "parties": [
+    "Mrs. Najma Sajjad-ul-Hassan & another",
+    "Mr. Aftab Ahmed Sethi and others",
+    "Mr. Muhammad Altaf",
+    "M/s Syed Ahsan Imam Rizvi and Faiz Malano",
+    "Mr. Atif Shujaat M. Beg"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,31 @@
   "case_number": "",
   "date_of_order": "06.11.2019",
   "judge": "Fahad Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahid Hussain",
+    "Chief Secretary and others",
+    "Ghulam Mustafa and Province of Sindh and others",
+    "Muhammad Jawaid and Province of Sindh and others",
+    "Lala Aijaz and Province of Sindh and others",
+    "Fayyaz Hussain and Province of Sindh and others",
+    "Gul Bahar and Province of Sindh and others",
+    "Abdul Hai and Province of Sindh and others",
+    "Zohaib and Province of Sindh and others",
+    "Allah Bachayo and Province of Sindh and others",
+    "Mst. Nighat Sultana and Province of Sindh and others",
+    "Ihsan Ali and Province of Sindh and others",
+    "Raza Muhammad and Province of Sindh and others",
+    "Ghulam Rabani and Province of Sindh and others",
+    "Sajid Ali and Province of Sindh and others",
+    "Haji Khan and Province of Sindh and others",
+    "Muhammad Faisal and Province of Sindh and others",
+    "Mst. Shazia and Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

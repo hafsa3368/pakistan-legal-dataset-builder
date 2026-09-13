@@ -6,12 +6,17 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitutional jurisdiction cannot",
+  "case_number": "CP No.D-771 of 2023",
   "date_of_order": "30.01.2026",
   "judge": "Muhammad Saleem Jessar Justice Nisar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amjad Ali",
+    " Province of Sindh",
+    "Mr. Muhammad Kamran Baloch",
+    "Mr. Talha Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

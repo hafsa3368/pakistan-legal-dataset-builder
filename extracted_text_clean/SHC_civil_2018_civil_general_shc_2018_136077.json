@@ -6,12 +6,24 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.P. No.D-1035 of 2018",
   "date_of_order": "12.02.2018",
-  "judge": "JUDGE Irfan Ali",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Allah Bachayo Soomro",
+    "Hyderabad Municipal Corporation (HMC)",
+    "Hon'ble Supreme Court of Pakistan",
+    "Petitioner",
+    "Additional Registrar of this Court",
+    "Accountant General Sindh",
+    "Office of the AG Sindh (Flag A)",
+    "District Accounts Office",
+    "Zulfiquar Ali Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

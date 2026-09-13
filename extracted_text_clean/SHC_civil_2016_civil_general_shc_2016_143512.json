@@ -8,13 +8,20 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition No.D-340 of 2013",
   "date_of_order": "03.02.2020",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Nadeem Akhtar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 871",
     "PLD 2003 SC 110"
   ],
-  "parties": [],
+  "parties": [
+    "Mohammed Saleem Khan",
+    "Province of Sindh",
+    "KDA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "10.09.2020",
-  "judge": "JUDGE S",
+  "judge": "Abdul Maalik Gaddi",
   "sections_cited": [
     "Section 9",
     "Section 382-B Cr.P.C",
@@ -22,7 +22,10 @@
     "1995 SCMR 1345",
     "PLD 2009 Karachi 191"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Manzoor Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitution nor",
+  "case_number": "",
   "date_of_order": "30.09.2019",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [],
@@ -14,7 +14,16 @@
     "2011 SCMR 446",
     "1991 SCMR 1041"
   ],
-  "parties": [],
+  "parties": [
+    "Riaz Ahmed",
+    "Federation of Pakistan",
+    "Mr. Faiz Rasool Jalbani",
+    "Mr. M. Nishat Warsi",
+    "Mr. Ch. Muhammad Ashraf Khan",
+    "Mr. Aamir Latif",
+    "Mr. Nabi Bux Laghari",
+    "Mr. Umer Abdullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

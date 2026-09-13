@@ -6,12 +6,22 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "M.A. No. 172 of 2019",
   "date_of_order": "7th October, 2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Muhammad Azam",
+    "Syed Ahmed Ali Azam",
+    "Ms. Ayesha Fahad",
+    "Syed Areeb Azam",
+    "Syed Hamza Azam",
+    "Mst. Naheed Parveen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

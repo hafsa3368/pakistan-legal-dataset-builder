@@ -6,17 +6,29 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "civil servant cannot",
+  "case_number": "",
   "date_of_order": "17.03.2022",
   "judge": "Aftab Ahmed Gorar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 456",
     "2014 SCMR 1189",
     "2021 SCMR 1171",
     "2018 SCMR 1411"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Zafar Ali Shah",
+    "Syed Farhan Ali Shah",
+    "Saif Sohail Yunus",
+    "Mr. Ali Safdar Depar",
+    "Ghulam Ali Birhmani",
+    "Abdul Jabbar Shahani",
+    "Mumtaz Ali Shah",
+    "Mr. Nisar Ahmed Bhanbhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

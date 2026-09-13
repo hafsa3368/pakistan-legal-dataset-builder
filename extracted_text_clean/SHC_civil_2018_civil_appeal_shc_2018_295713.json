@@ -6,12 +6,17 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal Nos. 411",
   "date_of_order": "01.12.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghazi Khan Khalil",
+    "Zehrah Sehr Vayani",
+    "Raja Love Kush",
+    "SSGC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

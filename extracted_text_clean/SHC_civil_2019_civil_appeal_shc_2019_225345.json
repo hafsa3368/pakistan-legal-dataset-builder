@@ -9,13 +9,34 @@
   "case_number": "",
   "date_of_order": "23.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2023 MLD 1222",
     "PLD 2022 Sindh 186",
     "PLD 2019 Sindh 697"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Ali Hussain",
+    "Mr. Noor Muhammad Dayo",
+    "SR Zia Arif Junejo",
+    "Pakistan Rangers",
+    "Mr. Shaharyar Meher",
+    "Assistant A.G. Sindh",
+    "Ms. Sara Malkani",
+    "Assistant Attorney General",
+    "The Plaintiff",
+    "The Defendant No.2",
+    "The Plaintiff Society",
+    "The Province of Sindh",
+    "The Government",
+    "The Respondent No.1",
+    "The Respondent No.2",
+    "Base Commander, PAF",
+    "The Director General Rangers Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

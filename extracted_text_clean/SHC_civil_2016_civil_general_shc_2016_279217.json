@@ -9,12 +9,18 @@
   "case_number": "Constitutional Petition No. D-8075 of 2022",
   "date_of_order": "25.08.2025",
   "judge": "Head of Constitutional Benches Shafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 2098",
     "2024 SCMR 673"
   ],
-  "parties": [],
+  "parties": [
+    "Shaikh Arshad Ali & others",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,19 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No.D-04 of 2015",
   "date_of_order": "21.01.2019",
   "judge": "",
   "sections_cited": [
     "section 342"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Farhad Abro, Advocate for appellant",
+    "Syed Meeral Shah Bukhari, Addl: P.G",
+    "Ms. Rameshan Oad, Assistant P.G for the State",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

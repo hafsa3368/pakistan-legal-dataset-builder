@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "16.10.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
@@ -28,7 +28,16 @@
     "2019 SCMR 278",
     "PLD 2010 SC 676"
   ],
-  "parties": [],
+  "parties": [
+    "Fareed Ali",
+    " Province of Sindh",
+    "Noor Muhammad Daudpoto",
+    "45 others",
+    "Province of Sindh",
+    "MDA",
+    "Dr. Iqbal Jan",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,20 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No. 326 of 2021",
   "date_of_order": "26.01.2023",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 245 Cr.P.C",
     "Section 420 PPC",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Deedar Ali Meerani",
+    "The State",
+    "Mukhtiar Shah",
+    "Siraj Ali Khan Chandio",
+    "Muhammad Farooq Bugti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

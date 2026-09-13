@@ -6,9 +6,9 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "constitutional and contrary to the norms",
+  "case_number": "C.P.No.D-219 OF 2024",
   "date_of_order": "17-01-2024",
-  "judge": "",
+  "judge": "ABDUL MOBEEN LAKHO",
   "sections_cited": [
     "Section 63 of the Elections Act",
     "section 12 and 14"
@@ -18,7 +18,15 @@
     "2003 MLD 1089",
     "PLD 2007 SC 277"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Naveed Aziz",
+    "The Returning Officer NA-248 & another",
+    "Mr. Mehmood Hussain, Advocate a/w Petitioner",
+    "Mr. Saifullah, A.A.G.",
+    "Mr. Abdullah Hanjrah, Deputy Director (Law)",
+    "Mr. Sarmad Sarwar, Assistant Director (Law)",
+    "Mr. Hassan Zafar, Returning Officer NA-248"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

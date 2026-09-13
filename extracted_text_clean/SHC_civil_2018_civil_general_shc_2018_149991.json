@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "constructed on Survey No. 6/20",
+  "case_number": "MA No. 17107/2018",
   "date_of_order": "17-12-2020",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 201 of the Contract Act",
     "section 202 of the Contract Act"
@@ -21,7 +21,17 @@
     "2012 SCMR 380",
     "PLD 2011 Karachi 362"
   ],
-  "parties": [],
+  "parties": [
+    "Saeed Ibrahim Veera",
+    "Muhammad Iqbal",
+    "Sub-Registrar-II",
+    "District Registrar",
+    "Danish",
+    "Qurat-ul-Ain",
+    "Ahmed Raza Shah",
+    "Chaudhry Rafiq Rajouri",
+    "Hamza H. Hidayatullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

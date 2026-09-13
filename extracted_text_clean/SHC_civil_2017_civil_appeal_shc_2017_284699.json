@@ -6,12 +6,27 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A. No.25 of 2025",
   "date_of_order": "01.10.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "u/s 497 CrPC",
+    "Order I Rule 10 C.P.C.",
+    "Order XXI Rule 58 CPC",
+    "Order XXXIX Rule 1 & 2 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Hamid Ali & another",
+    "Dubai Islamic Bank Ltd. & others",
+    "Ms. Marium Badar",
+    "Mr. Suleman Hudda",
+    "respondent No.1",
+    "respondent No.4",
+    "respondent No.5",
+    "respondent No.6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

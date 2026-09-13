@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "Civil Judge-I Pano Akil",
+  "case_number": "",
   "date_of_order": "01.11.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 12 of Code",
     "Section 12",
@@ -33,7 +33,11 @@
     "1984 SCMR 1124",
     "2009 SCMR 40"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Sahja & others through Mr. Muhammad Rehan Khan Durrani, Advocate",
+    "Muhammad Zaman through Mr. Ateeq-ur-Rehman Soomro, advocate",
+    "Province of Sindh & ors: Through Mr. Ali Raza Balouch, Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

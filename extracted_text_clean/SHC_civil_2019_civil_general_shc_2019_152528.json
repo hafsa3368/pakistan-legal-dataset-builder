@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "constitute infringement it is not",
+  "case_number": "",
   "date_of_order": "03.05.2021",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 40 of the Trade Marks Ordinance",
     "Section 67",
@@ -28,7 +28,10 @@
     "PLD 1973 Karachi 289",
     "PLD 1993 Karachi 790"
   ],
-  "parties": [],
+  "parties": [
+    "Hilal Foods (Private) Limited",
+    "Dankap Food Industries (Private) Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

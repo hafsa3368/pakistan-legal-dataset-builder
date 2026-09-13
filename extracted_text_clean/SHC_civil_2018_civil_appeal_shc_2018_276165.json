@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No. 219 of 2023",
   "date_of_order": "25.06.2025",
-  "judge": "",
+  "judge": "Tasneem Sultana",
   "sections_cited": [
     "Section 3/4 of the Illegal Dispossession Act",
     "Section 265-",
@@ -20,7 +20,16 @@
     "2003 SCMR 477",
     "PLD 2009 SC 53"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Wadood",
+    "Syed Raziullah Qadri",
+    "Fida Muhammad",
+    "The S.H.O. P.S. Superhighway Industrial Area",
+    "The Court of IV ADJ Malir at Karachi",
+    "The State",
+    "Allah Bux Goth",
+    "The original owner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

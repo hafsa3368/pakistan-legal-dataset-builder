@@ -6,12 +6,16 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitution Petition on the ground that FIR No.91/2019",
+  "case_number": "",
   "date_of_order": "26.02.2020",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Rukhsana Mehnaz",
+    "Mr. Imran Mobeen Khan",
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

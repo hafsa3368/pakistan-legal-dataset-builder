@@ -6,14 +6,26 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition Nos",
+  "case_number": "",
   "date_of_order": "17.05.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Syed Shoa-un-Nabi, Mr. Muhammad Khan Lakho",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR1181"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Malik Naeem Iqbal and Saleem Khaskheli, advocates for the petitioners",
+    "Syed Shoa-un-Nabi, Mr. Muhammad Khan Lakho and Ms. Shazia Zafar, advocates for the petitioners",
+    "Mr. Muzafar Ali, advocate for the petitioner",
+    "Mr. Samiullah Soomro, advocate for the petitioner",
+    "Mr. Aamer Latif advocate for the petitioners",
+    "Mr. Tariq Ahmed Memon, advocate for the petitioners",
+    "M/s Mukesh Kumar G. Karara and Nabi Bux advocates for respondents No.2 and 3",
+    "M/s Asim Iqbal advocate for SSGC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

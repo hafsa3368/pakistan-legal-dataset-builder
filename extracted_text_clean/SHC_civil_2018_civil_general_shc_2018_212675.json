@@ -8,10 +8,22 @@
   "num_chunks": 3,
   "case_number": "Const. Petition No.D-29 of 2023",
   "date_of_order": "02.11.2014",
-  "judge": "JUDGE Ahmad",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Faheem Abbas Bozdar",
+    "P.O. Sindh",
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Arbab Ali Hakro",
+    "Zulfiqar Ali Naich",
+    "Riaz Ahmed Wagan",
+    "Chief Conservator Forests, Riverine & Inland Forests, Sindh",
+    "Hosh Muhammad Shar",
+    "DFO (A) Division Sukkur",
+    "Gul Hassan",
+    "DFO (A) Kandhkot"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

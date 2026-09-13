@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Civil Appeal No.1443 of 2019",
   "date_of_order": "21.09.2020",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON,",
   "sections_cited": [
     "Section 18 of the Sindh Rented Premises Ordinance",
     "section 18 of the Sindh Rented Premises Ordinance"
@@ -28,7 +28,26 @@
     "2001 SCMR 678",
     "PLD 1973 Note 85"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman Rajput",
+    "District Judge Hyderabad & others",
+    "Abdul Ali & another",
+    "Akbar Allauddin & another",
+    "Abdul Manan",
+    "Ishaque Ahmed",
+    "Ameen Kharani",
+    "Akber Kharani",
+    "Barkat Ali",
+    "Muhammad Ali",
+    "Jithendra & others",
+    "M/s Muhammad Akram Tarique",
+    "Mr. Rafique Ahmed",
+    "Mr. Nisar Ali Mughal",
+    "Mr. Suresh Kumar",
+    "Mr. Atta Hussain Gaddi Pathan",
+    "Mr. Allah Bachayo Soomro",
+    "Additional Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

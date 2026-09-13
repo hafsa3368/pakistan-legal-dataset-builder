@@ -6,12 +6,20 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 409",
   "date_of_order": "01.12.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faiz Durrani",
+    "Mr. Ghulam Muhammad",
+    "SSGC",
+    "Mr. Ghazi Khan Khalil",
+    "Mr. Raja Lov Kush",
+    "Ms. Zehrah Sehr Vayani",
+    "Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

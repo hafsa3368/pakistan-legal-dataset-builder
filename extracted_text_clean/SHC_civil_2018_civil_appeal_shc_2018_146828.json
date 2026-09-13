@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.P. No.S-865 of 2019",
   "date_of_order": "05.10.2020",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 17"
   ],
@@ -16,7 +16,10 @@
     "2017 SCMR 393",
     "PLD 2013 SC 557"
   ],
-  "parties": [],
+  "parties": [
+    "Atta Hussain",
+    "Mst. Nazia & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

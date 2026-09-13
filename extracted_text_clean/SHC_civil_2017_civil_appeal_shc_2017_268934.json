@@ -8,12 +8,20 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "26.05.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jamal-ud-Din",
+    "Faysal Bank Limited",
+    "others",
+    "Mr. Zia-ul-Haq Makhdoom",
+    "Mr. Badar Alam",
+    "Mr. Muhammad Shaifque Malik",
+    "Mr. Muhammad Hisham Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,22 @@
   "num_chunks": 9,
   "case_number": "",
   "date_of_order": "12.03.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal,",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "1962 Ordinance"
+  ],
   "citations": [
     "PLD 2007 SC 323"
   ],
-  "parties": [],
+  "parties": [
+    "Talha Nasir & Others vs. Pakistan Medical and Dental Council & Others",
+    "Shazia Jamali vs. Pakistan Medical and Dental Council & Others",
+    "Fatima Ahmed vs. Pakistan Medical and Dental Council & Others",
+    "Zoya Gul vs. Pakistan Medical and Dental Council & Others",
+    "Ramsha Durrani & Others vs. Pakistan Medical and Dental Council & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

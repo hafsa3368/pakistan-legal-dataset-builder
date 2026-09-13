@@ -6,10 +6,12 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "24.02.2022",
   "judge": "Aftab Ahmed Gorar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 199 (b) (ii) of the Constitution, 1973"
+  ],
   "citations": [
     "2005 SCMR 1829",
     "2015 SCMR 1545",
@@ -27,7 +29,13 @@
     "PLD 2007 SC 52",
     "PLD 2017 SC 265"
   ],
-  "parties": [],
+  "parties": [
+    "Shahabuddin Siddiqui and 06 others",
+    "Federation of Pakistan & 04 others",
+    "Ali Asadullah Bullo",
+    "Muhammad Nishat Warsi",
+    "Sajid Zahid, Muhammad Zeeshan Khan, and Jawad Raja Azhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

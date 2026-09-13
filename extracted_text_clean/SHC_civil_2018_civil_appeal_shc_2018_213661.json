@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Civil Appeal No.S-26 of 2021",
   "date_of_order": "04.03.2024",
-  "judge": "Faisal Mumtaz/PS",
+  "judge": "Faisal Mumtaz",
   "sections_cited": [
     "Section 15 of the Defamation Ordinance",
     "Section 96 of the Code",
@@ -20,7 +20,12 @@
   "citations": [
     "PLD 2005 Karachi 399"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Bibi Saira and others",
+    "Syed Amanullah Shah",
+    "P.O Sindh through Secretary Home Department",
+    "Ahmed Ali Shahani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No. 120 of 2018",
   "date_of_order": "3rd December, 2018",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 23",
     "section 342 Cr.P.C",
     "sections 392 and 34"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zain Nasir @ Banti",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

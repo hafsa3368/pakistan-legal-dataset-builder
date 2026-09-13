@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 31,
-  "case_number": "Constitution provides that no person",
+  "case_number": "",
   "date_of_order": "02.02.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
+  "judge": "Salahuddin Panhwar",
   "sections_cited": [
     "Section 24",
     "section 2",
@@ -24,7 +24,11 @@
   "citations": [
     "PLD 1994 SC 6933"
   ],
-  "parties": [],
+  "parties": [
+    "Nadir Ali S/o Khan Muhammad Bugti",
+    "The Province of Sindh",
+    "Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

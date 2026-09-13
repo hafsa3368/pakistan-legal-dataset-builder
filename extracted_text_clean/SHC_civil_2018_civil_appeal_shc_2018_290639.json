@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "06.11.2025",
-  "judge": "JUDGE Amjad PS",
-  "sections_cited": [],
+  "judge": "Omar Sial",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khawaja Muhammad Azeem",
+    "Syed Khurram Kamal",
+    "Syed Muzaffar Ali",
+    "NAB",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

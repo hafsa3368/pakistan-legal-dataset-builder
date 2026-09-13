@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "12.05.2025",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 290",
     "section 305",
@@ -16,7 +16,10 @@
     "section 5 of the Companies Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Banker’s Equity Limited",
+    "M/s. Hamid Textile Mills Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

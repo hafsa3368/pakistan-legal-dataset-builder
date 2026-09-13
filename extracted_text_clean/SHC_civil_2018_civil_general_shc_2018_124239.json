@@ -6,12 +6,19 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "constitutional petition is disposed of as not",
+  "case_number": "",
   "date_of_order": "13.02.2018",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Pervez Tarique Taggar",
+    "Mr. Muhammad Ismail Bhutto",
+    "SIP Najamuddin",
+    "SHO P.S. Qasimabad",
+    "SIP Dilijan Rind",
+    "Incharge CIA Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

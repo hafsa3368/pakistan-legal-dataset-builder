@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "constrained to issue notice",
+  "case_number": "",
   "date_of_order": "05.09.2023",
   "judge": "",
   "sections_cited": [
@@ -17,7 +17,14 @@
     "PLD 2018 SC 337",
     "PLD 2022 Sindh 403"
   ],
-  "parties": [],
+  "parties": [
+    "Ms. Syngenta Pakistan Ltd.",
+    "S,M, Asif and 2 Others",
+    "Mr. Mushtaq Memon",
+    "Mr. Shahid Anwar Bajwa",
+    "Rashid Rizvi",
+    "Mr. Mushtaq Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

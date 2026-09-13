@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 28,
-  "case_number": "constructive res judicata. He did not",
+  "case_number": "",
   "date_of_order": "14.10.2016",
-  "judge": "",
+  "judge": "MOHAMMAD ABDUR RAHMAN,",
   "sections_cited": [
     "Section 151 of the Code",
     "Section 3 of the Limitation Act",
@@ -38,7 +38,27 @@
     "PLD 2020 SC 718",
     "PLD 1975 SC 311"
   ],
-  "parties": [],
+  "parties": [
+    "Resoc International Trading (Private) Limited",
+    "Beneathco DMCC",
+    "O R D E R",
+    "Federation of Pakistan",
+    "Nemo Federal Board of Revenue",
+    "Synergy Petrochem FZE",
+    "M/s Prime Tankers LLC",
+    "Star Shipping Inc.",
+    "Port Qasim Authority",
+    "Resoc International Trading DMCC",
+    "Quayside Services Enterprises",
+    "Mena Energy DMCC",
+    "Ark Global DWC-LLC",
+    "Federal Board of Revenue",
+    "Collector of Customs",
+    "Collector of Customs Enforcement",
+    "The Collector of Customs Appraisement",
+    "The Collector of Customs Enforcement",
+    "Synergy Petrochem FZE"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "construct the road which was given of NIT No. EE/HW_D_TC/503 of 2017",
+  "case_number": "",
   "date_of_order": "22-02-2022",
   "judge": "Muhammad Junaid Ghaffar Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Mithal Shaikh",
+    "Province of Sindh",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

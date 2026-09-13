@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "25-03-2025",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Bilal Bhatti",
+    "Mr. Ghulam Mustafa",
+    "Ms. Mahreen Ibrahim",
+    "Petitioner",
+    "Respondent Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,15 +7,31 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-29 of 2025",
-  "date_of_order": "",
-  "judge": "SulemenKhan/PA",
+  "date_of_order": "03.07.2025",
+  "judge": "Muhammad Jaffer Raza",
   "sections_cited": [
     "section 544-A Cr.P.C",
     "section 382-B",
     "section 345 & 345 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Lakhmir",
+    "Asadullah",
+    "Imtiaz Ahmed",
+    "The State vs Samaruddin and others",
+    "Banhon",
+    "Mst. Fahmeeda",
+    "Shahid Hussain",
+    "Habibullah",
+    "Ghulam Hussain",
+    "Abdul Sattar",
+    "Saeed Ahmed",
+    "Abida",
+    "Majida Khatoon",
+    "Uroosa",
+    "Rashida"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

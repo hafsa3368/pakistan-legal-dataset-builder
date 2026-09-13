@@ -6,14 +6,26 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. Application No D",
+  "case_number": "",
   "date_of_order": "29.06.2078",
   "judge": "",
   "sections_cited": [
     "Section 365-8"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rehman Kolachi",
+    "Deputy Prosecutor General for the State",
+    "Ghulam Shabbir Seihar (S-511)",
+    "Inspector Noor Dinilzcelntge CIA Khniryttr)",
+    "SIP Noor Ahmed I-aghari (SHO Police Station 'B' Section Khairptr)",
+    "Inspector Muhammad Ameen (IO Police Station 'A' Section Khnirpur)",
+    "Abdul Rahim Phulpottr",
+    "Muneer Ahmect Phulpoto (Misthier of the case)",
+    "Mrhammad Phulpoto (Complainant)",
+    "Babar A'li (Abductee)",
+    "Naseer Ahmed Sahito (Detainee / Arrested Acctsad)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

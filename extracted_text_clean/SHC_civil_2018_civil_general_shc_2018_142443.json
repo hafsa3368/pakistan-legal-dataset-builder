@@ -6,12 +6,33 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "civil servant on any of the basic pay scales No.1",
+  "case_number": "",
   "date_of_order": "11.12.2019",
   "judge": "Fahad Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh and others",
+    "Petitioners",
+    "Mr. Justice Nadeem Akhtar",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "M/S. Muntazir Mehdi Leghari",
+    "Ghulam Sarwar",
+    "Kanji Mal",
+    "Ayaz Khaskheli",
+    "Talal Fatima",
+    "Zahid Mustafa Memon",
+    "Mangal Meghwar",
+    "Qadir Bux Ghirano",
+    "Nazeer Ahmed Bhatti",
+    "Mian Taj Muhammad Keerio",
+    "Faqir Rehmatullah Hisbani",
+    "Mr. Imran Qureshi",
+    "Mr. Allah Bachayo Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

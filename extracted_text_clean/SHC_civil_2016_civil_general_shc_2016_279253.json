@@ -6,7 +6,7 @@
   "year": "2016",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Civil Servants Act and Rules did not",
+  "case_number": "CP. No. D-2309 of 2022",
   "date_of_order": "29.08.2025",
   "judge": "Muhammad Karim Khan Agha Mr",
   "sections_cited": [],
@@ -15,7 +15,12 @@
     "2001 SCMR 338",
     "PLD 1974 SC 139"
   ],
-  "parties": [],
+  "parties": [
+    "Ahmed Ramzani",
+    "Province of Sindh",
+    "Syed Ali Raza",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

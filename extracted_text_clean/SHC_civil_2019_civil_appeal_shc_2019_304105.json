@@ -6,12 +6,21 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "CP No.S-1201 of 2025",
   "date_of_order": "02.02.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Nisar Ahmed Bhanbhro",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zaheer Abbas Laghari",
+    "Mst. Fakhar-un-Nisa",
+    "4 others",
+    "M/s. Sanaullah, Riaz Ahmed and Hussain Bux",
+    "Mr. Raza Mukhtiar Jawahery",
+    "Mr. Muhammad Kamran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

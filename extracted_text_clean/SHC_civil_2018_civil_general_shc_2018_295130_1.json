@@ -6,12 +6,16 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Pett No.D-1469 of 2025",
+  "case_number": "",
   "date_of_order": "22.09.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Niazuddin Soomro",
+    "Mr. Ali Raza Balouch",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

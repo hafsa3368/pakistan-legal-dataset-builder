@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "Civil Judge dismissed Suit 1172 for non-",
+  "case_number": "",
   "date_of_order": "28.11.2017",
-  "judge": "",
+  "judge": "Sana Akram Minhas",
   "sections_cited": [
     "Section 151 of the Code",
     "Section 151 CPC",
@@ -38,7 +38,16 @@
     "2003 CLC 250",
     "2003 MLD 1970"
   ],
-  "parties": [],
+  "parties": [
+    "Haji Maqbool Ahmed",
+    "Ms. Sikandar (Deceased)",
+    "Nemo",
+    "Hussain Dawood",
+    "Mr. Abdul Qadir Khan",
+    "Iqbal Ahmed Kohawar",
+    "Hussain Dawood",
+    "Legal Heirs of Ms. Sikandar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

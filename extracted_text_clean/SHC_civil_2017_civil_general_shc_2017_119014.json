@@ -6,12 +6,18 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.NO.S-1552 of 2017",
   "date_of_order": "09.10.2017",
   "judge": "Shahid",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muneer Ahmed Turk",
+    "Mr. Imtiaz Ali Mahar",
+    "Inspector Sohail Sarwar o/b of SSP Hyderabad and ASI Nazir Ahmed SHO P.S Nasim Nagar",
+    "Sajjad Hussain",
+    "Guddo Fauji"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

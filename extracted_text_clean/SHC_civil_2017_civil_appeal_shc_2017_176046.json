@@ -8,8 +8,11 @@
   "num_chunks": 16,
   "case_number": "Civil Appeals No.04",
   "date_of_order": "31.10.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon,",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 YLR 2685",
     "2021 MLD 608",
@@ -27,7 +30,13 @@
     "2007 SCMR 635",
     "PLD 2006 SC 322"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Samad, Deceased through his legal Heirs",
+    "Muhammad Ali & others",
+    "Respondents No.9, 10 and 13 through: Mr. Qadir Bux, advocate",
+    "Respondents No.14 and 15 through: Mr. Abdul Aziz Memon, advocate",
+    "Province of Sindh & other official respondents through: Mr. Allah Bachayo Soomro, Additional Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 30,
-  "case_number": "constituted vide notification",
+  "case_number": "",
   "date_of_order": "30.07.2017",
-  "judge": "",
+  "judge": "Muhammad Afzal",
   "sections_cited": [
     "sections 3 and 4",
     "section 5",
@@ -29,7 +29,14 @@
     "PLD 2010 Kar 236",
     "PLD 2002 Lah 521"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Muhammad Ali Lakhani and Mujtaba Raza",
+    "Mr. Masood Ghani",
+    "Mr. Tanveer Ashraf",
+    "Mr. Furqan Ali",
+    "Adnan Iqbal Chaudhry",
+    "Federal Investigation Agency"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

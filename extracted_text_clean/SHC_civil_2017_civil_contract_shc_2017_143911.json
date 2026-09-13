@@ -9,9 +9,21 @@
   "case_number": "Constitutional Petitions No.D-2271",
   "date_of_order": "20.02.2020",
   "judge": "Nadeem Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ch. Muhammad Ashraf Khan",
+    "Mr. Amir Hanif",
+    "Mr. Hussain Bux Saryo",
+    "Mr. Muhammad Nishat Warsi",
+    "Mr. Sanaullah Noor Ghori",
+    "Malik Ejaz",
+    "Pakistan Steel",
+    "Mr. Muhammad Zahid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

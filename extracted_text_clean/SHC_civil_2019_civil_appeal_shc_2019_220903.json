@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Misc. No. 1555 of 2024",
   "date_of_order": "07.08.2024",
-  "judge": "JUDGE",
+  "judge": "Ghulam Shabbir Pathan",
   "sections_cited": [
     "Section 96 of the Code",
     "Section 489-F PPC",
@@ -17,7 +17,11 @@
     "section 19"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Prime Travel Agency",
+    "respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

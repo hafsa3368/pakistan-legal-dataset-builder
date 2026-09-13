@@ -6,7 +6,7 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitutional jurisdiction is not",
+  "case_number": "",
   "date_of_order": "22-4-2025",
   "judge": "Sana Akram Minhas",
   "sections_cited": [
@@ -15,7 +15,16 @@
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Murtaza Lahbar & Others",
+    "Province of Sindh & Others",
+    "Mr. Aamir Aziz Khan, Advocate for Petitioners in CP No.D-3486 / 2023",
+    "Mr. Babar Ali Shaikh, Advocate for Petitioners in CP No.D-1062 / 2023",
+    "M/s Fayaz Ali Metlo, Ms. Adeela Ansari & Ms. Aliya Manzoor, Advocates for Applicants in CP No.D-3486 / 2023",
+    "Mr. Ghous Bux, Special Prosecutor NAB",
+    "Mr. Shahryar Qazi, AAG Sindh",
+    "Mr. Hasnain Shah, Deputy Registrar (Legal & Technical)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

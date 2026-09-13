@@ -8,10 +8,19 @@
   "num_chunks": 4,
   "case_number": "Constitution Petition No.D-7408 of 2019",
   "date_of_order": "20.12.2023",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ali",
+    "IInd Additional District & Session Judge (Malir), Karachi",
+    "Police Department Employees Cooperative Housing Society Limited",
+    "Mr. Arsalan Wahid",
+    "Mr. Jamshed Qazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

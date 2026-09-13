@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "16.01.2018",
-  "judge": "JUDGE Tufail",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Masood Rasool Babar Memon",
+    "Mr. Muhammad Ismail Bhutto",
+    "DIGP Hyderabad",
+    "Inspector Manzoor Ali",
+    "Inspector Nooruddin",
+    "Liaquat Ali",
+    "Muhammad Yasin Serio",
+    "Malik Riaz",
+    "Nisar Ahmed Mallah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

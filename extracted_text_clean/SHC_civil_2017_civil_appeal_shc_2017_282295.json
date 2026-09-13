@@ -6,12 +6,22 @@
   "year": "2017",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "High Court Appeal No.98 of 2018",
   "date_of_order": "19.09.2025",
-  "judge": "JUDGE HANIF",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Sindh Urban State Land (Cancellation of allotments, Conversions, and Exchange) Ordinance, 2001"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. National Bank of Pakistan Ltd.",
+    "M/s. Shoaib Corporation & others",
+    "M/s. Ziaul Haq Makhdoom",
+    "Fatima Ashfaq",
+    "Mr. Muhammad Arif Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

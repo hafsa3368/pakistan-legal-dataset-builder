@@ -6,12 +6,18 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. App. No. D",
+  "case_number": "",
   "date_of_order": "15.01.2020",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulfiqar Ali Jatoi",
+    "None",
+    "the applicant",
+    "the applicant",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

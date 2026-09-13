@@ -6,12 +6,14 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "C.P No.D-2627 of 2017",
+  "date_of_order": "07.02.2018",
+  "judge": "Abdullah Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ismail Bhutto A.A.G. Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

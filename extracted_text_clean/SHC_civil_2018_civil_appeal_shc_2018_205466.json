@@ -6,12 +6,18 @@
   "year": "2018",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "High Court Appeal No.463 of 2018",
   "date_of_order": "14.11.2023",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Karachi Development Authority",
+    "Lal Muhammad Brohi through L.Rs.",
+    "Respondents Nos.1 & 5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

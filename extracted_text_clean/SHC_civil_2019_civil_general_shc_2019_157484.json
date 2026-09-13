@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "Constitution that no citizen",
+  "case_number": "",
   "date_of_order": "10.02.2022",
   "judge": "Aftab Ahmed Gorar Mr",
   "sections_cited": [
@@ -16,7 +16,14 @@
     "1997 SCMR 1043",
     "2006 SCMR 312"
   ],
-  "parties": [],
+  "parties": [
+    "Muzaffar Ali Talpur",
+    "Mahmood Khan Lakho",
+    "Syed Ali Raza Zaidi",
+    "Ministry of Climate Change",
+    "Federal Public Service Commission",
+    "Islamabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

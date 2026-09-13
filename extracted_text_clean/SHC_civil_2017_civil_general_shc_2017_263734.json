@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE",
+  "date_of_order": "8-5-2025",
+  "judge": "Sana Akram Minhas",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Lakha Dino & Another",
+    "Province of Sindh & Others",
+    "Ms. Fareeda Mangrio",
+    "Mr. Shaharyar Qazi",
+    "Sana Akram Minhas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
