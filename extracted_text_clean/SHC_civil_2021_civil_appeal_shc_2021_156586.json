@@ -6,15 +6,22 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Miscellaneous Civil Appeal Nos",
+  "case_number": "",
   "date_of_order": "20.12.2021",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON,",
   "sections_cited": [
     "Section 151 CPC",
     "Section 47"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "P.O Sindh",
+    "Ahmed Nawaz and others",
+    "Province of Sindh",
+    "Government of Sindh",
+    "respondents",
+    "applicants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

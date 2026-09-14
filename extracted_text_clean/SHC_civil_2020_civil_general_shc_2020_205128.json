@@ -9,9 +9,16 @@
   "case_number": "Civil Revision Application No.12 of 2020",
   "date_of_order": "25.10.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jehanzaib Hassan",
+    "Mst. Raeesa Bano",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

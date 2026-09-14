@@ -6,12 +6,21 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-5161 of 2021",
   "date_of_order": "03.09.2021",
-  "judge": "JUDGE Khuhro/PA",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khawaja Aizaz Ahsan",
+    "Mr. Sami ur Rehman",
+    "Mr. Kafeel Ahmed Abbasi",
+    "Deputy Attorney General",
+    "Mr. Hussain Bohra"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

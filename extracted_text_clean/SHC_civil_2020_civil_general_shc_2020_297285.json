@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No.259/2019",
   "date_of_order": "09.12.2025",
   "judge": "",
   "sections_cited": [
@@ -15,7 +15,10 @@
   "citations": [
     "PLD 2020 SC 518"
   ],
-  "parties": [],
+  "parties": [
+    "applicant",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

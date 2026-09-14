@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No.D-137 of 2022",
   "date_of_order": "19-07-2023",
   "judge": "Naimatullah Phulpoto",
   "sections_cited": [
@@ -27,7 +27,12 @@
     "2012 SCMR 954",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Afzal Chandio",
+    "The State",
+    "Syed Sardar Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

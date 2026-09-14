@@ -6,12 +6,21 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "civil servant are a lawful entitlement and cannot",
+  "case_number": "C.P. No. D-1712 of 2023",
   "date_of_order": "05.03.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Article 199 of Islamic Republic of Pakistan",
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Rukhsana Asghar Chaudhary",
+    "Government of Sindh",
+    "Abdul Wahab Baloch",
+    "Abdul Jalil Zubedi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

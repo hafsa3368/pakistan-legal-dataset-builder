@@ -6,12 +6,18 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "construction nor",
+  "case_number": "C.P. No.D-1516 of 2021",
   "date_of_order": "20.08.2021",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khalid Lateef, advocate for the petitioner",
+    "Mr. Mubarak Ali Shah, advocate for KDA",
+    "Mr. Shahzad Raheem, advocate for RespondentsNo.2&3",
+    "Mr. Sartaj Malkani, advocate for SBCA",
+    "Mr. Miran Muhammad Shah, Addl.A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

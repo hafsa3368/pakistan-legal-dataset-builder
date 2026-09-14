@@ -6,12 +6,21 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-4689 of 2022",
   "date_of_order": "18.08.2025",
-  "judge": "Wasim PS",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Irfan Mir Halepota",
+    "Ms. Wajiha Mehdi",
+    "President, Zarai Taraqiati Bank Limited",
+    "Zarai Tariqiati Bank Limited",
+    "No.2",
+    "No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

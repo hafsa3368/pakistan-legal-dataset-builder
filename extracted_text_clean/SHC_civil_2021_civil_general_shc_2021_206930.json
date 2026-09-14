@@ -6,12 +6,17 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.1570/23",
   "date_of_order": "24.07.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Ahmed Masood and Muhammad Altaf, Advocate a/w Abdul Sattar Qureshi/Decree Holder",
+    "Nasir Ilyas/JD No.1",
+    "Jawad Adil/JD No.2",
+    "Tabish Ismail/JD No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

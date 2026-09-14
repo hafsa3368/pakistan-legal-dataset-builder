@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "09.04.2021",
-  "judge": "JUDGE Nadir/PA",
+  "judge": "Irfan Saadat Khan",
   "sections_cited": [
     "Section 3 of the Sindh Service Tribunals Act",
     "Section 4 of the Service Tribunal Act",
@@ -18,7 +18,11 @@
   "citations": [
     "2018 SCMR 1411"
   ],
-  "parties": [],
+  "parties": [
+    "Asif Ali Unar & 02 others",
+    "Province of Sindh and 02 others",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

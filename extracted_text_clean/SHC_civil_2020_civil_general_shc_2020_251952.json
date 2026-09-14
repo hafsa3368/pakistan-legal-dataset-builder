@@ -6,12 +6,20 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P No.D-905 of 2023",
   "date_of_order": "27.03.2025",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Arbab Ali Hakro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Fida Hussain",
+    "Province of Sindh & Others",
+    "Raja Mohiuddin Panhwar",
+    "Mr. Muhammad Ismail Bhutto",
+    "Naveed Yousif Rana",
+    "Muhammad Ismail",
+    "Zahid Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

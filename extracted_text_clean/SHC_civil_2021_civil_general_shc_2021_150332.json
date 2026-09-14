@@ -6,12 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-310 of 2020",
   "date_of_order": "20.01.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Owais Ali Shah and Fayaz Ahmed Memon Advocates",
+    "Mr. Riazat Ali Sahar Advocate",
+    "Syed Muhammad Waseem Shah Advocate",
+    "Mr. Mir Nawaz Kalhoro",
+    "None",
+    "Mr. Allah Bachayo Soomro, Addl. A.G Sindh."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

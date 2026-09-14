@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.P No.D-742 of 2024",
   "date_of_order": "19.11.2025",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 23 of the NADRA Ordinance",
     "Section 18 of the NADRA Ordinance",
@@ -17,7 +17,10 @@
   "citations": [
     "PLD 2021 Islamabad 305"
   ],
-  "parties": [],
+  "parties": [
+    "Daulat Khan and Others",
+    "Federation of Pakistan and Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

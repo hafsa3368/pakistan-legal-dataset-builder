@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "09.02.2023",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 47 of Civil Procedure Code",
     "Section 42 of the Specific Relief Act",
@@ -16,7 +16,11 @@
     "Sections 37, 38 and 39 of CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Metropolitan Steel Corporation",
+    "Multan Electric Power Company",
+    "Summit Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,17 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-934 of 2017",
   "date_of_order": "21.04.2021",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Razia Ali Zaman",
+    "Mr. Allah Bachayo Soomro",
+    "Inspector Abdul Sattar Memon",
+    "S.S.P Tando Muhammad Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

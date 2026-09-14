@@ -6,12 +6,18 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitutional Petition No. D-",
+  "case_number": "",
   "date_of_order": "17.04.2025",
-  "judge": "JUDGE Irfan/PA",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulifqar Ali Naich",
+    "Mr. Shamshad Ali Shah",
+    "S.S.P Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

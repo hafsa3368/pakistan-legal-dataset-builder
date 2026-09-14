@@ -6,12 +6,17 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.27423/2020",
   "date_of_order": "12.02.2021",
-  "judge": "",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Ahsan Ali Shah",
+    "Syed Mohsin Ali Shah",
+    "Alizeh Bashir",
+    "Muhammad Akbar Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

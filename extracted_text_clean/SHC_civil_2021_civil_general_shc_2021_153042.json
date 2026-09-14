@@ -6,12 +6,21 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "CP.No.D-7077 of 2015",
   "date_of_order": "16.09.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mukesh Kumar Karara",
+    "Mr. Abdul Wahab Baloch DAG",
+    "Mr. Ali Safdar Depar",
+    "Mr. Nadeem Ahmed Qureshi",
+    "Law Officer, Law Department",
+    "Focal Person, Senior Members of Board of Revenue (BoR) Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No. 304 of 2025",
   "date_of_order": "19.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 392, 397, 109",
     "Section 392 PPC",
@@ -29,7 +29,12 @@
     "1995 SCMR 1377",
     "PLD 2021 SC 600"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ali",
+    "The State",
+    "Murad Nawaz",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

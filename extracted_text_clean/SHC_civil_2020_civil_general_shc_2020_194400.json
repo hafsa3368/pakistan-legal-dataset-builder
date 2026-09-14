@@ -6,12 +6,14 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.S-311 of 2023",
   "date_of_order": "12.05.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Wahab Gabol"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

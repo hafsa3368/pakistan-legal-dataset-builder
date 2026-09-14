@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "misconceived and is not",
+  "case_number": "",
   "date_of_order": "10-11-2021",
   "judge": "Muhammad Junaid Ghaffar Mr",
   "sections_cited": [],
@@ -14,7 +14,12 @@
     "2020 SCMR 631",
     "2021 SCMR 425"
   ],
-  "parties": [],
+  "parties": [
+    "Shahzado Dreho",
+    "P.O. Sindh",
+    "Sindh Bar Council",
+    "High Court Bar Association"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

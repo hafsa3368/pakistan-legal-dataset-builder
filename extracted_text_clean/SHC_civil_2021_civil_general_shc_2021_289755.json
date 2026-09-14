@@ -6,12 +6,16 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-440 of 2014",
   "date_of_order": "28.10.2025",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed Dahri",
+    "Assistant A.G Sindh",
+    "District Education Officer (Primary) Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

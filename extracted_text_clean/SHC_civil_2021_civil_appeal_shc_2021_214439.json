@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 19,
-  "case_number": "Civil Hospital with my brother Shahid. Now",
+  "case_number": "Cr. Appeal No.189 of 2023",
   "date_of_order": "26.03.2024",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Sections 336/336-B PPC",
     "Section 337-R PPC",
@@ -29,7 +29,15 @@
     "2017 SCMR 364",
     "PLD 2010 SC 669"
   ],
-  "parties": [],
+  "parties": [
+    "Mst.Shabana Kausar",
+    "The State",
+    "Muhammad Usman",
+    "Muhammad Salam",
+    "Yasmeen",
+    "Hamid",
+    "Atif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

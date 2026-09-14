@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P. NO.S-69 OF 2025",
   "date_of_order": "27.02.2025",
   "judge": "Shafi Burfat",
   "sections_cited": [
@@ -23,7 +23,15 @@
     "2020 MLD 130",
     "PLD 2007 Lahore 283"
   ],
-  "parties": [],
+  "parties": [
+    "Gul Ahmed",
+    "Mst. Farah Tariq & another",
+    "Mr. Raj Ali Wahid",
+    "Mr. Zeeshan Abdullah",
+    "Ms. Deeba Ali Jafri",
+    "Ali Haider Ada",
+    "Additional General and Advocate General (AAG)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

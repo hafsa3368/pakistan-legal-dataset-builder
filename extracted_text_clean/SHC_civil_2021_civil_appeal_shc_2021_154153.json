@@ -6,12 +6,16 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-5736 of 2021",
   "date_of_order": "01.10.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent",
+    "Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

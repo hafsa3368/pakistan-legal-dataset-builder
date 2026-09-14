@@ -6,10 +6,15 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "crl not",
+  "case_number": "",
   "date_of_order": "27.08.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mohammad Irem Khan Agha",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "S.9 of NAO",
+    "S.9 of NAO"
+  ],
   "citations": [
     "PLD 2009 SC 427"
   ],

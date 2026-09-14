@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Civil Appeal No.206 of 2024",
   "date_of_order": "03.03.2024",
-  "judge": "Naveed PA",
+  "judge": "Arshad Jamal Siddiqui",
   "sections_cited": [
     "Section 151 CPC",
     "Section 115",
@@ -17,7 +17,13 @@
   "citations": [
     "PLD 2012 Sindh 92"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Arshad Jamal Siddiqui",
+    "the Union of the project",
+    "the respondents",
+    "the Applicant",
+    "the Plaintiff"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

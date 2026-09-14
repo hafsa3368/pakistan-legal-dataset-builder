@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1770 of 2021",
   "date_of_order": "01.11.2015",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Workers Welfare Board Sindh",
+    "Mr. Sohail Ahmed Khoso",
+    "Mr. Samiulllah Soomro",
+    "Mr. Mehboob Ali Wassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

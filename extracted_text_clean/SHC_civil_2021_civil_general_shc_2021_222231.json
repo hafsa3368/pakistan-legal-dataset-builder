@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 68,
-  "case_number": "constitutional field of action of another",
+  "case_number": "",
   "date_of_order": "03.08.2021",
-  "judge": "",
+  "judge": "MOHAMMAD ABDUR RAHMAN,",
   "sections_cited": [
     "Section 117 of the Sindh Cooperative Societies Act",
     "Section 70 of the Cooperative Societies Act",
@@ -38,7 +38,29 @@
     "2023 SCMR 459",
     "2023 SCMR 2119"
   ],
-  "parties": [],
+  "parties": [
+    "Mrs. Shamim Barlas",
+    "Al-Habib Cooperative Housing Society & another",
+    "Altaf Hussain",
+    "Mst. Badrunnisa & another",
+    "Fayyaz Hussain & Others",
+    "Allahabad Cooperative Housing Society Limited & Others",
+    "M/s. Banglore Cooperative Housing Society Limited",
+    "Qaiser Ahmed & another",
+    "M/s Banglore Cooperative Housing Society Limited",
+    "Qaiser Ahmed",
+    "M/s Banglore Cooperative Housing Society Limited",
+    "Alizeh Bashir",
+    "Mr. Saathi M. Ishaq",
+    "Mr. Nadir Khan Burdi",
+    "Mr. Mujtaba Sohail Raja",
+    "Mr. Muhammad Basim Raza",
+    "Mr. Chaudary Atif Rafiq",
+    "Ms. Alizeh Bashir",
+    "Khalil Siddiqui",
+    "Zulfiaqar Ali",
+    "Muhammad Basim Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

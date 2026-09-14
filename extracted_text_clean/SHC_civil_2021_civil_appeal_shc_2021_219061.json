@@ -6,12 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "construction not",
+  "case_number": "HCA No.252 of 2024",
   "date_of_order": "",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh & others",
+    "Tanveer & another",
+    "Appellants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

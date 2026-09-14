@@ -6,12 +6,18 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. Appln. No.S-",
+  "case_number": "",
   "date_of_order": "13.01.2021",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 491 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Tasleem Pasha",
+    "Mr. Umair Khan",
+    "Mr. Shahzado Saleem Nahiyoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

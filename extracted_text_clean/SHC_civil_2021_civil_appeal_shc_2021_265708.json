@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No.D-17 of 2024",
   "date_of_order": "10-04-2025",
-  "judge": "JUDGE",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 9",
     "Section 245",
@@ -23,7 +23,10 @@
   "citations": [
     "2022 SCMR 1784"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Bari son of Muhamamd Khan Pathan",
+    "Mr. Ali Anwar Kandhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

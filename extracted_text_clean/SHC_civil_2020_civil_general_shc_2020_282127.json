@@ -9,11 +9,17 @@
   "case_number": "",
   "date_of_order": "23.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "CIR vs. Rafeh Limited reported as PLD 2020 SC 518"
+  ],
   "citations": [
     "PLD 2020 SC 518"
   ],
-  "parties": [],
+  "parties": [
+    "Applicant",
+    "CIR vs. Rafeh Limited",
+    "Rafeh Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

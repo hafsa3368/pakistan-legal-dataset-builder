@@ -9,12 +9,27 @@
   "case_number": "Civil Petitions No. 912-928",
   "date_of_order": "10.11.2021",
   "judge": "Adnan Iqbal Chaudhry Petitioners",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2009 SCMR 01",
     "2018 SCMR 394"
   ],
-  "parties": [],
+  "parties": [
+    "Fareed Ahmed",
+    "Federation of Pakistan",
+    "Abid Hussain",
+    "Federation of Pakistan",
+    "Nadeem Arif",
+    "Federation of Pakistan",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Justice Adnan Iqbal Chaudhry",
+    "Hameedullah Dahri & Sher Muhammad Dahri",
+    "Zafar Imam",
+    "Mr. Muhammad Humayoon Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

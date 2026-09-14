@@ -8,12 +8,20 @@
   "num_chunks": 2,
   "case_number": "Misc. No.11737 of 2021",
   "date_of_order": "20.04.2021",
-  "judge": "Shahzad JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2007 SC 35"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Qaim Ali Memon, advocate for the petitioner",
+    "Sindh Small Industries Corporation",
+    "the respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

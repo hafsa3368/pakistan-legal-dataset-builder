@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "MA No. 22159 of 2021",
   "date_of_order": "25-01-2022",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 6 of the Sindh Building Control Ordinance",
     "section 25-5",
@@ -20,7 +20,11 @@
     "2019 YLR 911",
     "2019 CLC 1081"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Metro International School (Pvt.) Ltd & Others",
+    "The Sindh Building Control Authority",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

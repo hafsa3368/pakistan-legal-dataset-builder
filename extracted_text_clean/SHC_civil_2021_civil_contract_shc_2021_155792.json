@@ -8,10 +8,19 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "09.11.2021",
-  "judge": "Adnan Iqbal Chaudhry Date",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "S & Sons Contractors",
+    "Mr. Wazir Hussain Chandio",
+    "Mr. Rafiq Ahmed Dahri",
+    "Mr. Justice Adnan Iqbal Chaudhry",
+    "XEN Rohri Division Kandiaro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

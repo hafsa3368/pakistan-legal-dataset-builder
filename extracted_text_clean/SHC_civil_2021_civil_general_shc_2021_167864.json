@@ -6,12 +6,16 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP NO.D-3541/2021",
   "date_of_order": "01.09.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Nishat Warsi",
+    "Mr. Mukesh Kumar Karara",
+    "Mr. Muhammad Shabbir Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

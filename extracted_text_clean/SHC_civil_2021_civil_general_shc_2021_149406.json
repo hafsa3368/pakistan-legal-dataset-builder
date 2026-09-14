@@ -6,12 +6,21 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-8533/2017",
   "date_of_order": "09.02.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shazia Zafar",
+    "Mr. Shoa-un-Nabi",
+    "Mr. Khurram Lakhani",
+    "Mr. Ali Safdar Depar",
+    "Mr. Iqbal Khurram",
+    "KMC",
+    "Jamil Farooqi",
+    "Muhammad Asim Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

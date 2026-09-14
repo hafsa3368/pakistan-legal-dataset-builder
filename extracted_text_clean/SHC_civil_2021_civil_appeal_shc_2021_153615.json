@@ -6,12 +6,15 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-4624 of 2021",
   "date_of_order": "04.08.2021",
-  "judge": "JUDGE Khuhro/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent No.3 & 4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

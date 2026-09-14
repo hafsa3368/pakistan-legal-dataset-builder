@@ -6,14 +6,17 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "ITRA Nos. 13",
   "date_of_order": "18.09.2025",
-  "judge": "",
+  "judge": "B-K Soomro",
   "sections_cited": [],
   "citations": [
     "PLD 2020 SC 518"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue, Hyderabad",
+    "Rafeh Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

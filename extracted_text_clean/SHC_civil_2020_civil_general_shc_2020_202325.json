@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "30.08.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Israr Ahmed Shah",
+    "Mr. Qurban Ali Malano",
+    "Mr. Zulfiqar Ali Naich",
+    "Assistant Advocate General Sindh",
+    "Regional Director (Colleges), Sukkur Region",
+    "Government of Sindh",
+    "College Education Department",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

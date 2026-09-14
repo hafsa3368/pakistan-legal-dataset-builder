@@ -9,9 +9,18 @@
   "case_number": "",
   "date_of_order": "18-12-2025",
   "judge": "Adnan Iqbal Chaudhry Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Karachi Aero Club G. Limited",
+    "The Member, LU, BOR & others",
+    "The Member (Land Utilization) Board of Revenue Sindh Karachi",
+    "Mr. Usman Tufail Sheikh",
+    "Muhammad Jaffer Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

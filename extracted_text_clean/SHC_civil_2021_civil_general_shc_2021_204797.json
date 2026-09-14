@@ -6,12 +6,18 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A. No.274 of 2021",
   "date_of_order": "24.10.2023",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khurram Ahmed Mumtaz",
+    "Mst. Unza Naz Khurram",
+    "Mr. Mujtaba Sohail Raja",
+    "M/s. Muhammad Maaz Waheed",
+    "Muhammad Usman Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

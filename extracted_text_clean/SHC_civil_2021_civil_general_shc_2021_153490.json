@@ -6,12 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-1064 of 2021",
   "date_of_order": "02.09.2021",
-  "judge": "JUDGE Khuhro/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mukesh Kumar G. Karara",
+    "Mr. Nabi Bukhsh Leghari",
+    "Ms. Rehmat un Nisa",
+    "Mr. Kafeel Ahmed Abbasi",
+    "Mr. Hussain Bohra",
+    "Mr. Saifullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

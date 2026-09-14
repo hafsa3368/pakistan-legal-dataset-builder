@@ -9,9 +9,21 @@
   "case_number": "Civil Appeals No.4189",
   "date_of_order": "27.04.2022",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Salam Memon, advocate",
+    "Ms. Rabya Javed, advocate",
+    "Mr. Ali Safdar Depar, AAG",
+    "Mr. Muhammad Saleem Rajput, Secretary (Services)",
+    "Ms. Rabia Syed, SO-V",
+    "Mr. Shahid A. Abro, Additional Secretary, Board of Revenue Sindh",
+    "Mr. G.N. Qureshi, advocate",
+    "Khalid Abdul Maroof"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

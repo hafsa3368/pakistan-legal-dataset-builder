@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "01.09.2022",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Amir Ali Bhutto",
+    "Mr. Abdul Mujeeb Shaikh",
+    "Mr. Kareem Bux Janwari",
+    "SEPCO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

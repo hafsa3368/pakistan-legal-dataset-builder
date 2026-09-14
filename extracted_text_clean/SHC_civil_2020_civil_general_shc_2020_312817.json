@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitution. Counsel for Respondent No.4/SMPA",
+  "case_number": "C.P Nos.D-2549 of 2024",
   "date_of_order": "23.04.2026",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 7-B of the Sindh Building Control Ordinance",
     "Sections 3, 4 & 5",
@@ -20,7 +20,17 @@
     "PLD 2022 SC 439",
     "PLD 2022 SCMR 439"
   ],
-  "parties": [],
+  "parties": [
+    "Tariq Mansoor",
+    "Province of Sindh",
+    "Cantonment Korangi",
+    "SBCA",
+    "Sindh Master Plan Authority",
+    "MDA",
+    "MDA",
+    "Abdul Jalil Zubedi",
+    "Wajiha Mehdi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

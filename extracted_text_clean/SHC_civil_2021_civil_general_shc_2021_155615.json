@@ -6,12 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-8498 of 2017",
   "date_of_order": "25.11.2021",
-  "judge": "JUDGE Abrar",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Nadeem Khan",
+    "Mr. Mehran Khan",
+    "SHO-Waqar Azeem",
+    "Sindh High Court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

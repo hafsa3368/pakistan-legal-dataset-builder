@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "05.10.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "None present for the Appellant",
+    "None present nor intimation received",
+    "Nobody",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

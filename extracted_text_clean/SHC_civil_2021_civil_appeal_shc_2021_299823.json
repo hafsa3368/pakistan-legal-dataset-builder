@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitution. The test laid down by the Honorable",
+  "case_number": "C.P. No D-971 of 2020",
   "date_of_order": "16.12.2025",
-  "judge": "",
+  "judge": "Jaleel Ahmed Memon",
   "sections_cited": [
     "section 28"
   ],
@@ -16,7 +16,12 @@
     "2013 SCMR 1707",
     "PLD 1973 SC 144"
   ],
-  "parties": [],
+  "parties": [
+    "Quaid-e-Awam University of Engineering, Science and Technology (QUEST), Nawabshah",
+    "Mr. Arbab Ali Zardan",
+    "Mr. Rafique Ahmed Dahi Assistant Advocate General Sindh",
+    "Mr. Kamaluddin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

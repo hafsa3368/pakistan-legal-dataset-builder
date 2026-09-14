@@ -6,14 +6,24 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "Constitution has no application",
+  "case_number": "",
   "date_of_order": "19.03.2025",
   "judge": "Zulfiqar Ali Sangi Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2024 SCMR 527"
   ],
-  "parties": [],
+  "parties": [
+    "Kashmir Ali S/o Illahi Bux",
+    "Muhammad Sodho S/o Muhammad Yousuf",
+    "Province of Sindh",
+    "Secretary Population Welfare Department",
+    "Mr. Shehriyar Imdad Awan",
+    "Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

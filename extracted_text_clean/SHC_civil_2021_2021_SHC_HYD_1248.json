@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Jail Appeal No.S",
+  "case_number": "",
   "date_of_order": "18-01-2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH,",
   "sections_cited": [
     "Section 302"
   ],
@@ -24,7 +24,12 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    "Soomar alias Liaquat Ali",
+    "Gulab",
+    "Raza Muhammad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

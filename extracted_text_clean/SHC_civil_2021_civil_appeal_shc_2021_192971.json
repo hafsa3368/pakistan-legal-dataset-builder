@@ -6,12 +6,16 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Crl. Acquittal Appeal No. 451 of 2021",
+  "case_number": "",
   "date_of_order": "16.06.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Inspector Noor Alam",
+    "SHO P.S. Shahrah-e-Faisal",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

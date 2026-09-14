@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "22.06.2023",
-  "judge": "SulemanKhan/PA",
+  "judge": "",
   "sections_cited": [
     "sections 380, 406 and 408 of the Pakistan Penal Code",
     "section 173 of the Criminal Procedure Code",
@@ -18,7 +18,15 @@
   "citations": [
     "2023 P.Cr.L.J 702"
   ],
-  "parties": [],
+  "parties": [
+    "Abid Hussain Shaikh",
+    "The State",
+    "Nizamuddin Malik",
+    "Tanveer Hussain",
+    "Abid @ Abid Hussain",
+    "China Mobile Pakistan Zong Company",
+    "PW Kamran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

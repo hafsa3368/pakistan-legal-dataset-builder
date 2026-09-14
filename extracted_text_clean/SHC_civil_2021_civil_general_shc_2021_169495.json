@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "",
   "date_of_order": "02-11-2021",
-  "judge": "JUDGE",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 19 of the Sindh Katchi Abadis Act",
     "section 21 of the Sindh Katchi Abadis Act",
@@ -16,7 +16,13 @@
     "section 21 of the Sindh Katachi Abadis Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Faraz Hussain Memon",
+    "Province of Sindh",
+    "Nanjo Mal",
+    "Mohan Lal",
+    "Rafique Ahmed Dahri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

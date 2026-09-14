@@ -6,12 +6,22 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-1369 of 2020",
   "date_of_order": "09.02.2021",
   "judge": "Arshad Hussain Khan Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 452 CrPC",
+    "u/s 365-B CrPC",
+    "u/s 506(ii) CrPC",
+    "u/s 392 CrPC",
+    "u/s 147 CrPC",
+    "u/s 148 CrPC",
+    "u/s 149 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ismail Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

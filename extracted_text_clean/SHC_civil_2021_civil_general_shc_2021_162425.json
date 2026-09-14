@@ -6,12 +6,15 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-849 of 2021",
   "date_of_order": "20.08.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "KW&SB",
+    "KW"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

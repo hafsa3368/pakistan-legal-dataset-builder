@@ -8,10 +8,28 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "08.06.2023",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 322/337-J/284 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "KPT",
+    "Petitioner",
+    "Intervener",
+    "Advocates of Petitioners",
+    "Advocates of Intervener",
+    "AAGs",
+    "A.P.G",
+    "Director, Technical SEPA",
+    "Deputy Director, Law SEPA",
+    "IGP Sindh",
+    "DIG Irfan Ali Baloch",
+    "SSP Keamari",
+    "AIGP Legal",
+    "AIG-II",
+    "PIs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

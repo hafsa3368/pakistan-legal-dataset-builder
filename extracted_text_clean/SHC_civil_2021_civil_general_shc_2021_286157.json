@@ -6,14 +6,18 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Const. Pett. No. D-1566 of 2025",
+  "case_number": "",
   "date_of_order": "08.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 9 of the Constitution"
+  ],
   "citations": [
     "PLD 2009 SC 879"
   ],
-  "parties": [],
+  "parties": [
+    "Mehtab Ahmed Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

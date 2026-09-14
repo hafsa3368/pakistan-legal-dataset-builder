@@ -8,10 +8,19 @@
   "num_chunks": 5,
   "case_number": "Constitution Petition No.D-710 of 2024",
   "date_of_order": "12.08.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Murtaza",
+    "Province of Sindh",
+    "Sindh Education and Literacy Department",
+    "Sukkur Institute of Business Administration",
+    "SIBA Testing Services"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

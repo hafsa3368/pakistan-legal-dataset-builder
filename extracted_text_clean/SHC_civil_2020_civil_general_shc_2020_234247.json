@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "26.02.2020",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Ahmed Khan",
+    "Mr. Shafi Muhammad Chandio",
+    "Mr. Imran Mobeen Khan",
+    "SHO, P.S Tando Masti Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

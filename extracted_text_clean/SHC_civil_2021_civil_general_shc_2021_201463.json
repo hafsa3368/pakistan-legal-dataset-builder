@@ -6,12 +6,29 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "criminal negligence would not",
+  "case_number": "",
   "date_of_order": "17.08.2023",
-  "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Platinum Petroleum Service",
+    "Province of Sindh",
+    "Mr. Mujtaba Sohail Raja",
+    "Mr. Rafiq Ahmed Dahri",
+    "Mr. Muhammad Hayat Mughal",
+    "Mr. Muhammad Humayoon Khan",
+    "Syeda Bakhtawar Naz Shah",
+    "Iqbal Ahmed Memon",
+    "Mrs. Yasmeen Iqbal",
+    "Hafizullah",
+    "Tariq",
+    "Inayat Ali",
+    "Pakistan State Oil"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

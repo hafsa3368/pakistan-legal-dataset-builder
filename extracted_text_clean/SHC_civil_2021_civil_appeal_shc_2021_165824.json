@@ -6,12 +6,24 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "CP NO.D-3657/2021",
   "date_of_order": "20.09.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Jahangir",
+    "Mr. Muhammad Bilal Bhatti",
+    "Mr. Muhammad Nishat Warsi",
+    "DAG",
+    "Mr. Tabish",
+    "Law Officer, EOBI",
+    "respondent No.4",
+    "respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

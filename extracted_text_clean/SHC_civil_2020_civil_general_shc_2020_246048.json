@@ -6,16 +6,27 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "constitutional jurisdiction cannot",
+  "case_number": "CP No.D-975 of 2023",
   "date_of_order": "17.02.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Zulfiqar Ali Sangi",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2024 SCMR 1701",
     "2014 SCMR 157",
     "2005 SCMR 534"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Raza",
+    "Province of Sindh",
+    "DIGP Hyderabad",
+    "SSP Hyderabad",
+    "Mr. Rafique Ahmed Dahri",
+    "Mr. Shahryar Shar",
+    "Mr. Arbab Ali Hakro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

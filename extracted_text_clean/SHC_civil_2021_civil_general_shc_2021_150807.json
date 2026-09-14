@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "",
   "date_of_order": "31.03.2021",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "section 4B3 of the Income Tax Ordinance",
     "Section 4B of the Income Tax Ordinance",
@@ -22,7 +22,33 @@
     "2014 SCMR 1630",
     "1995 SCMR 362"
   ],
-  "parties": [],
+  "parties": [
+    "The CIR",
+    "MSC Switzerand Geneva",
+    "APL Co. (Pvt.) Ltd",
+    "Agha Khan Funds for Economic Dev. S.A",
+    "Unilever Overseas Holding Ltd",
+    "Procter & Gamble & Co.",
+    "Pakistan & Others",
+    "Hino Motors Ltd. (Japan)",
+    "Fed of Pak. & Others",
+    "Freeport Shipping (LLC)",
+    "Detergent Products SARL",
+    "Agha Khan FED S.A",
+    "Gold Trade International Ltd.",
+    "Standard Chartered Bank",
+    "APL Co Pte Ltd & Another",
+    "Detergent products SARL",
+    "Procter & Gamble Co.",
+    "Freeport shipping (LLC)",
+    "Hino Motors Ltd (Japan)",
+    "Pakistan & Others",
+    "Bashir Dawood",
+    "Federation of Pak & Others",
+    "APL Co.Pte Ltd",
+    "Continental G H Netherland B.V.",
+    "Bashir Dawood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

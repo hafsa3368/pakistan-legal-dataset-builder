@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "CONSTITUENCY NO. NA-246",
+  "case_number": "",
   "date_of_order": "22-08-2022",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 63 of the Elections Act",
     "section 4 of the Elections Act"
@@ -17,7 +17,13 @@
     "PLD 2020 SC 137",
     "PLD 2020 SC 591"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Tayyeb Hussain Hashmi",
+    "Imran Ahmed Khan Niazi",
+    "Al-Qadir University Project Trust",
+    "PTI",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

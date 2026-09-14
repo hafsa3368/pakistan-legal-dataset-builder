@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "C.P No.S-133 of 2023",
   "date_of_order": "03.11.2023",
-  "judge": "Faisal Mumtaz/PS",
+  "judge": "Faisal Mumtaz",
   "sections_cited": [
     "Section 9 of Family Court Act",
     "Section 9 of the Act",
@@ -18,7 +18,11 @@
     "Section 14"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Abdul Mujeeb Shaikh",
+    "ARBAB ALI HAKRO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

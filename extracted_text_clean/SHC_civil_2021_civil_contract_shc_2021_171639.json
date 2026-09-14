@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Civil Petitions No.1355-K",
   "date_of_order": "06.09.2022",
-  "judge": "",
+  "judge": "Khalil Ahmed",
   "sections_cited": [
     "Section 55 of the Contract Act",
     "Section 53-A"
@@ -17,7 +17,10 @@
     "2017 SCMR 1696",
     "2012 SCMR 900"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Khalil Ahmed, Advocate, for Plaintiff in Suit No.1228 of 2017 and for Defendant No.1 in Suit No.852 of 2021",
+    "Mr. Haseeb-ur-Rehman, Advocate for Plaintiff in Suit No.852 of 2021 and for Defendant in Suit No.1228 of 2017"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

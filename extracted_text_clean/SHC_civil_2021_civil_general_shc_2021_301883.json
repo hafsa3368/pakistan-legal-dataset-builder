@@ -6,12 +6,22 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P No.D-580 of 2025",
   "date_of_order": "03.12.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms Sarwat Jutt",
+    "Province of Sindh",
+    "Altaf Hussain",
+    "Abdul Rasheed",
+    "Mr. Muhammad Sharif Solangi",
+    "Abdul Hafiz Mari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

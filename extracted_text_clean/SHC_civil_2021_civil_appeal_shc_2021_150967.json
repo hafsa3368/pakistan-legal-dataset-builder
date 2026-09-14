@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Misc. No.10830 of 2021",
   "date_of_order": "20.04.2021",
-  "judge": "Shahzad JUDGE",
+  "judge": "",
   "sections_cited": [
     "Section 25-A of Industrial Relations Ordinance",
     "Section 52 of the Industrial Relations Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Shoa-un-Nabi",
+    "the respondent-company"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

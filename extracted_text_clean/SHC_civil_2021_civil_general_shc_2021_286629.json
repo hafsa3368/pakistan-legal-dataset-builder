@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "10.10.2025",
-  "judge": "JUDGE AK",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 12 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Talha & others",
+    "Athar Naeem & others",
+    "Syed Rashid Rizvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

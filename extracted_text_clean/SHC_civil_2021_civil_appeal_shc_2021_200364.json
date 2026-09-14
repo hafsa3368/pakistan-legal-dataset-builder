@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.D-38 of 2021",
   "date_of_order": "18.07.2023",
-  "judge": "JUDGE",
+  "judge": "Khadim Hussain Tunio",
   "sections_cited": [
     "section 537",
     "section 191"
@@ -18,7 +18,11 @@
     "2014 YLR 964",
     "2004 SCMR 1792"
   ],
-  "parties": [],
+  "parties": [
+    "Kareemdad",
+    "Hussain Bux",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

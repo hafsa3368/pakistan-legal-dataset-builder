@@ -6,12 +6,30 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition Nos",
+  "case_number": "",
   "date_of_order": "27.05.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Muhammad Haseeb Jamali, Muhammad Arif Nisar and Nadeem-ul-Haq",
+    "M/s. Agha Zafar Ahmed and Sanaullah Noor Ghori",
+    "Mr. Muhammad Nishat Warsi",
+    "Mr. Ajaz Hussain",
+    "Mr. Afsar Lateef",
+    "Mr. Sher Alam Mehsood",
+    "Mr. Rashid Manzoor",
+    "Mr. Abdul Ghufran",
+    "Hafiz Abdul Hadi",
+    "Federation of Pakistan",
+    "Pakistan Steel Mills",
+    "Government of Pakistan",
+    "Parliament",
+    "Ministry of Industries & Production",
+    "Transaction Advisory Consortium"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

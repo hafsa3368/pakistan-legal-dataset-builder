@@ -6,12 +6,18 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-4592 of 2021",
   "date_of_order": "03.08.2021",
-  "judge": "JUDGE Khuhro/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mamoon N. Chaudhary",
+    "Mr. Khaleeq Ahmed",
+    "Mr. Mukhtiar Ahmed Junejo",
+    "Respondent Department",
+    "Commissioner Inland Revenue (Appeals-I), Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

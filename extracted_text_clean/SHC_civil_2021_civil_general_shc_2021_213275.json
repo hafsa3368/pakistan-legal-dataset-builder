@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "HCA No. 307/2021",
+  "date_of_order": "15.12.2021",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 42 of the Specific Relief Act",
     "section 91 CPC",
@@ -23,7 +23,12 @@
     "2021 SCMR 1509",
     "PLD 2007 Karachi 224"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Farhan Wazir & others",
+    "Federation of Pakistan & others",
+    "M/s. Khawaja Shams-ul-Islam, Shehzad Mehmood and Imran Taj",
+    "M/s. Makhdoom Ali Khan, Ayan Mustafa Memon, Ahmed Ali Hussain, Ali. T. Ebrahim, Muhammad Shahzeb Siddiqui, Aga Zafar Ahmed, Jazib Ali Shaikh, Kashif Hanif, Muhammad Shahnawaz, Khwaja Aizaz Ahsan, Minahil Malik, Nazia Hanjrah, Darakhshan Jahan, Muhammad Shahbaz, Saif Sohail Younus, Khurram Rashid, Asad Ali Zaidi, Aman Aftab, Ashraf Ali Butt, Rehmat-un-Nisa, Naseema Mangrio, Fahad Khan, Muhammad Imran, Syed Zaeem Hyder, Liaquat Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

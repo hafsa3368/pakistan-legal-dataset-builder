@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "construction raised by Plaintiff. No coercive",
+  "case_number": "MA No.10254/23",
   "date_of_order": "14.07.2023",
-  "judge": "",
+  "judge": "Salman Hamid",
   "sections_cited": [
     "Section 94 CPC",
     "Section 23 of the NAB Ordinance",
@@ -18,7 +18,14 @@
     "1997 SCMR 1508",
     "2020 SCMR 2119"
   ],
-  "parties": [],
+  "parties": [
+    "Sardar Ali Sher Khan",
+    "Mr Salman Hamid",
+    "Plaintiff",
+    "Plaintiff's Counsel",
+    "Defendants",
+    "AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

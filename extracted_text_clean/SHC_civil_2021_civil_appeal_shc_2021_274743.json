@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "Criminal Appeal No.473 of 2021",
   "date_of_order": "21.02.2023",
-  "judge": "",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "Sections 420 PPC",
     "Sections 467/468 & 471 PPC",
@@ -30,7 +30,13 @@
     "2014 SCMR 749",
     "PLD 2002 SC 1048"
   ],
-  "parties": [],
+  "parties": [
+    "Sana Rizwan",
+    "Iqbal Mirza Nazar",
+    "Muhammad Farooq",
+    "DR. Amina Faheem",
+    "Syed Meeral Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

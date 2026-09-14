@@ -8,13 +8,20 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "02.04.2024",
-  "judge": "JUDGE",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [],
   "citations": [
     "PLD 2021 SC 538",
     "PLD 2003 SC 676"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Nasreen Muslim & others",
+    "Mst. Saeeda Sultana & others",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Omar Sial",
+    "M/s. Salahuddin Ahmed and Muhammad Basim Raza",
+    "M/s. Mayhar Kazi and Zahid Ali Sahito"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

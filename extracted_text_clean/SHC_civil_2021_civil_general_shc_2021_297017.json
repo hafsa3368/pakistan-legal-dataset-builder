@@ -6,12 +6,14 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. App. No. S",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "28.06.2021",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Raheem Ansari, Advocate for applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No. D-3534 of 2021",
   "date_of_order": "23.06.2021",
-  "judge": "JUDGE MUBASHIR",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Munawar Alam Khan",
+    "Mr. Zafar Ahmed Khan",
+    "Ms. Naushaba Haq Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,18 @@
   "case_number": "Civil Petition No.2196/2001",
   "date_of_order": "27.05.2002",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Arshad M. Tayebaly, Shahzad Ashraf & Sehar Rana",
+    "Mr. Raja Qasit Nawaz Khan",
+    "Pakistan Railways",
+    "DAG",
+    "AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

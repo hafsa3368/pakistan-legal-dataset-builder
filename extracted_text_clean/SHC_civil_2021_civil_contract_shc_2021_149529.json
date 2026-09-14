@@ -8,13 +8,16 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "15.02.2021",
-  "judge": "",
+  "judge": "Zulfiqar Haider Shah",
   "sections_cited": [
     "section 65-B of the Cooperative Societies Act",
     "section 65 of Cooperative Societies Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Karachi University Cooperative Housing Society",
+    "KW&SB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

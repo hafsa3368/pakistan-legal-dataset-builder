@@ -6,12 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitution towards fundamental rights is not",
+  "case_number": "CP NO.D-4486/2020",
   "date_of_order": "14.09.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Salahuddin Panhwar",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Salman Mirza",
+    "Department of Empowerment of Persons with Disabilities (DEPD)",
+    "Government of Sindh",
+    "Special Educiton and Rehabilitatio Centers"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

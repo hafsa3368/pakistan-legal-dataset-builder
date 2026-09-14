@@ -8,14 +8,23 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "31.10.2001",
-  "judge": "",
+  "judge": "MOHAMMAD ABDUR RAHMAN",
   "sections_cited": [
     "section 7"
   ],
   "citations": [
     "2021 SCMR 1995"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner society",
+    "Respondent No.1",
+    "Respondent No.3",
+    "Respondent No.7",
+    "Pak-Rangers",
+    "Police",
+    "National Development Finance Corporation",
+    "NBP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "15-09-2021",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hamid Ali Memon",
+    "Mr. Miran Bux Shar",
+    "Mr. Mehboob Ali Wassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

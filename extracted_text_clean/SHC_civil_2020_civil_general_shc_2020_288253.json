@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1686 of 2023",
   "date_of_order": "20.08.2020",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Gopang"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

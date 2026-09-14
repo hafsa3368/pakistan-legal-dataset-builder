@@ -6,12 +6,23 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.3934/2025",
   "date_of_order": "24.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. M. Ahmed Hussain, advocate",
+    "Mr. Sandeep Malani, Assistant Advocate General Sindh",
+    "Petitioner",
+    "Province of Sindh and others",
+    "Ibrahim Fibres Ltd.",
+    "Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

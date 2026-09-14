@@ -6,14 +6,23 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Civil Procedure. There is no suggestion",
+  "case_number": "",
   "date_of_order": "11.02.2021",
   "judge": "",
   "sections_cited": [
     "section 115 of Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "F.C.Suit 10 of 2021",
+    "defendants",
+    "plaintiff",
+    "Government respondents Mr. Sharafat Ali",
+    "learned D.A",
+    "appellant",
+    "respondent",
+    "Province"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

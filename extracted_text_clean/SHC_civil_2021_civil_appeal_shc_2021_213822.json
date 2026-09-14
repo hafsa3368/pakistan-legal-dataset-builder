@@ -6,12 +6,17 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.117 of 2021",
   "date_of_order": "29.04.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Allied Engineering and Services (Pvt.) Ltd.",
+    "Habib Bank Limited",
+    "Mr. Saleemuz Zaman",
+    "Chaudhry Atif Rafiq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

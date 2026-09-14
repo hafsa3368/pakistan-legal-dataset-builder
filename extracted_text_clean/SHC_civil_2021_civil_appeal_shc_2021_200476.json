@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Criminal Appeal No. D",
+  "case_number": "",
   "date_of_order": "20.12.2013",
-  "judge": "JUDGE Akber",
+  "judge": "Naimatullah Phulpoto",
   "sections_cited": [
     "Section 9",
     "Section 173",
@@ -33,7 +33,12 @@
     "2022 SCMR 1527",
     "2022 SCMR 1515"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Qurban Ali",
+    "The State",
+    "Qurban Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

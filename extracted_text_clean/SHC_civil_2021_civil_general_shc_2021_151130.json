@@ -6,15 +6,23 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "22.04.2021",
   "judge": "Adnan Iqbal Chaudhry Constitutional Petition",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 SCMR 442",
     "2017 SCMR 890"
   ],
-  "parties": [],
+  "parties": [
+    "Imdad Ali Abro & others",
+    "Federation of Pakistan & others",
+    "Mr. Abdul Salam Memon",
+    "Mr. Muhammad Nishat Warsi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

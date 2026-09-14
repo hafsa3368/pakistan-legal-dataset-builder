@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Criminal Revision Application No.D-10 of 2021",
   "date_of_order": "20.04.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashfaque Ali Khaskheli",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

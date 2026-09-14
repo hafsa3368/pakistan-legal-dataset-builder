@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1747 of 2019",
   "date_of_order": "26.12.2020",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aslam Jatoi",
+    "Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

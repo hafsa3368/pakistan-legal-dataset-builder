@@ -6,14 +6,20 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-109 of 2022",
   "date_of_order": "15.12.2021",
-  "judge": "JUDGE Irfan Ali",
+  "judge": "Irfan Ali",
   "sections_cited": [
     "Section 10"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Arshad S. Pathan",
+    "Mr. Safdar Hussain Laghari",
+    "Mr. Atta Hussain Gaddi Pathan",
+    "Mr. Shamas Din Rajper",
+    "Mr. Muhammad Yousif Rahpoto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

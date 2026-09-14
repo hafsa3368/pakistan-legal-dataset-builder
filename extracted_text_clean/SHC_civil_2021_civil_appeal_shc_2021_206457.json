@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "23.10.2023",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Muhammad Mushtaq Qadri, Muhammad Awais Malano and Naveed Ahmed Bughio",
+    "Mr. Abdul Jaleel Zubedi",
+    "Respondent No.1",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

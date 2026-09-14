@@ -8,12 +8,17 @@
   "num_chunks": 1,
   "case_number": "Misc. Application No.708 of 2025",
   "date_of_order": "23.02.2026",
-  "judge": "JUDGE HANIF",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2020 SC 299"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Akhtar",
+    "The State through Mr. Habib Ahmed, Special Prosecutor ANF"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

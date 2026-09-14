@@ -6,15 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "criminal cases does not",
+  "case_number": "C.P. No.D-5602 of 2025",
   "date_of_order": "08.04.2026",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 395 PPC",
     "Section 265-K Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nasir Ahmed Shaikh",
+    "Province of Sindh",
+    "Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

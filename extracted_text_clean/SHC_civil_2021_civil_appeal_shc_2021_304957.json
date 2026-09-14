@@ -8,10 +8,18 @@
   "num_chunks": 4,
   "case_number": "Civil Suit No.1614 of 2017",
   "date_of_order": "12.01.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Akbar Sarwana",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zulfiqar Ali",
+    "Ghulam Sarwar",
+    "Jabran son of Aurangzeb",
+    "Maymar Housing Scheme (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

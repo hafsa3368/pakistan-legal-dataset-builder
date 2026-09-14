@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "constitute a valid notification",
+  "case_number": "C.P. No. D-271 of 2020",
   "date_of_order": "21.05.2025",
-  "judge": "JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Sections 7",
     "section 8",
@@ -27,7 +27,10 @@
     "PLD 2025 SC 339",
     "PLD 2023 SC 316"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Manufacturers and exporters of textiles products in Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

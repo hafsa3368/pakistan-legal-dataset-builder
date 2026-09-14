@@ -6,12 +6,15 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-1185 of 2021",
   "date_of_order": "15.07.2021",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Fakharuddin Dahraj",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

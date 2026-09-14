@@ -6,12 +6,20 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "21.09.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asadullah Bhanbro, advocate and Mr. Abdul Basit Buriro, advocate for the petitioner",
+    "Mr. Ali Safdar Depar, AAG",
+    "Mr. Menghraj Mal, Research Economist, Finance Department, Government of Sindh",
+    "Mr. Abdul Jabbar Shahani, Litigation Officer, School Education & Literacy Department, Government of Sindh",
+    "Mr. Muhammad Nadeem, Deputy Director SEF",
+    "Malik Naeem Iqbal",
+    "Malik Altaf Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

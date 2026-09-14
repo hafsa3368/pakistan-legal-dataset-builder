@@ -6,10 +6,13 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "misconduct. This court cannot",
+  "case_number": "CP. No. D-3670 of 2023",
   "date_of_order": "31.01.2025",
   "judge": "JUDGEi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 2077",
     "2018 SCMR 1998",
@@ -20,7 +23,15 @@
     "2024 SCMR 1722",
     "PLD 1967 SC 506"
   ],
-  "parties": [],
+  "parties": [
+    "Rehan Pervez",
+    "Federation of Pakistan",
+    "Karachi Port Trust",
+    "Victoria University of Wellington",
+    "Dr. Shahab Imam",
+    "Ms. Wajiha Mehdi",
+    "Malik Naeem Iqbal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

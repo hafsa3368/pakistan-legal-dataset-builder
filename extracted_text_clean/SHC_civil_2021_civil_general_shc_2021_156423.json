@@ -6,12 +6,26 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C. P. No. D-1556 of 2020",
   "date_of_order": "09.12.2021",
-  "judge": "JUDGE SM",
-  "sections_cited": [],
+  "judge": "Irfan Saadat Khan",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Habibullah & others",
+    "Federation of Pakistan & others",
+    "Petitioner",
+    "Religious Teachers",
+    "BS-11",
+    "BS-16",
+    "Pakistan Rangers",
+    "Ministry of Interior",
+    "D.G. Rangers",
+    "Secretary Interior",
+    "Establishment Division"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

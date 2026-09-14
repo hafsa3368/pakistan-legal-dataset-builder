@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "Civil Petition No. 3390 of 2021",
   "date_of_order": "29.10.2024",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aqeel Ahmed Siddiqui",
+    "Petitioners",
+    "Late Kabeer Khan",
+    "Deceased",
+    "General Post Office",
+    "Muhammad Jalal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-1410 of 2020",
   "date_of_order": "17.02.2025",
-  "judge": "",
+  "judge": "Abdullah Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Sarwar Baloch",
+    "Mr. Safdar Hussain Laghari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

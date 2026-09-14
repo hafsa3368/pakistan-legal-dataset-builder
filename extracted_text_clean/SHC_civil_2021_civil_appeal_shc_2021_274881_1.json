@@ -8,13 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "05.05.2025",
-  "judge": "JUDGE",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 11-I, 11-J and 11-B",
     "section 265-K Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State represented by Mr. Ali Haider Saleem",
+    "Hazrat Bilal and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,23 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Const. Petition No.D-",
+  "case_number": "",
   "date_of_order": "11.10.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 3 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Qurban Ali Malano",
+    "Mr. Liaquat Ali Shar",
+    "Dildar Ali Kalwar",
+    "Qareebullah Soomro",
+    "Government of Sindh",
+    "Caretaker Provincial Government of Sindh",
+    "Justice Zafar Ahmed Rajput",
+    "Justice Zulfiqar Ahmad Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-706 of 2021",
   "date_of_order": "20.12.2024",
-  "judge": "",
+  "judge": "M.Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sakhawat Ali",
+    "Mr. Yousuf Ali",
+    "Ms. Alizeh Bashir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

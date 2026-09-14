@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No.S",
+  "case_number": "",
   "date_of_order": "13-01-2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "section 382-B Cr.P.C"
   ],
@@ -24,7 +24,18 @@
     "2018 SCMR 344",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Wali Mohammad son of Sain Bux Waswano",
+    "Zulfiqar son of Wali Mohammad Waswano",
+    "Ghulam Mustafa son of Loung Waswano",
+    "Aijaz son of Ghulam Mustafa Waswano",
+    "The State",
+    "Ms. Sakeena Khatoon",
+    "Aslam",
+    "Ghulam Rasool",
+    "Ali Gul",
+    "Rab Nawaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

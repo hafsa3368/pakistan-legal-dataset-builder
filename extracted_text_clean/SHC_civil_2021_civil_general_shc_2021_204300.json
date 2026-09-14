@@ -8,12 +8,18 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition No.D-3274/2023",
   "date_of_order": "10.10.2009",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Malik Naeem Iqbal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2013 SC 195"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Naeem Iqbal",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

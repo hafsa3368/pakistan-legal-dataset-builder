@@ -8,7 +8,7 @@
   "num_chunks": 17,
   "case_number": "Criminal Appeal No.S-159 of 2024",
   "date_of_order": "27.11.2025",
-  "judge": "",
+  "judge": "Shamsuddin Abbasi,",
   "sections_cited": [
     "Sections 395 and 342",
     "Section 159",
@@ -25,7 +25,11 @@
     "2023 SCMR 831",
     "2022 SCMR 1931"
   ],
-  "parties": [],
+  "parties": [
+    "Pervez Ali",
+    "Javaid",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

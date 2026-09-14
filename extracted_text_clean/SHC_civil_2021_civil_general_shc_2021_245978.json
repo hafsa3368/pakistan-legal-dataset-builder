@@ -6,12 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl.Rev.Appln.No. 131 of 2021",
+  "case_number": "",
   "date_of_order": "31.01.2025",
   "judge": "Ali Haider Ada Mudassar Khan",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Saeed Ahmed Awan",
+    "Mr. Ayaz Ali",
+    "Syed Mumtaz Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

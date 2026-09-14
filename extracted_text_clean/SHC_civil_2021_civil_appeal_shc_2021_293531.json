@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Case No.247/2021",
   "date_of_order": "13.11.2025",
-  "judge": "",
+  "judge": "Muhammad Hasan (Akber)",
   "sections_cited": [
     "Section 489-F PPC",
     "section 245",
@@ -30,7 +30,13 @@
     "PLD 1985 SC 11",
     "PLD 1994 SC 301"
   ],
-  "parties": [],
+  "parties": [
+    "Sahib s/o Photo Mal",
+    "Zulfiqar Ali s/o Bahadur Bhatti",
+    "The State",
+    "Allied Bank",
+    "Sakrand Branch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,14 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "MA No.9092/2020",
+  "date_of_order": "28.03.2025",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    ""
+  ],
   "chunks": [
     {
       "chunk_index": 0,

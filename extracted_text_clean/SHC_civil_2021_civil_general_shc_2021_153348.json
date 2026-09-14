@@ -6,12 +6,23 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-1156/2016",
   "date_of_order": "14.09.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Rule 4 of Contribution Rules EOBI"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khalid Imran",
+    "Ravi Pinjani",
+    "Muhammad Zaheer ul Hassan",
+    "M/S Manzoor Hameed Arain and Ali Asadullah Bullo",
+    "Noor Nabi",
+    "EOBI"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,16 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.508 of 2025",
   "date_of_order": "08.04.2026",
-  "judge": "JUDGE",
+  "judge": "Omar Sial Justice Ms",
   "sections_cited": [
     "sections 6 and 9 of the CNS Act",
     "section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Faraz Ahmed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

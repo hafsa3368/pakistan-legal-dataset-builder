@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1422 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "27.05.2025",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zulfiqar Ali Qazi",
+    "P.O. Sindh & others",
+    "Town Committee Kotdiji a/w Zahid Ali Khoso",
+    "Zahid Ali Khoso",
+    "Town Committee Kotdiji",
+    "Mr. Muhammad Raza Soomro",
+    "Mr. Manzoor Hussain Halepoto",
+    "Mr. Shahriyar I. Awan",
+    "AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

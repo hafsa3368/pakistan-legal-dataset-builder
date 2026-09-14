@@ -6,12 +6,23 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "15.04.2021",
   "judge": "Adnan Iqbal Chaudhry Constitutional Petition",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saeed Akhtar",
+    "The Government of Sindh",
+    "Mr. Abndul Sallam Memon",
+    "Mr. Altaf Hussain",
+    "Mr. Ali Safdar Depar",
+    "Mr. Abdul Salam Memon",
+    "respondent 3",
+    "respondent 5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

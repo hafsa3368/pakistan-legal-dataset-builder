@@ -6,12 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A. No.280 of 2022",
   "date_of_order": "18.03.2025",
-  "judge": "JUDGE HANIF",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Sarwari Khatoon",
+    "Syed Imtiaz Ali",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

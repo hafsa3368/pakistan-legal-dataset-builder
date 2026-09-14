@@ -6,12 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-4838 of 2021",
   "date_of_order": "17.08.2021",
-  "judge": "JUDGE Khuhro/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aleem, advocate for the petitioner",
+    "Mr. Kafeel Ahmed Abbasi, Deputy Attorney General",
+    "impugning the respondent Department",
+    "the petitioner",
+    "the respondent Department",
+    "the Commissioner Inland Revenue (Appeals-III), Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

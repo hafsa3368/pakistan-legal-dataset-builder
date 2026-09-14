@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "MA No.16970/2024",
   "date_of_order": "18.02.2025",
   "judge": "Muhammad Jaffer Raza",
   "sections_cited": [
@@ -18,7 +18,10 @@
     "1996 SCMR 1530",
     "2021 CLC 1261"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Altaf Nazim",
+    "Mr. Riaz Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

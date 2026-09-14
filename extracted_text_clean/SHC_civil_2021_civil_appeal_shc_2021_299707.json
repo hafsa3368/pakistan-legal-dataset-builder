@@ -8,7 +8,7 @@
   "num_chunks": 17,
   "case_number": "Criminal Appeal No.D-19 of 2025",
   "date_of_order": "22.12.2025",
-  "judge": "JUDGE",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 376, 377-B and 34",
     "Section 376",
@@ -29,7 +29,11 @@
     "2020 SCMR 590",
     "PLD 2021 SC 550"
   ],
-  "parties": [],
+  "parties": [
+    "Hamz Ali @ Hamzo son of Rehmatullah",
+    "Mashooque Ali son of Dhani Bux",
+    "Wazir son of Allah Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

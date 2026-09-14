@@ -9,11 +9,18 @@
   "case_number": "",
   "date_of_order": "16.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2020 SC 518"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Imran Iqbal Khan",
+    "Mr. Bilawal",
+    "Rafeh Limited",
+    "Commissioner of Inland Revenue Lahore"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

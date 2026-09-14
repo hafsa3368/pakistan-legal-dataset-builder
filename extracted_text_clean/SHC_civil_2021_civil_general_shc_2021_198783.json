@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Miscellaneous Application No. 284 of 2018",
   "date_of_order": "17 August 2020",
-  "judge": "JUDGE",
+  "judge": "Mohammad Abdur Rahman",
   "sections_cited": [
     "section 7"
   ],
@@ -19,7 +19,12 @@
     "PLD 2002 SC 1068",
     "PLD 2011 SC 44"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent No. 1 (a)",
+    "Respondent No. 2",
+    "M/s Information Department, Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

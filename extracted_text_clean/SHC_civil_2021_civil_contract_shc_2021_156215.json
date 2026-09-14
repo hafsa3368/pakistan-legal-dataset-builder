@@ -6,12 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-1619 of 2021",
   "date_of_order": "03.11.2021",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "u/s 365-B & 35 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Allah Bachayo Soomro",
+    "Additional A.G Sindh",
+    "Mr. Fayyaz Hussain Sabki",
+    "ASI M. Moosa"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

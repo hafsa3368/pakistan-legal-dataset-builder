@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Acquittal appeal No. S-561 of 2022",
+  "case_number": "",
   "date_of_order": "06.10.2020",
-  "judge": "",
+  "judge": "Fazal-ur-Rehman Mirani",
   "sections_cited": [
     "Section 489-F PPC",
     "Section 342 CrPC"
@@ -25,7 +25,16 @@
     "2021 YLR 324",
     "2025 SCMR 1344"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Akhtar Ali Raza",
+    "The State and another",
+    "Muhammad Aslam",
+    "Mazhar Shah",
+    "Akram Qaimkhani",
+    "Nabeel",
+    "The Respondent No.2",
+    "The Respondent No.1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,20 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.4045/2019",
   "date_of_order": "18.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2020 SC 518"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue LTO Karachi",
+    "Mr. Mukesh Kumar",
+    "Rafeh Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

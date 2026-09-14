@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Misc. Application No. 842 of 2024",
   "date_of_order": "24.02.2025",
-  "judge": "",
+  "judge": "ALI HAIDER ‘ADA’-J",
   "sections_cited": [
     "Section 7 & 5",
     "Section 188 Cr.P.C",
@@ -16,7 +16,11 @@
     "section 1"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bassam Khan Dahri, Advocate for the Petitioners",
+    "Ms. Rubina Qadir, Deputy Prosecutor General, Sindh",
+    "Mr. Raj Ali Wahid, Advocate for Respondents No.2 to 4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

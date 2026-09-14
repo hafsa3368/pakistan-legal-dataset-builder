@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Constitutional Petition No. D-341 of 2021",
   "date_of_order": "",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Liaquat Ali Shar",
+    "Lutufullah Buriro, XEN Irrigation Department, Dadu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

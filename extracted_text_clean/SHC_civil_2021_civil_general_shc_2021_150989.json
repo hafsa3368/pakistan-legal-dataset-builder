@@ -6,12 +6,15 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-313 of 2016",
   "date_of_order": "20.04.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Rasool Soomro",
+    "Barrister Faizan Hussain Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

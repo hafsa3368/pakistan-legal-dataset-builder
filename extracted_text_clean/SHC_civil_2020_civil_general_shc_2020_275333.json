@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constt. Petition No. S-",
+  "case_number": "",
   "date_of_order": "17.07.2025",
   "judge": "",
   "sections_cited": [
@@ -15,7 +15,9 @@
     "section 173 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Munawar Ali Abbasi, Assistant Advocate General, Sindh a/w. SDPO/ DSP, Hyderi, Insp. Ghafoor Chutto, SHO, Taluka, Insp. Nisar Brohi, SHO, Rehmatpur, SIP- Ali Dost, on behalf of SSP, Larkana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

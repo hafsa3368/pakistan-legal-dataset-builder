@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "constitutional petition does not",
+  "case_number": "",
   "date_of_order": "16.02.2021",
   "judge": "Arshad Hussain Khan",
   "sections_cited": [
@@ -20,7 +20,10 @@
     "2008 SCMR 236",
     "1996 SCMR 1165"
   ],
-  "parties": [],
+  "parties": [
+    "Sher Ali",
+    "Syed Hamid Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

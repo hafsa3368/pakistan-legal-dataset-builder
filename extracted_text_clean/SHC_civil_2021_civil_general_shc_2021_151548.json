@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "Constitutional Petition No.D",
+  "case_number": "",
   "date_of_order": "06.05.2021",
   "judge": "Irfan Saadat Khan Mr",
   "sections_cited": [
@@ -31,7 +31,23 @@
     "2018 SCMR 162",
     "2019 SCMR 984"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan National Shipping Corporation",
+    "Federation of Pakistan",
+    "Muhammad Ishtiaq",
+    "Sohail",
+    "Syed Haider Imam Rizvi",
+    "Syed Ahsan Imam Rizvi",
+    "Sanaullah",
+    "Shujauddin",
+    "Chaudhry Muhammad Ashraf Khan",
+    "Aamer Latif",
+    "Abdul Ghaffar",
+    "Sufiyan Zaman",
+    "Munib Kidwai",
+    "Zafarullah Khan",
+    "Muhammad Nishat Warsi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

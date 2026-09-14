@@ -6,16 +6,20 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-2329 of 2024",
   "date_of_order": "14.01.2026",
-  "judge": "Shahzad Soomro JUDGE",
+  "judge": "Shahzad Soomro",
   "sections_cited": [
     "Section 55 of the Cooperative Societies Act",
     "section 55 of the Sindh Cooperative Societies Act",
     "section 24-A of the General Clauses Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Rehman Ghous",
+    "Mr. Mehran Khan",
+    "Registrar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

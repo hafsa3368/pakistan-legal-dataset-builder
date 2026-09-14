@@ -6,12 +6,18 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.S-108 of 2022",
   "date_of_order": "12.09.2024",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 377-B, 34 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman",
+    "Bilal Ahmed",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

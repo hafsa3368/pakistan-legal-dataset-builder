@@ -6,12 +6,23 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-628 of 2024",
   "date_of_order": "17.11.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Haseeb Jamali",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Oil and Gas Regulatory Authority Ordinance, 2002",
+    "Petroleum Products (Petroleum Levy) Ordinance, 1961"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Cnergyico Pk Limited",
+    "Respondents No.1&2",
+    "M/s. S.M. Mansoor Akhtar",
+    "Muhammad Najeeb Jamali",
+    "Deputy Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

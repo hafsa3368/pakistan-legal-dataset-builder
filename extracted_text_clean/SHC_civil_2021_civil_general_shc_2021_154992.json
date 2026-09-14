@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Misc. A. No. S-",
+  "case_number": "",
   "date_of_order": "22.10.2021",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 561-A",
     "section 200",
@@ -24,7 +24,14 @@
     "2020 SCMR 2037",
     "PLD 2018 SC 595"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Riaz",
+    "Nazeer Thakur",
+    "Shabir Mallah",
+    "Karimdad",
+    "Shamoo",
+    "Naeem Qaimkhani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

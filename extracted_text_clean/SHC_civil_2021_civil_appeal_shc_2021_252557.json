@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Jail Appeal No. D-16 of 2024",
   "date_of_order": "08-04-2025",
-  "judge": "JUDGE",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 9",
     "Section 342 Cr.P.C",
@@ -17,7 +17,11 @@
   "citations": [
     "2006 MLD 459"
   ],
-  "parties": [],
+  "parties": [
+    "Nadeem son of Shamsuddin Mirjat",
+    "the State of Sindh",
+    "the State represented by Mr. Ali Anwar Kandhro, Additional Prosecutor General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

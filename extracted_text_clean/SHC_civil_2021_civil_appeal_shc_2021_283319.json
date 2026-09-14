@@ -8,12 +8,17 @@
   "num_chunks": 3,
   "case_number": "Civil Appeal No.1509 of 2021",
   "date_of_order": "24.09.2025",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [
     "Sections 9 of the PTC Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Zia-ul-Haq Makhdoom and Faisal Aziz",
+    "Ms. Zehrah Sehar Veyani",
+    "PTCL",
+    "PTET"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

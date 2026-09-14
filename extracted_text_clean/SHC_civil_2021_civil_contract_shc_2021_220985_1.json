@@ -6,17 +6,27 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Acquittal Appeal No.S-100 of 2024",
+  "case_number": "",
   "date_of_order": "15.10.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Zulfikar Ali Sangi",
+  "sections_cited": [
+    "u/s 506"
+  ],
   "citations": [
     "2021 YLR Note 55",
     "1995 SCMR 635",
     "1998 SCMR 1281",
     "PLD 2011 SC 554"
   ],
-  "parties": [],
+  "parties": [
+    "Zahid Hussain Mangi",
+    "Shahzado",
+    "Abdul Wahab",
+    "Akram",
+    "Mst. Shahida",
+    "Mujahid Ali",
+    "Riaz Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

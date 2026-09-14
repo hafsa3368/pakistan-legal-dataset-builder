@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "Misc. No.12117 of 2021",
   "date_of_order": "23.04.2021",
-  "judge": "Nadir JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Farooq Ahmed Sheerazi",
+    "Karachi Port Trust (KPT)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

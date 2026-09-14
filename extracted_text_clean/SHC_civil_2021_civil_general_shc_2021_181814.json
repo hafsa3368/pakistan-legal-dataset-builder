@@ -9,13 +9,24 @@
   "case_number": "",
   "date_of_order": "15.02.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2009 SCMR 1448",
     "2022 SCMR 472",
     "2021 SCMR 1133"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Mazhar Ali Jatoi",
+    "Federation of Pakistan",
+    "Karachi Port Trust (KPT)",
+    " respondent 2",
+    "respondent 3",
+    "respondent 4",
+    "respondent 5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

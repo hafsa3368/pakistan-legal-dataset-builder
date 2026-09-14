@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Civil Petition No.1418 of 2023",
   "date_of_order": "24.10.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shoukat Hussain Shaikh",
+    "Ms. Rehana Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

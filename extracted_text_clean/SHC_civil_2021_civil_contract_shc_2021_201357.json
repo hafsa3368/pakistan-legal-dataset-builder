@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Constitutional Petition No. D-3913 of 2020",
   "date_of_order": "03.08.2023",
-  "judge": "",
+  "judge": "Muhammad Ashraf Samoo",
   "sections_cited": [
     "Section 12 CPC",
     "Section 114 CPC"
@@ -17,7 +17,10 @@
     "1999 SCMR 1516",
     "2004 SCMR 843"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ashraf Samoo",
+    "Mr. K.A Vaswani, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

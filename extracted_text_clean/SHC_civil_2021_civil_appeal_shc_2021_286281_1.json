@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "Criminal Jail Appeal No. D-32 of 2024",
   "date_of_order": "01.10.2025",
-  "judge": "JUDGE",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 9",
     "Section 374",
@@ -38,7 +38,11 @@
     "2024 PCr.LJ 1502",
     "2024 YLR 556"
   ],
-  "parties": [],
+  "parties": [
+    "Rafique Ahmed s/o Haji Murad Brohi",
+    "Khalil Ahmed s/o Haji Gulsher Khan Makrani",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

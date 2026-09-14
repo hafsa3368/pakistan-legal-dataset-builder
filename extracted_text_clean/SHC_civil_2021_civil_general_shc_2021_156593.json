@@ -6,12 +6,21 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P. No.D-6423 of 2021",
   "date_of_order": "02.12.2021",
-  "judge": "JUDGE Abrar",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Mr. Nabeel Kolachi, Advocate",
+    "Mr. Mehran Khan, Assistant Advocate General Sindh",
+    "Shahzad Fazal Abbasi",
+    "Director Anti-Corruption Establishment Sindh, Karachi",
+    "Mr. Ghulam Shabbir Sheikh, Law Officer of Board of Revenue",
+    "Wali Muhammad Shaikh",
+    "Sub-Registrar Jamshed Town-II, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,15 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "04.10.2022",
-  "judge": "JUDGE",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "section 489-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Amir",
+    "Akhtar Ali Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

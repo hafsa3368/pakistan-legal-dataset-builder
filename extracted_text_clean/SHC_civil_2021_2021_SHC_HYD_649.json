@@ -6,12 +6,20 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-1499 of 2020",
   "date_of_order": "17.02.2021",
   "judge": "Arshad Hussain Khan Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Arshad Hussain Khan",
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Aqeel Ahmed Siddiqui",
+    "Petitioners",
+    "Private Respondent",
+    "Jumoon Khan",
+    "Irrigation department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

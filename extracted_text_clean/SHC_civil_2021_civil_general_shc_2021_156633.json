@@ -6,12 +6,17 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "constructed by respondent No.2",
+  "case_number": "C.P No.D-1167 of 2013",
   "date_of_order": "10.11.2021",
   "judge": "Hafiz Fahad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners: Through Mr. Ayatullah Khuwaja, Advocate",
+    "Respondent No.2: Through M/s. Muhammad Arshad S. Pathan & Safdar Hussain Leghari, Advocate",
+    "Respondent – NTPS: Through Mr. Muhammad Idrees Naqshbandi, Advocate",
+    "Respondent No.5: Through Mr. Allah Bachayo Soomro, Addl. Advocate General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

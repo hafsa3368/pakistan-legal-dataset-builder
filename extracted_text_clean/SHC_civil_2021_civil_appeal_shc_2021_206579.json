@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "M.A. No.20 of 2021",
   "date_of_order": "07.12.2023",
   "judge": "",
   "sections_cited": [
@@ -15,7 +15,10 @@
     "Section 27"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Wali Muhammad Jamari, Assistant A.G Sindh",
+    "unrepresented appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

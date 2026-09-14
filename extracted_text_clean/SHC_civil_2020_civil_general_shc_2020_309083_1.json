@@ -9,11 +9,20 @@
   "case_number": "Constitution Petition No. D-03 of 2026",
   "date_of_order": "31.03.2026",
   "judge": "Muhammad Saleem Jessar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2024 SC 1276"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Saleem Jessar",
+    "Mr. Justice Nisar Ahmed Bhanbhro",
+    "Zain Ahmed",
+    "M/s Hakim Ali Shaikh",
+    "Sagheer Ahmed Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

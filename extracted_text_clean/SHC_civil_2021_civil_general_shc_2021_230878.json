@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "",
-  "judge": "Date of hearin fu GE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada",
+    "Mr. Mehboob Ali Wassan",
+    "Mr. Khuda Bux Chohan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

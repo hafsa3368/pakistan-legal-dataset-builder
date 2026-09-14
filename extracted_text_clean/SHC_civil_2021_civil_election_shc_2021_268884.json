@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "date_of_order": "23-5-2025",
+  "judge": "Sana Akram Minhas",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 498 Cr.P.C.",
+    "Section 439 CrPC",
+    "Section 482 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sana Akram Minhas",
+    "Muhammad Ali Soomro",
+    "Lawyers Coop. Housing Society Ltd",
+    "Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

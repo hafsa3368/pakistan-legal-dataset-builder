@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Transfer Application No. 22 of 2023",
   "date_of_order": "10.11.2023",
-  "judge": "",
+  "judge": "Jehangir Ahmed Qureshi",
   "sections_cited": [
     "Section 526 Cr.P.C",
     "Section 526"
@@ -17,7 +17,13 @@
     "2003 SCMR 104",
     "PLD 1973 SC 327"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Jehangir Ahmed Qureshi",
+    "Mr. Salim Raza Jakhar",
+    "Mr. Abrar Kitchi",
+    "APG",
+    "Hussain & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

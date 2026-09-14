@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Civil Judge in Suit No.476/2020",
+  "case_number": "",
   "date_of_order": "23.01.2025",
   "judge": "Jawad Akbar Sarwana",
   "sections_cited": [
@@ -16,7 +16,10 @@
     "Section 20"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Munir Ahmed Sharer",
+    "Muhammad Asad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

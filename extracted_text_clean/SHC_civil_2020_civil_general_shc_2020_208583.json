@@ -6,14 +6,24 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "MA No. 21029/2021",
   "date_of_order": "30.03.1995",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2012 SC 247"
   ],
-  "parties": [],
+  "parties": [
+    "Muniba Iqbal",
+    "Pride Builders and Developers & others",
+    "Nemo",
+    "Karachi Development Authority",
+    "Aamir Rasheed",
+    "Tasneem Uddin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

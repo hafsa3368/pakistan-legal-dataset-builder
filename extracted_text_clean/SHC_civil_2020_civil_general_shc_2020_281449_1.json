@@ -6,14 +6,21 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.651/2021",
   "date_of_order": "18.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2020 SC 518"
   ],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue",
+    "Legal",
+    "LTO",
+    "Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

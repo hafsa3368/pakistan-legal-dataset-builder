@@ -6,14 +6,28 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No. D-653 of 2021",
   "date_of_order": "27.11.2025",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 1994 SC 693"
   ],
-  "parties": [],
+  "parties": [
+    "Aftab Ahmed & Ors.",
+    "Federation of Pakistan & Ors",
+    "Gulzar Ali Almani",
+    "Ghulam Murtaza Shaikh",
+    "Faiza Ubaid Memon",
+    "Khalid Saeed Soomro",
+    "Rafique Ahmed Dahri",
+    "Shamim Mughal",
+    "Adnan- Ul-Karim Memon",
+    "Riazat Ali Sahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

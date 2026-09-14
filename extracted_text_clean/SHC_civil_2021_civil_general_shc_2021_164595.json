@@ -7,11 +7,23 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "03-11-2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aamir Mustafa Kamario",
+    "Mr. Sarfraz Ali M. Abbasi",
+    "M/s Salman Talibuddin",
+    "a/w Dr. Kazim Hussain Jatoi",
+    "Secretary Health, Government of Sindh",
+    "Qazi Shahid Pervaiz",
+    "Acting Chief Secretary, Government of Sindh",
+    "Professor Dr. Zulfiqar Ali Soomro",
+    "Principal, GMC, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

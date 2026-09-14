@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Misc. A. No. S-",
+  "case_number": "",
   "date_of_order": "22.10.2021",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "section 154 Cr.P.C",
     "Section 22-A Cr.P.C",
@@ -38,7 +38,15 @@
     "2021 P.Cr.L.J. 1079",
     "2018 YLR Note 81"
   ],
-  "parties": [],
+  "parties": [
+    "Rahmeed Raja",
+    "Muhammad Yousif Jatoi",
+    "Ghulam Sarwar",
+    "Police",
+    "Ex-Officio Justice of Peace",
+    "SSP Shaheed Benazirabad",
+    "SHO PS Qazi Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

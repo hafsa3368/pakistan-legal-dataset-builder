@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "Criminal Revision Application No. S-26 of 2023",
   "date_of_order": "09.12.2025",
-  "judge": "Wasim/PS",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Sections 447 and 448 of the Pakistan Penal Code",
     "Section 3 of the Illegal Dispossession Act",
@@ -37,7 +37,10 @@
     "PLD 2010 SC 665",
     "PLD 2010 Lahore 394"
   ],
-  "parties": [],
+  "parties": [
+    "Israr-ul-Ebad Khan",
+    "The State and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

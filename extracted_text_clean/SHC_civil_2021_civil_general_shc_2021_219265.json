@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Constitution Petitions No.D-5025",
   "date_of_order": "21-08-2024",
-  "judge": "JUDGE",
+  "judge": "Salahuddin Panhwar",
   "sections_cited": [
     "section 34 of the Sindh Industrial Relations Act",
     "Section 16 of the Standing Order Act",
@@ -16,7 +16,13 @@
     "Section 16"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zeeshan Fabrics",
+    "Sindh Labour Appellate Tribunal & another",
+    "Mr. Umair Nisar",
+    "Syed Anayat Hussain Shah Bukhari",
+    "Mr. Rajinder Kumar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

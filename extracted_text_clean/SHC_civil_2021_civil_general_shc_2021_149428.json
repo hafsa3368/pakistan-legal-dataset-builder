@@ -6,12 +6,20 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-2885 of 2017",
   "date_of_order": "10.02.2021",
   "judge": "Arshad Hussain Khan Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ishtiaq Khan",
+    "Mr. Allah Bachayo Soomro",
+    "The petitioner",
+    "official respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

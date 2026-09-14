@@ -6,14 +6,27 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "C.P No.D-1447 of 2020",
   "date_of_order": "08.03.2023",
-  "judge": "JUDGE Faisal Mumtaz/PS",
+  "judge": "Salahuddin Panhwar",
   "sections_cited": [
     "Section 10 of the Antiquities Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Yaseen Ali Ghunio",
+    "Syed Muhammad Ali Shah",
+    "Divisional Superintendent, Pakistan Railways",
+    "Federation of Pakistan",
+    "Province of Sindh",
+    "Qasid H. Mallah",
+    "Syed Sardar Ali Shah",
+    "Shah Abdul Latif University Khairpur",
+    "Shahzad Tahir Thaheem",
+    "Pakistan Railways",
+    "Sindh Government",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

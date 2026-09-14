@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Revision Application No. 249 of 2024",
   "date_of_order": "07.4.2025",
-  "judge": "",
+  "judge": "Arbab Ali Hakro",
   "sections_cited": [
     "Section 115 of the Civil Procedure Code",
     "Section 161 of the Land Revenue Act",
@@ -24,7 +24,10 @@
     "2003 YLR 2372",
     "2005 CLC 1797"
   ],
-  "parties": [],
+  "parties": [
+    "Khuda Bux @ Iqbal",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

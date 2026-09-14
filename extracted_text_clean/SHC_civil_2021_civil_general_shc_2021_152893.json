@@ -6,12 +6,21 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "30.08.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Yahya Iqbal",
+    "Mr. Ali Safdar Depar",
+    "Mr. Zamir Ahmed Abbasi",
+    "Mr. Rafiq Ahmed Kalwar",
+    "Miss Shamona Sadaf",
+    "Secretary Local Government",
+    "Government of Sindh",
+    " respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "misconceived and not",
+  "case_number": "",
   "date_of_order": "11.11.2021",
-  "judge": "",
+  "judge": "ARSHAD HUSSIN KHAN",
   "sections_cited": [
     "Section 151 CPC"
   ],
@@ -23,7 +23,12 @@
     "2013 SCMR 314",
     "1997 SCMR 906"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Yasmeen Sohail",
+    "Mst. Sufia Nasim",
+    "Muhammad Hasan Khan",
+    "Muhammad Naseem Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

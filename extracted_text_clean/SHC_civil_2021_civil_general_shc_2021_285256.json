@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "Civil Revision Appln.No.D-03 of 2024",
   "date_of_order": "23.09.2025",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [
     "Section 12",
     "Sections 22 and 27",
@@ -16,7 +16,12 @@
     "Section 14 of the Limitation Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ameer Bux",
+    "Zarai Taraqiati Bank Ltd.",
+    "Ameer Bux",
+    "Zarai Taraqiati Bank Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

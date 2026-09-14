@@ -6,14 +6,23 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "CP No.D-1942 of 2025",
   "date_of_order": "25.02.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 SCMR 157"
   ],
-  "parties": [],
+  "parties": [
+    "Sheeraz",
+    "Province of Sindh",
+    "Sarfraz Ali Metlo",
+    "Raj Ali Wahid Kunwar",
+    "Abdul Jalil"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

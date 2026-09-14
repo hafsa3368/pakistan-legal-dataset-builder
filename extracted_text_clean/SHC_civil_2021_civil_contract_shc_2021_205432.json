@@ -6,15 +6,21 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-5475 of 2023",
   "date_of_order": "10.10.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2021 SCMR 609",
     "2021 SCMR 977"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghazi Khan Khalil",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

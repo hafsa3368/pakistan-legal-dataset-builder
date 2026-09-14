@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "Civil Petition No. 3390 of 2021",
   "date_of_order": "29.10.2024",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rizwan Ali Lashari",
+    "Mr. Malik Bux Mari",
+    "Mr. Tanveer Ahmed Daudani",
+    "Mr. Yasir Ismail Khoso",
+    "Mr. Abdullah K. Laghari",
+    "Mr. Muhammad Ismail Bhutto",
+    "General Post Office, Islamabad & others",
+    "Muhammad Jalal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

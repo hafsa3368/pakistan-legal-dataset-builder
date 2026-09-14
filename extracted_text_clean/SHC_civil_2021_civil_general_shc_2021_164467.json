@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "16.11.2021",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Riaz Ali Shaikh, Advocate for the Petitioner",
+    "Mr. Mehboob Ali Wassan, Assistant Advocate General Sindh along with Salahuddin Ghumro, Mukhtiarkar Gambat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

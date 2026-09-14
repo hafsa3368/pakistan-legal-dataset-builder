@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 9,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "01.03.2025",
+  "judge": "Ali Junejo",
   "sections_cited": [
     "Section 53 of the Land Revenue Act",
     "Section 115"
@@ -18,7 +18,23 @@
     "2005 SCMR 7872",
     "2020 SCMR 2046"
   ],
-  "parties": [],
+  "parties": [
+    "H.E. Shaikh Zaid Bin Sultan Al-Nahvan",
+    "Allahdino & others",
+    "Jan Muhammad Khuhr o' Adiitional Advocate General",
+    "Musaddiq",
+    "Fatima",
+    "Sara",
+    "Sadi",
+    "Darya Khan",
+    "Sindh High Court",
+    "Board of Revenue Karachi",
+    "Depuly Commissioner",
+    "Mirpur Sakro Gha Mulihtiarkar",
+    "Sindh Secretariat",
+    "Thatta District Court",
+    "Dubai, U.A.E"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,28 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitution nonetheless",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "29-05-2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 208 of the Constitution",
+    "sub-Article of Article 199 of the Constitution",
+    "Gul Taiz Khan Marwat v. Registrar Peshawar High Court (PLD 2021 SC 391)"
+  ],
   "citations": [
     "PLD 2021 SC 391"
   ],
-  "parties": [],
+  "parties": [
+    "Tahir Hussain",
+    "Registrar, High Court of Sindh",
+    "Petitioner",
+    "Deputy Registrar (Gazette), High Court of Sindh",
+    "Law Officer, Law Department",
+    "Respondent No.1",
+    "Mr. Abdul Asif",
+    "Mr. Nadeem Ahmed Qureshi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

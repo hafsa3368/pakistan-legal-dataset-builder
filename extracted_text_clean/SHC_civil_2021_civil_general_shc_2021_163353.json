@@ -6,12 +6,23 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. Appln. No. S",
+  "case_number": "",
   "date_of_order": "26.07.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Alam Sher Bozdar",
+    "Mr. Shafi Muhammad Mahar",
+    "Inspector / DSP Rana Nasrullah",
+    "SSP Ghotki",
+    "SIP Mushtaque Ali",
+    "SIP Abdul Waheed Bhutto",
+    "SHO P.S Meerpur Mathelo",
+    "SHO P.S Jarwar",
+    "Muhammad Ali",
+    "Mst. Kiran alias Samina"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

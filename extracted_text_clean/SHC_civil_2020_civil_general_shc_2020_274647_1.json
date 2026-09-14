@@ -6,14 +6,23 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P No.D-1260 of 2025",
   "date_of_order": "30.06.2025",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [
     "2018 SCMR 2098"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Talha Abbasi",
+    "Mr. Ashraf Ali Mirani",
+    "Mr. K.A. Waswani",
+    "Khair Muhammad Kalwar",
+    "Government of Sindh",
+    "Culture, Tourism, Antiquities & Archives Department",
+    "Petitioner",
+    "Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

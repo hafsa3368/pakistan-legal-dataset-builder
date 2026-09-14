@@ -8,12 +8,15 @@
   "num_chunks": 5,
   "case_number": "Civil Appeal No.155-K of 2011",
   "date_of_order": "22.01.2026",
-  "judge": "",
+  "judge": "Ashiq Muhammad",
   "sections_cited": [
     "Section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Siraj son of Nooruddin",
+    "Raees Ahmed Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

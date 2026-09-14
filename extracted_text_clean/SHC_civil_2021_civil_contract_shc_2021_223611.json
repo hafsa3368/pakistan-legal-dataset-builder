@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "HCA No. 167 of 2020",
   "date_of_order": "18.09.2024",
-  "judge": "JUDGE",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "section 14 of the Arbitration Act",
     "Section 30 of the Arbitration Act",
@@ -32,7 +32,11 @@
     "2014 SCMR 1268",
     "PLD 2010 Peshawar 34"
   ],
-  "parties": [],
+  "parties": [
+    "Trading Corporation of Pakistan",
+    "Sadan General Trading LLC",
+    "Trading Corporation of Pakistan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

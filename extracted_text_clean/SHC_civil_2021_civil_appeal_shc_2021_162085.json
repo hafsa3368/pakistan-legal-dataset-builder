@@ -6,12 +6,16 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.2800/2020",
   "date_of_order": "23.12.2020",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "appellants",
+    "respondent No.1",
+    "respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

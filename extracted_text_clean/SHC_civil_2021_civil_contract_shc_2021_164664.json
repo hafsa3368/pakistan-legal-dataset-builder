@@ -6,12 +6,23 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Const. Petition No. D",
+  "case_number": "",
   "date_of_order": "20-04-2022",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 25(3) CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 28(1) CrPC",
+    "Section 8(3) of Ordinance XI of 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aneel Ali",
+    "P.O Sindh & others",
+    "Municipal Committee-Khairpur",
+    "Assistant A.G.",
+    "High Court of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,21 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition Nos",
+  "case_number": "",
   "date_of_order": "27.05.2019",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Muhammad Haseeb Jamali, Muhammad Arif Nisar and Nadeem-ul-Haq",
+    "M/s. Agha Zafar Ahmed and Sanaullah Noor Ghori",
+    "Mr. Muhammad Nishat Warsi, DAG",
+    "Mr. Ajaz Hussain Law Officer, PSM",
+    "Mr. Afsar Lateef, Secretary Industries and Production Division",
+    "Mr. Sher Alam Mehsood, Additional Secretary Industries and Additional Charge of CEO Pakistan Steel Mills",
+    "Mr. Rashid Manzoor, Additional Secretary Finance",
+    "Mr. Abdul Ghufran, Additional Secretary Cabinet Division and Hafiz Abdul Hadi, Additional Secretary, Finance, Government of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

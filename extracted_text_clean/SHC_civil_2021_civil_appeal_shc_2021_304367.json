@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "CRIMINAL ACQUITTAL APPEAL No.S-123 of 2024",
+  "case_number": "",
   "date_of_order": "28.01.2026",
-  "judge": "",
+  "judge": "Miran Muhammad Shah",
   "sections_cited": [
     "sections 324, 147, 148, 149, 337-A",
     "section 173 Cr.P.C",
@@ -19,7 +19,15 @@
     "sections 337-L and 337-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Rasool s/o Bux Ali",
+    "Muhammad Azam s/o Ghulam Muhammad",
+    "Ghulam Murtaza alias Papoo s/o Kamaluddin",
+    "Muhammad Nawaz s/o Kamal Din",
+    "Asad Kamal s/o Kamal Din",
+    "Anwar Ali s/o Ghulam Sarwar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Civil Appeal No.749 of 2021",
   "date_of_order": "31.01.2019",
-  "judge": "",
+  "judge": "Muhammad Hamzo Buriro",
   "sections_cited": [
     "section 8"
   ],
@@ -16,7 +16,14 @@
     "PLD 2011 SC 132",
     "PLD 2010 SC 676"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Aamir Mustafa Kamario",
+    "M/s Irshad Hussain Dharejo and Saeed Ahmed Balouch",
+    "Mr. Muhammad Hamzo Buriro",
+    "Mr. Qurban Ali Malano",
+    "Syed Salahuddin & others",
+    "Pakistan Electric Power Company"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

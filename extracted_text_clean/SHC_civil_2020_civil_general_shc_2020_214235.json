@@ -7,13 +7,23 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Constitution Petition No. D-1676 of 2023",
-  "date_of_order": "",
+  "date_of_order": "07-05-2024",
   "judge": "Karim Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Rule 11-A of Sindh Civil Servants (Appointment, Promotion and Transfer) Rules, 1974"
+  ],
   "citations": [
     "2018 SCMR 1607"
   ],
-  "parties": [],
+  "parties": [
+    "Aqib Ali Mirani",
+    "Province of Sindh & others",
+    "Mr. Abdul Sallam Abbasi",
+    "Mr. Shaharyar Imdad Awan",
+    "Secretary to Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

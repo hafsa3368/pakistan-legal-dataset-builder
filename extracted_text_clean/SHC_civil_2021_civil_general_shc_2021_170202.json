@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 6,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "31.01.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "Section 202 CrPC",
+    "Section 138 CrPC",
+    "Section 357 CrPC",
+    "Section 319 CrPC",
+    "Section 498-A CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Nuzhat",
+    "SSP Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

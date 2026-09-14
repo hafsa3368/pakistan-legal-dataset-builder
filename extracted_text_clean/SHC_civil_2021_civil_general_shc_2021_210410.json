@@ -6,12 +6,16 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitution also. Let pre-admission notice",
+  "case_number": "C.P. No.D-507 of 2024",
   "date_of_order": "31st January 2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Usman Farooq, Advocate for Petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

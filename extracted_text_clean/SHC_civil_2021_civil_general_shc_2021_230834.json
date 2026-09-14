@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-01of",
-  "date_of_order": "",
+  "date_of_order": "27.10.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada",
+    "Mr. Khuda Bux Chohan",
+    "Sukkur lvlunicipal Corporation",
+    "Mr. Saeed Ahmed Wassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,15 +6,26 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Appeal No. S",
+  "case_number": "",
   "date_of_order": "22-02-2021",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 149 PPC",
     "section 367 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ibrahim son of Deeno",
+    "Abbas son of Akbar",
+    "Hameed son of Ahmed Khan",
+    "The State",
+    "Mr. Sajjad Ahmed Chandio",
+    "Mr. Shevak Rathor",
+    "Bahadur",
+    "Ali Dost alias Manzoor",
+    "Mst. Hameeda",
+    "Qadir Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,19 @@
   "num_chunks": 7,
   "case_number": "",
   "date_of_order": "26.03.2025",
-  "judge": "",
+  "judge": "Nisar Ahmed Bhanbhro",
   "sections_cited": [
     "section 11"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Mr. Achar Khan Gabol",
+    "Mr. Ali Raza Baloch",
+    "Shah Nawaz Ali",
+    "Ghulam Muhammad",
+    "Abdul Majeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

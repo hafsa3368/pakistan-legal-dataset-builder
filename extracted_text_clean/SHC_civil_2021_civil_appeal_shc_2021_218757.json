@@ -6,12 +6,18 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil Petition Nos",
+  "case_number": "",
   "date_of_order": "03-09-2024",
   "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Al-Mashood Oil and Ghee Industries (Pvt.) Ltd.",
+    "Province of Sindh",
+    "M/s. Al-Mashood Oil and Ghee Industries (Pvt.) Ltd.",
+    "Province of Sindh",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

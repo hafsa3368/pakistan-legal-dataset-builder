@@ -6,12 +6,23 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "CP No.D-6550 of 2020",
   "date_of_order": "18.01.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners No.2",
+    "Defendant/SIDA",
+    "Intervener in CMA No.6550 of 2020",
+    "Intervener in CMA No.7956/2019",
+    "Intervener in CMA No.6229/2020",
+    "Intervener in CMA No.5712/2020",
+    "Intervener in CMA No.6550 of 2020",
+    "Government of Sindh",
+    "Irrigation Department",
+    "Irrigation Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

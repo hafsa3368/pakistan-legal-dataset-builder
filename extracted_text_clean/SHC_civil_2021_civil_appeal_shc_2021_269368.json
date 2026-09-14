@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Case No.15/2022",
   "date_of_order": "05-05-2025",
-  "judge": "",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "Section 489-F"
   ],
@@ -16,7 +16,11 @@
     "1998 SCMR 1281",
     "2010 SCMR 491"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Waheed Malik",
+    "Umair Ahmed Kamboh",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,18 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "civil court concerned. 2. This petition does not",
+  "case_number": "C.P. No.D-438 of 2015",
   "date_of_order": "17.11.2021",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Nadeem Akhtar",
   "sections_cited": [
     "Section 12"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahnaz Akhtar",
+    "Province of Sindh & Ors",
+    "Mr. Rafique Ahmed Dahri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

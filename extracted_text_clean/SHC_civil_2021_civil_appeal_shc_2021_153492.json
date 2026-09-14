@@ -6,12 +6,15 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-5073 of 2021",
   "date_of_order": "02.09.2021",
-  "judge": "JUDGE Khuhro/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Abdul Rehman",
+    "Mr. Kafeel Ahmed Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

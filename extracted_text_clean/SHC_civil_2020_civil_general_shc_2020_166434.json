@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "civil servant for promotion cannot",
+  "case_number": "",
   "date_of_order": "17.05.2022",
   "judge": "Muhammad Junaid Ghaffar Mr",
   "sections_cited": [
@@ -20,7 +20,14 @@
     "2019 SCMR 1720",
     "1989 MLD 1351"
   ],
-  "parties": [],
+  "parties": [
+    "Mukhtiar Ahmed",
+    "The P.O. Sindh & others",
+    "Faheem Ahmed",
+    "P.O. Sindh & others",
+    "Muhammad Junaid Ghaffar",
+    "The Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

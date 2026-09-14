@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No.S-108 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "31-07-2025",
+  "judge": "Muhammad Jaffer Raza",
   "sections_cited": [
     "Section 149 PPC",
     "section 382-",
@@ -16,7 +16,24 @@
     "Section 345 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rukhsar Ahmed Junejo",
+    "Mr. Muhammad Raza Katohar",
+    "Mohammad Arif @ Arif son of Kouro, by caste Bheri",
+    "The State vs Mohammad Arif @ Arif Bheri and others",
+    "Mst. Duran",
+    "Mukhtiar Ahmed",
+    "Muhammad Warial",
+    "Muhammad Shahban",
+    "Wali Dad",
+    "Akhtar Ali",
+    "Muhammad Paryal",
+    "Miandad",
+    "Zaman Ali",
+    "Mst. Mukhtiar",
+    "Anwar Ali",
+    "Waqar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

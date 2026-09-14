@@ -9,9 +9,17 @@
   "case_number": "Constitutional Petition No.D-3671 of 2024",
   "date_of_order": "10.11.2025",
   "judge": "Muhammad Karim Khan Agha Justice",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Nadeem Haider Seemab",
+    "Province of Sindh",
+    "Ms. Saima Imdad",
+    "Secretary to Government of Sindh, Local Government Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

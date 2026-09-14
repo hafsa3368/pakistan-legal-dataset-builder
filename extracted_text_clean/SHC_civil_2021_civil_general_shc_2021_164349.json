@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "08-10-2021",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kashif Hussain Shaikh",
+    "Respondent No.10",
+    "Mr. Ahmed Ali Shahani",
+    "Respondent No.6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

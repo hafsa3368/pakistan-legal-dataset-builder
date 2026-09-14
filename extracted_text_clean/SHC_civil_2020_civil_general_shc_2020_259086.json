@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1998 of 2018",
-  "date_of_order": "",
-  "judge": "JUDGE Sulemen Khan/PA",
+  "date_of_order": "11.01.2024",
+  "judge": "Sulemen Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Karim Bux Janwari",
+    "None",
+    "Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

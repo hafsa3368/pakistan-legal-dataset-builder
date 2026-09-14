@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Civil Appeal No.248 of 2019",
   "date_of_order": "03.02.2025",
-  "judge": "",
+  "judge": "MUHAMMAD HASAN (AKBER)",
   "sections_cited": [
     "section 100 CPC",
     "section 5 of the Limitation Act"
@@ -27,7 +27,10 @@
     "PLD 2008 SC 462",
     "PLD 1992 Lahore 250"
   ],
-  "parties": [],
+  "parties": [
+    "Sohail Ahmed",
+    "NEMO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

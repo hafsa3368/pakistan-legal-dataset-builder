@@ -6,12 +6,22 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.S-998 of 2020",
   "date_of_order": "02.02.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mohsin Raza, Advocate along with Petitioners",
+    "Mr. Talib Ali Memon, Assistant P.G, Sindh along with SIP Ghulam Akber of PS Gulistan-e-Johar and Inspector Syed Imdad Ali Shah of P.S Ghulam Nabi Shah, Umerkot",
+    "Learned Assistant P.G, Sindh",
+    "Mr. Javed Ali, Advocate & associate of Mr. Sohrab Sarki, Advocate for the private respondents",
+    "Learned Counsel for the petitioners",
+    "Learned Assistant P.G, Sindh",
+    "Official Respondents",
+    "Mr. Sohrab Sarki, Advocate",
+    "The couple"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

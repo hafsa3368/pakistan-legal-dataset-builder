@@ -6,16 +6,21 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "Construction of 154 Flats at North",
+  "case_number": "C.P No.D-1734 of 2020",
   "date_of_order": "30.09.2021",
-  "judge": "",
+  "judge": "Salahuddin Panhwar",
   "sections_cited": [
     "Section 22 of SESSI Act",
     "sections 5 and 6",
     "Section 11 of Sindh Workers Welfare Fund Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Raja Jawad Ali Sahar",
+    "SESSI",
+    "Workers Welfare Board",
+    "Workers Welfare Board"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

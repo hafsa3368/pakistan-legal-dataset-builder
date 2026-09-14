@@ -6,12 +6,16 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-5169 of 2021",
   "date_of_order": "06.09.2021",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Fazal Mehmood Sherwani",
+    "Mr. Kafeel Ahmed Abbasi",
+    "Mr. Muhammad Zubair"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

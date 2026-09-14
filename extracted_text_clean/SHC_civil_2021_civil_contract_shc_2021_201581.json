@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 36,
-  "case_number": "construction of a written instrument nor",
+  "case_number": "",
   "date_of_order": "29.05.2023",
-  "judge": "",
+  "judge": "Jawad Akbar Sarwana",
   "sections_cited": [
     "Section 1-A",
     "section 19 of the Act",
@@ -27,7 +27,14 @@
     "PLD 1986 SC 519",
     "PLD 2018 SC 692"
   ],
-  "parties": [],
+  "parties": [
+    "Nasir Ali",
+    "Syed Qamar Hussain",
+    "Mst Iffat",
+    "Mst Shahnaz",
+    "Mst Shaheen",
+    "Mst Shumaila"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,20 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-1049 of 2020",
   "date_of_order": "09.02.2021",
   "judge": "Arshad Hussain Khan Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Shahzad Hyder Shah",
+    "Mr. Allah Bachayo Soomro",
+    "Mr. Justice Arshad Hussain Khan",
+    "Mr. Justice Irshad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

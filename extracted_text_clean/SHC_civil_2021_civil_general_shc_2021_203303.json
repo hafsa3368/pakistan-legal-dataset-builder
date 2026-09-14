@@ -8,12 +8,21 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "21.09.2023",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "sections 29 and 30"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ahsan Shakeel",
+    "Liaquat University of Medical and Health Sciences (LUMHS) Jamshoro",
+    "Province of Sindh",
+    "Muhammad Hamayoon Khan and Manghal Menghwar",
+    "Hameedullah Dahri",
+    "Dr. Haji Muhammad Shaikh",
+    "Rafique Ahmed Dahri",
+    "AAG Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

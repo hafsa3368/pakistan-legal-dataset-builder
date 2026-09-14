@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No. 5299 of 2024",
   "date_of_order": "25.10.2024",
-  "judge": "JUDGE Amjad PS",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 12 of the Sindh Development and Maintenance of Infrastructure Cess Act, 2017"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Soofia Saeed Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

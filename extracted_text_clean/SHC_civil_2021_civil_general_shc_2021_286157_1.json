@@ -6,14 +6,21 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Const. Pett. No. D-1566 of 2025",
+  "case_number": "",
   "date_of_order": "08.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "PLD 2009 SC 879"
   ],
-  "parties": [],
+  "parties": [
+    "Mehtab Ahmed Shar",
+    "M/s Ali Raza Balouch and Agha Athar Hussain",
+    "Nawaz Ali DSP Legal",
+    "Shaheed Benazirabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

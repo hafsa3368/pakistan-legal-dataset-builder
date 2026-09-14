@@ -8,10 +8,21 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "07.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Gul Abbasi",
+    "Mr. Sohail Ahmed Khoso",
+    "Mr. Niaz Hussain Maitlo",
+    "Mr. Ali Raza Baloch",
+    "Shah Abdul Latif University",
+    "Khairpur",
+    "Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

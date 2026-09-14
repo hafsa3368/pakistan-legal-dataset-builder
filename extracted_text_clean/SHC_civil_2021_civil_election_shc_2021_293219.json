@@ -6,12 +6,22 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-2913 of 2022",
   "date_of_order": "13.11.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan- Ul-Karim Memon",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Raheela Faheem",
+    "Province of Sindh",
+    "Others",
+    "Riazat Ali Sahar",
+    "Raja Ghulam Mohiuddin Panhwar",
+    "Mr. Rafique Ahmed Dahri",
+    "Assistant A.G. Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

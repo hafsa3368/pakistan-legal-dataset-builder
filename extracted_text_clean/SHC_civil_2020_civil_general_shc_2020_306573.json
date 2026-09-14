@@ -6,16 +6,23 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "HCA No.51 of 2023",
   "date_of_order": "24.01.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2006 SCMR 1794",
     "2005 MLD 1506",
     "2010 CLC 186"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Farrukh Ghani",
+    "Bank of Punjab",
+    "Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

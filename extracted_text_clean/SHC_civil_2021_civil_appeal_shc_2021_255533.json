@@ -6,14 +6,18 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "M.A. No. 15 of 2023",
   "date_of_order": "23.04.2025",
   "judge": "Jamil",
   "sections_cited": [
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Jawwad Hyder and Uzma Khan, Advocates for the Appellant",
+    "Mr. Intikhab Alam, Advocate for the Respondent",
+    "Ms. Deeba Ali Jaffri, Assistant Advocate General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

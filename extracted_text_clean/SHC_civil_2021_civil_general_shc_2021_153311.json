@@ -6,12 +6,22 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No. D-4028 of 2020",
   "date_of_order": "16.09.2021",
-  "judge": "JUDGE SM",
-  "sections_cited": [],
+  "judge": "Irfan Saadat Khan",
+  "sections_cited": [
+    "u/s 18 Rule 18",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tanwir Jamshed",
+    "Muhammad Hanif",
+    "Muhammad Ilyas Tanoli",
+    "Miran Muhammad Shah",
+    "Salman Mirza",
+    "Saifullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

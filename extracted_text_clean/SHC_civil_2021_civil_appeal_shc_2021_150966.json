@@ -8,10 +8,19 @@
   "num_chunks": 3,
   "case_number": "Misc. No.11910 of 2021",
   "date_of_order": "20.04.2021",
-  "judge": "Shahzad JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Asadullah Bullo",
+    "respondent No.4",
+    "respondent No.5",
+    "Jinnah Post-Graduate Medical Centre (JPMC)",
+    "Government of Sindh",
+    "respondent-Jinnah Post-Graduate Medical Centre (JPMC)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

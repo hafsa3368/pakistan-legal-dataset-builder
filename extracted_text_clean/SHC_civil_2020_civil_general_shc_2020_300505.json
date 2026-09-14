@@ -9,7 +9,10 @@
   "case_number": "Const. Petition No. S-1132 of 2024",
   "date_of_order": "19.12.2025",
   "judge": "Approved for reporting",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR 2010",
     "2025 SCMR 367",
@@ -19,7 +22,16 @@
     "2014 SCMR 982",
     "PLD 2010 SC 676"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Irshad Ahmed",
+    " MAK/PS",
+    "Mr. Justice Muhammad Karim Khan Agha",
+    "Federation of Pakistan",
+    "Pakistan Defence Officers Housing Authority",
+    "Imran Ahmed Ansari",
+    "Federation of Pakistan",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

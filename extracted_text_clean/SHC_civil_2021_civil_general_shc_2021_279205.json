@@ -8,10 +8,19 @@
   "num_chunks": 3,
   "case_number": "Constitution Petition No. D-558 of 2022",
   "date_of_order": "16.12.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muzafar Ali & others",
+    "Government of Sindh & others",
+    "Mr Qaim Ali Memon",
+    "Mr. Ali Safdar Depar",
+    "the Education Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

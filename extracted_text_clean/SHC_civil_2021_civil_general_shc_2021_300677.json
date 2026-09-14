@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Crl. Rev. Application No.42 of 2024",
+  "case_number": "",
   "date_of_order": "29.12.2025",
   "judge": "Asif",
   "sections_cited": [
@@ -17,7 +17,10 @@
   "citations": [
     "2011 SCMR 713"
   ],
-  "parties": [],
+  "parties": [
+    "Bilal @ Abbas",
+    "The State & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

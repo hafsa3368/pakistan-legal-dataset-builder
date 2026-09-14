@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "25-04-2022",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 151 CPC",
     "section 16 of the Sindh Rented Premises Ordinance",
@@ -20,7 +20,10 @@
     "PLD 1999 SC 1101",
     "PLD 1991 SC 242"
   ],
-  "parties": [],
+  "parties": [
+    "Sadaqat Hussain",
+    "Mrs. Shamim Ishaq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

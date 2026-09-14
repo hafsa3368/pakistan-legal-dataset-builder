@@ -8,7 +8,7 @@
   "num_chunks": 20,
   "case_number": "Criminal Appeal No.S-242 of 2021",
   "date_of_order": "21.02.2022",
-  "judge": "",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "Sections 324, 353, 148, 149 PPC",
     "Section 25",
@@ -32,7 +32,28 @@
     "2012 MLD1315",
     "PLD 1994 SC 879"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Hiddoo @ Hidayatullah through Mr. Rahim Gaju",
+    "Gulzar and Muhammad Ayoub through Mr. Imtiaz Ali Channa",
+    "Ghulam Murtaza @ Ali Gul through Mr. Barkat Ali Charan",
+    "Wazeer Lund through Mr. Wajid Ali Khaskheli",
+    "Wazeer S/o Allah Dino Mamani Panhwar",
+    "Wazeer S/o Piaro Lund",
+    "Muhammad Ayob S/o Qadir Bux Panhwar",
+    "Hidayatullah @ Hidoo Khaskheli",
+    "Wazeer S/o Allah Dino Mamani Panhwar",
+    "Ghulam Murtaza @ Ali Gul Lund",
+    "Gulzar S/o Anwar Mamani",
+    "Anwar Mamani",
+    "Piaro Lund",
+    "Qadir Bux Panhwar",
+    "Ali Gul Lund",
+    "ASi Manzoor Ali Panhwar",
+    "Allah Dino Mamani Panhwar",
+    "Imtiaz Ali Channa",
+    "Rameshan Oad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

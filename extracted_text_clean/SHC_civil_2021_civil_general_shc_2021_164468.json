@@ -7,11 +7,24 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "17-11-2021",
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saeed Jamal Lund",
+    "Mr. Ali Raza Baloch",
+    "Dr. Muhammad Hanif Bhanwar",
+    "Dr. Ghulam Rasool",
+    "Petitioner",
+    "Assistant Advocate General Sindh",
+    "Additional Medical Superintendent, PMC Hospital, Shaheed Benazirabad",
+    "Additional Medical Superintendent, KMC Hospital, Khairpur",
+    "Secretary, Health Department, Government of Sindh",
+    "AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,25 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "20.02.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2009 SCMR 477",
     "2016 YLR 1073"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Haneef Bugti",
+    "Province of Sindh",
+    "M/s Sohail Ahmed Khoso",
+    "M/s Manzoor Hussain N. Larik",
+    "Waqar Ali Phulpoto",
+    "Mr. Ali Raza Baloch",
+    "Dr. Akhtiar Hussain Mirani",
+    "District Health Officer, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

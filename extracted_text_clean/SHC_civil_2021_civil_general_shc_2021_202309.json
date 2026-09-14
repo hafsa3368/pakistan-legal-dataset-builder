@@ -8,13 +8,16 @@
   "num_chunks": 3,
   "case_number": "Civil Revision Application No.123/2022",
   "date_of_order": "06.09.2023",
-  "judge": "JUDGE MUBASHIR",
+  "judge": "YOUSUF ALI SAYEED",
   "sections_cited": [
     "Section 12 CPC",
     "Section 52"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Liaquat Ali Khan",
+    "Mrs. Sajida Perveen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

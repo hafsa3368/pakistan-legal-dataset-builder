@@ -6,12 +6,18 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP NO.D-2628/2021",
   "date_of_order": "15.09.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Farmanullah advocate",
+    "Mr. Ali Safdar Depar",
+    "AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

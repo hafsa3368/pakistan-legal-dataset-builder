@@ -6,12 +6,23 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Revision No.D-40 of 2021",
   "date_of_order": "18.04.2022",
-  "judge": "JUDGE Sulemen Khan/PA",
+  "judge": "Sulemen Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sikander Sadar",
+    "Mr. Alam Sher Bozdar",
+    "Mr. Shafi Muhammad Mahar",
+    "Akbar",
+    "Ali Murad",
+    "Dodo's brother",
+    "complainant",
+    "counsel for applicant",
+    "counsel holding brief",
+    "respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

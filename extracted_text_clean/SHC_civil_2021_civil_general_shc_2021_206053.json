@@ -6,7 +6,7 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Criminal Misc. Application Nos",
+  "case_number": "Criminal Misc. Application Nos. 523",
   "date_of_order": "10.11.2023",
   "judge": "",
   "sections_cited": [
@@ -17,7 +17,13 @@
   "citations": [
     "2019 MLD 1192"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Ameeruddin, Sana Kamal and Aijaz Ali Tunio",
+    "Mr. Abrar Ali Khichi, Additional PG",
+    "Mr. Iftikhar A. Gohar",
+    "Mr. Karim Nawaz Qureshi",
+    "Zohaib Nazeer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Criminal Acq. Appeal No. D-36 of 2023",
+  "case_number": "",
   "date_of_order": "31.10.2023",
-  "judge": "JUDGE Irfan/PA",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "Sections 452, 302",
     "Section 149 PPC",
@@ -18,7 +18,17 @@
     "2009 SCMR 230",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar",
+    "Nemo",
+    "Ishaque",
+    "Meer Khan",
+    "Muhammad Muneer",
+    "Zahid Hussain",
+    "Naveedan",
+    "Sanas Ali",
+    "Qurban Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

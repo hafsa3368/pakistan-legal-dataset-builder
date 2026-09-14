@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "CP No.D-801 of 2021",
   "date_of_order": "23.08.2022",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "Sections 539 and 540 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Raj Ali Wahid, Advocate for the petitioner",
+    "Mr. Zahid Hussain Baladi, Special Prosecutor NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

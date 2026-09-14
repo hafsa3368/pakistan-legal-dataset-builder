@@ -6,12 +6,22 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-1498 of 2021",
   "date_of_order": "12.11.2016",
-  "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "judge": "Irfan Ali",
+  "sections_cited": [
+    "Section 22 of the Official Secrets Act, 1952",
+    "Section 22 of the Official Secrets Act, 1952",
+    "Section 22 of the Official Secrets Act, 1952",
+    "Section 22 of the Official Secrets Act, 1952"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Petitioners",
+    "IGP Sindh",
+    "IGP Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

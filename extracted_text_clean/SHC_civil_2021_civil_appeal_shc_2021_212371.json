@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "21-03-2024",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sultan Ahmed",
+    "Muhammad Sarfaraz Yahya",
+    "Saleem Ahmed",
+    "Shahid Shams",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Omar Sial",
+    "Mr. Ali Nasir Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

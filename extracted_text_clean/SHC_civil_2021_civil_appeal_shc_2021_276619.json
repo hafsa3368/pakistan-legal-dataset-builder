@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Crl. Acquittal Appeal No. 191 of 2023",
+  "case_number": "",
   "date_of_order": "10.07.2025",
-  "judge": "Kamran/PS",
+  "judge": "Syed Fiaz ul Hassan Shah",
   "sections_cited": [
     "Section 342",
     "Section 489-F",
@@ -26,7 +26,12 @@
     "PLD 2017 SC 265",
     "PLD 2011 SC 554"
   ],
-  "parties": [],
+  "parties": [
+    "Aziz Damji",
+    "The State",
+    "The Respondent",
+    "The Complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

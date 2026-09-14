@@ -6,12 +6,25 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition No.D",
+  "case_number": "CP NO.D-3106/2021",
   "date_of_order": "03.09.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Tajamul H. Lodhi",
+    "Mr. Ali Safdar Depart, AAG",
+    "Dr. Muhammad Hussain, Incharge 50-beded hospital, Gadap",
+    "Imdad Ali Jungio, SO-V (Spl)",
+    "Dr. Muhammad Saleh Depar, M.S. RHC Murad Memon Goth",
+    "Malir",
+    "Services Hospital",
+    "RHC Murad Memon Goth",
+    "Gadap Hospital"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

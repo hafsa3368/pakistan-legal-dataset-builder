@@ -6,12 +6,15 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No. D-5849 of 2021",
   "date_of_order": "29.09.2021",
-  "judge": "JUDGE",
+  "judge": "Irfan Saadat Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Murtaza",
+    "Syed Mohsin Hussain Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

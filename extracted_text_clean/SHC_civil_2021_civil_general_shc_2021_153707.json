@@ -6,12 +6,19 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "21.09.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Umer Lakhani",
+    "Mr. Ali Safdar Depar",
+    "Mr. Liaquat Ali Abro",
+    "Mr. Nadeem Ahmed Qureshi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

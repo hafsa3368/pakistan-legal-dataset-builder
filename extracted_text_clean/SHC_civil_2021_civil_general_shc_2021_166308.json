@@ -6,12 +6,15 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP NO.D-6344",
   "date_of_order": "16.09.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "CMA No.7629/2020",
+    "CMA No.7629/2020"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -19,7 +19,10 @@
     "1999 SCMR 2832",
     "PLD 1995 SC 362"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Saeed",
+    "Shahid Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

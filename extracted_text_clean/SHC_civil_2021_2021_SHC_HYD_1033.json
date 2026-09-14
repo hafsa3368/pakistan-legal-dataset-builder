@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "Civil Revision Appln.No.S-44 of 2021",
   "date_of_order": "11.03.2021",
-  "judge": "Ahmed/PA",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Chapter-XIII of the principles of Muhammadan Law",
+    "Section 11 C.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faisal Farooque Thaheem",
+    "the private respondents",
+    "the plaintiffs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

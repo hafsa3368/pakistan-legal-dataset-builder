@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.S-85 of 2021",
   "date_of_order": "01.11.2024",
-  "judge": "",
+  "judge": "Arbab Ali Hakro",
   "sections_cited": [
     "sections 377, 377-B",
     "Section 377 PPC",
@@ -24,7 +24,11 @@
     "PLD 1995 SC 1",
     "PLD 1973 SC 418"
   ],
-  "parties": [],
+  "parties": [
+    "Dilshad S/o Shahnawaz Mahar",
+    "The State",
+    "Shikarpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

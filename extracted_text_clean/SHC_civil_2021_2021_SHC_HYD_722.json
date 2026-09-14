@@ -6,10 +6,13 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Jail Appeal No.S",
+  "case_number": "",
   "date_of_order": "18-01-2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH,",
+  "sections_cited": [
+    "U/S 302",
+    "u/s 342 Cr.P.C"
+  ],
   "citations": [
     "2018 SCMR 772",
     "1995 SCMR 1345",
@@ -17,7 +20,17 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    "Vikio son of Pir Bux alias Peroo Panhwar",
+    "Arbab son of Ahmed Panhwar",
+    "Khuda Bux son of Ahmed Panhwar",
+    "Anwar son of Haji Panhwar",
+    "Natho son of Hussain Panhwar",
+    "Muhammad Sharif son of Haji Panhwar",
+    "Mir son of Allahdino Panhwar",
+    "The State",
+    "Shahzado Saleem Nahiyoon D.P.G"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 4,
   "case_number": "Const. Petition No.D-529 of 2023",
   "date_of_order": "29.10.2025",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "Riazat Ali Sahar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdullah and others",
+    "P.O. Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

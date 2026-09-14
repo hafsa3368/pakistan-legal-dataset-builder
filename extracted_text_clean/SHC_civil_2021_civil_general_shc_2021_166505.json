@@ -6,12 +6,17 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constructed Shaheed Benazir Supplementary Minor",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "19-05-2022",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Manzoor Hussain Halepoto",
+    "Mr. Ali Raza Baloch",
+    "Talib Hussain Khokhar",
+    "Ali Nawaz Bhatti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.S-387 of 2024",
   "date_of_order": "06.11.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Malik",
+    "Respondent-mother"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

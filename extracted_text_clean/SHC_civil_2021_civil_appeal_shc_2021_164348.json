@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "09.11.2021",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Appellant",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "constructed on a sub-plot of Plot No. 3-A",
+  "case_number": "",
   "date_of_order": "22.10.2024",
-  "judge": "",
+  "judge": "OMAR SIAL",
   "sections_cited": [
     "section 42 of the Specific Relief Act",
     "section 53-A"
@@ -18,7 +18,10 @@
     "2010 CLC 407",
     "PLD 2023 SC 506"
   ],
-  "parties": [],
+  "parties": [
+    "Shankar Lal Ochani & another",
+    "Siddique Construction Company & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

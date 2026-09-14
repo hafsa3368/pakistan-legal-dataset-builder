@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Crl. Jail Appeal No. D-85 of 2018",
   "date_of_order": "06.12.2023",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 382-B CrPC",
     "Section 9"
@@ -26,7 +26,11 @@
     "2023 SCMR 1669",
     "2008 SCMR 1254"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Najeebullah Brohi",
+    "Abbas Ali Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

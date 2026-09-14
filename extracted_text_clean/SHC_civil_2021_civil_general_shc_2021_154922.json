@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "Misc. No.27201/2021",
   "date_of_order": "29.10.2021",
-  "judge": "JUDGE Gulzar/PA",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khalilullah Jakhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

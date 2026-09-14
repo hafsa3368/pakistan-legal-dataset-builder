@@ -6,12 +6,18 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Cr.Acq. Application No.S-33 of 2021",
+  "case_number": "",
   "date_of_order": "03.03.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulamullah Chang, Advocate for appellant",
+    "private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

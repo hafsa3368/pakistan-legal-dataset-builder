@@ -6,12 +6,19 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-2377 of 2020",
   "date_of_order": "08.04.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Yousuf Ali",
+    "Ms. Masooda Siraj",
+    "Mr. Azad Hussain",
+    "Mr. Khalid Rajper",
+    "Muhammad Nayyar Shafiq",
+    "Zulfiqar Ali Syed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Civil Appeal No.S-06 of 2021",
   "date_of_order": "26.09.2025",
-  "judge": "",
+  "judge": "Ali Haider 'Ada'",
   "sections_cited": [
     "Section 8 of the Defamation Ordinance",
     "Section 3 of the Defamation Ordinance",
@@ -23,7 +23,10 @@
     "PLD 2022 Balochistan 66",
     "PLD 2017 Peshawar 19"
   ],
-  "parties": [],
+  "parties": [
+    "Adil Ahmed S/o Gulzar Ahmed Memon",
+    "Mst. Marvi D/o Ali Bux Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

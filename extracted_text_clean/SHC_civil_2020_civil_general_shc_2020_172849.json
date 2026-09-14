@@ -6,12 +6,18 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "constrained to observe that no case",
+  "case_number": "",
   "date_of_order": "18.10.2022",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "S. Asghar Ali Nizami & Others",
+    "Government of Sindh & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

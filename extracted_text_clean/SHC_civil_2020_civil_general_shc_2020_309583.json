@@ -9,11 +9,25 @@
   "case_number": "",
   "date_of_order": "",
   "judge": "Zulfiqar Ali Sangi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Cantonment Board C.P. No. D – 995 of 2010",
+    "Abdul Razzak v. KDA",
+    "PLD 1994 SC 512"
+  ],
   "citations": [
     "PLD 1994 SC 512"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Shaikh Shahzada Kabir Aftab",
+    "D.G. Housing Directorate",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Justice Zulfiqar Ali Sangi",
+    "Mr. Ch. Muhammad Iqbal",
+    "Mr. Ali Nawaz Khuhawar",
+    "Ms. Wajiha Mehdi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

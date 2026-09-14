@@ -6,16 +6,35 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-182 of 2021",
   "date_of_order": "03.11.2021",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 249-A & 265-K"
   ],
   "citations": [
     "PLD 2013 SC 401"
   ],
-  "parties": [],
+  "parties": [
+    "Province of Sindh & Ors",
+    "Mevo Khan Khoso",
+    "Qurban & another Ali",
+    "Khalil Ahmed",
+    "Mushtaque Ali & others",
+    "Noorullah Dehraj",
+    "Nazar Ali",
+    "Gul Mir",
+    "Mst. Razia & another",
+    "Abdul Majeed",
+    "Pir Bux & others",
+    "Ali Ahmed & another",
+    "Ayaz Ali & others",
+    "Ali Khan",
+    "Mukhtiar Ali & another",
+    "Behram Khan",
+    "Khurram Ali",
+    "Muhammad Waris @ Suneel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

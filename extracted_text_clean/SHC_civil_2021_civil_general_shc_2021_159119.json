@@ -6,12 +6,23 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.S-616 of 2020",
   "date_of_order": "24.01.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "SHAMASUDDIN ABBASI",
+  "sections_cited": [
+    "u/s 154"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Shabana Khanzada",
+    "Shahid Ahmed Shaikh",
+    "Sabir Hussain Gopang",
+    "Muhammad Ameen Keerio",
+    "Abdul Rehman @ Sono",
+    "Ali Raza Khanzada",
+    "Mr. Karim Bux Rind",
+    "Mr. Ayaz Ali Rajpar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

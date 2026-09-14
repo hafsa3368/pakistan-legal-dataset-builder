@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No. D-684 of 2012",
   "date_of_order": "14.10.2021",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner No.64/applicant",
+    "respondents-SMC",
+    "Mr. Achar Khan Gabol",
+    "Mr. Khuda Bux Chohan",
+    "Mr. Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

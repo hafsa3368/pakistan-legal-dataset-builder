@@ -8,10 +8,17 @@
   "num_chunks": 3,
   "case_number": "Const. Petition No. D-62 of 2023",
   "date_of_order": "05.02.2020",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Sarwar Bhattar",
+    "P.O.Sindh",
+    "other"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

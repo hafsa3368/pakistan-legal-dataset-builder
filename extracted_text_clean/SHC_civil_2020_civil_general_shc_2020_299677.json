@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "22.12.2025",
-  "judge": "Muhammad Osman Ali Hadi Date",
+  "judge": "Muhammad Osman Ali Hadi",
   "sections_cited": [
     "section 301",
     "section 301 of the Companies Act",
@@ -18,7 +18,11 @@
     "Section 304 of the Companies Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Alpha Advertising (Pvt) Limited",
+    "The Additional Registrar of Companies",
+    "SECP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

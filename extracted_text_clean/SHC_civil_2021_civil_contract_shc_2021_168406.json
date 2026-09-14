@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Const. Petition No.S-292 of 2021",
   "date_of_order": "28.03.2022",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "section 146 and 149"
   ],
@@ -16,7 +16,15 @@
     "PLD 2008 Lahore 302",
     "PLD 1974 SC 139"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Habib-ur-Rehman Arain",
+    "Baby Mariam",
+    "Dr. Habib-ur-Rehman",
+    "Rabia Bibi",
+    "Respondent No.1",
+    "Petitioner",
+    "Petitioner/Defendant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

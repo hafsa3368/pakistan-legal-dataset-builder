@@ -9,9 +9,18 @@
   "case_number": "Constitutional Petition No. D-808 of 2024",
   "date_of_order": "23.10.2025",
   "judge": "Shafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "Section 4 Constitution of Pakistan",
+    "Section 5 Constitution of Pakistan",
+    "Section 9 Constitution of Pakistan"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Farhan",
+    "Government of Sindh",
+    "Services Hospital & Civil Surgeon, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

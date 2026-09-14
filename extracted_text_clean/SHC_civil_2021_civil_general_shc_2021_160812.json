@@ -6,12 +6,15 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-163 of 2018",
   "date_of_order": "15.02.2021",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Raheem Shaikh",
+    "PTCL & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

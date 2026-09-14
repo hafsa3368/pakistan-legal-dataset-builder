@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Misc. Appeal No.01 of 2023",
   "date_of_order": "18.08.2025",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 15 of the Defamation Ordinance",
     "Section 12 of the Ordinance",
@@ -35,7 +35,12 @@
     "PLD 2022 SC 716",
     "PLD 2020 SC 736"
   ],
-  "parties": [],
+  "parties": [
+    "Independent Newspapers Corporation (Pvt) Limited & others",
+    "Learned Additional District Judge-VI, Karachi [South]",
+    "MR. MEHMOOD ALI",
+    "M/s. Hamza Hussain Hidayatullah and Ravi R. Pinjani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

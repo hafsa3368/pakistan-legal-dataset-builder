@@ -8,14 +8,18 @@
   "num_chunks": 4,
   "case_number": "Civil Appeal No.111 of 2019",
   "date_of_order": "04.03.2026",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 100 of the Code",
     "Section 151",
     "Section 100"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Imtiaz Alam Nasim",
+    "Noor Muhammad Khanzada",
+    "M/s. M. Rafi and Naheed Akhtar Advocates"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

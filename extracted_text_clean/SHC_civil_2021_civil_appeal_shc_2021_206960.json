@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "12.12.2023",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bin Yamin and another",
+    "Muhammad Arshad and another",
+    "Syed Shahid Mushtaq",
+    "appellants",
+    "Nova Marines"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

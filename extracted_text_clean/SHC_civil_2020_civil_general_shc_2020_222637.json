@@ -8,10 +8,21 @@
   "num_chunks": 3,
   "case_number": "Constitution Petition No.D-5296/2020",
   "date_of_order": "11.11.2024",
-  "judge": "JUDGE Abrar",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "respondent No.2",
+    "Petitioner",
+    "respondent No.3",
+    "Petitioner",
+    "respondent No.4",
+    "respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

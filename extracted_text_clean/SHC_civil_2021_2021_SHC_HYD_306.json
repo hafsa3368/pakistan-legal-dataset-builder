@@ -13,7 +13,11 @@
     "section 345 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Appellant",
+    "Complainant",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

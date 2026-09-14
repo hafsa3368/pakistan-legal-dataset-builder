@@ -6,12 +6,18 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C.P. No. D-6039 of 2021",
+  "date_of_order": "11.02.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arshad Hussain Shahzad",
+    "Mr. Ali Almani",
+    "Syed Rehmat Shakil",
+    "Syed Irshad-ur-Rehman",
+    "Ms. Alizeh Bashir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

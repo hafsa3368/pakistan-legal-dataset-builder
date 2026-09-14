@@ -6,17 +6,24 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "C.P. No. D-5412 of 2022",
   "date_of_order": "03.03.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Nisar Ahmed Bhanbhro",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [
     "1995 SCMR 650",
     "2005 SCMR 25",
     "2025 SCMR 153",
     "2024 SCMR 1109"
   ],
-  "parties": [],
+  "parties": [
+    "Nisar Hussain Shaikh",
+    "Province of Sindh",
+    "Mr. Ali Asadullah Bullo",
+    "Mr. Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

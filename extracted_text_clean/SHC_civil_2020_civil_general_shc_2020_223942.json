@@ -8,13 +8,25 @@
   "num_chunks": 1,
   "case_number": "Misc. No.19536/2020",
   "date_of_order": "20.12.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "M.Khan",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "vires, ad-interim orders",
+    "PLD 1989 SC 61",
+    "1993 SCMR 2350",
+    "AIR 1985 SC 330",
+    "CMA 18286 of 2020",
+    "Commissioner Inland Revenue, Large Taxpayers Office vs. Pakistan Oilfields Ltd. Rawalpindi and others (Civil Petitions No.3472 to 3475 of 2023)"
+  ],
   "citations": [
     "1993 SCMR 2350",
     "PLD 1989 SC 61"
   ],
-  "parties": [],
+  "parties": [
+    "Messrs. Shaheer Roshan and Sameer-ur-Rehman",
+    "Mr. Muhammad Taseer Khan",
+    "Ms. Alizeh Bashir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

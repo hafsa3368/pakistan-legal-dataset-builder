@@ -6,14 +6,21 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Petition No.D-",
+  "case_number": "",
   "date_of_order": "07.02.2019",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2013 SCMR 1752"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rauf Malik",
+    "learned Advocate General, Sindh",
+    "respondent No.8",
+    "respondent No.9"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

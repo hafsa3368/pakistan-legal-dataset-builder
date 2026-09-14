@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Civil Appeal No.D-05 of 2022",
   "date_of_order": "17.10.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
+  "judge": "Faisal Mumtaz",
   "sections_cited": [
     "Section 22",
     "Section 10 of the Ordinance",
@@ -19,7 +19,10 @@
     "section 10"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hazoor Bux s/o Allan Khan Khoso",
+    "M/s. Zarai Tarkiyati Bnk Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

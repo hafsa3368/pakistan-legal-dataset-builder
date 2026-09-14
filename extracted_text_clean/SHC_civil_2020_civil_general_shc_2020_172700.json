@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "29.01.2022",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 12"
   ],
@@ -19,7 +19,10 @@
     "PLD 2009 SC 419",
     "PLD 1985 Quetta 56"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Muhammad Ali & Co.",
+    "Ali Akbar & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "14.09.1988",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Order XX C.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Karachi Development Authority & another",
+    "Aijaz Ali Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

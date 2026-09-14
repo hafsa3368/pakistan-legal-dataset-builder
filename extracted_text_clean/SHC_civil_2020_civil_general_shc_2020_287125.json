@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "Constitution has no application",
+  "case_number": "C.P No.D-644 of 2024",
   "date_of_order": "15.10.2025",
   "judge": "Muhammad Saleem Jessar Justice Nisar",
   "sections_cited": [
@@ -20,7 +20,12 @@
     "2025 SCMR 443",
     "PLD 2024 SC 515"
   ],
-  "parties": [],
+  "parties": [
+    "Rehana and Others",
+    "Province of Sindh & Ors.",
+    "Mir Naeem Talpur",
+    "Additional A.G Sindh a/w Health Education Officer (Mohan Lal)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

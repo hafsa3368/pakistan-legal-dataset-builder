@@ -8,12 +8,18 @@
   "num_chunks": 9,
   "case_number": "Civil Appeal No.221 of 2018",
   "date_of_order": "02.06.2022",
-  "judge": "",
+  "judge": "Shahid Nazeer",
   "sections_cited": [
     "Section 202 of the Contract Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sadia Siddiqui and others",
+    "Adnan Andalaib Siddiqui and others",
+    "Captain Adnan Andalib Siddiqui and others",
+    "Mrs. Shahnaz Hyder and others",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

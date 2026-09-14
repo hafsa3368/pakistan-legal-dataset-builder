@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-498 of 2017",
   "date_of_order": "03.12.2019",
-  "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "judge": "Sulemen Khan",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Imran Khan",
+    "Mr. Qurban Ali Malano",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

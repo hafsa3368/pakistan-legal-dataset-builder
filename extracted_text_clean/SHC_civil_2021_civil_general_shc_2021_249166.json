@@ -6,12 +6,15 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.5189/2025",
   "date_of_order": "10.03.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Fahad Khan, advocate for the petitioner",
+    "Mr. Sandeep Malani, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
