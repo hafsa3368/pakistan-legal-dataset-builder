@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Appeal No.S-37 of 2024",
   "date_of_order": "19.05.2025",
-  "judge": "",
+  "judge": "Abdul Hamid Bhurgri",
   "sections_cited": [
     "Section 489-F of the Pakistan Penal Code",
     "Section 489/F PPC",
@@ -18,7 +18,10 @@
   "citations": [
     "PLD 1963 SC 163"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Hayat son of Dur Muhammad Palh",
+    "Nadeem Yousif s/o Muhammad Yousif Rajput"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

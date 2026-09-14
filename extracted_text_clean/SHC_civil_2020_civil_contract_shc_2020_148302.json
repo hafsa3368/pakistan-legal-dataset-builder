@@ -6,10 +6,13 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "15.12.2020",
   "judge": "Nadeem Akhtar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 SCMR 1662",
     "2001 SCMR 934",
@@ -17,7 +20,15 @@
     "1994 SCMR 2232",
     "PLD 2017 Sindh 1"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Muhammad Ayaz Mustafa",
+    "Federation of Pakistan and 03 others",
+    "Mr. Asad Iftikhar",
+    "Mr. Ali Safdar Depar",
+    "Mr. Muhammad Nishat Warsi",
+    "Mr. Ghulam Murtaza Saryo",
+    "Mr. Muhammad Humayun"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

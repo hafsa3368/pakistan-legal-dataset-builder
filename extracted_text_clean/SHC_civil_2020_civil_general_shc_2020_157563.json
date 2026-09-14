@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Misc. Application No.97 of 2019",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "15-02-2022",
+  "judge": "Muhammad Rehan Khan Durrani",
   "sections_cited": [
     "Section 2",
     "Section 13",
@@ -17,7 +17,12 @@
     "sections 3, 4, 5 and 13"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Rehan Khan Durrani",
+    "Mr. Muhammad Asim Malik",
+    "Mr. Mehboob Ali Wassan",
+    "Respondents No.6 to 9, 13, 15 and 16"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

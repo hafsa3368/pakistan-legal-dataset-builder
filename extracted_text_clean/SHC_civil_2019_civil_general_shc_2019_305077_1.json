@@ -6,12 +6,25 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "CP No.D-6229 of 2025",
   "date_of_order": "11.02.2026",
   "judge": "Muhammad Saleem Jessar Justice Nisar",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Murad",
+    "Federation of Pakistan",
+    "Mr. Raj Ali Wahid Kunwar",
+    "M/s. Hakim Ali Shaikh",
+    "Additional Advocate General and Sagheer Ahmed Abbasi",
+    "Ms. Seema Zaidi",
+    "Ms. Zaharah Sahar Vayani",
+    "Mr. Yousifuddin",
+    "Deputy Superintendent, Central Prison"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,23 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-11 of 1991",
   "date_of_order": "25.06.2020",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zahid Ali Shah",
+    "Syed Rafaqat Hussain Shah",
+    "Zahoor Shah",
+    "Mr. Sanwan Khan",
+    "Mr. Ahmed Ali Shahani",
+    "Zahid Ali Shah",
+    "Assistant A.G",
+    "Mukhtiarkar",
+    "Assistant Commissioner",
+    "Assistant 2 Commissioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

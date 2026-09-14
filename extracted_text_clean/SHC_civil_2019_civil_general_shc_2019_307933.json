@@ -9,9 +9,21 @@
   "case_number": "Civil Revision Application No.S-421 of 2024",
   "date_of_order": "17.03.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Order VII Rule 11 C.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Parshotam K. Khatri",
+    "Mr. Mir Muhammad Nohri",
+    "Mr. Muhammad Shareef Solangi",
+    "the applicant",
+    "the private respondents",
+    "the respondents",
+    "the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

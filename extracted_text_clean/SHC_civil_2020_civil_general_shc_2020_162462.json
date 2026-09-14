@@ -6,12 +6,16 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P. NO. D-7578/2018",
   "date_of_order": "28.09.2021",
-  "judge": "JUDGE SM",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MIT-II",
+    "Respondent No.2",
+    "KDA/Respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

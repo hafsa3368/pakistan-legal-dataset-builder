@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "High Court Appeal No.96 of 2024",
   "date_of_order": "03.04.2024",
-  "judge": "JUDGE Amjad PS",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "Section 116",
     "Section 116 of the Act",
@@ -19,7 +19,11 @@
   "citations": [
     "PLD 2002 Karachi 414"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Muhammad Kazim, Advocate/Appellant",
+    "Rub Razi Cooperative Housing Society Limited",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

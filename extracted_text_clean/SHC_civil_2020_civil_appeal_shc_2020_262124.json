@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Civil Appeal No.245 of 2023",
   "date_of_order": "02.05.2025",
-  "judge": "",
+  "judge": "Syed Fiaz ul Hassan Shah",
   "sections_cited": [
     "section 21 of the Sindh Waqf Property Ordinance",
     "Section 21",
@@ -22,7 +22,10 @@
   "citations": [
     "2007 SCMR 1318"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Anis-ur-Rehman Siddiqui",
+    "Mr. Allah Bachayo Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

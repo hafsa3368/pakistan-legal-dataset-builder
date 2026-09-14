@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Crl.Jail Appeal No.S",
+  "case_number": "",
   "date_of_order": "14.05.2020",
-  "judge": "Sulaman Khan/PA",
+  "judge": "Sulaman Khan",
   "sections_cited": [
     "Section 24 of the Sindh Arms Act",
     "sections 302, 324, 427, 337-",
@@ -24,7 +24,16 @@
     "2018 SCMR 577",
     "2023 P.Cr. L.J 462"
   ],
-  "parties": [],
+  "parties": [
+    "Khuda Bux Mangnejo",
+    "Mr.Amir Ali Bhutto Advocate",
+    "The State",
+    "Mr.Aftab Ahmed Shar",
+    "SIP Allah Dino",
+    "PC Barkat Ali",
+    "PC Allah Dino",
+    "Inspector Sikander Ali Bullo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

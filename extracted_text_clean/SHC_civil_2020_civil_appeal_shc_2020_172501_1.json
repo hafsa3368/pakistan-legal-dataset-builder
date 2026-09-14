@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Criminal Anti-Terrorism Appeal No. 85 of 2021",
+  "case_number": "",
   "date_of_order": "05.10.2022",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "section 7",
     "section 365-A, 34 PPC",
@@ -35,7 +35,10 @@
     "1982 SCMR 129",
     "PLD 2007 SC 71"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ameer",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

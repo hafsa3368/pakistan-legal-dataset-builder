@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "Constitution. In the Shakeel Awan case14 a minority",
+  "case_number": "",
   "date_of_order": "20.12.2019",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "Section 12",
     "Section 42A"
@@ -22,7 +22,31 @@
     "PLD 2011 SC 44",
     "PLD 2007 SC 642"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ali Mazhar",
+    "Agha Faisal",
+    "Allah Bux Khan Unar",
+    "Sohail Anwar Siyal",
+    "Muhammad Zubair",
+    "Syed Nasir Hussain Shah Rizvi",
+    "Mir Punhal Khan Talpur",
+    "Manzoor Hussain Wassan",
+    "Syed Mureed Ali Shah",
+    "Election Commission of Pakistan",
+    "Moazam Abbasi",
+    "Faryal Talpur",
+    "Mr. Khawaja Shamsul Islam",
+    "Mr. Haq Nawaz Talpur",
+    "Mr. Syed Mureed Ali Shah",
+    "Mr. Basil Nabi Malik",
+    "Mr. Ishrat Zahid Alavi",
+    "Barrister Jawad Dero",
+    "Additional Advocate General Sindh",
+    "Barrister Makhdoom Ali Khan",
+    "Barrister Farooq H. Naek",
+    "Barrister Khalid Javed Khan",
+    "Barrister Zameer A. Ghumro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

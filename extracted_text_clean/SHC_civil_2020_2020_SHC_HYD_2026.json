@@ -6,17 +6,28 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No.S",
+  "case_number": "",
   "date_of_order": "14-12-2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "IRSHAD ALI SHAH",
+  "sections_cited": [
+    "u/s 342 Cr.P.C"
+  ],
   "citations": [
     "2011 SCMR 713",
     "2020 SCMR 178",
     "2008 SCMR 1001",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman alias Ranjho",
+    "The State",
+    "Abdullah",
+    "Ghulam Muhammad",
+    "Ali Nawaz",
+    "SIP Buxal Khan",
+    "Mashooque Ali",
+    "The legal heirs of deceased Abdullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr. Revision Application No.S-09 of 2024",
+  "date_of_order": "01.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Raza Pathan, advocate",
+    "Mr. Sardar Ali Solangi, Deputy Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

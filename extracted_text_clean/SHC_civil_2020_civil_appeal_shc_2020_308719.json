@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "25.03.2026",
-  "judge": "JUDGE Amjad PS",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Iqbal Awan",
+    "Mr. Muhammad Nawaz Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

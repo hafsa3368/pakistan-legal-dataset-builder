@@ -6,12 +6,18 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "misconceived in facts and law and not",
+  "case_number": "",
   "date_of_order": "05.12.2019",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mukesh Kumar G. Karara",
+    "Mr. Ghulam Abbas Akhtar",
+    "Pakistan Railways",
+    "Mr. Muhammad Hamzo Buriro",
+    "Mr. Mehboob Ali Wassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

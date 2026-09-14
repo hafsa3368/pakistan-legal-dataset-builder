@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 21,
-  "case_number": "Constitution and that there was no question",
+  "case_number": "",
   "date_of_order": "17.02.2020",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "Section 27 of the Act",
     "section 27 the Sindh Local Government Act"
@@ -30,7 +30,20 @@
     "PLD 2001 SC 499",
     "PLD 2002 SC 994"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ali Mazhar",
+    "Agha Faisal",
+    "Abdul Rauf Nizamani",
+    "Election Commission of Pakistan",
+    "Shakeel Ahmed",
+    "Election Commission of Pakistan",
+    "Farooque Jameel Durrani",
+    "Province of Sindh",
+    "Faiz Ali",
+    "Karim Bux",
+    "Abdul Kareem",
+    "Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "08.10.2020",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed Baloch, Advocate for the Petitioners",
+    "Mr. Noor Hassan Malik, Assistant Advocate General Sindh",
+    "Mr. Shahabuddin A. Shaikh, Advocate",
+    "Regional Director, Sindh Small Industries Corporation, Sukkur",
+    "Respondent No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

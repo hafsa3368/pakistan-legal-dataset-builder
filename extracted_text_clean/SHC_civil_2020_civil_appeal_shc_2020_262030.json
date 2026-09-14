@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Jail Appeal No.S-39 of 2024",
   "date_of_order": "16-04-2025",
-  "judge": "",
+  "judge": "Jan Ali Junejo",
   "sections_cited": [
     "Section 409, 477-A PPC",
     "Section 5",
@@ -21,7 +21,11 @@
   "citations": [
     "2023 P.Cr.L.J. Note 58"
   ],
-  "parties": [],
+  "parties": [
+    "Oshaque Ahmed son of Ali Hassan Khokhar",
+    "Through Mr. Safdar Ali Ghouri, Advocate",
+    "Through Mr. Nazir Ahmed Bhangwar, DPG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

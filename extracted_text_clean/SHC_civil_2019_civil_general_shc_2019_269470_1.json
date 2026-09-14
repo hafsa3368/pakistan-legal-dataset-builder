@@ -6,14 +6,27 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P.No.D-115 of 2025",
   "date_of_order": "29.04.2025",
   "judge": "",
   "sections_cited": [
     "section 8"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Wajid Ali Gaad, Advocate for the Petitioner",
+    "Mr. Liaquat Ali Shar, Additional Advocate General, Sindh",
+    "Mr. Aftab Ahmed Bhutto, Assistant Advocate General, Sindh",
+    "Mr. Ali Anwar Kandhro, Additional Prosecutor General, Sindh",
+    "Inspector Ghulam Mustafa Sandano",
+    "ASI Bilawal Hussain",
+    "SIP Ali Dost",
+    "SSP, Larkana",
+    "SIP Mushtaq Ali Gopang",
+    "S.H.O. P.S. Hyderi",
+    "S.I.P Mehran Ali Jatoi",
+    "IGP, Sindh, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

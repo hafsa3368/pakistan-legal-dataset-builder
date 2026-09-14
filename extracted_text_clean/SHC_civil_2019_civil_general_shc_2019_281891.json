@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Revision No.122 of 2025",
   "date_of_order": "17.09.2025",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 12",
     "Section 151",
@@ -19,7 +19,12 @@
   "citations": [
     "2005 CLC 1675"
   ],
-  "parties": [],
+  "parties": [
+    "Nasir",
+    "Muhammad Hanif and others",
+    "Mst. Najma",
+    "Muhammad Rafiq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

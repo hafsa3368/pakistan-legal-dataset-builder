@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 5,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE",
+  "date_of_order": "01-10-2020",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "section 48",
     "section 6",
@@ -20,7 +20,13 @@
   "citations": [
     "2018 SCMR 2039"
   ],
-  "parties": [],
+  "parties": [
+    "Athar Ellahi",
+    "The State",
+    "Mr. Muhammad Ali Shahwani",
+    "Mr. Khadim Hussain",
+    "ASI Muhammad Arif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

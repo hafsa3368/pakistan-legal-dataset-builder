@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Criminal Acquittal Appeal No.200 of 2023",
+  "case_number": "",
   "date_of_order": "29.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 245 Cr.P.C",
     "Section 337-F",
@@ -24,7 +24,13 @@
     "2009 SCMR 237",
     "PLD 2006 Karachi 377"
   ],
-  "parties": [],
+  "parties": [
+    "Shabbir Ahmed",
+    "The State",
+    "Jameel Ahmed",
+    "Sufiyan",
+    "Shakeel Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

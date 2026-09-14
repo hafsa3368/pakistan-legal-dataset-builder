@@ -6,12 +6,23 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "misconceived and not",
+  "case_number": "C.P No.D-566 of 2020",
   "date_of_order": "03.09.2020",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "Section 397 CrPC",
+    "Section 397(1) CrPC",
+    "Section 397(2) CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ali Kolachi",
+    "Mr. Allah Bachayo Soomro",
+    "Sindh",
+    "official respondents",
+    "private respondents",
+    "Jamrao West Branch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

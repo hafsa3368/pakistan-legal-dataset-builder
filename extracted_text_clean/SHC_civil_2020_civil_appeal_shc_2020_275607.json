@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Civil Appeals Nos",
+  "case_number": "",
   "date_of_order": "12.05.2025",
   "judge": "Muhammad Jaffer Raza",
   "sections_cited": [
@@ -21,7 +21,13 @@
     "2025 SCMR 495",
     "2019 SCMR 524"
   ],
-  "parties": [],
+  "parties": [
+    "M/S. R & J Builders and Developers & another",
+    "Muhammad Sajjad & others",
+    "Mr. Ubaid-ur-Rehman",
+    "Mr. Muhammad Aslam",
+    "Ms. Afsheen Aman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

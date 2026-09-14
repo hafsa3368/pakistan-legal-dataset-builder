@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "HCA No.157 of 2024",
   "date_of_order": "27.01.2025",
   "judge": "Zafar Ahmed Rajput Mr",
   "sections_cited": [
@@ -15,7 +15,10 @@
   "citations": [
     "1998 SCMR 1970"
   ],
-  "parties": [],
+  "parties": [
+    "Shafiq-ur-Rehman Siddiqui",
+    "Mst. Neelofer Khalid and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

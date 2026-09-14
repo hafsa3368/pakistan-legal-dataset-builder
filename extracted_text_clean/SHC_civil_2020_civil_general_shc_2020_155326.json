@@ -7,11 +7,25 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "13-10-2021",
+  "judge": "Munira Binte Ikram",
+  "sections_cited": [
+    "Section 9 of the Code of Criminal Procedure, 1898"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sukkur Municipal Corporation",
+    "Petitioner in C.P No. D-99/2008",
+    "Petitioner in C.P No. D- 2025/2017",
+    "Petitioner in C.P No. D- 327/2021",
+    "Mubeen Ahmed Khan",
+    "Mr. Noor Ali Shar",
+    "Mr. Aamir Mustafa Kamario",
+    "Syed Tanveer Abbas Shah",
+    "Mr. Khuda Bux Chohan",
+    "Mr. Zulfiqar Ali Naich",
+    "Imtiaz Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

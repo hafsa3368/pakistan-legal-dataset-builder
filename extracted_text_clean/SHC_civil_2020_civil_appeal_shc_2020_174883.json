@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Civil Suit No.Nil of 2018",
+  "case_number": "",
   "date_of_order": "08.11.2022",
   "judge": "",
   "sections_cited": [
@@ -15,7 +15,11 @@
     "Section 11 of CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Khalid Ali Khan",
+    "Muhammad Khalid Ali Khan",
+    "Rizwan Cooperative Housing Society Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

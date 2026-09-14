@@ -30,7 +30,12 @@
     "PLD 2018 Sindh 8",
     "PLD 1995 SC 530"
   ],
-  "parties": [],
+  "parties": [
+    "Asif Ali Memon",
+    "Province of Sindh",
+    "Karachi Development Authority",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

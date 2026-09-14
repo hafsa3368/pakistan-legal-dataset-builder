@@ -9,9 +9,23 @@
   "case_number": "",
   "date_of_order": "11-12-2025",
   "judge": "Adnan Iqbal Chaudhry Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Danish Impex",
+    "M/s. Diera International",
+    "M/s. Ayaan Traders",
+    "M/s. Fariyal Ishaque",
+    "Sathi M. Ishaque",
+    "Mehreen Ibrahim",
+    "Muhammad Hassan",
+    "Sardar Zafar Hussain",
+    "Aamir Ali Shaikh",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

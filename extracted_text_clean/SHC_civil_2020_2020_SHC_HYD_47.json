@@ -6,12 +6,19 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Cr.Acq.Appeal No.S-",
+  "case_number": "",
   "date_of_order": "26.10.2020",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 342 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Irshad Ali Shah",
+    "Ms. Sobia Bhatti",
+    "State",
+    "Abdul Khaliq and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

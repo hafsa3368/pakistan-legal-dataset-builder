@@ -8,14 +8,17 @@
   "num_chunks": 15,
   "case_number": "Civil Appeal No. S-02 of 2023",
   "date_of_order": "11.12.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 118 of the Negotiable Instruments Act",
     "Section 118",
     "Section 34 of the Civil Procedure Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jam Sher Afghan",
+    "Sher Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

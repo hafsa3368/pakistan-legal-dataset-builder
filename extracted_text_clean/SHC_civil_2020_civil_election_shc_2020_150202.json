@@ -6,12 +6,19 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-1424 of 2020",
   "date_of_order": "11.03.2021",
-  "judge": "",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Arshad S. Pathan",
+    "Mr. Kamaluddin",
+    "Mr. Allah Bachayo Soomro",
+    "Mr. Ashfaque Nabi Qazi",
+    "LUMHS",
+    "respondents 3, 4 and 5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

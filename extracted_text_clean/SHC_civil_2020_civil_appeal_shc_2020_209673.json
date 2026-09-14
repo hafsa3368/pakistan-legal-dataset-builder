@@ -6,14 +6,18 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "criminal proceeding against directors was not",
+  "case_number": "",
   "date_of_order": "23.01.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "section 489-F of the PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Cedar (Pvt.) Limited",
+    "Soneri Bank Limited",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

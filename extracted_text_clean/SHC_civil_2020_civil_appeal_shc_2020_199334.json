@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Criminal Appeal No.D-",
+  "case_number": "",
   "date_of_order": "20.06.2023",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "sections 302 PPC",
     "Section 265-H",
@@ -36,7 +36,16 @@
     "2021 SCMR 542",
     "2012 SCMR 82"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Partab",
+    "Baboo",
+    "Neelo Kolhi",
+    "Kalji Kolhi",
+    "Janu",
+    "Bashir",
+    "Hamal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "20.05.2021",
   "judge": "Irfan Saadat Khan Mr",
   "sections_cited": [
@@ -18,7 +18,13 @@
     "2008 SCMR 236",
     "2017 SCMR 637"
   ],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Sindh Public Service Commission",
+    "Pakistan Nursing Council",
+    "State",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

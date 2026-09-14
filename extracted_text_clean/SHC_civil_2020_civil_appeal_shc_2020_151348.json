@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "20.04.2021",
-  "judge": "",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "Sections 302, 109, 34",
     "Section 417"
@@ -16,7 +16,15 @@
   "citations": [
     "2019 SCMR 652"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ilyas",
+    "Nemo",
+    "The State",
+    "Umar Hayat",
+    "Basheer",
+    "Abdul Haq",
+    "Fazlur Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

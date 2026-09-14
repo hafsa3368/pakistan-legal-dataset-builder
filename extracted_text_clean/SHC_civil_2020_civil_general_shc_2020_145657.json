@@ -6,12 +6,17 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "M.A. No.1409/2019",
+  "date_of_order": "07.08.2020",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Arshad S. Pathan",
+    "Mr. Kashif Hussain Agha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

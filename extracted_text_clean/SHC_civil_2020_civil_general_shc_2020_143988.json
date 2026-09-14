@@ -6,12 +6,18 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.540 of 2019",
   "date_of_order": "26.02.2020",
-  "judge": "Khuhro/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Blosch Ahmed Junejo",
+    "Mr. Farhad Saeed Khan",
+    "Mr. Muhammad Absaar Khan",
+    "Mr. Ghulam Fareed",
+    "Mr. Sajjad Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "construction. Upon notice",
+  "case_number": "MA No. 14915/202",
   "date_of_order": "29.01.2021",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Section 39",
     "section 151 CPC",
@@ -37,7 +37,14 @@
     "PLD 2018 Sindh 136",
     "PLD 2010 Karachi 374"
   ],
-  "parties": [],
+  "parties": [
+    "Fazal Mehmood",
+    "Province of Sindh",
+    "Ghani Builders",
+    "Mr. Fazal Mahmood",
+    "Mr. Fazal Mahmood",
+    "Khadeeja Towers"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.P. Nos.D-4953",
   "date_of_order": "16.10.2020",
   "judge": "Muhammad Ali Mazhar",
   "sections_cited": [
@@ -17,7 +17,15 @@
     "Section 18 of Pakistan Medical Commission Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners in C.P. No.D-4953 of 2020",
+    "Petitioners in C.P. No.D-5036 of 2020",
+    "The PMC",
+    "Government of Sindh",
+    "Peoples University of Medical & Health Sciences",
+    "Admitting University",
+    "The respondent No.1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

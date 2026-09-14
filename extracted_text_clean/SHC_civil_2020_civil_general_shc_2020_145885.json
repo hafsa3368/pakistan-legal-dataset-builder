@@ -6,12 +6,16 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "C.P No.D-733 of 2020",
+  "date_of_order": "13.08.2020",
+  "judge": "Abdullah Channa",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bashir Ahmed Sethar",
+    "Mr. Allah Bachayo Soomro",
+    "the Municipal Commissioner, Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

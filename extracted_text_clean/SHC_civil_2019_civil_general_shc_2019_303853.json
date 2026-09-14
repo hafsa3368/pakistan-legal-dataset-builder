@@ -6,12 +6,19 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-483 of 2024",
   "date_of_order": "21.11.2025",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Sajjad Ali Jessar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mohsin Raza Gopang",
+    "Mr. Muhammad Ismail Bhutto",
+    "Additional A.G Sindh a/w Assistant SGA&CD (Jabir Jabbar)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

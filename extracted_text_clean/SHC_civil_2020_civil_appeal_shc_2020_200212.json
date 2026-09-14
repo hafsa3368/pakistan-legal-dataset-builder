@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No.S-86 of 2021",
   "date_of_order": "13.06.2023",
-  "judge": "SSuleman Khan/PA",
+  "judge": "SSuleman Khan",
   "sections_cited": [
     "Section 364-A of the Pakistan Penal Code",
     "section 364-A PPC",
@@ -21,7 +21,18 @@
     "2018 P.Cr.L.J 943",
     "2019 P. Cr.L.J Note 161"
   ],
-  "parties": [],
+  "parties": [
+    "Farooq Ahmed",
+    "Altaf Hussain",
+    "Muhammad Nawaz Korai",
+    "Aijaz Ali",
+    "Ameer Hussain",
+    "Waris Ali",
+    "Ahad Ali",
+    "Noor Fatima",
+    "Sindh",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

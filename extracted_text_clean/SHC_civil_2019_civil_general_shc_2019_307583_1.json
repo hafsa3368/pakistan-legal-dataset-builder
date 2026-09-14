@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Misc. Application No. 3394 of 2022",
   "date_of_order": "19.02.2026",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Arbab Ali Hakro Justice Riazat",
   "sections_cited": [
     "Section 9",
     "Section 14 of the Federal Ombudsmen Institutional Reforms Act",
@@ -24,7 +24,13 @@
     "2018 MLD 327",
     "PLD 2018 Sindh 581"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Farhan Ahmed Shah",
+    "Federal Ombudsman Secretariat for Protection against Harassment of Women",
+    "Mr. Shamsuddin Rajper",
+    "Zafar Ali Channa",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,24 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "12.08.2020",
-  "judge": "",
+  "judge": "Muhammad Ali Napar",
   "sections_cited": [
     "Section 6",
     "Section 26 of Electricity Act",
     "Section 26 of the Electricity Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondents No.2 to 7",
+    "Respondent-Company",
+    "Respondent-06",
+    "Electric Inspector",
+    "Additional Registrar",
+    "Petitioner/consumer",
+    "Consumer",
+    "Deputy Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

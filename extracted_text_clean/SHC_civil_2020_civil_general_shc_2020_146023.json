@@ -9,9 +9,21 @@
   "case_number": "Civil Revision No.131 of 1986",
   "date_of_order": "02.09.2020",
   "judge": "Hafiz Fahad",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 506, 447, 436, 337-H",
+    "u/s 324, 506, 337-H"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Abdul Maalik Gaddi",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mrs. Razia Ali Zaman Patoli",
+    "Allah Bachayo Soomro",
+    "Ali Raza Leghari",
+    "SIP Bashir Ahmed",
+    "Ali Nawaz",
+    "Major General Aamir Majeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

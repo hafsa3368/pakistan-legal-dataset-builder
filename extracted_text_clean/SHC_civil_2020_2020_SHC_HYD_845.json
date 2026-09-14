@@ -6,12 +6,18 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.S-600 of 2020",
   "date_of_order": "18.12.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "petitioner",
+    "Mr. Javed Ali Buriro",
+    "family Court-VI, Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

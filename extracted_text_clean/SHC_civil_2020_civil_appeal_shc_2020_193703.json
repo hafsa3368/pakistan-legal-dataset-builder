@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-400 of 2023",
   "date_of_order": "17.04.2023",
   "judge": "",
   "sections_cited": [
@@ -20,7 +20,9 @@
     "2020 CLC 1353",
     "PLD 1975 Karachi 448"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Nadeemul Haq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

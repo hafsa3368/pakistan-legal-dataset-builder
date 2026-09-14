@@ -8,12 +8,32 @@
   "num_chunks": 14,
   "case_number": "Constitutional Petition No.D-292 of 2024",
   "date_of_order": "10.02.2026",
-  "judge": "JUDGE",
+  "judge": "Amjad Ali Bohio",
   "sections_cited": [
     "Section 12"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst Razia",
+    "Syed Kaleem Imam",
+    "Inspector General of Police, Sindh",
+    "M/s Sohail Ahmed Khoso",
+    "Noor Hassan Malik",
+    "Muhammad Ismail Thaheem",
+    "Muhammad Haseeb Jamali",
+    "Muzamil Hussain Jalbani",
+    "Sudhamo",
+    "Raja Anwar",
+    "Mr. Sartaj Hyder Shar",
+    "Mr. Mukesh Kumar G. Karara",
+    "Mr. Fidaullah Qureshi",
+    "Mr. Ali Raza Balouch",
+    "Tanveer Tahir",
+    "Atta Muhammad Soomro",
+    "Shafi Muhammad Khaskheli",
+    "SIP Iqbal Ahmed Noon",
+    "Inspector Naveed Akbar Pirzada"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

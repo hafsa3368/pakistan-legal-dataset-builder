@@ -6,14 +6,20 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "19.11.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [],
   "citations": [
     "2009 SCMR 703"
   ],
-  "parties": [],
+  "parties": [
+    "Ahsan Ali Chohan",
+    "Province of Sindh",
+    "02 others",
+    "Mr. Ahmed Ali Ghumro",
+    "Mr. Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

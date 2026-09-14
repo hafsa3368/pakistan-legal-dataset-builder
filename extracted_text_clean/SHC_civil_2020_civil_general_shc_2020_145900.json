@@ -6,12 +6,22 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE Irfan Ali",
-  "sections_cited": [],
+  "case_number": "C.P. No.D-2947 of 2018",
+  "date_of_order": "18.08.2020",
+  "judge": "Irfan Ali",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Junaid Soomro",
+    "Mr. Imran Qureshi",
+    "Mr. Zaheeruddin Sahito",
+    "Mr. Allah Bachayo Soomro",
+    "Tariq Memon",
+    "Muhammad Rafique",
+    "Kamran Baig"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

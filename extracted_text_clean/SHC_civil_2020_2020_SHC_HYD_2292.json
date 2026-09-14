@@ -6,14 +6,18 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No.S-05 of 2014",
   "date_of_order": "02.11.2020",
   "judge": "",
   "sections_cited": [
     "Section 342 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Urooj Naz",
+    "Mr. Shahzado Saleem Nahiyoon",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

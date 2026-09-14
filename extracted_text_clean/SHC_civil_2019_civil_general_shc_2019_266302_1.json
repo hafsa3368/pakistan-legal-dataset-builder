@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "Crl. Anti-Terrorisnr APPeal No 213",
+  "case_number": "",
   "date_of_order": "22.11.2019",
   "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
@@ -23,7 +23,18 @@
     "2015 SCMR 114",
     "2019 SCMR 129"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Mohammad Karim Khan Agha",
+    "Mr. Justice Mohammad Karim Khan Agha",
+    "Mohamnad Ashiq Khan Son of Manzoor l(han",
+    "State",
+    "State",
+    "Mr. Justice Mohammad Karim Khan Agha",
+    "Mr. Justice Mohammad Karim Khan Agha",
+    "State",
+    "Mohamnad Ashiq Khan Son of Manzoor l(han",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

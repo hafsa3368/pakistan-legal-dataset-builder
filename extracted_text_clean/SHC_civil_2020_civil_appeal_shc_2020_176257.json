@@ -8,14 +8,17 @@
   "num_chunks": 3,
   "case_number": "Civil Appeal No. 260 of 2017",
   "date_of_order": "19.09.2022",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 145",
     "Section 151 CPC",
     "Section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pakistan International Airline",
+    "Suresh Kumar and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

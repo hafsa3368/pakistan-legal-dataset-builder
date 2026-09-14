@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Civil Revision Appln.No.S-182 of 2019",
   "date_of_order": "30.11.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Inayat Hussain Shah",
+    "Syed Shafique Ahmed Shah",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

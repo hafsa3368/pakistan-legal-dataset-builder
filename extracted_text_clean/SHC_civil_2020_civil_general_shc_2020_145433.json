@@ -6,12 +6,22 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Petition No. D",
+  "case_number": "",
   "date_of_order": "03.03.2020",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Altamash Arab",
+    "Mr. Hyder Imam Rizvi",
+    "Mr. Hakim Ali Shaikh",
+    "Mr. Ali Safdar Depar",
+    "Khalid Hyder Shah",
+    "Muhammad Zama Narejo",
+    "Ahmed Bux Narejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

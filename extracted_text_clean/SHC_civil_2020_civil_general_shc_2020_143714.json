@@ -6,15 +6,21 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "MA No.4242/2016",
   "date_of_order": "14-01-2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 MLD 666",
     "2016 SCMR 1841"
   ],
-  "parties": [],
+  "parties": [
+    "Nemo",
+    "Ms. Shahila Perveen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

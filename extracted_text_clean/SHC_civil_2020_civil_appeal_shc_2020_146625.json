@@ -8,7 +8,7 @@
   "num_chunks": 24,
   "case_number": "Criminal Transfer Application No.S-70 of 2015",
   "date_of_order": "24.09.2020",
-  "judge": "JUDGE S",
+  "judge": "Abdul Maalik Gaddi",
   "sections_cited": [
     "sections 302, 324, 34 PPC",
     "section 302",
@@ -35,7 +35,14 @@
     "2011 SCMR 713",
     "2013 SCMR 383"
   ],
-  "parties": [],
+  "parties": [
+    "Khalil-ur-Rehman alias Bholoo",
+    "The State",
+    "Sher Muhammad Jogi",
+    "Liaquat Ali",
+    "Muhammad Zareef Rajput",
+    "Ali Muhammad Jogi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

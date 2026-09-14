@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "11.03.2021",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -22,7 +22,15 @@
     "section 53"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Al-Ghazi Tractors Limited",
+    "Government of Sindh",
+    "Altaf Hussain Khoso",
+    "Sheikh Muhammad Ramzan Sethi",
+    "Mahmood Ahmed",
+    "Syed Fazlur Rehman",
+    "Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

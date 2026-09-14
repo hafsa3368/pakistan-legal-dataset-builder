@@ -6,14 +6,27 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitutional Petition No.D",
+  "case_number": "",
   "date_of_order": "18.08.2017",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 SCMR 1189"
   ],
-  "parties": [],
+  "parties": [
+    "Secretary, Health Department, Government of Sindh",
+    "Dr. Kazim Ali Jatoi",
+    "Dr. Sikandar Ali Memon",
+    "Government of Sindh",
+    "Malik Altaf Hussain",
+    "Mustafa Mehdi",
+    "Zulfiqar Ali Domki",
+    "G.M. Korai",
+    "Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

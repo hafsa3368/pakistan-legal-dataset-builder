@@ -6,15 +6,19 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "Constitution Petition No. D",
+  "case_number": "H. C. A. No. 116 of 2020",
   "date_of_order": "06.10.2020",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 10 of Civil Procedure Code",
     "Sections 94 and 151 of CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahzad Noor Muhammad",
+    "Karachi Gymkhana",
+    "8 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

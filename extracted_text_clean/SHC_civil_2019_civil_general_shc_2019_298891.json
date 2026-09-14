@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Civil Revision Application No. 28 of 2025",
   "date_of_order": "30.03.2026",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Section 11 of the Sindh Revenue Jurisdiction Act"
   ],
@@ -29,7 +29,15 @@
     "1995 SCMR 459",
     "2001 SCMR 953"
   ],
-  "parties": [],
+  "parties": [
+    "Irfan Taj",
+    "Taj Muhammad",
+    "Mst. Zareena Shabbir",
+    "Ali Sher",
+    "Eidu",
+    "Ali Mohammad",
+    "Taj Mohammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

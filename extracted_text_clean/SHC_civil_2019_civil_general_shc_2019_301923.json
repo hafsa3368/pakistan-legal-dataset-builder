@@ -6,14 +6,18 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-900 of 2024",
   "date_of_order": "17.12.2025",
   "judge": "Riazat Ali Sahar Mr",
   "sections_cited": [
     "Section 154 of the Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Razaullah",
+    "Province of Sindh",
+    "Moula Bux Bajeer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,21 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitution. 5. The respondents No.2",
+  "case_number": "",
   "date_of_order": "12.03.2026",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Arbab Ali Hakro Justice Riazat",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Ali Bux Laghari",
+    "Riaz Ali",
+    "Ms.Shahida Tabasum Rana",
+    "Mr.Rafiq Ahmed Dahri",
+    "Province of Sindh",
+    "Ali Bux Laghari",
+    "Riaz Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

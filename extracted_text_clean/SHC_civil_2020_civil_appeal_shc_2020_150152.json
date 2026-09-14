@@ -6,14 +6,24 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P No.S-23 of 2021",
   "date_of_order": "08.03.2021",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Arshad Hussain Khan",
+  "sections_cited": [
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "2012 SCMR 976"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Asif Ali Talpur",
+    "Mr. Imdad Ali Memon",
+    "Mr. Wali Muhammad Jamari",
+    "Arshad Hussain Khan",
+    "Hussain Ali",
+    "respondent No.1",
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

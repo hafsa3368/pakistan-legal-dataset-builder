@@ -8,13 +8,19 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "27.10.2020",
-  "judge": "JUDGE S",
+  "judge": "",
   "sections_cited": [
     "section 364 PPC",
     "sections 302 and 201 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Nawaz Chang",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Khadim Hussain Soomro",
+    "DSP Mumtaz Ali",
+    "SIP Tasleem Ahmed Bhurgri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

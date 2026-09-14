@@ -6,12 +6,17 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Pett. No.D-1511 of 2019",
+  "case_number": "",
   "date_of_order": "25.09.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Zafar Ali Shah",
+    "Mr. Achar Khan Gabol",
+    "Mr. Ghulam Murtaza Korai",
+    "Mr. Shahryar I Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

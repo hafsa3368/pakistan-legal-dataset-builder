@@ -30,7 +30,12 @@
     "PLD 1973 SC 49",
     "PLD 1993 SC 473"
   ],
-  "parties": [],
+  "parties": [
+    "Manzoor Ali",
+    "The State",
+    "Muhammad Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

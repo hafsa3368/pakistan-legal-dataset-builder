@@ -8,10 +8,22 @@
   "num_chunks": 4,
   "case_number": "Const. Petition No. D-1407 of 2017",
   "date_of_order": "28.10.2021",
-  "judge": "JUDGE Abrar",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ashwar Kumar",
+    "private respondents No.9 to 11",
+    "official respondents No.3 to 5",
+    "Hindu community",
+    "Mukhtiarkar Shah Bandar",
+    "S.S.P.",
+    "Deputy Commissioner",
+    "Assistant Commissioner",
+    "Director",
+    "Settlement Surveyor & Land Records",
+    "Land Record Officer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

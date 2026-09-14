@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Civil Appeal No.S-04 of 2024",
   "date_of_order": "24.11.2025",
-  "judge": "",
+  "judge": "Arbab Ali Hakro",
   "sections_cited": [
     "Section 6",
     "Section 7",
@@ -22,7 +22,10 @@
   "citations": [
     "2009 SCMR 1005"
   ],
-  "parties": [],
+  "parties": [
+    "Sui Southern Gas Company Limited",
+    "Abdullah s/o Lal Muhammad Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

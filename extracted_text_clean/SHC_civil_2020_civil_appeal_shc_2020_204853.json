@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 377 of 2023",
   "date_of_order": "01.11.2023",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,14 @@
     "Section 5 of the Limitation Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Raza Ali Zaidi and Another",
+    "Syed Ziauddin",
+    "Meezan Bank Ltd.",
+    "Bank Al-Habib Ltd.",
+    "Sindhi Building Control Authority",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

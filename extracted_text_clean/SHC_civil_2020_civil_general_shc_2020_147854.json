@@ -6,12 +6,23 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.P. No.D-4968 of 2013",
   "date_of_order": "26.11.2020",
-  "judge": "JUDGE Aadil Arab",
-  "sections_cited": [],
+  "judge": "Muhammad Ali Mazhar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The Ansar Burney Trust International",
+    "The Prime Minister of Pakistan",
+    "The Prime Minister of Pakistan",
+    "Amanullah Zardari",
+    "DSP Raza Mian",
+    "Mr. Justice Muhammad Ali Mazhar",
+    "Mr. Justice Arshad Hussain Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

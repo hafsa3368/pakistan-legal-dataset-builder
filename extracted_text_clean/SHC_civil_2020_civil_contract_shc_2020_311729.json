@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "H.C.A. NO.448 OF 2023",
   "date_of_order": "02.04.2026",
   "judge": "Arshad Hussain Khan Mr",
   "sections_cited": [
@@ -17,7 +17,18 @@
     "2020 SCMR 1",
     "PLD 2017 Sindh 347"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Asif Ahmed Qureshi & others",
+    "Federation of Pakistan & others",
+    "Dr. Mohammad Naeem & others",
+    "Federation of Pakistan & others",
+    "Jinnah Postgraduate Medical Centre (JPMC)",
+    "Province of Sindh",
+    "Federation",
+    "Province of Sindh",
+    "Civil Servants Act, 1973",
+    "Federal Public Service Commission (FPSC)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

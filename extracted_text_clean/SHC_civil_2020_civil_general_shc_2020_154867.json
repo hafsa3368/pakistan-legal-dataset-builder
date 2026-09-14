@@ -6,12 +6,19 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No. D-2713 of 2021",
   "date_of_order": "27.10.2021",
-  "judge": "JUDGE SM",
+  "judge": "Irfan Saadat Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar Tunio",
+    "Province of Sindh",
+    "Abdul Sattar Tunio others",
+    "Malik Altaf Hussain",
+    "Mr. Ali Safdar Deepar",
+    "Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,8 +8,14 @@
   "num_chunks": 10,
   "case_number": "Constitutional Petition No. D-306 of 2020",
   "date_of_order": "08.09.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Yousuf Ali Sayeed,",
+  "sections_cited": [
+    "Article 199 of the Constitution",
+    "Article 28 of the Constitution",
+    "Article 9 of the Constitution",
+    "Article 15 of the Constitution",
+    "Article 16 of the Constitution"
+  ],
   "citations": [],
   "parties": [
     "Samira Mahamadi"

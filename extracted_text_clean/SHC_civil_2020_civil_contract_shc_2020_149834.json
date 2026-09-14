@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 5,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "01-03-2021",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 5"
   ],
@@ -16,7 +16,12 @@
     "1992 SCMR 19",
     "2017 SCMR 1734"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Sarmad Hani",
+    "Mr. S. Hassan Abidi",
+    "KMC",
+    "The Plaintiff"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

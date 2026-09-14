@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "Election Appeal No.157 of 2024",
   "date_of_order": "28.12.2023",
   "judge": "Shafi",
   "sections_cited": [
@@ -18,7 +18,14 @@
     "PLD 1970 SC 98",
     "PLD 2012 SC 1054"
   ],
-  "parties": [],
+  "parties": [
+    "Rehan Qaiser",
+    "Returning Officer NA-237 Karachi East-III",
+    "Mr. Naseer Nehal Hashmi",
+    "Mr. G.M Bhuto",
+    "Election Commission of Pakistan",
+    "Shadman Cotton Mills Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

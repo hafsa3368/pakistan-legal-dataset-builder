@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Civil Appeal No.D-38 of 2021",
   "date_of_order": "21.12.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 22",
     "Section 9",
@@ -17,7 +17,10 @@
   "citations": [
     "2014 SCMR 1048"
   ],
-  "parties": [],
+  "parties": [
+    "Shiv Oil Mill through Proprietor",
+    "M/s National Bank of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

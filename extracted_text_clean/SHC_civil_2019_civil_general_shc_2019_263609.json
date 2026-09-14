@@ -6,12 +6,17 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "misconceived and not",
+  "case_number": "C.P. No.D-1787 of 2022",
   "date_of_order": "08.05.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdullah Channa",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Gulab Khan Qaimkhani",
+    "the Chief Secretary, Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

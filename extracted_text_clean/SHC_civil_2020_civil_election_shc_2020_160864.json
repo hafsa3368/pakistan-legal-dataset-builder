@@ -6,14 +6,19 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "constituency No.PS-52",
+  "case_number": "",
   "date_of_order": "26.02.2020",
   "judge": "",
   "sections_cited": [
     "Section 34 of Election Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Barrister Zameer Hussain Ghumro",
+    "Mr. Muhammad Humayoon Khan D.A.G.",
+    "Mr. Abdullah Hanjrah",
+    "Mr. Allah Bachayo Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

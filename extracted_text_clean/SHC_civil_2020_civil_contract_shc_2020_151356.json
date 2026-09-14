@@ -8,7 +8,7 @@
   "num_chunks": 24,
   "case_number": "",
   "date_of_order": "27.04.2021",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 20 of the Arbitration Act",
     "Section 202 of the Contract Act",
@@ -38,7 +38,10 @@
     "2004 CLC 544",
     "2003 YLR 461"
   ],
-  "parties": [],
+  "parties": [
+    "TCB Aviation (Pvt.) Limited",
+    "Sri Lankan Airlines Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

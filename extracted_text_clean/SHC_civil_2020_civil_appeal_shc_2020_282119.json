@@ -9,11 +9,26 @@
   "case_number": "",
   "date_of_order": "23.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "CIR vs. Rafeh Limited reported as PLD 2020 SC 518"
+  ],
   "citations": [
     "PLD 2020 SC 518"
   ],
-  "parties": [],
+  "parties": [
+    "CIR",
+    "Rafeh Limited",
+    "Mrs. Masooda Siraj",
+    "Ms. Masooda Siraj",
+    "Muhammad Jawed",
+    "Mrs. Masooda Siraj",
+    "appellants",
+    "appellant",
+    "petitioner",
+    "applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

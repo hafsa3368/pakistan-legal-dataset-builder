@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "criminal minded person having no respect",
+  "case_number": "",
   "date_of_order": "04.03.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "section 7 of Illegal Dispossession Act",
     "section 7",
@@ -20,7 +20,11 @@
     "2007 PCr.LJ 1299",
     "2016 PCr.LJ 786"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Khan",
+    "Saroop Singh",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

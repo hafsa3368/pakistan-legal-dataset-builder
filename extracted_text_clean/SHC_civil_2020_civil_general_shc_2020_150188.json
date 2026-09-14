@@ -6,12 +6,17 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-374 of 2019",
   "date_of_order": "19.01.2021",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mehmood Hussain Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,15 @@
   "case_number": "Criminal Revision Application No.148 of 2021",
   "date_of_order": "23.08.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Muhammad Naeem Memon & Malik Muhammad Aijaz, Advocates for the Appellant",
+    "Ms. Rubina Qadir, Deputy Prosecutor General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

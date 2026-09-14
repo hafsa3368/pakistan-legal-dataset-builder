@@ -8,14 +8,23 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "12.08.2020",
-  "judge": "",
+  "judge": "Muhammad Ali Napar",
   "sections_cited": [
     "Section 6",
     "Section 26 of Electricity Act",
     "Section 26 of the Electricity Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ali Napar",
+    "Mr. Nauman Fareed Shaikh",
+    "Mr. Nauman Fareed Shaikh",
+    "Fareed Ahmed Pathan",
+    "Mr. Muhammad Hamzo Buriro",
+    "Mr. Muhammad Ali Napar",
+    "Mr. Nauman Fareed Shaikh",
+    "Mr. Muhammad Hamzo Buriro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

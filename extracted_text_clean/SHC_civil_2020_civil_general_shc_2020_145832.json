@@ -6,10 +6,13 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Civil Petitions Nos",
+  "case_number": "",
   "date_of_order": "20.08.2020",
-  "judge": "JUDGE S",
-  "sections_cited": [],
+  "judge": "Abdul Maalik Gaddi",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 335"
   ],

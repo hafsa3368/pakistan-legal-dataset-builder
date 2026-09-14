@@ -8,14 +8,17 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "07-03-2024",
-  "judge": "JUDGE",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "Section 4 of the Act",
     "Section 2 of the Act",
     "Section 10"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pak Leather Crafts Limited",
+    "Habib Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

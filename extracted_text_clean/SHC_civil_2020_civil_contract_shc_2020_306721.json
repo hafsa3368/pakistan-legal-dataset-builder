@@ -6,12 +6,19 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "civil Court to decide Civil Suit No.1744 of 2024",
+  "case_number": "C.P No.D-276 of 2026",
   "date_of_order": "19.02.2026",
   "judge": "Arbab Ali Hakro Justice Riazat",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aamir Augustin",
+    "Diocese of Hyderabad",
+    "06 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

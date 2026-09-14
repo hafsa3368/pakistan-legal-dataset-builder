@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Criminal Acquittal Appeal No. S-95 of 2023",
+  "case_number": "",
   "date_of_order": "14-04-2025",
-  "judge": "",
+  "judge": "Ali Haider",
   "sections_cited": [
     "Sections 15 and 17",
     "Section 342",
@@ -19,7 +19,11 @@
     "2024 YLR 1233",
     "PLD 2016 SC 769"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ramzan Kolachi",
+    "The State and another",
+    "Nisar Ahmed Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

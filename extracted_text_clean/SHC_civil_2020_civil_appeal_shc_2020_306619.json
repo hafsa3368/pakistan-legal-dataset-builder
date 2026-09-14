@@ -6,12 +6,15 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "constitutional jurisdiction. 11. It is by now",
+  "case_number": "C.P No.S-442 of 2021",
   "date_of_order": "23.02.2026",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memo,",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Nimra & another",
+    "Zamirul Islam v Mst. Nimra Anwaar & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

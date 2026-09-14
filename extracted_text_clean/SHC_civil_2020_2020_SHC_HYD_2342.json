@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal No.S",
+  "case_number": "",
   "date_of_order": "14-12-2020",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 34 PPC",
     "section 161 Cr.P.C"
@@ -24,7 +24,12 @@
     "1996 SCMR 1553",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Rajab Ali s/o Wahid Bux Khoso",
+    "Ali Nawaz son of Wahid Bux Khoso",
+    "The State",
+    "Fareed Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

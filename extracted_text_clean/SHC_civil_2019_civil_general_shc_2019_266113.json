@@ -6,14 +6,20 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "Criminal Appcal No.470 of 2017",
+  "case_number": "TATE FIR No.403/2014",
   "date_of_order": "19.10.2017",
   "judge": "Mohammad Karim Khan Agha",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 302 PPC",
+    "U/s 302 PPC"
+  ],
   "citations": [
     "2017 SCMR 2026"
   ],
-  "parties": [],
+  "parties": [
+    "The State FIR No.403/2014",
+    "State V/s ML,hammad ldress"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

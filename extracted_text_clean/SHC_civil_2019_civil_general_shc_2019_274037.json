@@ -6,12 +6,15 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-3589 of 2019",
   "date_of_order": "06.05.2025",
-  "judge": "",
+  "judge": "Head of Const. Benches",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Imdad Ali Shah",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

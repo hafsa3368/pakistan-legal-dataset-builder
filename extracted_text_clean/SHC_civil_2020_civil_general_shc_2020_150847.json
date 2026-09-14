@@ -6,14 +6,18 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "13.04.2021",
   "judge": "Adnan Iqbal Chaudhry Constitutional Petition",
   "sections_cited": [
     "Section 14"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nasim Ahmed Memon",
+    "Province of Sindh",
+    "Universities and Boards Department, Government of Sindh, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

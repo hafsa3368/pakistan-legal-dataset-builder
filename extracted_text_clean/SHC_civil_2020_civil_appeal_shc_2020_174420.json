@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 6,
   "case_number": "Crl. Appeal No. 230/2020",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "02.03.2020",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 491 Cr.P.C",
     "section 161",
@@ -16,7 +16,12 @@
     "section 5"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Hussain Morujo",
+    "The State",
+    "Zulfiqar Ali Langah",
+    "Siraj Ahmed Khan Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

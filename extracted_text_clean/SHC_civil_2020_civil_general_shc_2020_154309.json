@@ -9,9 +9,23 @@
   "case_number": "Criminal Misc. Application No.368 of 2020",
   "date_of_order": "14.01.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Illegal Dispossession Act, 2005",
+    "Divorce Act, 1869",
+    "Christian Marriage Act, 1872"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amanat Masif",
+    "Mst. Nasreen",
+    "SHO, P.S Shah Latif Town",
+    "Naveed Zaman",
+    "Ms. Hina",
+    "Saeed-uz-Zamman",
+    "Mumtaz Ali Khan Deshmukh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

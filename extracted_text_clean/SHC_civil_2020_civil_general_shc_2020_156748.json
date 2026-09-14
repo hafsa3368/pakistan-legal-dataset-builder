@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Misc. Application No.106 of 2019",
   "date_of_order": "12.12.2019",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [
     "Section 2",
     "Section 13",
@@ -17,7 +17,10 @@
     "sections 3, 4, 5 and 13"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Imran",
+    "Mr. Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

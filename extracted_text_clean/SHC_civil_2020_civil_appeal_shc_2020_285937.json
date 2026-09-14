@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "Civil Appeal No.99 of 2020",
   "date_of_order": "12.08.2025",
-  "judge": "",
+  "judge": "Muhammad Osman Ali Hadi",
   "sections_cited": [
     "Section 12",
     "Section 151 CPC",
@@ -31,7 +31,14 @@
     "PLD 2021 SC 715",
     "PLD 1969 SC 617"
   ],
-  "parties": [],
+  "parties": [
+    "Hafiz Ziauddin Sultan",
+    "Saeed Ahmed (Deceased through LRs) and another",
+    "Saeed Ahmed (Deceased through LRs) and another",
+    "Umer Sikandar",
+    "Muhammad Arif Shaikh",
+    "M.A Isani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

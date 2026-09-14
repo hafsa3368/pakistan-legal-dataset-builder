@@ -6,14 +6,42 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitution. 6. The Honorable",
+  "case_number": "",
   "date_of_order": "18.11.2021",
-  "judge": "JUDGE Sajjad Ali Jessar",
-  "sections_cited": [],
+  "judge": "Nadeem Akhtar",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2014 SCMR 353"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Nadeem Akhtar",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "M/s. Shakir Nawaz Shar",
+    "Razaq Raheem",
+    "Muhammad Arshad S. Pathan",
+    "Hameedullah Dahri",
+    "Qambar Ali Jamali & Balmiyo",
+    "Muhammad Sachal R. Shakir Nawaz Shar",
+    "Muneer Ahmed Turk",
+    "Shahnawaz Nizamani",
+    "Abdul Majeed Shaikh",
+    "Muhammad Ibrahim",
+    "Amjad Hussain Rajpar",
+    "Mr. Nihal Khan Lashari",
+    "Mr. Touseef Ahmed Chandio",
+    "Mr. Muhammad Sachal R. Awan",
+    "Advocate(s) for petitioners in rest of the petitions",
+    "Advocate for respondents 6 to 15 in CP No. D- 764 of 2021",
+    "Advocate for respondent No.5 in CP No. D- 1408 of 2021",
+    "Advocate holds brief for",
+    "Civil Judge",
+    "Province of Sindh and others",
+    "Government of Sindh and others",
+    "Secretary Irrigation and others",
+    "Irrigation Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

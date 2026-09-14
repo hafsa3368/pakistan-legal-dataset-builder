@@ -8,14 +8,17 @@
   "num_chunks": 3,
   "case_number": "Civil Appeal No. 08/2020",
   "date_of_order": "14.01.2020",
-  "judge": "",
+  "judge": "Muhammad Jaffer Raza",
   "sections_cited": [
     "section 12 CPC"
   ],
   "citations": [
     "1999 SCMR 700"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Adnan Ahmed",
+    "Mr. Syed Yousuf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,10 +6,13 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "civil servant cannot",
+  "case_number": "",
   "date_of_order": "09.12.2021",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2013 SCMR 1752"
   ],

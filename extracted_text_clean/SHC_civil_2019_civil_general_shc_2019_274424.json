@@ -6,12 +6,15 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-4787 of 2016",
   "date_of_order": "21.04.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Fehmida Bhutto",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

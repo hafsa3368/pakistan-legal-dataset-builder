@@ -6,12 +6,16 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "20.05.2020",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S Arshad M. Tayebaly, Omar Memon and Irfan Aziz, advocates for the petitioners",
+    "Mr. Salman Talibuddin, Advocate General Sindh",
+    "Mr. Ghulam Shabbir Shah, Addl. Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

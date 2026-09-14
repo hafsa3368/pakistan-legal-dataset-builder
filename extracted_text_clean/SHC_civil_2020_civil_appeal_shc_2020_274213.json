@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Criminal Acquittal Appeal No. S-96 of 2023",
+  "case_number": "",
   "date_of_order": "14-04-2025",
-  "judge": "",
+  "judge": "Ali Haider “Ada”",
   "sections_cited": [
     "Sections 15 and 17",
     "Section 265-C",
@@ -19,7 +19,13 @@
     "2024 YLR 1233",
     "PLD 2016 SC 769"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Latif",
+    "The State and another",
+    "Ahmed Ali Shaikh",
+    "Fayaz Ahmed",
+    "Sui Southern Gas Company"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

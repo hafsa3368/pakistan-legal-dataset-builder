@@ -6,12 +6,18 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "H.C.A. No.302 of 2023",
   "date_of_order": "23.08.2023",
   "judge": "Aqeel Ahmed Abbasi Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kinjo Seafood (Pvt) Limited",
+    "Mr. Justice Aqeel Ahmed Abbasi",
+    "Mr. Justice Abdul Mobeen Lakho",
+    "Mr. Rehan Kayani",
+    "Mr. Sohail Mujtaba Raja"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 27,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "04.11.2020",
   "judge": "Nadeem Akhtar Mr",
   "sections_cited": [
@@ -33,7 +33,24 @@
     "2013 SCMR 304",
     "2019 SCMR 648"
   ],
-  "parties": [],
+  "parties": [
+    "Anjum Badar",
+    "Province of Sindh",
+    "Faisal Khalid",
+    "Izhar ul Haq Junejo",
+    "Asmat Zehra",
+    "Dr. Sehrish Ishfaque",
+    "Yasir Iqbal",
+    "Mr. Tajamul Hassan",
+    "Akram Basheer",
+    "Muhammad Tayyab",
+    "Khurram Rauf Khan",
+    "Aqeel Ahmed",
+    "Mr. Abdullah",
+    "Kifayat Ali",
+    "Dr. Gul Hassan Qutrio",
+    "Zaiba Anjum"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

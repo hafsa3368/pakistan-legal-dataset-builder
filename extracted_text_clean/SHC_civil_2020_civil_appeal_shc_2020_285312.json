@@ -9,7 +9,10 @@
   "case_number": "Constitutional Petition No.D-5844 of 2021",
   "date_of_order": "08.10.2025",
   "judge": "Shafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1996 SCMR 1185",
     "1991 SCMR 1041",
@@ -27,7 +30,13 @@
     "2020 SCMR 1625",
     "2014 SCMR 982"
   ],
-  "parties": [],
+  "parties": [
+    "Ahmed Ali Faridi and others",
+    "Federation of Pakistan and others",
+    "Khaliq Islam and others",
+    "National Bank of Pakistan and others",
+    "Shakeel Ahmed and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

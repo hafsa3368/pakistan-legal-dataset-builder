@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Criminal Acquittal Appeal No. 274 of 2023",
+  "case_number": "",
   "date_of_order": "30.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 448, 468, 506, 34 PPC",
     "Sections 448, 468, 506",
@@ -24,7 +24,19 @@
   "citations": [
     "1986 PCr.L.J. 823"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Ghaffar son of (Late) Rustam Ali",
+    "The State",
+    "Mr. Babar Ali",
+    "Muhammad Almas",
+    "Muhammad Mushtaq",
+    "Ishaq",
+    "Muhammad Waqas",
+    "Bilal",
+    "Javed",
+    "Mst. Tabsum",
+    "Naseem Akhtar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

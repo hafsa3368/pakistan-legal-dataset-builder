@@ -8,13 +8,16 @@
   "num_chunks": 3,
   "case_number": "Civil Appeal No.68/2020",
   "date_of_order": "15.04.2025",
-  "judge": "",
+  "judge": "MUHAMMAD JAFFER RAZA,",
   "sections_cited": [
     "Section 4 of the Limitation Act",
     "Section 10 of General Clauses Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Zubeda Sharif",
+    "Wahidullah Ansari and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

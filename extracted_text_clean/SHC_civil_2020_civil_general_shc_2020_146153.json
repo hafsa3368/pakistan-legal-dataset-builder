@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "C.P. No.S-96 of 2020",
   "date_of_order": "07.09.2020",
   "judge": "Irfan Ali",
   "sections_cited": [
@@ -15,7 +15,140 @@
   "citations": [
     "PLD 2019 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "petitioner",
+      "name": "Mst. Rozina & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Kazbano"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Kainat & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Farzana & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Naila & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Samia Gulzar & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Salma Khatoon & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Darya Khatoon & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Sikandar Ali & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Miss Shanaz Anwar"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Farhana"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Haseena & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Haseena & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Hidayat Khatoon"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Shazia & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Haseena & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Lateefan & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Faiza Bibi & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Sht. Kiran & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Ali Asghar"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Ume-e-Rubab & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Gulab Dewan"
+    },
+    {
+      "type": "petitioner",
+      "name": "Govind Ram"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Nisha & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Samina & another"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mst. Samina & another"
+    },
+    {
+      "type": "respondent",
+      "name": "Province of Sindh & others"
+    },
+    {
+      "type": "respondent",
+      "name": "D.I.G. Shaheed Benazirabad & others"
+    },
+    {
+      "type": "respondent",
+      "name": "SSP Dadu and others"
+    },
+    {
+      "type": "respondent",
+      "name": "SSP Tharparkar & Mithi & others"
+    },
+    {
+      "type": "respondent",
+      "name": "Haroon"
+    },
+    {
+      "type": "respondent",
+      "name": "Jhenwar"
+    },
+    {
+      "type": "respondent",
+      "name": "SSP Tharparkar & Mithi & others"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

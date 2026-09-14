@@ -6,12 +6,20 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-2536 of 2013",
   "date_of_order": "02.09.2020",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. S.M Naveed Farooqui",
+    "Mr. Allah Bachayo Soomro",
+    "Mr. Asif Ali Talpur",
+    "petitioner",
+    "respondent No.2",
+    "respondent No.3",
+    "respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

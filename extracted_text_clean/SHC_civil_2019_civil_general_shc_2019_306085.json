@@ -9,9 +9,15 @@
   "case_number": "Constitutional Petition No.S-41 of 2026",
   "date_of_order": "18.02.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Suleman Dahri",
+    "Mr. Muhammad Idrees Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

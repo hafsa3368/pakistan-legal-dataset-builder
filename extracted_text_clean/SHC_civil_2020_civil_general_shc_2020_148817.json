@@ -6,12 +6,16 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "12.01.2021",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Professor (Retd) Syed Anwer Ali",
+    "Province of Sindh",
+    "University of Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

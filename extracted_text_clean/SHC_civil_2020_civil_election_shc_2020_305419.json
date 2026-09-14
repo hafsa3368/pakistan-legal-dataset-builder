@@ -6,14 +6,17 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P No.D-5927 of 2024",
   "date_of_order": "28.01.2026",
-  "judge": "JUDGE Shahzad Soomro",
+  "judge": "Shahzad Soomro",
   "sections_cited": [
     "Section 12"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shamshad Cooperative Agricultural Marketing & Credit Society Limited",
+    "the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition No. D-609 of 2021",
   "date_of_order": "13.01.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nazir Ahmed Soomro",
+    "Federation of Pakistan",
+    "Karachi Port Trust (KPT)",
+    "Respondent (KPT)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

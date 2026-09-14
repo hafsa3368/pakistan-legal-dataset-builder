@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "constructed on a sub- plot of Plot No.3-A",
+  "case_number": "High Court Appeal No.515 of 2024",
   "date_of_order": "02.05.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 42 of the Specific Relief Act",
     "Section 53-A",
@@ -23,7 +23,11 @@
     "PLD 1964 SC 106",
     "PLD 2023 SC 506"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Siddique Construction Company",
+    "Shanker Lal Ochani",
+    "Veer Kumar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

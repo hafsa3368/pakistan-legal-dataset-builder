@@ -6,9 +6,9 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "CP. No. D-1168 of 2020",
   "date_of_order": "04.02.2025",
-  "judge": "JUDGE Shafi",
+  "judge": "Muhammad Karim Khan Agha",
   "sections_cited": [
     "Section 24-A of the General Clauses Act",
     "section 11",
@@ -29,7 +29,11 @@
     "PLD 1990 SC 787",
     "PLD 2019 SC 37"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Itrat Malik",
+    "State Life Insurance Corporation of Pakistan",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

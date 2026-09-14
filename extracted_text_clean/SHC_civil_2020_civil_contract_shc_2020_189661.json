@@ -6,10 +6,12 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "MA No.8116/2023",
   "date_of_order": "30.03.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 456",
     "2021 SCMR 977",
@@ -21,7 +23,10 @@
     "2010 SCMR 105",
     "PLD 2021 Sindh 328"
   ],
-  "parties": [],
+  "parties": [
+    "Mrs. Humaira Nadeem Rana",
+    "The petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

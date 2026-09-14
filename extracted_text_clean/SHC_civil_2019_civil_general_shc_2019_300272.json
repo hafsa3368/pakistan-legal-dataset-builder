@@ -6,7 +6,7 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "criminal case bearing Crime No.92 of 2025",
+  "case_number": "C.P. No.S-265 of 2025",
   "date_of_order": "24.12.2025",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,15 @@
     "Sections 4/8 SPPMS Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "respondent No.9",
+    "respondent No.3",
+    "respondent No.4",
+    "respondent No.6",
+    "respondent No.7",
+    "respondent No.8"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

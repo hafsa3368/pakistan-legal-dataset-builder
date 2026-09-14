@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Misc. Appeal Nos",
+  "case_number": "Misc. Appeal Nos.52/2025",
   "date_of_order": "23.09.2025",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Sections 73 and 117",
     "Section 116 of the Act",
@@ -27,7 +27,18 @@
     "2025 SCMR 1229",
     "PLD 1997 SC 338"
   ],
-  "parties": [],
+  "parties": [
+    "Naseem Fatima Zaidi",
+    "Government of Sindh",
+    "Syed Hikmatullah",
+    "Naseem Fatima Zaidi",
+    "Muhammad Yaseen Shareef",
+    "Rani Naz",
+    "Quetta Town Cooperative Housing Society",
+    "Ahmed Khan Khaskheli",
+    "Al-Habib Co-operative Society Ltd",
+    "Shamim Barlas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,16 +6,27 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "constitutional to the extent that they do not",
+  "case_number": "C.P.No.D-5185 OF 2023",
   "date_of_order": "04-02-2026",
-  "judge": "JUDGE",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "Section 40"
   ],
   "citations": [
     "1990 CLC 448"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Samad and others",
+    "Province of Sindh and others",
+    "M/s. Omar Soomro and Zain A. Soomro",
+    "Mr. Muhammad Mujtafa Mamdani",
+    "Syed Ahsan Imam Rizvi",
+    "Mr. Salahuddin Ahmed and Nadeem Ahmed",
+    "M/s. Azain Nadeem, Ghulam Akbar Lashari, Rafiq Bhanbhro and Amanullah",
+    "Ali Safdar Depar",
+    "Mr. Ali Safdar Depar",
+    "SBCA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

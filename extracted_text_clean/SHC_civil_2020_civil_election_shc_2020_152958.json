@@ -6,14 +6,24 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitutional Petition No.D",
+  "case_number": "",
   "date_of_order": "18.08.2017",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 SCMR 1189"
   ],
-  "parties": [],
+  "parties": [
+    "Malik Altaf Hussain, advocate for the petitioner in CP No.D-4434/2020",
+    "Mr. Mustafa Mehdi, advocate for the applicant/intervener in CP No.D- 4434/2020",
+    "Mr. Zulfiqar Ali Domki, advocate for the petitioner in CP No.D-5842/2020",
+    "Mr. G.M. Korai, advocate for the petitioner in CP No.D-2281/2021",
+    "Dr. Kazim Ali Jatoi, Secretary, Health Department, Government of Sindh",
+    "Dr. Sikandar Ali Memon, Focal Person, Health Department, Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,23 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No. D-770 of 2020",
   "date_of_order": "11.08.2020",
   "judge": "Abdul Maalik Gaddi Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Atta Muhammad Shahani",
+    "The Secretary Establishment Division & others",
+    "Mr. Muhammad Arshad S. Pathan",
+    "Mr. Muhammad Humayoon Khan",
+    "Deputy Attorney General for Pakistan",
+    "Ahmed Nawaz Solangi",
+    "Executive Engineer C.C.D. Pak PWD Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,17 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Constitution Petition is also not",
+  "case_number": "C. P. No.D-380 of 2020",
   "date_of_order": "18.11.2020",
   "judge": "Naimatullah Phulpoto",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Mohammad Bijarani and others",
+    "Chairman, Election Committee, Sindh Primary Teachers Assocation & others",
+    "Tareeq Ahmed Abro & others",
+    "Deputy Director, Industries/Administrator & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

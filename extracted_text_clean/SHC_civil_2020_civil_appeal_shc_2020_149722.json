@@ -6,12 +6,28 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-4327 of 2020",
   "date_of_order": "23.02.2021",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. M. Ali Lakhani",
+    "Mr. M. Nishat Warsi, Deputy Attorney General",
+    "Ms. Aisha Warsi",
+    "Ms. Amna Warsi",
+    "Mr. Jawad S. Sarwana",
+    "Petitioner",
+    "Respondent No.2/CAA",
+    "Respondent No.3/PIA",
+    "Alleged Contemnor No.1",
+    "Alleged Contemnor No.2",
+    "Alleged Contemnor No.3",
+    "Alleged Contemnor No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

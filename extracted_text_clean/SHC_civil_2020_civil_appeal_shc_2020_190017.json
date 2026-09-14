@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Acquittal Appeal No. 581 of 2022",
+  "case_number": "",
   "date_of_order": "29.08.2022",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "sections 420 and 506 PPC",
     "section 417",
@@ -16,7 +16,12 @@
     "section 506 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Saleemi",
+    "The State & another",
+    "Muhammad Zahid",
+    "Khurram Zahid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

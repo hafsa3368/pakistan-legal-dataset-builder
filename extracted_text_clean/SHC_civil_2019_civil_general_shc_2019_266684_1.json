@@ -6,12 +6,18 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No.D-260 of 2024",
   "date_of_order": "14.5.2025",
   "judge": "Arbab Ali Hakro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Rasool",
+    "Province of Sindh",
+    "Abdul Jabbar",
+    "Aziz Ahmed Laghari",
+    "Muhammad Sharif Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

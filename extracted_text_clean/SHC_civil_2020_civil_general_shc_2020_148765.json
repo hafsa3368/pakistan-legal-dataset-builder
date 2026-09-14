@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitutional Petition No. S",
+  "case_number": "",
   "date_of_order": "07.01.2021",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "section 491",
     "Section 491 Cr.PC"
@@ -16,7 +16,12 @@
   "citations": [
     "PLD 2013 SC 557"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Muhammad",
+    "Mukaram Khan",
+    "Baby Nazia (Fatima)",
+    "Baby Iqra"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Crl. Bail Application No.S-35 of 2020",
   "date_of_order": "17.04.2020",
-  "judge": "",
+  "judge": "Shamusuddin Abbasi",
   "sections_cited": [
     "Sections 302, 452, 114, 147, 148 PPC",
     "Section 497 Cr.P.C"
@@ -17,7 +17,14 @@
     "2003 SCMR 958",
     "2011 SCMR 902"
   ],
-  "parties": [],
+  "parties": [
+    "Manzoor son of Bagh Ali Thebo",
+    "State",
+    "Hakim",
+    "Mst. Dadli",
+    "Parvez",
+    "Sarfraz alias Sharfo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

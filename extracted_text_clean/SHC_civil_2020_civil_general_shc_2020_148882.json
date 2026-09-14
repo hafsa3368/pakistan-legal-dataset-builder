@@ -8,10 +8,20 @@
   "num_chunks": 10,
   "case_number": "Constitution Petition No.6767/2019",
   "date_of_order": "04.09.2020",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Noureen, advocate for the Petitioner",
+    "Mr. Sibtain Mehmood, Additional Advocate General Sindh",
+    "Mr. Jawad Dero, Additional Advocate General Sindh",
+    "DSP Jan Muhammad of Central Prison, Karachi",
+    "DSP Kamal Bukhari, of Central Prison, Karachi",
+    "Abdul Basit Khan, Assistant Superintendent, Central Prison and Correctional Facility, Karachi",
+    "Inspector Shakir Hussain, SHO, P.S P.I.B Colony, Karachi",
+    "DSP Zubair Ahmed, New Town, Karachi",
+    "Inspector Manzoor Ahmed, SHO New Town, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

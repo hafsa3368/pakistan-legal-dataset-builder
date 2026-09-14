@@ -8,12 +8,16 @@
   "num_chunks": 1,
   "case_number": "Constitutional Petition No. D-2021 of 2020",
   "date_of_order": "04.01.1999",
-  "judge": "",
+  "judge": "Fiaz Ahmed Abro",
   "sections_cited": [
     "Section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Fiaz Ahmed Abro",
+    "respondents",
+    "learned AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

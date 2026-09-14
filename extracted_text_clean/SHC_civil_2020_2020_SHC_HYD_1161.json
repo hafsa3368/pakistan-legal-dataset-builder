@@ -6,7 +6,7 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-1404 of 2010",
   "date_of_order": "26.11.2020",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -16,7 +16,15 @@
   "citations": [
     "PLD 2007 Karachi 330"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Imran Qureshi",
+    "Mr. Allah Bachayo Soomro",
+    "Additional Advocate General, Sindh",
+    "Province of Sindh",
+    "Secretary to Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

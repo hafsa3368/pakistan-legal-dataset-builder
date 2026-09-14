@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 20,
-  "case_number": "Civil Hospital. Cr. Appeal Nos",
+  "case_number": "Cr. Appeal Nos. S-44",
   "date_of_order": "04.09.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 353, 324, 335, 336 & 34 PPC",
     "Section 23",
@@ -33,7 +33,11 @@
     "PLD 2002 SC 1048",
     "PLD 2012 SC 380"
   ],
-  "parties": [],
+  "parties": [
+    "Shah Hussain Shah",
+    "Syed Hasnain Shah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

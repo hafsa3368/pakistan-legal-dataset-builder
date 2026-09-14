@@ -8,7 +8,7 @@
   "num_chunks": 17,
   "case_number": "Criminal Accountability Appeal No.03 of 2025",
   "date_of_order": "25.08.2025",
-  "judge": "JUDGE asim/PA",
+  "judge": "Omar Sial",
   "sections_cited": [
     "Section 13",
     "Sections 19",
@@ -31,7 +31,17 @@
     "PLD 2001 SC 1",
     "PLD 2001 SC 607"
   ],
-  "parties": [],
+  "parties": [
+    "Zakaria Moti Wala",
+    "Mr. Muhammad Numan Jamali",
+    "National Accountability Bureau",
+    "Mr. Manzoor Shah",
+    "Mr. Justice Omar Sial",
+    "NAB",
+    "Gul Hassan Channa",
+    "Abdul Razzaq Qureshi",
+    "Mr. Justice Dr. Syed Fiaz ul Hassan Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

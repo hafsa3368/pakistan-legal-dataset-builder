@@ -9,9 +9,19 @@
   "case_number": "",
   "date_of_order": "15-05-2025",
   "judge": "Mohammad Karim Khan Agha Justice",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rizwan Akbar Arain",
+    "Federation of Pakistan",
+    "Mr. Hussain Bux Sario",
+    "Ms. Nasima Mangrio",
+    "Ms. Zehra Sahar",
+    "The National Highway Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

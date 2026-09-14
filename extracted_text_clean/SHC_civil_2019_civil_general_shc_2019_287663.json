@@ -6,12 +6,22 @@
   "year": "2019",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "civil dispute and cannot",
+  "case_number": "",
   "date_of_order": "23-10-2025",
   "judge": "Adnan Iqbal Chaudhry Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Oriental Sales Corporation",
+    "Khawaja Naveed Ahmed",
+    "Long Sail International Logistic Company",
+    "M/s. Venus Global Logistic (Pvt) Ltd.",
+    "Karachi International Container Terminal (KICT) West Wharf",
+    "Mr. Mansoor A. Sheikh",
+    "Mr. Ameeruddin",
+    "Mr. Asadullah",
+    "Mr. Khalid Mehmood Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

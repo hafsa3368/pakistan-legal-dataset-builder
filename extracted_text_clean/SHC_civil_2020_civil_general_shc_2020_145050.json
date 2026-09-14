@@ -6,14 +6,25 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Const. Petition No. D",
+  "case_number": "",
   "date_of_order": "12.01.2018",
   "judge": "",
   "sections_cited": [],
   "citations": [
     "2014 SCMR 118"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Rafiq Ahmed Kalwar",
+    "Mr. Adnan Memon",
+    "Mr. Barkat Ali Metlo",
+    "Mr. Ali Asadullah Bullo",
+    "Mr. Hakim Ali Shaikh",
+    "Shahnawaz",
+    "Deputy Secretary",
+    "Food Department",
+    "Government of Sindh",
+    "Secretary Food Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

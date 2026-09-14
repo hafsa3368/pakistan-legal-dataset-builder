@@ -6,12 +6,16 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "M.A. No.1564/2020",
   "date_of_order": "30.11.2020",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Masood Rasool Babar Memon",
+    "Mr. Muhammad Suleman Unar",
+    "Mr. Wali Muhammad Jamari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

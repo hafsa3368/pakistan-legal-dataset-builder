@@ -6,9 +6,9 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "criminal record against him nor",
+  "case_number": "C.P No.D-3812 of 2020",
   "date_of_order": "26.08.2020",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [
     "Section 23"
   ],
@@ -16,7 +16,24 @@
     "1994 SCMR 1283",
     "PLD 1999 SC 1026"
   ],
-  "parties": [],
+  "parties": [
+    "Nazar Akbar",
+    "Petitioner",
+    "Salman Khan",
+    "Mr. Sajjad Gul Malik",
+    "Mr. Jawad Dero",
+    "Mr. Muhammad Nadeem Khan",
+    "Mr. Muhammad Iqbal Awan",
+    "Mr. Iqbal Raza",
+    "Insp. Sarwar",
+    "SHO, P.S Shahra-e-Faisal, Karachi",
+    "SIP Zahid Jadoon",
+    "ASI Ali Raza",
+    "Home Secretary, Sindh",
+    "Corps Commander, Karachi",
+    "D.G Rangers, Sindh",
+    "SSP, South, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,17 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "misconceived as no documentary",
+  "case_number": "C.P No.D-5472 of 2020",
   "date_of_order": "18.12.2020",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Shahid Qadeer, Advocate for the applicant /intervener",
+    "Mr. Miran Muhammad Shah, Addl. Advocate General Sindh (AAG) for the respondents No.1 and 4 to 6",
+    "Mr. Altaf Ahmed Seher, Advocate for the respondent No.2/KDA",
+    "Mr. M. Mohsen Khan, Advocate for the respondent No.3/KMC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

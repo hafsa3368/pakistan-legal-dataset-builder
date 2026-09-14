@@ -6,10 +6,14 @@
   "year": "2020",
   "used_ocr": false,
   "num_chunks": 27,
-  "case_number": "Constitution. There is no such",
+  "case_number": "",
   "date_of_order": "27-10-2021",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution"
+  ],
   "citations": [
     "2014 SCMR 122",
     "2021 SCMR 775",
@@ -18,7 +22,18 @@
     "PLD 2009 SC 879",
     "PLD 1988 SC 416"
   ],
-  "parties": [],
+  "parties": [
+    "Government of Sindh",
+    "Chief Secretary Sindh",
+    "Education & Literacy Department",
+    "Sukkur Municipal Corporation",
+    "Deputy Commissioner (D.C.), Lahore",
+    "Muhammad Ilyas",
+    "Mr. Sarfraz A. Akhund",
+    "Mr. Khuda Bux Chohan",
+    "Mr. Zulfiqar Ali Naich",
+    "Mr. Muhammad Hamzo Buriro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
