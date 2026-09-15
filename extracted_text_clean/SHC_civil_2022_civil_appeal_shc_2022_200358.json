@@ -8,8 +8,11 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No. D-14 of 2023",
   "date_of_order": "04.07.2023",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Khadim Hussain Tunio",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 CLC 1351",
     "2023 SCMR 139",
@@ -18,7 +21,11 @@
     "PLD 2020 SC 132",
     "PLD 2017 SC 671"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yaseen @ Malhar",
+    "The State through Mr. Shahzado Saleem Nahiyoon",
+    "Addl. Prosecutor General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

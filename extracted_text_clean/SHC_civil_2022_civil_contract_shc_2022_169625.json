@@ -8,10 +8,23 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "15.08.2022",
-  "judge": "",
+  "judge": "Karar Hussain",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Aneela and another",
+    "Province of Sindh & others",
+    "Mr. Muhammad Hassan Chang",
+    "Mr. Rafiq Ahmed Dahri",
+    "Insp. Manzoor Ali",
+    "SIP Noor Muhammad Chandio",
+    "Addl. SHO Matiari",
+    "SSP Hyderabad",
+    "SSP Matiari",
+    "SIP Ghulam Hyder Channar",
+    "PS Shahdadpur",
+    "Adnan-ul-Karim Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

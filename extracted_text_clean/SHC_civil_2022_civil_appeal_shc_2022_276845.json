@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "Criminal Law that a person cannot",
+  "case_number": "Cr. Appeal No. S-81 of 2024",
   "date_of_order": "04.08.2025",
-  "judge": "",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Sections 324, 337-A",
     "Section 324 PPC",
@@ -38,7 +38,10 @@
     "2022 SCMR 986",
     "2021 SCMR 873"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Majeed s/o Sachal Bhayo",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

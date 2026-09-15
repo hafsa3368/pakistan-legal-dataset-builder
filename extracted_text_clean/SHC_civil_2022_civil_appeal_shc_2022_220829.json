@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "HCA No. 45 of 2022",
   "date_of_order": "19.08.2024",
-  "judge": "JUDGE",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [],
   "citations": [
     "2019 CLC 362",
@@ -20,7 +20,16 @@
     "2021 SCMR 1230",
     "PLD 1996 Karachi 365"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Yousuf Ali Sayeed",
+    "Mr. Justice Arbab Ali Hakro",
+    "Mr. Mohsin Kadir Shahwani",
+    "Mr. Sanaullah Noor Ghori",
+    "Mr. Munir Ahmed",
+    "Export Processing Zone Authority",
+    "Zeeshan Mughal",
+    "Muhammad Shoaib Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

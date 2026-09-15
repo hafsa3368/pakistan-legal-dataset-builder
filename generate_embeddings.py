@@ -73,8 +73,23 @@ from qdrant_client.models import (
 # up and clearing to "" -- a last-resort safety net so garbage never
 # reaches the live database even if the source JSON on disk hasn't been
 # repaired yet, without discarding a fixable value without trying first.
+import new_extractor
 from new_extractor import clean_judge_candidate, is_valid_judge_name, extract_document_metadata
 from repair_metadata import is_valid_case_number, reconstruct_full_text, MAX_TEXT_CHARS
+
+# extract_document_metadata() falls back to an Ollama LLM call (llama3.2:3b,
+# up to 60s timeout) for ANY missing field -- judge, case_number, date, etc.
+# -- whenever regex alone can't find it. That fallback was designed for
+# repair_metadata.py's standalone runs, where it's the only thing using
+# Ollama. Here, generate_embeddings.py is ALSO hammering the same local
+# Ollama server for chunk embeddings, so the two compete for the one
+# server and each repair-attempt call can stall for up to 60s -- this is
+# what dropped a live run to ~12s/chunk (should be well under 1s/chunk).
+# Disabling the LLM fallback keeps the repair attempt to fast, pure-regex
+# extraction only: still catches everything regex-fixable, just leaves a
+# field empty (rather than blocking on an LLM call) when regex can't find
+# it either -- exactly like it would if Ollama were simply down.
+new_extractor.OLLAMA_ENABLED = False
 
 # ---------------------------------------------------------------------------
 # CONFIG

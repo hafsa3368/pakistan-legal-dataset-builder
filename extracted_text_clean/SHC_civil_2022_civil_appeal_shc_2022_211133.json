@@ -8,8 +8,11 @@
   "num_chunks": 7,
   "case_number": "Civil Revision Application No.S-12 of 2023",
   "date_of_order": "26.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Amjad Ali Bohio",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2022 CLC 1960",
     "2010 CLC 902",

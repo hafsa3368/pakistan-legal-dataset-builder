@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Case No. 668",
   "date_of_order": "14.10.2022",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "section 245",
     "Section 489",
@@ -18,7 +18,16 @@
     "2004 SCMR 215",
     "PLD 1997 SC 408"
   ],
-  "parties": [],
+  "parties": [
+    "Appellant",
+    "The State versus Uzair Khan",
+    "private respondent",
+    "complainant",
+    "prosecution",
+    "accused",
+    "bank Islamic",
+    "autobahn branch, hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

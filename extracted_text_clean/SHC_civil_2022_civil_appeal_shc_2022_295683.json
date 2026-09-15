@@ -6,12 +6,21 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 151 of 2022",
   "date_of_order": "01.12.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kashif Hanif",
+    "Mr. Ali Haider",
+    "Ms. Zehrah Sehr Vayani",
+    "SSGC",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

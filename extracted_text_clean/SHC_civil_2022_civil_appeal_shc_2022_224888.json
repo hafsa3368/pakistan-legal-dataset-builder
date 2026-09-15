@@ -6,12 +6,16 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.13704/2020",
   "date_of_order": "17.01.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Fahad Hussain Arijo",
+    "Mr. Muhammad Kamran Khan",
+    "Messrs. Hamza Waheed and Sami-ur-Rehman Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

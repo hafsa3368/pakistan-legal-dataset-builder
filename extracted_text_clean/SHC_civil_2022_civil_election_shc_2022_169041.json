@@ -6,12 +6,22 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D-4277 of 2022",
   "date_of_order": "20.07.2022",
-  "judge": "",
+  "judge": "Tariq Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Respondent No.4 (C.P No. D-4277/2022)",
+    "Respondent No.4",
+    "HESCO",
+    "Mr. Sanaullah",
+    "Mr. Shoaib Khatian",
+    "Mr. Saifullah",
+    "Mr. Abdul Wahab",
+    "ECP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

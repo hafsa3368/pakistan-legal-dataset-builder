@@ -8,13 +8,18 @@
   "num_chunks": 7,
   "case_number": "",
   "date_of_order": "19.05.2022",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 11",
     "Section 43"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Western Textile Industries",
+    "The Federation of Pakistan",
+    "Union Fabrics Private Limited",
+    "Sui Southern Gas Company"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

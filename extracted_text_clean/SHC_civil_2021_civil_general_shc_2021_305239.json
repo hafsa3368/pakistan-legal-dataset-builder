@@ -8,14 +8,18 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No. D-7529 of 2021",
   "date_of_order": "05.11.2019",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 87 of the KPT Act"
   ],
   "citations": [
     "1995 SCMR 1185"
   ],
-  "parties": [],
+  "parties": [
+    "Mumtaz Shah",
+    "Federation of Pakistan",
+    "KPT"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

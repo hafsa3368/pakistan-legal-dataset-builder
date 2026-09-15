@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Crl. Appeal Nos",
+  "case_number": "Crl. Appeal Nos. 164",
   "date_of_order": "19.05.2025",
-  "judge": "JUDGE zahidbaig",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 6/9",
     "section 2 and 9 of the Act",
@@ -19,7 +19,11 @@
     "section 382-B"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Akber @ Giran s/o Haji Jamal",
+    "The State",
+    "Abdul Rehman @ Ismail s/o Abdullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

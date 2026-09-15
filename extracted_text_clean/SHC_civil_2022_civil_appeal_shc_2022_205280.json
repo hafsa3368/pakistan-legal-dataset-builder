@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Constitution Petition No.S-210/2022",
   "date_of_order": "07.11.2023",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "Section 15",
     "section 3",
@@ -16,7 +16,11 @@
     "section 215, 426 and 498 of the Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s National Oil Refinery Ltd.",
+    "Syed Mansoor Ali",
+    "The Commissioner for Workmen's Compensation and Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

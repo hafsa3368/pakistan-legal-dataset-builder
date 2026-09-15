@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Appeal No.S-66 of 2022",
   "date_of_order": "12.05.2025",
-  "judge": "",
+  "judge": "RIAZAT ALI SAHAR",
   "sections_cited": [
     "section 8",
     "Section 8",
@@ -24,7 +24,17 @@
     "2009 SCMR 230",
     "2014 SCMR 749"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Shahzad Ali",
+    "Maqbool Ahmed Chang",
+    "Mr. Ghulamullah Chang",
+    "Mr. Shahid Mirbahar",
+    "Mr. Siraj Ahmed Bijarani",
+    "HC Abdul Khalique",
+    "PC Muhammad Sadar",
+    "DPC Ghulam Abbas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

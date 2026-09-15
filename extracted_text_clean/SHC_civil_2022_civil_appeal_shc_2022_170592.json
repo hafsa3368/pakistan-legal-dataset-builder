@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 14,
-  "case_number": "Criminal Anti-Terrorism Appeal No.23 of 2022",
+  "case_number": "",
   "date_of_order": "29.08.2022",
-  "judge": "JUDGE",
+  "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Section 7",
     "Section 382-B",
@@ -24,7 +24,23 @@
     "1995 SCMR 1793",
     "PLD 2007 SC 223"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Amir Raheem",
+    "Muhammad Bux @ Babu",
+    "Muhammad Bux @ Babu",
+    "Amir Raheem",
+    "Muhammad Bux @ Babu",
+    "The State",
+    "Muhammad Bux @ Babu",
+    "Amir Raheem",
+    "Muhammad Bux @ Babu",
+    "Muhammad Bux @ Babu",
+    "Amir Raheem",
+    "Muhammad Bux @ Babu",
+    "The State",
+    "Muhammad Bux @ Babu"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

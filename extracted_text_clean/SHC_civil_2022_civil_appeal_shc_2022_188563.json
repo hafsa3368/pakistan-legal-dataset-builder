@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "",
   "date_of_order": "20.03.2023",
-  "judge": "",
+  "judge": "(Retd.) Muhammad Ali Naqvi",
   "sections_cited": [
     "section 3 of the Electricity Act",
     "section 13"
@@ -16,7 +16,10 @@
   "citations": [
     "1997 SCMR 1508"
   ],
-  "parties": [],
+  "parties": [
+    "K-Electric",
+    "Government of Sindh – Local Government Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

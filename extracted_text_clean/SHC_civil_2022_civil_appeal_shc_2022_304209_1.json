@@ -6,12 +6,16 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-1778 of 2023",
   "date_of_order": "27.11.2025",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Noor-ul-Haq Qureshi",
+    "Mr. Sajid Soomro",
+    "Ms. Shamim Mughal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

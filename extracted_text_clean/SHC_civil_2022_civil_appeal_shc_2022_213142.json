@@ -6,12 +6,16 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "HCA No. 106 of 2022",
   "date_of_order": "11.03.2024",
-  "judge": "JUDGE Amir PS",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Appellant",
+    "Respondent 1",
+    "Legal Heirs of Respondent 1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

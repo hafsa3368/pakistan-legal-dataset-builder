@@ -6,12 +6,20 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.16 of 2022",
   "date_of_order": "19.03.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Maryam Sultana",
+    "Mr. Ch. Raheel Rauf",
+    "Mr. Fazal-ur-Rehman",
+    "Mr. Allah Warayo Khan",
+    "Respondent No.1",
+    "Respondent No.2",
+    "Respondent No.7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,23 @@
   "num_chunks": 9,
   "case_number": "Civil Petition No.419 of 2020",
   "date_of_order": "11.08.2022",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 24-A of the General Clauses Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Madni Ahmed Ali Arfat Siddiqui",
+    "Sui Southern Gas Company Limited",
+    "Ameer Haider",
+    "Ovais Ali Shah",
+    "Muhammad Ali Lakhani",
+    "Mujtaba Sohail Raja",
+    "Faisal Mahmood Ghani",
+    "Sohail Tharani",
+    "Bilal Farooq Alvi",
+    "Mr. Ovais Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

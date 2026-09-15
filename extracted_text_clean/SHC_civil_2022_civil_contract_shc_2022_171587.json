@@ -8,8 +8,11 @@
   "num_chunks": 7,
   "case_number": "",
   "date_of_order": "22.09.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 609",
     "2019 SCMR 278",
@@ -27,7 +30,10 @@
     "2011 SCMR 1990",
     "2001 SCMR 574"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Umair & Others",
+    "Federation of Pakistan & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

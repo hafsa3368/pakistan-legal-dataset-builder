@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No.S-154 of 2024",
   "date_of_order": "30.12.2025",
-  "judge": "",
+  "judge": "Muhammad Hasan (Akber)",
   "sections_cited": [
     "Sections 9",
     "section 21",
@@ -29,7 +29,11 @@
     "2006 P.Cr.L.J 257",
     "PLD 1994 Peshawar 279"
   ],
-  "parties": [],
+  "parties": [
+    "Abdullah S/o Luqman",
+    "Maqbool S/o Abdul Latif",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

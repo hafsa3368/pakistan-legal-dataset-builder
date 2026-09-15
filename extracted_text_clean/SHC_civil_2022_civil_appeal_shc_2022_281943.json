@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Civil Suit No. Nil/2022",
+  "case_number": "",
   "date_of_order": "07.08.2025",
-  "judge": "",
+  "judge": "Muhammad Osman Ali Hadi",
   "sections_cited": [
     "Section 55 of the Contract Act",
     "section 100"
@@ -30,7 +30,17 @@
     "PLD 1969 SC 617",
     "PLD 2011 SC 323"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Sohail Bukhari",
+    "Mst. Tabbasum Shahnawaz",
+    "Muhammad Naeem Anjum",
+    "Maj. G. (Retd.) S.M.H. Bukhari",
+    "Mr. Yasir Ahmed Shah",
+    "Mr. S.M. Iqbal Qadri",
+    "Mr. Abid Qureshi",
+    "Ms. Fatima Abid",
+    "Mr. Shariq Mubashir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

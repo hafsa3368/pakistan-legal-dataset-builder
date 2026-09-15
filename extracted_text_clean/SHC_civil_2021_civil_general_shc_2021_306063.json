@@ -8,8 +8,10 @@
   "num_chunks": 4,
   "case_number": "Civil Petition No.1439 of 2021",
   "date_of_order": "27.01.2026",
-  "judge": "Zulfiqar Ali Sangi Date",
-  "sections_cited": [],
+  "judge": "Zulfiqar Ali Sangi",
+  "sections_cited": [
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "2001 SCMR 1493",
     "2011 SCMR 279"

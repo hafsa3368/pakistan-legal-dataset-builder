@@ -6,12 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 126 of 2022",
   "date_of_order": "01.12.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kashif Hanif",
+    "SSGC",
+    "Mr. Ali Haider",
+    "Ms. Zehrah Sehr Vayani",
+    "Deputy Manager (Legal), SSGC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

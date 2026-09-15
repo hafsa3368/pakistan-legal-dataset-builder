@@ -8,10 +8,16 @@
   "num_chunks": 4,
   "case_number": "Criminal case No. 1309/2020",
   "date_of_order": "14.01.2026",
-  "judge": "",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saeed Pouran",
+    "Federation of Pakistan",
+    "Mr. Abdul Ghaffar",
+    "Syed Noman Zahid Ali",
+    "Ms. Shazia Hanjrah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

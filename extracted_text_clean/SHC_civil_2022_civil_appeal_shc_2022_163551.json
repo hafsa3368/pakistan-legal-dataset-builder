@@ -6,12 +6,15 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "HCA No.22 of 2016",
+  "date_of_order": "24.03.2022",
+  "judge": "Aqeel Ahmed Abbasi",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ali Lakhani, Advocate for Appellant",
+    "Mr. Abdul Haleem Siddiqui, Advocate for Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

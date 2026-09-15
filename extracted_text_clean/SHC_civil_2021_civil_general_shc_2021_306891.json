@@ -6,9 +6,9 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "Civil Aviation Authority are non-statutory",
+  "case_number": "C.P No.D-636 of 2024",
   "date_of_order": "27.01.2026",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Arbab Ali Hakro Justice Riazat",
   "sections_cited": [
     "Section 27",
     "Section 147"
@@ -28,7 +28,12 @@
     "PLD 2021 Lahore 770",
     "PLD 2010 SC 676"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Saqib Saghir",
+    "Federation of Pakistan",
+    "Mr.Mumtaz Alam Laghari",
+    "Mr.Ghulam Abbas Sangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

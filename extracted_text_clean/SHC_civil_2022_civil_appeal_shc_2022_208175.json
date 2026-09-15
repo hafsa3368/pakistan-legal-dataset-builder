@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "Constitution Petition No.D-5826 of 2023",
   "date_of_order": "14.12.2023",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Ghani Builders and Developers",
+    "Learned District & Sessions Judge, Karachi (Malir)",
+    "Sadaf Ahmed Zubairi",
+    "Mr. Raj Ali Wahid Kunwar",
+    "Mr. Sandeep Malani",
+    "Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

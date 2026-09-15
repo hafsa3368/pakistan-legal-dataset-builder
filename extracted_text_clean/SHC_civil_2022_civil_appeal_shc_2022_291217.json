@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Acquittal Appeal No. 892 of 2025",
+  "case_number": "",
   "date_of_order": "18.11.2025",
-  "judge": "Amjad PS",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Sections 468, 471, 506",
     "Sections 22-A and 22-B"
@@ -20,7 +20,10 @@
     "2025 SCMR 787",
     "2003 SCMR 477"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Syeda Sadia Riffat",
+    "Syed Suleman Ali & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,10 +6,13 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Civil Appeals Nos",
+  "case_number": "",
   "date_of_order": "06.10.2025",
   "judge": "Muhammad Jaffer Raza",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2006 SCMR 207",
     "1995 MLD 633",
@@ -21,7 +24,15 @@
     "2011 SCMR 1460",
     "1987 CLC 412"
   ],
-  "parties": [],
+  "parties": [
+    "Yasir Ali",
+    "Jinnah Postgraduate Medical Centre & others",
+    "Mr. Farrukh Usman",
+    "Syed Khurram",
+    "Mr. Usman Tufail Shaikh",
+    "Ms. Deeba Ali Jafri",
+    "Ms. Rabia Khalid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

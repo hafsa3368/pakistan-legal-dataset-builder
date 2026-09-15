@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Criminal Revision Application No.S-",
+  "case_number": "",
   "date_of_order": "11.12.2025",
   "judge": "Tufail",
   "sections_cited": [],
@@ -14,7 +14,11 @@
     "2006 YLR 359",
     "2022 MLD 1405"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muneer Ahmed Kalhoro",
+    "Mr. Muhammad Irfan Chandio",
+    "Ms. Safa Hisbani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

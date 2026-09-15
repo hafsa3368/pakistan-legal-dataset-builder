@@ -6,10 +6,12 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Acquittal Appeal No.S-42 of 2023",
+  "case_number": "",
   "date_of_order": "10.09.2024",
   "judge": "Irfan Ali",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 24-A, 25 Sindh Arms Act"
+  ],
   "citations": [
     "2014 YLR 325",
     "2019 YLR 1264",
@@ -17,7 +19,19 @@
     "1998 SCMR 1281",
     "PLD 2011 SC 554"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "complainant",
+    "petitioner",
+    "appellant",
+    "The State through Ms. Rameshan Oad, Assistant Prosecutor General, Sindh",
+    "private respondent",
+    "accused",
+    "The State",
+    "complainant",
+    "petitioner",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

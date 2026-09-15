@@ -8,13 +8,21 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "23.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ARSHAD HUSSIN KHAN",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2004 SCMR 1092",
     "1974 SCMR 519"
   ],
-  "parties": [],
+  "parties": [
+    "Asso Goth Cattle Piri Malir U.C. 10 Malir Karachi",
+    "Asso Goth Cattle Piri Malir U.C. 2",
+    "Asso Goth Cattle Piri Malir U.C. 3",
+    "Asso Goth Cattle Piri Malir U.C. 4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

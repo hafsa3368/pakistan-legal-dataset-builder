@@ -6,12 +6,19 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.432 of 2023",
   "date_of_order": "05.12.2023",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Ayaz Gul",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Order-XX Rule 15 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sharjeel Hayat",
+    "Mazhar Kamal",
+    "Syed Shahnawaz Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,16 +6,23 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitutional jurisdiction. The same C. P. No. D",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "",
+  "date_of_order": "16.03.2022",
+  "judge": "Liaquat Ali Shar",
+  "sections_cited": [
+    "u/s 498 CrPC"
+  ],
   "citations": [
     "2014 SCMR 157",
     "2012 SCMR 1198",
     "2015 SCMR 112"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Liaquat Ali Shar",
+    "Mr. Zulfiqar Ali Naich",
+    "Assistant Advocate General Sindh",
+    "Respondent No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

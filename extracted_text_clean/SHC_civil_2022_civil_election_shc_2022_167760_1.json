@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "01-06-2022",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Anwar Ali Lohar, Advocate for the Petitioners",
+    "Mr. Muhammad Hamzo Buriro, D.A.G.",
+    "Mr. Asfandyar Kharal, Assistant A.G.",
+    "Mr. Zeeshan Haider Qureshi, Law Officer, Election Commission of Pakistan",
+    "Mr. Achar Khan Gabol, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

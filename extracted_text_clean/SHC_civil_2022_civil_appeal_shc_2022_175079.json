@@ -8,13 +8,20 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. 126 of 2019",
   "date_of_order": "23rd November, 2022",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 342 Cr.P.C",
     "section 340 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Riaz",
+    "Mr. Talib Ali Memon",
+    "Omar Sial",
+    "The complainant",
+    "Muhammad Saleem",
+    "The appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

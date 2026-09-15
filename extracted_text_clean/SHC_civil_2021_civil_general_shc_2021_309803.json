@@ -6,12 +6,24 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No. D-6935 of 2021",
   "date_of_order": "08.04.2026",
-  "judge": "JUDGE Shahzad Soomro",
+  "judge": "Shahzad Soomro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sajjad Khan",
+    "Province of Sindh and others",
+    "Syed Atif-ur-Rehman",
+    "SBCA and others",
+    "Daniyal Shaikh",
+    "Dhani Bux Lashari",
+    "Ghulam Akbar Lashari",
+    "Rafiq Bhambro",
+    "Humaira Jatoi",
+    "Rehana",
+    "Abdul Jalil Zubedi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

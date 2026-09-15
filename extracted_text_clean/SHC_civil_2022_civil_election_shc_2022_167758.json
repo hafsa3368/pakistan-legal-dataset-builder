@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "01-06-2022",
   "judge": "JUDG Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Achar Khan Gabol",
+    "Mr. Muhammad Hamzo Buriro",
+    "Mr. Ali Raza Baloch",
+    "Mr. Zeeshan Haider Qureshi",
+    "Mr. Rukhsar Ahmed M. Junejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

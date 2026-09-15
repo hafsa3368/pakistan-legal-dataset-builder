@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Misc. Appeal No.24 of 2026",
   "date_of_order": "09.03.2026",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 299",
     "Section 263 of the Succession Act",
@@ -22,7 +22,10 @@
     "2008 CLC 47",
     "PLD 1990 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Lubna Ayub and another",
+    "Faisal Ayub"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

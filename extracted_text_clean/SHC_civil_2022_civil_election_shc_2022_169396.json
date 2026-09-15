@@ -6,12 +6,19 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C. P No. D-645 of 2022",
+  "date_of_order": "28.07.2022",
   "judge": "Abdul Mobeen Lakho",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Fahad Ali",
+    "Ghulamuddin",
+    "Federation",
+    "The State",
+    "Mr. Muhammad Imran Abbasi",
+    "Mr. Munwar Ali Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

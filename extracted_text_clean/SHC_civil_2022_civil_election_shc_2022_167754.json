@@ -6,12 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitution Petition No.D-",
+  "case_number": "",
   "date_of_order": "13.05.2022",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahriyar Shar",
+    "Asif Ali",
+    "Jam Asif Razzaq Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

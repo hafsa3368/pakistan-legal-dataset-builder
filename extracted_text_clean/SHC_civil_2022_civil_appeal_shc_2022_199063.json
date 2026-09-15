@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 55,
-  "case_number": "Civil Appeals Nos",
+  "case_number": "",
   "date_of_order": "15.03.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
@@ -36,7 +36,20 @@
     "2012 SCMR 455",
     "PLD 2016 SC 377"
   ],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Government of Sindh",
+    "Ghulam Hassan",
+    "Zulfiqar Khushk",
+    "Ahmed Habib-ul-Islam",
+    "Abdul Rauf",
+    "Ghulam Murtaza",
+    "Sarmad Hani",
+    "Akhtar Hussain Shaikh",
+    "Faisal Siddiqui",
+    "Amna Usman",
+    "Abdul Jalil Zubedi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

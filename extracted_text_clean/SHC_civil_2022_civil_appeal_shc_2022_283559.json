@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Acquittal Appeal No.651 of 2022",
+  "case_number": "",
   "date_of_order": "11.09.2025",
-  "judge": "",
+  "judge": "MUHAMMAD HASAN (AKBER)",
   "sections_cited": [
     "Sections 447, 448",
     "Section 249-A",
@@ -20,7 +20,15 @@
     "PLD 2011 SC 554",
     "PLD 1985 SC 11"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Faheemuddin",
+    "Ms. Rubina Qadir",
+    "Abdul Hameed",
+    "Khurram Qureshi",
+    "Kamran Qureshi",
+    "Munna Qureshi",
+    "Furqan Qureshi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.26 of 2022",
   "date_of_order": "16.12.2024",
-  "judge": "Judge Ayub",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nasrullah Korai",
+    "Zahid Hussain Shah",
+    "Mr. Zaheer Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

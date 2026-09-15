@@ -8,8 +8,11 @@
   "num_chunks": 11,
   "case_number": "",
   "date_of_order": "12.9.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "U/S 12 CPC",
+    "U/S 16 of Sindh Rented Premises Ordinance"
+  ],
   "citations": [
     "2001 SCMR 338",
     "1984 SCMR 741",
@@ -21,7 +24,12 @@
     "PLD 1989 SC 375",
     "PLD 1991 SC 242"
   ],
-  "parties": [],
+  "parties": [
+    "Bilal and others",
+    "Babar Ali and others",
+    "Muhammad Sharif",
+    "Muhammad Waseem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

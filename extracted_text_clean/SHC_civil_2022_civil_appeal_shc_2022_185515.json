@@ -6,12 +6,17 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "constructed on Plot No.FL-I",
+  "case_number": "HCA No.23 OF 2023",
   "date_of_order": "16.02.2023",
-  "judge": "JUDGE SM",
+  "judge": "Hakim Ali Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khawaja Muhammad Awan",
+    "Mr. Hakim Ali Khan",
+    "Appellants",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

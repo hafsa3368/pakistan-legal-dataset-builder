@@ -6,12 +6,22 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "constructed and possession of Plot No. M-II",
+  "case_number": "High Court Appeal No.33 of 2023",
   "date_of_order": "18.01.2024",
-  "judge": "JUDGE Amjad PS",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Inquilab Matri",
+    "KDA",
+    "Syed Umar Ahmed",
+    "Muhammad Shafi Siddiqui",
+    "Mr. Justice Omar Sial",
+    "Barrister Sandeep Malani",
+    "Ms. Rizwana Ismail",
+    "Mr. Khursheed Jawed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

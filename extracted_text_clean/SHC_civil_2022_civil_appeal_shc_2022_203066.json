@@ -8,7 +8,7 @@
   "num_chunks": 23,
   "case_number": "Civil Suit No.415/2022",
   "date_of_order": "06.09.2023",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "section 10",
     "Section 15",
@@ -29,7 +29,11 @@
     "PLD 2008 Karachi 100",
     "PLD 2006 Karachu 294"
   ],
-  "parties": [],
+  "parties": [
+    "Zaidi Tufail Sheikh",
+    "Siddiqui & Ghulam Rasool Korai",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

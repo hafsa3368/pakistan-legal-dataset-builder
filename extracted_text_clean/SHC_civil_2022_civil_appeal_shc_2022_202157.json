@@ -9,9 +9,18 @@
   "case_number": "",
   "date_of_order": "31.08.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rehmatullah Hisbani",
+    "Mr. Muhammad Jamil Ahmed",
+    "Mr. Rafique Ahmed Dahri",
+    "ZTBL",
+    "Mr. Ashiq Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

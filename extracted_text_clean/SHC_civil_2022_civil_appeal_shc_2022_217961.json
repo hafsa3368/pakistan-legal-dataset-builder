@@ -9,9 +9,18 @@
   "case_number": "",
   "date_of_order": "01.08.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 CrPC",
+    "426 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mumtaz Ali",
+    "Shamsuddin alias Shaman Bapar",
+    "State",
+    "Mr. Rukhsar Ahmed",
+    "Mr. Aftab Ahmed Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

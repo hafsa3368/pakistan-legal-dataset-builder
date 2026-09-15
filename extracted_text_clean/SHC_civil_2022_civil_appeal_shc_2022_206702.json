@@ -6,12 +6,19 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "mischievously have not",
+  "case_number": "High Court Appeals No. 93",
   "date_of_order": "07.11.2023",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jameel Ahmed & others",
+    "Hayat Muhammad Sher Pao & others",
+    "Mr. Salahuddin Ahmed",
+    "Mr. Umair Bachani",
+    "Mr. Abdul Jaleel Zubedi",
+    "Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

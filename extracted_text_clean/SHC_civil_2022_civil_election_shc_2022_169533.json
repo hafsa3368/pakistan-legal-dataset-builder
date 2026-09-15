@@ -9,9 +9,20 @@
   "case_number": "Constitutional Petition No.D-636 of 2022",
   "date_of_order": "27.07.2022",
   "judge": "Abdul Mobeen",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Hassan Buriro",
+    "3 others",
+    "Returning Officer",
+    "Union Councils, Jacobabad",
+    "Mr. Athar Ali Bhutto",
+    "Mr. Munawar Ali Abbasi",
+    "Mr. Mohammad Imran Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

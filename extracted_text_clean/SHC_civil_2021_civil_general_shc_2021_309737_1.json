@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "Civil Petition No. 3440/2017",
   "date_of_order": "08.04.2026",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Zulfiqar Ali Sangi",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Manthar Ali Zardari and others",
+    "Province of Sindh and others",
+    "Mr. Ali Asadullah Bullo",
+    "Mr. Abdul Jaleel Zubedi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

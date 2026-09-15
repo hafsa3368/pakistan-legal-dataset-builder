@@ -6,12 +6,19 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.S-107 of 2023",
   "date_of_order": "04.10.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Zulfikar Ali Sangi",
+  "sections_cited": [
+    "U/S 395, 458, 109 PPC",
+    "u/s 395 PPC",
+    "u/s 458 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahbaz",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

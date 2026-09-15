@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "Criminal Appeal No.578 of 2023",
   "date_of_order": "19.02.2024",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Sections 377-B, 506-B, 34 PPC",
     "Section 265-H",
@@ -37,7 +37,18 @@
     "2022 SCMR 50",
     "2017 SCMR 283"
   ],
-  "parties": [],
+  "parties": [
+    "Ashir @ Waseem",
+    "The State",
+    "Wajid Mehmood",
+    "Abdul Jabbar",
+    "Abdul Rehman",
+    "Manuel @ Menga",
+    "Boota Masih",
+    "Contractor Raju",
+    "Patras",
+    "Fayyaz Hussin Sabti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

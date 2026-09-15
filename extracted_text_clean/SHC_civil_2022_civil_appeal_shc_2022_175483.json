@@ -6,15 +6,23 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "constrained to observe that no case",
+  "case_number": "",
   "date_of_order": "07.12.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Article 199 of the Constitution",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Mactor International Limited",
+    "Full Bench NIRC & Others",
+    "Mr. Ali Nawaz Khuhawar",
+    "Mr. Rahatullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

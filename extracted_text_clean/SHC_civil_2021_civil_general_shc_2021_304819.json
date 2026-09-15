@@ -9,9 +9,18 @@
   "case_number": "Civil Revision Application No. 155 of 2021",
   "date_of_order": "22.01.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 37 CrPC",
+    "Section 496 CrPC",
+    "Section 498 CrPC",
+    "Section 494 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Moula Bux",
+    "Noor Hassan Ali Khuwaja",
+    "Abdul Khaliq Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,22 @@
   "case_number": "",
   "date_of_order": "03.03.2022",
   "judge": "Aftab Ahmed Gorar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Baby Hawa",
+    "Mrs. Habiba Anjum",
+    "Ms. Shabana",
+    "Malik Naeem Iqbal",
+    "Mr. Ali Safdar Depar",
+    "Mr. Atta Hussain Rajpar",
+    "AAG (Mr. Ali Safdar Depar)",
+    "Mr. Atta Hussain Rajpar",
+    "Technical Officer, Health Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

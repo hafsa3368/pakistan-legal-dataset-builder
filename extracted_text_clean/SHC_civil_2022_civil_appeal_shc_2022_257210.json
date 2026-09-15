@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 6,
   "case_number": "Constitutional Petition No. S-1159 of 2024",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "17-04-2025",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "section 15 of Sindh Rented Premises Ordinance"
   ],
@@ -16,7 +16,14 @@
     "2024 SCMR 781",
     "2024 SCMR 1796"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Wah Brands (pvt) limited",
+    "Additional District Judge Karachi East",
+    "Rent Controller Karachi East",
+    "Jawed Siddique",
+    "M/s Farhan ul Hassan & Sadia S. Bajwa Advocates",
+    "Mr. Junaid Alam Khan, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

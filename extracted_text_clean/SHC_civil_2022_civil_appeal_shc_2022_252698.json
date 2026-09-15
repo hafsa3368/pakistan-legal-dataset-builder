@@ -6,16 +6,22 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Criminal Appeal Nos",
+  "case_number": "Criminal Appeal Nos.153",
   "date_of_order": "28.03.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 3 of Illegal Dispossession Act",
     "Section 3 of the Illegal Dispossession Act",
     "Section 342 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Almas D/o Akber Ali",
+    "Muhammad Arshad",
+    "The State",
+    "Muhammad Riaz",
+    "Rubina Qadir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

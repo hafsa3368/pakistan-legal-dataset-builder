@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Appeal No.518 of 2023",
   "date_of_order": "29.09.2025",
-  "judge": "",
+  "judge": "Syed Fiaz ul Hasan Shah",
   "sections_cited": [
     "section 410 Criminal Procedure Code",
     "section 376",
@@ -28,7 +28,11 @@
     "PLD 2001 SC 472",
     "PLD 1991 SC 412"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sharif",
+    "Nadia",
+    "Muhammad Qasim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

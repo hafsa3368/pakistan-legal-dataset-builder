@@ -6,12 +6,21 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "HCA No. 293 of 2022",
   "date_of_order": "04.03.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "S.I.T.E. Limited",
+    "Pir Muhammad",
+    "Ms. Sofia Saeed Shah",
+    "Mr. Zia-ul-Haq Makhdoom",
+    "Mr. M. Hisham Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

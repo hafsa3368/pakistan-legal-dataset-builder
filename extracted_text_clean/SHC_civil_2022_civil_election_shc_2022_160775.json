@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Constitutional Petition No. 1891 of 2021",
   "date_of_order": "16.02.2022",
-  "judge": "",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Section 151 CPC",
     "Section 94",
@@ -36,7 +36,11 @@
     "PLD 1997 SC 3",
     "PLD 2017 Lahore 665"
   ],
-  "parties": [],
+  "parties": [
+    "Shahab Ahmed",
+    "Fazal",
+    "Federation of Pakistan and Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

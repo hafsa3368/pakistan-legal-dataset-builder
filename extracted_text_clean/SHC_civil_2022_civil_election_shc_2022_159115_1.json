@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "09.03.2022",
   "judge": "",
   "sections_cited": [],
   "citations": [
@@ -15,7 +15,9 @@
     "2012 SCMR 1198",
     "2015 SCMR 112"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Saleem Mastoi, Advocate for the Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

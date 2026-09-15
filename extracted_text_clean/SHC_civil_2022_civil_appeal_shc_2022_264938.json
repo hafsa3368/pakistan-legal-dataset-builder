@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Criminal Appeal Nos",
+  "case_number": "Criminal Appeal Nos. 257",
   "date_of_order": "09.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 393, 397, 337-F",
     "section 397 PPC",
@@ -21,7 +21,13 @@
     "PLD 2022 SC 281",
     "PLD 2016 SC 608"
   ],
-  "parties": [],
+  "parties": [
+    "Kamal Khan",
+    "The State",
+    "Muneeb ur Rehman",
+    "Saeed Ahmed",
+    "Aneeb ur Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

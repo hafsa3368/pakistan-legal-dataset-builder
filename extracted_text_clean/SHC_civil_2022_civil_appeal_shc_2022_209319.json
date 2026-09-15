@@ -6,12 +6,15 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.112 of 2019",
   "date_of_order": "17.01.2024",
-  "judge": "JUDGE Amjad PS",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Farzana Yasmeen",
+    "Barrister Sandeep Malani, A.A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

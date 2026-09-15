@@ -6,12 +6,19 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-1994 of 2022",
   "date_of_order": "09.06.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Imam Bakhsh Dars & Muhammad Rahim Gajju",
+    "Mr. Ashfaque Nabi Qazi",
+    "Mr. Ayaz Ali Rajper",
+    "Additional Director General Law ECP (Khurram Shahzad)",
+    "Law Officer ECP (Zaheer Abbas)",
+    "Regional Election Commissioner Hyderabad(Ali Abdullah Khalid)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,19 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-2059 of 2022",
   "date_of_order": "15.06.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [
     "Section 18"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mazhar Ali Leghari",
+    "Muhammad Ismail Bhutto",
+    "Abdullah Hanjra",
+    "Shahnawaz Brohi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

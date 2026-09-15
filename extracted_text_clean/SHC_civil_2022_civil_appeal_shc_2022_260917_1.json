@@ -8,14 +8,23 @@
   "num_chunks": 4,
   "case_number": "Criminal Miscellaneous Application No.51 of 2023",
   "date_of_order": "28.04.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 561-A",
     "Section 489-F PPC",
     "Section 561-A Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Muzammil",
+    "Muhammad Shoaib",
+    "Muhammad Shoaib",
+    "The State",
+    "Muhammad Umar Farooq Durrani",
+    "Sardar Abdul Hameed",
+    "M. Mohsin Mangi",
+    "APG Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

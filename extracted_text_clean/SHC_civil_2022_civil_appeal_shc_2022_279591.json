@@ -6,16 +6,21 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "H.C.A. No. 471 of 2024",
   "date_of_order": "03.09.2025",
-  "judge": "JUDGE Athar Zai",
+  "judge": "Athar Zai",
   "sections_cited": [
     "Section 151"
   ],
   "citations": [
     "2024 SCMR 1184"
   ],
-  "parties": [],
+  "parties": [
+    "Appellant",
+    "Respondent No. 1",
+    "Respondents No. 2 to 7",
+    "Respondents No. 8 to 11"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

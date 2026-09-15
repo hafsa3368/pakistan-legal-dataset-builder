@@ -6,12 +6,24 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No.503 of 2024",
   "date_of_order": "10.12.2024",
   "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Summaya Rehman",
+    "Khalid Inam",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Jawad Akbar Sarwana",
+    "M/s Arshad Tayebaly",
+    "Abdul Ahad",
+    "Muhammad Shafi Siddiqui",
+    "Mr. Ahmed Ali Hussain",
+    "Respondent No.1",
+    "Respondent No.2",
+    "Respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

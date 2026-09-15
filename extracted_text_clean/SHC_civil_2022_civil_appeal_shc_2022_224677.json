@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 35,
-  "case_number": "civil jurisdiction cannot",
+  "case_number": "High Court Appeal No. 324 of 2024",
   "date_of_order": "11.11.2024",
   "judge": "Muhammad Junaid Ghaffar Mr",
   "sections_cited": [
@@ -38,7 +38,13 @@
     "PLD 1965 SC 671",
     "PLD 1965 SC 698"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. ARY Communications Limited",
+    "Abdul Qadir Shaikh, Commissioner (Audit) Inland Revenue-III, CTO, Karachi",
+    "M/s. ARY Communications Limited Through Mr. Abid S. Zuberi, Advocate",
+    "Abdul Qadir Shaikh, Commissioner (Audit) Inland Revenue-III, CTO, Karachi through Mr. Ameer Baksh Metlo, Advocate",
+    "Ms. Zakia Khan, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

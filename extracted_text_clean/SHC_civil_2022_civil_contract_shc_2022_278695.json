@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.S-76 of 2023",
   "date_of_order": "25.08.2025",
-  "judge": "",
+  "judge": "Ali Haider 'Ada'",
   "sections_cited": [
     "Sections 337-L",
     "Section 382-B",
@@ -17,7 +17,11 @@
     "Section 426"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Imdad Ali S/o Muhammad Ibrahim Soomro",
+    "Gul Muhammad S/o Karim Bux Soomro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

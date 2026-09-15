@@ -6,12 +6,16 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A. No.115 of 2023",
   "date_of_order": "08.05.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Faryad Hussain",
+    "S.I.T.E.",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

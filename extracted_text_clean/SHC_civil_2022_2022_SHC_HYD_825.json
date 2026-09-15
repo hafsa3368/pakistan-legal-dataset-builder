@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Civil Judge in F.C No. 119 of 2021",
+  "case_number": "",
   "date_of_order": "10.01.2022",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI,",
   "sections_cited": [
     "Section 100",
     "section 100"
@@ -19,7 +19,17 @@
     "PLD 1963 SC 191",
     "PLD 2010 SC 906"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Sahiba Khatoon",
+    "Muhammad Soomar Memon",
+    "Bashir Ahmed Memon",
+    "Muhammad Siddique Memon",
+    "Muhammad Siddique Memon",
+    "Province of Sindh",
+    "Secretary Revenue Department",
+    "Sub-Registrar, Hala",
+    "Mukhtiarkar (Revenue) Taluka Hala"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

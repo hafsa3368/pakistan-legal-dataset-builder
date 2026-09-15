@@ -6,12 +6,19 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.348 of 2022",
   "date_of_order": "19.03.2024",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Ayaz Gul",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pakistan Electronic Media Regulatory Authority (PEMRA) and another",
+    "M/s Labbaik (Private) Limited and others",
+    "Mr. Kashif Hanif",
+    "Mr. Hassan Qamar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,16 +6,20 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "High Court Appeal No.278 of 2023",
   "date_of_order": "14.11.2023",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "Sections 151 & 94 CPC",
     "Sections 94 & 151 CPC",
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Welfare Association Ali’s Luxury Apartment",
+    "Mr. Shakeel Ahmed",
+    "Mr. Muhammad Vawda"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

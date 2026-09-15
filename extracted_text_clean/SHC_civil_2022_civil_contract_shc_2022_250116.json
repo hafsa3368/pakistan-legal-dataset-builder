@@ -8,8 +8,11 @@
   "num_chunks": 3,
   "case_number": "Constitution Petition No D-126 of 2020",
   "date_of_order": "14.03.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Karim Khan Agha",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
   "parties": [
     "Mr Malik Naeem Iqbal"

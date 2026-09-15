@@ -8,13 +8,17 @@
   "num_chunks": 8,
   "case_number": "Civil Appeal No. 22 of 2022",
   "date_of_order": "28.04.2025",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [],
   "citations": [
     "2011 YLR 1473",
     "1990 SCMR 1630"
   ],
-  "parties": [],
+  "parties": [
+    "Faqeer Muhammad Ibrahim",
+    "Province of Sindh",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,20 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-2001 of 2022",
   "date_of_order": "14.06.2022",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [
     "Section 35"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Sarwar Baloch",
+    "Mr. Ashfaque Nabi Qazi",
+    "Mr. Ayaz Ali Rajper",
+    "ECP (Abdullah Hanjra)",
+    "ECP (Zaheer Abbas)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

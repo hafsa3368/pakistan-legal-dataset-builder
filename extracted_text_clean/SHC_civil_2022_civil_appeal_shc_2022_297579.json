@@ -9,11 +9,18 @@
   "case_number": "",
   "date_of_order": "03.12.2025",
   "judge": "Jawad Akbar Sarwana Appellant",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "u/s 188 Negotiable Instruments Act, 1881"
+  ],
   "citations": [
     "PLD 2024 Lahore 676"
   ],
-  "parties": [],
+  "parties": [
+    "Noman Hyder s/o M. Yaseen Arain",
+    "Abid Hussain s/o Talib Hussain Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

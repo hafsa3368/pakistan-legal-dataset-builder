@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Criminal Acquittal Appeal No.S-68 of 2025",
+  "case_number": "",
   "date_of_order": "09.03.2026",
-  "judge": "Faisal Mumtaz/PS",
+  "judge": "Faisal Mumtaz",
   "sections_cited": [
     "Section 489-F PPC"
   ],
@@ -16,7 +16,11 @@
     "2025 SCMR 993",
     "2025 SCMR 1344"
   ],
-  "parties": [],
+  "parties": [
+    "Ashique Ali Ghouri",
+    "The State",
+    "The State and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

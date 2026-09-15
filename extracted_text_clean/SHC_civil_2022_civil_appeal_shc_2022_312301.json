@@ -8,13 +8,22 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.233 of 2025",
   "date_of_order": "28.04.2026",
-  "judge": "JUDGE",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 6/9E of CNS Act",
     "section 342 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Safeer Ahmed",
+    "Mst. Shahida",
+    "Mst. Ayesha",
+    "the State",
+    "the State",
+    "Manzoor Ahmed",
+    "Mst. Shahida",
+    "Mst. Ayesha"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

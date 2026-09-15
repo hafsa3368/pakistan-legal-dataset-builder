@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.06/2021",
   "date_of_order": "22.12.2022",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "Sections 353, 224, 225, 511, 147, 148, 149, 337-A",
     "Section 392, 34 PPC",
@@ -21,7 +21,13 @@
     "2009 SCMR 230",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Lakhmir Keerio and others",
+    "Mr. Nisar Ahmed Lakhmir",
+    "Mr. Shahid Ahmed Shaikh",
+    "Abdul Khaliq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

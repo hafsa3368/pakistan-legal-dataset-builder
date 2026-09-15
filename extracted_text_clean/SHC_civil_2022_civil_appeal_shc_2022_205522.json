@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "16.11.2023",
-  "judge": "",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "Section 417",
     "Section 9",
@@ -17,7 +17,10 @@
   "citations": [
     "2021 SCMR 451"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Asghar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

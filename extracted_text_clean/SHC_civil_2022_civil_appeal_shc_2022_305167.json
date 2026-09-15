@@ -8,10 +8,16 @@
   "num_chunks": 3,
   "case_number": "Constitution Petition No.S-457 of 2021",
   "date_of_order": "02.02.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "RIAZAT ALI SAHAR",
+  "sections_cited": [
+    "U/s 12"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Nawaz Mallah",
+    "Ali Nawaz Rind",
+    "Honourable Supreme Court of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

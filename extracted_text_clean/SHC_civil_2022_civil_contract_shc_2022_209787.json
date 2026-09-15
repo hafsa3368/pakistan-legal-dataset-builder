@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "24.01.2024",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Sections 3, 19 and 52 of the Limitation Act",
     "Section 19",
@@ -17,7 +17,10 @@
     "Section 19 of the Limitation Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nina Industries Limited",
+    "Bhanero Textile Mills"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

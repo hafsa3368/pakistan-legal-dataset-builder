@@ -6,12 +6,17 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "High Court Appeal No.329 of 2024",
+  "date_of_order": "26.09.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S Mayhar Kazi and Zahid Ali Sahito",
+    "Mr. Salahuddin Ahmed, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

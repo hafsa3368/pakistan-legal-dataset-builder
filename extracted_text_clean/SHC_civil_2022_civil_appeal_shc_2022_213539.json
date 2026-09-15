@@ -6,12 +6,15 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE",
+  "case_number": "HCA No.325 of 2019",
+  "date_of_order": "26.04.2024",
+  "judge": "Muhammad Ramzan Tabbasum",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Muhammad Banglani",
+    "M/s. Plaza Enterprises Ltd. & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

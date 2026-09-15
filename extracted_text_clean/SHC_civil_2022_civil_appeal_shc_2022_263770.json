@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "criminal jurisprudence. 08. These procedural anomalies",
+  "case_number": "Cr. Appeal No.D-43 of 2024",
   "date_of_order": "04-03-2025",
   "judge": "Omer Sial",
   "sections_cited": [
@@ -19,7 +19,10 @@
     "2024 SCMR 1408",
     "2021 SCMR 363"
   ],
-  "parties": [],
+  "parties": [
+    "Waqar Ahmed s/o Liaquat Ali Kalhoro",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

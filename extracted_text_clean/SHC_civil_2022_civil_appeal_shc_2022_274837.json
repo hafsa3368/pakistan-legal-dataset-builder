@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "Criminal Appeal No.S-13 of 2025",
   "date_of_order": "12-05-2025",
-  "judge": "",
+  "judge": "RIAZAT ALI SAHAR",
   "sections_cited": [
     "Sections 324, 506, 504, 452, 427, 147, 148, 149, 337-H",
     "Section 506 PPC",
@@ -26,7 +26,18 @@
     "2024 SCMR 1427",
     "PLD 1977 SC 557"
   ],
-  "parties": [],
+  "parties": [
+    "Aftab Ahmed Rashid",
+    "Sikander Ali",
+    "Zahoor Ahmed",
+    "Abdul Aziz",
+    "Naveed",
+    "Ghulam Mustafa @ Asghar",
+    "Muhammad Ibrahim",
+    "Altaf",
+    "The State",
+    "Abdul Wahid Khaskheli"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

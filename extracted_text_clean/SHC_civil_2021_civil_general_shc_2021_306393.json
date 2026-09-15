@@ -8,13 +8,26 @@
   "num_chunks": 4,
   "case_number": "Constitution Petition No.D-523 of 2023",
   "date_of_order": "26.02.2026",
-  "judge": "JUDGE Irshad Ali M/Steno",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 SCMR 157",
     "2019 SCMR 1970"
   ],
-  "parties": [],
+  "parties": [
+    "Sajid son of Mukhtiar Ali Tunio",
+    "Asif Ali son of Mukhtiar Ali Tunio",
+    "Imran Khan Shar s/o Kehar Khan",
+    "Amir Ali son of Mangho Khan",
+    "P.O Sindh and others",
+    "Mr. Justice Adnan Iqbal Chaudhry",
+    "Mr. Justice Abdul Hamid Bhurgri",
+    "Mr. Safdar Ali Ghouri",
+    "Mr. Liaquat Ali Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,20 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "17.07.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 417 Cr.P.C",
     "Sections 15, 17, 24 of the Gas Theft Recovery Act",
     "Sections 462-C & 427 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Muhammad s/o Abdul Ghani Mangi",
+    "The State",
+    "Azhar Ali Jarwar",
+    "M/s. Imtiaz Ali Mugheri and Tahira Parveen",
+    "Mr. Nazeer Ahmed Bhangwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

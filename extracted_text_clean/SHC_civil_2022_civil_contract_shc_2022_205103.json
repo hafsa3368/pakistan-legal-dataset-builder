@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "07-11-2023",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 6",
     "section 3 of the Act",
@@ -16,7 +16,10 @@
     "section 6 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jiaozuo Creation Heavy Industry Co., Ltd.",
+    "Huaneng Fuyun Port & Shipping (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "",
   "date_of_order": "07.08.2023",
-  "judge": "JUDGE",
+  "judge": "Muhammad Karim Khan Agha",
   "sections_cited": [
     "sections 302, 324, 427",
     "Section 7",
@@ -22,7 +22,18 @@
     "Sections 302/324/427/113/109 and 34 of the Pakistan Penal Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Mir Salman Abro",
+    "GhulamSarwarAbro",
+    "Zeeshan Mustafa Lashari",
+    "Imran Ali",
+    "Muhammad Boota",
+    "Niaz Muhammad Brohi",
+    "Muhammad Rashid",
+    "KhudaBuxJamali",
+    "YaseenJamali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

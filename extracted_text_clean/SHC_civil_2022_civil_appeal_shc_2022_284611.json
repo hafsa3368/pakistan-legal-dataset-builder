@@ -8,7 +8,7 @@
   "num_chunks": 22,
   "case_number": "Criminal Appeal No. S-36 of 2022",
   "date_of_order": "15.09.2025",
-  "judge": "",
+  "judge": "Muhammad Saleem Jessar",
   "sections_cited": [
     "section 395 PPC",
     "section 200 & 202",
@@ -32,7 +32,36 @@
     "1995 SCMR 1377",
     "2025 YLR 169"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "party": "Appellant",
+      "name": "Jameel Ahmed Chandio"
+    },
+    {
+      "party": "Complainant/Applicant",
+      "name": "Tariq Hussain Brohi"
+    },
+    {
+      "party": "Respondent",
+      "name": "Nooruddin"
+    },
+    {
+      "party": "Respondent",
+      "name": "Jagirani"
+    },
+    {
+      "party": "Respondent",
+      "name": "Hayat Muhammad Pathan"
+    },
+    {
+      "party": "Respondent",
+      "name": "Kiran Manzoor Mirani"
+    },
+    {
+      "party": "The State",
+      "name": "Ali Anwar Kandhro"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

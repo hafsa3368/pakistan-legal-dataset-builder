@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No. 246 of 2021",
   "date_of_order": "23.12.2022",
-  "judge": "",
+  "judge": "IRSHAD ALI SHAH",
   "sections_cited": [
     "Section 302",
     "section 382"
@@ -21,7 +21,13 @@
     "2018 SCMR 772",
     "PLD 1969 SC 127"
   ],
-  "parties": [],
+  "parties": [
+    "Khadim Hussain",
+    "The State",
+    "Muhammad Daud Narejo",
+    "Muhammad Yousif Narejo",
+    "brothers of the deceased"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

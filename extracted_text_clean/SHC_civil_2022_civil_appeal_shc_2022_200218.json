@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "",
+  "case_number": "Cr.Jail Appeal No.D-140 of 2022",
   "date_of_order": "05.07.2023",
   "judge": "Naimatullah Phulpoto",
   "sections_cited": [
@@ -26,7 +26,11 @@
     "1995 SCMR 1345",
     "2016 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "The State through Syed Sardar Ali Shah Rizvi, Additional Prosecutor General",
+    "Bakht Ali s/o Munawar Ali Bozdar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

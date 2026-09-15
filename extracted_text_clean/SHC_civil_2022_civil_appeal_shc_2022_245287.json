@@ -9,11 +9,20 @@
   "case_number": "Civil Suit No.1582 of 2022",
   "date_of_order": "03.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Order VII Rule 11 CPC"
+  ],
   "citations": [
     "2014 SCMR 1744"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Samiullah Soomro, Advocate for the Petitioner",
+    "respondent No.3",
+    "Mustafa",
+    "narrator"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

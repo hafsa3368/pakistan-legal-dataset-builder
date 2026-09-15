@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Acquittal Appeal No.S-122 of 2023",
+  "case_number": "",
   "date_of_order": "11.09.2023",
-  "judge": "",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "Section 489-F PPC",
     "section 342 Cr.P.C"
@@ -17,7 +17,10 @@
     "2003 SCMR 477",
     "PLD 2009 SC 53"
   ],
-  "parties": [],
+  "parties": [
+    "Imdad Ali Bughio",
+    "The State Vs. Samiullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

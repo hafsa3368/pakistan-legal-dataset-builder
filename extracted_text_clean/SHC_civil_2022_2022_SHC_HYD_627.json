@@ -6,12 +6,20 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "construction being raised by respondent No.11",
+  "case_number": "",
   "date_of_order": "26.04.2022",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Irfan Ahmed Qureshi",
+    "Mr. Bhagwandas Bheel",
+    "Mr. Sarfraz Metlo",
+    "Mr. Ayaz Ali Rajpar",
+    "Asstt: A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

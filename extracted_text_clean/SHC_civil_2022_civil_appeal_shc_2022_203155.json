@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "31.08.2023",
-  "judge": "",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "Sections 452, 506, 504, 337-A",
     "section 265-H"
@@ -18,7 +18,12 @@
     "1995 SCMR 1345",
     "PLD 2002 SC 1048"
   ],
-  "parties": [],
+  "parties": [
+    "State",
+    "Ansar Ahmed Khan",
+    "Mst. Shahida Mehtab",
+    "Shahroz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

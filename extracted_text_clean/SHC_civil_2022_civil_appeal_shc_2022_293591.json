@@ -8,13 +8,21 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition No. S-473 of 2023",
   "date_of_order": "18.11.2025",
-  "judge": "",
+  "judge": "Nisar Ahmed Bhanbhro",
   "sections_cited": [
     "section 16 and 16",
     "section 16"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saleem Akhtar",
+    "VIIth Additional District Judge Karachi East",
+    "M/s Muhammad Safdar and Rohila Nazar",
+    "Respondent ` No.2",
+    "Bihar Muslim Cooperative Society Alamgir Road Karachi",
+    "Petitioner",
+    "Respondent No 2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

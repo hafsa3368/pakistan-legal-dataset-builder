@@ -6,12 +6,21 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal Nos. 131",
   "date_of_order": "01.12.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kashif Hanif",
+    "SSGC",
+    "Mr. Ali Haider",
+    "Mr. Raja Love Kush",
+    "Ms. Zehrah Sehar Vayyani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

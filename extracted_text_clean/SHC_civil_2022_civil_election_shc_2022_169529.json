@@ -6,12 +6,22 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C. P No. D-617 of 2022",
+  "date_of_order": "27-07-2022",
   "judge": "Abdul Mobeen Lakho Petitioners Sajjad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sajjad Hussain & another",
+    "The State",
+    "Imran Khan",
+    "Election Commission of Pakistan",
+    "District Returning Officer, Kamber-Shahdadkot",
+    "Petitioners",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

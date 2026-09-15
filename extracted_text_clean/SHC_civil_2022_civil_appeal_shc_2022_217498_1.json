@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Appeal No.184 of 2020",
   "date_of_order": "10.07.2024",
-  "judge": "",
+  "judge": "Amjad Ali Bohio",
   "sections_cited": [
     "Section 9",
     "Section 382-B",
@@ -25,7 +25,10 @@
     "2012 SCMR 577",
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Nadir Hussain S/o Abdul Latif Bhangar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

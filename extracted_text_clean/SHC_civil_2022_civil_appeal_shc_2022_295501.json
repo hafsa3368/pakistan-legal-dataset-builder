@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Criminal Acquittal Appeal No. S-303 of 2023",
+  "case_number": "",
   "date_of_order": "26.11.2025",
-  "judge": "",
+  "judge": "Ali Haider ‘Ada’,",
   "sections_cited": [
     "Section 489-F",
     "Sections 22-A and 22-B Cr.P.C",
@@ -26,7 +26,11 @@
     "2025 SCMR 993",
     "2025 SCMR 1344"
   ],
-  "parties": [],
+  "parties": [
+    "M/s NTL (Pvt.) Ltd.",
+    "The State",
+    "Mirza Raheel Baig"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

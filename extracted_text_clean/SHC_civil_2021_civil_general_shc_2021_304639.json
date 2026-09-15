@@ -6,12 +6,15 @@
   "year": "2021",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P. No. D-3880 of 2011",
   "date_of_order": "09.02.2026",
-  "judge": "JUDGE MUBASHIR",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "CPO, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

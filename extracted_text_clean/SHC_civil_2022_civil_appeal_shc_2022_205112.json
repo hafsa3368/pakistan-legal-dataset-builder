@@ -6,12 +6,17 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.34 of 2022",
   "date_of_order": "03.01.2022",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Muhammad Aslam Siddiqui",
+    "Board of Revenue",
+    "M/s Associated Builder Pvt. Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

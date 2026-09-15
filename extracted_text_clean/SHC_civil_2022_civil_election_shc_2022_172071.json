@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Misc. No. 24587/2022",
   "date_of_order": "30.09.2022",
-  "judge": "CHIEF JUSTICE TariqAli/PA",
-  "sections_cited": [],
+  "judge": "CHIEF JUSTICE TariqAli",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shaikh Jawaid Mir",
+    "Yousuf Ali Sayeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
