@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "18.02.2026",
-  "judge": "",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Section 82-B"
   ],
@@ -19,7 +19,15 @@
     "2025 SCMR 249",
     "PLD 2016 SC 940"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Fattah and another",
+    "The President/ CEO ZTBL & others",
+    "M/s Zarai, Taraqiati Bank Limited",
+    "Syed Mujtaba Ahmed Gilani",
+    "General Manager, M/s ZTBL",
+    "Syed Naved Ahmed Shah",
+    "Deputy Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

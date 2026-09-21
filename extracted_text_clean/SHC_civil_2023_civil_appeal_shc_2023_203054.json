@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Appeal No.S-10 of 2023",
   "date_of_order": "12.09.2023",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 228",
     "section 19"
@@ -17,7 +17,16 @@
     "PLD 1964 SC 446",
     "PLD 2019 Sindh 516"
   ],
-  "parties": [],
+  "parties": [
+    "Sikandar Ali Kolachi",
+    "Abdul Ghaffar Narejo",
+    "Zain-ul-Abdin Narejo",
+    "Satram Das Sonani Bheel",
+    "Tilok Chand",
+    "The State",
+    "Mirpurkhas District Bar Association",
+    "The Mirpurkhas District Bar Association"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,10 +6,13 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "civil servant is no longer",
+  "case_number": "",
   "date_of_order": "01.09.2022",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1991 SCMR 1041",
     "PLD 2013 SC 829",

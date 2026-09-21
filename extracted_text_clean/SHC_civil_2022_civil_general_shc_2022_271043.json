@@ -6,12 +6,17 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-112 of 2025",
   "date_of_order": "04.06.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Javed Ahmed Soomro",
+    "Mr. Liaquat Ali Shar",
+    "the Petitioner",
+    "the Deputy Inspector General of Prisons, Sukkur Region, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

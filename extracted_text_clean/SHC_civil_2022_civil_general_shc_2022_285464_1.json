@@ -9,9 +9,21 @@
   "case_number": "Civil Petitions No.966-K",
   "date_of_order": "09.10.2025",
   "judge": "Muhammad Saleem Jessar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Qandeel Hyder Memon",
+    "P.O. Sindh",
+    "Zubair Ahmed Kalhoro",
+    "Liaquat Ali Shar",
+    "Sindh",
+    "Justice Muhammad Saleem Jessar",
+    "Justice Nisar Ahmed Bhanbhro",
+    "Justice Zulfiqar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

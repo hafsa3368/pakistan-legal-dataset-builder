@@ -6,14 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constitution from the hands of respondent No.6",
+  "case_number": "C. P. No.S-28 of 2025",
   "date_of_order": "03.03.2025",
-  "judge": "",
+  "judge": "M.Yousuf Panhwar",
   "sections_cited": [
     "section 337-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nadir Ali",
+    "Mr. Badaruddin Memon",
+    "Mr. Shaharyar Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

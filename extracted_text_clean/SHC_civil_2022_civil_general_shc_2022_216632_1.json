@@ -6,12 +6,16 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitution Petition No. D-",
+  "case_number": "",
   "date_of_order": "15.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mohammad Abdur Rehman",
+  "sections_cited": [
+    "Section 199 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Babar Ali vs. Chairman Federal Public Service Commission, Islamabad & other"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "Cr. Transfer Application No. 58 of 2024",
+  "date_of_order": "27-09-2024",
+  "judge": "Omar Sial",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bakht Hussain",
+    "Ms. Robina Qadir",
+    "Additional Prosecutor General, Sindh",
+    "S.I. Jafoor Khan PS Saeedabad",
+    "Omar Sial",
+    "12th Additional Sessions Judge, Karachi West"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

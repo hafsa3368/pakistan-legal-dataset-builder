@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No. D-353 of 2022",
-  "date_of_order": "",
+  "date_of_order": "07.02.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Mustafa Shaikh",
+    "P.O Sindh & others",
+    "Mr. Riaz Ali Shaikh",
+    "Mr. Shaharyar Imdad Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

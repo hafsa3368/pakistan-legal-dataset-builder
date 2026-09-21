@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No. D-1020 of 2022",
-  "date_of_order": "",
+  "date_of_order": "02.10.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Rule 17",
+    "Rule 10",
+    "Rule 6"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sarfraz A. Ahmed",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

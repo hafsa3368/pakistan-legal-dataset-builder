@@ -9,13 +9,19 @@
   "case_number": "Civil Petition No.1418 of 2023",
   "date_of_order": "02.11.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
     "2001 SCMR 574"
   ],
-  "parties": [],
+  "parties": [
+    "Ms. Urooj Khan",
+    "The Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,22 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "09.04.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Amir Azad",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "u/s 85-90 CPC",
+    "Order XXI Rule 90 of CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rizwan Ali Memon",
+    "Mr. Asif Ali Buledi",
+    "Mr. Abdul Majeed Khan",
+    "Amir Azad",
+    "Respondents No.3, 4 and 5",
+    "Respondent No.2(i)",
+    "Attorney of Respondent No.2(ii) to (ix)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,15 +6,20 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "MA No. 16243/2022",
   "date_of_order": "02-12-2022",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 3 of the Electricity Act",
     "section 13"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "K-Electric Limited",
+    "Province of Sindh",
+    "Abdul Mutalib Mannan",
+    "Nisar Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

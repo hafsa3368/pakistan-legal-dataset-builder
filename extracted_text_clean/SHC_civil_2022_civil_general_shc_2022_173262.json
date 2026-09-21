@@ -7,11 +7,20 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "16.09.2022",
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "Article 199 of the Constitution of Islamic Republic of Pakistan"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Nosheela Rani",
+    "Province of Sindh",
+    "Mr. Ahmed Nawaz Chang",
+    "Mr. Allah Bachayo Soomro",
+    "insp. Shah Jehan Lashari",
+    "Asad Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

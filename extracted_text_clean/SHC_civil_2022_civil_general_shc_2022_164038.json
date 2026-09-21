@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-146 of 2022",
   "date_of_order": "5th April 2022",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Ghulam Rehman Korai and Aftab Ayub",
+    "Mr. Ali Raza Balouch",
+    "Mr. Mukesh Kumar G. Karara"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

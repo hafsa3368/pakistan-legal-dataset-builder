@@ -6,12 +6,17 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-3573 of 2022",
   "date_of_order": "17.08.2023",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rauf Arain",
+    "Mr. Rafique Ahmed Dahri AAG Sindh",
+    "Respondents No.2 and 3",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

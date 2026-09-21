@@ -8,10 +8,25 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "30.09.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Ghulam Khatoon",
+    "DIGP Mirpurkhas Region and others",
+    "Mst. Gulzaran and others",
+    "Province of Sindh and others",
+    "Mst. Rehmat",
+    "Province of Sindh and others",
+    "Qutub Ali",
+    "Province of Sindh and others",
+    "Ali Ahsan",
+    "Province of Sindh and others",
+    "Masood Aslam",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

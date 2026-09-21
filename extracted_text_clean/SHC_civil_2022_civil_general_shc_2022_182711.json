@@ -8,12 +8,18 @@
   "num_chunks": 3,
   "case_number": "Misc. No.4766/2023",
   "date_of_order": "20.02.2023",
-  "judge": "CHIEF JUSTICE TariqAli/PA",
+  "judge": "CHIEF JUSTICE TariqAli",
   "sections_cited": [
     "Section 56 of Specific Relief Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Fiaz Ahmed Abro",
+    "Yousuf Ali Sayeed",
+    "Petitioner",
+    "Respondent No.1",
+    "defendant No.1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

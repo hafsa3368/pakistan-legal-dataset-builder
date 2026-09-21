@@ -6,12 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constitutional jurisdiction of this Court is not",
+  "case_number": "",
   "date_of_order": "20.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khalid Hussain Jagirani",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

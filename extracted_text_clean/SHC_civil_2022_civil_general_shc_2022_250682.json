@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Civil Transfer Application No. 05 of 2025",
   "date_of_order": "20.03.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Nadeem Qureshi",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Sana Q. Valika",
+    "Ms. Tahira Hassan",
+    "Mr. Ahmed Khan Khaskheli"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-290 of 2022",
   "date_of_order": "20th May, 2022",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Muhammad Ali Lakhani, Arsal Rahat and Eshal Waris",
+    "M/s. Khalid Hayat, Muhammad Nadeem Babar and Muhammad Arshad Mehmood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

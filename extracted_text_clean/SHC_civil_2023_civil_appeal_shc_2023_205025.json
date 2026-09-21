@@ -6,12 +6,14 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. Nos.D-856",
   "date_of_order": "3rd November 2023",
   "judge": "Aqeel Ahmed Abbasi",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aslam, Advocate for Petitioners in both petitions"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

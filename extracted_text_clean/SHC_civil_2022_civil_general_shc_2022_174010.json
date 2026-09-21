@@ -6,12 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitution does not",
+  "case_number": "C. P. No. D-2875 of 2022",
   "date_of_order": "27.10.2022",
   "judge": "CHIEF JUSTICE MUBASHIR",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 199 of the Constitution"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Ansar Hussain Zaidi",
+    "Mr. Muhammad Tariq",
+    "Yousuf Ali Sayeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

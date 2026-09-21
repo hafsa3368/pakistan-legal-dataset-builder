@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Const. Petition No.D-",
+  "case_number": "",
   "date_of_order": "24.08.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 151 CPC"
   ],
@@ -18,7 +18,12 @@
     "2019 MLD 79",
     "PLD 2013 SC 255"
   ],
-  "parties": [],
+  "parties": [
+    "Jhando Khan Jarwar",
+    "Federation of Pakistan",
+    "NADRA",
+    "Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

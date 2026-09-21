@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "10th February 2022",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Niaz Hussain Maitlo",
+    "Mr. Ali Raza Baloch",
+    "Respondent No.1",
+    "Respondent No.2",
+    "Respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

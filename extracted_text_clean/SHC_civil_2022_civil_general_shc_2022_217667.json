@@ -8,12 +8,16 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "12-07-2024",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 21"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wateen Telecom Limited",
+    "Federation of Pakistan",
+    "Pakistan Telecommunication Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

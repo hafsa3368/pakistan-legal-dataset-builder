@@ -8,8 +8,11 @@
   "num_chunks": 7,
   "case_number": "Civil Petitions No.3472",
   "date_of_order": "15.01.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1993 SCMR 2350",
     "2020 SCMR 111",
@@ -19,7 +22,14 @@
     "2019 YLR 911",
     "PLD 1989 SC 61"
   ],
-  "parties": [],
+  "parties": [
+    "Nauman Qasim Paracha & Others",
+    "Sindh Building Control Authority & Others",
+    "Syeda Ayesha Tanweeer Ansari & Others",
+    "Province of Sindh & Others",
+    "Head Start School System (Pvt.) Ltd.",
+    "Federation of Pakistan & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

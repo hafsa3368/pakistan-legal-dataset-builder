@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "",
   "date_of_order": "26.01.2022",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "section 151 CPC"
   ],
@@ -25,7 +25,14 @@
     "PLD 1962 SC 291",
     "PLD 1965 Dacca 557"
   ],
-  "parties": [],
+  "parties": [
+    "Adnan Aziz Ahmed",
+    "Rakil Ahmed Zaman",
+    "Nazir",
+    "Farhan Ali",
+    "Buyer",
+    "Auction Purchaser/Buyer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,17 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitution Petition No. D-",
+  "case_number": "",
   "date_of_order": "08.05.2024",
-  "judge": "",
+  "judge": "MUHAMMAD JUNAID GHAFFR",
   "sections_cited": [
     "Section 40-A of the Stamp Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

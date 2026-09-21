@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Misc. Appl. No. S-",
+  "case_number": "",
   "date_of_order": "28.04.2023",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 491 Cr.P.C",
     "Section 154 of the Cr.P.C",
@@ -19,7 +19,14 @@
     "2009 SCMR 230",
     "PLD 2005 Peshawar 204"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Sajjad Ali Laghari",
+    "Mr. Siraj Ahmed Bijrani",
+    "respondents 5 and 6",
+    "Mst. Husna",
+    "Mehar Ali",
+    "Fayaz Palh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

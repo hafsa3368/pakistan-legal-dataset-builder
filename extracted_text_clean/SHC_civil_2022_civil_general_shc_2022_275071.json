@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitution Petition No. S",
+  "case_number": "",
   "date_of_order": "09.05.2025",
   "judge": "Muhammad Jaffer Raza Constitution Petition",
   "sections_cited": [
@@ -20,7 +20,14 @@
     "2010 MLD 989",
     "PLD 2019 Lahore 285"
   ],
-  "parties": [],
+  "parties": [
+    "Zeeshan Razzak",
+    "Cantonment Board Clifton",
+    "Sufyan Zaman",
+    "Zain A. Soomro",
+    "Sana Valika",
+    "Qazi Umair Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

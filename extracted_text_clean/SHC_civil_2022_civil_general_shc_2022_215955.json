@@ -7,13 +7,26 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Constitution Petition No. D-91 of 2024",
-  "date_of_order": "",
+  "date_of_order": "21-05-2024",
   "judge": "Karim Memon",
   "sections_cited": [],
   "citations": [
     "PLD 2007 SC 35"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Hyder Pirzada",
+    "Province of Sindh",
+    "Mst. Zubaida",
+    "Mst. Rabia",
+    "Government of Sindh",
+    "Mst. Zahida",
+    "Mr. J.K Jarwar",
+    "Mr. Muzaffar Ali Dehraj",
+    "Mr. Sheeraz Fazal",
+    "Mr. Nisar Ahmed Bhanbhro",
+    "Mr. Asfandyar Kharal",
+    "Assistant Advocate General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

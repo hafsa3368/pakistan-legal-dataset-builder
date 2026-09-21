@@ -6,12 +6,21 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-1558 of 2022",
   "date_of_order": "21.12.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Arbab Ali Hakro",
+    "Shiv Oil Mill",
+    "M/s National Bank of Pakistan",
+    "Mr. Ashok Kumar K. Jamba",
+    "Mr. Ashfaque Hussain Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

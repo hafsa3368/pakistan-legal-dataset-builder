@@ -6,12 +6,15 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "HCA No. 123 of 2021",
   "date_of_order": "31.10.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Akhtar Ali Memon",
+    "Nos.1 and 2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

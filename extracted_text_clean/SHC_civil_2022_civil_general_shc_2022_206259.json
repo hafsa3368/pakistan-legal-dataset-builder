@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Const. Petition No. D-206 of 2023",
   "date_of_order": "22.12.2022",
-  "judge": "JUDGE Ahmad",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 2",
     "section 3"
@@ -17,7 +17,14 @@
     "2018 SCMR 1411",
     "1996 SCMR 1185"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Kalsoom Begum Lashari",
+    "P.O Sindh & others",
+    "The Pakistan Medical & Dental Council",
+    "Peoples University of Medical & Health Sciences",
+    "Dr. Rukhsar Ahmed Shahani",
+    "Khairpur Medical College"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

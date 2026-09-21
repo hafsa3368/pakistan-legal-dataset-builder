@@ -6,14 +6,17 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. App. No. D",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "",
+  "date_of_order": "21-07-2022",
+  "judge": "Abdul Basit",
   "sections_cited": [
     "Section 491"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Baqi Jan Kakar",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

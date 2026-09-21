@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.S-15 of 2021",
   "date_of_order": "25.09.2023",
   "judge": "Shahid",
   "sections_cited": [
@@ -17,7 +17,18 @@
     "Section 346 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Shabbir Babar",
+    "Mr. Ahmed Ali Jarwar",
+    "Mr. Nazar Muhammad Memon",
+    "Dur Muhammad",
+    "Qadir Bux",
+    "Muhammad Usman Rind",
+    "Mst. Rozan",
+    "Mst. Shareefan",
+    "Mst. Kazbano",
+    "Javed Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

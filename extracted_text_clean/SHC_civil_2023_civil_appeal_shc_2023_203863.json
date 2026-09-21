@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.S-14 of 2021",
   "date_of_order": "25.09.2023",
   "judge": "Shahid",
   "sections_cited": [
@@ -17,7 +17,17 @@
     "Section 346 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farman Ali",
+    "Taj Muhammad Rahejo Rind",
+    "Dur Muhammad",
+    "Qadir Bux",
+    "Muhammad Usman Rind",
+    "Abid Hussain",
+    "Nazar Muhammad Memon",
+    "Ahmed Ali Jarwar",
+    "Ghulam Shabbir Babar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

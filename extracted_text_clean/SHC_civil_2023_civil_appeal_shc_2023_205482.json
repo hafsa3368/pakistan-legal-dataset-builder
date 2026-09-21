@@ -6,12 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No.410 of 2023",
   "date_of_order": "17.11.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Continental Energy (Pvt.) Ltd.",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

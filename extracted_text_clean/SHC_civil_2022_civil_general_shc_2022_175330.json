@@ -6,12 +6,17 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C. P. No. D-7075 of 2022",
   "date_of_order": "01.12.2022",
-  "judge": "JUDGE MUBASHIR",
-  "sections_cited": [],
+  "judge": "YOUSUF ALI SAYEED",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Ali Khan, Advocate for the Petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

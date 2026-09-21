@@ -9,11 +9,21 @@
   "case_number": "",
   "date_of_order": "09.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "PLD 2022 Sindh 260"
+  ],
   "citations": [
     "PLD 2022 Sindh 260"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Raza Baloch, Petitioner",
+    "Province of Sindh",
+    "Respondent No.4",
+    "Dean Faculty of Law",
+    "Shah Abdul Latif University, Khairpur",
+    "Shahid Hussain Qureshi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

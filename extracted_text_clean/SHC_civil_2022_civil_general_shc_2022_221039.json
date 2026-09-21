@@ -8,13 +8,23 @@
   "num_chunks": 2,
   "case_number": "Const. Petitions No.D-1136",
   "date_of_order": "23.04.2024",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2022 SCMR 1770",
     "2023 SCMR 766"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Achar Khan Gabol, Shabbir Ali Bozdar, Waseem Iqbal, Deedar Ali M. Chohan, Badaruddin Memon & Hajan Shah",
+    "Mr. Ali Raza Baloch, Assistant A.G – Sindh",
+    "Inspector Akhtar Pathan",
+    "DIGP, Sukkur",
+    "Inspector Naveed Akbar Pirzada",
+    "SSP, Ghotki"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

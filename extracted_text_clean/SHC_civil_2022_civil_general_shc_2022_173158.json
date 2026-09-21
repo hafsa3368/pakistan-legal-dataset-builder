@@ -8,10 +8,34 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "12.09.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Irfana and another",
+    "Province of Sindh and others",
+    "Ms. Afshan and another",
+    "Province of Sindh and others",
+    "Ms. Samreen and another",
+    "Province of Sindh and others",
+    "Mst. Reena and another",
+    "Province of Sindh and others",
+    "Mst. Najma and another",
+    "Province of Sindh and others",
+    "Mst. Nazia and another",
+    "Province of Sindh and others",
+    "Mst. Amreen Fatima and another",
+    "SSP Badin and others",
+    "Mr. Altaf Shahid Abro",
+    "Muhammad Fazil Saand",
+    "M/s. Abdul Hafeez Solangi & Aamir Hazoor Solangi",
+    "Mr. Muhammad Ismail Bhutto",
+    "Addl.A.G. along with Insp. Sohail Sarwar Jamali on behalf of SSP Hyderabad",
+    "Muhammad Aslam Jamali SHO PS Naokot",
+    "ASI Harkho PS Badin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

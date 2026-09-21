@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 18,
-  "case_number": "construction of no less",
+  "case_number": "",
   "date_of_order": "24.01.2024",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [
     "Section 6 of the Sindh Building Control Ordinance",
     "Section 6",
@@ -38,7 +38,18 @@
     "PLD 2018 Sindh 603",
     "PLD 1994 SC 512"
   ],
-  "parties": [],
+  "parties": [
+    "SBCA",
+    "Mr. Anwar Ali Shah",
+    "Mr. Sohail Hameed",
+    "Mr. Syed Shahnawaz Hussain",
+    "Mr. Jawad Dero",
+    "Sardar Khan",
+    "DSP",
+    "Respondents 7 & 9",
+    "Ansar-ul-Haq",
+    "Shaban & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

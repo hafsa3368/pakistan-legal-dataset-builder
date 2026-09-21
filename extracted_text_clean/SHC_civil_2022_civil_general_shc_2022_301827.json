@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "C.P. No.D-1980 of 2023",
   "date_of_order": "27.11.2025",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "section 3",
     "Section 3",
@@ -19,7 +19,12 @@
     "Sections 11, 13 and 14"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sher Muhammad Shah",
+    "Karam Ali Shah and Others",
+    "Province of Sindh & Others",
+    "Syed Bachal Shah Mukam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

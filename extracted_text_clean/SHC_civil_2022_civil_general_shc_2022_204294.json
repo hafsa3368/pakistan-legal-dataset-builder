@@ -6,12 +6,16 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-4564 of 2023",
   "date_of_order": "19.05.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bangalore Cooperative Housing Society",
+    "Mr. Mohamed Vawda",
+    "Assistant Registrar, Cooperative Societies-I, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

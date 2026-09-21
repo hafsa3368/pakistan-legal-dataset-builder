@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1163 of 2023",
   "date_of_order": "24.01.2022",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asif Aman",
+    "Mr. Zulfiqar Ali Naich",
+    "the petitioner",
+    "the petitioner's late father",
+    "the petitioner's other legal heirs",
+    "the Mukhtiarkar",
+    "the Assistant Commissioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

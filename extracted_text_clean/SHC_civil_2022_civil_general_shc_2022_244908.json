@@ -8,14 +8,18 @@
   "num_chunks": 2,
   "case_number": "Misc. Application No. 1353/2025",
   "date_of_order": "10.02.2025",
-  "judge": "JUDGE Athar Zai",
+  "judge": "Athar Zai",
   "sections_cited": [
     "section 23",
     "section 23 of the Ordinance",
     "Section 23 of Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Javed Iqbal s/o. Ahsan Ghani",
+    "Syed Khurram Kamal",
+    "NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

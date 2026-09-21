@@ -6,16 +6,19 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-2628 of 2025",
   "date_of_order": "01.04.2026",
-  "judge": "Shahzad Soomro JUDGE",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Sections 66 & 67 of the Sindh Industrial Relations Act"
   ],
   "citations": [
     "PLD 2024 SC 1276"
   ],
-  "parties": [],
+  "parties": [
+    "Asrar Ahmed Khan",
+    "M/s General Tyre & Rubber Company & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

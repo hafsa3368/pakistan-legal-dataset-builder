@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "31.08.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Israr Ahmed Shah, Advocate for appellants",
+    "Mr. Zulfiqar Ali Jatoi, Additional Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

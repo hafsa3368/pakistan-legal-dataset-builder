@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Misc. Application No. 738 of 2022",
   "date_of_order": "24.02.2025",
-  "judge": "",
+  "judge": "ALI HAIDER ‘ADA’-J;",
   "sections_cited": [
     "Sections 324, 109",
     "Section 22-",
@@ -20,7 +20,12 @@
     "2024 MLD 1780",
     "2024 SCMR 985"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Shafqat Ali Shah Masoomi & Shahbaz Ali Shah Masoomi, Advocates",
+    "Ms. Rubin Qadir, Deputy Prosecutor General, Sindh",
+    "Mr. Abdul Wali, Advocate",
+    "respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

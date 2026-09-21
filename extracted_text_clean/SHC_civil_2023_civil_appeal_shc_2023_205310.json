@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "High Court Appeal No.171 of 2021",
   "date_of_order": "19.10.2023",
   "judge": "",
   "sections_cited": [
@@ -17,7 +17,15 @@
     "Section 325 of the Companies Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "New Dadu Sugar Mills (Pvt.) Ltd.",
+    "Sindh Sugar Corporation Ltd.",
+    "Mehran Sugar Mills Ltd.",
+    "Omni (Pvt.) Ltd.",
+    "Sooraj Enterprises Ltd.",
+    "National Bank of Pakistan (NBP)",
+    "Naudero Sugar Mills (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "12.03.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 15 of the Sindh Civil Servants Act",
     "Section 403 CrPC",
@@ -17,7 +17,11 @@
   "citations": [
     "1998 SCMR 1993"
   ],
-  "parties": [],
+  "parties": [
+    "Shaheryar",
+    "Province of Sindh",
+    "Sindh Police Recruitment Board"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

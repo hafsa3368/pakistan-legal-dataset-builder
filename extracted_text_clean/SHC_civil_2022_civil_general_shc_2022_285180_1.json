@@ -6,12 +6,25 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C. P. No. D-2679 of 2021",
   "date_of_order": "22.12.2022",
-  "judge": "JUDGE MUBASHIR",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Shahab Sarki and Zulfiqar Ali Langha",
+    "Syed Aamir Ali",
+    "Mr. Imran Taj",
+    "Mr. Abdul Basit",
+    "M/s. Ghulam Akbar Lashari and Rafique Bhanbhro",
+    "M/s. Ghulam Akbar Lashari and Rafique Bhanbhro",
+    "M/s. Ghulam Akbar Lashari and Rafique Bhanbhro",
+    "Mr. Mehran Khan",
+    "Ghazanfar Ali Abbasi-III",
+    "Mushtaque Ali Wassan",
+    "Ghazanfar Ali Abbasi-III",
+    "Ghulam Ali Wassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

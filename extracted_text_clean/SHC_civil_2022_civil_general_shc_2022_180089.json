@@ -6,12 +6,15 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P. No.D-79 of 2023",
   "date_of_order": "02.02.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
+  "judge": "Faisal Mumtaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Ali Gul Abbasi, Sarfraz A. Akhund, Muhammad Azam Abro, Niazuddin Memon, Sheeraz Fazal, Muhammad Zuhaib Rajput, Amjad Ali Panhwar, Hajjan Shah, advocates for the Petitioner",
+    "M/s. Shafi Muhammad Chandio and Mehboob Ali Wassan, AAGs alongwith Javed Soonharo Jiskani, DIGP Sukkur, PDSP Muhammad Umar Shaikh, Shaheed Benazirabad, Tanveer Hussain Tunio, SSP Ghotki, Sanghaar Malik, SSP Sukkur, Rohail Khan Khoso, SSP Khairpur, Abdul Qayyum Pitafi, SSP Naushahro Feroze and Azhar Hussain Lahori, DSP/SDPO Tando Adam on behalf of SSP Sanghar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

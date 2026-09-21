@@ -6,12 +6,24 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Election Appeal No.S-01 of 2022",
   "date_of_order": "28.08.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
-  "sections_cited": [],
+  "judge": "Faisal Mumtaz",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bahram and another",
+    "Election Commission of Pakistan",
+    "Federation",
+    "Mr. Dareshani Ali Haider ‘Ada’",
+    "Province of Sindh",
+    "Mehboob Ali Wassan",
+    "Zeeshan Hyder Qureshi",
+    "Bahram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

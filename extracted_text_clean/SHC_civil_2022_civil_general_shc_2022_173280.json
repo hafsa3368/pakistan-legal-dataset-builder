@@ -8,10 +8,21 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "23.09.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "Article 199 of the Constitution of Islamic Republic of Pakistan"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Fatima (Sat. Bai) and another",
+    "Province of Sindh and others",
+    "Mst. Zeba Mukhtiar and another",
+    "Province of Sindh and others",
+    "Shr. Sangeeta and another",
+    "Province of Sindh and others",
+    "Mr. Muhammad Sachal R. Awan",
+    "Mr. Muhammad Ismail Bhutto, Addl. A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

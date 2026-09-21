@@ -7,11 +7,25 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Constitution Petition No.D-1645 of 2022",
-  "date_of_order": "",
-  "judge": "JUDGE Irfan Ali",
+  "date_of_order": "16-11-2023",
+  "judge": "Irfan Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Altaf Sachal Awan",
+    "Mr. Abdul Shakoor Keerio",
+    "Mr. Allah Bachayo Soomro",
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Rafiq Ahmed Dahri",
+    "Ms. Shereen Mustafa",
+    "Abdul Latif Mughal",
+    "Aziz Rehman Dahot",
+    "Shakeel Qureshi",
+    "Naveed Rana",
+    "Iqbal Hussain Memon",
+    "Niaz Ali Naich",
+    "Syed Mehmood Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

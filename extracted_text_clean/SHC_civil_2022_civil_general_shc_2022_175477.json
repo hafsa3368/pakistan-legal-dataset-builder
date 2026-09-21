@@ -8,10 +8,16 @@
   "num_chunks": 3,
   "case_number": "Misc. No.31555/2022",
   "date_of_order": "07.12.2022",
-  "judge": "CHIEF JUSTICE TariqAli/PA",
-  "sections_cited": [],
+  "judge": "CHIEF JUSTICE TariqAli",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Yousuf Ali Sayeed",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

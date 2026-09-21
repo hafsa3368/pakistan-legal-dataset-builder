@@ -7,15 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1122 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "20.09.2023",
+  "judge": "",
   "sections_cited": [
     "Sections 452, 376",
     "Section 561-A CrPC",
     "Section 265-K CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Riaz Hussain Khaskheli",
+    "Mr. Mehboob Ali Wassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

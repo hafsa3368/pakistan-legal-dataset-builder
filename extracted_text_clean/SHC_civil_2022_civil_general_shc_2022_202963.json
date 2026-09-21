@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Criminal Miscellaneous Application No.S-352 of 2022",
   "date_of_order": "28.08.2023",
-  "judge": "",
+  "judge": "ZULFIQAR ALI SANGI",
   "sections_cited": [
     "section 22-A",
     "section 154 Cr.P.C",
@@ -19,7 +19,52 @@
   "citations": [
     "PLD 2018 SC 595"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "petitioner",
+      "name": "Muhammad Iqbal"
+    },
+    {
+      "type": "respondent",
+      "name": "The State"
+    },
+    {
+      "type": "respondent",
+      "name": "Ghulam Mustafa"
+    },
+    {
+      "type": "respondent",
+      "name": "Mst. Zeenat"
+    },
+    {
+      "type": "respondent",
+      "name": "SIP Muhammad Jameel Chandio"
+    },
+    {
+      "type": "respondent",
+      "name": "ASI Manzoor Ali Panhwar"
+    },
+    {
+      "type": "respondent",
+      "name": "Wahid Bux"
+    },
+    {
+      "type": "respondent",
+      "name": "H.C. Ali Bux"
+    },
+    {
+      "type": "respondent",
+      "name": "Zahid"
+    },
+    {
+      "type": "respondent",
+      "name": "Ahsan"
+    },
+    {
+      "type": "respondent",
+      "name": "Wahid Bux"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

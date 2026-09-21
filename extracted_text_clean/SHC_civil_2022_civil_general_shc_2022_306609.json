@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "Misc. No.10741/2022",
   "date_of_order": "23.02.2026",
-  "judge": "JUDGE Shahzad Soomro",
-  "sections_cited": [],
+  "judge": "Shahzad Soomro",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Dhani Bux Lashari",
+    "Ms. Humaira Jatoi",
+    "Mr. Abdul Razak",
+    "Mr. Abdul Jalil Zubedi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

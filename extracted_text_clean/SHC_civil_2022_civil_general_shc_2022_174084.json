@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No. 222 of 2022",
-  "date_of_order": "",
+  "date_of_order": "12.04.2022",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aijaz Ali Siyal",
+    "Mr. Talib Ali Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

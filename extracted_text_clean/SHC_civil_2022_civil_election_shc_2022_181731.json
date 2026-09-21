@@ -9,14 +9,22 @@
   "case_number": "Constitutional Petition No.D-839 of 2023",
   "date_of_order": "14.02.2023",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2011 YLR 2899",
     "2011 SCMR 374",
     "2004 SCMR 1299",
     "PLD 2013 SC 413"
   ],
-  "parties": [],
+  "parties": [
+    "Sarfraz Hussain",
+    "Province of Sindh",
+    "Dawood University of Engineering and Technology Karachi",
+    "Syed Shafqat Hussain Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

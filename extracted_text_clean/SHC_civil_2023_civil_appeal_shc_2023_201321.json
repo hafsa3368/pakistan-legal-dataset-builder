@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Criminal Acquittal Appeal No. 803 of 2022",
+  "case_number": "",
   "date_of_order": "09.08.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Waseem Akhtar",
+    "Ms. Rubina Qadir",
+    "Learned counsel for the appellant",
+    "Learned Deputy P.G, Sindh",
+    "Appellant",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

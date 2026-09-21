@@ -8,12 +8,23 @@
   "num_chunks": 3,
   "case_number": "Criminal Misc. Application No. 388 of 2022",
   "date_of_order": "27.07.2022",
-  "judge": "",
+  "judge": "Ajab Khan Khattak",
   "sections_cited": [
     "Section 397 and 34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ajab Khan Khattak",
+    "Mr. Zahoor Shah",
+    "SIP Niaz Hussain",
+    "SIP Iftikhar Ahmed",
+    "SIP Ghulam Akbar",
+    "Malik Shahbaz Alam",
+    "Muhammad Ahsan alias Altaf",
+    "Muhammad Yaseen",
+    "Pakistan Rangers",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,19 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. A. No.S-",
+  "case_number": "",
   "date_of_order": "28.02.2022",
   "judge": "",
   "sections_cited": [
     "sections 302, 506/2 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Habib Ali Leghari, Advocate for the applicants",
+    "Ms. Rameshan Oad, A.P.G",
+    "Mr. Manzoor Ali Leghari Advocate for respondent No.3",
+    "Ali Asghar V SHO P.S Phulji and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

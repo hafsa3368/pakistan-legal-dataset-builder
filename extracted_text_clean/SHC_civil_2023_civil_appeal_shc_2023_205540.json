@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Civil Appeal No. 214 of 2017",
   "date_of_order": "11 May 2023",
-  "judge": "",
+  "judge": "Name Not Available",
   "sections_cited": [
     "Section 100 of the Code",
     "Section 3",
@@ -18,7 +18,17 @@
     "2020 SCMR 197",
     "2021 SCMR 1480"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shahid Memon",
+    "Zeenat Jamal",
+    "Ghyasussdin Ahmed",
+    "Ehasanullah Khan",
+    "Sami Uddin Ahmed",
+    "Samina",
+    "Rukhsana Haq",
+    "Asad Salahuddin",
+    "Sonia Salahuddin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

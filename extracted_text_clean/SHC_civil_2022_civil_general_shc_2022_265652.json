@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "Criminal Miscellaneous Application No.426/2022",
   "date_of_order": "14.05.2025",
-  "judge": "JUDGE Tufail",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 147, 148, 149, 504, 337Ai, 337Aii, 337Fi PPC",
+    "u/s 173 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ismail Bhutto, Additional A.G, Sindh",
+    "Inspector Amir Hussain",
+    "SSP Jamhoro",
+    "SIP Sikandar Ali SHO PS Jhangra",
+    "SIP Zahid Hussain SHO PS Site Kotri",
+    "Dr. Syed Fiaz ul Hassan Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

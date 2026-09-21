@@ -8,10 +8,19 @@
   "num_chunks": 4,
   "case_number": "Const. Petition No.D-1435 of 2023",
   "date_of_order": "18.05.2021",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Iqra Bibi",
+    "09 others",
+    "P.O. Sindh",
+    "M/s Mehfooz Ahmed Awan",
+    "Ateeq Rehman Shaikh",
+    "Mr. Zulfiqar Ali Naich",
+    "Dr. M.B. Raja Dharejo",
+    "Deputy Commissioner, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

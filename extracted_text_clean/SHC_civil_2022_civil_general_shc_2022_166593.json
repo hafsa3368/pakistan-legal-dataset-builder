@@ -6,12 +6,17 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C. P. No. D-2853 of 2022",
   "date_of_order": "13.05.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Yousuf Ali Sayeed",
+  "sections_cited": [
+    "Article 199 of the Constitution"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Qudoos Shaikh & another",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

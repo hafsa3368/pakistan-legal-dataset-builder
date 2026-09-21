@@ -6,12 +6,21 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitution Petition No. D-",
+  "case_number": "",
   "date_of_order": "15.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Mohammad Abdur Rahman",
+  "sections_cited": [
+    "Article 199 of the Constitution of Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Babar Ali",
+    "Chairman Federal Public Service Commission, Islamabad",
+    "Mr. Sohail Ahmed Khoso",
+    "Ms. Sanam Pirzada",
+    "Mr. Karim Bux Janwri",
+    "The Federal Public Services Commission"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

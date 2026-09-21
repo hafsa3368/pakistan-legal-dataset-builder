@@ -6,14 +6,25 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "construction thereat. By CMA No. 9875/2021",
+  "case_number": "",
   "date_of_order": "28.02.2005",
   "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 17"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zaheen Cooperative Housing Society",
+    "Province of Sindh",
+    "Sindh Industrial Trading Estate Limited",
+    "Karachi Development Authority",
+    "Nemo",
+    "Muhammad Ishaque",
+    "Imran Ahmed Jagirani",
+    "Ghulam Nabi Jugno",
+    "Muhammad Mehmood Sultan Khan Yousfi",
+    "Malik Muhammad Ahmed Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

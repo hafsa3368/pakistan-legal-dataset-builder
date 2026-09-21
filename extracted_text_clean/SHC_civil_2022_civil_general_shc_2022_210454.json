@@ -6,12 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-2980 of 2021",
   "date_of_order": "26.05.2022",
   "judge": "Aqeel Ahmed Abbasi Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Aqeel Ahmed Abbasi",
+    "Mr. Justice Abdul Mobeen Lakho"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

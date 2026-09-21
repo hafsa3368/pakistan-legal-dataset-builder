@@ -8,14 +8,23 @@
   "num_chunks": 2,
   "case_number": "Criminal Misc. Application No. 399 of 2022",
   "date_of_order": "11.08.2023",
-  "judge": "",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "Section 22-A",
     "Section 154 Cr.P.C",
     "Section 157 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M.A No.8561/2022",
+    "Mr. Umar Farooq, Advocate",
+    "Mr. Zahoor Shah, Addl. Prosecutor General, Sindh",
+    "Mr. Shah Imroz Khan, Advocate for the Respondents",
+    "SHO, P.S Ferozabad, Karachi",
+    "Ex-Officio Justice of Peace",
+    "Ghazala Rehman",
+    "SHO, P.S Ferozabad, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

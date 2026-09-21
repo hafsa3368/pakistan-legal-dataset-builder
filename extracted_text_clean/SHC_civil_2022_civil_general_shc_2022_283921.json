@@ -6,14 +6,37 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.13803/2025",
   "date_of_order": "02.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Section 397 IPC"
+  ],
   "citations": [
     "2022 SCMR 92"
   ],
-  "parties": [],
+  "parties": [
+    "Jahangir Khan Tareen",
+    "Digicom Trading",
+    "Jahangir Khan Tareen",
+    "Digicom Trading",
+    "DCIR",
+    "Digicom Trading",
+    "Mr. Aamir Ali Memon",
+    "Dr. Shah Nawaz Memon",
+    "Digicom Trading",
+    "DCIR",
+    "Jahangir Khan Tareen",
+    "Digicom Trading",
+    "Jahangir Khan Tareen",
+    "Digicom Trading",
+    "DCIR",
+    "Digicom Trading",
+    "Mr. Aamir Ali Memon",
+    "Dr. Shah Nawaz Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

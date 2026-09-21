@@ -6,12 +6,21 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-886 of 2023",
   "date_of_order": "05.09.2023",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Malik Naeem Iqbal and Muhammad Saleem Khaskheli",
+    "Mr. Muzamil Bughio",
+    "Mr. Rafique Ahmed Dahri",
+    "AAG Sindh",
+    "SBCA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

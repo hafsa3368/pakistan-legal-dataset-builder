@@ -20,7 +20,11 @@
     "PLD 2001 SC 549",
     "PLD 1975 SC 506"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Wajid",
+    "Federation of Pakistan",
+    "Pakistan Navy"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

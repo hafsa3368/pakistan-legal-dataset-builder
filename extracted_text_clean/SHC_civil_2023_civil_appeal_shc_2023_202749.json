@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE Irfan Ali",
+  "date_of_order": "13.09.2023",
+  "judge": "Irfan Ali",
   "sections_cited": [
     "Section 5 of the Limitation Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rafiq Ahmed Dahri",
+    "Assistant Advocate General for appellants",
+    "Mr. Jahanzeb Laghari",
+    "advocate for the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

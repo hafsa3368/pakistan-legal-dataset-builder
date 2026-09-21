@@ -8,10 +8,19 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "02.09.2022",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Sunbal and another",
+    "Province of Sindh and others",
+    "Ms. Sanjhan and others",
+    "Province of Sindh and others",
+    "Mst. Shr. Heema and another",
+    "DIG Hyderabad and others",
+    "Mst. Saji and another",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

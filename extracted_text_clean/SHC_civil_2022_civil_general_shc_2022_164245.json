@@ -6,12 +6,15 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P. No. D-2099 of 2022",
   "date_of_order": "14.04.2022",
-  "judge": "",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghayasuddin Qureshi & others",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,22 @@
   "case_number": "",
   "date_of_order": "26.09.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "para No.12 and 17 of 2022 SCMR 1770"
+  ],
   "citations": [
     "2022 SCMR 1770"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Qayyum Arain, Advocate",
+    "Mr. Dareshani Ali Haider",
+    "Nadeem Ashraf",
+    "Deputy Attorney General for Pakistan",
+    "Aadarsh Ahmed of Motorways",
+    "SIP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Crl. Misc. Appl. No. 845 of 2023",
+  "case_number": "",
   "date_of_order": "20.02.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "M.Ali",
+  "sections_cited": [
+    "U/S 22-A & 22-B Cr.PC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Qasim Ali Shah Musavi",
+    "Mr. Shahzado Dreho",
+    "Mr. Shafi Muhammad Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

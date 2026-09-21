@@ -8,10 +8,22 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition No.D-1497 of 2020",
   "date_of_order": "05.08.2020",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Waleed Khanzada",
+  "sections_cited": [
+    "Section 17 CrPC",
+    "u/s 17 Cr.P.C.",
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Haji Muhammad Ismail Advocate",
+    "Province of Punjab",
+    "Conservator of Forest, Faisalabad"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "PNSC",
+    "Mr. Muhammad Nishat Warsi, DAG",
+    "Mr. Khalid Javed, advocate for respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

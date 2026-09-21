@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "criminal case was not",
+  "case_number": "CP No.D-1624 of 2023",
   "date_of_order": "19.01.2026",
   "judge": "Muhammad Saleem Jessar Justice Nisar",
   "sections_cited": [
@@ -26,7 +26,16 @@
     "1998 SCMR 1993",
     "PLD 2010 SC 695"
   ],
-  "parties": [],
+  "parties": [
+    "Saif Ali",
+    "Province of Sindh and others",
+    "Saeed ur Rehman",
+    "the Inspector General of Sindh Police and others",
+    "Usman",
+    "Province of Sindh and others",
+    "Haseeb",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

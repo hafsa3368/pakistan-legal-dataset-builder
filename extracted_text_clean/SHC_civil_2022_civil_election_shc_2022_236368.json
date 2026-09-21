@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "14th July, 2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Niazuddin N. Memon, Advocate",
+    "Mr. Badaruddin Memon, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-4795 of 2025",
   "date_of_order": "03.10.2025",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Yousuf Ali Sayeed",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Iftikhar Ahmed",
+    "P.O Sindh and others",
+    "Altaf Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

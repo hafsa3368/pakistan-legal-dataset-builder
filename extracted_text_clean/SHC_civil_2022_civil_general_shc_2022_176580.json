@@ -6,12 +6,22 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-885 of 2022",
   "date_of_order": "26.12.2022",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Agha Waqar Ahmed",
+    "Mr. Ayaz Ali Rajpar",
+    "Ms. Sana Memon",
+    "ASI Muhammad Saleh Pinjoro",
+    "SHO Khipro",
+    "Learned AAG",
+    "JUDGE Ali Haider"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitution Petition Nos",
+  "case_number": "",
   "date_of_order": "17-10-2024",
   "judge": "Adnan Iqbal Chaudhry Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Riaz Ahmed Jalbani & 02 others",
+    "Province of Sindh & 02 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

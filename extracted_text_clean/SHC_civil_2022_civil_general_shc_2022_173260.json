@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "26.09.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Hussain",
+    "Province of Sindh and others",
+    "Mir Muhammad Kumbhar",
+    "Province of Sindh and others",
+    "Ghulam Shabbir Kubar",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

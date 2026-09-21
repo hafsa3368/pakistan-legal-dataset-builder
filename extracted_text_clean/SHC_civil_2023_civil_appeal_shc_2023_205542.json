@@ -8,7 +8,7 @@
   "num_chunks": 21,
   "case_number": "Civil Revision. No. 19 of 2021",
   "date_of_order": "29.07.2010",
-  "judge": "",
+  "judge": "MOHAMMAD ABDUR RAHMAN",
   "sections_cited": [
     "Section 115 of the Code",
     "sections 7, 41 and 54",
@@ -32,7 +32,20 @@
     "PLD 2011 Khi 400",
     "PLD 1989 SC 503"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "appellant": "Bhart Lal",
+      "represented by": "Mr. Hamza H. Hidayatullah & Ms. Omrazia Nadeem, Advocates"
+    },
+    {
+      "respondent": "Muhammad Yousuf Polani",
+      "represented by": "Syed Ehsan Raza, Advocate"
+    },
+    {
+      "respondent": "Yaqoob Polani",
+      "represented by": "Syed Ehsan Raza, Advocate"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

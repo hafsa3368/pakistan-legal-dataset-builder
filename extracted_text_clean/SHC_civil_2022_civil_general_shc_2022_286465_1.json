@@ -6,15 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Petition No. D",
+  "case_number": "",
   "date_of_order": "16.10.2025",
-  "judge": "JUDGE",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 23",
     "Section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Nisar Moral & another",
+    "NAB & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

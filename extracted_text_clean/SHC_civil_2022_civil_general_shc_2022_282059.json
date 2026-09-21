@@ -6,15 +6,22 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "C.P No.D-5954 of 2022",
   "date_of_order": "02.09.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2016 SCMR 859",
     "2017 SCMR 890"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Rafiq",
+    "Federation of Pakistan and others",
+    "Malik Naeem Iqbal",
+    "Ms. Wajiha M. Mehdi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

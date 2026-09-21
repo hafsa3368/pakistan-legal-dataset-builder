@@ -6,12 +6,15 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-2920 of 2022",
   "date_of_order": "12.08.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Arshad Khan Tanoli, advocate for the respondents No.4 to 13",
+    "Mr. Ali Safdar Depar, AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

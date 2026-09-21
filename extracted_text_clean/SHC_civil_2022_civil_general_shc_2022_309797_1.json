@@ -8,12 +8,31 @@
   "num_chunks": 11,
   "case_number": "Constitutional Petition No. D-1406 of 2022",
   "date_of_order": "08.04.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973",
+    "Para 114"
+  ],
   "citations": [
     "2015 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Rauf Kanhar",
+    "Province of Sindh",
+    "Naib Ali Bhanbhan",
+    "Province of Sindh",
+    "Hussain Bux Sario",
+    "Abdul Abdul Salam Memo",
+    "Dr. Shahnawaz Memo",
+    "Irfan Mir Halepota",
+    "Imtiaz Ali Malik",
+    "Salim Raza Soomro",
+    "Samina Mumtaz",
+    "Abdul Jalil Zubedi",
+    "AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

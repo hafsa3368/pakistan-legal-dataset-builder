@@ -6,12 +6,15 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-3738 of 2017",
   "date_of_order": "11.01.2022",
-  "judge": "JUDGE Saleem",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Yasir Ahmed Shah, Advocate for petitioner",
+    "Mr. Rajinder Kumar, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

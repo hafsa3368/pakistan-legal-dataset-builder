@@ -8,10 +8,19 @@
   "num_chunks": 2,
   "case_number": "Constitution Petition No.D-1982 of 2024",
   "date_of_order": "07.05.2024",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui Justice Ms",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Sabir",
+    "Khawar Bashir and others",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Justice Ms. Sana Akram Minhas",
+    "Mr. Moulvi Iqbal Haider",
+    "Muhammad Shafi Siddiqui, J."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

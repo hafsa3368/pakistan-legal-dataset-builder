@@ -7,13 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Appeal No. 661 of 2018",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "09.05.2023",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 342 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M.A. Kazi and Irshad Ali Jatoi",
+    "Ms. Robina Qadir",
+    "Omar Sial"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

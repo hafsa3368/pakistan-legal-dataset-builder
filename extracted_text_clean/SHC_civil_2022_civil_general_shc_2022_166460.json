@@ -6,9 +6,9 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitution even otherwise does not",
+  "case_number": "C.P No. D-2997 of 2022",
   "date_of_order": "17.05.2022",
-  "judge": "",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "section 221 of The Companies Act",
     "Section 286",
@@ -17,7 +17,11 @@
     "Sections 304 and 308"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shamim Feroz",
+    "Faisal Feroz",
+    "Abdul Moiz Jafferi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

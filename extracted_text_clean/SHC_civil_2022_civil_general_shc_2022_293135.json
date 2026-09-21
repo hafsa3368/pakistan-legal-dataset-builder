@@ -6,12 +6,19 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No.D-1979 of 2022",
   "date_of_order": "20.11.2025",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farooq",
+    "The Province of Sindh and Others",
+    "Mr. Muhammad Akhtar Ali",
+    "Mr. Rafique Ahmed Dahri",
+    "Assistant A.G Sindh",
+    "Assistant Education Officer Primary Badin (Shahzad Ali Jat)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

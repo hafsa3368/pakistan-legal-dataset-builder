@@ -6,12 +6,21 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "constructed by respondent No.6",
+  "case_number": "",
   "date_of_order": "01.09.2022",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Anjuman-e-Imamia",
+    "Province of Sindh",
+    "Mr. Abdul Aziz Advocate",
+    "Mr. Samiullah Rind",
+    "Mr. Zaheeruddin Sehto",
+    "Mr. Allah Bachayo Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,19 @@
   "case_number": "Civil Petitions No.966-K",
   "date_of_order": "09.10.2025",
   "judge": "Muhammad Saleem Jessar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Sindh Empowerment of Persons with Disabilities Act, 2018"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khair Muhammad",
+    "P.O. Sindh & others",
+    "Zubair Ahmed Kalhoro",
+    "Liaquat Ali Shar",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

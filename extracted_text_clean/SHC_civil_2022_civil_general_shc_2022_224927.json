@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "14.01.2025",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "sections 73 and 80 of the Trade Marks Ordinance",
     "sections 17 and 18",
@@ -21,7 +21,12 @@
   "citations": [
     "2022 SCMR 979"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Dr. Mubin Akhtar Hospital",
+    "Dr. Syed Abdur Rehman",
+    "Syed Muhammad Salahuddin",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

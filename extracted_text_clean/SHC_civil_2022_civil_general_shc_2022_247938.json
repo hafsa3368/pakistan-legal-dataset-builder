@@ -6,12 +6,21 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-551 of 2023",
   "date_of_order": "28.02.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mazhar-ul-Haq",
+    "Mr. Khurram Nabi",
+    "Mr. Ameeruddin",
+    "Mr. Sandeep Malani",
+    "Mr. Mubarak Ali",
+    "Director Marketing, PHS, KDA",
+    "D.G., KDA",
+    "P.S. TO Director ACE/Enquiries, Govt. of Sindh, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

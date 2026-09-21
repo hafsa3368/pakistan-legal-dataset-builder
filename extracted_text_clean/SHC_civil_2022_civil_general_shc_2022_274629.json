@@ -6,12 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil Revision Application No.S-",
+  "case_number": "",
   "date_of_order": "06.03.2025",
   "judge": "Adnan Ashraf Nizamani",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Farhan Ahmed Bozdar",
+    "Mr. Ayaz Rajpar, A.A.G. Sindh",
+    "Mr. Mehboob Ali Siyal, Secretary Board of Revenue, Hyderabad",
+    "Mr. Mushtaque Ahmed Zardar, D.F.O Khipro",
+    "Mr. Pirano Khan Mukhtiarkar Khipro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

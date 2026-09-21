@@ -6,12 +6,17 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-7107 of 2022",
   "date_of_order": "27.08.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "NBP",
+    "Ms. Wajiha M. Mehdi",
+    "Assistant Attorney General",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

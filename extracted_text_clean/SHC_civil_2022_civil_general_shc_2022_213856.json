@@ -7,13 +7,28 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Constitution Petition No. D-273 of 2024",
-  "date_of_order": "",
+  "date_of_order": "02-05-2024",
   "judge": "Karim Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Rule 11-A of Sindh Civil Servants (Appointment, Promotion and Transfer) Rules, 1974",
+    "Sindh Police “Shaheed, deceased, invalidated or incapacitated quota’ recruitment Rules 2021"
+  ],
   "citations": [
     "2018 SCMR 1607"
   ],
-  "parties": [],
+  "parties": [
+    "Naveed Ali Siyal",
+    "Province of Sindh",
+    "Home Department Government of Sindh",
+    "Inspector Rajib Ali Maitlo",
+    "Police Line Naushahro Feroz",
+    "Asfandayar Kharal",
+    "Rizwana Jabeen Siddiqui",
+    "Muhammad Abdur Rahman",
+    "Adnan-ul-Karim Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

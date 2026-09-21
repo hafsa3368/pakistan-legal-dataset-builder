@@ -11,7 +11,13 @@
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "petitioner",
+    "Mr. Aurangzeb, advocate for the petitioner",
+    "Mr. Abdus Samad Khan, AD (Legal) NADRA",
+    "Ms. Alizeh Bashir, Assistant Attorney General",
+    "Mr. Sandeep Malani, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

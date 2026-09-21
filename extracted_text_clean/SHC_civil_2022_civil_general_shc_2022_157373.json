@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "10-02-2022",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Amir Ali Bhutto",
+    "Mr. Shafi Muhammad Chandio",
+    "Aijaz Hussain Rajput"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

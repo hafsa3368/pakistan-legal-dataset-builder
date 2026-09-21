@@ -6,12 +6,20 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-112 of 2021",
   "date_of_order": "03.08.2022",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Habibullah G. Ghouri",
+    "Mr. Abdul Hamid Bhurgri",
+    "Abdul Rasheed Abro",
+    "District Accounts Officer, Jacobabad",
+    "Sikandar Hussain",
+    "Secretary to the Government of Sindh, Finance Department",
+    "Government of Sindh, Finance Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

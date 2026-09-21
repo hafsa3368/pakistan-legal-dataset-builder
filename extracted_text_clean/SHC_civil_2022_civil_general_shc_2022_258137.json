@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1261 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "date_of_order": "16.01.2024",
+  "judge": "Sulemen Khan",
+  "sections_cited": [
+    "Section 3 of the Fundamental Rights Ordinance, 1973",
+    "Section 16 of the Employment Act, 2009"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Alam Sher Bozdar and Tariq Abdur Rauf Simair",
+    "Mr. Nazeer Ahmed Chachar",
+    "Mr. Ali Raza Baloch",
+    "Mehboob Ali Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

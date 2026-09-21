@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Constitution Petition No. D-1530 of 2023",
   "date_of_order": "23 April 2024",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman",
   "sections_cited": [
     "section 20",
     "Section 20",
@@ -20,7 +20,10 @@
   "citations": [
     "PLD 2016 SC 808"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Salma Shaikh",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

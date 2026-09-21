@@ -6,12 +6,25 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No. D-7047 of 2021",
   "date_of_order": "11.08.2025",
-  "judge": "JUDGE Jamil",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faiz Durrani",
+    "Mr. K.A. Vaswani",
+    "Mr. Ali Asghar Mahar",
+    "Mr. Ghulam Akbar Lashari",
+    "Mr. Akhtar Ali Mastoi",
+    "Mr. Tatheera Fatima",
+    "SBCA",
+    "BOR",
+    "K-Electric"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

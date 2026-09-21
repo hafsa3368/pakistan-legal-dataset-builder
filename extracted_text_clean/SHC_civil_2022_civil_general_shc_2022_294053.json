@@ -6,12 +6,15 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Pett No.D-327 of 2022",
+  "case_number": "",
   "date_of_order": "15.09.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Mujeeb Shaikh",
+    "Syed Naveed Ahmed Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,27 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Constitution Petition No. D-1674 of 2023",
-  "date_of_order": "",
+  "date_of_order": "21-05-2024",
   "judge": "Karim Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 1607"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Raza Laghari",
+    "Province of Sindh",
+    "Mr. Shafique Ahmed Leghair",
+    "Assistant Advocate General, Sindh",
+    "Inspector Akhtar Pathan",
+    "DIG Sukkur",
+    "Inspector Ghulam Shabbir",
+    "SSP Ghotki",
+    "Meer Ahmed",
+    "Muhammad Taqi Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

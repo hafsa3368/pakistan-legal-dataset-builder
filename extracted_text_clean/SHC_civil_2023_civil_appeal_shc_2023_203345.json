@@ -6,14 +6,24 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-1274 of 2023",
   "date_of_order": "23.06.2023",
-  "judge": "JUDGE Irfan Ali",
+  "judge": "Irfan Ali",
   "sections_cited": [
     "Section 8 of Isra Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Almani",
+    "Mr. Allah Bachayo Soomro",
+    "Mr. Rafique Ahmed Dahri",
+    "Mr. Ovais Ali Shah",
+    "Mr. Omer Memon",
+    "DSP Ghulam Nabi Khoso",
+    "DSP Muhammad Paryal Morio",
+    "SIP Mirzo Khan",
+    "Mr. Ahmed Waliullah Kazi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

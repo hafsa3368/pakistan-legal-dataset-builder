@@ -6,12 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-4326 of 2019",
   "date_of_order": "13.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Qazi Umair Ali",
+    "Mr. Kashif Nazeer",
+    "Mr. Faheem Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

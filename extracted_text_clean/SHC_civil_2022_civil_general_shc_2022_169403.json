@@ -6,14 +6,25 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitution Petition No.D-",
+  "case_number": "",
   "date_of_order": "03.08.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2014 SCMR 353"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Usman Aheer and others",
+    "The State",
+    "Muhammad Yousif Magsi",
+    "Mr. Muhammad Afzal Jagirani",
+    "Abdul Hamid Bhurgri",
+    "Ghary Distry",
+    "Kur-Datto",
+    "Khatedars"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

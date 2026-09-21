@@ -6,12 +6,16 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.344 of 2023",
   "date_of_order": "19.10.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Amjad Ali & others",
+    "Bahria Town Private Ltd. & others",
+    "Mr. Muhammad Osama Asif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

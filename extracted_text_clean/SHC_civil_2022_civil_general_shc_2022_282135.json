@@ -8,10 +8,22 @@
   "num_chunks": 9,
   "case_number": "Const. Petition No.D-84 of 2023",
   "date_of_order": "13th April, 2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Zulfiqar Ali Sangi",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Article 25-A of the Constitution of Pakistan"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Illahi Bux Jamali",
+    "Mr. Ali Raza Balouch",
+    "Government of Sindh",
+    "Mr. Muhammad Ali Sangi",
+    "Chief Minister’s Inspection, Enquiries and Implementation Team",
+    "School Education and Literacy Department",
+    "Chief Secretary, Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

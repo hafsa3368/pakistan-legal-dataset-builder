@@ -6,7 +6,7 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "Constitutional Jurisdiction of this Court cannot",
+  "case_number": "",
   "date_of_order": "08.02.2022",
   "judge": "Aftab Ahmed Gorar Mr",
   "sections_cited": [
@@ -25,7 +25,19 @@
     "PLD 1997 SC 835",
     "PLD 2012 SC 292"
   ],
-  "parties": [],
+  "parties": [
+    "Ary Communications Limited",
+    "Federation of Pakistan",
+    "Recorder Television Network (Pvt.) Ltd.",
+    "M/s. Apna TV Channel (Pvt.) Ltd.",
+    "Matloob Tahir",
+    "Ali Asadullah Bullo",
+    "Kashif Hanif",
+    "Usama Tariq",
+    "Muhammad Haseeb Jamali",
+    "Khaleeq Ahmed",
+    "Hania"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

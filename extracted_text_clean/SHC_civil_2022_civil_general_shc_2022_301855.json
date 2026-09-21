@@ -6,12 +6,17 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitutional Petition No. D-",
+  "case_number": "C.P No.D-3422 of 2022",
   "date_of_order": "27.11.2025",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Riaz Hussain Shaikh",
+    "Province of Sindh and Others",
+    "Aijaz Hussain Shaikh",
+    "The Learned Anti-Encroachment Tribunal Hyderabad and Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

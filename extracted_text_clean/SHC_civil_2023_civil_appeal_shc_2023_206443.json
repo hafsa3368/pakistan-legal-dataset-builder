@@ -6,12 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.439 of 2022",
   "date_of_order": "24.11.2023",
-  "judge": "",
+  "judge": "Malik Waseem Iqbal",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aamir Baqi",
+    "Province of Sindh",
+    "KDA",
+    "defendant No.7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

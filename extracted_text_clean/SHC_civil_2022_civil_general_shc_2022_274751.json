@@ -6,12 +6,21 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No.S-491 of 2025",
   "date_of_order": "02.07.2025",
   "judge": "Ayaz Gul",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 365/34 PPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Karim Bux Rind",
+    "Mr. Ali Haider Saleem",
+    "Mr. Shariq Mubashir",
+    "DSP Raza Mian",
+    "DSP Qadir Bux Khaskheli",
+    "ASI Muhammad Faisal Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

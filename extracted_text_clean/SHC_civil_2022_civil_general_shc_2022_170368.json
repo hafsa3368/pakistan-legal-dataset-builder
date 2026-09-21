@@ -6,12 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D-4927 of 2022",
   "date_of_order": "31.08.2022",
-  "judge": "CHIEF JUSTICE TariqAli/PA",
+  "judge": "CHIEF JUSTICE TariqAli",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Wahab Baloch",
+    "Mr. Jamil Ahmed Shah",
+    "Muhammad Imran Qureshi",
+    "Yousuf Ali Sayeed",
+    "TariqAli/PA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.233",
   "date_of_order": "17.10.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pakistan Petroleum Ltd.",
+    "SPEC Energy DMCC",
+    "Mr. Fahad Khan",
+    "Mr. Umer Memon",
+    "Mr. Adil Saeed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

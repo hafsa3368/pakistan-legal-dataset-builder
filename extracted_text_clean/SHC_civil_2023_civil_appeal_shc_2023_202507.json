@@ -6,14 +6,21 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Civil Suit filed by Respondent No. 1",
+  "case_number": "H.C.A. No. 300",
   "date_of_order": "04.09.2023",
   "judge": "Muhammad Junaid Ghaffar Justice Ms",
   "sections_cited": [
     "Section 258 of the Companies Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The Securities & Exchange Commission of Pakistan",
+    "Cnergyico PK Limited",
+    "SECP",
+    "Respondent No. 1",
+    "Respondent No. 2",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,18 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No. 4209 of 2025",
   "date_of_order": "01.10.2025",
-  "judge": "JUDGE",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 23",
     "Section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "I.G. General Trading",
+    "Province of Sindh & Others",
+    "Mr. Salman Hamid",
+    "Mr. Moazam Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

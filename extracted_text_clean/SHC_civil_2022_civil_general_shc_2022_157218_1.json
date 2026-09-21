@@ -9,9 +9,15 @@
   "case_number": "",
   "date_of_order": "12-01-2022",
   "judge": "Muhammad Junaid Ghaffar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mehrab Ali Gadani",
+    "P.O. Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

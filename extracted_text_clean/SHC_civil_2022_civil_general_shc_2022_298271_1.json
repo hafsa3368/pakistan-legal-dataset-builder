@@ -8,10 +8,20 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "27.11.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Sarwat Afza",
+    "Province of Sindh",
+    "Mr. Khalil Ahmed Unar",
+    "Mr. Rafique Ahmed Dahri",
+    "Assistant A.G. Sindh a/w Regional Director Colleges Hyderabad",
+    "Professor Mustafa Kamal Pathan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

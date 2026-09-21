@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "15.11.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Alam Sher Bozdar",
+    "petitioner",
+    "Director General, Agricultural Engineering Sindh",
+    "Chairman of Collective Bargaining Agent (CBA)",
+    "respondent No.7",
+    "Agricultural Engineering Unit Salehpat of Sukkur Division"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

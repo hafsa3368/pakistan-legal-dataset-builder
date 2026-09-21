@@ -9,9 +9,19 @@
   "case_number": "Civil Petitions No.966-K",
   "date_of_order": "09.10.2025",
   "judge": "Muhammad Saleem Jessar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Saleem Jessar",
+    "Mr. Justice Nisar Ahmed Bhanbhro",
+    "Mr. Aamir Ali Sohoo",
+    "Mr. Liaquat Ali Shar",
+    "P.O. Sindh & others",
+    "Ayaz Ali Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

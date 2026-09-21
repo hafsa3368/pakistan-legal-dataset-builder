@@ -6,12 +6,18 @@
   "year": "2022",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "MA No.11675 of 2022",
+  "date_of_order": "13-08-2022",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "ARY Communications Ltd.",
+    "Federation of Pakistan",
+    "M/s. Abid S. Zuberi, Ayan Mustafa Memon, Amna Khalil and Arif Ansari",
+    "M/s. Khawaja Shams-ul-Islam and Kashif Hanif",
+    "Mr. Khaliq Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

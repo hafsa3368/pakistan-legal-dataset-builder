@@ -8,10 +8,25 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "23.09.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of Islamic Republic of Pakistan",
+    "Section 497 CrPC",
+    "CP No.D-2149/2018"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh and others",
+    "Muhammad Younis v. Province of Sindh and others",
+    "Maqbool Ahmed and others v. Province of Sindh and others",
+    "Santosh and another v. Province of Sindh and others",
+    "Sultan Joyo v. Province of Sindh and others",
+    "Shr. Bhori and another v. Province of Sindh and others",
+    "Abdul Ghani Kaloi v. Province of Sindh and others",
+    "Mr. Mumtaz Alam Leghari, Advocate for petitioners",
+    "Mr. Muhammad Ismail Bhutto, Addl. A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

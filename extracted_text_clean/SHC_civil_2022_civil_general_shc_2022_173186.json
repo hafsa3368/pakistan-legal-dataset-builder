@@ -8,10 +8,29 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "30.09.2022",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of Islamic Republic of Pakistan"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Rukhsana and another",
+    "Province of Sindh and others",
+    "Mst. Anam and another",
+    "Province of Sindh and others",
+    "Mst. Zahidan @ Zehran and another",
+    "Province of Sindh and others",
+    "Mst. Khalidan and another",
+    "Province of Sindh and others",
+    "Mst. Muskan and another",
+    "Province of Sindh and others",
+    "Mst. Gufrana and another",
+    "Province of Sindh and others",
+    "Mr. Muhammad Saleem Leghari and Miss Abida Parveen",
+    "Mr. Muhammad Ismail Bhutto, Additional A.G",
+    "SIP Sabir Hussain SHO PS Sakrand"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
