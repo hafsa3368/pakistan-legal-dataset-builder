@@ -11997,3 +11997,294 @@
 2026-09-20 20:42:05,262 | INFO | Upserted batch of 50 points. Total: 197927
 2026-09-20 20:44:12,663 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
 2026-09-20 20:44:12,884 | INFO | Upserted batch of 50 points. Total: 197977
+2026-09-21 04:52:20,235 | INFO | Resuming with 197977 chunks already processed.
+2026-09-21 04:52:20,251 | INFO | Loaded 27005 repaired filenames to process.
+2026-09-21 04:52:24,708 | INFO | HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-09-21 04:52:24,747 | INFO | HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-09-21 04:52:26,761 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-21 04:52:28,855 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-21 04:52:30,907 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-21 04:52:32,951 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-21 04:52:34,985 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-21 04:52:37,038 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-21 04:52:37,352 | INFO | Found 58469 total JSON files in extracted_text_clean
+2026-09-21 04:52:37,370 | INFO | Filtered to 27005 repaired files (per repair_checkpoint.json)
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_11] Chunk text too long (20513 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_32] Chunk text too long (20544 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_33] Chunk text too long (22944 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_34] Chunk text too long (24224 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_35] Chunk text too long (26624 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_36] Chunk text too long (27798 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_37] Chunk text too long (30200 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_38] Chunk text too long (31211 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_39] Chunk text too long (33614 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_40] Chunk text too long (35008 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_41] Chunk text too long (37412 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_42] Chunk text too long (39067 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_43] Chunk text too long (33454 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_44] Chunk text too long (35859 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_53] Chunk text too long (20089 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_55] Chunk text too long (21268 chars), truncating to 20000.
+2026-09-21 04:59:30,295 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_56] Chunk text too long (23004 chars), truncating to 20000.
+2026-09-21 04:59:30,543 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_10] Chunk text too long (20318 chars), truncating to 20000.
+2026-09-21 04:59:30,543 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_11] Chunk text too long (20990 chars), truncating to 20000.
+2026-09-21 04:59:30,543 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_12] Chunk text too long (23392 chars), truncating to 20000.
+2026-09-21 04:59:30,548 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_13] Chunk text too long (24610 chars), truncating to 20000.
+2026-09-21 04:59:30,549 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_32] Chunk text too long (21264 chars), truncating to 20000.
+2026-09-21 04:59:30,549 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_33] Chunk text too long (22207 chars), truncating to 20000.
+2026-09-21 04:59:30,549 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_34] Chunk text too long (24611 chars), truncating to 20000.
+2026-09-21 04:59:30,550 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_35] Chunk text too long (26008 chars), truncating to 20000.
+2026-09-21 04:59:30,550 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_36] Chunk text too long (28410 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_37] Chunk text too long (29977 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_38] Chunk text too long (32377 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_39] Chunk text too long (34071 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_40] Chunk text too long (36473 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_41] Chunk text too long (38021 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_42] Chunk text too long (40423 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_43] Chunk text too long (41745 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_44] Chunk text too long (44148 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_45] Chunk text too long (45606 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_46] Chunk text too long (48009 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_47] Chunk text too long (49426 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_48] Chunk text too long (51830 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_49] Chunk text too long (53077 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_50] Chunk text too long (55478 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_51] Chunk text too long (57386 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_52] Chunk text too long (59788 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_53] Chunk text too long (61218 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_54] Chunk text too long (63618 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_55] Chunk text too long (65137 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_56] Chunk text too long (67542 chars), truncating to 20000.
+2026-09-21 04:59:30,551 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_57] Chunk text too long (69899 chars), truncating to 20000.
+2026-09-21 04:59:30,559 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_58] Chunk text too long (72300 chars), truncating to 20000.
+2026-09-21 04:59:30,559 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_59] Chunk text too long (74062 chars), truncating to 20000.
+2026-09-21 04:59:30,559 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_60] Chunk text too long (75298 chars), truncating to 20000.
+2026-09-21 04:59:30,559 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_61] Chunk text too long (77588 chars), truncating to 20000.
+2026-09-21 04:59:30,559 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_62] Chunk text too long (79989 chars), truncating to 20000.
+2026-09-21 04:59:30,559 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_63] Chunk text too long (80333 chars), truncating to 20000.
+2026-09-21 04:59:30,559 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_64] Chunk text too long (82738 chars), truncating to 20000.
+2026-09-21 04:59:30,559 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_65] Chunk text too long (85141 chars), truncating to 20000.
+2026-09-21 04:59:30,559 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_66] Chunk text too long (87232 chars), truncating to 20000.
+2026-09-21 04:59:30,863 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_10] Chunk text too long (20318 chars), truncating to 20000.
+2026-09-21 04:59:30,863 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_11] Chunk text too long (20990 chars), truncating to 20000.
+2026-09-21 04:59:30,863 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_12] Chunk text too long (23392 chars), truncating to 20000.
+2026-09-21 04:59:30,863 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_13] Chunk text too long (24610 chars), truncating to 20000.
+2026-09-21 04:59:30,863 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_32] Chunk text too long (21264 chars), truncating to 20000.
+2026-09-21 04:59:30,863 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_33] Chunk text too long (22207 chars), truncating to 20000.
+2026-09-21 04:59:30,863 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_34] Chunk text too long (24611 chars), truncating to 20000.
+2026-09-21 04:59:30,870 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_35] Chunk text too long (26008 chars), truncating to 20000.
+2026-09-21 04:59:30,870 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_36] Chunk text too long (28410 chars), truncating to 20000.
+2026-09-21 04:59:30,870 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_37] Chunk text too long (29977 chars), truncating to 20000.
+2026-09-21 04:59:30,871 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_38] Chunk text too long (32377 chars), truncating to 20000.
+2026-09-21 04:59:30,871 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_39] Chunk text too long (34071 chars), truncating to 20000.
+2026-09-21 04:59:30,872 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_40] Chunk text too long (36473 chars), truncating to 20000.
+2026-09-21 04:59:30,872 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_41] Chunk text too long (38021 chars), truncating to 20000.
+2026-09-21 04:59:30,872 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_42] Chunk text too long (40423 chars), truncating to 20000.
+2026-09-21 04:59:30,873 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_43] Chunk text too long (41745 chars), truncating to 20000.
+2026-09-21 04:59:30,873 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_44] Chunk text too long (44148 chars), truncating to 20000.
+2026-09-21 04:59:30,874 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_45] Chunk text too long (45606 chars), truncating to 20000.
+2026-09-21 04:59:30,874 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_46] Chunk text too long (48009 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_47] Chunk text too long (49426 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_48] Chunk text too long (51830 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_49] Chunk text too long (53077 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_50] Chunk text too long (55478 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_51] Chunk text too long (57386 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_52] Chunk text too long (59788 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_53] Chunk text too long (61218 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_54] Chunk text too long (63618 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_55] Chunk text too long (65137 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_56] Chunk text too long (67542 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_57] Chunk text too long (69899 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_58] Chunk text too long (72300 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_59] Chunk text too long (74062 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_60] Chunk text too long (75298 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_61] Chunk text too long (77588 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_62] Chunk text too long (79989 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_63] Chunk text too long (80333 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_64] Chunk text too long (82738 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_65] Chunk text too long (85141 chars), truncating to 20000.
+2026-09-21 04:59:30,875 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_66] Chunk text too long (87232 chars), truncating to 20000.
+2026-09-21 05:02:19,137 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:02:19,435 | INFO | Upserted batch of 50 points. Total: 198027
+2026-09-21 05:04:32,343 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:04:32,547 | INFO | Upserted batch of 50 points. Total: 198077
+2026-09-21 05:06:50,329 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:06:50,479 | INFO | Upserted batch of 50 points. Total: 198127
+2026-09-21 05:09:09,346 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:09:09,469 | INFO | Upserted batch of 50 points. Total: 198177
+2026-09-21 05:11:24,139 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:11:24,285 | INFO | Upserted batch of 50 points. Total: 198227
+2026-09-21 05:13:36,178 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:13:36,294 | INFO | Upserted batch of 50 points. Total: 198277
+2026-09-21 05:15:48,007 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:15:48,104 | INFO | Upserted batch of 50 points. Total: 198327
+2026-09-21 05:18:01,906 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:18:02,031 | INFO | Upserted batch of 50 points. Total: 198377
+2026-09-21 05:20:13,812 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:20:13,917 | INFO | Upserted batch of 50 points. Total: 198427
+2026-09-21 05:22:19,687 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:22:19,784 | INFO | Upserted batch of 50 points. Total: 198477
+2026-09-21 05:24:26,681 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:24:26,788 | INFO | Upserted batch of 50 points. Total: 198527
+2026-09-21 05:26:40,532 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:26:40,671 | INFO | Upserted batch of 50 points. Total: 198577
+2026-09-21 05:28:52,429 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:28:52,556 | INFO | Upserted batch of 50 points. Total: 198627
+2026-09-21 05:31:02,364 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:31:02,492 | INFO | Upserted batch of 50 points. Total: 198677
+2026-09-21 05:33:12,716 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:33:12,865 | INFO | Upserted batch of 50 points. Total: 198727
+2026-09-21 05:35:19,251 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:35:19,371 | INFO | Upserted batch of 50 points. Total: 198777
+2026-09-21 05:37:27,742 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:37:27,856 | INFO | Upserted batch of 50 points. Total: 198827
+2026-09-21 05:39:43,542 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:39:43,648 | INFO | Upserted batch of 50 points. Total: 198877
+2026-09-21 05:41:59,338 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:41:59,446 | INFO | Upserted batch of 50 points. Total: 198927
+2026-09-21 05:44:14,305 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:44:14,431 | INFO | Upserted batch of 50 points. Total: 198977
+2026-09-21 05:46:30,711 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:46:30,819 | INFO | Upserted batch of 50 points. Total: 199027
+2026-09-21 05:48:46,072 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:48:46,217 | INFO | Upserted batch of 50 points. Total: 199077
+2026-09-21 05:51:01,703 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:51:01,804 | INFO | Upserted batch of 50 points. Total: 199127
+2026-09-21 05:53:15,831 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:53:15,978 | INFO | Upserted batch of 50 points. Total: 199177
+2026-09-21 05:55:22,153 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:55:22,284 | INFO | Upserted batch of 50 points. Total: 199227
+2026-09-21 05:57:40,869 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:57:41,028 | INFO | Upserted batch of 50 points. Total: 199277
+2026-09-21 05:59:58,538 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 05:59:58,657 | INFO | Upserted batch of 50 points. Total: 199327
+2026-09-21 06:02:12,622 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:02:12,807 | INFO | Upserted batch of 50 points. Total: 199377
+2026-09-21 06:04:24,349 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:04:24,472 | INFO | Upserted batch of 50 points. Total: 199427
+2026-09-21 06:06:33,451 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:06:33,595 | INFO | Upserted batch of 50 points. Total: 199477
+2026-09-21 06:08:44,408 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:08:44,562 | INFO | Upserted batch of 50 points. Total: 199527
+2026-09-21 06:10:55,828 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:10:56,205 | INFO | Upserted batch of 50 points. Total: 199577
+2026-09-21 06:13:10,283 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:13:10,633 | INFO | Upserted batch of 50 points. Total: 199627
+2026-09-21 06:15:22,661 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:15:23,018 | INFO | Upserted batch of 50 points. Total: 199677
+2026-09-21 06:17:35,867 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:17:36,168 | INFO | Upserted batch of 50 points. Total: 199727
+2026-09-21 06:19:48,054 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:19:48,347 | INFO | Upserted batch of 50 points. Total: 199777
+2026-09-21 06:22:01,675 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:22:01,978 | INFO | Upserted batch of 50 points. Total: 199827
+2026-09-21 06:24:19,768 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:24:20,042 | INFO | Upserted batch of 50 points. Total: 199877
+2026-09-21 06:26:36,801 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:26:37,098 | INFO | Upserted batch of 50 points. Total: 199927
+2026-09-21 06:28:47,778 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:28:48,075 | INFO | Upserted batch of 50 points. Total: 199977
+2026-09-21 06:30:59,056 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:30:59,365 | INFO | Upserted batch of 50 points. Total: 200027
+2026-09-21 06:33:12,925 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:33:13,267 | INFO | Upserted batch of 50 points. Total: 200077
+2026-09-21 06:35:24,150 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:35:24,430 | INFO | Upserted batch of 50 points. Total: 200127
+2026-09-21 06:37:39,444 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:37:39,727 | INFO | Upserted batch of 50 points. Total: 200177
+2026-09-21 06:39:58,520 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:39:58,803 | INFO | Upserted batch of 50 points. Total: 200227
+2026-09-21 06:42:19,004 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:42:19,291 | INFO | Upserted batch of 50 points. Total: 200277
+2026-09-21 06:44:42,166 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:44:42,496 | INFO | Upserted batch of 50 points. Total: 200327
+2026-09-21 06:47:09,036 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:47:09,342 | INFO | Upserted batch of 50 points. Total: 200377
+2026-09-21 06:49:37,447 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:49:37,764 | INFO | Upserted batch of 50 points. Total: 200427
+2026-09-21 06:52:04,954 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:52:05,146 | INFO | Upserted batch of 50 points. Total: 200477
+2026-09-21 06:54:33,054 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:54:33,323 | INFO | Upserted batch of 50 points. Total: 200527
+2026-09-21 06:56:55,977 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:56:56,089 | INFO | Upserted batch of 50 points. Total: 200577
+2026-09-21 06:59:09,498 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 06:59:09,634 | INFO | Upserted batch of 50 points. Total: 200627
+2026-09-21 07:01:22,909 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:01:23,036 | INFO | Upserted batch of 50 points. Total: 200677
+2026-09-21 07:03:32,737 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:03:32,838 | INFO | Upserted batch of 50 points. Total: 200727
+2026-09-21 07:05:40,754 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:05:40,877 | INFO | Upserted batch of 50 points. Total: 200777
+2026-09-21 07:07:53,778 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:07:53,936 | INFO | Upserted batch of 50 points. Total: 200827
+2026-09-21 07:10:05,183 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:10:05,293 | INFO | Upserted batch of 50 points. Total: 200877
+2026-09-21 07:12:16,021 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:12:16,142 | INFO | Upserted batch of 50 points. Total: 200927
+2026-09-21 07:14:26,897 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:14:27,015 | INFO | Upserted batch of 50 points. Total: 200977
+2026-09-21 07:16:38,817 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:16:38,912 | INFO | Upserted batch of 50 points. Total: 201027
+2026-09-21 07:18:49,964 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:18:50,062 | INFO | Upserted batch of 50 points. Total: 201077
+2026-09-21 07:21:02,367 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:21:02,475 | INFO | Upserted batch of 50 points. Total: 201127
+2026-09-21 07:23:09,704 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:23:09,859 | INFO | Upserted batch of 50 points. Total: 201177
+2026-09-21 07:25:19,272 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:25:19,377 | INFO | Upserted batch of 50 points. Total: 201227
+2026-09-21 07:27:28,924 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:27:29,076 | INFO | Upserted batch of 50 points. Total: 201277
+2026-09-21 07:29:37,765 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:29:37,866 | INFO | Upserted batch of 50 points. Total: 201327
+2026-09-21 07:31:47,848 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:31:47,963 | INFO | Upserted batch of 50 points. Total: 201377
+2026-09-21 07:33:57,754 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:33:57,873 | INFO | Upserted batch of 50 points. Total: 201427
+2026-09-21 07:36:10,174 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:36:10,305 | INFO | Upserted batch of 50 points. Total: 201477
+2026-09-21 07:38:21,217 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:38:21,338 | INFO | Upserted batch of 50 points. Total: 201527
+2026-09-21 07:40:30,722 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:40:30,838 | INFO | Upserted batch of 50 points. Total: 201577
+2026-09-21 07:42:39,825 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:42:39,941 | INFO | Upserted batch of 50 points. Total: 201627
+2026-09-21 07:44:55,982 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:44:56,115 | INFO | Upserted batch of 50 points. Total: 201677
+2026-09-21 07:47:12,109 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:47:12,211 | INFO | Upserted batch of 50 points. Total: 201727
+2026-09-21 07:49:23,772 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:49:23,893 | INFO | Upserted batch of 50 points. Total: 201777
+2026-09-21 07:51:35,580 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:51:35,710 | INFO | Upserted batch of 50 points. Total: 201827
+2026-09-21 07:53:45,067 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:53:45,180 | INFO | Upserted batch of 50 points. Total: 201877
+2026-09-21 07:55:55,868 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:55:55,978 | INFO | Upserted batch of 50 points. Total: 201927
+2026-09-21 07:58:06,683 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 07:58:06,798 | INFO | Upserted batch of 50 points. Total: 201977
+2026-09-21 08:00:16,886 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 08:00:16,992 | INFO | Upserted batch of 50 points. Total: 202027
+2026-09-21 08:02:25,937 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 08:02:26,049 | INFO | Upserted batch of 50 points. Total: 202077
+2026-09-21 08:04:37,819 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 08:04:37,923 | INFO | Upserted batch of 50 points. Total: 202127
+2026-09-21 08:06:47,785 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 08:06:47,898 | INFO | Upserted batch of 50 points. Total: 202177
+2026-09-21 08:08:59,833 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 08:08:59,944 | INFO | Upserted batch of 50 points. Total: 202227
+2026-09-21 08:11:10,369 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 08:11:10,671 | INFO | Upserted batch of 50 points. Total: 202277
+2026-09-21 08:13:20,334 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 08:13:20,462 | INFO | Upserted batch of 50 points. Total: 202327
+2026-09-21 08:15:32,330 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 08:15:32,487 | INFO | Upserted batch of 50 points. Total: 202377
+2026-09-21 08:17:47,675 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 08:17:47,966 | INFO | Upserted batch of 50 points. Total: 202427
+2026-09-21 08:19:59,910 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 08:20:00,283 | INFO | Upserted batch of 50 points. Total: 202477
+2026-09-21 08:22:13,815 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 08:22:14,116 | INFO | Upserted batch of 50 points. Total: 202527
+2026-09-21 08:24:28,382 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-21 08:24:28,747 | INFO | Upserted batch of 50 points. Total: 202577
