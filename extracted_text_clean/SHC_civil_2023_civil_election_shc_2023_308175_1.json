@@ -6,14 +6,26 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.P. No. D-3492 of 2024",
   "date_of_order": "12.03.2026",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 55"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Abdul Rehman",
+    "Province of Sindh and others",
+    "State Bank of Pakistan Class IV",
+    "Province of Sindh and others",
+    "M/s State Bank Clause-IV Cooperative Housing Society Ltd.",
+    "Karachi",
+    "M/s State Bank Clause-IV Cooperative Housing Society Ltd.",
+    "Karachi",
+    "Province of Sindh and others",
+    "M/s State Bank Clause-IV Cooperative Housing Society Ltd.",
+    "Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

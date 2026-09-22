@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Criminal Appeals Nos",
+  "case_number": "Cr. Appeal No.506 of 2023",
   "date_of_order": "28.04.2023",
-  "judge": "JUDGE",
+  "judge": "Tasneem Sultana Justice Syed Fiaz",
   "sections_cited": [
     "Sections 6, 9",
     "Sections 6",
@@ -26,7 +26,11 @@
     "2009 SCMR 230",
     "2001 SCMR 23"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Shireen @ Samína",
+    "Rasheed",
+    "The State through Mr. Mumtaz Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

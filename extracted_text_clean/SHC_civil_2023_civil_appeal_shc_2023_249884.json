@@ -6,12 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A. No.98 of 2024",
   "date_of_order": "13.03.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem",
+    "Pakistan Audit Department Employees Cooperative Housing Society Limited",
+    "Mr. Muhammad Vawda",
+    "Mr. Ahmed Ali Hussain",
+    "Mr. Muhammad Hisham Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

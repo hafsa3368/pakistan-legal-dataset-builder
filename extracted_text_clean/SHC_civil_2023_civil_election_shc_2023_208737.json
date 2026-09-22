@@ -6,14 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Election Appeal No.239 of 2024",
   "date_of_order": "30.12.2023",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 62"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Ghaffar",
+    "Election Commission of Pakistan",
+    "Mr. Aamir Rizwan Yousufzai"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

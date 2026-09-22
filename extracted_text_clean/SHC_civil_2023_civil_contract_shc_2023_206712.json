@@ -6,12 +6,24 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 379 of 2023",
   "date_of_order": "23.11.2023",
-  "judge": "JUDGE Amjad/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Ali Hussain",
+    "Mr. Shariq Razaq",
+    "Mr. Ovais Ali Shah",
+    "Mr. Muhammad Zaheer-ul-Hassan Minhas",
+    "Mr. Sandeep Malani",
+    "Mr. Mohsin Khan",
+    "Ms. Azra Muqeem",
+    "Mr. Muhammad Zaheer-ul-Hassan Minhas",
+    "Mr. Ahmed Ali Hussain",
+    "Mr. Shariq Razaq",
+    "Mr. Ovais Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

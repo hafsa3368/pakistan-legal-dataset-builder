@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Election Appeal No.150 of 2024",
   "date_of_order": "29.12.2023",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 63 of the Elections Act",
     "Section 140 of the Elections Act",
@@ -23,7 +23,19 @@
     "PLD 2012 SC 1054",
     "PLD 2018 SC 189"
   ],
-  "parties": [],
+  "parties": [
+    "Masood Khan Mandokhail",
+    "Mr. Akhlaq Khan Mandokhail",
+    "Mr. Khalid Javed",
+    "Mr. Rana Mashood Khan",
+    "Mr. Munnawar Juna",
+    "Mr. Yousuf Makda",
+    "Mr. M. Yasin Khan Azad",
+    "Mr. Jawed Khalid Raan",
+    "Mr. G.M Bhuto",
+    "Election Commission of Pakistan",
+    "Respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

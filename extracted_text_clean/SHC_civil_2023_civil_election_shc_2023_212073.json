@@ -8,10 +8,22 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "13.03.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "S/A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mehfooz Ahmed Awan",
+    "Mr. Israr Ahmed Shah",
+    "Mr. Ghulam Ali Bozdar",
+    "M/s Ali Gul Abbasi and Muhammad Zohaib Azam Rajput",
+    "Mr. Dareshani Ali Haider ‘Ada’",
+    "Mr. Liaquat Ali Shar",
+    "Local Government Department",
+    "Admin Branch",
+    "SCUG Service (Accounts Branch)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

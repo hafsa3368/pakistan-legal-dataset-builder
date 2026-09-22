@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No. S-924 of 2023",
   "date_of_order": "10.12.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Benches B-K Soomro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Re Anwer",
+    "Abid Hussain Sheikha and others",
+    "the Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

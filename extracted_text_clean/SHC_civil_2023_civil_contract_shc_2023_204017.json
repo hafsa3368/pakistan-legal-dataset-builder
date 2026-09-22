@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No. D-329 of 2023",
   "date_of_order": "17.10.2023",
-  "judge": "JUDGE Irfan/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Salim Tunio",
+    "Respondents Nos. 4 to 6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

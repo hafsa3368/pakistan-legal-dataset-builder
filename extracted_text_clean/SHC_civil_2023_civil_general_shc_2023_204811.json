@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "TA No.30 of 2023",
   "date_of_order": "03.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khurram Inam Ghouri",
+    "Mr. Rashid Nizam Arain",
+    "Respondents No.2 to 11"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

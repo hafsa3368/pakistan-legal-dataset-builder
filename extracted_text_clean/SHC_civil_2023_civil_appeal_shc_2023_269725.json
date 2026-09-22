@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No. 851 of 2024",
   "date_of_order": "22.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 410 Cr.P.C",
     "Section 397 PPC",
@@ -30,7 +30,14 @@
     "2022 SCMR 1577",
     "PLD 1956 India 327"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Waseem",
+    "The State",
+    "Muhammad Saleem",
+    "Bilal Hussain",
+    "M/s. Riaz Ahmed Bhatti & Allah Ditta",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

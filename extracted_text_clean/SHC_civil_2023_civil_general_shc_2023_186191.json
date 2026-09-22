@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Crl. Rev. Application No. 38 of 2023",
+  "case_number": "",
   "date_of_order": "20.02.2023",
-  "judge": "",
+  "judge": "Omar Sial",
   "sections_cited": [
     "Section 265-K Cr.P.C",
     "section 265-K",
@@ -24,7 +24,23 @@
   "citations": [
     "PLD 2022 SC 562"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Anwar Mansoor Khan",
+    "Mr. Asim Mansoor Khan",
+    "Ms. Umaima Anwar Khan",
+    "Mr. Abid S. Zuberi",
+    "Mr. Ayyan Mustafa Memon",
+    "Ms. Easha Azmat",
+    "Mr. Muhammad Zaheer",
+    "Mr. Yar Muhammad Maitlo",
+    "Mr. Haider Waheed",
+    "Mr. Fahad Ali Hashmi",
+    "Mr. Muhammad Ahmed",
+    "Mr. Saeed Memon",
+    "Omar Sial",
+    "Mr. Shoaib Ahmed Shaikh",
+    "Ms. Ayesha Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

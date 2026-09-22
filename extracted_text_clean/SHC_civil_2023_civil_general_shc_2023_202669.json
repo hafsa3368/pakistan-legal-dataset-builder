@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1317 of 2022",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "13.09.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Irshad Hussain Dharejo",
+    "Mr. Niaz Hussain Maitlo",
+    "Mr. Zulfiqar Ali Naich",
+    "SALU, Khairpur",
+    "No.2 to 5-SALU"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

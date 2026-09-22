@@ -6,12 +6,16 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C. P. NO. D-580",
   "date_of_order": "09.03.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Khalid Javed Khan, Owais Ali Shah & Jam Zeeshan",
+    "Mr. Ameer Bakhsh Metlo",
+    "Mr. Rana Sakhawat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

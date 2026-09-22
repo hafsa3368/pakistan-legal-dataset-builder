@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Civil Appeal No.S-03 of 2023",
   "date_of_order": "16.01.2024",
-  "judge": "",
+  "judge": "Amjad Ali Bohio",
   "sections_cited": [
     "section 100",
     "section 107 & 151",
@@ -28,7 +28,25 @@
     "1981 SCMR 1171",
     "1991 MLD 153"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Rasheed",
+    "Shah Muhammad",
+    "Shah Nawaz",
+    "Hussain Kapri",
+    "Hayat",
+    "Additional Commissioner No.1",
+    "Additional Deputy Commissioner-I (Revenue)",
+    "Assistant Commissioner",
+    "Mukhtiarkar (Revenue)",
+    "Province of Sindh",
+    "Deputy Commissioner (Revenue)",
+    "Incharge Evacuee Property Branch (EPB)",
+    "Mukhtiarkar (Estate)",
+    "Commissioner, Mirpurkhas Division",
+    "Secretary to Government of Sindh, Land Utilization Department, Board of Revenue Sindh",
+    "Supervising Tapedar of Deh 314",
+    "Tapedar, Tapo of Deh 314"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

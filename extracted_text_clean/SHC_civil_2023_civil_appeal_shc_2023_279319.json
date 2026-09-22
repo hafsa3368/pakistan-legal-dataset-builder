@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "Criminal Appeal No. S-42 of 2025",
   "date_of_order": "12-08-2025",
-  "judge": "",
+  "judge": "Jan Ali Junejo",
   "sections_cited": [
     "Section 223 of the Pakistan Penal Code",
     "section 382-B PPC",
@@ -31,7 +31,14 @@
     "2020 SCMR 857",
     "PLD 2019 SC 64"
   ],
-  "parties": [],
+  "parties": [
+    "Munawar Hussain",
+    "Muhammad Luqman",
+    "Shoukat Ali",
+    "Ali Nawaz",
+    "Kirshan Chand",
+    "Muhammad Nadeem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

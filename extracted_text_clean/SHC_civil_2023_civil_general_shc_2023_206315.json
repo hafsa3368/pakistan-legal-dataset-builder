@@ -6,14 +6,24 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A. No.433 of 2023",
   "date_of_order": "29.11.2023",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Ayaz Gul",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2006 SCMR 1262"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Saad ul Haq & another",
+    "Province of Sindh and others",
+    "Appellants",
+    "Respondent No.8",
+    "defendant No.8 in the suit",
+    "Learned single Judge",
+    "CMA No.18423/2023"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

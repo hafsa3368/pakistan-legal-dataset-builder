@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-149 of 2020",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "15-11-2023",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Agha Muhammad Iqbal Khan",
+    "Commissioner, Sukkur",
+    "Abdul Haseeb Khuhro",
+    "Qurban Ali",
+    "Ahmed Ali Shahani",
+    "Assistant A.G – Sindh a/w"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

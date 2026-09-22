@@ -8,13 +8,23 @@
   "num_chunks": 24,
   "case_number": "",
   "date_of_order": "17.05.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Jawad Akbar Sarwana,",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2000 SCMR 1172",
     "2021 SCMR 1986"
   ],
-  "parties": [],
+  "parties": [
+    "Rais Jafri",
+    "Mrs Talat Afroz",
+    "Rais Jafri through Mr Naeem Ahmed Rana",
+    "Mrs Talat Afroz",
+    "Ayaz Ahmed Ansari",
+    "Naseer Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

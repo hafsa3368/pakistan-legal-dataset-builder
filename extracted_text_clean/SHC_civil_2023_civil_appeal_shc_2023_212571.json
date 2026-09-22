@@ -6,12 +6,21 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "High Court Appeal No.12 of 2024",
   "date_of_order": "27.03.2024",
-  "judge": "JUDGE Amjad PS",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khalil-Ur-Rehman & others",
+    "Zoomlion Pakistan Private Ltd & others",
+    "Mr. Abdul Razzaq Advocate",
+    "Mr. Junaid Ahmed Advocate",
+    "Mr. Raja Zeeshan Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

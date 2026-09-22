@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Jail Appeal No. 667 OF 2024",
   "date_of_order": "20.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 397/34 PPC",
     "Section 397 PPC",
@@ -22,7 +22,10 @@
     "Section 342 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State through the Addl. PG Sindh",
+    "Haq Nawaz son of Mumtaz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

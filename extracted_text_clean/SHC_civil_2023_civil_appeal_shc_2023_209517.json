@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Special Anti-Terrorism Appeal No.D-40 of 2023",
+  "case_number": "",
   "date_of_order": "18-01-2024",
   "judge": "Irshad Ali Shah",
   "sections_cited": [
@@ -16,7 +16,19 @@
     "2016 SCMR 2021",
     "2018 SCMR 772"
   ],
-  "parties": [],
+  "parties": [
+    "Jam Ladho son of Muhammad Sadiq Dhanudhu",
+    "The State",
+    "Jam Ladho",
+    "Muhammad Sadiq Dhanudhu",
+    "The State",
+    "Mr. Justice Irshad Ali Shah",
+    "Mr. Justice Zulfiqar Ali Sangi",
+    "Mr. Imran Mobeen Khan",
+    "Ghulam Safdar",
+    "Akbar Ali",
+    "Ahmed Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

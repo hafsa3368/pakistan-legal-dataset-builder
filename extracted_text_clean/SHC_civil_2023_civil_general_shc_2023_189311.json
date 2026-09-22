@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P. No. D-981 of 2022",
   "date_of_order": "28.03.2023",
   "judge": "MUBASHIR",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Hassan Akbar, Advocate General, Sindh",
+    "Jawwad Dero, Additional Advocate General, Sindh",
+    "Zainul Abdin",
+    "Local Government & Housing Town Planning Department, Government of Sindh",
+    "Chief Secretary",
+    "Secretary, Local Government & Housing Town Planning Department, Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

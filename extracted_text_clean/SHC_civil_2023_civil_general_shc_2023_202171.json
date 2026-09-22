@@ -6,14 +6,27 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitution Petition No.D",
+  "case_number": "",
   "date_of_order": "27.07.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "A.S. Farhan",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Section 377 IPC",
+    "Section 106 of the Limitation Ordinance 2006"
+  ],
   "citations": [
     "PLD 2001 SC 340"
   ],
-  "parties": [],
+  "parties": [
+    "Munawar-uz-Zaman Juna",
+    "Federation of Pakistan",
+    "HESCO",
+    "Nazir of this Court",
+    "Sindh Petroleum and CNG Dealers Association",
+    "ANOUD POWER GENERATION LIMITED",
+    "Nadeem Textile Mills Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

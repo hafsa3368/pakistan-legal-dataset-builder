@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "C.P. No.D-5990 of 2023",
   "date_of_order": "23.09.2024",
-  "judge": "JUDGE",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "Section 64",
     "Section 6 of the General Clauses Act"
@@ -19,7 +19,11 @@
     "2024 SCMR 92",
     "2013 SCMR 314"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Mahmood Jaffar Zaidi",
+    "Federation of Pakistan",
+    "NBP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D-3241 of 2024",
   "date_of_order": "17.02.2026",
   "judge": "",
   "sections_cited": [
@@ -16,7 +16,14 @@
     "2018 SCMR 1956",
     "PLD 2025 SC 440"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Yaseen Shahid Bhatti",
+    "Mr. Manzoor-ul-Haq",
+    "Ms. Mehreen Ibrahim",
+    "The State Bank of Pakistan",
+    "Muhammad Fahad Malik",
+    "The Federation of Pakistan and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

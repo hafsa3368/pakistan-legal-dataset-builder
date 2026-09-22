@@ -8,7 +8,7 @@
   "num_chunks": 28,
   "case_number": "",
   "date_of_order": "15 August 2023",
-  "judge": "",
+  "judge": "MOHAMMAD ABDUR RAHMAN",
   "sections_cited": [
     "Section 151 of the Code",
     "Section 94 of the Code",
@@ -38,7 +38,14 @@
     "PLD 1965 SC 698",
     "PLD 2011 SC 619"
   ],
-  "parties": [],
+  "parties": [
+    "Master Management (Private) Limited",
+    "Federation of Pakistan",
+    "Pakistan Civil Aviation Authority",
+    "Lakhani Enterprises (Private) Limited",
+    "Joint Director Legal",
+    "Mohammad Farooq Afzal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

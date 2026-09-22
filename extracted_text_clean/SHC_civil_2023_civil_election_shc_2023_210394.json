@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-169 of 2024",
   "date_of_order": "28.12.2023",
   "judge": "Aqeel Ahmed Abbasi",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "Section 62 of the Elections Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Mr. Saifullah, Asst. Advocate-General, Sindh",
+    "Mr. Abdullah Hanjrah, Deputy Director (Law), Provincial Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

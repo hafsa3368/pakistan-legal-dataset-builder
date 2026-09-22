@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "criminal is better than punishing an innocent",
+  "case_number": "Cr. Appeal No. D-92 of 2024",
   "date_of_order": "23.09.2025",
   "judge": "Amjad Ali Bohio",
   "sections_cited": [
@@ -25,7 +25,10 @@
     "PLD 2002 SC 1048",
     "PLD 2021 SC 600"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Noor Muhammad son of Fazal Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

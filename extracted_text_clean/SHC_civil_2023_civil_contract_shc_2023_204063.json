@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "10.10.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabir Hussain Talput",
+    "Mr. Muhammad Raza Soomro",
+    "Mr. Zulfiqar Ali Naich",
+    "SIP Manzoor Ali Siyal",
+    "District Shaheed Benazirabad Police Station",
+    "Petitioner No.1",
+    "Petitioner No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

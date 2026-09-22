@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Appeal No. 165 of 2024",
   "date_of_order": "19.08.2025",
-  "judge": "JUDGE Faheem/PA",
+  "judge": "Zafar Ahmed Rajput Justice Miran",
   "sections_cited": [
     "sections 6, 9",
     "Section 265-H",
@@ -33,7 +33,10 @@
     "2022 SCMR 1931",
     "PLD 1996 SC 67"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Nasir S/o Muhammad Essa",
+    "The State Through Mr. Mumtaz Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

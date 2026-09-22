@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 24,
-  "case_number": "criminals do not",
+  "case_number": "Cr. Appeal No. D-112 of 2024",
   "date_of_order": "07.10.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 25",
     "Sections 3, 6, 8, 23",
@@ -38,7 +38,16 @@
     "2008 SCMR 1221",
     "2009 SCMR 230"
   ],
-  "parties": [],
+  "parties": [
+    "Fazal Ameen son of Momin Khan Pathan",
+    "Muhammad Younis s/o Malik Haji Ghulam Habib by caste Pathan",
+    "Israr Ud Din s/o Minhaj Ud Din, Pathan",
+    "The State",
+    "Inspector Asghar Ali Awan",
+    "Akbar Soomro",
+    "Muhammad Arif",
+    "Inspector Zulfiqar Ali Mahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

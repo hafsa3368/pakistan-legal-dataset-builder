@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "28.10.2025",
-  "judge": "JUDGE Amjad PS",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 392, 397, 353, 324, 412, 34",
     "Section 7",
@@ -24,7 +24,11 @@
   "citations": [
     "PLD 2020 SC 61"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shahzad",
+    "The State",
+    "Mr. Muhammad Iqbal Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

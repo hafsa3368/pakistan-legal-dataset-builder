@@ -6,12 +6,23 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constituted via the Notification",
-  "date_of_order": "",
+  "case_number": "C.P No.D-993 of 2023",
+  "date_of_order": "18.7.2023",
   "judge": "Hafiz Fahad",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Arbab Ali Hakro",
+    "Mr. Riazuddin Qureshi",
+    "Mr. Agha Iftikhar Hussain",
+    "Mr. Allah Bachayo Soomro",
+    "Mr. Zaheer Abbas",
+    "Naheed Ahmed Asst. Commission",
+    "R.O M.C Sanghar",
+    "Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

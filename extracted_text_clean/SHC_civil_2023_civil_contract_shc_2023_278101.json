@@ -6,10 +6,13 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "constitutional courts should not",
+  "case_number": "C.P. No.S-1468 of 2024",
   "date_of_order": "13.08.2025",
   "judge": "Jamil",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2024 SCMR 1292",
     "2023 SCMR 413",

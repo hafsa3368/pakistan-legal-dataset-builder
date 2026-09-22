@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No.393 of 2025",
   "date_of_order": "04.02.2026",
   "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
@@ -17,7 +17,12 @@
     "2017 SCMR 16621",
     "2017 SCMR 1662"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Ghulam Hyder",
+    "Mr. Moula Bux Bhutto",
+    "Mr. Ali Haidr"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

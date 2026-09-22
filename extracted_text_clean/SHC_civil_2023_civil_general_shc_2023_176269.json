@@ -6,12 +6,30 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C. P. No. D-1937 of 2020",
   "date_of_order": "23.12.2022",
-  "judge": "JUDGE Tariq",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ali Lakhani",
+    "Mr. Muhammad Najeeb Jamali",
+    "Mr. Rafiq Rajorvi",
+    "Mr. Jawad Dero",
+    "Mr. Kazi Abdul Hameed Siddiqui",
+    "Mr. Sohail Ahmed Rajput",
+    "Dr. Shireen Narejo",
+    "Asghar Ali Ghangaro",
+    "Syed Mohsin Shah",
+    "Ghulam Akbar Leghari",
+    "Abdul Jabbar Shahani",
+    "Dr. Liaquat Ali Abro",
+    "Ali Tahir",
+    "Chief Secretary, Sindh",
+    "School Education & Literacy Department, Govt. of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

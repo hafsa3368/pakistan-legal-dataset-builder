@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "C.P. No.D-5617 of 2025",
   "date_of_order": "26.02.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Yaseen",
+    "Government of Sindh",
+    "KIHD",
+    "KMC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

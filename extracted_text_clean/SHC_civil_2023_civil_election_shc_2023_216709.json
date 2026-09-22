@@ -6,14 +6,22 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "misconceived and not",
-  "date_of_order": "",
-  "judge": "Nasir/ FarhanPS",
+  "case_number": "C.P.No.D-1112 of 2024",
+  "date_of_order": "30-05-2024",
+  "judge": "Aqeel Ahmed Abbasi",
   "sections_cited": [
     "Section 2"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The Election Commission of Pakistan & others",
+    "M/s. Muhammad Umer Lakhani, Ishfaque Ahmed, Shaharyar Ahmed and Syed Talha Shah Hasni",
+    "Mr. Saifullah, A.A.G.",
+    "Mr.Khaleeq Ahmed, D.A.G.",
+    "M/s.Ghulam Shabbir Shah & Irtifa-ur-Rehman",
+    "Mr.Riaz Ahmed, Director (Law), ECP",
+    "Mr.Sarmad Sarwar, Assistant Director (Law), ECP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

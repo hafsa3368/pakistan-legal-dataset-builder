@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Election Appeal No.97 of 2024",
   "date_of_order": "29.12.2023",
   "judge": "",
   "sections_cited": [
@@ -15,7 +15,16 @@
     "section 140 of the Elections Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Rafia Ahsan",
+    "Mr. Muhammad Idrees Alvi",
+    "Election Commission of Pakistan",
+    "Mr. G.M Bhuto",
+    "Mr. Sarmad Sarwar",
+    "Assistant Attorney General",
+    "Mr. G.M Bhuto",
+    "Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

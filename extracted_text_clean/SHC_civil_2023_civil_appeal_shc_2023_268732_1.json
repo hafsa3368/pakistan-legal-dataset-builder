@@ -8,7 +8,7 @@
   "num_chunks": 23,
   "case_number": "Criminal Appeal No. 654 of 2024",
   "date_of_order": "21.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 376",
     "Section 382-B",
@@ -38,7 +38,13 @@
     "1993 SCMR 2405",
     "1972 SCMR 620"
   ],
-  "parties": [],
+  "parties": [
+    "Umar Farooq",
+    "The State",
+    "Gul Muhammad",
+    "Asif Khan",
+    "Saeeda (Saeeda Khanum)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

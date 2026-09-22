@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Misc. Application No.S-",
+  "case_number": "",
   "date_of_order": "17.06.2023",
   "judge": "Ahmad",
   "sections_cited": [
@@ -15,7 +15,12 @@
   "citations": [
     "2021 P.Cr.L.J 1753"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Sami Kalhoro",
+    "Mst. Khalidan",
+    "Ali Waris",
+    "respondents No. 4 to 6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

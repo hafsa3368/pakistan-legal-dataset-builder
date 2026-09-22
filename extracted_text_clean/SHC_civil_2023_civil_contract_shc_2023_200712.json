@@ -7,14 +7,23 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "08.08.2023",
+  "judge": "",
   "sections_cited": [
     "Sections 452 & 365-B PPC",
     "Section 161 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imran Mobeen, Assistant P.G",
+    "State",
+    "Mst. Madiha",
+    "Naimatullah",
+    "Respondent No. 4 (I.O of Crime No. 127 of 2023)",
+    "Respondent No. 5 (Maternal Uncle)",
+    "Respondent No. 2 (Respondent)",
+    "Respondent No. 3 (Respondent)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-249 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "06-09-2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed Bhanbhro",
+    "Mr. Ali Raza Baloch",
+    "Abdul Majeed Memon",
+    "Atiq-ur-Rehman Memon",
+    "Deputy Commissioner, Khairpur",
+    "Chief Secretary, Sindh",
+    "Chief Engineer, Education & Works Department, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

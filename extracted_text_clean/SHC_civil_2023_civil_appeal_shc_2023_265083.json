@@ -9,9 +9,17 @@
   "case_number": "Civil Appeal No.30 of 2023",
   "date_of_order": "13.05.2025",
   "judge": "Muhammad Jaffer Raza Chetan Das",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Jaffer Raza Chetan Das",
+    "Province of Sindh and others",
+    "Mr. Aneel Kumar Sharma",
+    "Mr. Taha Abdul Samad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

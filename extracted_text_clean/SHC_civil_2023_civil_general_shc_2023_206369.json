@@ -8,7 +8,7 @@
   "num_chunks": 19,
   "case_number": "",
   "date_of_order": "20 September 2023",
-  "judge": "",
+  "judge": "MOHAMMAD ABDUR RAHMAN",
   "sections_cited": [
     "Section 151 of the Code",
     "section 47"
@@ -25,7 +25,18 @@
     "PLD 2013 Sindh 430",
     "PLD 1996 SC 375"
   ],
-  "parties": [],
+  "parties": [
+    "Allied Bank of Pakistan",
+    "Pakistan Steel Mills (Private) Limited",
+    "National Bank of Pakistan",
+    "Mr. Muhammad Illyas",
+    "Mr. Adnan Ahmed Zafar",
+    "Mr. Assadullah Shaikh",
+    "Mr. Jumma Shah",
+    "Mr. Zeeshan Abdullah",
+    "Mr. Ahmed Ali Ghumro",
+    "Official Assignee of the High Court of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

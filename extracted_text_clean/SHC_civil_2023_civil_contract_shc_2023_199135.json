@@ -7,11 +7,22 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1013 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "date_of_order": "13.06.2023",
+  "judge": "",
+  "sections_cited": [
+    "CMA 4214/23",
+    "CMA 4215/23",
+    "CMA 4216/23"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Agha Faraz Khan",
+    "Mr. Agha Faraz Khan",
+    "Mr. Agha Faraz Khan",
+    "Mr. Agha Faraz Khan",
+    "Girl Petitioner",
+    "Fazal-ur-Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

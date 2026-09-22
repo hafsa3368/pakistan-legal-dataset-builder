@@ -8,14 +8,18 @@
   "num_chunks": 1,
   "case_number": "Civil Appeal No. 277/2014",
   "date_of_order": "11-07-2024",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 43",
     "section 32",
     "section 31"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State /ANF",
+    "B.R.R. Guardian Modaraba and another",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

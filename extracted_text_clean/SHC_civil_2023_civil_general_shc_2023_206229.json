@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "27.11.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hamid Idrees, Advocate",
+    "Ms. Naushaba Haq Solangi",
+    "Assistant Advocate General a/w SIP",
+    "Agha Madad Ali Kha PS Gulberg",
+    "Naveed Shaukat Mughal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

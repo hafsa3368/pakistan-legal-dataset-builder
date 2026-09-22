@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitution of Pakistan is not",
+  "case_number": "",
   "date_of_order": "07-08-2023",
   "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
@@ -23,7 +23,28 @@
     "PLD 2016 SC 808",
     "PLD 1973 Karachi 78"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Razia Sultana w/o Muhammad Baig",
+    "Province of Sindh and others",
+    "Muhammad Javeed son of Abdul Majeed",
+    "Province of Sindh and others",
+    "Muhammad Shahid Khan son of Muhammad Shareef Khan",
+    "Province of Sindh and others",
+    "Mukarram Ahmed Khan son of Murtaza Ahmed Khan",
+    "Province of Sindh and others",
+    "Muhammad Shakir son of Suleman",
+    "Province of Sindh and others",
+    "Mehnaz Rashif wife of Muhammad Rashid",
+    "Province of Sindh and others",
+    "Muhammad Farooq son of Eid Muhammad",
+    "Province of Sindh and others",
+    "Shiraz Ahmed son of Dilawar",
+    "Province of Sindh and others",
+    "Rehana Iqbal wife of Muhammad Yamin",
+    "Province of Sindh and others",
+    "Fayyaz Ali son of Ali Muhammad",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

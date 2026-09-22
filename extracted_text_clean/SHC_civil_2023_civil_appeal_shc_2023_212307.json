@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No.24 of 2023",
   "date_of_order": "20.03.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Samiuddin Qureshi",
+    "Mrs. Rahat Saleem",
+    "PECHS",
+    "Mr. Muhammad Ramzan Tabassum",
+    "Mr. Raja Muhammad Safeer",
+    "Mr. Muhammad Zahid Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,15 +6,22 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "High Court Appeal No.424 of 2023",
   "date_of_order": "13.05.2024",
-  "judge": "JUDGE Asif",
+  "judge": "Muhammad Shafi Siddiqui Justice Ms",
   "sections_cited": [
     "Section 22",
     "Section 22 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "China Mobile Pakistan Limited (Zong)",
+    "Pakistan Telecommunication Authority",
+    "M/s. Pakistan Mobile Communications Limited",
+    "Pakistan Telecommunication Authority",
+    "Telenor Pakistan (Private) Limited",
+    "Pakistan Telecommunication Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

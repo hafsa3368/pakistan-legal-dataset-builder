@@ -6,12 +6,29 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "C.P. No.D-2436 of 2016",
   "date_of_order": "13.03.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
-  "sections_cited": [],
+  "judge": "Faisal Mumtaz",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Sohail Ahmed Khoso, Jamshed Ahmed Faiz and Qurban Ali Malano, advocates for the Petitioners",
+    "Mr. Ghulam Shabbir Shah, advocate for the Respondents No.1 & 2",
+    "Mr. Samiullah Soomro, Advocate for Respondents",
+    "Mr. Ali Raza Balouch, AAG alongwith Saeed Ghani, Chairman Workers Welfare Board",
+    "Saeed Saleh Jumani, Secretary Workers Welfare Board",
+    "Akhtar Ali Qureshi, Commissioner SESSI",
+    "Muzafar Ali Shah, Director (Workers Welfare Board)",
+    "Ahtesham Khan Director WWB",
+    "Muhammad Farhat Soomro, Law Officer WWB",
+    "Qurban Ali Talpur, Labour Officer, Sukkur",
+    "Asghar Ali Pathan, Joint Director Labour on behalf of DG Labour",
+    "Secretary (Labour) Government of Sindh",
+    "Salahuddin Panhwar, J"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

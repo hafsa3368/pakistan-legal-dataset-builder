@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No.D-133 of 2023",
   "date_of_order": "20.03.2025",
   "judge": "Miran Muhammad Shah",
   "sections_cited": [
@@ -27,7 +27,10 @@
     "1996 SCMR 167",
     "2022 SCMR 819"
   ],
-  "parties": [],
+  "parties": [
+    "Shahdab",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

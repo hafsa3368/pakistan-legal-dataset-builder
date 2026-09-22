@@ -6,14 +6,27 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Civil Appeal No.D-",
+  "case_number": "",
   "date_of_order": "14.02.2024",
   "judge": "",
   "sections_cited": [
     "Section 22"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Muhammad",
+    "Zarai Tarqiati Bank Ltd.",
+    "Suresh Kumar",
+    "Nazir Hussain Jamali",
+    "Seengar Ali",
+    "Muhammad Punhal",
+    "Shah Nawaz",
+    "Gul Muhammad",
+    "Ghulam Muhammad",
+    "Ali Nawaz Bhatti",
+    "Ali Nawaz",
+    "Gul Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

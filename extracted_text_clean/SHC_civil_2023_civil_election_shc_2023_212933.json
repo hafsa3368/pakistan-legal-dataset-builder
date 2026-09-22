@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Misc.No.29055/2023",
   "date_of_order": "15.12.2023",
-  "judge": "Farhan/PS nasir",
+  "judge": "Aqeel Ahmed Abbasi",
   "sections_cited": [
     "Section 5",
     "Section 230 of the Election Act",
@@ -16,7 +16,11 @@
     "Section 5 of the Elections Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Hyder",
+    "Province of Sindh",
+    "Muhammad Khan Lakho"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

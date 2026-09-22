@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No. D-95 of 2023",
   "date_of_order": "25.09.2024",
-  "judge": "JUDGE",
+  "judge": "Zafar Ahmed Rajput Justice Amjad",
   "sections_cited": [
     "section 9",
     "section 382-B",
@@ -24,7 +24,10 @@
   "citations": [
     "2024 P Cr. LJ 370"
   ],
-  "parties": [],
+  "parties": [
+    "Asad Ali s/o Ghulam Shabbir Shaikh",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr. Appeal No. D-89 of 2024",
   "date_of_order": "09.12.2025",
   "judge": "Amjad Ali Bohio",
   "sections_cited": [
@@ -23,7 +23,10 @@
     "2024 SCMR 934",
     "2025 SCMR 721"
   ],
-  "parties": [],
+  "parties": [
+    "Tauheed Raza",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

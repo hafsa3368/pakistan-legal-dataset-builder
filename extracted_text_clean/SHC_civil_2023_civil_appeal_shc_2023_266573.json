@@ -8,14 +8,22 @@
   "num_chunks": 8,
   "case_number": "Criminal Appeal No.259 of 2024",
   "date_of_order": "07.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 3 of the Illegal Dispossession Act",
     "Section 3 of the Illegal Dispossession Act",
     "Section 3 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Feroze Ali",
+    "Rehman Feroze Ali",
+    "Farid Feroze Ali",
+    "Amir Feroze Ali",
+    "Abdul Aziz",
+    "Mst. Tasleem",
+    "Ghulam Hussain Korai"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

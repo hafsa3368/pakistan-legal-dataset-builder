@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "02.10.2025",
-  "judge": "JUDGE Amjad PS",
+  "judge": "Omar Sial",
   "sections_cited": [
     "Section 392, 397, 34 PPC",
     "Section 7",
@@ -24,7 +24,14 @@
   "citations": [
     "PLD 2020 SC 61"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ramzan",
+    "The State",
+    "Mr. Ubedullah Ghoto",
+    "Mr. Muhammad Iqbal Awan",
+    "Shahid Khan",
+    "The Supreme Court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 5,
   "case_number": "Criminal Miscellaneous Application No.S-382 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "31.07.2023",
+  "judge": "Asim Shabbir Soomro",
   "sections_cited": [
     "section 154 Cr.P.C",
     "section 154",
@@ -16,7 +16,12 @@
     "section 154 or 155 of the Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asim Shabbir Soomro",
+    "Mr. Siraj Ahmed Bijarani",
+    "Mr. Noor Nabi Samo",
+    "respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

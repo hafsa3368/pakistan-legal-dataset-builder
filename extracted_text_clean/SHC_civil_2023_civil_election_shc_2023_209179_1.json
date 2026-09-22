@@ -6,12 +6,25 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Election Appeal No. S-23 of 2024",
   "date_of_order": "08.01.2024",
   "judge": "Zulfiqar Ali Sangi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 63 (o) of the Constitution of Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Sulleman",
+    "Federation of Pakistan",
+    "Provincial Election Commission, Sindh, Karachi",
+    "District Election Commissioner, District Khairpur",
+    "Returning Officer NA-204 District Khairpur",
+    "Mr. Abdul Qadeer Khoso",
+    "Mr. Zeeshan Hyder",
+    "Mr. Dareshani Ali Hyder ‘Ada’ DAG",
+    "Mr. Umair Ali",
+    "Mr. Shan Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

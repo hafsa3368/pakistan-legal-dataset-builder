@@ -8,7 +8,7 @@
   "num_chunks": 45,
   "case_number": "",
   "date_of_order": "07.02.2023",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "section 65",
     "section 65B",
@@ -37,7 +37,11 @@
     "PLD 1963 SC 322",
     "PLD 2016 SC 398"
   ],
-  "parties": [],
+  "parties": [
+    "Sapphire Textile Mills Limited",
+    "Federation of Pakistan",
+    "Muhammad Zubair Hashmi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

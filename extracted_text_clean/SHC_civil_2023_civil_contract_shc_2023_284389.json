@@ -9,9 +9,17 @@
   "case_number": "Constitutional Petition No.D-3035 of 2019",
   "date_of_order": "29.09.2025",
   "judge": "Muhammad Karim Khan Agha Justice",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 204 Constitution",
+    "u/s 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh and others",
+    "Kamran Ali Sheikh & others",
+    "CMA No. 17731 of 2024",
+    "The Health Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

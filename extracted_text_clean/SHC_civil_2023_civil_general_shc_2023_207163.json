@@ -6,12 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.10382/2023",
   "date_of_order": "21.07.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Muhammad Tanveer Ahmed",
+    "Syed Muhammad Sohail Ahmed Qutbi",
+    "Defendant No.1",
+    "Plaintiff"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

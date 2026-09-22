@@ -9,9 +9,16 @@
   "case_number": "Civil Appeal No.68/2024",
   "date_of_order": "05.03.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Yaseen Khaskheli",
+    "Mr. Om Parkash H. Karmani",
+    "Mr. Muhammad Shareef Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

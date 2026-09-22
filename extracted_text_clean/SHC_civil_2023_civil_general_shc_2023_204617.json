@@ -6,15 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-538 of 2022",
   "date_of_order": "31.10.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2023 SCMR 1434",
     "2023 SCMR 413"
   ],
-  "parties": [],
+  "parties": [
+    "M. Hamad Hassan vs. Mst. IsmaBukhari& Others",
+    "Arif Fareed vs. Bibi Sara & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

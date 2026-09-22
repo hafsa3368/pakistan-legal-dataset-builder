@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Crl. Appeal No. 643 of 2024",
   "date_of_order": "01.09.2025",
-  "judge": "JUDGE Athar Zai",
+  "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "sections 6/9",
     "section 382-B",
@@ -24,7 +24,10 @@
   "citations": [
     "2007 SCMR 206"
   ],
-  "parties": [],
+  "parties": [
+    "Zahoor Ahmed s/o Ahmed Jan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

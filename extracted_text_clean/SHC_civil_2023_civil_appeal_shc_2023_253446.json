@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal Nos. S-789",
   "date_of_order": "26.02.2025",
   "judge": "Khalid Hussain Shahani Appellant",
   "sections_cited": [
@@ -26,7 +26,16 @@
     "PLD 2016 Sindh 238",
     "PLD 2021 SC 600"
   ],
-  "parties": [],
+  "parties": [
+    "Umair son of Nouman",
+    "The State",
+    "Mst. Samreen Imran",
+    "PC Altaf Ali",
+    "PI Allah Dino",
+    "Salman Khan",
+    "Imran",
+    "Aftab Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,15 +7,25 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "21-11-2023",
+  "judge": "Barrister Syed Ali Ahmed Zaidi",
   "sections_cited": [
     "section 4",
     "section 30",
     "section 64"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Shabbeer Shar",
+    "Mr. Sohail Ahmed Khoso",
+    "Mr. Muhammad Farhat Soomro",
+    "Mr. Ali Raza Baloch",
+    "Dr. Sikandar Memon",
+    "Muhammad Saleem Raza",
+    "Barrister Syed Ali Ahmed Zaidi",
+    "Secretary, Sindh Workers Welfare Board",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,16 @@
   "case_number": "Civil Revision Application No.88 of 2023",
   "date_of_order": "12.01.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rehman Ghani Khattak",
+    "M/s. Muhammad Zeeshan Abdullah and Adnan Abdullah",
+    "Mr. Muhammad Kamran Khan",
+    "Mr. Dilfaraz Ahmed Marwat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

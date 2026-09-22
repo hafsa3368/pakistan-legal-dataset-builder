@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "Criminal Jail Appeal No. D-34 of 2024",
   "date_of_order": "18.6.2025",
-  "judge": "JUDGE",
+  "judge": "Amjad Ali Bohio",
   "sections_cited": [
     "Section 9",
     "Section 382-B",
@@ -32,7 +32,10 @@
     "2019 SCMR 2004",
     "2024 SCMR 1571"
   ],
-  "parties": [],
+  "parties": [
+    "Akhtiar Ali Metlo",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,24 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "H.C.A. No.43 of 2023",
   "date_of_order": "02.08.2023",
-  "judge": "JUDGE Nasir/FarhanPS",
-  "sections_cited": [],
+  "judge": "Aqeel Ahmed Abbasi",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal & others",
+    "Syed Ali Zaidi",
+    "Mr. Shahab Sarki",
+    "Mr. Jam Khizar",
+    "Muhammad Aijaz",
+    "Musharraf Raza",
+    "Mr. Miran Muhammad Shah",
+    "Ghulam Shabbir Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

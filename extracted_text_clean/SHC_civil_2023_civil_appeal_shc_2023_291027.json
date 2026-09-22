@@ -8,13 +8,17 @@
   "num_chunks": 3,
   "case_number": "Civil Appeal No. S-07 of 2023",
   "date_of_order": "04-03-2024",
-  "judge": "",
+  "judge": "JAWAD AKBAR SARWANA",
   "sections_cited": [
     "section 19",
     "Section 8 of the Defamation Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mohammad Shafique s/o late Nazeer Ahmed Lakhair",
+    "Mohammad Khan s/o Asadullah",
+    "Asadullah s/o Sabgatullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

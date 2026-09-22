@@ -8,12 +8,15 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1143 of 2024",
   "date_of_order": "15.06.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [
     "section 17"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Faryad Azeem Khan",
+    "petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,22 @@
   "num_chunks": 4,
   "case_number": "Civil Appeals No. 1011",
   "date_of_order": "11.02.2025",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [
     "section 31"
   ],
   "citations": [
     "PLD 2023 SC 316"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Al-Abbas Cement Industries Ltd",
+    "Federation of Pakistan and others",
+    "Tughlaq Paper Industries",
+    "Federation of Pakistan and others",
+    "HESCO",
+    "Mr. Muhammad Arshad S. Pathan",
+    "Mr. Parkash Kumar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

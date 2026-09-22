@@ -7,11 +7,26 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1528 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "date_of_order": "14.11.2023",
+  "judge": "Sulemen Khan",
+  "sections_cited": [
+    "u/s 365-B PPC",
+    "u/s 161 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Badruddin Memon, Advocate for the Petitioners",
+    "Mr. Aftab Ahmed Shar, Additional Prosecutor General",
+    "Mr. Agha Ather Pathan, Assistant Advocate General",
+    "Mr. Sohail Ahmed Metlo Advocate",
+    "Respondent No.5",
+    "Respondent No.6",
+    "Respondent No.2",
+    "Respondent No.4/I.O",
+    "Respondent No.1",
+    "Abdul Hakeem",
+    "Mst. Kalsoom"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

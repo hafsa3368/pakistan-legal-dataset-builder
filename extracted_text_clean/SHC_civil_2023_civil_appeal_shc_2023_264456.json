@@ -6,16 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Appeal No. S-",
+  "case_number": "",
   "date_of_order": "10.3.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 23",
     "section 382",
     "section 103 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Abbas Menik",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

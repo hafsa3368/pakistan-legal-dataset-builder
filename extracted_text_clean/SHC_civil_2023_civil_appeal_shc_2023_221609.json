@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "constructed on plot No.26",
+  "case_number": "HCA No. 215 of 2023",
   "date_of_order": "09.09.2024",
-  "judge": "JUDGE",
+  "judge": "Yousuf Ali Sayeed",
   "sections_cited": [
     "Section 12",
     "Section 38",
@@ -25,7 +25,14 @@
     "PLD 2003 Lah 102",
     "PLD 2022 Sindh 388"
   ],
-  "parties": [],
+  "parties": [
+    "Rana Munir Ahmed Khan & another",
+    "Jawaid Sarwar",
+    "Mr. Justice Yousuf Ali Sayeed",
+    "Mr. Justice Arbab Ali Hakro",
+    "M/s. Naveed Ahmed Khan and Salman Hamid",
+    "Mr. Imran Rind"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No.470 of 2023",
   "date_of_order": "03.02.2025",
   "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Nazeer Hussain Kalhoro",
+    "Federation of Pakistan",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

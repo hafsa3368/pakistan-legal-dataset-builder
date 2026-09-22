@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No. D-514 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "22-11-2023",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mushtaq Ahmed",
+    "P.O Sindh",
+    "Sindh Education Foundation",
+    "landlord"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

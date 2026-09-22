@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "25.01.2024",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Ayaz Gul",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hussain S/o Sher Ali",
+    "Learned IInd Additional District and Sessions Judge, Karachi South",
+    "Mr. Jamil Ahmed Ghazali",
+    "Hafiz Danish Iqbal Memon",
+    "Respondents No.3 & 4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

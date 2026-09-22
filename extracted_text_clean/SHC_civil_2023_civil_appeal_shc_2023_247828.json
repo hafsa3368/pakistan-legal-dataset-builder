@@ -6,14 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Revision Application No.S-",
+  "case_number": "",
   "date_of_order": "27.02.2025",
-  "judge": "",
+  "judge": "RIAZAT ALI SAHAR",
   "sections_cited": [
     "section 382-B CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rukhsar Ahmed Junejo",
+    "Syed Sardar Ali Shah",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,22 @@
   "num_chunks": 3,
   "case_number": "Civil Petition No. 1477 of 2023",
   "date_of_order": "24.09.2025",
-  "judge": "",
+  "judge": "Askari, Ali Qambar Waseem Shaikh",
   "sections_cited": [
     "Section 23C of the Foreign Exchange Regulation Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Panvi Traders",
+    "Federation of Pakistan & others",
+    "M/s Alfalah International Traders",
+    "Federation of Pakistan",
+    "M/s Umer Enterprises",
+    "M/s Maan Cattle Farm (Pvt.) Ltd.",
+    "Federation of Pakistan & others",
+    "M/s Floris",
+    "Federation of Pakistan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

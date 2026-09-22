@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitution is discretionary and is not",
+  "case_number": "",
   "date_of_order": "20.09.2023",
   "judge": "Muhammad Junaid Ghaffar Justice Ms",
   "sections_cited": [
@@ -33,7 +33,24 @@
     "PLD 2023 SC 316",
     "PLD 2023 Peshawar 46"
   ],
-  "parties": [],
+  "parties": [
+    "Amreli Steels Limited and Others",
+    "M/s Al-Abbas Fabrics Pvt Ltd and Others",
+    "Nadeem Textile Mills and Others",
+    "M/s Zarinatex & Another",
+    "M/s Proline (Pvt) Ltd and Others",
+    "Faraz Parvez & Others",
+    "M/s Globe Dyeing & Others",
+    "M/s Power Cement Ltd",
+    "Silver Textile Factory and Others",
+    "M/s Meskay & Femtee Trading (PVt) Ltd",
+    "Laksons Textile Pvt Ltd and Others",
+    "Steelex Pvt Ltd",
+    "M/s Pelikan Knitwear",
+    "M/s Anis Apparel & Ors",
+    "Pinnacle Fiber Pvt Ltd & Others",
+    "Fayakun Textile Mills & Another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constituted via the Notification",
-  "date_of_order": "",
+  "case_number": "C.P No.D-985 of 2023",
+  "date_of_order": "18.7.2023",
   "judge": "Hafiz Fahad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 199 of the Constitution of Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Yousuf Laghari",
+    "Mr. Allah Bachayo Soomro",
+    "Mr. Zaheer Abbas",
+    "Arbab Ali Hakro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

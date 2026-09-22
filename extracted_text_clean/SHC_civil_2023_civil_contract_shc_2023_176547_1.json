@@ -6,14 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-3497 of 2022",
   "date_of_order": "03.01.2023",
-  "judge": "JUDGE Muhammad Danish",
+  "judge": "Muhammad Danish",
   "sections_cited": [
     "section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Imam Ali Chang",
+    "Muhammad Ismail Bhutto",
+    "Tufail Shaikh",
+    "Haji Khan Brohi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

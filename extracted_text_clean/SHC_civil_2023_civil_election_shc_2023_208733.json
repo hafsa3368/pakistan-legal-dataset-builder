@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "Election Appeal No. 209 of 2024",
   "date_of_order": "28.12.2023",
   "judge": "",
   "sections_cited": [
@@ -15,7 +15,12 @@
     "section 140 of the Election Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Tasneem",
+    "Babar Mirza",
+    "G.M Bhuto",
+    "Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

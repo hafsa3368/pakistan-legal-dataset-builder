@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1580 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "22.11.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Naeemuddin Chachar",
+    "Mr. Ghulam Abbas Akhtar",
+    "SEPCO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

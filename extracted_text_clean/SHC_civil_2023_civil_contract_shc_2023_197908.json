@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Misc. Appl. No. S-",
+  "case_number": "",
   "date_of_order": "28.04.2023",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 154 Cr.P.C",
     "Section 156 Cr.P.C",
@@ -17,7 +17,15 @@
   "citations": [
     "PLD 2018 SC 595"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ishfaque Ahmed Almani",
+    "Mr. Ahmed Hussain",
+    "Mr. Siraj Ahmed Bijrani",
+    "Rasool Bux",
+    "Saleem",
+    "Mushtaq",
+    "Ghulam Khatoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

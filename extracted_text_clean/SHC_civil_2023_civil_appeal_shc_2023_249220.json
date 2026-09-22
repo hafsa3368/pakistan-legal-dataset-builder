@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "H.C.A. No.33 of 2024",
   "date_of_order": "07.03.2025",
-  "judge": "JUDGE HANIF",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Nadeem-ul-Haque",
+    "Mr. Khaleeq Ahmed",
+    "Respondent Nos. 1 and 2 claiming to be widow and son of late Commander Hussain Aftab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

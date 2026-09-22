@@ -6,12 +6,16 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No. D-5298 of 2023",
   "date_of_order": "14.12.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Javed Iqbal",
+    "Learned District & Sessions Judge Malir",
+    "Mr. Raj Ali Wahid Kunwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

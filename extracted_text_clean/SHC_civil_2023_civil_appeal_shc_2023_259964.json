@@ -9,9 +9,22 @@
   "case_number": "",
   "date_of_order": "29.04.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hamza Waheed",
+    "Mr. Sandeep Malani",
+    "Mr. Shamshad Ahmed",
+    "Pakistan International Freight of Forwarders Association",
+    "Province of Sindh",
+    "Pakistan Mobile Communication Limited",
+    "Federation of Pakistan",
+    "Sindh & Others",
+    "OOCL Pakistan (Private) Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

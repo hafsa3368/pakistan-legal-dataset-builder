@@ -6,10 +6,14 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.S-509 of 2023",
   "date_of_order": "08.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Section 438 CrPC"
+  ],
   "citations": [
     "2023 SCMR 1434",
     "2023 SCMR 413",
@@ -17,7 +21,10 @@
     "2011 SCMR 1990",
     "2001 SCMR 574"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Sana Kousar",
+    "Abdul Jabbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 33,
   "case_number": "Civil Appeals No.159-L",
   "date_of_order": "23.10.2020",
-  "judge": "",
+  "judge": "Sana Akram Minhas",
   "sections_cited": [
     "section 8",
     "section 8 of the OGRA Ordinance",
@@ -33,7 +33,15 @@
     "PLD 2009 SC 879",
     "PLD 1989 SC 75"
   ],
-  "parties": [],
+  "parties": [
+    "A & G Agro Industries Private Limited & Others",
+    "Federation of Pakistan & Others",
+    "Sui Southern Gas Company",
+    "Suit Northern Gas Company",
+    "Oil and Gas Regulatory Authority",
+    "SSGC",
+    "SNGPL"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

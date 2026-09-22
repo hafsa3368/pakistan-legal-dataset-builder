@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1588 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "01.02.2024",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Yameen Ali Khoso",
+    "Mr. Zeeshan Haider Qureshi",
+    "Mr. Dareshani Ali Haider ‘Ada', D.A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

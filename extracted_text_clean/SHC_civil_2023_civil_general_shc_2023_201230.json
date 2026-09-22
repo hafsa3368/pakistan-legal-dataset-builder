@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitution of Pakistan is not",
+  "case_number": "",
   "date_of_order": "11-08-2023",
   "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
@@ -19,7 +19,29 @@
     "PLD 2016 SC 808",
     "PLD 1973 Karachi 78"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Aslam",
+    "Muhammad Tasleem",
+    "Province of Sindh",
+    "Jawaid",
+    "Ajaz",
+    "Muhammad Kashif Meo",
+    "Fateh Muhammad Meo",
+    "Asma Kanwal",
+    "Kamran Ali",
+    "Muhammad Yameen",
+    "Muhammad Azam",
+    "Altaf Hussain Zargar",
+    "M/s. Jowhar Abid",
+    "Liaquat Ali Hamid Meyo",
+    "Muhammad Imran Meo",
+    "Mr. Saifullah",
+    "Asghar Mahar",
+    "Rao Rafiq",
+    "Syed Mussadiq Amjad",
+    "Raza Mian",
+    "Muhammad Yousuf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

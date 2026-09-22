@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No.D-50 of 2023",
   "date_of_order": "11.02.2025",
-  "judge": "JUDGE",
+  "judge": "Abdul Hamid Bhurgri",
   "sections_cited": [
     "Section 9",
     "Section 382-B of the Code",
@@ -33,7 +33,14 @@
     "2010 SCMR 1962",
     "PLD 1984 SC 278"
   ],
-  "parties": [],
+  "parties": [
+    "Yameen son of Din Muhammad Chand",
+    "The State",
+    "SIP Shakeel Ahmed Jat",
+    "PC Najeebullah",
+    "PC Aftab Ali",
+    "PC Shahid Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

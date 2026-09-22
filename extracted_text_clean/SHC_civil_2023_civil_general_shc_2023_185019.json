@@ -8,13 +8,16 @@
   "num_chunks": 2,
   "case_number": "Misc. No.5516/2023",
   "date_of_order": "02.03.2023",
-  "judge": "CHIEF JUSTICE TariqAli/PA",
+  "judge": "CHIEF JUSTICE TariqAli",
   "sections_cited": [
     "Section 12 CPC",
     "Section 12"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Yousuf Ali Sayeed",
+    "Mr. Ali Raza Hubb"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-644 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "04.10.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada",
+    "Mr. Khuda Bux Chohan",
+    "Mr. Shafi Muhammad Chandio",
+    "respondents No.4 to 6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

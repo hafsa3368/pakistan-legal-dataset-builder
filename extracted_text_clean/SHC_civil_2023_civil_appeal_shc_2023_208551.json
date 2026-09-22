@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 19,
-  "case_number": "",
+  "case_number": "High Court Appeal No.397 of 2023",
   "date_of_order": "18.12.2023",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,16 @@
     "Section 24-A, 25-B, 30"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amir Khan",
+    "Province of Sindh",
+    "M/s Pink Residency",
+    "Deputy Commissioner, Malir, Karachi",
+    "Additional Commissioner / Mukhtiarkar, Malir, Karachi",
+    "Survey Superintendent, Survey Office, Karachi",
+    "SHO Malir Cantonment, Malir, Karachi",
+    "Director / SSP Anti-Encroachment Cell, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,23 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-1519 of 2025",
   "date_of_order": "20.03.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
   "sections_cited": [
     "Section 23 of the Foreign Exchange Regulation Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Chirag Commodities",
+    "Federation of Pakistan",
+    "Secy. M/o Finance",
+    "Mr. Mukesh Kumar Khatri",
+    "Mr. Mushtaq Ahmed",
+    "Mr. R.D Kalhoro",
+    "Mr. Alam Zaib",
+    "Mr. Babar Jadoon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

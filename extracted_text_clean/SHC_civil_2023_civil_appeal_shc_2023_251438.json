@@ -8,7 +8,7 @@
   "num_chunks": 18,
   "case_number": "Civil Appeal No.52 of 2023",
   "date_of_order": "15.11.2023",
-  "judge": "",
+  "judge": "Syed Fiaz ul Hasan Shah",
   "sections_cited": [
     "section 100 of Civil Procedure Code",
     "section 96 CPC",
@@ -27,7 +27,10 @@
     "2001 SCMR 1700",
     "PLD 2023 SC 912"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal",
+    "Muhammad Shakir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

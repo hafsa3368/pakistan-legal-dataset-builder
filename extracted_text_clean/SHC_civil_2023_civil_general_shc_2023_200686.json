@@ -6,12 +6,16 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-894 of 2014",
   "date_of_order": "09.08.2023",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Abbas Sangi",
+    "Assistant Attorney General for Pakistan",
+    "OGDCL"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

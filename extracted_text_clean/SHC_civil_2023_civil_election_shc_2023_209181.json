@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Election appeal No.S-22 of 2024",
   "date_of_order": "08.01.2024",
   "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
@@ -16,7 +16,18 @@
     "Section 140"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Riaz Ahmed",
+    "Federation of Pakistan",
+    "District Returning Officer/Deputy Commissioner District Naushehro Feroze",
+    "Ghulam Murtaza Khan",
+    "Mr. Rasool Bakhsh @ R.B Solangi",
+    "Mr. Mureed Ali Shah",
+    "Mr. Zeeshan Hyder",
+    "Mr. Dareshani Ali Hyder 'Ada' DAG",
+    "Mr. Muhammad Umair",
+    "Mr. Aijaz Ali Halepoto RO NA-206 Naushehro Feroze-II"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

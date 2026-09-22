@@ -8,12 +8,19 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1445 of 2023",
   "date_of_order": "28.08.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [
     "Section 212 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Qurban Ali Buller",
+    "M/s Zulfiqar Ali Jatoi",
+    "Mehboob Ali Wassan",
+    "Inspector Faheem Naeem I.O",
+    "Inspector Muhammad Bachal Qazi",
+    "SIP Jameel Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

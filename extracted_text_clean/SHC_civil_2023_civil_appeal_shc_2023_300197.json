@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Civil Misc Appeal No. S-03 of 2024",
   "date_of_order": "07.11.2025",
-  "judge": "",
+  "judge": "Muhammad Hasan (Akber)",
   "sections_cited": [
     "Section 2 CPC",
     "section 47 CPC",
@@ -19,7 +19,11 @@
     "2002 YLR 960",
     "2004 CLC 979"
   ],
-  "parties": [],
+  "parties": [
+    "Hyder Khan",
+    "Mumtaz Ali",
+    "NEMO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

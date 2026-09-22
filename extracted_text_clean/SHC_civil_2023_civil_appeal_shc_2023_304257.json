@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Acquittal Appeal No.S-11 of 2023",
+  "case_number": "",
   "date_of_order": "02.02.2026",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 417 Cr.P.C",
     "section 8-A of the Illegal Dispossession Act",
@@ -17,7 +17,10 @@
     "sections 435 and 439 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aijaz Ahmed",
+    "Mushtaque Ahmed & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

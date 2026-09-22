@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "Election Appeal No.116 of 2024",
   "date_of_order": "30.12.2023",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 60",
     "Section 62 of the Elections Act",
@@ -16,7 +16,13 @@
     "section 140 of the Elections Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Deedar Ali",
+    "Mr. Muddasir Iqbal",
+    "Mr. G.M Bhuto",
+    "Assistant Attorney General",
+    "Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

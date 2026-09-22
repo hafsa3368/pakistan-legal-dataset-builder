@@ -6,12 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.10315/2023",
   "date_of_order": "18.07.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Farhan-ul-Hassan, Advocate",
+    "Ms. Saadia Sumera Bajwa",
+    "Sardar Ali Sher Khan",
+    "Farhan Hameed",
+    "Mushtaque Ali Panwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

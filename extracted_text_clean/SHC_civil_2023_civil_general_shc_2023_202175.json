@@ -6,12 +6,16 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-4017 of 2023",
   "date_of_order": "4th September 2023",
   "judge": "Aqeel Ahmed Abbasi Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Aqeel Ahmed Abbasi",
+    "Mr. Justice Abdul Mobeen Lakho",
+    "Mr. Darvesh K. Mandhan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

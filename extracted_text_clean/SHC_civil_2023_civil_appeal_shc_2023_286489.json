@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Criminal Acquittal Appeal No. 06 of 2024",
+  "case_number": "",
   "date_of_order": "13.10.2025",
-  "judge": "",
+  "judge": "Tasneem Sultana",
   "sections_cited": [
     "Sections 354, 337-A",
     "Section 342 Cr.P.C"
@@ -30,7 +30,11 @@
     "2017 SCMR 1639",
     "PLD 1981 SC 472"
   ],
-  "parties": [],
+  "parties": [
+    "Complainant Gulista",
+    "The State",
+    "Tasleem & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

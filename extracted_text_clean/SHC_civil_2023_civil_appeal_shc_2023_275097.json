@@ -8,7 +8,7 @@
   "num_chunks": 29,
   "case_number": "Crl. Jail Appeal No.S-46 of 2024",
   "date_of_order": "05.05.2025",
-  "judge": "",
+  "judge": "RIAZAT ALI SAHAR",
   "sections_cited": [
     "Sections 324, 457, 337-F",
     "Section 324 PPC",
@@ -31,7 +31,11 @@
     "2002 SCMR 338",
     "2019 SCMR 1315"
   ],
-  "parties": [],
+  "parties": [
+    "Aftab son of Abdul Hakeem Bagrani",
+    "The State",
+    "Abdul Aziz Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

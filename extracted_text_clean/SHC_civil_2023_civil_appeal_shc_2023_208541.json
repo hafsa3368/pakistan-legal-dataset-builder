@@ -8,10 +8,24 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "20.12.2023",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "u/s 90 CrPC",
+    "Order-XXI Rule-90",
+    "Order-XXI Rule-66"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Mazhar Ghullam Lotia & Co. and others",
+    "SME Bank Limited and another",
+    "Syed Aijaz Hussain Shirazi",
+    "Mr. Aga Zafar Ahmed",
+    "Ms. Nousheen Khan Tajamul",
+    "Mr. Tajamul Hussain Lodhi",
+    "Syed Muhammad Jaffer Qadri",
+    "Syed Sabir Ali Qadri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

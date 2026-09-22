@@ -8,10 +8,26 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-985 of 2013",
   "date_of_order": "29.11.2023",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Saeed Ahmed",
+    "P.O. Sindh",
+    "Nisar Ahmed Lakhair",
+    "NAB",
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Arbab Ali Hakro",
+    "M/s Nisar Ahmed Bhanbhro",
+    "Sheeraz Fazal",
+    "M/s Mujeeb Rehman",
+    "Najamuddin Dharejo",
+    "Mr. Zulfiqar Ali Naich",
+    "Assistant A.G-Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,21 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "10.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Niaz Hussain Maitlo",
+    "Mr. Ali Raza Baloch",
+    "respondents No.1",
+    "respondents No.2",
+    "respondents No.3",
+    "respondents No.4",
+    "respondents No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

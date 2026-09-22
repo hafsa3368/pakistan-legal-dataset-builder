@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "22.08.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Nasir Malik",
+    "Mr. Ghulam Shabbir Shar",
+    "respondents No.4 to 8",
+    "Mr. Dareshani Ali Haider ‘Ada’"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

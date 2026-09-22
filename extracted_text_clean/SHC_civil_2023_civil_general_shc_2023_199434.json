@@ -6,12 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Petition No.S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "16.06.2023",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Munir Ahmed Leghari",
+    "Shafi Muhammad Mahar",
+    "SHO, P.S, Phull",
+    "M/s Shahriar I. Awan",
+    "Mr. Riaz Ali Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

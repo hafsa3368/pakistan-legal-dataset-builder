@@ -8,14 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Misc. Application No. 661 of 2023",
   "date_of_order": "29.11.2023",
-  "judge": "",
+  "judge": "Syed Meeral Shah",
   "sections_cited": [
     "Section 561-A",
     "Section 154",
     "Section 182"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Matloob Hussain",
+    "Mr. Saeed Ahmed Khoso",
+    "Mr. Muhammad Hanif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

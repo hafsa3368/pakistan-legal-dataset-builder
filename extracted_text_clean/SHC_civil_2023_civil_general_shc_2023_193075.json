@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No.10255/2023",
   "date_of_order": "02.05.2023",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Government of Pakistan, Ministry of Federal Education & Professional Training",
+    "FUUAST",
+    "Dr. Zia-ud-Din",
+    "FUUAST",
+    "The petitioner",
+    "FUUAST"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

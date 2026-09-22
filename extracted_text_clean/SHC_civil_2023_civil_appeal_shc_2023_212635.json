@@ -20,7 +20,10 @@
     "PLD 2002 Karachi 83",
     "PLD 1965 SC 83"
   ],
-  "parties": [],
+  "parties": [
+    "Basham Baloch",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

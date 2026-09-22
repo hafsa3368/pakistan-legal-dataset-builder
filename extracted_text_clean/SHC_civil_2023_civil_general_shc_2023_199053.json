@@ -6,12 +6,16 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Crl. Misc. Application No.S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "09.06.2023",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mari Petroleum Company Daharki-Ghotki",
+    "Farman Ali (respondent No.2)",
+    "Ch. Shahid Hussain Rajput Advocate for the applicants"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

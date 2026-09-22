@@ -8,13 +8,27 @@
   "num_chunks": 4,
   "case_number": "Const. Petition No.D-1303 of 2023",
   "date_of_order": "31.08.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 13(1) of the Pakistan Civil Service Regulations, 1974",
+    "Section 12(1) of the Pakistan Civil Service Regulations, 1974"
+  ],
   "citations": [
     "2014 SCMR 157",
     "2011 SCMR 1198"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Mr. Abdul Raouf",
+    "Mr. Jaffar Ali Shah",
+    "Mr. Zulfiqar Ali Naich",
+    "Assistant Advocate General",
+    "Ansar Ali",
+    "Irashad Ali",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Criminal Jail Appeal No.D-33 of 2023",
   "date_of_order": "17-06-2025",
-  "judge": "JUDGE",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 9",
     "Section 382-B",
@@ -34,7 +34,15 @@
     "2022 SCMR 1527",
     "2025 YLR 487"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Meer Khan Bozdar",
+    "Zakir Hussain Bozdar",
+    "SIP Zahoor Ahmed",
+    "Mr. Justice Shamsuddin Abbasi",
+    "Mr. Justice Ali Haider",
+    "Shafique Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

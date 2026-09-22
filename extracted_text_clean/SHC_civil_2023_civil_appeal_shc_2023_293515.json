@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Const. Petition No. S-750 of 2025",
   "date_of_order": "24.11.2025",
-  "judge": "",
+  "judge": "Nisar Ahmed Bhanbhro",
   "sections_cited": [
     "Section 17",
     "Section 17 CPC",
@@ -21,7 +21,14 @@
     "2007 SCMR 355",
     "2023 CLC 895"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Hussain & Ors.",
+    "Mst. Batul Bai & Ors.",
+    "Mr. Asif Ali Khawaja",
+    "Mr. Saifuddin Salehbhoy Haryanawala",
+    "Mr. Arif Hussain",
+    "Mr. Ali Zardari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,22 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "constitutional and contrary to the norms",
+  "case_number": "C.P.No.D-114 OF 2024",
   "date_of_order": "16-01-2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ABDUL MOBEEN LAKHO,",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Rehman Mallah",
+    "Chief Election Commission & others",
+    "Mr. Muhammad Iqrar",
+    "Mr. Saifullah",
+    "Mr. Abdullah Hanjrah",
+    "Mr. Sarmad Sarwar",
+    "Mr. Rizwan Alam Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

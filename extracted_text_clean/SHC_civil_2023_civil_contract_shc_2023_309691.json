@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "civil servants do not",
+  "case_number": "C.P. No. D-3869 of 2025",
   "date_of_order": "26.03.2026",
-  "judge": "Shahzad Soomro JUDGE",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 2 of the Civil Servants Act",
     "Section 27"
@@ -16,7 +16,10 @@
   "citations": [
     "2015 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "Jawad Ali Tunio",
+    "Section Officer (ADMN-II) and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

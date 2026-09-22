@@ -8,10 +8,13 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "22.04.2026",
-  "judge": "JUDGE Sajjad Ali",
+  "judge": "Sajjad Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Yousif Kalhoro",
+    "Abdul Wahid S/o Muhammad Yousuf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

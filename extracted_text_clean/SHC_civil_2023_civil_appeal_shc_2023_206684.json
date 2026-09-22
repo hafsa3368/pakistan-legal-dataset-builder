@@ -6,12 +6,15 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 407 of 2006",
   "date_of_order": "30.11.2023",
-  "judge": "JUDGE Amjad/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Vawda, advocate for the appellant",
+    "Mr. Mir Saifullah advocate holds brief for Mr. Inayatullah Morio, advocate for the applicant intervener"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

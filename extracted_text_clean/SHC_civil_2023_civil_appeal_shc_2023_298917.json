@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Cr. Jail Appeal No. D-69 of 2024",
   "date_of_order": "17.12.2025",
   "judge": "Amjad Ali Bohio",
   "sections_cited": [
@@ -14,7 +14,12 @@
     "Section 382-B"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hareef @ Papan s/o Shoukat @ Dhamali, Gopang",
+    "The State",
+    "Mansoor Ahmed Shaikh",
+    "Rukhsar Ahmed Junejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

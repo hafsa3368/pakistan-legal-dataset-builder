@@ -9,9 +9,23 @@
   "case_number": "Constitution Petition No.S-1140 of 2023",
   "date_of_order": "22.11.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Javed Akhter Rind",
+    "Ms. Rubina Qadir",
+    "Mr. Sharfdin Jamali",
+    "Inspector Abdul Sattar Magsi",
+    "SHO Mubina",
+    "ASI Muhammad Ali",
+    "ASI Shahzad",
+    "HC Zameera Khatoon",
+    "Police Station Mubina",
+    "DIGP East",
+    "Learned Addl. A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

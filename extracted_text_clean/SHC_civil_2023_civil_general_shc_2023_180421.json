@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "18.01.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Rehan Khan Durrani, Advocate",
+    "Shehriyar Imdad Awan, AAG",
+    "Mouzam Ali Jamro, Assistant Engineer",
+    "Riaz Bhutto, Assistant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

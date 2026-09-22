@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "construction raised by the Respondent No. 8",
+  "case_number": "",
   "date_of_order": "18.12.2023",
   "judge": "",
   "sections_cited": [
@@ -34,7 +34,12 @@
     "2000 SCMR 204",
     "PLD 2009 SC 546"
   ],
-  "parties": [],
+  "parties": [
+    "Ms. Amna Usman, Advocate for the Petitioner",
+    "Mr. Ghulam Akber Lashari and Ms. Humaira Jatoi, Advocate for SBCA",
+    "Mr. Faheem Shah, Advocate for Respondent No.8",
+    "Mr. Jawwad Dero, Addl. A.G. Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

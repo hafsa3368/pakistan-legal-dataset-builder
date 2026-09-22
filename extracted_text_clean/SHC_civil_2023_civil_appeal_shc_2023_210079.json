@@ -6,12 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 303 of 2023",
   "date_of_order": "01.02.2024",
-  "judge": "JUDGE Amjad PS",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s.American Electronics (SMC-Private) Limited",
+    "Fujitsu General Limited",
+    "M/s. Sameer Ahmed Arain",
+    "Salman Ahmed Shaikh",
+    "Mr. Abdul Ahad Nadeem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

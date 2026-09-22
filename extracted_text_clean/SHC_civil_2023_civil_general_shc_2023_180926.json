@@ -7,14 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Crl. Misc. Application No. 673 of 2022",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "14.02.2023",
+  "judge": "Omar Sial",
   "sections_cited": [
     "Section 22-A Cr.P.C",
     "section 179 of the Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Omar Sial",
+    "Mr. Mujeeb-ur-Rehman, Advocate for applicant",
+    "Mr. Abdul Haleem Jamali, Advocate for proposed accused",
+    "Mr. Abrar Ali Khichi, Addl.P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "High Court Appeals No.14 of 2024",
   "date_of_order": "11.01.2024",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,12 @@
     "Section 42"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Aziz Khalid",
+    "Aziz Khalid",
+    "Akhter Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

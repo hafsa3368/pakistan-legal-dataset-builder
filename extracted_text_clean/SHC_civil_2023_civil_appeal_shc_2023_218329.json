@@ -6,12 +6,23 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-2179 of 2021",
   "date_of_order": "19.08.2024",
   "judge": "Ayaz Gul",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 25 of the Guardian & Ward Act, 1890"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ekramuddin Khan",
+    "DG FIA",
+    "Muhammad Nizar Tanoli",
+    "Khaleeq Ahmed",
+    "Muhammad Shafi Siddiqui",
+    "Jawad Akbar Sarwana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

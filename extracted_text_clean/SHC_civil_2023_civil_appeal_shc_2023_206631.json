@@ -6,12 +6,15 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeals No.40",
   "date_of_order": "08.12.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sarim Burney Welfare Trust International & another",
+    "Syed Sarwar Muiz & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

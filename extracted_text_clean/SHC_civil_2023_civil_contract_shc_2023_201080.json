@@ -6,12 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE Irfan Ali",
+  "case_number": "C.P. No.D-672 of 2018",
+  "date_of_order": "09.08.2023",
+  "judge": "Irfan Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Akhtar Ali Abro",
+    "Mr. Rafiq Ahmed Dahri",
+    "the petitioner",
+    "Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

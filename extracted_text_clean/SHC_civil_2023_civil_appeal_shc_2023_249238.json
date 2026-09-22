@@ -6,10 +6,15 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "constitution petition cannot",
+  "case_number": "C.P. No.S-182 of 2025",
   "date_of_order": "07.03.2025",
   "judge": "Jamil",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "u/s 12(5)(b) D.P. Act 2002",
+    "u/s 13(1)(d) D.P. Act 2002"
+  ],
   "citations": [
     "2023 SCMR 413",
     "2023 SCMR 1434",

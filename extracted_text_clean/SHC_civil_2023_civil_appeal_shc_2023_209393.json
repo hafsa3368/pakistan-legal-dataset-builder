@@ -6,14 +6,21 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Acquittal Appeal. No. S-127 of 2023",
+  "case_number": "",
   "date_of_order": "17.01.2024",
-  "judge": "",
+  "judge": "Zulfikar Ali Sangi",
   "sections_cited": [
     "Section 342 Cr.PC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Fareed Ahmed",
+    "Manosh Kumar",
+    "Shabbir Hussain",
+    "Sanjay Kumar",
+    "Sikandar Ali Junejo",
+    "Syed Sardar Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

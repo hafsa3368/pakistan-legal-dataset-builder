@@ -6,12 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.7 of 2024",
   "date_of_order": "09.05.2024",
-  "judge": "JUDGE Amjad PS",
+  "judge": "Muhammad Shafi Siddiqui Justice Ms",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Muhammad",
+    "Muhammad Ali",
+    "Syed Hassan Jafri",
+    "Mr. Amir Asher Azeem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

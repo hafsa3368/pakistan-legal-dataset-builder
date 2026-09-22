@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "16.10.2023",
-  "judge": "JUDGE Amjad/PA",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Z.U. Mujahid, advocate for the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

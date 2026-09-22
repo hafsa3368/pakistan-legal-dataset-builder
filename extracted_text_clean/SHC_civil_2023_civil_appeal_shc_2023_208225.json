@@ -6,12 +6,15 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No.455 of 2023",
   "date_of_order": "19.12.2023",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Waseem Ahmed",
+    "Mst. Ayesha Fatima Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

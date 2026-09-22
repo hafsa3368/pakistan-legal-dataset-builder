@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P. No. D-6988 of 2022",
   "date_of_order": "26.01.2023",
   "judge": "CHIEF JUSTICE MUBASHIR",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Khalid Khan, Advocate for the Petitioner",
+    "Yousuf Ali Sayeed, J.",
+    "the Petitioner",
+    "the National Database & Registration Authority",
+    "the competent Court of law",
+    "the concerned Civil Court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 22,
   "case_number": "Civil Revision Application No.S-60 of 2024",
   "date_of_order": "24.02.2025",
-  "judge": "",
+  "judge": "Syed Fiaz ul Hasan Shah",
   "sections_cited": [
     "section 115 of Civil Procedure Code",
     "section 115 Civil Procedure Code",
@@ -31,7 +31,18 @@
     "PLD 2018 SC 189",
     "PLD 2011 SC 241"
   ],
-  "parties": [],
+  "parties": [
+    "Khamiso S/o Raju",
+    "Attaullah S/o Abdul Subhan",
+    "Mansigno S/o Petho Mal",
+    "Dewan Kumar S/o Mansingo",
+    "Lajpat S/o Mansingo",
+    "Smt. Roope Wd/o Mansingo",
+    "The Mukhtiarkar, Revenue Umerkot",
+    "The Sub-Registrar, Umerkot",
+    "The Registrar, Mirpurkhas",
+    "Province of Sindh, through Secretary Revenue, Government of Sindh, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

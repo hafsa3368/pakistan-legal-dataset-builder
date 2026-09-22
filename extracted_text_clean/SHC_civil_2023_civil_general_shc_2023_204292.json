@@ -6,12 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "construction on Plot No. D-12",
+  "case_number": "C.P. No.D-4730 of 2023",
   "date_of_order": "3rd October 2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zamir Hussain, Advocate for Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

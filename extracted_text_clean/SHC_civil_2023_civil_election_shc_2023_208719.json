@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "criminal cases is no ground",
+  "case_number": "Election Appeal No. 45 of 2024",
   "date_of_order": "29.12.2023",
   "judge": "",
   "sections_cited": [
@@ -19,7 +19,15 @@
   "citations": [
     "2016 SCMR 2042"
   ],
-  "parties": [],
+  "parties": [
+    "Subhan Ali",
+    "Ahsan Muhammad",
+    "Ali Asghar Buriro",
+    "G.M Bhuto",
+    "Sarmad Sarwer",
+    "Election Commission of Pakistan",
+    "Karim Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

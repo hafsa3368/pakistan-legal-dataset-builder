@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-164 of 2024",
   "date_of_order": "30.12.2023",
   "judge": "Aqeel Ahmed Abbasi",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "Section 62 of the Elections Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aqil Zaidi",
+    "Mr. Saifullah",
+    "Mr. Abdullah Hanjrah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

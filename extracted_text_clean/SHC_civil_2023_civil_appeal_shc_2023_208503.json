@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "20 October 2023",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman",
   "sections_cited": [
     "Section 410 of the Code",
     "Section 265-H",
@@ -18,7 +18,12 @@
   "citations": [
     "1999 SCMR 2589"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Rao Faisal Ali",
+    "The State",
+    "The State",
+    "Ms. Safa Hisbani A.P.G"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

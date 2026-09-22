@@ -6,12 +6,16 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 56 of 2020",
   "date_of_order": "14.11.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mujtaba Sohail Raja, advocate for the appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

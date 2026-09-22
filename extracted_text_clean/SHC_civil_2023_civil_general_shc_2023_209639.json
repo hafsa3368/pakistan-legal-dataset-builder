@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "MA No.16111/2023",
   "date_of_order": "23.01.2024",
   "judge": "",
   "sections_cited": [
@@ -17,7 +17,16 @@
     "1998 MLD 1302",
     "1986 CLC 581"
   ],
-  "parties": [],
+  "parties": [
+    "Yasmeen Saleem & Another",
+    "Sindh Building Control Authority & Others",
+    "Mr. Muhammad Faran Khan",
+    "Mr. Khursheed Javed",
+    "Mr. Ahmed Masood",
+    "Mr. Abdul Qadir",
+    "Mr. Ashraf Ali Mirani",
+    "Tourism & Antiquities Department, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

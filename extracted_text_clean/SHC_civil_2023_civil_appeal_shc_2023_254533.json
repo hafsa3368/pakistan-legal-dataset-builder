@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Jail Appeal No.D-16 of 2023",
   "date_of_order": "30.11.2023",
-  "judge": "",
+  "judge": "MUHAMMAD IQBAL KALHORO",
   "sections_cited": [
     "Section 9",
     "Section 342 Cr.P.C",
@@ -18,7 +18,16 @@
     "2023 MLD 875",
     "2019 P Cr. L J 1302"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "Appellant",
+      "name": "Ghulam Qadir Brohi"
+    },
+    {
+      "type": "The State",
+      "name": "Syed Sardar Ali Shah"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

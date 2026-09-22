@@ -6,16 +6,21 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "civil proceedings that they are innocent",
+  "case_number": "",
   "date_of_order": "11.03.2024",
-  "judge": "JUDGE",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "sections 489-F, 420, 120, 405 and 34",
     "sections 265-K and 249-A Cr.P.C",
     "section 489-F"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Kashif",
+    "Abdul Khaliq",
+    "Haji Abdul Sattar",
+    "Fahad Khaliq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

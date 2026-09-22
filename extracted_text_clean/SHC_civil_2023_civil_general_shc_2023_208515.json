@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 17,
-  "case_number": "Criminal Complaint without first issuing a notice",
+  "case_number": "C.P. Nos.D-4789 of 2023",
   "date_of_order": "16.10.2023",
-  "judge": "",
+  "judge": "MOHAMMAD ABDUR RAHMAN,",
   "sections_cited": [
     "Section 4 of the Sindh Building Control Ordinance",
     "Section 7A of the Sindh Building Control Ordinance",
@@ -38,7 +38,14 @@
     "PLD 2002 Karachi 405",
     "PLD 1967 SC 317"
   ],
-  "parties": [],
+  "parties": [
+    "SAQIB BIN RAUF",
+    "KASHIF BIN RAUF",
+    "FAHAD SHAFIQ",
+    "FARAZ ALI",
+    "FAISAL HASHMANI",
+    "SINDH BUILDING CONTROL AUTHORITY & OTHERS"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

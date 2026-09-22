@@ -8,13 +8,31 @@
   "num_chunks": 3,
   "case_number": "Misc. Application No.13/2023",
   "date_of_order": "27.06.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "AMJAD ALI BOHIO,J",
+  "sections_cited": [
+    "u/s 435 and 439 Cr.P.C",
+    "u/s 516-A"
+  ],
   "citations": [
     "2011 P.Cr.L.J 1513",
     "2001 YLR 1371"
   ],
-  "parties": [],
+  "parties": [
+    "Shoukat Ali Makwal",
+    "Muhammad Bilal Khan",
+    "Ali Akber Solangi",
+    "Mst. Zeenat",
+    "Jamal uddin Ahmed",
+    "Muhammad Maqbool",
+    "Rao Muhammad Talha",
+    "The State",
+    "Ali Akber Solangi",
+    "Umme Kulsoom",
+    "Farzana",
+    "Qurban Ali Malano",
+    "Imran Mobeen Khan",
+    "Ahsan Ali Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

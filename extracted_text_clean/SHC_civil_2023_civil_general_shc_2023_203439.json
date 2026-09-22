@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-897 of 2023",
   "date_of_order": "11.09.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed Bhanbhro",
+    "Mr. Shafi Muhammad Chandio",
+    "Najaf Ali Janveri",
+    "CMO, M.C, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

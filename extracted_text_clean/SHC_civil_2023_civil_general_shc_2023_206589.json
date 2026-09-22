@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "05.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    ""
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Shabbir Shar",
+    "Mr. Niaz Hussain Maitlo",
+    "Mr. Zulfiqar Ali Naich",
+    "respondents No.1 to 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

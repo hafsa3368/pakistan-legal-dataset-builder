@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-1459 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "date_of_order": "29-11-2023",
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hafiz Muhammad Ramzan Brohi",
+    "P.O Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

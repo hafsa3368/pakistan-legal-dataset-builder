@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "criminal than to punish an innocent",
+  "case_number": "Cr. Appeal No. D-27 of 2024",
   "date_of_order": "17.09.2025",
   "judge": "Amjad Ali Bohio",
   "sections_cited": [
@@ -18,7 +18,10 @@
     "2011 SCMR 492",
     "1995 SCMR 1639"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ibrahim son of Jam Kando, Soomro",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

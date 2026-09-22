@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitution of Pakistan 1973 cannot",
+  "case_number": "C.P.No.D-400 of 2024",
   "date_of_order": "13.02.2024",
-  "judge": "JUDGE Shafi",
+  "judge": "Muhammad Junaid Ghaffar",
   "sections_cited": [
     "Section 166",
     "section 159 of the Companies Act",
@@ -29,7 +29,12 @@
     "PLD 2011 SC 752",
     "PLD 2015 SC 6"
   ],
-  "parties": [],
+  "parties": [
+    "Omer Khalid",
+    "Federation of Pakistan",
+    "Dr. Shamshad Akhtar",
+    "Sui Southern Gas Company Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

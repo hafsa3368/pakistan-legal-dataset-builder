@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No. S-107 of 2025",
   "date_of_order": "19.01.2026",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "sections 324, 337-A",
     "Section 337-A",
@@ -21,7 +21,20 @@
     "section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Asif Ali Shah",
+    "Syed Waqar Ali Shah",
+    "Syed Sajjad Shah",
+    "Syed Musharraf Ali Shah",
+    "Syed Zakir Hussain Shah",
+    "Syed Kazim Ali Shah",
+    "Syed Zahir Ali Shah",
+    "Syed Naib Ali Shah",
+    "Ali Gohar Shah",
+    "Hafeez Shah",
+    "Mst. Majida",
+    "Syed Taj Muhammad Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

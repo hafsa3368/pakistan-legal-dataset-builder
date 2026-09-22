@@ -6,12 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.82 of 2025",
   "date_of_order": "23rd April 2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Order VII Rule 11 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ilyas Awan",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

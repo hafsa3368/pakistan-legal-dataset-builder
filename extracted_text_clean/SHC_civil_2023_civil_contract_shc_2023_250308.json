@@ -8,13 +8,18 @@
   "num_chunks": 3,
   "case_number": "Misc. No.5803/2025",
   "date_of_order": "",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [
     "Section 3",
     "Section 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Peer Azeem Shah",
+    "Federation of Pakistan",
+    "KPT",
+    "Mr. Muhammad Naseeruddin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

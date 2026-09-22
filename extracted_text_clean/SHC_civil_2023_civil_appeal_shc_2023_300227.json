@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Appeal No.S-",
+  "case_number": "",
   "date_of_order": "22.12.2025",
   "judge": "Tufail",
   "sections_cited": [
@@ -22,7 +22,15 @@
     "Section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Haji Muhammad s/o Muhammad Hussain",
+    "Muhammad Haroon s/o Muhammad Hasan",
+    "Sher Ali s/o Jumoon Mandhro",
+    "Mir Muhammad s/o Juman Mandhro",
+    "Muhammad Siddique s/o Lakhadino",
+    "Muhammad Usman s/o Lakhadino",
+    "Mst. Saira w/o Sikander"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

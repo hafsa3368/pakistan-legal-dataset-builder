@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.368 of 2018",
   "date_of_order": "30.01.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hassan Mehmood @ Mehmood Haravi",
+    "Parvaiz Haravi",
+    "M. Muhammad Imtiaz Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

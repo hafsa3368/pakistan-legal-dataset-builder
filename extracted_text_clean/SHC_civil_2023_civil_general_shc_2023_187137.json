@@ -6,12 +6,16 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A No.373 of 2022",
   "date_of_order": "03.03.2023",
-  "judge": "JUDGE SM",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abid Naseem",
+    "Mr. Waseem Shaikh",
+    "Respondents No.1&2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

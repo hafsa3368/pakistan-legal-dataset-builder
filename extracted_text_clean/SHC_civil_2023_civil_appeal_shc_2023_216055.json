@@ -6,12 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "HCA No.48 of 2024",
+  "date_of_order": "29.5.2024",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Sui Southern Gas Company Ltd. & another",
+    "Rubina Shaheen & another",
+    "Abdul Hakeem Junejo",
+    "Syed Kamal",
+    "Ali Asadullah Bullo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

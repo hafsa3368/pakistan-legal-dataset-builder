@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No. S-125 of 2024",
   "date_of_order": "14.06.2024",
-  "judge": "",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "Sections 4/8",
     "section 382-B Cr.P.C",
@@ -18,7 +18,12 @@
   "citations": [
     "1995 SCMR 1345"
   ],
-  "parties": [],
+  "parties": [
+    "Juned s/o Muhammad Yousuf Makrani Baloch",
+    "State",
+    "Mr. Muhammad Imran Choudhry",
+    "Mr. Dhani Bakhsh Mari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

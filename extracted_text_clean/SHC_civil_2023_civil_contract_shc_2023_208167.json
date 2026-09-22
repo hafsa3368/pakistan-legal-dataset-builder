@@ -7,14 +7,25 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "19.12.2023",
+  "judge": "",
   "sections_cited": [
     "Sections 365-B & 34 PPC",
     "Section 161 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ameen Bhutto",
+    "Mst. Muskan",
+    "Ahsan Ali Brohi",
+    "Muhammad Ameen Bhutto",
+    "Saeed Jamal Lund",
+    "Muhammad Ameen Bhutto",
+    "Mst. Muskan",
+    "Muhammad Ameen Bhutto",
+    "Ahsan Ali Brohi",
+    "Muhammad Ameen Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

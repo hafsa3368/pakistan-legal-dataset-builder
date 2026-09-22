@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.S-41 of 2024",
   "date_of_order": "01.05.2000",
-  "judge": "",
+  "judge": "Tasneem Sultana",
   "sections_cited": [
     "Section 14 of the Foreigners Act",
     "section 14 of the Foreigners Act",
@@ -26,7 +26,14 @@
     "2022 P Cr.L.J Note 19",
     "1988 SCMR 753"
   ],
-  "parties": [],
+  "parties": [
+    "Akhtar Khan",
+    "Zakar Khan",
+    "Abdul Rehaman",
+    "The State",
+    "The State through Mr. Khalid Hussain",
+    "The State through Mr. Lakho D.P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A. No.290 of 2023",
   "date_of_order": "20.10.2023",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Nadra Jawed",
+    "Muhammad Shehzad",
+    "Muhammad Shafi Siddiqui",
+    "Jawad Akbar Sarwana",
+    "Syed Ahsan Imam Rizvi",
+    "Khursheed Javed",
+    "Muhammad Ajmal Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

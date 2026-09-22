@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Jail Appeal No. 668 of 2024",
   "date_of_order": "20.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 397/34 PPC",
     "Section 397 PPC",
@@ -19,7 +19,11 @@
     "Section 24-A of the General Clauses Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Haq Nawaz son of Mumtaz",
+    "The State through Ms. Rahat Ahsan, Addl. P.G Sindh",
+    "Ahad Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

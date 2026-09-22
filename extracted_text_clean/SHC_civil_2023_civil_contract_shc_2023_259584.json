@@ -7,11 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1301 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "date_of_order": "03.10.2023",
+  "judge": "Sulemen Khan",
+  "sections_cited": [
+    "u/s 457/2, 365-B, 34 PPC",
+    "u/s 161 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Saleh, Advocate for the Petitioners",
+    "Mr. Riaz Ahmed Buriro, Advocate for Respondent No.7",
+    "Mr. Shafi Muhammad Chandio, Additional Advocate General",
+    "ASI Riaz Ali Korai",
+    "Respondent No.6/I.O of Crime No.152/2023"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

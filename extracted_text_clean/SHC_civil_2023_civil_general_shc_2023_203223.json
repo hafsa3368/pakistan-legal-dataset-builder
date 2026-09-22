@@ -6,12 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "HCA No. 211 of 2022",
   "date_of_order": "25.09.2023",
-  "judge": "JUDGE MUBASHIR",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Appellant No.1",
+    "Appellant No.3",
+    "Appellant No.2",
+    "Respondent No.1",
+    "Respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

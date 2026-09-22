@@ -9,9 +9,15 @@
   "case_number": "",
   "date_of_order": "31st October 2023",
   "judge": "Aqeel Ahmed Abbasi Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Qadir Hussain Khan",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

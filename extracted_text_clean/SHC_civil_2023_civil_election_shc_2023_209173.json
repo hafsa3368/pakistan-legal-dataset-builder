@@ -6,12 +6,25 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "Election appeal No.S-25 of 2024",
   "date_of_order": "08.01.2024",
   "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Riaz Ahmed",
+    "Masroor Ahmed Khan",
+    "The Returning Officer",
+    "The Election Commission of Pakistan",
+    "Mr. Nisar Ahmed Bhambhro",
+    "Mr. Sheraz Fazal",
+    "Mr. Mureed Ali Shah",
+    "Mr. Zeeshan Hyder",
+    "Mr. Dareshani Ali Hyder ‘Ada’ DAG",
+    "Mr. Muhammad Umair",
+    "Mr. Aijaz Ali Halepoto",
+    "Zulfiqar Ali Sangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

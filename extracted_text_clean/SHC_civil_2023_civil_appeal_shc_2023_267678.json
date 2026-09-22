@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Constitution Petition No. S",
+  "case_number": "",
   "date_of_order": "23.04.2025",
   "judge": "Muhammad Jaffer Raza Constitution Petition",
   "sections_cited": [
@@ -14,7 +14,13 @@
     "Sections 49 and 50 of the Civil Procedure Code"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Haleem Siddiqui",
+    "Sidra Ali",
+    "Muhammad Arshad",
+    "Tariq Hussain",
+    "Deeba Ali Jaffri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

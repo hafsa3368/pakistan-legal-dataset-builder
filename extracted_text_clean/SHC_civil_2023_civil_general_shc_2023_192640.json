@@ -6,14 +6,22 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C. P. No. D-1133 of 2020",
   "date_of_order": "01.02.2023",
   "judge": "CHIEF JUSTICE MUBASHIR",
   "sections_cited": [],
   "citations": [
     "PLD 2007 Lahore 568"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Safdar",
+    "Mr. Kashif Hanif",
+    "Mr. Shahryar Mahar",
+    "Yousuf Ali Sayeed",
+    "Dr. Khalid Zamir Rasib",
+    "Chancellor and others",
+    "Province of the Punjab and 4 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

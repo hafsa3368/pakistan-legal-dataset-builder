@@ -6,12 +6,15 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "constructions being raised by the respondent No.5",
+  "case_number": "",
   "date_of_order": "9th October 2023",
   "judge": "Aqeel Ahmed Abbasi Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Qadir Mirza, Advocate for Petitioner",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

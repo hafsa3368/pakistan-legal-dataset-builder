@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Misc. No.26001/2023",
   "date_of_order": "22.11.2023",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sohail Nomani",
+    "Amjad Khan",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

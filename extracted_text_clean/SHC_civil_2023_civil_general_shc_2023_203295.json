@@ -8,10 +8,16 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "19.09.2023",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Prof. Dr. Gul Afshan",
+    "Vice Chancellor, SALU, Khairpur",
+    "Dr. Naveed Ahmed Shaikh",
+    "Professor Dr. Mushtaque Ali Jakhrani",
+    "Professor Dr. Ghulam Abbas Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

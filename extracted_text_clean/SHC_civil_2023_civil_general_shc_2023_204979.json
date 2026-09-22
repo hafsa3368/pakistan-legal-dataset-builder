@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Const. Petition No. D-247 of 2023",
   "date_of_order": "07.11.2023",
-  "judge": "JUDGE Irfan/PA",
+  "judge": "Yousuf Ali Sayeed,",
   "sections_cited": [
     "Section 17 of the Citizenship Act",
     "Section 17"
@@ -21,7 +21,11 @@
     "PLD 1961 SC 616",
     "PLD 1978 Karachi 214"
   ],
-  "parties": [],
+  "parties": [
+    "Dua Tauseef",
+    "Province of Sindh",
+    "Director Admissions SMBBMU and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

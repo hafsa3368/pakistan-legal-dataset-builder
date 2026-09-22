@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-1196 of 2017",
   "date_of_order": "09.08.2023",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Asghar Mangi",
+    "Mr. Muhammad Yousuf Rahpoto",
+    "Petitioner",
+    "Assistant AG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

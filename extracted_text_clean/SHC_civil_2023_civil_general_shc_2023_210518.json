@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.D-44 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "21.11.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    " applicant",
+    " applicant",
+    "Mr. Ghulam Rasool Chandio, Advocate for applicant",
+    "Mr. Zulfiqar Ali Jatoi, Additional P.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

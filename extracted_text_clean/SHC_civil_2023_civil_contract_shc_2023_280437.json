@@ -6,12 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-5732 of 2023",
   "date_of_order": "02.09.2025",
   "judge": "Shahzad Soomro",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Asadullah Bullo",
+    "Mr. Ch. Azhar Elahi",
+    "NBP",
+    "Ms. Wajiha Mehdi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

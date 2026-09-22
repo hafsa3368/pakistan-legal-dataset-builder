@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "23.04.2024",
-  "judge": "",
+  "judge": "Malik Muhammad Ejaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Sadia Shaikh",
+    "Muhammad Naveed Chaudhary"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

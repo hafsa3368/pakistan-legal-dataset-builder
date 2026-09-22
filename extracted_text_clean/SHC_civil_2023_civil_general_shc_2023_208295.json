@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "20.12.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 161 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Illahi Bux Jamali",
+    "Aftab Ahmed Shar",
+    "Saeed Ahmed Wassan",
+    "Inspector Abdul Majid Dahraj",
+    "Complainant of FIR No.174 of 2023"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

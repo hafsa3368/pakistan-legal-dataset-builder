@@ -6,12 +6,23 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-202 of 2017",
   "date_of_order": "09.08.2023",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imdad Ali Channa",
+    "Mr. Abdul Ghafoor Hakro",
+    "M. Babar Ali Meerani",
+    "Mr. Ayatullah Khowaja",
+    "Mr. Rafique Ahmed Dahri",
+    "Sindh",
+    "The Petitioner",
+    "The Respondent No.8"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "Election appeal No.S-17 of 2024",
   "date_of_order": "05.01.2024",
   "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
@@ -23,7 +23,17 @@
     "2008 CLC 240",
     "PLD 1984 Karachi 245"
   ],
-  "parties": [],
+  "parties": [
+    "Naeem-ul-Arfeen",
+    "Federation of Pakistan",
+    "Provincial Election Commissioner",
+    "District Election Commissioner",
+    "Deputy Commissioner",
+    "Returning Officer",
+    "Syed Sajjad Hussain Shah Taqi",
+    "Muhammad Imran",
+    "Mian Sajjad Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

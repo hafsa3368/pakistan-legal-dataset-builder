@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 34 of 2023",
   "date_of_order": "16.11.2023",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -18,7 +18,12 @@
     "2021 SCMR 1341",
     "PLD 2008 SC 73"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Nafees Zubair",
+    "Saeeda Bano",
+    "Uzma Amjad Ali",
+    "Dr. Nafees Zubair"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

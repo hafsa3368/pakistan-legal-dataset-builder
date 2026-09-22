@@ -6,12 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.10331/2023",
   "date_of_order": "18.07.2023",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Zaeem Haider",
+    "Muhammad Mujeebullah Siddiqui",
+    "SBCA",
+    "Mr. Ali Haider Saleem",
+    "Sardar Ali Sher Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

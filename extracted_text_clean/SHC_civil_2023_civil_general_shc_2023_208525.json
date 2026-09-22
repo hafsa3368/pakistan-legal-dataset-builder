@@ -23,7 +23,20 @@
     "PLD 1995 Khi 608",
     "PLD 1990 SC 1"
   ],
-  "parties": [],
+  "parties": [
+    "Nazir",
+    "M/s. Syed Haider Imam Rizvi and Mir Anosh Bashir, Advocates for the Plaintiffs",
+    "M/s. Muhammad Rafiq Kalwar and Muhammad Yasir, Advocates for the Defendant No.1",
+    "Mr. Munir Iqbal, Advocate for the Defendant No.2",
+    "Khilji Bilal, Advocate for the Defendant No.3",
+    "Mr. Haider Raza",
+    "Mr. Saadi Sardar, Advocate for the Defendant No.4",
+    "Mr. Usman Tufail Shaikh, Advocate for Defendant No.5",
+    "Syed Mustafa Mahdi, Advocate for Auction Purchaser",
+    "Mr. Raja Aurang Zaib",
+    "Abdul Majid",
+    "Faisal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

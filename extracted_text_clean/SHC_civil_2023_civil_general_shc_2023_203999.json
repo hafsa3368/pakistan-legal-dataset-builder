@@ -6,12 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.S-415 of 2023",
   "date_of_order": "25.09.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Hassan Chang",
+    "petitioner",
+    "respondent No.7 to 9",
+    "respondent No.2 to 6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 237 of 2020",
   "date_of_order": "29.11.2023",
-  "judge": "JUDGE Amjad/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Balosh Ahmed Junejo",
+    "Qazi Abdul Hameed Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

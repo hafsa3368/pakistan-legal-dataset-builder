@@ -6,12 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 282 of 2024",
   "date_of_order": "26-08-2024",
   "judge": "Adnan Iqbal Chaudhry",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 397 CrPC",
+    "Section 401 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Maha Shaikh and others",
+    "Syed Aziz Hssan and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,19 @@
   "num_chunks": 2,
   "case_number": "Criminal Case No.10 of 2022",
   "date_of_order": "03.07.2025",
-  "judge": "",
+  "judge": "Muhammad Jaffer Raza",
   "sections_cited": [
     "Section 489-F",
     "Section 382-B",
     "Section 345"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gul Mohammad S/O Mohammad Essa, by caste Ghoto",
+    "The State",
+    "Mr. Mujeeb-ur-Rehman Shaikh",
+    "Mr. Ubedullah Ghoto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

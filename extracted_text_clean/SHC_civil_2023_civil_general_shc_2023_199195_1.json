@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-775 of 2023",
   "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sadaruddin Lashari",
+    "Mr. Asfandyar Kharal",
+    "Mr. Aftab Ahmed Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

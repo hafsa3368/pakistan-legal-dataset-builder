@@ -6,14 +6,21 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 39 of 2024",
   "date_of_order": "22.05.2024",
   "judge": "Muhammad Shafi Siddiqui Justice Ms",
   "sections_cited": [],
   "citations": [
     "1993 MLD 1836"
   ],
-  "parties": [],
+  "parties": [
+    "Providence of Sindh & others",
+    "Muhammad Faisal & others",
+    "Mr. Sandeep Malani",
+    "Mr. Ahmed Ali Hussain",
+    "Mr. Zaheer-ul-Hassan Minhas",
+    "Asadullah Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

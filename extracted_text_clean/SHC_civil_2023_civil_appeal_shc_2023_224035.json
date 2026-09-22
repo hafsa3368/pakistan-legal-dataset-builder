@@ -8,7 +8,7 @@
   "num_chunks": 18,
   "case_number": "Criminal Appeal No.D-46 of 2023",
   "date_of_order": "27.11.2024",
-  "judge": "JUDGE",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "sections 6, 9",
     "Section 382-B Cr.PC",
@@ -38,7 +38,23 @@
     "2018 SCMR 2039",
     "2008 SCMR-1254"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Kareem Bux Son of Hussain Bux",
+    "Zahoor Shah",
+    "HC Azhar Iqbal",
+    "PC Asim Saleem",
+    "PC Mudasir Khan",
+    "PC Mohsin Ali",
+    "PC Shahid",
+    "PC Zafar",
+    "PC Gulsher",
+    "Hussain Bux",
+    "Syed Shahzad Ali Shah",
+    "Mr. Justice Muhammad Faisal Kamal Alam",
+    "Mr. Justice Amjad Ali Sahito",
+    "Mr. Shaharyar Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

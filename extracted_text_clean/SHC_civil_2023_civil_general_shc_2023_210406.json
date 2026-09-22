@@ -6,10 +6,12 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitutional Petition stands dismissed as not",
+  "case_number": "C.P. No.D-356 of 2024",
   "date_of_order": "02.12.2023",
   "judge": "Aqeel Ahmed Abbasi",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
   "parties": [
     "Mr"

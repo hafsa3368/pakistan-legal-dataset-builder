@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "",
   "date_of_order": "31.03.2026",
-  "judge": "JUDGE KAMRAN/PS",
+  "judge": "Arshad Hussain Khan",
   "sections_cited": [
     "Section 15 of the Code",
     "Section 3 of the Law Reforms Ordinance",
@@ -22,7 +22,13 @@
     "2020 SCMR 1625",
     "2001 SCMR 1733"
   ],
-  "parties": [],
+  "parties": [
+    "Atique Sultan Raja",
+    "The Federation of Pakistan",
+    "Malik Altaf Hussain",
+    "Munawar Juna",
+    "Mr. Khalid Javed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,20 @@
   "num_chunks": 7,
   "case_number": "Constitutional Petition No. D-4863 of 2023",
   "date_of_order": "06.12.2018",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 12 CPC"
   ],
   "citations": [
     "PLD 2016 SC 808"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Frontier Constabulary",
+    "Saleem-ur-Rehman & others",
+    "Syed Anayat Hussain Shah Bukhari",
+    "Nemo for Respondent No.1",
+    "Ms. Wajiha Mehdi, Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

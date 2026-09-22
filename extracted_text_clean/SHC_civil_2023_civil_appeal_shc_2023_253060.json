@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Crl. Misc. Application No. S-01 of 2024",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "10-03-2025",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Sections 22-A & 22-"
   ],
@@ -17,7 +17,14 @@
     "2024 SCMR 985",
     "PLD 2010 SC 691"
   ],
-  "parties": [],
+  "parties": [
+    "Qalandar Bux Mirani",
+    "The State",
+    "Mr. Mushtaque Ahmed Shahani",
+    "Mr. Ali Akram Shar",
+    "Syed Sardar Ali Shah Rizvi",
+    "Ali Haider ‘Ada’"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,22 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-302 of 2023",
   "date_of_order": "21.02.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
-  "sections_cited": [],
+  "judge": "Faisal Mumtaz",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Culture and Tourism Department",
+    "President Arts Council",
+    "Secretary Culture Department",
+    "Secretary, Finance",
+    "Secretary, Culture Department",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

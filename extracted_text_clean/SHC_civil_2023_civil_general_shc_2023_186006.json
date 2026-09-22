@@ -6,12 +6,22 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-1362 of 2022",
   "date_of_order": "01.03.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
-  "sections_cited": [],
+  "judge": "Faisal Mumtaz",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Ali Raza Balouch, Zahid Farooq Mazari and Shahryar Imdad Awan",
+    "Pervaiz Ahmed Balouch, Special Secretary Schools, Education and Literacy Department",
+    "Ms. Abid Lodhi, Special Secretary (Law)",
+    "Piyar Ali Lakho, Deputy Secretary",
+    "Javed Ali Khawaja, Deputy Secretary",
+    "Fida Hussain Tanwri, Deputy Accountant General, Sindh",
+    "Salahuddin Panhwar, J"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

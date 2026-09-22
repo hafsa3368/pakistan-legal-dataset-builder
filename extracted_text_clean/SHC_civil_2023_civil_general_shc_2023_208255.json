@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "14.12.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Gul Abbasi",
+    "Mr. Ali Raza Baloch",
+    "Nisar Ahmed Memon",
+    "Deputy Director, Food Department, Sukkur",
+    "Dildar Ali Kalwar",
+    "District Food Controller, Sukkur",
+    "Munawar Mirani",
+    "District Food Controller, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

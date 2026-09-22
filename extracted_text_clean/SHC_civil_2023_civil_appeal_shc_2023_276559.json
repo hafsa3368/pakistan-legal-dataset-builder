@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Cr. Appeal No. S-15 of 2024",
   "date_of_order": "24.07.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 394",
     "Section 397 PPC",
@@ -25,7 +25,13 @@
     "2015 SCMR 137",
     "2019 SCMR 1045"
   ],
-  "parties": [],
+  "parties": [
+    "Ilyas s/o Ghulam Hyder Gorar",
+    "The State",
+    "Muhammad Ali",
+    "Ashique Hussain",
+    "Mashoque Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

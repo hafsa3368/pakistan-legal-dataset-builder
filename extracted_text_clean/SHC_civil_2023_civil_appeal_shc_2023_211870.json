@@ -6,12 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No.92 of 2024",
   "date_of_order": "07.03.2024",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hussain Bux Soomro",
+    "Atta Mohammad Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,18 @@
   "num_chunks": 5,
   "case_number": "Const. Petition No.S-864 of 2023",
   "date_of_order": "20.05.2025",
-  "judge": "Naeem /PA",
-  "sections_cited": [],
+  "judge": "Shamsuddin Abbasi",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of Islamic of Pakistan, 1973"
+  ],
   "citations": [
     "2003 SCMR 83"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Haider Imam Rizvi",
+    "Mr. Muhammad Safdar Khokhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

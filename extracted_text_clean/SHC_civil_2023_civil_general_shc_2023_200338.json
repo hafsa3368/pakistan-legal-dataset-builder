@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Constitutional Petition No.D-1109 of 2023",
   "date_of_order": "01.08.2023",
-  "judge": "",
+  "judge": "KHADIM HUSSAIN TUNIO",
   "sections_cited": [
     "section 3"
   ],
@@ -18,7 +18,23 @@
     "PLD 1969 SC 210",
     "PLD 1968 SC 313"
   ],
-  "parties": [],
+  "parties": [
+    "Adeela Gul",
+    "Abdul Sami Khan",
+    "Abid Zai",
+    "Jawaid Zai",
+    "Javed Zaheer",
+    "Muhammad Akmal Shaikh",
+    "Akbar Shaikh",
+    "Farooq Jamil Durrani",
+    "Muttahida Qaumi Movement (MQM) London",
+    "SSP Central Prison, Mirpurkhas",
+    "SSP Hyderabad",
+    "Police Station Tando Adam City",
+    "SIP Abdul Hakeem",
+    "Home Department",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,19 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No. 401 of 2024",
   "date_of_order": "12.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 392, 397",
     "Section 397 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nazeer Ahmed",
+    "The State",
+    "Muhammad Junaid",
+    "The Police of PS Madina Colony",
+    "The Police of PS Baldia Town"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

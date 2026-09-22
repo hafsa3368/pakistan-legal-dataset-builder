@@ -25,7 +25,12 @@
     "PLD 2009 Karachi 191",
     "PLD 1997 SC 408"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Jabbar Ujjan",
+    "State of Sindh",
+    "Mr. Justice Khadim Hussain Tunio",
+    "Mr. Justice Ali Haider 'Ada'"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

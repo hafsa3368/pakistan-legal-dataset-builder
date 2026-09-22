@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 26,
-  "case_number": "Civil Court which is not",
+  "case_number": "",
   "date_of_order": "24.05.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Muhammad Shafi Siddiqui Justice Ms",
   "sections_cited": [
     "section 22",
     "Section 22",
@@ -37,7 +37,11 @@
     "PLD 2012 SC 268",
     "PLD 2008 SC 462"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Farooqui Fisheries and others",
+    "Faysal Bank Limited",
+    "First Pakistan Security Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

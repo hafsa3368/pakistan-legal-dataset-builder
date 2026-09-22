@@ -6,12 +6,21 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No.390 of 2023",
   "date_of_order": "06.02.2025",
   "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S Elite Screener",
+    "M/S G-One Enterprises",
+    "Engineering Development Board (EDB)",
+    "Muhammad Shafi Siddiqui",
+    "Jawad Akbar Sarwana",
+    "Muhammad Shafqat Swati",
+    "Jahanzeb Balouch",
+    "Khaleeq Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

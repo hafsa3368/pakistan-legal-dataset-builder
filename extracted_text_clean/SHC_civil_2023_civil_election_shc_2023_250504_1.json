@@ -6,15 +6,23 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "constitutional jurisdiction of this Honourable",
+  "case_number": "CP No. D-400 of 2025",
   "date_of_order": "13.03.2025",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Riazat Ali Sahara",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 SCMR 157",
     "2011 SCMR 1198"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Mohiuddin Jamali",
+    "Chairman SPSC",
+    "Government of Sindh",
+    "NAB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "criminal act of another",
+  "case_number": "",
   "date_of_order": "12.11.2023",
-  "judge": "JUDGE",
+  "judge": "Omar Sial",
   "sections_cited": [
     "section 154 Cr.P.C",
     "sections 302 and 34",
@@ -28,7 +28,12 @@
     "PLD 2001 SC 378",
     "PLD 2007 SC 93"
   ],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Muhammad Ali",
+    "Younis Khan",
+    "Noman @ Kabari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

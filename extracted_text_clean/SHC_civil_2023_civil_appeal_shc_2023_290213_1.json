@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Anti-Terrorism Appeal No. 89 of 2024",
+  "case_number": "",
   "date_of_order": "11.11.2025",
-  "judge": "JUDGE Saleem/PS",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 353, 324, 397, 337-F",
     "section 7",
@@ -22,7 +22,12 @@
     "Section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kamran",
+    "The State",
+    "Mr. Muhammad Iqbal Awan",
+    "PC Areeb"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

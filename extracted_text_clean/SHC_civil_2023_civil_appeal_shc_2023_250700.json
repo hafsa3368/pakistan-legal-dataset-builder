@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 26,
-  "case_number": "Civil Aviation Authority vs Noor",
+  "case_number": "HCA No.248 of 2023",
   "date_of_order": "20.06.2023",
-  "judge": "JUDGE",
+  "judge": "Mohammad Abdur Rahman,",
   "sections_cited": [
     "Section 15 of the Code",
     "Section 151 of the Code",
@@ -27,7 +27,11 @@
     "1986 CLC 1400",
     "1993 CLC 489"
   ],
-  "parties": [],
+  "parties": [
+    "Khaliq-ur-Rahman & Others",
+    "Ahsan Usman Laliwala & Others",
+    "JS Bank Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,
