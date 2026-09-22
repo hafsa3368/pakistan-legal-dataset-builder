@@ -6,15 +6,23 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "constituency of NA-242 before the Respondent No.2",
+  "case_number": "C.P.No.D-402 OF 2024",
   "date_of_order": "24-01-2024",
-  "judge": "",
+  "judge": "ABDUL MOBEEN LAKHO",
   "sections_cited": [
     "Section 173",
     "Section 65 of the Elections Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amjad Iqbal Afridi",
+    "Provincial Election Commissioner & another",
+    "Ms.Samreen Ali Rizvi",
+    "Mr.Saifullah, A.A.G.",
+    "Mr.Abdullah Hanjrah, Deputy Director (Law)",
+    "Mr.Sarmad Sarwar, Assistant Director (Law)",
+    "Ms.Kanwal Kausar, Returning Officer NA-242"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1543 of 2018",
-  "date_of_order": "",
-  "judge": "JUDGE Sulemen Khan/PA",
+  "date_of_order": "04.10.2023",
+  "judge": "Sulemen Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shafi Muhammad Chandio",
+    "Muhammad Akram Rajput",
+    "DSP Legal DIGP Office Sukkur",
+    "SIP Jameel Ahmed",
+    "SSP Office Legal Branch Khairpur",
+    "Learned AAG",
+    "respondent No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

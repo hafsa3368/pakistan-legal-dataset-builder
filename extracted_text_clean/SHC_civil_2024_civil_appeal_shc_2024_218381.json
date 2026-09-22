@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "H.C.A. No.277 of 2024",
   "date_of_order": "23.08.2024",
   "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
@@ -24,7 +24,13 @@
     "PLD 2002 SC 1033",
     "PLD 2009 SC 380"
   ],
-  "parties": [],
+  "parties": [
+    "Roque Martin D’Mello & others",
+    "Federation of Pakistan & others",
+    "Cedar (Private) Limited",
+    "Salahuddin Ahmed",
+    "Zahid Ebrahim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

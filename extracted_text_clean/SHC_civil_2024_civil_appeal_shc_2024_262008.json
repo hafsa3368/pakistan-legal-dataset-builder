@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "Criminal Acquittal Appeal No. 731 of 2024",
+  "case_number": "",
   "date_of_order": "02.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 9",
     "Section 71",
@@ -26,7 +26,10 @@
     "2019 MLD 134",
     "2020 SCMR 857"
   ],
-  "parties": [],
+  "parties": [
+    "The State (Through Prosecutor General Sindh)",
+    "Shahzad Ghulam Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

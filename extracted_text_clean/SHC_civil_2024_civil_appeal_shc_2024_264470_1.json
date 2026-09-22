@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Criminal Appeal No. S-",
+  "case_number": "",
   "date_of_order": "10.3.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 399, 402 PPC",
     "Section 402 PPC",
@@ -18,7 +18,23 @@
     "Sections 399, 402, 324, 353 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Qurban Ali Sabzoi",
+    "The State",
+    "Ali Jan s/o Chachar Sabzoi",
+    "Ali Jan s/o Meeral Sabzoi",
+    "Kaleemullah Mughal",
+    "Hamadullah Bhayo",
+    "Siraj Ahmed Bhayo",
+    "Khan Muhammad @ Kukur",
+    "Sarfaraz Bhayo",
+    "Ghaus Bux Bhayo",
+    "HC Abdul Wahab",
+    "PC Muhammad Tayab",
+    "PC Pervez Ahmed",
+    "I.O/ASI Muhammad Anwar Chachar",
+    "PC Mashir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

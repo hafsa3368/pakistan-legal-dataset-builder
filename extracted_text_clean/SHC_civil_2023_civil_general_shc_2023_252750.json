@@ -6,14 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No. S-25 of 2025",
   "date_of_order": "26.05.2022",
-  "judge": "",
+  "judge": "M.Tahir",
   "sections_cited": [
     "section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Rafique",
+    "Respondent No.1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

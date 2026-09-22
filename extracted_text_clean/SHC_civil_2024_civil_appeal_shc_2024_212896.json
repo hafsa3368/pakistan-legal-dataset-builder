@@ -6,12 +6,15 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.73 of 2024",
   "date_of_order": "02.04.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Fatima",
+    "Asghar Jaffar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,26 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "C.P. No.D-695 of 2023",
   "date_of_order": "25.01.2023",
-  "judge": "JUDGE AHSAN ABRO",
-  "sections_cited": [],
+  "judge": "Arbab Ali Hakro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 9 of the Shaheed Benazir Bhutto University Act, 2009"
+  ],
   "citations": [
     "2013 SCMR 1707"
   ],
-  "parties": [],
+  "parties": [
+    "Shafqatullah Shaikh",
+    "Province of Sindh",
+    "Shaheed Benazir Bhutto University",
+    "Ishrat Ali Lohar",
+    "Kamaluddin",
+    "Unaib Kamal",
+    "Muhammad Ismail Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

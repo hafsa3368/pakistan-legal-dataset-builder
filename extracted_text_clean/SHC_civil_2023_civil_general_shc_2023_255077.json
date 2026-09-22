@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "Civil Revision Application No. 64 of 2024",
   "date_of_order": "23.04.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Nadeem Qureshi",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed, Advocate for the Applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

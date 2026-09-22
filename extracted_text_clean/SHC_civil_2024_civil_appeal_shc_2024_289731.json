@@ -6,12 +6,16 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-201 of 2022",
   "date_of_order": "31.10.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ismail Bhutto",
+    "Mr. Ghulam Mustafa advocate",
+    "Mr. Jaleel Ahmed Memon advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

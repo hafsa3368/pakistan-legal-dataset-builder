@@ -7,14 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Misc Appln No. S-339 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "12.03.2025",
+  "judge": "S.Ashfaq",
   "sections_cited": [
     "Section 561-A of the Cr.P.C",
     "Sections 22-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ayoob Kolachi",
+    "Khalid Hussain Shahani",
+    "Mst. Farzana",
+    "Mr. Nazir Ahmed Bhangwar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

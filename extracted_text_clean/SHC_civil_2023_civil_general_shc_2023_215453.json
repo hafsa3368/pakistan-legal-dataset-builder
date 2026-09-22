@@ -8,12 +8,16 @@
   "num_chunks": 1,
   "case_number": "Crl. Revision Application No.D-13 of 2024",
   "date_of_order": "10.10.2023",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [
     "section 23"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Ali Dad Narejo & Athar Hussain Abro",
+    "Mr. Zulfiqar Ali Jatoi",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

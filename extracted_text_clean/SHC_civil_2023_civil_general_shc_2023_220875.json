@@ -9,9 +9,17 @@
   "case_number": "Constitutional Petition No.D-5101 of 2024",
   "date_of_order": "14.10.2024",
   "judge": "Ayaz Gul",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ghulam Rehman Korai and another",
+    "Federation of Pakistan and others",
+    "M/s. Ebrahim Saifuddin and Tahir Mehmood, Advocates",
+    "Muhammad Shafi Siddiqui, CJ"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

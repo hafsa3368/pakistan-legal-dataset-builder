@@ -6,17 +6,29 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "constitutional jurisdiction cannot",
+  "case_number": "",
   "date_of_order": "24.08.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2019 SCMR 1970",
     "2015 SCMR 112",
     "2014 SCMR 157",
     "2011 SCMR 1198"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Hassan",
+    "other petitioners",
+    "Federation of Pakistan",
+    "Mr. Ashfaque Hussain Abro",
+    "Mr. Ali Raza Baloch",
+    "Province of Sindh",
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Arbab Ali Hakro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

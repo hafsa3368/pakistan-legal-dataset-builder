@@ -6,10 +6,13 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "H.C.A. No.304 of 2024",
   "date_of_order": "14.04.2026",
-  "judge": "JUDGE Jamil",
-  "sections_cited": [],
+  "judge": "Arshad Hussain Khan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 MLD 1369",
     "2019 CLC 526",
@@ -20,7 +23,13 @@
     "PLD 1991 SC 601",
     "PLD 1992 Lahore 392"
   ],
-  "parties": [],
+  "parties": [
+    "Abid Hussain Sheikha",
+    "Mansoor Ali Sheikha",
+    "Ameer Ali",
+    "Lubaynah Sheikha",
+    "the State of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

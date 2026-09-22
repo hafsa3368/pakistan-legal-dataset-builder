@@ -6,12 +6,24 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitution Petition No. D",
+  "case_number": "",
   "date_of_order": "08.11.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 198 CrPC",
+    "Section 199 CrPC",
+    "Section 222 CrPC",
+    "Section 498 CrPC",
+    "Section 500 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent Department",
+    "Commissioner (Appeals-I), Sindh Revenue Board, Karachi",
+    "Commissioner (Appeals)",
+    "Sindh Revenue Board, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

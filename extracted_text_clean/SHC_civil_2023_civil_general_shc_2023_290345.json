@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P No.S-37 of 2024",
   "date_of_order": "10.11.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner/ Appellant: Amjad Ali",
+    "Respondent No.1: Amjad Ali Ex-husband of Amjad Ali",
+    "Respondent No.2: Amjad Ali (Depositor)",
+    "Respondent No.3: Nazir of 1st Senior Civil Judge",
+    "Respondent No.4: Nazir of 5th Senior Civil Judge",
+    "Respondent No.5: Nazir of 5th Senior Civil Judge"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

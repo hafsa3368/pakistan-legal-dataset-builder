@@ -6,12 +6,22 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No.150 of 2020",
   "date_of_order": "07.05.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s National Rice Mills",
+    "M/s National Bank of Pakistan",
+    "M/s National Rice Mills and others",
+    "Jhamat Mal",
+    "Shankar Mal",
+    "Sofia Saeed",
+    "Umer Sikandar",
+    "Sarfaraz Alam",
+    "Ali Raza Peechoho"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

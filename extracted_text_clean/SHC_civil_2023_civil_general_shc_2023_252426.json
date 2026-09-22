@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Constitutional Petitions No.434",
   "date_of_order": "16.02.2024",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 16 of the Sindh Rented Premises Ordinance",
     "Section 16",
@@ -16,7 +16,11 @@
     "Section 21"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sarfarazuddin",
+    "M/s Paras Commercial Company",
+    "Homi D. Ghadilly"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

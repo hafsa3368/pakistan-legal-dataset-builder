@@ -6,12 +6,21 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "constituted vide Notification",
+  "case_number": "C.P.No.D-7029 of 2021",
   "date_of_order": "13.11.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ms. Maria Ahmed",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Maria Ahmed, Advocate for the Petitioner (C.P.No.D- 7029/2021)",
+    "Mr. K. Jehangir, Advocate for the Petitioner (C.P.No.D- 452/2022)",
+    "Mr. Khaleeq Ahmed, D.A.G.",
+    "Mr. Fahim Raza, Advocate for the Respondent No.4 (F.B.R)",
+    "Ms. Syeda Sidra Majid, Section Officer, Cabinet Division"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

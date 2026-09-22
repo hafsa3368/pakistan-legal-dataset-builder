@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "Constitution Petition No. S",
+  "case_number": "",
   "date_of_order": "29.04.2025",
   "judge": "Muhammad Jaffer Raza Abdul Karim",
   "sections_cited": [
@@ -22,7 +22,13 @@
     "section 2"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Jaffer Raza Abdul Karim Khan",
+    "M/s. Shevron Pakistan Limited",
+    "Mr. Abbas Rasheed Rizvi",
+    "Mr. Abdul Moiz Jaffri",
+    "Mr. Ahmed Khan Khaskheli"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

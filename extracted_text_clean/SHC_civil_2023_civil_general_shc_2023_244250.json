@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Misc. Application No. 411 of 2023",
   "date_of_order": "30.01.2025",
-  "judge": "",
+  "judge": "Nasrullah Korai",
   "sections_cited": [
     "Section 406, 420 & 506 PPC",
     "Section 406 PPC",
@@ -24,7 +24,11 @@
     "2020 P.Cr.L.J 835",
     "PLD 2020 SC 299"
   ],
-  "parties": [],
+  "parties": [
+    "Shaikh Mohammad Imran",
+    "Syed Mumtaz Ali Shah",
+    "Mr. Rashid Mehmood Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

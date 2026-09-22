@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Misc. Application No.S-378 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "03.03.2025",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 561-A Cr.P.C",
     "Section 173 Cr.P.C",
@@ -27,7 +27,15 @@
     "PLD 2021 SC 123",
     "PLD 2019 SC 456"
   ],
-  "parties": [],
+  "parties": [
+    "Zulfiqar Ali Khoso",
+    "Dr. Tillat Majeed Buledai",
+    "the State",
+    "Mr. Muhammad Afzal Jagirani",
+    "Mr. Hamid Ali J. Chandio",
+    "the complainant",
+    "the accused doctor"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

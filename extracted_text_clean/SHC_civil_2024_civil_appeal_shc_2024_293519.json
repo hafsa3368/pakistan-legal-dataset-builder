@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "",
   "date_of_order": "07.11.2025",
-  "judge": "",
+  "judge": "Muhammad Hasan (Akber)",
   "sections_cited": [
     "Sections 462-B, 462-C, 427-PPC",
     "Section 265-H",
@@ -32,7 +32,12 @@
     "PLD 1985 SC 11",
     "PLD 1994 SC 301"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Haroon s/o Muhammad Ibrahim Bhatti",
+    "Ahmed Bux s/o Abdul Jabbar Panhwar",
+    "Abdul Razzaque s/o Allah Warayo Panhwar",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

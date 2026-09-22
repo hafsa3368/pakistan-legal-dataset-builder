@@ -6,12 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.S-211 of 2024",
   "date_of_order": "11.08.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Aziz",
+    "Commissioner for Workers Compensation and Others",
+    "Mr. Aamir Raza Naqvi",
+    "M/s. Ahsan Mehmood and Saira Khan",
+    "M/s. Syed Aly-e-Maqbool Rizvi & Ziauddin Junejo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

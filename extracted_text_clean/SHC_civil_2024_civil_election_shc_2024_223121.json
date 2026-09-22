@@ -6,14 +6,24 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "C.P. No.D-5824 of 2024",
+  "date_of_order": "05.12.2024",
+  "judge": "FAIZAN ASIF",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2019 SCMR 1970"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Mohsin Raza Hamdani & others",
+    "Federation of Pakistan & others",
+    "Mr. Naveed Ali",
+    "Ali Hassan",
+    "Sabir Hussain",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

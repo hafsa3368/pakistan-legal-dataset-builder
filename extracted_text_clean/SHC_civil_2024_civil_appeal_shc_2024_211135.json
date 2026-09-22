@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.317 of 2023",
   "date_of_order": "28.02.2024",
-  "judge": "JUDGE Amjad PS",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bazm-e-Falah-ul-Ahbab Sultanpur & others",
+    "Muhammad Akram Khan & others",
+    "Mahmoodur Rehman",
+    "Administrator Social Welfare Department",
+    "Muhammad Nishat Warsi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,21 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.311 of 2017",
   "date_of_order": "11.01.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Hanif",
+    "ORO Industries",
+    "Muhammad Shafi Siddiqui",
+    "Omar Sial",
+    "Muhammad Hanif",
+    "Rabya Javed",
+    "Muhammad Hanif",
+    "Tahira Bano"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

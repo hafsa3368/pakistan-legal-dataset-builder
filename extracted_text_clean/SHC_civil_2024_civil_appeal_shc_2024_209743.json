@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "civil jurisdiction afresh as denovo",
+  "case_number": "",
   "date_of_order": "25.01.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Fazal ur Rehman",
+    "Ms. Naila Kausar",
+    "Naila Kausar",
+    "Syed Fazal ur Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

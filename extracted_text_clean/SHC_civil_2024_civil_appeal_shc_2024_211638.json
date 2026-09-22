@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.10 of 2024",
   "date_of_order": "05.03.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Arif Ahmed Bahalim & others",
+    "Mst. Mehmooda Naz & others",
+    "Mr. Kamran Khan",
+    "Mr. Ahmed Ali Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

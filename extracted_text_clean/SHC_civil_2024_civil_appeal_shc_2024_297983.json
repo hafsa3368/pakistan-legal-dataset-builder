@@ -6,14 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "M.A No.09",
   "date_of_order": "09.12.2025",
   "judge": "",
   "sections_cited": [
     "Section 12"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Muhammad Aleem Arain and Masood Rasool Babar Memon",
+    "Respondent(s)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

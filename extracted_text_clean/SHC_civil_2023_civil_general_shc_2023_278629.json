@@ -7,13 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.S-07 of 2025",
-  "date_of_order": "",
+  "date_of_order": "07.07.2025",
   "judge": "Ahmad",
   "sections_cited": [
     "sections 87/88 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Noor Muhammad Memon",
+    "M/s Zulfiqar Ali Jatoi",
+    "Saeed Ahmed Wassan",
+    "Rohal Khoso",
+    "Naushahro Feroze Qurban Ali",
+    "Shakeel Awan",
+    "Lutufullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

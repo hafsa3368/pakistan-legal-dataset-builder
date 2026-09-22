@@ -6,12 +6,29 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No.470 of 2024",
   "date_of_order": "09.12.2024",
   "judge": "Ayaz Gul",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 5"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Abdullah Khan Behram and others",
+    "Mst. Afshan and others",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Jawad Akbar Sarwana",
+    "Mr. Shahzad Ahmed Siddiqui",
+    "Muhammad Shafi Siddiqui",
+    "Muhammad Shafi Siddiqui",
+    "Ayaz Gul",
+    "Respondent No.2",
+    "C.J",
+    "The",
+    "Second wife of the deceased",
+    "First wife of the deceased",
+    "Police department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

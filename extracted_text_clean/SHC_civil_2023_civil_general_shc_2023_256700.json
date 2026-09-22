@@ -6,12 +6,15 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Petition No.D-",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "case_number": "",
+  "date_of_order": "10.10.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Alam Sher Bozdar",
+    "Mr. Mehboob Ali Wassan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

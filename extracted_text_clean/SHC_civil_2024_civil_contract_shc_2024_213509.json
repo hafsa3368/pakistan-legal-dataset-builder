@@ -6,12 +6,16 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "misconceived and not",
+  "case_number": "C.P. No.D-2404 of 2023",
   "date_of_order": "22nd April 2024",
   "judge": "Aqeel Ahmed Abbasi",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Safdar, Advocate for Petitioners",
+    "Mr. Saifullah, Asst. A.G. Sindh",
+    "Mr. Muhammad Ghazali Shaikh, Advocate for Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 29,
   "case_number": "Criminal Appeal No.D-35 of 2024",
   "date_of_order": "13.08.2025",
-  "judge": "JUDGE",
+  "judge": "Shamsuddin Abbasi",
   "sections_cited": [
     "Section 382-B",
     "Section 9",
@@ -38,7 +38,12 @@
     "2024 SCMR 1408",
     "2025 YLR 1409"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Razzaque s/o Soba Khan",
+    "The State",
+    "Najeebullah s/o Mubarak Khan",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

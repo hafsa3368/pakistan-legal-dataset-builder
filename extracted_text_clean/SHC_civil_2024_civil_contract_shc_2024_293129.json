@@ -6,14 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-503 of 2025",
   "date_of_order": "20.11.2025",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Sajjad Ali Jessar",
   "sections_cited": [
     "Section 3"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Arab Thaheem and Others",
+    "Province of Sindh and Others",
+    "Administrator Zakat",
+    "Dadu (Zamir Aijaz)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

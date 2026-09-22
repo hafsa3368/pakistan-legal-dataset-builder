@@ -6,12 +6,16 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Org. Misc. Application No. 01 of 2024",
+  "case_number": "",
   "date_of_order": "16.12.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hina Rasheed",
+    "Syed Farhat Hussain",
+    "Mr. Haq Nawaz Talpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

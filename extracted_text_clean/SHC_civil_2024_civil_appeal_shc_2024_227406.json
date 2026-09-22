@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-4425 of 2024",
   "date_of_order": "09.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Yousuf Makda, Advocate for Petitioner",
+    "Mr. Kashif Nazeer, Assistant Attorney General",
+    "Mr. Muhammad Bilal Bhatti, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

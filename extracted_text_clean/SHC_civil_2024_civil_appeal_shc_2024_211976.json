@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "06.03.2024",
-  "judge": "JUDGE Amjad PS",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Syed Muhammad Kazim, Abdul Shakoor and Aneel Kumar",
+    "Mr. Khursheed Javed Advocate",
+    "Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

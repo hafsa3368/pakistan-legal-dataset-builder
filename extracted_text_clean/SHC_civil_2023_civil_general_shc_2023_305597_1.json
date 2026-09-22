@@ -6,12 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-1593 of 2023",
   "date_of_order": "12.02.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdullah Channa",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ismail Bhutto, A.A.G. Sindh",
+    "Akhlaq Ahmed Kalwar Deputy Director (Recruitment) SPSC Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

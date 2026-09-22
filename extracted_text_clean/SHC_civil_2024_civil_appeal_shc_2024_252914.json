@@ -8,10 +8,16 @@
   "num_chunks": 3,
   "case_number": "Civil Appeal No.162/2024",
   "date_of_order": "15.04.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD JAFFER RAZA",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Mohsin Khan",
+    "Muhammad Moin Khan and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

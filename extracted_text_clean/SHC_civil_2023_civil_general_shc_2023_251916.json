@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 19,
-  "case_number": "constitutionality and a law must not",
+  "case_number": "",
   "date_of_order": "21.11.2023",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "Section 99D5",
     "section 122 of the Ordinance",
@@ -38,7 +38,10 @@
     "PLD 2019 Sindh 516",
     "PLD 1959 SC 177"
   ],
-  "parties": [],
+  "parties": [
+    "National Bank of Pakistan",
+    "Federation of Pakistan & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

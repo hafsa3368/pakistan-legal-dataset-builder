@@ -6,12 +6,14 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitutional Petition is dismissed for non-prosecution",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "09.09.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Naveed Ahmed Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

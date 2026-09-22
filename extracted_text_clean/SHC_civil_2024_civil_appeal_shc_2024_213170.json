@@ -6,12 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.428 of 2023",
   "date_of_order": "19.04.2024",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Ayaz Gul",
+  "sections_cited": [
+    "U/S-5",
+    "Order-XX Rule-13 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amina Haider",
+    "Mst. Haseena Bano",
+    "Mahrukh Fatima",
+    "Mr. Rashid Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

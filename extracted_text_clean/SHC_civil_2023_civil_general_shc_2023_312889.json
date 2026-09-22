@@ -8,7 +8,7 @@
   "num_chunks": 44,
   "case_number": "Constitutional Petition No. D-6129 of 2025",
   "date_of_order": "21.04.2026",
-  "judge": "JUDGE",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 25",
     "Section 15",
@@ -27,7 +27,14 @@
     "PLD 2005 Karachi 443",
     "PLD 2005 Lahore 377"
   ],
-  "parties": [],
+  "parties": [
+    "Janib",
+    "The Province of Sindh & others",
+    "Hafeez Ullah",
+    "The Chief Secretary & others",
+    "Asad Hussain",
+    "The Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 28,
-  "case_number": "constitutional violations on which the Notification",
+  "case_number": "High Court Appeal Nos. 336 of 2024",
   "date_of_order": "14.11.2024",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
@@ -32,7 +32,14 @@
     "PLD 2020 SC 233",
     "PLD 1998 SC 161"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "Premium Textile Mills Limited",
+    "Ali Almani a/w Mustafa Naqvi",
+    "Ameen M. Bandukda a/w Sundar Lal Lohana",
+    "Muhammad Zeeshan Naeem a/w Abdul Karim Khan",
+    "Jehanzeb Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

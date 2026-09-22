@@ -6,16 +6,24 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Acquittal Appeal No.S-78 of 2024",
+  "case_number": "",
   "date_of_order": "16.10.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Zulfikar Ali Sangi",
+  "sections_cited": [
+    "u/s 489-F PPC"
+  ],
   "citations": [
     "1995 SCMR 635",
     "1998 SCMR 1281",
     "PLD 2011 SC 554"
   ],
-  "parties": [],
+  "parties": [
+    "Sanwan Khan Khoso",
+    "Allah Rakhio",
+    "Muharam Ali",
+    "Bakhsh Ali",
+    "MCB 00838010003793"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

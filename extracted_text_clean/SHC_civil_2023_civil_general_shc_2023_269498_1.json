@@ -8,10 +8,20 @@
   "num_chunks": 4,
   "case_number": "Constitutional Petition No. D-1367 of 2023",
   "date_of_order": "15.05.2025",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Arbab Ali Hakro Justice Riazat",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Modern Textile Mill Tando Jam Sindh",
+    "M/s Starko Limited Tando Jam",
+    "Mr. Ahmed Murtaza A. Arab",
+    "M/s Muhammad Arshad S. Pathan",
+    "Safder Hussain Laghari",
+    "Mr. Ghulam Shabbir",
+    "Mr. Rafique Ahmed Dahri",
+    "Assistant A.G Sindh",
+    "No.7/Regional Director Katchi Abadies (Muhammad Jawaid Shaikh)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1280 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "19-12-2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Irshad Hussain Dharejo",
+    "Mr. Athar Hussain Abro",
+    "university",
+    "Mr. Niaz Hussain Maitlo",
+    "Zulfiqar Ali Naich",
+    "Assistant A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

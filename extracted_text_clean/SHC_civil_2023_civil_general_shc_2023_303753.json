@@ -6,14 +6,16 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Misc. Appln. No. S",
+  "case_number": "",
   "date_of_order": "20.01.2026",
   "judge": "",
   "sections_cited": [
     "Section 22-A and 22-B"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Adnan Iqbal Chaudhry"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

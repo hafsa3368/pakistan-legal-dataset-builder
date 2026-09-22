@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "constitutional jurisdiction cannot",
+  "case_number": "",
   "date_of_order": "24.08.2023",
-  "judge": "Faisal Mumtaz/PS JUDGE",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [
     "2019 SCMR 1970",
@@ -16,7 +16,11 @@
     "2014 SCMR 157",
     "2011 SCMR 1198"
   ],
-  "parties": [],
+  "parties": [
+    "Ali Hassan and others",
+    "Federation of Pakistan",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

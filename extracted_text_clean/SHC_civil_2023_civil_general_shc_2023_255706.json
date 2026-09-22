@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-713 of 2022",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "07.09.2023",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Qayyum Arain",
+    "Mr. Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

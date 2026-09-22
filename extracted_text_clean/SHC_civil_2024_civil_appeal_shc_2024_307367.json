@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No.D-12 of 2025",
   "date_of_order": "19.02.2026",
-  "judge": "JUDGE",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "Section 9,3",
     "Section 382-B Cr.P.C",
@@ -27,7 +27,10 @@
     "2015 SCMR 1002",
     "2010 SCMR 27"
   ],
-  "parties": [],
+  "parties": [
+    "Sheeraz Ali son of Mukhtiar Ansari",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

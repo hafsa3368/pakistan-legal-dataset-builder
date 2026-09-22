@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "Cr. Appeal No.727 of 2024",
   "date_of_order": "25.11.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Jawaid",
+    "Syed Noman Zahid Alvi",
+    "Bank",
+    "Ms. Wajiha Mehdi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

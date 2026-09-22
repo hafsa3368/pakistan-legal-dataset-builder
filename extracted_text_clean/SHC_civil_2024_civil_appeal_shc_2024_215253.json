@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.195 of 2024",
   "date_of_order": "20.05.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "National Highway Authority",
+    "Binapuri Pakistan (Pvt.) Limited",
+    "Mr. Imran Ali Mithani",
+    "Mr. Omer Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

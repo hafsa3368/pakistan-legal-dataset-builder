@@ -6,12 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No. D-6464 of 2022",
   "date_of_order": "06.11.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Mobeen Lakho",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Sattar Baloch",
+    "Province of Sindh",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

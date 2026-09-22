@@ -6,14 +6,26 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "High Court Appeal No.60 of 2024",
   "date_of_order": "14.03.2024",
   "judge": "Muhammad Shafi Siddiqui Mr",
   "sections_cited": [
     "Section 9 & 9A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Abbot Laboratories Pvt. Limited",
+    "Federation of Pakistan",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Omar Sial",
+    "M/s. Abdul Sattar Pirzada and Mamoon N. Chaudhry, Advocates",
+    "Mr. S.M. Ghazanfar",
+    "Mr. Jameel Ahmed",
+    "Mr. Abdul Majeed Ansari",
+    "Assistant Director MOH, Karachi",
+    "Mr. Khaleeq Ahmed",
+    "Muhammad Shafi Siddiqui, J."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

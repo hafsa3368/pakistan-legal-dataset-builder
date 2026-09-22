@@ -9,9 +9,15 @@
   "case_number": "",
   "date_of_order": "27.08.2023",
   "judge": "Hafiz Fahad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hotchand Khatri",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

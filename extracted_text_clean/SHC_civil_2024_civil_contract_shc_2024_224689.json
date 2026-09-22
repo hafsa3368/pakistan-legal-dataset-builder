@@ -6,14 +6,23 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-1326 of 2023",
   "date_of_order": "13.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2024 SCMR 527"
   ],
-  "parties": [],
+  "parties": [
+    "Hafiz Qazi Abdul Rehman",
+    "Federation of Pakistan & others",
+    "Abdul Sammad Jakhro & another",
+    "Federation of Pakistan & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "16.10.2025",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Meeral Shah",
+    "Mr. Raj Ali Wahid Kunwar",
+    "NAB",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.606 of 2024",
   "date_of_order": "03.6.2025",
-  "judge": "JUDGE asim/PA",
+  "judge": "Fiaz ul Hassan Shah",
   "sections_cited": [
     "Section 342 CrPC",
     "Section 364 CrPC",
@@ -24,7 +24,12 @@
     "PLD 2003 SC 704",
     "PLD 1981 SC 246"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Imran",
+    "The State",
+    "Muhammad Imran",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 6,
   "case_number": "Crl. Misc. Application No. S-786 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "11.04.2025",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Section 145 Cr.PC",
     "Section 154 Cr.PC",
@@ -21,7 +21,10 @@
   "citations": [
     "2024 SCMR 1123"
   ],
-  "parties": [],
+  "parties": [
+    "Kashif Ali",
+    "The Senior Superintendent of Police Naushahro Feroze & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

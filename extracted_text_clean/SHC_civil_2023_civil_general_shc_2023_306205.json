@@ -9,9 +9,17 @@
   "case_number": "Civil Revision Application No.130 of 2022",
   "date_of_order": "23.02.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bankislami Pakistan Limited",
+    "the Presiding Officer",
+    "2 others",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

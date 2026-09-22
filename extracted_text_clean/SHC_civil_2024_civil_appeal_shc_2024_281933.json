@@ -6,14 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.10 of 2025",
   "date_of_order": "16.09.2025",
   "judge": "",
   "sections_cited": [
     "Section 17"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Razzaq",
+    "Shakeel Ahmed",
+    "Mr. Ali Asghar Buriro",
+    "Mr. Muneer Ahmed",
+    "Mr. Abdul Razzak"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

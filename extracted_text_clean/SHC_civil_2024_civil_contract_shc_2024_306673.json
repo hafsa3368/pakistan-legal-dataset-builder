@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Civil Revision Application No.95 of 2025",
   "date_of_order": "09.02.2026",
-  "judge": "",
+  "judge": "Arbab Ali Hakro,",
   "sections_cited": [
     "Section 25",
     "Section 9",
@@ -22,7 +22,15 @@
     "Section 13"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mir Adil",
+    "Mst.Sugra and another",
+    "Mr.Muhib Ali Laghari",
+    "Mr.Naeem Ahmed Junejo",
+    "Nemo",
+    "Mr.Muhammad Ismail Bhutto",
+    "Baby Yusra"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

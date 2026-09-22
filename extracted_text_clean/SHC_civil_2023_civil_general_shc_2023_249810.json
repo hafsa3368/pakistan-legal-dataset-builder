@@ -6,12 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Cr. Transfer Application No.S-14 of 2025",
+  "date_of_order": "12.03.2025",
+  "judge": "Asghar Altaf",
+  "sections_cited": [
+    "Sindh Witness Protection Act, 2013"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rashid Ali Sundrani",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

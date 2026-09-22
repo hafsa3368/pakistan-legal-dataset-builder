@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "22.04.2026",
-  "judge": "JUDGE Sajjad Ali",
-  "sections_cited": [],
+  "judge": "Sajjad Ali",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arshad Ali Khaimtio",
+    "Najamuddin S/o Haji Hakim Gahelo",
+    "Zarai Taraqiati Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

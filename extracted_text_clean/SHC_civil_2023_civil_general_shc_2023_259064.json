@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "Crl. Revision Application No.D-11 of 2023",
   "date_of_order": "14.02.2024",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sheeraz Fazal",
+    "Mr. Zulfiqar Ali Jatoi",
+    "the State",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

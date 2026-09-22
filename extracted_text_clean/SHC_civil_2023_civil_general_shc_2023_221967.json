@@ -6,12 +6,23 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "H.C.A. No.298 of 2023",
   "date_of_order": "05.11.2024",
   "judge": "Asif",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ashraf Ali",
+    "Sarfaraz Khamisani",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Jawad Akbar Sarwana",
+    "Mr. Zia Ul Haq Makhdoom",
+    "Mr. Rehan Kayani",
+    "Mr. Mehran Khan",
+    " respondents No.1 to 5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,8 +8,13 @@
   "num_chunks": 7,
   "case_number": "Constitutional Petition No. D-453 of 2026",
   "date_of_order": "22.01.2023",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973",
+    "West Pakistan Civil Servants Pension Rules, 1963",
+    "Notification No. FD(SR-III)3-1165/2022 dated 07.07.2022"
+  ],
   "citations": [
     "PLD 2025 SC 865"
   ],

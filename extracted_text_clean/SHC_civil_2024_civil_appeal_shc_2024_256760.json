@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "14.02.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Habib-ur-Rahman Shaikh",
+    "Mr. Aftab Ahmed Shar",
+    "the applicant",
+    "the appellants",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

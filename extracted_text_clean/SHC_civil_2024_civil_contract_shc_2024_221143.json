@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Constitution Petition No.S-218 of 2024",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "04-10-2024",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 164",
     "Section 491 of the Cr.P.C",
@@ -19,7 +19,16 @@
     "2024 SCMR 484",
     "PLD 2013 SC 557"
   ],
-  "parties": [],
+  "parties": [
+    "Mashooque Ali",
+    "Province of Sindh",
+    "Mst. Zainab alias Sabhagi",
+    "Benazir",
+    "Dhani Bakhsh Mari",
+    "Iftikhar Bajwa",
+    "Vijay Kumar",
+    "Kanji"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

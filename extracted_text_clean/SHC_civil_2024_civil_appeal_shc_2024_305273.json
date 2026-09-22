@@ -7,11 +7,24 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "11.02.2026",
   "judge": "Zulfiqar Ali Sangi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Shafqat",
+    "Province of Sindh",
+    "Mr. Muhammad Rizwan",
+    "Mr. Abdul Jalil Zubedi",
+    "AAG Sindh",
+    "Mr. Akhlaq Ahmed Kalwar",
+    "Deputy Director (Recruitment)",
+    "SPSP",
+    "Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

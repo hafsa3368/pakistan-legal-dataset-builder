@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.184 of 2014",
   "date_of_order": "19.03.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "ARY Communications Limited",
+    "Kazi Abdul Hameed Siddiqui",
+    "Kashif Hanif",
+    "Asim Mansoor Khan",
+    "Rahman Aziz Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

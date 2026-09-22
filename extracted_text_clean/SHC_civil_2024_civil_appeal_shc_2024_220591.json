@@ -6,12 +6,15 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "HCA No.104 of 2024",
   "date_of_order": "01.10.2024",
-  "judge": "JUDGE MUBASHIR",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Naveed Ahmed Khan",
+    "Mr. Ali Tahir Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

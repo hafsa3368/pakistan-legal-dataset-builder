@@ -9,14 +9,24 @@
   "case_number": "Constitutional Petition No. D-4105 of 2024",
   "date_of_order": "03.11.2025",
   "judge": "Shafi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 SCMR 1189",
     "2003 SCMR 1110",
     "PLD 1994 Karachi 367",
     "PLD 2012 SC 553"
   ],
-  "parties": [],
+  "parties": [
+    "Tariq Ali",
+    "Federation of Pakistan & others",
+    "Raja Mushtaque Ahmed Bhatti",
+    "Federation of Pakistan & others",
+    "Imtiaz Ali",
+    "Federation of Pakistan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,15 +7,26 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Criminal Appeal No.S-13 of 2024",
-  "date_of_order": "",
-  "judge": "SulemenKhan/PA",
+  "date_of_order": "22.04.2024",
+  "judge": "Muhammad Jaffer Raza",
   "sections_cited": [
     "section 544-A Cr.P.C",
     "section 382-B",
     "section 345 & 345 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Anwar Ali",
+    "The State vs Asif Ali and another",
+    "Mst. Shamshad @ Kaki",
+    "Khan Muhammad",
+    "Afzal",
+    "Mst. Reema",
+    "Mst. Seema",
+    "Mst. Sumia",
+    "Shayan Ali",
+    "Aashan Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

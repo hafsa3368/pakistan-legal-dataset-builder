@@ -6,16 +6,22 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 71 of 2024",
   "date_of_order": "02.05.2024",
-  "judge": "JUDGE Amjad PS",
+  "judge": "Muhammad Shafi Siddiqui Justice Ms",
   "sections_cited": [
     "Section 10"
   ],
   "citations": [
     "PLD 1969 Karachi 193"
   ],
-  "parties": [],
+  "parties": [
+    "Masood Ahmed Khan",
+    "Israr Ahmed Khan",
+    "Mst. Safia Khan",
+    "Salahuddin Khan",
+    "Khulque Muhammad Naqvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

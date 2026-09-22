@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "22.04.2026",
-  "judge": "JUDGE Sajjad Ali",
+  "judge": "Sajjad Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zubair Ameer S/o Ameer-ud-Din",
+    "Bank Al-Falah Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

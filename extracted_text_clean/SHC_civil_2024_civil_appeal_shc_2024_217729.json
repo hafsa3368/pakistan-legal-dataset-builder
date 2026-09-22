@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Appeal No. 06 of 2004",
   "date_of_order": "02.06.2004",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 43",
     "section 31",
@@ -26,7 +26,15 @@
     "2001 SCMR 1083",
     "PLD 2001 Karachi 283"
   ],
-  "parties": [],
+  "parties": [
+    "Tariq Irshad",
+    "Zaki Pasha",
+    "The State",
+    "Anti-Narcotic Force",
+    "Pervez Ameer Ali",
+    "Anti-Narcotic Force",
+    "Agha Mehmood Ul Hassan Haravi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

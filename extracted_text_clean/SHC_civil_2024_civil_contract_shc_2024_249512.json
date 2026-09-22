@@ -6,14 +6,31 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitution Petition No. D-",
+  "case_number": "",
   "date_of_order": "",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Rule 48 of the Electricity Act 1910",
+    "Section 497 CrPC",
+    "Rule 48 of the Electricity Rules 1937",
+    "SPPRA policy",
+    "PEC category C-4",
+    "Electricity Rules 1937"
+  ],
   "citations": [
     "7996 SCMR 1433"
   ],
-  "parties": [],
+  "parties": [
+    "Khalid",
+    "Prouince of Sindh & others",
+    "Ghttlnm Akber Mughul",
+    "Prouince of Sindh & othersl",
+    "M/S SK Corporation",
+    "Mr. Abdul Sattar Thaheem",
+    "Mr. Zulifqar Ali Naich",
+    "Electric Inspector Masroor Ahmed Mughal",
+    "Sindh Energy Departrnent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

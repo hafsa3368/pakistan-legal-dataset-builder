@@ -9,14 +9,26 @@
   "case_number": "",
   "date_of_order": "08.05.2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 SCMR 1662",
     "2020 SCMR 2134",
     "2004 SCMR 1956",
     "PLD 2016 SC 229"
   ],
-  "parties": [],
+  "parties": [
+    "Dewan M. Yousif Farooqi Vs. Dewan Zia ur Rehman Farooqi & others",
+    "Dewan Abdul Rehman Farooqi Vs. Abdul Manan Mutaqi & others",
+    "Abdul Manan Mutaqi",
+    "Dewan Mushtaque & sons- E-III 5 S-I",
+    "Danish s/o Farooq",
+    "Dewan Zia ur Rehman Farooqi & others",
+    "Abdul Manan Mutaqi",
+    "Dewan Mushtaque & sons- E-III 5 S-I"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

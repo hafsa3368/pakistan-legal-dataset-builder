@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 465 of 2024",
   "date_of_order": "01.11.2024",
   "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
@@ -16,7 +16,10 @@
     "2023 SCMR 1361",
     "2018 SCMR 662"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. National Telecommunication Corporation",
+    "M/s. Zahra Communications"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

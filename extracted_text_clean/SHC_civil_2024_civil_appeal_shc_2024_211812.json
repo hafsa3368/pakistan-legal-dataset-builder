@@ -9,9 +9,16 @@
   "case_number": "",
   "date_of_order": "06.03.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 151",
+    "u/s 149"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Khaleeq Ahmed, Khursheed Javed, and Muhammad Usman, Advocates for the Appellants",
+    "M/s. Shahab Sarki and Abid Hussain Advocate for the Respondent No1",
+    "M/s. Syed Muhammad Kazim, Abdul Shakoor and Aneel Kumar Advocate for the Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

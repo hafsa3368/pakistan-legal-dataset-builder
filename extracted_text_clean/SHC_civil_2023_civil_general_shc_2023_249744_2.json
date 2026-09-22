@@ -6,12 +6,16 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitutional Petition is dismissed for non-prosecution",
+  "case_number": "",
   "date_of_order": "13.03.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashok Kumar K.Jamba",
+    "Mr. Asadullah Soomro",
+    "Mr. Karim Bux Janweri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

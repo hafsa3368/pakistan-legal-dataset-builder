@@ -6,12 +6,28 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 178 of 2024",
   "date_of_order": "13.05.2024",
-  "judge": "JUDGE Amjad PS",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui Justice Ms",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Town Municipal Corporation, Gadap Town",
+    "Province of Sindh",
+    "Muhammad Khan",
+    "Mr. Ahmed Masood",
+    "Muhammad Altaf",
+    "Malik Naeem Iqbal",
+    "Mr. Junaid Alam Khan",
+    "KBCA",
+    "Mr. Irshad Ali Shar",
+    "TMC",
+    "Ibrahim Haideri",
+    "Mr. Muhammad Yousuf Narejo",
+    "Mr. Zaheer-ul-Hassan Minhas"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

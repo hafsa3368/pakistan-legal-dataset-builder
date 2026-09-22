@@ -6,12 +6,16 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Acquittal Appeal No. S-34 of 2023",
+  "case_number": "",
   "date_of_order": "01.04.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 561-A Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Javed Ali Dhiloo, Advocate for appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

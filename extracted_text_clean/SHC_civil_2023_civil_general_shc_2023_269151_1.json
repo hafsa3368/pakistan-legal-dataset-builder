@@ -6,12 +6,26 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-685 of 2023",
   "date_of_order": "21.05.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Rehman A. Bhutto",
+    "Mr. Liaquat Ali Shar",
+    "Zaheer Abbas Mir",
+    "Deputy Secretary, Health Department, Karachi",
+    "Dr. Capt. Nasrullah Soomro",
+    "Director, Health Services, Larkana",
+    "Dr. Syed Aijaz Ali Shah",
+    "D.H.O. Kashmore",
+    "Syed Ali Raza Shah",
+    "Assistant Commissioner, Kandhkot",
+    "The Government of Sindh, Health Department, Karachi",
+    "D.H.O, Kashmore- Kandhkot",
+    "The office of the Additional Advocate General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

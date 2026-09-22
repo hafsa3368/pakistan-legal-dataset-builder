@@ -6,14 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitution Petition No. D-",
+  "case_number": "",
   "date_of_order": "06.05.2026",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [
     "Section 6"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Noor Hussain Chandio",
+    "PO Sindh",
+    "Others",
+    "Respondent No.8",
+    "Respondent No.9"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

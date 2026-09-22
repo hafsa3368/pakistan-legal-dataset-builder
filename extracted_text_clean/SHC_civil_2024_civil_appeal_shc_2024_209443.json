@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.12 of 2017",
   "date_of_order": "15.01.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s R.B. Avari Enterprises (Pvt.) Ltd.",
+    "Director General Department of Plant Protection",
+    "Mr. Usman A. Hadi",
+    "Ms. Afsheen Aman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

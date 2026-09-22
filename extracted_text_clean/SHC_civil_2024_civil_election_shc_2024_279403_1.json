@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "C.P No.D-3970 of 2024",
   "date_of_order": "28.08.2025",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "Section 12",
     "Section 114",
@@ -17,7 +17,11 @@
   "citations": [
     "PLD 2024 SC 262"
   ],
-  "parties": [],
+  "parties": [
+    "Government Teachers Cooperative Housing Society Ltd.",
+    "Province of Sindh",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

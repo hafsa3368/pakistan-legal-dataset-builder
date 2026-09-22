@@ -6,15 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "constitution Page No. 3",
+  "case_number": "Cr. Appeal No. S-39 of 2024",
   "date_of_order": "10-03-2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "section 34 PPC",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sagar Kumar s/o Hari Chand Hindu",
+    "Israr Ahmed s/o Nadir Ali Awan",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

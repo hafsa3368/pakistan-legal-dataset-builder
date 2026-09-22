@@ -8,10 +8,26 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "28.08.2024",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sheikh Construction & Real Estate",
+    "Sheikh Construction",
+    "Sheikh Construction",
+    "Meezan Bank Ltd",
+    "Bahria Town",
+    "Mumin",
+    "Sheikh Construction & Real Estate",
+    "Sheikh Construction",
+    "Sheikh Construction",
+    "Mumin",
+    "Bahria Town",
+    "Mumin",
+    "Sheikh Construction & Real Estate",
+    "Mumin",
+    "Sheikh Construction"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

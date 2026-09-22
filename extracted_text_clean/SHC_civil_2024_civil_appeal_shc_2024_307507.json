@@ -8,13 +8,20 @@
   "num_chunks": 5,
   "case_number": "Civil Revision Appln. No. 42 of 2026",
   "date_of_order": "26.02.2026",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 115 of the Code",
     "Section 115"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Nawaz s/o Moula Bux",
+    "Liaquat Ali s/o Moula Bux",
+    "Khalil Ahmed s/o Muhammad Nawaz",
+    "Bilawal Memon s/o Shah Nawaz",
+    "Mukhtiarkar/ City Survey Officer, Taluka & District Sukkur",
+    "Government of Sindh, through its Secretary, Revenue Department Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

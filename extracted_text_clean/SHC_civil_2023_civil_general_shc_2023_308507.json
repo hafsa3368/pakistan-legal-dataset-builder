@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Constitutional Petition No.D-1449 of 2021",
   "date_of_order": "24.03.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "S.Nawaz",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahryar Awan",
+    "None",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 11,
   "case_number": "Constitutional Petition No. S-1270 of 2024",
   "date_of_order": "06.08.2025",
-  "judge": "",
+  "judge": "Syed Muhammad Ghufran Basit",
   "sections_cited": [
     "section 47",
     "section 14 of the Family Court Act",
@@ -24,7 +24,12 @@
   "citations": [
     "PLD 2025 SC 47"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Bilal Alvi",
+    "Mst. Sumaiya",
+    "Respondent No. 1",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

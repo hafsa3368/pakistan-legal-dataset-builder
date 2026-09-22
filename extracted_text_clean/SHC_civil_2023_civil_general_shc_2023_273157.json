@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Criminal A.T.A No.133 of 2022",
   "date_of_order": "06.03.2025",
-  "judge": "",
+  "judge": "Muhammad Danish",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Parkash Kumar",
+    "Respondents No.4 to 7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

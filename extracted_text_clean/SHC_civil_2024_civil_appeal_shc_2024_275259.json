@@ -38,7 +38,11 @@
     "2022 PCr.LJ 1631",
     "2018 MLD 1311"
   ],
-  "parties": [],
+  "parties": [
+    "Bakhshal",
+    "The State",
+    "The State vs. Bakhshal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P. No. D-5188 of 2023",
   "date_of_order": "25.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Mobeen Lakho",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Khan",
+    "Province of Sindh",
+    "Altaf Sachal Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

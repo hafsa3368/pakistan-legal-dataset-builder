@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A. No.271 of 2024",
   "date_of_order": "29.11.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tanveer & another",
+    "The Province of Sindh & others",
+    "Mr. Danial Shaikh",
+    "Mr. Ahmed Ali Hussain",
+    "Mr. Agha Ali Khan Durrani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

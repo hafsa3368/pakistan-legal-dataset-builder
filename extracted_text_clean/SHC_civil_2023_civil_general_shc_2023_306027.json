@@ -6,15 +6,24 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "misconceived and not",
+  "case_number": "C.P. No.D-1922 of 2025",
   "date_of_order": "17.02.2026",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Article 25 of the Constitution",
+    "Article 199 of the Constitution",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "1996 SCMR 1185",
     "2009 SCMR 1"
   ],
-  "parties": [],
+  "parties": [
+    "Qadeer Ahmed & others",
+    "Province of Sindh & others",
+    "Farhan Shaikh & others",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,21 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "16.08.2023",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "CMA No.4810/2023",
+    "CMA No.4811/2023",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Riaz Ali Shaikh",
+    "Mr. Ali Raza Baloch",
+    "Mr. Sawan Khan Jagirani",
+    "the petitioner/applicant",
+    "alleged contemnors No.3 & 4",
+    "the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

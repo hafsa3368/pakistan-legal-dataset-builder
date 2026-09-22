@@ -9,11 +9,18 @@
   "case_number": "Constitutional Petition No.D-4471 of 2024",
   "date_of_order": "10.11.2025",
   "judge": "Muhammad Karim Khan Agha Justice",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2025 SCMR 104"
   ],
-  "parties": [],
+  "parties": [
+    "Mujtaba Maqsood Qureshi",
+    "Province of Sindh",
+    "Syed Ahmed Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

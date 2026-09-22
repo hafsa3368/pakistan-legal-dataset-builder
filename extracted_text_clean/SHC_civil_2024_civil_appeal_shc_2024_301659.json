@@ -6,12 +6,21 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P. No. D-961 of 2024",
   "date_of_order": "18.12.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON JUSTICE RIAZAT ALI SAHAR",
+  "sections_cited": [
+    "Article 199 of the Constitution",
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Laraib Noor Khokhar",
+    "Province of Sindh and Others",
+    "SPSC",
+    "Chairman Enquiries and Anti-Corruption Establishment Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

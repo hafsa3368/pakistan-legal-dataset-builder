@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "31.01.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Khadim Hussain Malik and Zaheer Ahmed Ujjan",
+    "Mr. Zulfiqar Ali Naich",
+    "Assistant Advocate General Sindh",
+    "Noor Muhammad Indhar",
+    "Deputy District Education Officer (ES&HS), Ghotki"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

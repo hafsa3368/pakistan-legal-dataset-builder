@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No.D-90 of 2024",
   "date_of_order": "14.01.2026",
-  "judge": "",
+  "judge": "ALI HAIDER 'ADA'",
   "sections_cited": [
     "Section 9",
     "Section 382-B Cr.P.C",
@@ -26,7 +26,10 @@
     "2025 SCMR 923",
     "2025 SCMR 1344"
   ],
-  "parties": [],
+  "parties": [
+    "Mushtaque Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

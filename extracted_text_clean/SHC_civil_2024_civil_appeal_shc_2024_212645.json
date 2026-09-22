@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.256 of 2017",
   "date_of_order": "26.03.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Yasmin Tahir",
+    "Osman Yasin",
+    "DHA",
+    "appellant",
+    "respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

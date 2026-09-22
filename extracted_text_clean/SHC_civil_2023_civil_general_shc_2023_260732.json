@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "29.11.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rukhsar Ahmed M. Junejo",
+    "Mr. Liaquat Ali Shar",
+    "Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

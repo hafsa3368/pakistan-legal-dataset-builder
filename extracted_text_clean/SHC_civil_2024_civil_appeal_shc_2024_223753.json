@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Misc.No.7870/2024",
-  "date_of_order": "",
+  "date_of_order": "19.12.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s.Adeel Awan and Imran Iqbal, Advocates for the Petitioners",
+    "Ms.Alizeh Bashir, Assistant Attorney General",
+    "Mr.Sardar Zafar Hussain, Advocate for Respondent (F.B.R)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,22 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Const. Pett. No.D-318 of 2023",
+  "case_number": "",
   "date_of_order": "02.10.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The Higher Education Commission of Pakistan",
+    "Mr. Sheraz Fazal",
+    "Mr. Ali Raza Balouch",
+    "Syed Naveed Ahmed Shah",
+    "Government of Sindh",
+    "Shah Abdul Latif University Khairpur",
+    "Sukkur IBA University",
+    "University of Larkana",
+    "Shaikh Ayaz University"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

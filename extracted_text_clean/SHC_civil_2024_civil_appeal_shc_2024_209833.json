@@ -6,15 +6,22 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 393 of 2022",
   "date_of_order": "24.01.2024",
-  "judge": "JUDGE Amjad PS",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "Section 42 and 56 of the Specific Relief Act",
     "Section 73 and 117 of the Sindh Cooperative Societies Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aziz-ur-Rehman Akhund",
+    "Mr. Ali Haider",
+    "Mr. Kashif Hanif",
+    "Barrister Sandeep Malani",
+    "Muhammad Shafi Siddiqui",
+    "Society"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

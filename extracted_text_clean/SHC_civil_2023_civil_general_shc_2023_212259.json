@@ -7,11 +7,25 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-868 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "date_of_order": "19.03.2024",
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "u/s 1493 CrPC",
+    "u/s 1322 CrPC",
+    "Article 19(1)(c) of the Constitution of Pakistan"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Iqbal Kalhoro",
+    "Safdar Ali Shah",
+    "Imdad Ali",
+    "Justice Muhammad Iqbal Kalhoro",
+    "Justice Arbab Ali Hakro",
+    "Justice Shabbir Ali Bozdar",
+    "Zulfiqar Ali Naich",
+    "The State of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

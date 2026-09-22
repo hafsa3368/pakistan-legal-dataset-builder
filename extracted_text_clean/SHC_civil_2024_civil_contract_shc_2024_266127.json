@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitution Petition No. S",
+  "case_number": "",
   "date_of_order": "18.03.2025",
   "judge": "Muhammad Jaffer Raza Constitution Petition",
   "sections_cited": [
@@ -21,7 +21,12 @@
     "2004 SCMR 1839",
     "PLD 2003 SC 887"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Wajiha Fatima & another",
+    "Syed Badar Abbas Jafri & others",
+    "Syed Rashid Rizvi",
+    "Mr. Ahmed Dawood"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

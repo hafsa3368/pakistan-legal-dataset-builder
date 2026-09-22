@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Criminal Miscellaneous Application No.8/2021",
   "date_of_order": "29.12.2025",
-  "judge": "JUDGE",
+  "judge": "RAIZAT ALI SAHAR",
   "sections_cited": [
     "section 133 Cr.P.C",
     "section 11",
@@ -21,7 +21,11 @@
     "2022 CLC 556",
     "2016 YLR 194"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Respondent No. 9",
+    "Respondent No. 10"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

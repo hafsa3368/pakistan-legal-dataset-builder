@@ -6,12 +6,21 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitution Petition No. D",
+  "case_number": "",
   "date_of_order": "",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Ghulam Shabbir Shar, Alam Sher Khan Bozdar and Sohail Ahmed Khoso",
+    "Mr. Ali Raza Baloch, Assistant Advocate Generals Sindh",
+    "Mansoor Memon",
+    "Chief Engineer Irrigation Department Sukkur Barrage Sukkur",
+    "Syed Sardar Shah",
+    "Ex-Chief Engineer Irrigation Department Sukkur Barrage Sukkur",
+    "Muhammad Hayat Shaikh",
+    "Project Director SCARP Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

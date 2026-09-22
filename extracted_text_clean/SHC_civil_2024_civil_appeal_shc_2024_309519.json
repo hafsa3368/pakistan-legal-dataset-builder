@@ -6,12 +6,31 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "MA No.212 of 2024",
   "date_of_order": "01.04.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Asif Rasheed",
+    "Maqbool Ahmed",
+    "Ms. Rahat Naz",
+    "Ms. Nida Falak",
+    "Sana Falak",
+    "Sultana Begum",
+    "Iqbal Ahmed",
+    "Muhammad Tariq",
+    "Rahat Naz Ahmed",
+    "Nida Falak Ahmed",
+    "Sana Falak Ahmed",
+    "Yasmeen Asif",
+    "Muhammad Jawed Ahmed",
+    "Muhammad Naveed",
+    "Aftab Ahmed Soomro",
+    "Nargis Akhter"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

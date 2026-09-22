@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "civil Court has no jurisdiction",
+  "case_number": "",
   "date_of_order": "22.01.2025",
   "judge": "Jawad Akbar Sarwana Suit No",
   "sections_cited": [
@@ -24,7 +24,14 @@
   "citations": [
     "2022 SCMR 979"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Peng’s Hair and Beauty Clinic",
+    "M/s Peng Salon",
+    "Mst. Kamal Zaheer",
+    "The Purple Pink",
+    "M/s Rameez Lalani & Mohsin Raza",
+    "Mr. Shaukat Hayat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

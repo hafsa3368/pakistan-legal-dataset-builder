@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "High Court Appeal No.469 of 2018",
   "date_of_order": "17.04.2024",
-  "judge": "JUDGE Amjad PS",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "Section 21",
     "Section 56 of the Specific Relief Act",
@@ -20,7 +20,18 @@
     "2004 SCMR 1092",
     "1991 CLC 734"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Sadiq Baloch",
+    "Pritam Das and others",
+    "Mahaish Kumar Pinjani and others",
+    "Narendar Kumar and others",
+    "Ramesh Kumar and others",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Omar Sial",
+    "M/s. Rizwan Ahmed Siddiqui and Rehan Ahmed Siddiqui",
+    "Mr. Anand P. Kamran",
+    "Barrister Sandeep Malani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

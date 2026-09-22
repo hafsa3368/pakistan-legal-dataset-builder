@@ -6,12 +6,28 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "C.P.No.D-807 of 2024",
   "date_of_order": "30.10.2025",
-  "judge": "JUDGE Shahid",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khalid Mustafa Shoro",
+    "M/s. Jaleel Ahmed Memon and Syed Jan Muhammad Bukhari",
+    "Mr. Syed Hyder Hassan Shah",
+    "Mr. Rafique Ahmed Dahri",
+    "Mr. Syed Ahmed Ali Shah",
+    "Mr. Shamsuddin Rajpar",
+    "Mr. Rafique Ahmed Dahri",
+    "Muhammad Saleh Bhatti",
+    "DPS Shah Nawaz Jokhio",
+    "SIP Sajjad Jamali",
+    "SHO P.S Jamshoro",
+    "Mr. Muhammad Arshad Pathan",
+    "Wazir Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

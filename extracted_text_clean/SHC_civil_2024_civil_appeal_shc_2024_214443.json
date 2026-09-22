@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeals No.174",
   "date_of_order": "06.05.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bank Alfalah Ltd.",
+    "Raza Elahi & others",
+    "M/s. Salahuddin Ahmed and Chaudhry Atif Rafiq",
+    "Mr. Ahmed Masood",
+    "M/s. Abid S. Zuberi and Ayan Mustafa Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

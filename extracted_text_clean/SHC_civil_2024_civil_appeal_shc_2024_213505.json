@@ -6,12 +6,21 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "HCA No.152 of 2024",
+  "date_of_order": "26.04.2024",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Umair Bachani",
+    "Mr. Touqeer Ahmed Seehar",
+    "Mr. Malik Altaf",
+    "Mr. Faizan Hussain Memon",
+    "Mr. Hafeezullah",
+    "Mr. Khaleeq Ahmed",
+    "NHA",
+    "Respondent No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "",
-  "judge": "JUDGE AHSAN ABRO",
-  "sections_cited": [],
+  "judge": "AHSAN ABRO",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/S Rizwan Babu and Sons",
+    "Federation of Pakistan",
+    "Mrs.Razia Ali Zaman Patoli"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

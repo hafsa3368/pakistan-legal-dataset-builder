@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "civil proceedings have not",
+  "case_number": "",
   "date_of_order": "22.10.2014",
   "judge": "Waheeduddin Ahmed",
   "sections_cited": [
@@ -26,7 +26,13 @@
     "PLD 1971 SC 197",
     "PLD 1976 SC 483"
   ],
-  "parties": [],
+  "parties": [
+    "Independent Media Corporation (Private) Limited",
+    "Mr. Sahir Ali",
+    "Mr. Mehmood Ali",
+    "Mr. Atif Chaudhry",
+    "Mr. Ijaz Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

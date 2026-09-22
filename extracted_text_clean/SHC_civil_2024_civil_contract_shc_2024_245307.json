@@ -6,12 +6,21 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitution was not",
+  "case_number": "",
   "date_of_order": "23.01.2025",
   "judge": "Jawad Akbar Sarwana",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kamal Ahmed",
+    "Syed Ali Zafar",
+    "Federation of Pakistan",
+    "Secretary, Ministry of Maritime Affairs",
+    "Mr. Agha Zafar Ahmed",
+    "Mr. Adnan Ahmed Zafar",
+    "M.Haroon Khan",
+    "Assistant Director"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

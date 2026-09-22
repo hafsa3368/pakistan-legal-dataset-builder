@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P No.D-285 of 2025",
   "date_of_order": "21.01.2026",
   "judge": "Arbab Ali Hakro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Karim Bux",
+    "Province of Sindh",
+    "Mr. Muhammad Suleman",
+    "Mr. Muhammad Sharif Solangi",
+    "Assistant Advocate General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,8 +8,11 @@
   "num_chunks": 7,
   "case_number": "Civil Revision Application No. 162/2023",
   "date_of_order": "01.09.2025",
-  "judge": "JUDGE asim/PA",
-  "sections_cited": [],
+  "judge": "Omal Sial",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
   "parties": [
     "Syed Asghar Imam "

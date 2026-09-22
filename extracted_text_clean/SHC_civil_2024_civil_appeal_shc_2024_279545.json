@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Civil Appeal Nos",
+  "case_number": "",
   "date_of_order": "03.09.2025",
   "judge": "Muhammad Osman Ali Hadi Priority",
   "sections_cited": [
@@ -21,7 +21,12 @@
     "2000 SCMR 204",
     "PLD 2025 SC 31"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Osman Ali Hadi",
+    "Mr. Muhammad Arif Khan",
+    "Mr. Ayaz Ali",
+    "Mirza Waqas Muneer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

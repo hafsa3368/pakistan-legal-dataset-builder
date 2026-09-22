@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitutional Petition is dismissed as not",
+  "case_number": "C.P. No.D-87 of 2024",
   "date_of_order": "6th February 2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. M. Kamran Iqbal Bhutta"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

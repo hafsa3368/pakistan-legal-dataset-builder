@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "constitutional jurisdiction. C.P No.S-647 of 2025",
+  "case_number": "C.P No.S-647 of 2025",
   "date_of_order": "19.01.2026",
   "judge": "Sajjad Ali Jessar",
   "sections_cited": [
@@ -16,7 +16,10 @@
   "citations": [
     "2022 SCMR 2123"
   ],
-  "parties": [],
+  "parties": [
+    "Waseem Akram",
+    "Mst. Asma"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

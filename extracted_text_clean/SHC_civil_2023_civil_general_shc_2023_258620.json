@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1595 of 2022",
   "date_of_order": "13.10.2023",
-  "judge": "JUDGE Sulemen Khan/PA",
+  "judge": "Sulemen Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aftab Ahmed Shar",
+    "Mr. Ali Raza Baloch",
+    "Learned APG",
+    "learned Civil Judge & Judicial Magistrate-III, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

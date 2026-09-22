@@ -6,15 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "Cr. Revision Application No.S-51 of 2024",
+  "date_of_order": "06-10-2025",
   "judge": "",
   "sections_cited": [
     "section 382-B Cr.P.C",
     "Section 392 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahbaz Ali M. Brohi, Advocate for the applicant",
+    "Mr. Nazir Ahmed Bhangwar, Deputy Prosecutor General",
+    "Huzoor Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

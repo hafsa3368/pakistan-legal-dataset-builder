@@ -8,12 +8,21 @@
   "num_chunks": 7,
   "case_number": "",
   "date_of_order": "13.02.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ARSHAD HUSSAIN KHAN,",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2018 Sindh 274"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Abdul Razzaq and Aqib Hussain, Advocate",
+    "M/s. Khalil Ahmed Siddiqui and Zulfiqar Ali, Advocates",
+    "Mr. Obaidullah Abro, Advocate",
+    "SBCA",
+    "Mr. Pervaiz Ahmed Mastoi, AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

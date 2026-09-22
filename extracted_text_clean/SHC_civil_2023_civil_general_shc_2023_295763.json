@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Criminal Miscellaneous Application No. S-",
+  "case_number": "",
   "date_of_order": "04.06.2025",
-  "judge": "",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Section 489-F PPC",
     "Section 22-A & 22-B Cr.P.C",
@@ -22,7 +22,13 @@
     "2010 SCMR 806",
     "2024 SCMR 985"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Usman",
+    "Majid Ali and others",
+    "Majid Ali Mangi",
+    "Muhammad Rafiq Buledi",
+    "Muhammad Usman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

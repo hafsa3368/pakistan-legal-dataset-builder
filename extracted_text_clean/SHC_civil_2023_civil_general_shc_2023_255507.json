@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "14.12.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Salam Shaikh",
+    "Mr. Muhammad Ali Ansari",
+    "Mr. Ashfaque Hussain Abro",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

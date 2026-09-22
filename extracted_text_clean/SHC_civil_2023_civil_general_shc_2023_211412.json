@@ -6,14 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Crl.Misc.Appln.No. S",
+  "case_number": "",
   "date_of_order": "11.09.2023",
   "judge": "",
   "sections_cited": [
     "Section 173"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ahmeduddin",
+    "State",
+    "Police Station Sorah",
+    "the learned Civil Judge & Judicial Magistrate, Nara",
+    "the learned counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

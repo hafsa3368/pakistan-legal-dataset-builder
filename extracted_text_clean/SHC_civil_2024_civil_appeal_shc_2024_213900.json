@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "11.03.2024",
-  "judge": "JUDGE",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "Section 16 of the Civil Procedure Code",
     "Section 16",
@@ -18,7 +18,15 @@
   "citations": [
     "2011 CLC 1176"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Muhammad Kazim",
+    "M/s. Ali Builders & Developers (Pvt.) Limited",
+    "Sehwan Development Control Authority",
+    "Karachi Development Authority",
+    "Province of Sindh (through the Board of Revenue)",
+    "Naheed Bano",
+    "Syed Shujat Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

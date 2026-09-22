@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 30,
-  "case_number": "",
+  "case_number": "C.P No. S-204 of 2025",
   "date_of_order": "01.12.2025",
-  "judge": "",
+  "judge": "Riazat Ali Sahara",
   "sections_cited": [
     "Section 15",
     "Section 33",
@@ -27,7 +27,11 @@
     "PLD 1986 SC 103",
     "PLD 1977 SC 237"
   ],
-  "parties": [],
+  "parties": [
+    "M/s International Credit Information Limited",
+    "Abdul Wahad Khan",
+    "NBP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

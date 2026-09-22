@@ -7,13 +7,22 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitutional Petition No.D-4204 of 2024",
-  "date_of_order": "",
+  "date_of_order": "18.9.2024",
   "judge": "",
   "sections_cited": [
     "Sections 23B and 23C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "State Bank of Pakistan",
+    "petitioners",
+    "Mr. Salahuddin Ahmed",
+    "Mr. Khaleeq Ahmed",
+    "Mr. Manzoor-ul-Haq",
+    "Mr. Abdul Shakoor",
+    "Mr. Danish Nayyer",
+    "respondents No.8 and 12"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

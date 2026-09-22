@@ -7,13 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "23-04-2025",
   "judge": "",
   "sections_cited": [
     "section 56 of the Specific Relief Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Messrs. K.A Wahab and Khilji Bilal Aziz",
+    "Mr. Mohsin Khan",
+    "Mr. Nadir Khan Burdi",
+    "Mr. Sandeep Malani",
+    "Respondent No.1 to 4",
+    "Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

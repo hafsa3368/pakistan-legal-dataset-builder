@@ -7,13 +7,22 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "05-12-2024",
   "judge": "Zafar Ahmed Rajput",
   "sections_cited": [
     "section 5 of the Limitation Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Irfan Akram",
+    "Adil Razzaque",
+    "Mr. Justice Zafar Ahmed Rajput",
+    "Mr. Justice Adnan Iqbal Chaudhry",
+    "Wali Muhammad",
+    "Respondent",
+    "Appellant",
+    "Additional District Judge"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

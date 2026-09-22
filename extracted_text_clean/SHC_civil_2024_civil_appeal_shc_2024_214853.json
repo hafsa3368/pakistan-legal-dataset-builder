@@ -6,12 +6,16 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.64 of 2020",
   "date_of_order": "16.05.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Textile Institute of Pakistan",
+    "Mr. Gauhar Ajmal",
+    "Mr. Sandeep Malani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

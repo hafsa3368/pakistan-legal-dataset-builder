@@ -9,9 +9,17 @@
   "case_number": "Constitutional Petition No.D-5989 of 2023",
   "date_of_order": "09.10.2024",
   "judge": "Ayaz Gul",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. New ABC Neelam Ghar",
+    "The Federation of Pakistan",
+    "Mr. Imdad Khan",
+    "Ms. Wajiha Mahdi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

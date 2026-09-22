@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-6259 of 2024",
   "date_of_order": "16.12.2024",
-  "judge": "Judge Ayub",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hamid A. Memon",
+    "respondent No.3",
+    "Pakistan Engineering Council"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

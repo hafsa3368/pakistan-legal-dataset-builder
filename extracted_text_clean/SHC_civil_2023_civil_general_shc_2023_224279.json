@@ -6,12 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "CP NO.D-2720",
   "date_of_order": "21.03.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 5"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Naveed Anjum",
+    "SBCA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

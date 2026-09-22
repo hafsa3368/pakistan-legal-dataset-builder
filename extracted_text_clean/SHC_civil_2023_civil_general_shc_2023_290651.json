@@ -8,12 +8,18 @@
   "num_chunks": 5,
   "case_number": "Constitution Petition No.D-832 of 2025",
   "date_of_order": "17.02.2022",
-  "judge": "JUDGE Irshad Ali M/Steno",
+  "judge": "Shahzad Gul Shaikh",
   "sections_cited": [
     "Section 21 of the General Clauses Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahzad Gul Shaikh",
+    "Mr. Liaquat Ali Shar",
+    "Deputy Commissioner, Larkana",
+    "The petitioner",
+    "Respondent No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

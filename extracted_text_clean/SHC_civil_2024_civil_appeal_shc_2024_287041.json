@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 32,
-  "case_number": "Civil Appeal Nos",
+  "case_number": "C.P. No.D-4233 of 2024",
   "date_of_order": "21.05.2025",
   "judge": "Kalyan Shrestha",
   "sections_cited": [
@@ -38,7 +38,24 @@
     "PLD 2012 SC 774",
     "PLD 2025 SC 440"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Monem",
+    "Vice Chief of Air Staff [Pakistan Air Force]",
+    "Ministry of Defence",
+    "ACAS [PA] Sect [Ad Discipline]",
+    "Officer Commanding [Base Commander]",
+    "WG CDR Zahid Hussain Memon",
+    "Federal Government through Secretary, Ministry of Defence and others",
+    "Federal Government through Secretary, Establishment Division Government of Pakistan, Islamabad",
+    "Muhammad Tariq Pirzada and 2 others",
+    "Federation of Pakistan",
+    "Province of Sindh and others",
+    "Province of Punjab and others",
+    "Mst. Razia Begum and others",
+    "Chief of Air Staff (Pakistan Air Force), Islamabad",
+    "Muhammad Azhar Siddiqui versus Federation of Pakistan",
+    "Havaldar Mian Ramzan vs. Federal Government, Ministry of Defence, through Chief of the Army Staff, General Headquarters, Rawalpindi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

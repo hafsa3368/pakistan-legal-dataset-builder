@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Miscellaneous Application No. S-",
+  "case_number": "",
   "date_of_order": "28.11.2023",
-  "judge": "Amjad/PS",
+  "judge": "",
   "sections_cited": [
     "Sections 22-A and 22-B",
     "Section 154",
@@ -18,7 +18,12 @@
     "2024 SCMR 1123",
     "2008 SCMR 839"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Hassan Khan",
+    "The State and others",
+    "Respondent No.4/proposed accused",
+    "The applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

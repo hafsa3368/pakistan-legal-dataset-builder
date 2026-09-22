@@ -6,12 +6,23 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "constituted vide Notification",
+  "case_number": "C.P.No.D-7029 of 2021",
   "date_of_order": "13.11.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ms. Maria Ahmed",
+  "sections_cited": [
+    "Section 24 CrPC",
+    "Section 3 of the Judgment"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Maria Ahmed",
+    "Mr. K. Jehangir",
+    "Mr. Khaleeq Ahmed",
+    "Mr. Fahim Raza",
+    "Ms. Syeda Sidra Majid",
+    "The Petitioner",
+    "The Respondent No.4 (F.B.R)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

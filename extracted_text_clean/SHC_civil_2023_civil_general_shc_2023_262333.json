@@ -8,13 +8,18 @@
   "num_chunks": 3,
   "case_number": "Criminal Miscellaneous Application No.S-402 of 2023",
   "date_of_order": "13.04.2023",
-  "judge": "",
+  "judge": "RAiyat Ali Sahar",
   "sections_cited": [
     "section 523 Cr.P.C",
     "Section 550 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hafiz Owais Ahmed",
+    "Muhammad Anwar",
+    "Muhammad Faheem Siddique",
+    "Rashid Sami"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

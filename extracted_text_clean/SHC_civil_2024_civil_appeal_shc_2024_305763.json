@@ -8,13 +8,16 @@
   "num_chunks": 6,
   "case_number": "Criminal Appeal No.S-59 of 2025",
   "date_of_order": "28.01.2026",
-  "judge": "",
+  "judge": "Miran Muhammad Shah",
   "sections_cited": [
     "Section 23",
     "section 342 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gul Maalik s/o Amin Shah Afridi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

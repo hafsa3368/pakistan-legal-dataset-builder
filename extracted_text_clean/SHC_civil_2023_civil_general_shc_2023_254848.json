@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "16.11.2023",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashok Kumar K. Jamba",
+    "M/s Abdur Rahman Faruq Pirzada and Fareed Ahmed Soomro",
+    "Mr. Ashfaque Hussain Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

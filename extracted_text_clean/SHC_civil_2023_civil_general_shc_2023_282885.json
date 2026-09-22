@@ -6,14 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No.S-486 of 2021",
   "date_of_order": "19.09.2025",
   "judge": "Sajjad Ali Jessar",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 163 of the Limitation Act, 1908"
+  ],
   "citations": [
     "2013 CLC 597"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Imam Bux Baloch, advocate for petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "27.02.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Farrukh Shahzad Choudhry",
+    "M.C.B. Bank Limited",
+    "Munir Ahmed Malik",
+    "Bahzad Haider",
+    "Badar Alam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

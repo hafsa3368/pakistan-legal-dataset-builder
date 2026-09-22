@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Civil Procedure. There is no suggestion",
+  "case_number": "",
   "date_of_order": "11.03.2025",
   "judge": "",
   "sections_cited": [
@@ -20,7 +20,13 @@
     "2000 SCMR 431",
     "2002 CLC 1295"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Zahid Hussain Shar",
+    "the respondent",
+    "the applicant",
+    "the respondent",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "Election Appeal No.75 of 2024",
   "date_of_order": "30.12.2023",
   "judge": "Shafi",
   "sections_cited": [
@@ -15,7 +15,12 @@
     "section 60"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Jamaluddin Nasir",
+    "Mr. S.K Lodhi",
+    "Election Commission of Pakistan",
+    "Mr. G.M Bhuto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

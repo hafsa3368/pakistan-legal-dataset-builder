@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitution as an automatic process does not",
+  "case_number": "",
   "date_of_order": "08.10.2024",
   "judge": "Asif",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Abid Rafique",
+    "The Federation of Pakistan",
+    "Mr. Muhammad Aslam",
+    "Ms. Wajiha Mehdi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

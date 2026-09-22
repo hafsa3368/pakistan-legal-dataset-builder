@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-3190 of 2025",
   "date_of_order": "11.08.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "HEAD OF CONST. BENCHES",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Naveed Ahmed Khan and Farooq Abbasi, Advocates for the Petitioner",
+    "Ms. Wajeeha M. Mehdi, Assistant Attorney General",
+    "Pakistan Bar Council",
+    "Metropolitan University, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

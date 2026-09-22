@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Appeal No. 77 of 2025",
   "date_of_order": "29.04.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 382-B Cr.P.C",
     "Section 173 Cr.P.C",
@@ -18,7 +18,10 @@
     "Section 25 of the Sindh Arms Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hamidullah son of Amanullah",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

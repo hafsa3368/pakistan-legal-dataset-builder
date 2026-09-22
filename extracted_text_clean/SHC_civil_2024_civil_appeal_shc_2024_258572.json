@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Criminal Jail Appeal No.D-47 of 2024",
   "date_of_order": "12.03.2025",
-  "judge": "",
+  "judge": "Muhammad Hasan (Akbar)",
   "sections_cited": [
     "Section 48",
     "Section 410 of Cr.P.C",
@@ -34,7 +34,10 @@
     "2021 SCMR 522",
     "2020 SCMR 460"
   ],
-  "parties": [],
+  "parties": [
+    "Farooque Ahmad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "28.08.2024",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Momin",
+    "Mohammad Mohsin s/o Shehzad Muhammad Sadiq",
+    "Sheikh Construction & Real Estate",
+    "Sheikh Construction",
+    "Bahria Town"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

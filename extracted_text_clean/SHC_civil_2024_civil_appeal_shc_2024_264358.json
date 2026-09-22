@@ -6,14 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitution Petition No. S",
+  "case_number": "",
   "date_of_order": "29.04.2025",
   "judge": "Muhammad Jaffer Raza Ruqqiya Lehar",
   "sections_cited": [
     "Section 25"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Jaffer Raza Ruqqiya Lehar",
+    "Mr. Muhammad Arif Latif",
+    "Shayan Zakaria Chottani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

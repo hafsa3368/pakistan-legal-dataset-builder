@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "22.04.2026",
-  "judge": "JUDGE Sajjad Ali",
-  "sections_cited": [],
+  "judge": "Sajjad Ali",
+  "sections_cited": [
+    "Section 25 of the Limitation Ordinance, 2003",
+    "Section 16 of the Limitation Ordinance, 2003"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Laiq S/o Haji Hakim Gahelo",
+    "Zarai Taraqiati Bank Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,22 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.238 of 2020",
   "date_of_order": "17.05.2024",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Ayaz Gul",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pakistan Railway",
+    "Additional Registrar (OS)",
+    "High Court of Sindh and others",
+    "Mr. Yousuf Moulvi",
+    "Mr. Sandeep Malani",
+    "Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

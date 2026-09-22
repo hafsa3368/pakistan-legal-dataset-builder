@@ -8,10 +8,13 @@
   "num_chunks": 2,
   "case_number": "Crl. Revision Application No. S-04 of 2024",
   "date_of_order": "26.02.2024",
-  "judge": "",
+  "judge": "M.Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saeed Jamal Lund",
+    "Mr. Zulfiqar Ali Jatoi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

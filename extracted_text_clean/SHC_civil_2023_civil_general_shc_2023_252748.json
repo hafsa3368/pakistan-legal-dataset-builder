@@ -6,14 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No. S-24 of 2025",
   "date_of_order": "26.05.2022",
-  "judge": "",
+  "judge": "M.Tahir",
   "sections_cited": [
     "section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent No.1",
+    "Respondent/tenant",
+    "Respondent No.2",
+    "Appellate Court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

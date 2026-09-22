@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.278 of 2022",
   "date_of_order": "13.05.2024",
-  "judge": "JUDGE Ayaz Gul",
-  "sections_cited": [],
+  "judge": "Ayaz Gul",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sajid Ali Magsi",
+    "Sindh Industrial Trading Estate",
+    "Mr. Mujtaba Sohail Raja",
+    "Mr. Imtiaz Ali Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

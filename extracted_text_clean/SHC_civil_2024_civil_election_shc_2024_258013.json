@@ -7,11 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-839 of 2021",
-  "date_of_order": "",
-  "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "date_of_order": "17.01.2024",
+  "judge": "Sulemen Khan",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nusrat Hussain Memon, Advocate for the Petitioners",
+    "Mr. Kaleemullah Shar, Advocate for Respondents No.5 & 6",
+    "Mr. Ahmed Ali Shahani, Assistant Advocate General a/w Muhammad Bachal Kanhar",
+    "AXEN Irrigation Khairpur Sub-Division, Javed Ali Laghari, Canal Assistant Faiz Gunj Sub-Division",
+    "Inspector Ali Asghar DSP Mirwah",
+    "Jameel Ahmed on behalf of SSP Khaipur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

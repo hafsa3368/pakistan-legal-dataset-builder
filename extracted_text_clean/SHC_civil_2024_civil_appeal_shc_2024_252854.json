@@ -6,15 +6,21 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "HCA No.523 of 2024",
   "date_of_order": "06.06.2024",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman",
   "sections_cited": [
     "Section 5 of the Limitation Act",
     "Section 3 of the Limitation Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shamsuddin Shaikh",
+    "Mst. Shahzadi Faheem",
+    "Mr. Afaq Ahmed",
+    "Haji Abdul Kareem Shaikh",
+    "Saima Square One Tower Residents Association"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

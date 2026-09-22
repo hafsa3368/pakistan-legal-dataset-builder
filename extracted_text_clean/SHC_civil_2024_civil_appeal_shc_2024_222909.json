@@ -6,14 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No.492 of 2024",
   "date_of_order": "02.12.2024",
   "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
     "Section 42 of the Companies Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kebabjees Group Association",
+    "Province of Sindh",
+    "Kebabjee Restaurant",
+    "Sindh Food Authority",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

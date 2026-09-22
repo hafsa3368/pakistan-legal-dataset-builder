@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-173 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "date_of_order": "21.12.2023",
+  "judge": "Sulemen Khan",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed Bhanbhro, Advocate for the Petitioners",
+    "Mr. Zulfiqar Ali Naich, Assistant Advocate General a/w Safdar li Kalwar Mukhtiarkar Sukkur City and Fayaz Ahmed Mangi Secretary, District Regional Transport Authority, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

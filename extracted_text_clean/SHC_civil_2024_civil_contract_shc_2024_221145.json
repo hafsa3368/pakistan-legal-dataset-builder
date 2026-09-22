@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitutional Petition No.S-206 of 2024",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "01-10-2024",
+  "judge": "Adnan-ul-Karim Memon,",
+  "sections_cited": [
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Hakima and another Vs. P.O Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

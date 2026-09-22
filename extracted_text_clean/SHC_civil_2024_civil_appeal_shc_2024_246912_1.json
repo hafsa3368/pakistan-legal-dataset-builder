@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "24.02.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Shafi Siddiqui",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pak Terry Mills Pvt. Ltd. vs. Federation of Pakistan & Others",
+    "Saiyid Zilay A Nawab Rizvi. vs. State Bank of Pakistan & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

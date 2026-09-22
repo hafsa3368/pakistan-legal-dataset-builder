@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Criminal Jail Appeal No.S-119 of 2024",
   "date_of_order": "07.05.2024",
-  "judge": "",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Section 23",
     "Section 382-B",
@@ -32,7 +32,10 @@
     "2024 MLD 608",
     "2018 SCMR577"
   ],
-  "parties": [],
+  "parties": [
+    "Irshad @ Gulab Gopang",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

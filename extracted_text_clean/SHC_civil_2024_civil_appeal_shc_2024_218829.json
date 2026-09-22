@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A. No.416 of 2023",
   "date_of_order": "03.09.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pakistan Electronic Media Regulatory Authority",
+    "Federation of Pakistan",
+    "another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

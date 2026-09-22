@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "",
+  "case_number": "Cr. Appeal No. D-101 of 2024",
   "date_of_order": "29.10.2025",
   "judge": "Amjad Ali Bohio",
   "sections_cited": [
@@ -24,7 +24,10 @@
     "2019 SCMR 2004",
     "2021 SCMR 451"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Yaseen son of Muhbat Jatoi",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

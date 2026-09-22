@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil Suit bearing No.346/2021",
+  "case_number": "",
   "date_of_order": "15.04.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Nadeem Qureshi",
+  "sections_cited": [
+    "U/S 149 CPC",
+    "U/S 5 Limitation Act"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aamir Zaheer Mirza",
+    "the Respondent",
+    "the Appellant/Defendant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

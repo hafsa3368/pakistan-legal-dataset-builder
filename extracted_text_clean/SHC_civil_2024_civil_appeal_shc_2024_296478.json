@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "CP No.S-1015 of 2024",
   "date_of_order": "24.11.2025",
-  "judge": "Nadir/PS",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aurangzeb",
+    "Mst. Nasreen",
+    "Ms. Iram Rasheed",
+    "Mr. Muhammad Nawaz",
+    "Mr. Ali Zardari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

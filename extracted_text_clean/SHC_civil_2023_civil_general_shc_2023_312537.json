@@ -6,16 +6,28 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "civil suit no stay",
+  "case_number": "Cr. Revision Application No.110 of 2025",
   "date_of_order": "05.05.2026",
-  "judge": "JUDGE HANIF",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 7",
+    "u/s 87 and 88 CrPC",
+    "u/s 88 CrPC"
+  ],
   "citations": [
     "1992 P.Cr.L.J. 360",
     "2001 P.Cr.L.J. 628",
     "1985 P.Cr.L.J. 825"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Musarrat Nisar",
+    "The State",
+    "Mr. Muhammad Sharif Buhtto",
+    "The State",
+    "Khurrum Nisar",
+    "The State",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,8 +6,8 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Criminal Misc. Application No. S-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "22-04-2024",
   "judge": "",
   "sections_cited": [
     "section 173",
@@ -19,7 +19,12 @@
   "citations": [
     "PLD 2018 SC 595"
   ],
-  "parties": [],
+  "parties": [
+    "Gulsher",
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Ubedullah Ghoto",
+    "Mr. Gulzar Ahmed Malalno"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

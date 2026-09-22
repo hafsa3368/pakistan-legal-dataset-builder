@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "High Court Appeal Nos.320",
   "date_of_order": "31.10.2024",
   "judge": "CHIEF JUSTICE",
   "sections_cited": [
@@ -18,7 +18,17 @@
     "Sections 22"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The Bank of Punjab Limited",
+    "Mst. Zahida Ashraf & Two Others",
+    "The Bank of Punjab Limited",
+    "Mst. Zahida Ashraf",
+    "Syed Atif Salman Hashmi",
+    "M/s Fariya Enterprise (Pvt.) Limited",
+    "The Bank of Punjab Limited",
+    "M/s Ijaz Ahmed",
+    "Waqar Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

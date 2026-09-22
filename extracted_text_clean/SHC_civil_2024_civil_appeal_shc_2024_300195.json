@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "civil suit. No reason",
+  "case_number": "",
   "date_of_order": "22.12.2025",
   "judge": "Tufail",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ismail s/o Jan Muhammad through Mr. Tarique Ali Narai",
+    "Suresh Kumar s/o Hathi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

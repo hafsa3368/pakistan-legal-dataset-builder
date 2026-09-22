@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "HCA No.41 of 2013",
+  "date_of_order": "10.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "City District Government Karachi",
+    "Shaukat Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

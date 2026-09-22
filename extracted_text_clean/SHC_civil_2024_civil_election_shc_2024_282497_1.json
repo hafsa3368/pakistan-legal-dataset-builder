@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P No.D-1261 of 2024",
   "date_of_order": "16.09.2025",
   "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
@@ -17,7 +17,10 @@
     "2020 SCMR 483",
     "PLD 2013 SC 170"
   ],
-  "parties": [],
+  "parties": [
+    "Safraz Ahmed",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

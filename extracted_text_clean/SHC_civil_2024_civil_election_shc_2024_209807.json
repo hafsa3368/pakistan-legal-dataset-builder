@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "constitutional and contrary to the norms",
+  "case_number": "C.P.No.D-165 OF 2024",
   "date_of_order": "19-01-2024",
-  "judge": "",
+  "judge": "ABDUL MOBEEN LAKHO,",
   "sections_cited": [
     "Section 62 of the Elections Act",
     "section 12 and 14"
@@ -18,7 +18,10 @@
     "2003 MLD 1089",
     "PLD 2007 SC 277"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan & others",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

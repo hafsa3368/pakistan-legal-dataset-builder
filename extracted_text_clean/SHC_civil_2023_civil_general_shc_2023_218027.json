@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1309 of 2013",
   "date_of_order": "22.02.2023",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shafique Ahmed Leghari",
+    "Mr. Khuda Bux Chohan",
+    "Mr. Ali Raza Baloch",
+    "Mr. Ashfaque Hussain Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

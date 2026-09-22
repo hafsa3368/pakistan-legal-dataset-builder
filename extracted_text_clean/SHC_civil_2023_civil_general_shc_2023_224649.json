@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 20,
-  "case_number": "Constitution and not",
+  "case_number": "C.P. No. D-2918 of 2023",
   "date_of_order": "19.09.2024",
   "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
@@ -27,7 +27,40 @@
     "PLD 2015 SC 401",
     "PLD 2012 SC 923"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "petitioner",
+      "name": "Naeem ur Rehman Khan"
+    },
+    {
+      "type": "respondent",
+      "name": "Province of Sindh"
+    },
+    {
+      "type": "petitioner",
+      "name": "Shah Muhammad Zaman"
+    },
+    {
+      "type": "petitioner",
+      "name": "Muhammad Amir Khan"
+    },
+    {
+      "type": "petitioner",
+      "name": "Saifuddin"
+    },
+    {
+      "type": "respondent",
+      "name": "Province of Sindh"
+    },
+    {
+      "type": "petitioner",
+      "name": "Syed Ghulam Shabbir Shah"
+    },
+    {
+      "type": "respondent",
+      "name": "Province of Sindh"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,17 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "constitutional petition cannot",
+  "case_number": "C.P No.S-496 of 2025",
   "date_of_order": "02.02.2026",
-  "judge": "",
+  "judge": "ARBAB ALI HAKRO,",
   "sections_cited": [
     "Sections 7, 10 and 25"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sikander Khan",
+    "Mst. Sana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

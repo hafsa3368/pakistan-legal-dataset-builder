@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-754 of 2023",
   "date_of_order": "22.05.2023",
-  "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "judge": "Sulemen Khan",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Dareshani Ali Haider ‘Ada’"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

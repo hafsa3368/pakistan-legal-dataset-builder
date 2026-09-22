@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Miscellaneous Application No.S-691 of 2024",
   "date_of_order": "13.04.2026",
-  "judge": "",
+  "judge": "Shahid Ali Panhwar",
   "sections_cited": [
     "sections 496-A and 494 PPC",
     "section 164 Cr.P.C"
@@ -18,7 +18,12 @@
     "2026 PCrLJ 188",
     "PLD 2013 Sindh 423"
   ],
-  "parties": [],
+  "parties": [
+    "Shamsuddin",
+    "The State and others",
+    "Mst. Irfana",
+    "Ihsan Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "23.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "U/S 164 CrPC",
+    "U/S 173 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulfiqar Ali Naich, Assistant Advocate General Sindh",
+    "Mst. Muskan",
+    "petitioner No.1",
+    "petitioner No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No.99 of 2024",
   "date_of_order": "10.12.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Pakistan National Building Material Display Center Foundation (PNBMDCF)",
+    "Aqsa Suleman Bawany",
+    "Mr. Zubair Ahmed",
+    "Ms. Sehar Rana",
+    "Shaista Estate (Pvt.) Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

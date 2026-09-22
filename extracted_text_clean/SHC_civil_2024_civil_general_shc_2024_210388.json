@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-190 of 2024",
   "date_of_order": "15th January 2024",
   "judge": "Aqeel Ahmed Abbasi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aslam Bhutta",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

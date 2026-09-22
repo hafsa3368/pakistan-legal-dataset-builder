@@ -11,7 +11,10 @@
   "judge": "Tufail",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Applicant / Appellant",
+    "Respondent / Plaintiff"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

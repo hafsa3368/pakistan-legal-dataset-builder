@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-1993 of 2025",
   "date_of_order": "27.01.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "B-K Soomro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Malik Naeem Iqbal",
+    "Mr. Talha Abbasi",
+    "M/s. Hakim Ali Shaikh",
+    "Sageer Ahmed Abbasi",
+    "Muhammad Saleem Jessar",
+    "Learned counsel for the petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

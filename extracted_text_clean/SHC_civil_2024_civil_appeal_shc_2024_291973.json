@@ -6,12 +6,22 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "21.11.2025",
-  "judge": "JUDGE Nadeem Qureshi PA",
-  "sections_cited": [],
+  "judge": "Nadeem Qureshi",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Uzair Qadir Shoro",
+    "Ms. Mehreen Ibrahim",
+    "Mr. Munawar Ali Memon",
+    "Respondent No.3",
+    "Petitioner",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

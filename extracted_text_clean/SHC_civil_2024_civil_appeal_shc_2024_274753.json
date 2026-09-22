@@ -8,12 +8,17 @@
   "num_chunks": 8,
   "case_number": "Civil Appeal No.251 of 2022",
   "date_of_order": "19.05.2025",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI,",
   "sections_cited": [
     "Section 84"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Zulfiqar",
+    "Muhammad Ajmal",
+    "Azmatullah",
+    "Taj Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

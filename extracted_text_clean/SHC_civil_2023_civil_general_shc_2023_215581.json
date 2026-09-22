@@ -6,12 +6,29 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "CP No.D-1813 of 2024",
   "date_of_order": "30.04.2024",
   "judge": "Aqeel Ahmed Abbasi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 15(3) CrPC",
+    "Section 15(4) CrPC",
+    "Section 397(3) CrPC",
+    "Section 498 Cr.P.C.",
+    "Section 15(1) CrPC",
+    "Section 15(2) CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Fatima Ali",
+    "Dr. Shehzad Ali",
+    "Province of Sindh",
+    "Mr. Justice Aqeel Ahmed Abbasi",
+    "Mr. Justice Abdul Mubeen Lakho",
+    "Mr. Malik Waseem Iqbal",
+    "Mr. Meeran Muhammad Shah",
+    "Mr. Wasif Mirza",
+    "Mr. Muhammad Sarfaraz"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

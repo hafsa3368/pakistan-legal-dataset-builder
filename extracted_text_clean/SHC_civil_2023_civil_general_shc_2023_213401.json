@@ -6,12 +6,25 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitution Petition No. D-",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "24-04-2024",
   "judge": "Karim Memon",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Younus Channa",
+    "Province of Sindh",
+    "Mr. Yasir Javed",
+    "Abdul Waseem",
+    "Abdul Waseem District Food Controller Naushehro Feroze",
+    "Mr. Liaquat Ali Shar",
+    "District & Sessions Judge Naushahro Feroze",
+    "Judicial Officer",
+    "Halani",
+    "Mehrabpur",
+    "Lakha Road",
+    "Kotri Kabir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

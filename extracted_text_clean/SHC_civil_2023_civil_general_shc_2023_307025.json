@@ -9,9 +9,18 @@
   "case_number": "Const. Petition No. D-6334 of 2023",
   "date_of_order": "05.03.2026",
   "judge": "Muhammad Saleem Jessar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Erum Izhaar",
+    "Province of Sindh",
+    "Mr. Ashar Askar Zaidi",
+    "Mr. Hakim Ali Shaikh",
+    "Mr. Sagheer Ahmed Abbasi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

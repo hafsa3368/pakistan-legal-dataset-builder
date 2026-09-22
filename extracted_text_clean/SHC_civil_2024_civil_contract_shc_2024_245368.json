@@ -6,15 +6,24 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P.No.D-3408 of 2023",
   "date_of_order": "11.02.2025",
-  "judge": "",
+  "judge": "Ijaz Ul Ahsan",
   "sections_cited": [],
   "citations": [
     "2021 SCMR 425",
     "2010 SCMR 105"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Shahab Sarki & Mr. Wahaj Ali Khan, Advocates for the Petitioners in C.P.No.D-3408 and 5547 of 2023",
+    "Mr. Muhammad Umer Lakhani, Advocate for the Petitioners in C.P.No.D-4284/2024",
+    "Mr. Imamuddin Chandio, Advocate for the Petitioner in C.P.No.D- 329/2025",
+    "M/s. Umair Usman, Kawish Naqvi and Shahmeer Memon, Advocates for the Petitioner in C.P.Nos.D-5529 & 5646 of 2023",
+    "Mr. Sandeep Malani, A.A.G.",
+    "Ms. Alizeh Bashir, Assistant Attorney General",
+    "Mr. Zeeshan Abdullah, Advocate for Respondent (PMDC)",
+    "Mr. Shahzeb Akhtar & Mr. Ahmed Magsi, Advocates for Respondent (DUHS)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

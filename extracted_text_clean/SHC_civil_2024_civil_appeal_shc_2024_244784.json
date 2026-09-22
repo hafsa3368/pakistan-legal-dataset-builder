@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 519 of 2024",
   "date_of_order": "15.01.2025",
   "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [
@@ -22,7 +22,12 @@
     "PLD 1983 SC 693",
     "PLD 2023 Sindh 11"
   ],
-  "parties": [],
+  "parties": [
+    "Frequency Allocation Board",
+    "Southern Network Limited",
+    "State of Pakistan",
+    "Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

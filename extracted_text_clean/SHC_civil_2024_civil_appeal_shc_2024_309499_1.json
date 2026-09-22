@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 293 of 2024",
   "date_of_order": "07.04.2026",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Talha Javed",
+    "Mr. Rehan Kayani",
+    "Mr. Jehanzeb Baloch",
+    "Mr. Jan Muhammad Khuhro",
+    "Additional Advocate General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

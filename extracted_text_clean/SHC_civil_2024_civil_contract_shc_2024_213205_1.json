@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 47,
-  "case_number": "constitutional petitions are not",
+  "case_number": "",
   "date_of_order": "19.02.2024",
-  "judge": "",
+  "judge": "Agha Faisal",
   "sections_cited": [
     "section 2",
     "section 2 of the Companies Act"
@@ -30,7 +30,11 @@
     "2020 SCMR 2068",
     "2022 SCMR 406"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan & Others",
+    "Muhammad Arif & Others",
+    "Sui Southern Gas Company Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No. D-314 of 2024",
   "date_of_order": "22.01.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Mobeen Lakho",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Chief Election Commissioner & others",
+    "Mr. Waseemuddin A. Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

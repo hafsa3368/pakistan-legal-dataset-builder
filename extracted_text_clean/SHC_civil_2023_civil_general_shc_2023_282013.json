@@ -9,12 +9,18 @@
   "case_number": "Constitutional Petition No.D-4991 of 2023",
   "date_of_order": "04.10.2023",
   "judge": "Muhammad Karim Khan Agha Justice",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2025 SCMR 206",
     "2022 SCMR 1546"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Khan Magsi",
+    "Province of Sindh",
+    "Karachi Water & Sewerage Board/Corporation (KW&SC)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

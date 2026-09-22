@@ -6,12 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-4848 of 2024",
   "date_of_order": "12.03.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Head of Const. Benches",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Faizah Rehan",
+    "Sindh Building Control Authority",
+    "others",
+    "petitioner",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

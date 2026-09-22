@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 106,
-  "case_number": "constitute proof of the fact that no agreement",
+  "case_number": "",
   "date_of_order": "08.11.2016",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman",
   "sections_cited": [
     "Section 94",
     "Section 151 of the Code",
@@ -38,7 +38,12 @@
     "2010 SCMR 1254",
     "2004 SCMR 1903"
   ],
-  "parties": [],
+  "parties": [
+    "City School (PVT) Ltd",
+    "Federation of Pakistan & Another",
+    "Nemo",
+    "Dr. Farogh Naseem"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

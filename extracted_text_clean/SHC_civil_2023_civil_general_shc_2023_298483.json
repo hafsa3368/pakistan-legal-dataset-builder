@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Criminal Miscellaneous Application No. S-873 of 2024",
   "date_of_order": "10.12.2025",
-  "judge": "Wasim/PS",
+  "judge": "",
   "sections_cited": [
     "Section 154 Cr.P.C",
     "Section 25 of the Telegraph Act"
@@ -16,7 +16,11 @@
   "citations": [
     "2024 SCMR 985"
   ],
-  "parties": [],
+  "parties": [
+    "Syed M. Ubaid Alvi",
+    "Sanaullah and others",
+    "Waheed Ansari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

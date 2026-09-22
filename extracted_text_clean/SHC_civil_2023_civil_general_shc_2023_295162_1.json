@@ -6,12 +6,15 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Pett. No.D-164 of 2023",
+  "case_number": "",
   "date_of_order": "23.09.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Raza Balouch",
+    "Mukhtiarkar Taluka Kandiaro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,17 @@
   "case_number": "Constitutional Petition No. S-225 of 2025",
   "date_of_order": "03.12.2025",
   "judge": "Ashraf",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aswad Ali Chohan",
+    "Mr. Tayyabur Rehman Durrani",
+    "Mst. Habiba & others",
+    "Khalid Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

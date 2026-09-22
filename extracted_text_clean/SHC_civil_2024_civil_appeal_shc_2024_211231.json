@@ -6,12 +6,23 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.378 of 2023",
   "date_of_order": "28.02.2024",
   "judge": "Muhammad Shafi Siddiqui Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Professor Doctor Ahmed Ali Brohi and 02 others",
+    "Province of Sindh and 04 others",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Omar Sial",
+    "Mr. Muhammad Ali Lakhani, Advocate for Appellants",
+    "Mr. Rajesh Kumar Khagaija, Advocate for Respondent No.3",
+    "Mr. Abdul Jaleel Zubedi, AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

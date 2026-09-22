@@ -9,9 +9,16 @@
   "case_number": "Civil Petition No.2375 of 2023",
   "date_of_order": "25.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Messrs. Hamza Waheed and Sami-ur-Rehman",
+    "Mr. Ameer Bakhsh Metlo",
+    "Ms. Mehreen Ibrahim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,22 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "misconceived since it has taken no action",
+  "case_number": "HCA No. 445 of 2024",
   "date_of_order": "06.02.2025",
   "judge": "CHIEF JUSTICE",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sindh Building Control Authority",
+    "The Secretary, Tourism & Antiquities Department",
+    "Mr. Naeem Akhtar Talpur",
+    "Mr. Zahid Abbas Akhund",
+    "Mr. Ashraf Ali Mirani",
+    "Mr. Muhammad Ali Bhatti",
+    "Ms. Pirah Mangi",
+    "Mr. Moiz Baig",
+    "Ms. Afsheen Aman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

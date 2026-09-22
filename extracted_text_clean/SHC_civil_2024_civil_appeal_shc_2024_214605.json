@@ -11,7 +11,11 @@
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zafar Khan",
+    "Mateenuddin Khan",
+    "another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

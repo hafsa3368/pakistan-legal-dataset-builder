@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Appeal No.S-68 of 2024",
   "date_of_order": "12.12.2024",
-  "judge": "",
+  "judge": "SHAMSUDDIN ABBASI",
   "sections_cited": [
     "sections 23",
     "section 382-B Cr.P.C",
@@ -17,7 +17,10 @@
     "sections 353, 186, 225-B, 147"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Latif son of Muhammad Siddique Jorkhani Mazari",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,14 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Crl. Rev. Application No.S-51 of 2024",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "24.10.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shamausdin N. Kobhar, Advocate for applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

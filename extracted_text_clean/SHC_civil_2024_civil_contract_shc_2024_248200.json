@@ -6,14 +6,22 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.4594/2025",
   "date_of_order": "04.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 12(9) of the Employment Provident Fund Ordinance 2009"
+  ],
   "citations": [
     "2024 SCMR 527"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Kashif Nazir, Assistant Attorney General",
+    "The Petitioner",
+    "The Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

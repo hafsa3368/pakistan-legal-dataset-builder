@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitution was not",
+  "case_number": "Election Appeal No. 263 of 2024",
   "date_of_order": "25-03-2024",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 113 of the Election Act",
     "section 2"
@@ -17,7 +17,14 @@
     "2013 CLC 1068",
     "2013 CLC 1088"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Najeeb Haroon",
+    "Provincial Election Commissioner Sindh/Returning Officer for Senate Election",
+    "Election Commission of Pakistan",
+    "Bank Al-Habib",
+    "Federal Board of Revenue",
+    "Principal Developers Pvt. Ltd."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

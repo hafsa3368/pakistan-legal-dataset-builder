@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Constitution Petition No. D-1823 of 2025",
   "date_of_order": "19.02.2026",
-  "judge": "JUDGE Sajjad Ali Jessar Approved for reporting",
+  "judge": "Arbab Ali Hakro Justice Riazat",
   "sections_cited": [
     "Section 8",
     "Section 5",
@@ -19,7 +19,13 @@
   "citations": [
     "2025 CLC 1036"
   ],
-  "parties": [],
+  "parties": [
+    "Pawar Dino",
+    "Federation of Pakistan",
+    "Farooque Ahmed Ansari",
+    "Ghulam Akbar",
+    "Muhammad Aslam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

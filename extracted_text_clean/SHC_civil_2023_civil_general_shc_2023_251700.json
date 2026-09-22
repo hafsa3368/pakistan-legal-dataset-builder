@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.S-972 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "27.03.2025",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "CMA 4079/23",
+    "CMA 4080/23"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

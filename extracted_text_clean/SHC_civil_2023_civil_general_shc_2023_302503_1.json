@@ -6,12 +6,19 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-695 of 2024",
   "date_of_order": "15.01.2026",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Toseef Ahmed Chandio",
+    "Mr. Ghulam Abbas Sangi",
+    "Power Company",
+    "WAPDA",
+    "GENCO",
+    "National College of Management, Art and Science"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

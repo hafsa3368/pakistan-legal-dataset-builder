@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Appeal No.S-48 of 2025",
   "date_of_order": "18.09.2025",
-  "judge": "",
+  "judge": "Jan Ali Junejo",
   "sections_cited": [
     "Section 25 of the Sindh Arms Act",
     "Section 382-B",
@@ -24,7 +24,10 @@
     "2018 YLR 2687",
     "2019 SCMR 844"
   ],
-  "parties": [],
+  "parties": [
+    "Rajab @ Raju son of Mooso @ Manik",
+    "The State: Through Mr. Ghulam Murtaza Mallah, Assistant Prosecutor General, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

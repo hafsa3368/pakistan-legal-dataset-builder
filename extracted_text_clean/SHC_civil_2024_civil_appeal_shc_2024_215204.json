@@ -6,12 +6,16 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "High Court Appeal No.109 of 2024",
   "date_of_order": "20.05.2024",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Kamran Farooqui",
+    "Mrs. Qaiser Yousuf",
+    "Mirza Sarfaraz Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

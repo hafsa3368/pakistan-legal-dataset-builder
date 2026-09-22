@@ -8,14 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Appeal No. S-07 of 2025",
   "date_of_order": "02.10.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Sections 376",
     "Section 452 PPC",
     "section 382-"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khadim Hussain son of Abdul Sattar Lund",
+    "The State",
+    "The"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

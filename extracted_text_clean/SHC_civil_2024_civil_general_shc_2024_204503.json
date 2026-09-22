@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "miscellaneous applications. It was not",
+  "case_number": "MA No. 9031/2016",
   "date_of_order": "19th May 1994",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 107",
     "section 17",
@@ -23,7 +23,10 @@
     "PLD 2021 Sindh 394",
     "PLD 1986 SC 497"
   ],
-  "parties": [],
+  "parties": [
+    "Aviserv Limited",
+    "Civil Aviation Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

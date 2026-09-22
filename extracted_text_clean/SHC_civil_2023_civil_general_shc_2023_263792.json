@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Criminal Jail Revision Application No.S-15 of 2023",
   "date_of_order": "22.04.2025",
-  "judge": "",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Siraj Ahmed Bijarani",
+    "the convict appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

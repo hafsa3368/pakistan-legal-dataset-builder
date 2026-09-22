@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "07.05.2024",
-  "judge": "JUDGE Asif",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Ravian Business Machines (Pvt.) Ltd. & others",
+    "M/s. IGI Investment Bank Limited",
+    "Mr. Naeem Suleman",
+    "Mr. Ghulam Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

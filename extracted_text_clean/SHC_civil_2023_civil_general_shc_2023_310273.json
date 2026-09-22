@@ -8,10 +8,16 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-1331 of 2025",
   "date_of_order": "27.02.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "B-K Soomro",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sadruddin Burioro",
+    "Mr. Muhammad Kamran Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

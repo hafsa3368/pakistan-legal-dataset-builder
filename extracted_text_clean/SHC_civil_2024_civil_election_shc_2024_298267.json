@@ -6,12 +6,26 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "C.P. No.D-1490 of 2024",
   "date_of_order": "25.11.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Rani Abro",
+    "Province of Sindh",
+    "Sindh Agriculture University",
+    "University",
+    "Tando Jam University",
+    "Riaz Ali",
+    "Mr. Rafiq Ahmed Dahri",
+    "Mr. Ishrat Ali Lohar",
+    "Mr. Muhammad Arshad S. Pathan",
+    "Safdar Hussain Leghari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

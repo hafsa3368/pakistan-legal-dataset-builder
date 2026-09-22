@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "misconceived. No one",
+  "case_number": "C.P. No.D-4805 of 2023",
   "date_of_order": "9th April 2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "respondent No.2",
+    "respondent No.3",
+    "petitioner",
+    "respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

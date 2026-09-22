@@ -6,12 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil Court where a Civil Suit No.72/2022",
+  "case_number": "C. P. No.S-991 of 2023",
   "date_of_order": "02.06.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Khizra Fatima",
+    "Mr. Farmanullah",
+    "Mr. Ahmed Khan Khaskheli",
+    "Imran Afridi",
+    "Ch. Javed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

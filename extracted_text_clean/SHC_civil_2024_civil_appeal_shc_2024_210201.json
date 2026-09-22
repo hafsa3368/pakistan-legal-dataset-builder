@@ -9,9 +9,16 @@
   "case_number": "Civil Suit No.1018/2005",
   "date_of_order": "14.11.2023",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mohammad Qasim",
+    "Mohammad Naeem Arain",
+    "Gulshan-e-Faisal and Four Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

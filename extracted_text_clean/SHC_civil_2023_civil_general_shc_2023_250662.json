@@ -8,7 +8,7 @@
   "num_chunks": 14,
   "case_number": "Constitutional Petition No. D-750 of 2023",
   "date_of_order": "22.05.2024",
-  "judge": "Muhammad Abdur Rahman Date",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 90 of the Act",
     "Section 148 of the Act"
@@ -20,7 +20,12 @@
     "2011 SCMR 1743",
     "2020 SCMR 490"
   ],
-  "parties": [],
+  "parties": [
+    "Sohail Ahmed Khoso",
+    "Federation of Pakistan",
+    "Muhammad Uzair Shaikh",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
