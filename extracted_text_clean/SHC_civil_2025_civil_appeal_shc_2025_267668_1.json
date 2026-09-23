@@ -6,10 +6,13 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Acquittal Appeal No.274 of 2025",
+  "case_number": "",
   "date_of_order": "24.04.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 200 Cr.P.C",
+    "u/s 245 Cr.P.C"
+  ],
   "citations": [
     "1998 SCMR 785",
     "2002 SCMR 1903"

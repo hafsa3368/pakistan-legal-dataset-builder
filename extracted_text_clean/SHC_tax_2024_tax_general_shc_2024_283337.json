@@ -8,13 +8,30 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "29.09.2025",
-  "judge": "",
+  "judge": "Sardar Zafar Hussain",
   "sections_cited": [
     "Section 25-D of Customs Act",
     "section 196 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Moiz Jaferi",
+    "Sarfaraz Metlo",
+    "Naveen Merchant",
+    "Agha Shahid Majeed Khan",
+    "Muhammad Adeel Awan",
+    "Athar Hussain",
+    "Zafar Hussain",
+    "Ahmed Ali Hussain",
+    "Saad Shafiq Siddiqui",
+    "Aqeel Ahmed Khan",
+    "Asif Ali Siyal",
+    "Imran Iqbal Khan",
+    "Athar Ali",
+    "Shafiq Siddiqui",
+    "Bilawal Solangi",
+    "Asif Ali Siyal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

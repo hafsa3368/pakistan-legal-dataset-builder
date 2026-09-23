@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 13,
   "case_number": "Civil Petitions No. 868-K",
-  "date_of_order": "",
+  "date_of_order": "29-10-2025",
   "judge": "Adnan Iqbal Chaudhry Mr",
   "sections_cited": [
     "section 153",
@@ -25,7 +25,25 @@
     "PLD 1993 SC 341",
     "PLD 1988 SC 416"
   ],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan and others",
+    "HRSG Outsourcing (Pvt.) Ltd.",
+    "Resources Linked (Pvt.) Ltd.",
+    "Zafar & Sons and others",
+    "M/s. Blessings Enterprises",
+    "M/s. Mian Iqbal Shah Enterprises",
+    "All Pakistan Security Agencies Association and others",
+    "Muhammad Umer Akhund",
+    "Uzair Qadir Shoro",
+    "Qazi Umair Ali",
+    "Muhammad Inzimam Sharif",
+    "Ali Nawaz Khuhawar",
+    "Muhammad Bilal Bhatti",
+    "Dr. Mahmood Ahmed",
+    "Mukesh Kumar Khatri",
+    "Syed Ahsan Ali Shah",
+    "Mehreen Ibrahim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

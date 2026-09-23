@@ -9,11 +9,18 @@
   "case_number": "",
   "date_of_order": "02.04.2026",
   "judge": "Adnan Iqbal Chaudhry Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2024 SCMR 1701"
   ],
-  "parties": [],
+  "parties": [
+    "Sajid Hussain",
+    "Province of Sindh",
+    "Mr. Rafiq Ahmed Dahri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

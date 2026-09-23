@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "ITRA No.328 of 2024",
   "date_of_order": "16.12.2024",
   "judge": "",
   "sections_cited": [
@@ -16,7 +16,10 @@
     "Section 122"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shams Mohiuddin Ansari",
+    "Mr. Iqbal Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

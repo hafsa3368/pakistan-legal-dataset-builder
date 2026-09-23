@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No. 2074/2025",
   "date_of_order": "14-02-2025",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 21 of the Sales Tax Act"
   ],
@@ -19,7 +19,11 @@
     "PLD 2019 Sindh 516",
     "PLD 2021 Sindh 130"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Brands Unlimited (Pvt.) Limited",
+    "Federation of Pakistan",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

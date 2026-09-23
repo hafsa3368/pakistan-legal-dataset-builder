@@ -6,12 +6,22 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 36 of 2025",
   "date_of_order": "01.03.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Foreign Exchange Regulation Act, 1947",
+    "Customs Act, 1969"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Rehan Kayani and Syed Naveed Hussain Wasti",
+    "Respondent No.1",
+    "Respondent No.6",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

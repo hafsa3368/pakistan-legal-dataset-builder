@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "31.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rana Sakhawat Ali",
+    "Ms. Alizeh Bashir",
+    "Mr. Tariq Aziz",
+    "Sardar Zafar Hussain",
+    "respondent 2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

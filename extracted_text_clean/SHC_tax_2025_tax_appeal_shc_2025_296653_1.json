@@ -6,15 +6,19 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-5654 of 2025",
   "date_of_order": "28.11.2025",
-  "judge": "JUDGE asim/PA",
+  "judge": "",
   "sections_cited": [
     "section 32 of the Customs Act",
     "section 181 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hera",
+    "Mr. Amjad Hayat",
+    "Mr. Muhammad Akbar Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

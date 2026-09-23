@@ -12429,3 +12429,25 @@
 2026-09-21 13:36:26,492 | INFO |   Total chunks now in checkpoint:     203139
 2026-09-21 13:36:26,492 | INFO |   Total chunks still in failed_chunks.json: 0
 2026-09-21 13:36:26,492 | INFO | ==================================================
+2026-09-23 17:48:01,810 | INFO | Resuming with 203139 chunks already processed.
+2026-09-23 17:48:01,813 | INFO | Loaded 2 repaired filenames to process.
+2026-09-23 17:48:06,713 | INFO | HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-09-23 17:48:06,731 | INFO | HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-09-23 17:48:08,955 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-23 17:48:11,054 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-23 17:48:13,156 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-23 17:48:15,259 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-23 17:48:17,342 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-23 17:48:19,445 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-23 17:48:19,788 | INFO | Found 58469 total JSON files in extracted_text_clean
+2026-09-23 17:48:19,831 | INFO | Filtered to 2 repaired files (per repair_checkpoint.json)
+2026-09-23 17:48:19,859 | INFO | ==================================================
+2026-09-23 17:48:19,860 | INFO | EMBEDDING RUN SUMMARY
+2026-09-23 17:48:19,860 | INFO |   Newly embedded chunks:              0
+2026-09-23 17:48:19,860 | INFO |     (of which via split-and-average): 0
+2026-09-23 17:48:19,860 | INFO |   Skipped (already processed/failed): 3
+2026-09-23 17:48:19,861 | INFO |   Failed (embedding):                 0
+2026-09-23 17:48:19,861 | INFO |   Failed (dimension mismatch):        0
+2026-09-23 17:48:19,861 | INFO |   Total chunks now in checkpoint:     203139
+2026-09-23 17:48:19,861 | INFO |   Total chunks still in failed_chunks.json: 0
+2026-09-23 17:48:19,861 | INFO | ==================================================

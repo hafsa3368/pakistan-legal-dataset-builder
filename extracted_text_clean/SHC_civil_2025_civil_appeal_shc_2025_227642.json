@@ -6,12 +6,18 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.81 of 2024",
   "date_of_order": "13.01.2025",
   "judge": "Asif",
-  "sections_cited": [],
+  "sections_cited": [
+    "U/S 94"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hafeezullah Abdul Rehman",
+    "FOP",
+    "other respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

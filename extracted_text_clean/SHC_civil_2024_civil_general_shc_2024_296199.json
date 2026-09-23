@@ -6,16 +6,24 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "C.P. No.D-554 of 2025",
   "date_of_order": "12.11.2025",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [],
   "citations": [
     "2014 SCMR 157",
     "2015 SCMR 112",
     "2015 CLC 1605"
   ],
-  "parties": [],
+  "parties": [
+    "Shahnawaz vs. Province of Sindh & Ors",
+    "Pahar Singh & Ors. vs. Province of Sindh & Ors",
+    "Lal Chand & Ors. vs. Province of Sindh & Ors",
+    "Poonam & Ors. vs. Province of Sindh & Ors",
+    "Muhammad Aftab Ahmed. vs. Province of Sindh & Ors",
+    "Muhammad Waris & Ors. vs. Province of Sindh & Ors",
+    "Kashif vs. Province of Sindh & Ors"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

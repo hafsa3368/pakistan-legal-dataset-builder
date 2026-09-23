@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "Constitution Petition No. S",
+  "case_number": "",
   "date_of_order": "29.03.2025",
   "judge": "Muhammad Jaffer Raza Constitution Petition",
   "sections_cited": [
@@ -33,7 +33,11 @@
     "2017 MLD 2074",
     "2024 MLD 635"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Jawaid & 2 others",
+    "Muhammad Asim Zafar Soleja",
+    "Muhammad Anas Zafar Soleja"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

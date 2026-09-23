@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Civil Appeal No.257/2024",
   "date_of_order": "06.03.2025",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 100",
     "Sections 100 and 101",
@@ -20,7 +20,13 @@
     "PLD 1965 SC 134",
     "PLD 1994 SC 291"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Atif Manzoor Al-Mobarak",
+    "Ms. Sameen Anis",
+    "Ms. Sameen Anis and another",
+    "Respondent No. 1",
+    "Respondent No. 2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

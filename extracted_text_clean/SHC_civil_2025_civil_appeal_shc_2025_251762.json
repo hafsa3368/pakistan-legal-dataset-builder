@@ -6,12 +6,16 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-2813 of 2024",
   "date_of_order": "28.03.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ovais Ali Shah",
+    "Ms. Mehreen Ibrahim",
+    "Mr. Sardar Zafar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

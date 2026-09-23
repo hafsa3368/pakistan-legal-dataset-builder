@@ -7,13 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-854 of 2024",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "16.04.2024",
+  "judge": "",
   "sections_cited": [
     "Section 173"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Agha Athar Pathan",
+    "Assistant A.G",
+    "Naheed Akhtar",
+    "APG a/w ASI Sadaruddin",
+    "I.O of the case"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

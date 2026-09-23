@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No.2227/2024",
   "date_of_order": "11.11.2025",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "section 133 of the Income Tax Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    " applicant",
+    "respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

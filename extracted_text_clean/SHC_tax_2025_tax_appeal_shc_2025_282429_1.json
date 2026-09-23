@@ -6,12 +6,16 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitution Petition No. D",
+  "case_number": "",
   "date_of_order": "11.09.2025",
-  "judge": "",
+  "judge": "Nadeem Qureshi",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aqeel Ahmed Khan",
+    "Sardar Zafar Hussain",
+    "Mr. Muhammad Akbar Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,15 +8,24 @@
   "num_chunks": 3,
   "case_number": "Constitutional Petition No.D-377 of 2026",
   "date_of_order": "05.03.2026",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Amjad Ali Bohio",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2023 SCMR 1442",
     "2022 SCMR 472",
     "2021 SCMR 624",
     "2021 SCMR 1133"
   ],
-  "parties": [],
+  "parties": [
+    "Shahzad Ameen",
+    "Province of Sindh",
+    "Mr. Justice Amjad Ali Bohio",
+    "Mr. Justice Ali Haider 'Ada'",
+    "Mr. Alam Sher Khan Bozdar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

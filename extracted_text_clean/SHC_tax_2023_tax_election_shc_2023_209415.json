@@ -6,9 +6,9 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "criminal record in his nomination",
+  "case_number": "",
   "date_of_order": "17.01.2024",
-  "judge": "",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "Section 62",
     "Section 62 of the Elections Act"
@@ -24,7 +24,17 @@
     "PLD 2013 Lahore 548",
     "PLD 2018 Lahore 788"
   ],
-  "parties": [],
+  "parties": [
+    "Abdul Basit Lund",
+    "Federation of Pakistan",
+    "M/s Qurban Ali Malano",
+    "Israr Ahmed Shah",
+    "M/s Khan Muhammad Sangi",
+    "Sikandar Sadar Siddiqui",
+    "Mr. Zeeshan Haider Qureshi",
+    "Mr. Dareshani Ali Haider",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

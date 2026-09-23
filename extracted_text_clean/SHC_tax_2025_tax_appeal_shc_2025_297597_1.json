@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C. P. NO. D-5815",
   "date_of_order": "10.12.2025",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,16 @@
     "section 181 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent No. 2",
+    "Respondent No. 4",
+    "Respondent No. 5",
+    "Customs Appellate Tribunal",
+    "Collector of Customs (Adjudication)",
+    "Deputy Collector of Customs (Adjudication-I)",
+    "Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

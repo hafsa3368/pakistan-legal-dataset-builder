@@ -8,13 +8,20 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "21.11.2025",
-  "judge": "JUDGE Nadeem Qureshi PA",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "Section 32 of the Customs Act",
     "Section 181 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. New Light Welding Electrodes Industries (Pvt.) Ltd.",
+    "Federation of Pakistan",
+    "M/s. Sardar Zafar Hussain",
+    "Muhammad Siddique",
+    "M/s. Imran Iqbal Khan",
+    "Bilawal Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Crl. Misc.Application No.S-338 of 2024",
   "date_of_order": "25.08.2024",
-  "judge": "",
+  "judge": "Ali Haider 'Ada'",
   "sections_cited": [
     "Sections 22-A and 22-B",
     "Sections 22-A and 22-B Cr.P.C",
@@ -24,7 +24,11 @@
     "2022 PCr.LJ 167",
     "2024 SCMR 985"
   ],
-  "parties": [],
+  "parties": [
+    "Gulab Khan",
+    "SHO, P.S, Kamber",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

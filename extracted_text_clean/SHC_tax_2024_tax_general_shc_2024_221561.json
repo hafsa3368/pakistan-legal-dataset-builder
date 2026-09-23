@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "15.05.2024",
-  "judge": "",
+  "judge": "Abdul Aleem Qureshi",
   "sections_cited": [
     "Section 3",
     "sections 3, 3",
@@ -16,7 +16,13 @@
     "Section 47 of the Sales Tax Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khalid Javed Khan",
+    "Mr. Uzair Qadir Shoro",
+    "Ms. Dilkhurram Shaheen",
+    "Deputy Commissioner, MTO Zone-I, Karachi",
+    "Abdul Aleem Qureshi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

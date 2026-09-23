@@ -8,13 +8,18 @@
   "num_chunks": 16,
   "case_number": "civil Revision No.10",
   "date_of_order": "30.01.2026",
-  "judge": "",
+  "judge": "RIAZAT ALI SAHAR",
   "sections_cited": [
     "section 12 CPC",
     "section 12"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pir Ghulam Karim Shah",
+    "Muhammad Zakariya and others",
+    "Pir Abdul Malik",
+    "Muhammad Zakariya and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

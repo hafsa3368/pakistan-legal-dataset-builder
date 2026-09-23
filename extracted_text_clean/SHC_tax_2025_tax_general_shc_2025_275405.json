@@ -8,7 +8,7 @@
   "num_chunks": 15,
   "case_number": "Constitution Petition No. D-3286 of 2025",
   "date_of_order": "16.07.2025",
-  "judge": "JUDGE",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "section 79 of the Customs Act",
     "Sections 73",
@@ -22,7 +22,12 @@
     "section 25A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nisar Ahmed Managing Partner M/S Master Pipe",
+    "Federation of Pakistan and others",
+    "Sardar Zaffar Ahmed",
+    "Respondents No 2 and 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

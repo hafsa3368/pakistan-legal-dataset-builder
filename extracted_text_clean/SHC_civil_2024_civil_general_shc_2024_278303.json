@@ -9,9 +9,14 @@
   "case_number": "Constitutional Petition No. D-3941 of 2025",
   "date_of_order": "27.11.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rafique Ahmed",
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

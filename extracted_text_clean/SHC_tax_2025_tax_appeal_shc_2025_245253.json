@@ -9,9 +9,15 @@
   "case_number": "",
   "date_of_order": "11.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Amjad Hayat, advocate for the petitioner",
+    "Ms. Alizeh Bashir, Assistant Attorney General",
+    "Sardar Zafar Hussain, advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

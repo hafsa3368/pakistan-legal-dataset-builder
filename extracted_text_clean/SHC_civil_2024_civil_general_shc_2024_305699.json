@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.S-433 of 2024",
   "date_of_order": "02.02.2026",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Hussain Shah",
+    "Mr. Mumtaz Alam Laghari",
+    "Mr. Allah Bachayo Soomro",
+    "Respondent No.7",
+    "Respondent No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,16 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-3037 of 2018",
   "date_of_order": "27.11.2025",
-  "judge": "JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Muhammad Arshad S. Pathan and Sultan Ahmed Chandio",
+    "Mr. Rafique Ahmed Dahri",
+    "Mr. Rajesh Kumar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

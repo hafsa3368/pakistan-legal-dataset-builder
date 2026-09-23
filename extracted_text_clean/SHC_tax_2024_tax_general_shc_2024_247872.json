@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "24-02-2025",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 21 of the Sales Tax Act"
   ],
@@ -21,7 +21,12 @@
     "PLD 2019 Sindh 516",
     "PLD 2021 Sindh 130"
   ],
-  "parties": [],
+  "parties": [
+    "Century Engineering Industries (Pvt.) Industries Limited",
+    "Pakistan through Secretary Revenue",
+    "Nemo",
+    "Pakistan through Secretary Revenue"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

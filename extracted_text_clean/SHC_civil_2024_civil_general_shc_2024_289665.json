@@ -8,12 +8,15 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1067 of 2024",
   "date_of_order": "11.12.2024",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [
     "section 173 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Agha Athar Pathan",
+    "Naheed Akhtar a/w SIP Zafar Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,20 @@
   "num_chunks": 3,
   "case_number": "Civil Petition No. 2106 of 2024",
   "date_of_order": "21.04.2025",
-  "judge": "",
+  "judge": "ACTING CHIEF JUST",
   "sections_cited": [
     "Section 134A of the Income Tax Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pakistan National Shipping Corporation",
+    "The Commissioner Inland Revenue",
+    "M/s Islamabad Electric Supply 2 Company Limited",
+    "M/s State Life Insurance Corporation of Pakistan",
+    "M/s Trading Corporation of Pakistan",
+    "The Assistant Commissioner of Income Tax, Karachi & others",
+    "M/s Pakistan National Shipping Corporation Vs. The Commissioner Inland Revenue"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

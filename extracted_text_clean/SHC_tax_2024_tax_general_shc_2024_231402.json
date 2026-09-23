@@ -6,14 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitution Petition No. D-",
+  "case_number": "",
   "date_of_order": "10.09.2024",
   "judge": "",
   "sections_cited": [
     "Sections 194-A and 194-B of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Collector of Customs (Adjudication)",
+    "Customs House, Lahore, etc."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

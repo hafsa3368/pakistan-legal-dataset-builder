@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-377 of 2025",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "date_of_order": "25.03.2025",
+  "judge": "",
+  "sections_cited": [
+    "CMA 1822/25",
+    "o/objections",
+    "CMA 1823/25"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Noor Hassan Malik",
+    "Mr. Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Miscellaneous Application was dismissed for non-prosecution",
+  "case_number": "",
   "date_of_order": "05.06.2025",
   "judge": "",
   "sections_cited": [
     "Sections 402,399,324,353,34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Naheed Khatoon",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

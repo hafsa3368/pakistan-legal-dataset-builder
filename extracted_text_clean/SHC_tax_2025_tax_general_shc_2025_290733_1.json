@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P. NO. D-5570",
   "date_of_order": "17.11.2025",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "section 8 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Barat",
+    "Federation of Pakistan & Others",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

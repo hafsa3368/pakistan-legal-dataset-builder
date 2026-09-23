@@ -9,11 +9,25 @@
   "case_number": "Civil Petition No.3390 of 2021",
   "date_of_order": "31.10.2025",
   "judge": "Muhammad Saleem Jessar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2024 SC 1276"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Rizwan Khan",
+    "Province of Sindh",
+    "Muhammad Ismail Bhutto",
+    "Shoukat Ali",
+    "Mukhtiarkar Sakrand",
+    "ADC-I Shaheed Benazirabad",
+    "Mr. Mohsin Raza Gopang",
+    "Mr. Naveed Anjum Jarwar",
+    "Mr. Justice Muhammad Saleem Jessar",
+    "Mr. Justice Nisar Ahmed Bhanbhro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

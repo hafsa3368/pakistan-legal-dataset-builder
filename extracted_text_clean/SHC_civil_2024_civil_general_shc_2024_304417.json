@@ -6,16 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D-99 of 2026",
   "date_of_order": "04.02.2026",
-  "judge": "JUDGE Zulfiqar",
+  "judge": "",
   "sections_cited": [
     "Section 11-A"
   ],
   "citations": [
     "PLD 2024 SC 1276"
   ],
-  "parties": [],
+  "parties": [
+    "Imam Bux & Another",
+    "Abdul Razaque Kolachi",
+    "Government of Sindh & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

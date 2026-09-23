@@ -8,10 +8,17 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No. S-285 of 2025",
   "date_of_order": "26.07.1993",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Partner & Builder (Sindh) Ordinance 2007"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Gyro Enterprises",
+    "Station House Officer & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

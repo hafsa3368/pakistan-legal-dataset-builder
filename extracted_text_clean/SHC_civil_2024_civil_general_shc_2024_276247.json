@@ -7,13 +7,19 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.S-184 of 2025",
-  "date_of_order": "",
+  "date_of_order": "28.07.2025",
   "judge": "Ahmad",
   "sections_cited": [
     "sections 452 and 365-B PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saif-ur-Rehman Naich",
+    "Mst. Fatima alias Khadija",
+    "petitioner",
+    "respondents No.2 to 6",
+    "respondents No.7 to 11"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

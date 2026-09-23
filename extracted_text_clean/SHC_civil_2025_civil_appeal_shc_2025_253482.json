@@ -6,16 +6,19 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "High Court Appeal No.84 of 2025",
   "date_of_order": "27.01.2025",
-  "judge": "",
+  "judge": "Muhammad Iqbal Khan Khokhar",
   "sections_cited": [
     "Section 276 of the Succession Act",
     "Section 151 and 152 CPC",
     "Section 276"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Raj Ali Wahid Kunwar",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,17 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.417 of 2022",
   "date_of_order": "14.04.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ali Zahed",
+    "M/s. Junaid Ahmed",
+    "Kawish Hussain",
+    "Shahmir Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

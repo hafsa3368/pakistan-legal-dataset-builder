@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Constitutional Petition No. D-1663 of 2026",
   "date_of_order": "09.03.2026",
-  "judge": "JUDGE Shafi",
+  "judge": "Adnan-ul-Karim Memo,",
   "sections_cited": [
     "Section 138",
     "Section 221 of the Income Tax Ordinance",
@@ -19,7 +19,12 @@
     "Section 4C of the Income Tax Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "TRG Pakistan Limited",
+    "Federation of Pakistan",
+    "Respondent No.3",
+    "Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

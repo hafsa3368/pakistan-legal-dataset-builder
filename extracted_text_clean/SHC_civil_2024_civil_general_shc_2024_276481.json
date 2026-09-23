@@ -6,14 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Bench and another",
+  "case_number": "MA No.4733/2025",
   "date_of_order": "30.07.2025",
   "judge": "",
   "sections_cited": [
     "Sections 199"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Zohaib Azam Rajput",
+    "Sukkur Municipal Corporation",
+    "Municipal Commissioner, SMC Sukkur",
+    "Anti-Encroachment officer, SMC, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

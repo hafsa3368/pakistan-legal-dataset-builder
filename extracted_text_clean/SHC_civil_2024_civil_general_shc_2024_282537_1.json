@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P.No.D-6061 of 2023",
   "date_of_order": "12.09.2025",
-  "judge": "JUDGE NADEEM",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muteeullah Gondal",
+    "Mr. Ziauddin Junejo",
+    "petitioner",
+    "concerned Department",
+    "concerned authorities",
+    "learned counsel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "Constitutional Petition No. D-1253 of 2026",
   "date_of_order": "22.02.2024",
-  "judge": "Shafi JUDGE",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Shakila",
+    "Province of Sindh",
+    "KMC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

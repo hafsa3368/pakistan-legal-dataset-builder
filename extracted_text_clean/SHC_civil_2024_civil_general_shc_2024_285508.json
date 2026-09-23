@@ -6,12 +6,15 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-287 of 2024",
   "date_of_order": "06.10.2025",
   "judge": "Shahzad Soomro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Akhtar Hussain",
+    "Mr. Ali Safdar Deepar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

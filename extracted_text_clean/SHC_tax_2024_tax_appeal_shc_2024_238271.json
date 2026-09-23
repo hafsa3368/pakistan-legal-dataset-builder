@@ -9,9 +9,19 @@
   "case_number": "Constitution Petition No. 1114 of 2021",
   "date_of_order": "09.08.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Customs Appellate Tribunal",
+    "Petitioner",
+    "Respondent",
+    "Mr. Muhammad Khalil Dogar",
+    "Mr. Kashif Nazeer",
+    "Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

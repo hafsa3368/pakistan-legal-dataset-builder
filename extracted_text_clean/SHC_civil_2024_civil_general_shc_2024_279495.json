@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-4272 of 2022",
   "date_of_order": "27.08.2025",
   "judge": "Shahzad Soomro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "NBP",
+    "Ms. Wajeeha Mehdi",
+    "Assistant Attorney General",
+    "Mr. Fahad Akbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "23.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Bilal",
+    "Mr. Khalid Rajpar",
+    "Ms. Alizeh Bashir",
+    "Mr. Pervaiz Ahmed Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

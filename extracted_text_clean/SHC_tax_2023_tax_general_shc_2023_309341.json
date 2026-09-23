@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "07.04.2026",
-  "judge": "JUDGE Asif",
+  "judge": "",
   "sections_cited": [
     "section 156 of the Customs Act",
     "section 2",
     "section 196 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ishaque Pirzada",
+    "the Customs Appellate Tribunal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

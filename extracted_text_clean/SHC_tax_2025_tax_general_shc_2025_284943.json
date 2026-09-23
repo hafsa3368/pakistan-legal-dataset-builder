@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No.1097/2021",
   "date_of_order": "08.10.2025",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,14 @@
     "section 63"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sarfraz Ali Metlo",
+    "Mr. Talha Abbasi",
+    "Mr. Abdul Manan",
+    "Dr. Wasif Ali Memon",
+    "Sindh Revenue Board",
+    "Sindh High Court Bar Association"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

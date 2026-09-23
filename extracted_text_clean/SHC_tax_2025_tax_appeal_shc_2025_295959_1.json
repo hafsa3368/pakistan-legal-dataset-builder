@@ -6,12 +6,18 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P. NO. D-5571",
   "date_of_order": "01.12.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Mr. Ghulam Hyder Shaikh",
+    "Respondent",
+    "Mr. Muhammad Siddiq",
+    "Mr. Sardar Zafar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

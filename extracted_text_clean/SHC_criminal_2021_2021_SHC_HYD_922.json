@@ -8,8 +8,11 @@
   "num_chunks": 2,
   "case_number": "Criminal Bail Application No.S-892 of 2020",
   "date_of_order": "08.03.2021",
-  "judge": "Ahmed/Pa",
-  "sections_cited": [],
+  "judge": "Irshad Ali Shah",
+  "sections_cited": [
+    "u/s 409 PPC",
+    "u/s 498 Cr.P.C"
+  ],
   "citations": [],
   "parties": [],
   "chunks": [

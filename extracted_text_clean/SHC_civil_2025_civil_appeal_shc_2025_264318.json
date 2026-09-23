@@ -6,12 +6,16 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "HCA.No.183 of 2015",
   "date_of_order": "13.05.2025",
-  "judge": "JUDGE Hafiz",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nisar Ahmed Tarar",
+    "respondents No.1 and 2",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

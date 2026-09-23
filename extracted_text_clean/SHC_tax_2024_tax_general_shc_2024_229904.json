@@ -6,14 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitution Petition No. D-",
+  "case_number": "",
   "date_of_order": "13.09.2024",
   "judge": "",
   "sections_cited": [
     "Sections 194-A and 194-B of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Khalid alias Muhammad Khalid and others",
+    "Collector of Customs (Adjudication), Customs House, Lahore, etc.",
+    "Ms. Dil Khurram Shaheen",
+    "Mr. Khalid Mehmood Rajpar",
+    "Mr. Kashif Nazeer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

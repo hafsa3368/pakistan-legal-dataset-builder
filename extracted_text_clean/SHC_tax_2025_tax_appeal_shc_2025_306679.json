@@ -8,13 +8,16 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "02.03.2026",
-  "judge": "",
+  "judge": "Khalid Mahmood Rajpar",
   "sections_cited": [
     "Section 79",
     "section 196 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Applicant",
+    "Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

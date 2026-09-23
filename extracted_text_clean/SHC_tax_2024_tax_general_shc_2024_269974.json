@@ -6,14 +6,41 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P.No.D-299 of 2023",
   "date_of_order": "30.05.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 189 of the Constitution",
+    "multiline principle"
+  ],
   "citations": [
     "2023 SCMR 1716"
   ],
-  "parties": [],
+  "parties": [
+    "M/s.Rana Sakhawat Ali & Manzar Hussain",
+    "Mr.Muhammad Akbar Khan",
+    "Ms.Alizeh Bashir",
+    "M/s.Sardar Zafar Hussain",
+    "Khalid Mehmood Rajpar",
+    "Saleh Muhammad",
+    "Asif Ali Siyal",
+    "Mr.Azad Hussain",
+    "Mr.Faheem Raza",
+    "Mr.Shahnawaz",
+    "Mr.Irfan Mir Halepota",
+    "Mr.Tariq Aziz",
+    "Mr.Muhammad Adeel Awan",
+    "Ms.Mehreen Ibrahim",
+    "Mr.Shardar Zafar Hussain",
+    "Mr.Faheem Raza",
+    "Mr.Khalid Rajper",
+    "Ms.Masooda Siraj",
+    "Federation of Pakistan & Others",
+    "Collector of Customs Lahore vs. Wasim Radio Traders",
+    "Shamim Ahmed & another",
+    "Collector of Customs Lahore",
+    "Wasim Radio Traders"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

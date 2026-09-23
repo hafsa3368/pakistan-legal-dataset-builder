@@ -8,10 +8,13 @@
   "num_chunks": 2,
   "case_number": "Constitutional Petition No.D-73 of 2026",
   "date_of_order": "04.03.2026",
-  "judge": "JUDGE",
+  "judge": "Amjad Ali Bohio",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Riaz Ali Buriro",
+    "Province of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

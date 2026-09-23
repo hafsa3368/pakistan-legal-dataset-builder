@@ -6,12 +6,18 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "CP No.D-2542 of 2025",
   "date_of_order": "18.06.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Amjad Hayat",
+    "Sardar Zafar Hussain",
+    "Mr. Wajiha M. Mehdi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

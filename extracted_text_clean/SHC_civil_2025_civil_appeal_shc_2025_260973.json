@@ -9,9 +9,16 @@
   "case_number": "",
   "date_of_order": "05.05.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Maaz Waheed",
+    "Mr. Sandeep Malani",
+    "Mr. Mujahid Hussain",
+    "Mr. Shamshad Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

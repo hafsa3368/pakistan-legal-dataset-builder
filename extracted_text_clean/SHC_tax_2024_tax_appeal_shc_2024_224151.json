@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-5901 of 2024",
   "date_of_order": "23.12.2024",
-  "judge": "",
+  "judge": "M.Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent",
+    "Nazir of the Court",
+    "Collector of Customs (Appeals), Karachi",
+    "Collectorate / Department",
+    "Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

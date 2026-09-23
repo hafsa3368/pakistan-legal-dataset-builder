@@ -6,12 +6,15 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.229 of 2023",
   "date_of_order": "16.01.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Hailey Vincent D’Abreo & others",
+    "Province of Sindh & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

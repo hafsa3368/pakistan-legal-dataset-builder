@@ -6,12 +6,17 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-2361 of 2021",
   "date_of_order": "28.02.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Adeel Awan",
+    "Ms. Alizeh Bashir",
+    "Mr. Muhammad Rashid",
+    "F.B.R"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

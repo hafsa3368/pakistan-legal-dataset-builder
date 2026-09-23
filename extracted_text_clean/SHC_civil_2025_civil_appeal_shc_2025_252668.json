@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "15th April, 2025",
-  "judge": "",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Omer Soomro, Danish Nayyer and Abdul Haseeb Qazi, advocates for the petitioner",
+    "Mr. Sandeep Malani, Assistant Advocate General",
+    "Mr. Muhammad Raheem Qureshi/respondent No.5",
+    "Mr. Qamar-uz-Zaman Shah, Assistant Director Legal SPPRA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

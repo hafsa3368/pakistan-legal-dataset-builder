@@ -6,12 +6,31 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "constitutional jurisdiction of this Court is not",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "29-04-2026",
   "judge": "Zulfiqar Ali Sangi",
-  "sections_cited": [],
+  "sections_cited": [
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naseer Ali",
+    "Province of Sindh",
+    "Sindh Public Service Commission",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Justice Zulfiqar Ali Sangi",
+    "Barrister Aashir Masood",
+    "Barrister Qayyum Nizamani",
+    "Mr. Hameer Khan Sher",
+    "Mr. Mehrab Ali Khan",
+    "Mr. Musharaf Azhar",
+    "Mr. Fayyaz A. Awan",
+    "Mr. Taimoor Ali Mangrio",
+    "M/s. Abdul Jalil Zubedi",
+    "Ali Safdar Depar",
+    "Mr. Ghulam Ali Ghouri",
+    "Sohail Ahmed Patel"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

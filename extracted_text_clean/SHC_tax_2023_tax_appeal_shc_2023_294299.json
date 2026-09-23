@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Civil Appeal No.381 of 2011",
   "date_of_order": "26.11.2025",
-  "judge": "",
+  "judge": "Tahir Khalil",
   "sections_cited": [
     "Sections 79, 32, 32",
     "section 196 of the Customs Act"
@@ -21,7 +21,16 @@
     "2020 SCMR 649",
     "PLD 1989 Karachi 617"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Tahir Khalil",
+    "learned counsel",
+    "Respondent importer",
+    "department",
+    "Collector of Customs (Appeals)",
+    "Appellate Tribunal",
+    "Supreme Court",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,18 @@
   "num_chunks": 3,
   "case_number": "Civil Petition No.2853/2025",
   "date_of_order": "04.05.2026",
-  "judge": "",
+  "judge": "Sardar Zafar Hussain",
   "sections_cited": [
     "section 157 of the Customs Act",
     "section 196 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Applicant",
+    "Customs Appellate Tribunal Karachi",
+    "Petitioner",
+    "Additional Collector of Customs (Adjudication), Islamabad, Camp Office, Peshawar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

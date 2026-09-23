@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Civil Petition NNo.70-K of 2023",
   "date_of_order": "05.11.2025",
-  "judge": "",
+  "judge": "Khalid Mahmood Rajpar",
   "sections_cited": [
     "section 80 of the Customs Act",
     "section 196 of the Customs Act"
@@ -16,7 +16,12 @@
   "citations": [
     "2023 SCMR 2052"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Khalid Rajpar",
+    "Mr. Talha Javed",
+    "Nestle Pakistan Limited",
+    "Federal Board of Revenue"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

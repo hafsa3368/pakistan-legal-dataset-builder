@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "Criminal Revision Application No. S-02 of 2025",
   "date_of_order": "09.12.2025",
-  "judge": "Wasim/PS",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "section 4 of the Pakistan Criminal Law Amendment Act"
   ],
@@ -16,7 +16,10 @@
     "2022 YLR 742",
     "2022 CLC 386"
   ],
-  "parties": [],
+  "parties": [
+    "Asif Saleem",
+    "The State and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

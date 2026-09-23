@@ -6,12 +6,22 @@
   "year": "unknown",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-1738 of 2022",
   "date_of_order": "17.05.2022",
   "judge": "Muhammad Shafi Siddiqui",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulamullah Chang",
+    "the petitioner",
+    "the private respondents",
+    "Mr. Justice Muhammad Shafi Siddiqui",
+    "Mr. Justice Irshad Ali Shah",
+    "official respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

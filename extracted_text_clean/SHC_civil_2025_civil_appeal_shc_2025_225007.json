@@ -6,12 +6,30 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.Nos.D-1245",
   "date_of_order": "20.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 397 CrPC",
+    "Section 401 CrPC",
+    "Section 482 CrPC",
+    "Section 498 CrPC",
+    "Section 397 CrPC",
+    "Section 401 CrPC",
+    "Section 482 CrPC",
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Ovais Ali Shah & Shams Mohiuddin",
+    "Mr. Ameer Bakhsh Metlo",
+    "Mr. Nadir Ali",
+    "Mr. Irfan Mir Halepota",
+    "Ms. Alizeh Bashir",
+    "F.B.R",
+    "Respondent",
+    "Petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

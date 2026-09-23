@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "18.04.2025",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hussain Ali Almani",
+    "Mr. Tariq Aziz",
+    "Ms. Mahreen Ibrahim",
+    "Mr. Agha Shahid Majeed Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

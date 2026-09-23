@@ -8,12 +8,21 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "24.09.2025",
-  "judge": "JUDGE AK",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [
     "section 12 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shakeel-ud-Din & others",
+    "Province of Sindh & others",
+    "Mr. Muhammad Ali Lakhani",
+    "Mr. Muhammad Hisham Mahar",
+    "M/s Ayaz Ahmed Soomro",
+    "Abdul Rasheed",
+    "Raheeluddin",
+    "Mst. Shamim Raza Zaidi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

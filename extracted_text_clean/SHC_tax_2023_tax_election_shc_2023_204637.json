@@ -8,13 +8,17 @@
   "num_chunks": 17,
   "case_number": "",
   "date_of_order": "30.10.2023",
-  "judge": "",
+  "judge": "Jawad Akbar Sarwana",
   "sections_cited": [
     "Sections 94 & 151 CPC",
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ismail Industries Ltd.",
+    "Federation of Pakistan",
+    "Collector of Customs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,19 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C. P No. 5037 of 2025",
   "date_of_order": "06.11.2025",
   "judge": "Adnan Iqbal Chaudhry Mr",
   "sections_cited": [
     "section 83-B of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Haider International",
+    "The Federation of Pakistan & Others",
+    "The Head of Facilitation Mechanism / Member FBR, Customs House, Karachi",
+    "The Collector of Customs, Collectorate of Custom, Appraisement, Port Muhammad Bin Qasim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

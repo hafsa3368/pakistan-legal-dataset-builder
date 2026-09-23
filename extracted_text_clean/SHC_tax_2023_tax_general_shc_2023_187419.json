@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 6,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "07-04-2022",
   "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 2",
@@ -17,7 +17,30 @@
     "section 2 of the OGRA Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Al-Karm Towel Industries Private Limited",
+    "Federation of Pakistan",
+    "Rashid Silk Mills",
+    "Federation of Pakistan",
+    "Liberty Mills Limited",
+    "Federation of Pakistan",
+    "Artistic Fabric & Garment Ind. (Pvt.) Ltd.",
+    "Federation of Pakistan",
+    "AZ Textile",
+    "Federation of Pakistan",
+    "M/s. Taimur Ali Mirza",
+    "Ali Nawaz Khuhawar",
+    "M/s. Ghazi Khan Khalil",
+    "Ameer Nausherwan Adil",
+    "M/s. Ghazi Khan Khalil",
+    "Ameer Nausherwan Adil",
+    "Mr. Kashif Hanif",
+    "M/s. Ghazi Khan Khalil",
+    "Mr. Bilal Farooq Alvi",
+    "Sui Southern Gas Company Ltd.",
+    "Federal Board of Revenue",
+    "Economic Coordination Committee"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

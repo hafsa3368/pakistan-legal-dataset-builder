@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "Constitution is supervisory in nature and not",
+  "case_number": "C. P. No. D-3460 of 2025",
   "date_of_order": "01.07.2025",
-  "judge": "Zulfiqar Ali Sangi Date",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 31",
     "Section 54"
@@ -16,7 +16,11 @@
   "citations": [
     "2021 SCMR 1064"
   ],
-  "parties": [],
+  "parties": [
+    "Mansoor Ahmed Khan",
+    "President National Bank of Pakistan",
+    "NBP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

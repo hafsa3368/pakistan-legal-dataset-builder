@@ -8,12 +8,22 @@
   "num_chunks": 3,
   "case_number": "Const. Petition No.D-64 of 2024",
   "date_of_order": "21.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Saeed Azmat Khan Khaimo",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 12(5) of the Civil Procedure Code, 1908",
+    "Section 5 of the General Administration Order, 1957"
+  ],
   "citations": [
     "PLD 2024 SC 1276"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Arif Ali Lashari",
+    "General Post Office",
+    "Mr. Ali Raza Baloch",
+    "Rehana and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

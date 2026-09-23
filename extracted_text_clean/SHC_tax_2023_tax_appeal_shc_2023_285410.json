@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Civil Petitions No. 70-K",
   "date_of_order": "09.10.2025",
-  "judge": "",
+  "judge": "Sardar Zafar Hussain",
   "sections_cited": [
     "sections 32, 202",
     "Section 179",
@@ -18,7 +18,11 @@
     "section 196 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. M. Awais Kazi",
+    "Nestle Pakistan Limited",
+    "Federal Board of Revenue and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

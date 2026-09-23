@@ -6,12 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "CP No.S-106 of 2026",
   "date_of_order": "16.03.2026",
   "judge": "Shahzad Soomro",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zaheer-ud-Din Ali",
+    "Mst. Madiha Naheed",
+    "Mr. Mohsin Ali",
+    "Mr. Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

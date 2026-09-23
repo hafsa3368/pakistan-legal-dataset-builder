@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No. D-1696 of 2025",
   "date_of_order": "29.04.2026",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Adnan-ul-Karim Memon,",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Rasool",
+    "Province of Sindh and others",
+    "Ramesh Kumar and others",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

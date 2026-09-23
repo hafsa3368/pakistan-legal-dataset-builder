@@ -8,7 +8,7 @@
   "num_chunks": 22,
   "case_number": "",
   "date_of_order": "25 February 2025",
-  "judge": "CHIEF JUSTICE ANNOUNCED BY CHIEF JUSTICE JUDGE",
+  "judge": "CHIEF JUSTICE ANNOUNCED BY CHIEF",
   "sections_cited": [
     "Section 63",
     "section 43",
@@ -31,7 +31,16 @@
     "2018 SCMR 1444",
     "2023 SCMR 1980"
   ],
-  "parties": [],
+  "parties": [
+    "Summit Capital (Pvt.) Limited",
+    "Assistant Commissioner (Unit-IV), Sindh Revenue Board",
+    "Assistant Commissioner (III), Sindh Revenue Board",
+    "Commissioner-II, Sindh Revenue Board",
+    "JS Global Capital Limited",
+    "Mr Hyder Ali Khan",
+    "Mr. Malik Naeem Iqbal",
+    "Miss Summiya Kalwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

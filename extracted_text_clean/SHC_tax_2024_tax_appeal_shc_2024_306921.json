@@ -9,9 +9,20 @@
   "case_number": "Constitution Petition No. D-131 of 2025",
   "date_of_order": "29.10.2024",
   "judge": "Muhammad Saleem Jessar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hafiz Moinuddin Chishti",
+    "Federation of Pakistan",
+    "Mr. Umer Ilyas Khan",
+    "Mr. Khalil Dogar",
+    "Mr. Naveed Khan",
+    "Muhabbat H. Awan",
+    "Ubaid-ur-Rehman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,20 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.284 of 2024",
   "date_of_order": "28.01.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Farzana Shaheen",
+    "Syed Abid Ali",
+    "Mr. Muhammad Ali Lakhani",
+    "Mr. Khalid Javed",
+    "Karachi University",
+    "Ms. Umaimah A. Khan",
+    "Mr. Anwar Mansoor Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

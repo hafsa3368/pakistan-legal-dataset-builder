@@ -6,16 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.D-607 of 2025",
   "date_of_order": "19.11.2025",
-  "judge": "",
+  "judge": "Adnan-UL-Karim Memon",
   "sections_cited": [
     "Section 11-A"
   ],
   "citations": [
     "PLD 2024 SC 1276"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Awais",
+    "Province of Sindh and Others",
+    "Muhammad Akram"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

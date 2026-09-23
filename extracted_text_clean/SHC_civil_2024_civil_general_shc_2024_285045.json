@@ -6,12 +6,16 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Pett. No. D-721 of 2025",
+  "case_number": "",
   "date_of_order": "08.10.2025",
-  "judge": "",
+  "judge": "M.Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rab Dino Makwal",
+    "Mr. Manzoor Ahmed Larik",
+    "university"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

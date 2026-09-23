@@ -6,12 +6,19 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P. NO. D-5543",
   "date_of_order": "01.12.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Amjad Ali Khan Ruk & Abid Hussain",
+    "Ms. Mehreen Ibrahim",
+    "Mr. Khalilullah Jakhro",
+    "Mr. Saifullah DC Customs (Appraisement-West)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

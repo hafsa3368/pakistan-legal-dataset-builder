@@ -7,13 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "JUDGE SAJID",
+  "date_of_order": "12.12.2025",
+  "judge": "",
   "sections_cited": [
     "section 202 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Amjad Hayat, Advocate for the Petitioner",
+    "Mr. Muhammad Ahmed, D.A.G.",
+    "Mr. Tahseen Hyder Abbasi, advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,15 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1412 of 2024",
   "date_of_order": "06.11.2025",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [
     "Section 152 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Badaruddin Memon",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

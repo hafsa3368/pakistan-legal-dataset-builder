@@ -6,12 +6,15 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "H.C.A. No.517 of 2024",
   "date_of_order": "22.01.2025",
   "judge": "Asif",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Arif",
+    "University of Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

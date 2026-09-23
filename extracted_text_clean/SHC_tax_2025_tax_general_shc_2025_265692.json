@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "15.05.2025",
-  "judge": "Judge Ayaz",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Vishwa Mittar, Advocate along with Ms. Reeno, Advocate for Applicant",
+    "Mr. Iqbal Hussain, Advocate for Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,23 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No.17 of 2016",
   "date_of_order": "27.01.2025",
   "judge": "Ayaz Gul",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mrs. Anjum Saleem and others",
+    "First Dawood Investment Bank Limited and others",
+    "Mr. Khaleeq Ahmed",
+    "M/s. Khalil Ahmed Siddiqui and Zulfiqar Ali",
+    "Mir Muhammad Ali Talpur",
+    "Badar Alam",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

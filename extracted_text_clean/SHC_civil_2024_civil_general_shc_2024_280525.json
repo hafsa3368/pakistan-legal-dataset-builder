@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "Constitution Petition No.D-2896 of 2024",
   "date_of_order": "27.08.2025",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "section 5 of the Family Act",
     "section 196 of the Customs Act",
@@ -20,7 +20,15 @@
     "2024 SCMR 1642",
     "2022 SCMR 1119"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Bilquis Bano Memon",
+    "Federation of Pakistan and others",
+    "Mst. Afsheen Tabish and another",
+    "Federation of Pakistan and others",
+    "Mr. Bahzad Haider",
+    "Ms. Zehrah Sehar Veyani",
+    "Mr. Kamran Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

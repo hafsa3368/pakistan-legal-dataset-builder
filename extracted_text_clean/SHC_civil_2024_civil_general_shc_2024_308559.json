@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Misc. Application No.1100 of 2025",
   "date_of_order": "26.03.2026",
-  "judge": "HANIF JUDGE",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro Justice Ms",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zafar Iqbal",
+    "The State",
+    "Mr. Muhammad Farooq",
+    "Ms. Rubina Qadir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

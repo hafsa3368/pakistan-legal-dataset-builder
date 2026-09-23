@@ -8,12 +8,15 @@
   "num_chunks": 3,
   "case_number": "Criminal Appeal No.08 of 2024",
   "date_of_order": "27.02.2025",
-  "judge": "",
+  "judge": "Faisal Ali Raza Bhatti",
   "sections_cited": [
     "Section 489-F PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Yasir Iqbal son of Iqbal Ahmed Channa",
+    "Surichand"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,18 @@
   "num_chunks": 3,
   "case_number": "Const. Petition No.D-64 of 2024",
   "date_of_order": "21.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Arif Ali Lashari",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2024 SC 1276"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Arif Ali Lashari",
+    "Mr. Ali Raza Baloch, Additional A.G-Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

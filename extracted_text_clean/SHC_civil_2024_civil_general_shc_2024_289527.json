@@ -7,14 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No.D-852 of 2025",
-  "date_of_order": "",
+  "date_of_order": "16.10.2025",
   "judge": "",
   "sections_cited": [
     "Sections 324, 353, 402 and 399 PPC",
     "Section 173"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Fida Hussain Shah, Advocate for petitioners",
+    "Mr. Sardar Ali Solangi, A.P.G a/w official respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

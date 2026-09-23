@@ -7,15 +7,23 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Constitutional Petition No.S-20 of 2025",
-  "date_of_order": "",
+  "date_of_order": "16-02-2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2025 SCMR 2087",
     "PLD 1985 SC 153",
     "PLD 2010 SC 569"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Subash Sharma",
+    "Mr. Tahseen Ahmed H. Qureshi",
+    "Mr. Ayaz Ali Rajpar",
+    "Mst. Yasmeen Ahmed",
+    "Sheerin Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

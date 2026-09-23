@@ -9,9 +9,15 @@
   "case_number": "",
   "date_of_order": "25.11.2025",
   "judge": "Tufail",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muneer Ahmed Channa",
+    "Mr. Muhammad Yousuf Rahpoto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

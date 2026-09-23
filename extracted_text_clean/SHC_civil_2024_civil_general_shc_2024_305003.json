@@ -9,11 +9,18 @@
   "case_number": "Civil Review Petition No. 54-K/2025",
   "date_of_order": "26.11.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2024 SC 1276"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sharif Solangi",
+    "Secretary Education",
+    "School Education & Literacy Department",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

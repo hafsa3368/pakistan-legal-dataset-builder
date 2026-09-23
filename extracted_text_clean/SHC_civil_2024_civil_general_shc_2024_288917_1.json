@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "Const. Petition No.D-2016 of 2024",
   "date_of_order": "09.12.2024",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [
     "Section 26",
     "Section 12 of the Act"
@@ -16,7 +16,16 @@
   "citations": [
     "2020 SCMR 1713"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Bakhtiar Khatoon",
+    "Mr. Ali Raza Baloch",
+    "Syed Naveed Ahmed Shah",
+    "Naheed Ahmed Mirani",
+    "Abdul Qudoos Memon",
+    "Dr. Ali Gul",
+    "Deputy Commissioner, Sukkur",
+    "District Health Officer, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

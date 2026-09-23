@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "case_number": "Cr. Revision Applications No.177",
+  "date_of_order": "17.09.2025",
+  "judge": "Syed Amir Ali Shah Jilani",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "u/s 12(1)(a) of the Sindh Rented Premises Ordinance, 1979"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wali Khan son of Mir Gul",
+    "Mr. Muhammad Mohsin",
+    "Faisal Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

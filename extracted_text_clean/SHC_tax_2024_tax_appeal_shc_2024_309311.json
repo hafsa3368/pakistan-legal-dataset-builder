@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "Civil Petition Nos",
+  "case_number": "",
   "date_of_order": "07.04.2026",
   "judge": "",
   "sections_cited": [
@@ -24,7 +24,10 @@
   "citations": [
     "2025 SCMR 684"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Khalid Mehmood Rajpar, advocate for the applicant",
+    "Director, Intelligence & Investigation (Customs) FBR, Peshawar vs. Muhammad Ishaq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

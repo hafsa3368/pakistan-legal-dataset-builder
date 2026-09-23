@@ -8,14 +8,24 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "29.01.2026",
-  "judge": "JUDGE Asif",
+  "judge": "",
   "sections_cited": [
     "section 47",
     "section 5 of Sales Tax Act",
     "section 63"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Applicant",
+    "Appellant",
+    "Sindh Revenue Board",
+    "Standard Chartered Bank",
+    "HBL",
+    "Allied Bank Ltd",
+    "Silk Bank Ltd",
+    "Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitution. Insofar as the issue of not",
+  "case_number": "Election Appeal No.162 of 2024",
   "date_of_order": "30.12.2023",
   "judge": "Shafi",
   "sections_cited": [
@@ -17,7 +17,13 @@
     "PLD 1970 SC 98",
     "PLD 2012 SC 1054"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Mumtaz Ali Shah",
+    "Election Commission of Pakistan",
+    "Mr. Zahid Hussain Laghari",
+    "Mr. G.M Bhuto",
+    "Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

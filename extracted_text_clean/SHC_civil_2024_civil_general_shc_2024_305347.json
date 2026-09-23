@@ -6,14 +6,21 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "constitutional petition is not",
+  "case_number": "C.P. No.S-567 of 2025",
   "date_of_order": "02.02.2026",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon,",
   "sections_cited": [
     "Section 47"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst Maria Zakir",
+    "Khawaja Nabeel Ahmed",
+    "Khawaja Nabeel Ahmed & another",
+    "Mr. Ashfaque Ahmed",
+    "Mr. Ali Safdar",
+    "Adnan-ul-Karim Memon, J."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

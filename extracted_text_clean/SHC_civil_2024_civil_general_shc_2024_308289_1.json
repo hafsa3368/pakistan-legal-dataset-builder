@@ -8,10 +8,20 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No. D-923 of 2026",
   "date_of_order": "25.05.2015",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Shamim Siddiqui",
+    "Federation of Pakistan",
+    "Pakistan Railways",
+    "Chaudhry Sajjad Ali",
+    "Ms. Wajiha Mehdi",
+    "Mr. Sajid Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

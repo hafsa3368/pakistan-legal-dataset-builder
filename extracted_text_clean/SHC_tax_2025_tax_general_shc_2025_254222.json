@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "Civil Petitions No.323-L",
   "date_of_order": "23.04.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ayaz Gul",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Section 377 IPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ghulam Mujtaba Sahito",
+    "Wasim Radio Traders",
+    "Collector of Customs",
+    "this court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

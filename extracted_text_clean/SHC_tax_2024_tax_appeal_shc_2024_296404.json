@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Civil Petition Nos",
+  "case_number": "CRA No.947 of 2024",
   "date_of_order": "03.12.2025",
   "judge": "",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "section 196 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faheem Raza Khuhro",
+    "the applicant",
+    "the department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

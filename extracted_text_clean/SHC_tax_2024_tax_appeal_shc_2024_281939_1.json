@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "19.09.2025",
   "judge": "Adnan Iqbal Chaudhry Mr",
   "sections_cited": [
@@ -24,7 +24,18 @@
   "citations": [
     "2023 SCMR 176"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. ASA International",
+    "M/s. Munir Brothers",
+    "Federation of Pakistan",
+    "Collector of Customs",
+    "Shamim Ahmed",
+    "Waseem Radio",
+    "Mr. Justice Adnan Iqbal Chaudhry",
+    "Mr. Justice Muhammad Jaffer",
+    "Sardar Zafar Hussain",
+    "Mr. Muhammad Rafi Kamboh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

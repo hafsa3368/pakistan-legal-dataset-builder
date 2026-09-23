@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 9,
-  "case_number": "constitutional jurisdiction notwithstanding",
+  "case_number": "",
   "date_of_order": "08-09-2025",
   "judge": "Adnan Iqbal Chaudhry Mr",
   "sections_cited": [
@@ -23,7 +23,26 @@
     "2020 SCMR 1157",
     "PLD 1988 SC 370"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Hoora Pharma (Pvt) Ltd.",
+    "Pakistan",
+    "M/s. Shahrukh Farogh Naseem",
+    "Barrister Sagar Ladhani",
+    "Ministry of Finance, Secretary Revenue",
+    "Chairman Federal Board of Revenue",
+    "M/s. Muhammad Zakir",
+    "Amir Ali Shaikh",
+    "Mr. Nayyar Shafiq",
+    "Collector Customs",
+    "Mr. Tariq Aziz",
+    "Arsalan",
+    "Assistant Collectors of Customs Appraisement (SAPT)",
+    "M/s. South Asia Pakistan Terminal",
+    "Mr. Rizwan Saeed",
+    "Ms. Saadia Sheeraz",
+    "Collector of Customs, Airport",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

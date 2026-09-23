@@ -6,12 +6,25 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "criminal complaint is still pending which is nothing",
+  "case_number": "Cr. Revision Application No.238 of 2025",
   "date_of_order": "23.04.2026",
-  "judge": "JUDGE HANIF",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "u/s 265-K CrPC",
+    "u/s 20",
+    "u/s 249 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Tara Chand",
+    "M/s. Askari Bank Limited",
+    "Ashok Kumar",
+    "Khaleeq Ahmed",
+    "Mushtaq Ahmed Leghari",
+    "Nisar Ahmed Mallah",
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Khalid Hussain Shahani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

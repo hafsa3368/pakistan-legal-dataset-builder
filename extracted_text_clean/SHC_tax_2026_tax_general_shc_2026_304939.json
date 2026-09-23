@@ -6,9 +6,9 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No.208/2023",
   "date_of_order": "11.02.2026",
-  "judge": "",
+  "judge": "Late Khuhro",
   "sections_cited": [
     "section 111",
     "section 18",
@@ -18,7 +18,9 @@
   "citations": [
     "2024 SCMR 700"
   ],
-  "parties": [],
+  "parties": [
+    "[Unknown]"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

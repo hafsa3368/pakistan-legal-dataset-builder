@@ -8,12 +8,16 @@
   "num_chunks": 9,
   "case_number": "Civil Appeal No.491/2012",
   "date_of_order": "22.04.2026",
-  "judge": "Zulfiqar Ali Sangi Date",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Irfan Ali Memon",
+    "Federation of Pakistan",
+    "Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

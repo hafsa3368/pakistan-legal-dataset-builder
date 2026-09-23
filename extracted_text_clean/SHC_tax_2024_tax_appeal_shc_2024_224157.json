@@ -6,12 +6,16 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.D-5904 of 2024",
   "date_of_order": "23.12.2024",
-  "judge": "",
+  "judge": "M.Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Amjad Hayat",
+    "Sardar Zafar Hussain",
+    "Ms. Alizeh Bashir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "Election Appeal No.232 of 2024",
   "date_of_order": "30.12.2023",
   "judge": "Shafi",
   "sections_cited": [
@@ -24,7 +24,11 @@
     "PLD 2012 SC 1054",
     "PLD 2018 SC 189"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Aftab Uddin Baqai",
+    "Abdul Khursheed Khan",
+    "Election Commission of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

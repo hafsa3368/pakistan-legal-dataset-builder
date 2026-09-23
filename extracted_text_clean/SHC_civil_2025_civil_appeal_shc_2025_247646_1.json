@@ -9,9 +9,18 @@
   "case_number": "",
   "date_of_order": "28.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nadir Hussain ABro",
+    "Ms. Alizeh Bashir",
+    "Mr. Mukesh Kumar Khatri",
+    "Department",
+    "Petitioner",
+    "Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

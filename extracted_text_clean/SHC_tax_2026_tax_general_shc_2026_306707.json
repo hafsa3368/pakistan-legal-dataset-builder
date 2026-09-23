@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "02.03.2026",
-  "judge": "JUDGE Asif",
+  "judge": "",
   "sections_cited": [
     "section 196 of the Customs Act"
   ],
@@ -21,7 +21,10 @@
     "2024 SCMR 426",
     "PLD 2006 SC 142"
   ],
-  "parties": [],
+  "parties": [
+    "Director, Directorate of Intelligence and Investigation, Customs, Regional Office, Hyderabad",
+    "Mr. Pervaiz Ahmed Memon, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

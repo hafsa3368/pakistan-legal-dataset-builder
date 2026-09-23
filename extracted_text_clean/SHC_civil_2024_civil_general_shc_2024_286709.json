@@ -9,11 +9,17 @@
   "case_number": "Constitutional Petition No.D-5160 of 2024",
   "date_of_order": "17.10.2025",
   "judge": "Muhammad Karim Khan Agha Justice",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2023 SCMR 448"
   ],
-  "parties": [],
+  "parties": [
+    "Dr. Nadeem Naeem",
+    "Jinnah Sindh Medical University & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

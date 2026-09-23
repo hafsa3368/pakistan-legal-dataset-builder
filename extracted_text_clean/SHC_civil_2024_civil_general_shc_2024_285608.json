@@ -6,12 +6,15 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-4270 of 2024",
   "date_of_order": "10.10.2025",
-  "judge": "Wasim PS",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Saima Imdad",
+    "Mr. Rajesh Kumar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

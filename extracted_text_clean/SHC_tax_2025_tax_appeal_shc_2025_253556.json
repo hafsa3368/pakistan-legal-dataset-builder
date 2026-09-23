@@ -8,13 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "22.04.2025",
-  "judge": "",
+  "judge": "Ayaz Gul",
   "sections_cited": [
     "Section 66 of the Sales Tax Act",
     "Section 45-B of Sales Tax Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Haider Waheed",
+    "Mr. Irfan Mir Halepota",
+    "Ms. Mahreen Ibrahim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,19 @@
   "case_number": "Misc.No.39/2025",
   "date_of_order": "22.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 22 of the Rules of Civil Procedure, 1909",
+    "Section 397 of the Code of Civil Procedure, 1908",
+    "Section 397 of the Code of Criminal Procedure, 1973"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner (Ali Almani)",
+    "Respondent (Tax Department)",
+    "Assistant Attorney General (Alizeh Bashir)",
+    "Advocate for the Petitioner (Ali Almani)",
+    "Advocate for Respondent (Tax Department) (Pervaiz Ahmed Memon)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

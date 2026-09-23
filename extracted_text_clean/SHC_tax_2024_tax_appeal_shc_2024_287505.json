@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Criminal Anti-Terrorism Appeal No. 15 of 2025",
+  "case_number": "",
   "date_of_order": "21.10.2025",
-  "judge": "JUDGE",
+  "judge": "Omar Sial",
   "sections_cited": [
     "sections 353, 324, 427, 186 and 2",
     "section 7",
@@ -19,7 +19,24 @@
     "section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "The State",
+    "Ameenullah",
+    "Samiullah",
+    "The Pakistan Customs",
+    "Inspector Zohaibullah",
+    "Inspector Samiullah",
+    "Inspector Salamat Ali",
+    "P.C. Noshad",
+    "Sepoy Hameedullah",
+    "A.S.I. Mohammad Gulistan",
+    "A.S.I. Samiullah",
+    "Dr. Kamran Khan",
+    "H.C. Adeel Ahmed",
+    "P.C. Awais Ali",
+    "Kalamullah",
+    "Kalamuddin"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

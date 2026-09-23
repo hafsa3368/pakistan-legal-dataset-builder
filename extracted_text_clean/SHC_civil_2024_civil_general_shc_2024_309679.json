@@ -7,13 +7,20 @@
   "used_ocr": false,
   "num_chunks": 7,
   "case_number": "Constitutional Petition No. D-2232 of 2025",
-  "date_of_order": "",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "date_of_order": "30.3.2026",
+  "judge": "Adnan-ul-Karim Memon, Mr. Justice Zulfiqar Ali Sangi",
+  "sections_cited": [
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973"
+  ],
   "citations": [
     "2025 SCMR 216"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. SadafPerveen",
+    "Province of Sindh & others",
+    "Mr. Aftab Alam",
+    "Mr. Ali Safdar Depar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

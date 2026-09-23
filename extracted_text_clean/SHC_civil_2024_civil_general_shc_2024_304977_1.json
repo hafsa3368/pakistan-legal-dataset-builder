@@ -6,12 +6,22 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitutional Petition No. D-",
+  "case_number": "",
   "date_of_order": "09.02.2026",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Amjad Ali Bohio",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sohail Ahmed Khoso",
+    "Mr. Ali Raza Baloch",
+    "Mr. Ali Haider 'Ada'",
+    "Nouman Ali Abro",
+    "Deputy Director ( R&P), Home Department",
+    "Focal Person, Home Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

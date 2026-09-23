@@ -6,14 +6,17 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "I. T. R. A. No. 108",
   "date_of_order": "12.03.2025",
   "judge": "",
   "sections_cited": [
     "Section 100C of the Income Tax Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Applicant",
+    "Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

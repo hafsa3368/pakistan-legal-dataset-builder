@@ -8,10 +8,28 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "13.10.2025",
-  "judge": "JUDGE NADEEM QURESHI PA",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Black gold Engineering",
+    "Federation of Pakistan and another",
+    "Muhammad Saad versus Federation of Pakistan and another",
+    "M/s. Amal Steel versus Federation of Pakistan and another",
+    "M/s. Reliance Steel versus Federation of Pakistan and another",
+    "Muhammad Shoaib versus Federation of Pakistan and another",
+    "M/s. Muhammad Shahid versus Federation of Pakistan and another",
+    "Essa Farooq versus Federation of Pakistan and another",
+    "Muhammad Ibrahim versus Federation of Pakistan and another",
+    "M/s. Sun Steel (Pvt.) Ltd. versus Federation of Pakistan and another",
+    "Muhammad Fahad versus Federation of Pakistan and another",
+    "M/s. A. N. Pipe Indutries (Pvt.) Ltd. Versus Federation of Pakistan and another",
+    "M/s. Aqeel Ahmed Khan & Muhammad Bilal Advocates",
+    "The Federation of Pakisan through Ms. Mehreen Ibrahim, Deputy Attorney General",
+    "The Collectorate of Customs, through Mr. Agha Shahid Majeed Khan Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

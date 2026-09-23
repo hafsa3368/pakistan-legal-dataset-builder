@@ -6,12 +6,18 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.28618/2024",
   "date_of_order": "29.05.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Haider Waheed, advocate for the petitioner",
+    "Mr. Tahir Khalil advocate holds brief for Mr. Muhammad Khalil Dogar, advocate for respondent",
+    "Mr. Anas Makhdoom, advocate for respondent",
+    "Ms. Alizeh Bashir, Assistant Attorney General",
+    "Mr. Moeen Afzal Ali, Additional Director, Directorate of Transit Trade (HQs), Customs Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

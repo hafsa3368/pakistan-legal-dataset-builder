@@ -6,14 +6,25 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "criminal case does not",
+  "case_number": "C.P No.D-259 of 2025",
   "date_of_order": "12.11.2025",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 15 of the Sindh Civil Servants Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zafar Ali",
+    "Province of Sindh",
+    "Muhammad Sharif Solangi",
+    "Muhammad Sharif Solangi",
+    "Sindh Police",
+    "Local Police",
+    "Special Branch",
+    "CRO",
+    "IGP Sindh Karachi",
+    "Respondent No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

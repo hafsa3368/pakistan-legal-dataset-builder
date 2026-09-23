@@ -6,10 +6,13 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "C.P. No. D-2817 of 2023",
   "date_of_order": "28.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2020 SCMR 111",
     "2018 SCMR 76",
@@ -17,7 +20,26 @@
     "2019 CLC 1081",
     "2019 YLR 911"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mujtaba Sohail Raja",
+    "Mr. Talha Javed",
+    "Ms. Maria Shoaib Khan",
+    "Mr. Nadir Burdi",
+    "Mr. Zia-ul-Haq Makhdoom",
+    "Mr. Dhani Bakhsh Lashari",
+    "Mr. Khursheed Jawed",
+    "Ms. Nazia Siddiqui",
+    "Mr. Sartaj Malgani",
+    "Mr. Kashif Nazir",
+    "Sandeep Malani",
+    "Ashfaq Hussain",
+    "Asif Rizvi",
+    "Jalees Siddiqui",
+    "Sami Jam Lani",
+    "Ali Ghufran",
+    "Abdul Rehma",
+    "Shehzad Siyal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

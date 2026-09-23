@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.S-52 of 2025",
-  "date_of_order": "",
+  "date_of_order": "30.06.2025",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Agha Athar Pathan",
+    "Gulzar Ahmed Malano",
+    "Aijaz Ali",
+    "Huzoor Bux",
+    "Ayaz",
+    "the trial Court for compliance"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

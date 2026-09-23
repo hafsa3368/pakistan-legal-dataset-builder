@@ -8,14 +8,19 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "13.10.2025",
-  "judge": "",
+  "judge": "Khalilullah Jakhro",
   "sections_cited": [
     "section 25 of the Customs Act",
     "section 25-A of the Customs Act",
     "section 196 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Murad Electronics",
+    "Director of Valuation",
+    "Appellant Department",
+    "Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

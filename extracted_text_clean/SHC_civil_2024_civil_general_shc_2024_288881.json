@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Pett. No.D-1472 of 2025",
+  "case_number": "",
   "date_of_order": "30.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Raza Balouch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "Civil Appeals Nos",
+  "case_number": "ITRA No.267/2023",
   "date_of_order": "24.09.2025",
   "judge": "",
   "sections_cited": [
@@ -22,7 +22,11 @@
     "section 133 of the Income Tax Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Asad Haider Kazmi",
+    "Mr. S. Ahsan Ali Shah",
+    "Mr. Muhammad Akbar Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

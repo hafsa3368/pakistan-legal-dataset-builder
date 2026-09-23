@@ -8,14 +8,23 @@
   "num_chunks": 4,
   "case_number": "Civil Petition No.3390 of 2021",
   "date_of_order": "25.07.2021",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 17-A of the Service Rules"
   ],
   "citations": [
     "PLD 2024 SC 1276"
   ],
-  "parties": [],
+  "parties": [
+    "Mst. Afsheen",
+    "Province of Sindh and Others",
+    "Mr. Noor Nabi Samoo",
+    "Mr. Rafique Ahmed Dahri",
+    "XEN Highways Hyderabad",
+    "Ali Asghar Malik",
+    "Deputy Commissioner Hyderabad",
+    "Executive Engineer, Highways Division Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

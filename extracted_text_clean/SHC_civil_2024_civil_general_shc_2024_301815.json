@@ -6,14 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "criminal case cannot",
+  "case_number": "",
   "date_of_order": "25.11.2025",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [
     "Section 249 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Owais",
+    "Province of Sindh",
+    " SSP Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

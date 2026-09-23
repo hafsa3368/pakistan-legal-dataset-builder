@@ -6,12 +6,24 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P. No.D-1334 of 2024",
   "date_of_order": "10.12.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "Article 35 of the Constitution of Pakistan, 1973",
+    "The Protection of Family Life and Wedlock Policy Act, 2023",
+    "The Sindh Civil Servants (Regularization of Absorption) Act, 2011",
+    "Civil Establishment Code (ESTA Code)"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Naeema Khan",
+    "Federation of Pakistan & others",
+    "Salahuddin Shaikh",
+    "Director of Schools Education, Mirpurkhas",
+    "Respondent No. 5",
+    "Respondent No. 6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

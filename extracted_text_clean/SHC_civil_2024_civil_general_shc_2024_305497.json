@@ -6,10 +6,13 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.S-631 of 2025",
   "date_of_order": "16.02.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Aadil Arab",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
@@ -18,7 +21,11 @@
     "2001 SCMR 338",
     "2014 YLR 2331"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Arif",
+    "Mr. Sohail Sattar",
+    "Respondent No.1"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

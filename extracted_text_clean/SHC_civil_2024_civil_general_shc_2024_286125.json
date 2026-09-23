@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Bail Application No.69 of 2024",
   "date_of_order": "25-09-2025",
-  "judge": "JUDGE Ahmad",
+  "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "Section 497",
     "Section 497 Cr.P.C"
@@ -18,7 +18,14 @@
     "PLD 1974 SC 224",
     "PLD 2022 SC 743"
   ],
-  "parties": [],
+  "parties": [
+    "Sikandar Hayat Buriro",
+    "The State",
+    "The State",
+    "NAB",
+    "ACE Sukkur",
+    "Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

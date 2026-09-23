@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "",
   "date_of_order": "16.12.2025",
-  "judge": "",
+  "judge": "Fakhar-ul-Zaman Akhtar",
   "sections_cited": [
     "section 133 of the Income Tax Ordinance"
   ],
@@ -25,7 +25,11 @@
     "PLD 2001 SC 142",
     "PLD 1983 SC 385"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Nasir",
+    "the taxpayer",
+    "the appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

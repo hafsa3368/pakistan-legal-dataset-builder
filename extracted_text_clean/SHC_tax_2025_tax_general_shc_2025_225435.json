@@ -6,9 +6,9 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "MA No. 634/2025",
   "date_of_order": "21-01-2025",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 21 of the Sales Tax Act"
   ],
@@ -19,7 +19,12 @@
     "PLD 2019 Sindh 516",
     "PLD 2021 Sindh 130"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Umar Textiles",
+    "Federal Board of Revenue & others",
+    "M/s. Umar Textiles",
+    "Nemo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

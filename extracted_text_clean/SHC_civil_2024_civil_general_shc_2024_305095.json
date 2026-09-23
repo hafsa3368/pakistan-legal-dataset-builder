@@ -8,10 +8,14 @@
   "num_chunks": 8,
   "case_number": "Civil Revision Application No.114 of 2024",
   "date_of_order": "13.01.2026",
-  "judge": "",
+  "judge": "Jawad Akbar Sarwana",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rizwan Sadiq & another",
+    "Zohaib Hussain & Another",
+    "Kamran Sadiq Vs. Zohaib Hussain & Two Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

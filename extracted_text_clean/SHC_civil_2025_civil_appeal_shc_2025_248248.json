@@ -8,14 +8,20 @@
   "num_chunks": 3,
   "case_number": "Crl. Jail Appeal No.S-122 of 2016",
   "date_of_order": "28-02-2025",
-  "judge": "",
+  "judge": "Riazat Ali Sahar",
   "sections_cited": [
     "Section 265-H",
     "Section 13",
     "Section 382 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Punhal alias Punhoon",
+    "The State",
+    "Syed Sardar Ali Shah",
+    "Khawand Bux Bhutto",
+    "Muhamad Punhal alias Punhoon Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,13 +8,19 @@
   "num_chunks": 2,
   "case_number": "Civil Petition No.70-K of 2023",
   "date_of_order": "13.11.2025",
-  "judge": "",
+  "judge": "B-K Soomro",
   "sections_cited": [
     "section 32",
     "section 196 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nestle Pakistan Limited",
+    "applicant",
+    "applicant",
+    "appellant",
+    "Customs Appellate Tribunal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

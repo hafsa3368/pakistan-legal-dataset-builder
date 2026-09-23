@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "18.11.2025",
-  "judge": "",
+  "judge": "B-K Soomro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "PTCL",
+    "Dir. of Intelligence (Customs), Karachi",
+    "Petitioner",
+    "Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

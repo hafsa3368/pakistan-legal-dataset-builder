@@ -9,9 +9,15 @@
   "case_number": "Civil Petition No.3391 of 2024",
   "date_of_order": "09.05.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Badar Alam",
+    "Ms. Alizeh Bashir",
+    "Mr. Muhammad Akbar Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

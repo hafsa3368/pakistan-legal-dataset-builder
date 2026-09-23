@@ -8,7 +8,7 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "11.11.2025",
-  "judge": "",
+  "judge": "Muhammad Rashid Arfi",
   "sections_cited": [
     "Section 2",
     "Section 156 of the Customs Act",
@@ -21,7 +21,10 @@
   "citations": [
     "2017 SCMR 585"
   ],
-  "parties": [],
+  "parties": [
+    "Applicant",
+    "Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

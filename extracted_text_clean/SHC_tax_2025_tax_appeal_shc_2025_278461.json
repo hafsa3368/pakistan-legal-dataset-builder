@@ -6,12 +6,15 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C. P. No. D-2962 of 2025",
   "date_of_order": "12.08.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent/FBR"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

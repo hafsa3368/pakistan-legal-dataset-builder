@@ -8,10 +8,23 @@
   "num_chunks": 4,
   "case_number": "W.P.NO. 1902/2025",
   "date_of_order": "09.10.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "SEHRISH JAWAID MIRZA",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mustafa Jamal Qazi",
+    "Muhammad Noman Ansari",
+    "Imran Musil",
+    "Others",
+    "The Director General, Directorate General of Immigration and Passports",
+    "The Deputy Director (Law), FIA Headquarter",
+    "The Assistant Commissioner-Ir",
+    "The Office Of The Assistant Commissioner Inland Revenue Corporate Tax Office, Karachi",
+    "The FIA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

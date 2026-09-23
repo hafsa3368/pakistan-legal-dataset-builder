@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "CP No.D-5622 of 2024",
   "date_of_order": "30.01.2026",
   "judge": "Muhammad Saleem Jessar Justice Nisar",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh",
+    "Altaf Hussain Narejo",
+    "Quratulan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

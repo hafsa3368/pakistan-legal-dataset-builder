@@ -6,14 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.13101/2023",
   "date_of_order": "20.12.2024",
   "judge": "",
   "sections_cited": [
     "Section 4C of the Income Tax Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ovais Ali Shah, Tariq Masood, Naeem Suleman, Mumtaz Chandio, Imtiaz Ali, Naveed Basharat, Abdul Rehman Adeed, Mahmood ul Hassan Muhammad Tariq",
+    "Barrister Syed Ahsan Ali Shah, Ameer Nausherwan Adil, Abdul Hakeem Junejo, Zeeshan Ahmed, Syed Kumail Abbasi, Asif Ali Siyal, Qaim Ali, Munawwar Ali Memon and Abdul Manan on behalf of Faheem Raza",
+    "Ms. Alizeh Bashir, Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

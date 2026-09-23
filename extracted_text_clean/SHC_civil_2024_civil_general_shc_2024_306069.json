@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.S-02 of 2023",
   "date_of_order": "17.02.2026",
   "judge": "Shamsuddin Abbasi",
   "sections_cited": [
@@ -14,7 +14,11 @@
     "section 151"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mir Muhammad Nohri",
+    "Mr. Muhammad Shareef Solangi",
+    "Assistant A.G Sindh a/w SIP Abdul Rasheed of PS Town"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

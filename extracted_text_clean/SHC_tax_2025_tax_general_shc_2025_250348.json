@@ -8,14 +8,20 @@
   "num_chunks": 4,
   "case_number": "",
   "date_of_order": "19.03.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Farogh Naseem",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1989 CLC 74",
     "PLD 1997 Karachi 541",
     "PLD 1999 Karachi 170"
   ],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

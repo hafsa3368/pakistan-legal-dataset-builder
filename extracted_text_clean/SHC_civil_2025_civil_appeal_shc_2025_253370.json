@@ -6,12 +6,17 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "HCA No.276 of 2017",
   "date_of_order": "17.03.2025",
-  "judge": "JUDGE Imran",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "CMA No.1696/20",
+    "Ms. Mehmood Suleman",
+    "Mr. Khalid Mehmood Siddiqui",
+    "Syed Hussain Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

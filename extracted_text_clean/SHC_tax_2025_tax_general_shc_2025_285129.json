@@ -9,9 +9,20 @@
   "case_number": "W.P.NO. 1902/2025",
   "date_of_order": "09.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Masood, advocate for the petitioner",
+    "Mr. Zahid F. Ebrahim, advocate for respondent",
+    "Mr. Naeem Akhtar Talpur, Additional Advocate General Sindh",
+    "Ms. Zahra Sehr Vayani, Assistant Attorney General",
+    "Mr. Saad Shafiq Siddique",
+    "Mr. Zahid Masood, Chief Commissioner, CTO Karachi",
+    "Mr. Rizwan Memon, Commissioner CTO, Karachi",
+    "Ms. Sehrish Jawaid Mirza, Deputy Commissioner, CTO Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

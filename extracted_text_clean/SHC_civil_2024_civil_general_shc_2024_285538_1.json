@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-1240 of 2025",
   "date_of_order": "09.10.2025",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Hussain Shah",
+    "Mr. Muhammad Ismail Bhutto",
+    "Deputy Commissioner Tando Allahyar",
+    "Executive Engineer Tubewells Division Tando Jam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

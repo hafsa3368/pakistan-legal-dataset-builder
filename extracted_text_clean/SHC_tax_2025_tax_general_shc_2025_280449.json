@@ -6,14 +6,25 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-6309 of 2024",
   "date_of_order": "10.09.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "",
   "sections_cited": [
     "section 33"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aqeel Ahmed Khan",
+    "Mr. Muhammad Ramzan Sethi",
+    "Mr. Umer Ilyas",
+    "Sh. Muhammad Ramzan",
+    "Mr. Arshad Hussain Shahzad",
+    "Mr. Muhammad Farhan",
+    "Ms. Shazia Hanjrah",
+    "M/s. Ziaul Haq makhdoom",
+    "Barrister S. Ahsan Ali Shah",
+    "Hira Aga"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

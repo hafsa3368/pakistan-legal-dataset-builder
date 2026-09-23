@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "criminal proceedings cannot",
+  "case_number": "",
   "date_of_order": "11-12-2025",
   "judge": "Adnan Iqbal Chaudhry Mr",
   "sections_cited": [
@@ -15,7 +15,17 @@
     "section 265-K Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Federation of Pakistan",
+    "Syed Haider Mehdi",
+    "Arshad Shahzada",
+    "Rana Sakhavat Ali",
+    "Faheem Raza",
+    "Ms. Mehreen Ibrahim",
+    "Taj International (Pvt.) Ltd.",
+    "Waseem Ahmad",
+    "Mr. Muhammad Inzamam Sharif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

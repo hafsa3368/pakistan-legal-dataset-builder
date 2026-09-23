@@ -6,12 +6,25 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C. P. No. D-3244 of 2025",
   "date_of_order": "12.08.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Ahsan Ali Shah",
+    "FBR",
+    "Mr. Muhammad Ishaq",
+    "Syed Ahsan Ali Shah",
+    "Mr. Muhammad Ishaq",
+    "FBR",
+    "Mr. Ahmed Ali Hussain",
+    "FBR",
+    "Syed Ahsan Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

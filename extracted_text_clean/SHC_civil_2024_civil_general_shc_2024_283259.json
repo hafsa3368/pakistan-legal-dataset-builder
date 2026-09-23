@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1109 of 2025",
   "date_of_order": "11.07.2025",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Ashok Kumar K. Jamba and Asadullah Soomro",
+    "Syed Naveed Ahmed Shah, D.A.G.",
+    "Mr. Adnan Arshad Jatoi",
+    "Mr. Ali Raza Baloch",
+    "Mr. Gulzar Ahmed Malano",
+    "Sikandar Hayat s/o Shabbir Ahmed Buriro",
+    "The State a/w SIP Maqsood Ahmed of ACE Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

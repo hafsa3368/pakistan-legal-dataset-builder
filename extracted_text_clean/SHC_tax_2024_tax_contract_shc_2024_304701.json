@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "09.02.2026",
-  "judge": "",
+  "judge": "Irfan Mir Halepota",
   "sections_cited": [
     "section 34",
     "section 133 of the Income Tax Ordinance"
@@ -16,7 +16,10 @@
   "citations": [
     "2019 SCMR 1726"
   ],
-  "parties": [],
+  "parties": [
+    "Meezan Bank",
+    "the applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

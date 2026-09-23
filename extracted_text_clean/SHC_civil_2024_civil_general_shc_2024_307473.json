@@ -6,14 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P No.S-03 of 2026",
   "date_of_order": "10.03.2026",
   "judge": "",
   "sections_cited": [
     "Section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rao Faisal Ali",
+    "Mr. Awais Khan Laghari",
+    "Mr. Muhammad Shareef Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

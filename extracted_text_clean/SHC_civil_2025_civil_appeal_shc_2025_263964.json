@@ -6,12 +6,18 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "High Court Appeal No. 448 of 2024",
   "date_of_order": "06.05.2025",
-  "judge": "Judge Ayaz",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Safeer",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

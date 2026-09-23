@@ -6,12 +6,20 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "HCA No.78 of 2024",
   "date_of_order": "14.04.2025",
-  "judge": "JUDGE Imran",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 397 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Iqbal Kalhoro",
+    "Mr. Justice Muhammad Osman Ali Hadi",
+    "Ms. Nasima Mangrio",
+    "Mr.Kazim Raza Abbasi",
+    "Ms. Afsheen Aman"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No.D-1384 of 2025",
   "date_of_order": "28.11.2025",
-  "judge": "",
+  "judge": "ADNAN-UL-KARIM MEMON",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sanam Parveen",
+    "Federation of Pakistan and Others",
+    "FPSC",
+    "MCB Pakistan",
+    "Prime Minister's Office",
+    "Government/ Public/ Private Sector Organization"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,15 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Criminal Miscellaneous Application No.S-",
+  "case_number": "",
   "date_of_order": "13.11.2025",
   "judge": "Tufail",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Rasool",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

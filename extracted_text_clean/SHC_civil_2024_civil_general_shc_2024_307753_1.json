@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "criminal case No. 27 of 2020",
   "date_of_order": "05.03.2026",
-  "judge": "JUDGE Ayaz Gul",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 15 of the Sindh Civil Servants Act"
   ],
@@ -16,7 +16,17 @@
     "2023 SCMR 766",
     "2021 SCMR 420"
   ],
-  "parties": [],
+  "parties": [
+    "Roshan Ali",
+    "Muharam Ali",
+    "Province of Sindh",
+    "AIGP Legal II CPO Sindh Karachi",
+    "Abdul Jaleel Zubedi",
+    "Raza Mian",
+    "Mr. Justice Zulfiqar Ali Sangi",
+    "Ms. Nousheen Khan Tajjammul",
+    "Mr. Tajjammul H. Lochi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

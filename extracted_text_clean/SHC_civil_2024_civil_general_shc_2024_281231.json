@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitutional Petition No.S-215 of 2024",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "12.09.2025",
+  "judge": "Asghar Altaf",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Munwar Ali Abbasi",
+    "Mr. Feroz Gul Khoso",
+    "Mst. Kiran",
+    "Mst. Erum"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,14 +8,22 @@
   "num_chunks": 4,
   "case_number": "Const. Petition No.D-1244 of 2021",
   "date_of_order": "23.05.2024",
-  "judge": "JUDGE Ahmad",
+  "judge": "Abdul Naeem Pirzada",
   "sections_cited": [
     "section 11-A"
   ],
   "citations": [
     "PLD 2024 SC 1276"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada",
+    "Mr. Ali Raza Baloch, Additional A.G",
+    "Abid Saleem Qureshi, Commissioner, Sukkur",
+    "Nadir Shahzad, Deputy Commissioner, Sukkur",
+    "Naheed Ahmed Mirani, ADC-1, Sukkur",
+    "Hazoor Bux, District Accounts Officer, Sukkur",
+    "Mr. Fahad Hussain, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

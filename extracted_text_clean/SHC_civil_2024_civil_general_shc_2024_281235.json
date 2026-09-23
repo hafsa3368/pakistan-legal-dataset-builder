@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitutional Petition No.S-258 of 2023",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "12.09.2025",
+  "judge": "Asghar Altaf",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Waheed Ahmed Shaikh",
+    "Mr. Munwar Ali Abbasi",
+    "Mr. Nazeer Ahmed Bhangwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

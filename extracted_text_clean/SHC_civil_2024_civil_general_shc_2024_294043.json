@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Const. Pett No.D-2284 of 2024",
+  "case_number": "",
   "date_of_order": "12.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Raza Balouch",
+    "Miss. Shabana Naheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

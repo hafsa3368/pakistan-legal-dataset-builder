@@ -9,9 +9,14 @@
   "case_number": "",
   "date_of_order": "17.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 17.01 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Alizeh Bashir",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

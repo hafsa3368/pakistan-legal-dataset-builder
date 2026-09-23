@@ -9,12 +9,22 @@
   "case_number": "",
   "date_of_order": "11.05.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2024 SCMR 985",
     "2024 SCMR 1123"
   ],
-  "parties": [],
+  "parties": [
+    "Farooque Hussain",
+    "Sheeraz Ali",
+    "Mst.Naila Ayaz",
+    "Shahid Shaikh",
+    "Muhammad Saleem Laghari",
+    "Asif Gul Bhatti"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,17 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "MA No.715/2025",
   "date_of_order": "27.06.2024",
-  "judge": "",
+  "judge": "Hassan Maqsood Ahmad Aujla",
   "sections_cited": [
     "section 129 of the Income Tax Ordinance"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Applicant",
+    "Commissioner (Appeals-IV) Inland Revenue, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

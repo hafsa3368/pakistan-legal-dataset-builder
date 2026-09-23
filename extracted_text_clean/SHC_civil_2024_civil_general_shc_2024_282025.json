@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1460 of 2025",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "17.09.2025",
+  "judge": "",
   "sections_cited": [
     "section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shoukat Ali Makwal",
+    "Mr. Mansoor Ahmed Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

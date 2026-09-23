@@ -6,7 +6,7 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Civil Petition Nos",
+  "case_number": "",
   "date_of_order": "10.12.2025",
   "judge": "",
   "sections_cited": [
@@ -24,7 +24,10 @@
   "citations": [
     "2025 SCMR 684"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Khalilullah Jakhro",
+    "Ms. Dilkhurram Shaheen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

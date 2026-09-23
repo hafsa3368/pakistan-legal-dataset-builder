@@ -8,13 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "10.11.2025",
-  "judge": "JUDGE Nadeem Qureshi PA",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 122 of the Income Tax Ordinance",
     "section 127"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Sania Jafaq",
+    "The Federation of Pakistan",
+    "M/s. Sania Jafaq",
+    "The Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

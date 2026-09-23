@@ -6,8 +6,8 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 46,
-  "case_number": "CONST PETIIION NO OF",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "02.06.2009",
   "judge": "Mohammad Karim Khan Agha",
   "sections_cited": [
     "Section 401 Cr.P.C",
@@ -20,7 +20,12 @@
     "PLD 2019 SC 2018",
     "PLD 2009 SC 460"
   ],
-  "parties": [],
+  "parties": [
+    "High Court of Sindh",
+    "Mr. Justice Mohammad Karim Khan Agha",
+    "Rehrman nsari & Others",
+    "The State v. I R LrS l llt ('o ' l Ul lON"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

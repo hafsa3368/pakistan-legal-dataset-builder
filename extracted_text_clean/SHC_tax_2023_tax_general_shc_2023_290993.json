@@ -8,14 +8,20 @@
   "num_chunks": 3,
   "case_number": "Civil Petitions No. 70-K",
   "date_of_order": "19.11.2025",
-  "judge": "",
+  "judge": "Sardar Zafar Hussain",
   "sections_cited": [
     "Section 32 of the Customs Act",
     "Section 6 of the Sales Tax Act",
     "section 196 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nestle Pakistan Limited",
+    "Mr. Muhammad Adnan Moton",
+    "Mr. Faheem Raza Khuhro advocate",
+    "Ms. Saima Syed",
+    "The Directorate of Post Clearance Audit through its DG, FBR, Islamabad and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

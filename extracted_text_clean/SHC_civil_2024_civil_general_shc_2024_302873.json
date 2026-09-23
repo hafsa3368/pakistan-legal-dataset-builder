@@ -8,10 +8,19 @@
   "num_chunks": 4,
   "case_number": "Const. Petition No. S-678 of 2022",
   "date_of_order": "19.01.2026",
-  "judge": "District Court Division",
-  "sections_cited": [],
+  "judge": "Barrister Syed Mustafa Medhi",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Faraz Shaikh",
+    "Respondent (mother)",
+    "Mr. Abdul Jalil Zubedi",
+    "Assistant Advocate General Sindh",
+    "Petitioner (Faisal Raza)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

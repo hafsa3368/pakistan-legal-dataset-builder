@@ -8,14 +8,18 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "23.04.2025",
-  "judge": "",
+  "judge": "Munib Akhtar",
   "sections_cited": [
     "Section 32 of the Customs Act",
     "Section 79 of the Customs Act",
     "Section 196 of Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Pakistan",
+    "Muhammad Saleem Bikiya & others",
+    "Office to the Customs Appellate Tribunal, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

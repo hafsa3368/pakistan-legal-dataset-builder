@@ -6,9 +6,9 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitution Petition Nos",
+  "case_number": "Constitution Petition Nos.D-1649",
   "date_of_order": "26.04.2025",
-  "judge": "",
+  "judge": "Aneel Zia",
   "sections_cited": [
     "sections 165 and 171 of the Customs Act",
     "Sections 165 and 171 of the Customs Act",
@@ -22,7 +22,10 @@
     "Section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aneel Zia alongwith M/s. Arif Ali Manthar and Bilawal Solangi, Advocates",
+    "Mr. Khalid Mehmood Rajpar, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

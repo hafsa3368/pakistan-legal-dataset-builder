@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 13,
-  "case_number": "Constitution Petition Nos",
+  "case_number": "Constitution Petition Nos.D-3642",
   "date_of_order": "05.09.2024",
   "judge": "Muhammad Junaid Ghaffar Mr",
   "sections_cited": [
@@ -22,7 +22,11 @@
     "Section 237"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Trading Corporation of Pakistan (Pvt.) Ltd.",
+    "Commissioner Inland Revenue, Zone-II, LTO, Karachi",
+    "Federation of Pakistan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

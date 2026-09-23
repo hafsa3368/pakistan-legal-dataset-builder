@@ -6,12 +6,22 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Const. Petition No. D-",
+  "case_number": "",
   "date_of_order": "17.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Datar Dio",
+    "Deputy Commissioners across Sindh",
+    "Respondent No.5",
+    "Respondent No.6",
+    "Respondent No.7",
+    "Aftab Naik Muhammad Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

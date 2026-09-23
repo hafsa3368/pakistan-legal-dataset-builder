@@ -8,12 +8,17 @@
   "num_chunks": 4,
   "case_number": "Constitution Petition No.D-605/2024",
   "date_of_order": "26.11.2025",
-  "judge": "",
+  "judge": "Muhammad Sharif Solangi",
   "sections_cited": [
     "section 204"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Amir Niaz",
+    "Government of Sindh",
+    "Chief Secretary Sindh",
+    "Secretary Education and Literacy Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

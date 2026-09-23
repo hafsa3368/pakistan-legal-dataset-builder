@@ -6,14 +6,20 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-1609 of 2022",
   "date_of_order": "28.02.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [
     "2023 SCMR 1716"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Moiz Jaferii",
+    "Ms. Alizeh Bashir",
+    "Mr. Muhabbat Hussain Awan",
+    "Ms. Afsheen Aman",
+    "Ms. Masooda Siraj"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

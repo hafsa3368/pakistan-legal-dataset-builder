@@ -8,14 +8,24 @@
   "num_chunks": 4,
   "case_number": "Const. Petition No.D-1244 of 2021",
   "date_of_order": "23.05.2024",
-  "judge": "JUDGE Ahmad",
+  "judge": "Hazoor Bux",
   "sections_cited": [
     "section 11-A"
   ],
   "citations": [
     "PLD 2024 SC 1276"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada",
+    "Mr. Ali Raza Baloch",
+    "Abid Saleem Qureshi",
+    "Nadir Shahzad",
+    "Naheed Ahmed Mirani",
+    "Hazoor Bux",
+    "Fahad Hussain",
+    "General Post Office Islamabad",
+    "Muhammad Jalal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

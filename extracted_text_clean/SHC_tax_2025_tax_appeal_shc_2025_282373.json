@@ -6,12 +6,18 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "13.08.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Nadeem Qureshi",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Manzar Hussain",
+    "Syed Bashir Hussain Shah",
+    "Mr. Aamir Ali Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

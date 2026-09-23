@@ -6,12 +6,18 @@
   "year": "2026",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No. D-589 of 2022",
   "date_of_order": "24.02.2026",
-  "judge": "JUDGE TariqAli/PS",
+  "judge": "Tariq Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hamza Waheed",
+    "Mr. Sami ur Rehman",
+    "Mr. Khalil Dogar",
+    "Ms. Mehreen Ibrahim",
+    "Sardar Zafar Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

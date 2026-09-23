@@ -6,16 +6,26 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "civil Eervants the HiSh Court could not",
+  "case_number": "",
   "date_of_order": "23.09.2019",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Plt., Kar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 1405",
     "2018 SCMR 1181",
     "PLD 1995 SC 43"
   ],
-  "parties": [],
+  "parties": [
+    "Ashlaque Ahmed SiO Qurban,4.li Dehraj",
+    "Al1 RiO Taluka Mchrabpur & Kandiaro",
+    "Drstri(t Naushehro f ( r\t/e",
+    "Others",
+    "GhazanJar Ali.Jatoi",
+    "Adv (--ate. Respo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

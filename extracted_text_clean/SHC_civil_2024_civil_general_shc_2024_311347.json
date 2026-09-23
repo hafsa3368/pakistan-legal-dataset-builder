@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "Constitutional Petition No. D-1253 of 2026",
   "date_of_order": "22.02.2024",
-  "judge": "Shafi JUDGE",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "u/s 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Shakila",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,17 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No.160/25",
   "date_of_order": "08.01.2025",
   "judge": "Ashraf",
   "sections_cited": [
     "Section 9 of the CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Mohsin Khan",
+    "Plaintiff"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

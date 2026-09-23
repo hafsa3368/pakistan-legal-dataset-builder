@@ -8,7 +8,7 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "06-02-2025",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 21 of the Sales Tax Act"
   ],
@@ -21,7 +21,12 @@
     "PLD 2019 Sindh 516",
     "PLD 2021 Sindh 130"
   ],
-  "parties": [],
+  "parties": [
+    "Exide Pakistan Ltd.",
+    "Federation of Pakistan",
+    "Nemo",
+    "The Commissioner Inland Revenue Zone-II"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-2214 of 2025",
   "date_of_order": "21.10.2024",
-  "judge": "JUDGE Ahmad",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Quaimuddin Malano",
+    "Revenue Officials",
+    "Mr. Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

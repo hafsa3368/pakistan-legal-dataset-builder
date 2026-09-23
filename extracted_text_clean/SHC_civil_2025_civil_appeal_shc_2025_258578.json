@@ -8,7 +8,7 @@
   "num_chunks": 16,
   "case_number": "Criminal Appeal No.S-38 of 2024",
   "date_of_order": "23.10.2017",
-  "judge": "",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "section 382-B Cr.P.C",
     "section 164 Cr.P.C",
@@ -28,7 +28,21 @@
     "2023 PCr.LJ 121",
     "2019 SCMR 1048"
   ],
-  "parties": [],
+  "parties": [
+    "The Complainant",
+    "The State",
+    "Muhammad Qabil",
+    "Zahid Hussain",
+    "Muhammad Hassan",
+    "Allah Rakhio",
+    "Arzoo",
+    "Adloo",
+    "Ghous Bux",
+    "Wahidoo",
+    "Khuda Bux",
+    "Ashiq Hussain",
+    "Gul Bano"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

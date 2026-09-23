@@ -6,12 +6,18 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.23386/2021",
   "date_of_order": "14.05.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Salman Paper Products (Pvt.) Ltd. & Others",
+    "Federation of Pakistan & Others",
+    "Collector of Customs v. Bilal Traders & Another",
+    "the petitioner",
+    "the respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-2685 of 2025",
   "date_of_order": "17.06.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "HEAD OF CONST. BENCHES",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Hamza Waheed and Muhammad Sameer, Advocates for the Petitioner",
+    "Tariq Aziz, Assistant Collector Customs",
+    "Mr. Faheem Ali Memon, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

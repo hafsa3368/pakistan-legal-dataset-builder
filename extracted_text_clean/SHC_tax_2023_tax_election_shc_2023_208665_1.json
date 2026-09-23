@@ -6,7 +6,7 @@
   "year": "2023",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitution was not",
+  "case_number": "C.P No.D-82 of 2024",
   "date_of_order": "09.01.2024",
   "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
@@ -17,7 +17,12 @@
   "citations": [
     "2016 SCMR 2042"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Amjad Hussain Shah",
+    "Election Commission of Pakistan",
+    "M/s Syed Jamil Ahmed Shah",
+    "Syed Waqar Ahmed Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

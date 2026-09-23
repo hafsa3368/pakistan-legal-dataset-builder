@@ -6,12 +6,24 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "",
+  "case_number": "C.P. No.D-824 of 2025",
   "date_of_order": "02.02.2026",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Rule 4.10(B)(iv) of the West Pakistan Civil Services Pension Rules, 1963"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Raheela Noor",
+    "Pakistan",
+    "Pakistan Broadcasting Corporation (PBC)",
+    "Pakistan",
+    "Ms. Saima Anjum",
+    "Mr. Matloob Hussain Qureshi",
+    "Ms. Mahreen Ibrahim DAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

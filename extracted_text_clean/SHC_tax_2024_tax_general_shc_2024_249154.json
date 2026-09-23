@@ -8,12 +8,22 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "10.03.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Iftikhar Muhammad Chaudhry CJ",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Section 122 of the Sales Tax Act 1991",
+    "Section 12 of the Sales Tax Act 1991"
+  ],
   "citations": [
     "2012 SCMR 1860"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. ENl Pakistan Limited",
+    "Customs Sales Tax & Central Excise Appellate Tribunal",
+    "Paramount Spinning Mills Limited",
+    "Bawany Metals Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

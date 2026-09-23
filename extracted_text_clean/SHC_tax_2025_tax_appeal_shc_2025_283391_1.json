@@ -6,15 +6,24 @@
   "year": "2025",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitutional Petition No. D",
+  "case_number": "",
   "date_of_order": "29.09.2025",
-  "judge": "JUDGE Nadeem Qureshi PA",
+  "judge": "Nadeem Qureshi",
   "sections_cited": [
     "section 32 of the Customs Act",
     "section 181 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Collector of Customs (Adjudication)",
+    "Petitioner",
+    "Department",
+    "Petitioner",
+    "Nazir of this Court",
+    "Collector of Customs (Adjudication)",
+    "Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

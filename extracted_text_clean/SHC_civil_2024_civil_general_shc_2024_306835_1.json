@@ -8,13 +8,19 @@
   "num_chunks": 8,
   "case_number": "Constitutional Petition No.D-318 of 2025",
   "date_of_order": "26.02.2026",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Amjad Ali Bohio",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2024 SCMR 510",
     "2026 SCMR 92"
   ],
-  "parties": [],
+  "parties": [
+    "Sajjad Ali and others",
+    "Province of Sindh and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

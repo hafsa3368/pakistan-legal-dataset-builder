@@ -9,9 +9,16 @@
   "case_number": "",
   "date_of_order": "03.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Amjad Hayat, advocate for the petitioner",
+    "Mr. Kashif Nazir, Assistant Attorney General",
+    "Sardar Zafar Hussain advocate",
+    "respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -15,7 +15,11 @@
   "citations": [
     "2019 SCMR 1626"
   ],
-  "parties": [],
+  "parties": [
+    "petitioner",
+    "applicant",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

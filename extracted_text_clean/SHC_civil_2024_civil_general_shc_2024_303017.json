@@ -9,9 +9,20 @@
   "case_number": "",
   "date_of_order": "14.01.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Financial Institutions - (Recovery of Finances), Ordinance, 2001"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Aijaz Hussain Shirazi",
+    "Mr. Muhammad Salim",
+    "Mr. Muhammad Yahya Zia",
+    "Mr. Muhammad Arshad Qaiser",
+    "Mrs. Nilofer Haroon Bari",
+    "Muhammad Naqi Bari",
+    "Mrs. Nilofar Naqi Bari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,22 @@
   "case_number": "Constitution Petition No. D-4826 of 2025",
   "date_of_order": "31.03.2026",
   "judge": "Muhammad Saleem Jessar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Sindh Registration Rules, 1940",
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Saleem Jessar",
+    "Mr. Justice Nisar Ahmed Bhanbhro",
+    "Waheed Ali",
+    "M/s Hakim Ali, Shaikh, Addl. AG",
+    "Sagheer Ahmed Abbasi Asstt. AG",
+    "Boar of Revenue, Government of Sindh",
+    "Sindh Public Service Commission",
+    "Inspector General of Registration, Sindh Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

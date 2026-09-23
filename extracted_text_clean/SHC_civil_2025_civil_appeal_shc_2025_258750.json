@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "25.04.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "Muhammad Iqbal Kalhoro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aisha and others",
+    "Standard Chartered Bank (Pakistan) Ltd. & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

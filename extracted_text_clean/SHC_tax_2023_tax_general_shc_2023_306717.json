@@ -8,14 +8,17 @@
   "num_chunks": 2,
   "case_number": "Civil petition No.775-k/2003",
   "date_of_order": "03.03.2026",
-  "judge": "JUDGE Asif",
+  "judge": "",
   "sections_cited": [
     "Section 16, 17, 25, 25A, 32, 32 & 79 of the Customs Act",
     "section 79 of the Customs Act",
     "section 196 of the Customs Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shah Nawaz M. Saheto",
+    "The applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
