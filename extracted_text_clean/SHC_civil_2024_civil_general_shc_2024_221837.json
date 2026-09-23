@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-1194 of 2023",
   "date_of_order": "31.10.2024",
-  "judge": "JUDGE Ali Haider",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "aggrieved party",
+    "Petitioner",
+    "appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

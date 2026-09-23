@@ -6,12 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "",
+  "case_number": "H.C.A. No.61 of 2024",
   "date_of_order": "14.05.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Order VI Rule 16 CPC",
+    "Sindh Chief Court Rules (OS) 59"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Rehan Kayani, Ahmed Masood and Muhammad Altaf",
+    "appellant Furqan Ahmed Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

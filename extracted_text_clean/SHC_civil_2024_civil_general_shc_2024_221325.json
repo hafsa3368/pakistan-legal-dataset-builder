@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "H.C.A. No.302 of 2024",
   "date_of_order": "22.10.2024",
   "judge": "Asif",
   "sections_cited": [
@@ -15,7 +15,12 @@
   "citations": [
     "2020 SCMR 2101"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Nadeem Khan",
+    "Mrs. Nilofer Islam Nabi",
+    "Ashraf Ali Khan",
+    "Muhammad Anis Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitution Petition No. S",
+  "case_number": "",
   "date_of_order": "19.03.2025",
   "judge": "Muhammad Jaffer Raza Constitution Petition",
   "sections_cited": [
@@ -23,7 +23,13 @@
     "1999 MLD 3011",
     "2006 CLC 1853"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Shahid",
+    "Zaheer Ahmed",
+    "Shakeel Ahmed",
+    "Rizwan Hyder",
+    "Naveed Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

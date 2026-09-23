@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-970 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "10.01.2024",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Tarique Maitlo",
+    "Mr. Faiz Muhammad Shar",
+    "Mr. Zulfiqar Ali Naich",
+    "the petitioner",
+    "the respondents",
+    "the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

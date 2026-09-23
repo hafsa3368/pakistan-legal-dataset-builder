@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-208 of 2024",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "06.08.2024",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mian Mumtaz Rabbani",
+    "Mr. Parmanand",
+    "Mr. Ahmed Ali Shahani",
+    "Asif Kalwar",
+    "Salehpat",
+    "Respondent No.4",
+    "Respondent No.5",
+    "Respondent No.2",
+    "Deputy Commissioner, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

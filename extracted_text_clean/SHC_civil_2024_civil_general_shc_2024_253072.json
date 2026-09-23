@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Crl. Misc. Application No.S-558 of 2024",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "13-03-2025",
+  "judge": "ALI HAIDAR “Ada”",
   "sections_cited": [
     "Section 489-F PPC",
     "section 489-F PPC"
@@ -16,7 +16,13 @@
   "citations": [
     "2017 YLR 1548"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Siddiqu Kandhro",
+    "The State & others",
+    "Mr. Manzoor Hussain Mahesar",
+    "Mr. Athar Hussain Abro",
+    "Syed Sardar Ali Shah Rizvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

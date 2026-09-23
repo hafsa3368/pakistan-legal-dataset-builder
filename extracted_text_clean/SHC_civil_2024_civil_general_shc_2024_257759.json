@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-355 of 2024",
-  "date_of_order": "",
-  "judge": "JUDGE Suleman Khan/PA",
+  "date_of_order": "08.05.2024",
+  "judge": "Suleman Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sikander Ali Shah",
+    "Mr. Agha Ather Hussain Pathan",
+    "Mr. Gulzar Ahmed Malano",
+    "Mr. Amjad Hussain Leghari",
+    "Mr. Sikander Sadar Siddiqui",
+    "Syed Sikander Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

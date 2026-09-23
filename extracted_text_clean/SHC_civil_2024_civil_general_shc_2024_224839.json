@@ -9,7 +9,10 @@
   "case_number": "Civil Petitions No.3472",
   "date_of_order": "16.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "1993 SCMR 2350",
     "2022 SCMR 92",
@@ -19,7 +22,22 @@
     "PLD 2016 Sindh 168",
     "PLD 2019 Sindh 516"
   ],
-  "parties": [],
+  "parties": [
+    "Ijaz Ahmed",
+    "Ali Almani",
+    "Ovais Ali Shah",
+    "Sami ur Rehman",
+    "Ghulam Mustafa Kolachi",
+    "Ms. Sara Malkani",
+    "Assistant Attorney General",
+    "Mr. Muhammad Kamran Khan",
+    "Assistant Advocate General Sindh",
+    "Malik Naeem Iqbal",
+    "Shahid Ali Qureshi",
+    "Rana Sakhawat Ali",
+    "Summiya Kalwar",
+    "Fahad Hussain Arijo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

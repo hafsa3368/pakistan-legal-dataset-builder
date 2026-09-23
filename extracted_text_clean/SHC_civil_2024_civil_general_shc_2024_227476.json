@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-271 of 2023",
   "date_of_order": "24.10.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondents",
+    "Assistant Attorney General",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

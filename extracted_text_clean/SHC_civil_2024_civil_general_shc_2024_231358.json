@@ -6,12 +6,16 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Crl. Reuiston Appt. No.I",
+  "case_number": "",
   "date_of_order": "",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Crl. Reuiston Appt. No.I–212022"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Sardar Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

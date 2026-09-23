@@ -6,8 +6,8 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Crl. Misc. Application No. S",
-  "date_of_order": "",
+  "case_number": "",
+  "date_of_order": "13-05-2024",
   "judge": "Karim Memon",
   "sections_cited": [
     "section 22-A",
@@ -15,7 +15,11 @@
     "section 324, 506/2 & 504 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Shahzad Ali Shah",
+    "The State & others",
+    "Syed Rehan Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

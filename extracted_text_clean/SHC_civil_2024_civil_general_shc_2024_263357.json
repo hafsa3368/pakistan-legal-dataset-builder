@@ -8,12 +8,20 @@
   "num_chunks": 3,
   "case_number": "Criminal Miscellaneous Application No.S-808 of 2024",
   "date_of_order": "26.03.2025",
-  "judge": "",
+  "judge": "Syed Fiaz ul Hassan Shah",
   "sections_cited": [
     "Sections 302, 109"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Aslam",
+    "DIG Hyderabad",
+    "Faizan Rajpoot",
+    "Zubair Qureshi",
+    "Waqar Qureshi",
+    "Ateeq Qureshi",
+    "Mrs. Rashida Parveen @ Hina"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,7 +9,9 @@
   "case_number": "",
   "date_of_order": "14.05.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [
     "2021 SCMR 425",
     "2010 SCMR 105",
@@ -17,7 +19,10 @@
     "2011 SCMR 1990",
     "2001 SCMR 574"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Iqbal Hussain Shah Gillani vs. PBC & Others",
+    "Muhammad Fiaz Khan vs. Ajmer Khan & Another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

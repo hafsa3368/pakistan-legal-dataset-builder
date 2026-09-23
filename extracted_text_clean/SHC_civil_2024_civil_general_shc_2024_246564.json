@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-766 of 2024",
-  "date_of_order": "",
+  "date_of_order": "11.12.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Zaffar Ali Shah",
+    "Mr. Khalil Ahmed Maitlo",
+    "Naushahro Feroze",
+    "applicant",
+    "respondent No.5",
+    "complainant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

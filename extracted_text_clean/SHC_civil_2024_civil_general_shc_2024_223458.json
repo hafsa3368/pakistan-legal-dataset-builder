@@ -6,12 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
-  "date_of_order": "",
+  "case_number": "C.P.Nos.D-1920",
+  "date_of_order": "17-12-2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "KF Food Complex (Pvt.) Limited.",
+    "MIK Industries (Pvt.) Limited.",
+    "Inqlab Enterprises (Pvt.) Limited.",
+    "Salam Food Industries (Pvt.) Limited.",
+    "Margina Tea (Pvt.) Limited.",
+    "ZRM Foods (Pvt.) Limited.",
+    "Federation of Pakistan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

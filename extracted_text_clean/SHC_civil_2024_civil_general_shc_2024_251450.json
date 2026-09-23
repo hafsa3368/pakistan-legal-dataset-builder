@@ -8,7 +8,7 @@
   "num_chunks": 12,
   "case_number": "Constitution Petition No. S-133 of 2025",
   "date_of_order": "18.01.2025",
-  "judge": "",
+  "judge": "Muhammad Jaffer Raza",
   "sections_cited": [
     "Section 15 of the Sindh Rented Premises Ordinance",
     "Section 15",
@@ -33,7 +33,12 @@
     "2023 CLC 1279",
     "1980 SCMR 983"
   ],
-  "parties": [],
+  "parties": [
+    "Shahzad Mehmood",
+    "Rehman Aziz Malik",
+    "Ahmed Khan Khaskheli",
+    "Yasir Ahmed Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

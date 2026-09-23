@@ -7,13 +7,36 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "23-05-2024",
   "judge": "Karim Memon",
   "sections_cited": [],
   "citations": [
     "2015 SCMR 74"
   ],
-  "parties": [],
+  "parties": [
+    "Naseem Fatima",
+    "P.O Sindh and ors",
+    "Shoaib Ahmed Mangi",
+    "P.O Sindh and ors",
+    "Talib Hussain Sahito",
+    "P.O Sindh and ors",
+    "Shahzado Ali Channa and ors",
+    "P.O Sindh and ors",
+    "Rasheed Ahmed Kandhro",
+    "P.O Sindh and ors",
+    "Shahzado Bhutto",
+    "P.O Sindh and ors",
+    "Rafiqullah Larik",
+    "P.O Sindh and ors",
+    "Ghulam Sarwar Zardari",
+    "P.O Sindh and ors",
+    "Javed Hussain Shar and ors",
+    "P.O Sindh and ors",
+    "Fateh Muhammad Lashari",
+    "P.O Sindh and ors",
+    "Mujeeb Rehman Ansari",
+    "P.O Sindh and ors"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

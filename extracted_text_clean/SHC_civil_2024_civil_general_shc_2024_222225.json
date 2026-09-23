@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 28,
-  "case_number": "constitutional B. Set aside the Impugned Notices",
+  "case_number": "",
   "date_of_order": "25.07.2024",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman",
   "sections_cited": [
     "Section 151 of the Code",
     "Section 25-5",
@@ -33,7 +33,21 @@
     "PLD 2014 Peshawar 218",
     "PLD 2016 Sindh 445"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Arshad and Others",
+    "Federation of Pakistan & Others",
+    "Pakistan Employees Cooperative Housing Society Limited",
+    "Muhammad Jibran Nasir",
+    "Faisal Siddiqui",
+    "Khurram Ghayas",
+    "Dhani Bux Lashari",
+    "Mr. Saad Fayyaz",
+    "Muhammad Ad",
+    "Province of Sindh and others",
+    "Ms. Ambreen Bashir",
+    "Ms. Rizwana Ismail",
+    "Ms. Rabia Khalid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,30 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 7,
-  "case_number": "",
+  "case_number": "CP. No. D-5747 of 2024",
   "date_of_order": "22.01.2025",
   "judge": "Muhammad Karim Khan Agha Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Sindh Police Training Medical Policy/2024",
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bashir Ahmed Khan and another",
+    "Province of Sindh & others",
+    "Faisal Saleem & others",
+    "Province of Sindh & others",
+    "Mr. Justice Muhammad Karim Khan Agha",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Zakir Hussain Bughhio",
+    "Mr. Hakim Ali Shaikh",
+    "Hyder Raza",
+    "Sikandar Ali",
+    "DIG Training/Respondent No.3",
+    "SHPTC",
+    "SSP/Principal Shahid Hayat Police Training College Saeedabad Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1375 of 2019",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "06.03.2024",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khan Muhammad Sangi",
+    "Jamiat Mal",
+    "Public Health Engineering Sub-Division-II, Ghotki",
+    "Assistant Engineer, Public Health Engineering Sub-Division-II, Ghotki"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

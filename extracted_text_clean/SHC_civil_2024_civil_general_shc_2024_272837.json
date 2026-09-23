@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. NO.S-1145 OF 2023",
   "date_of_order": "05.06.2025",
   "judge": "MUSHARRAF ALI",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Order IX rule 13, CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arif Awan",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

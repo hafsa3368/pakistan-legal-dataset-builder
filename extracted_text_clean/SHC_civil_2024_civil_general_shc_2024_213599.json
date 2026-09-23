@@ -8,10 +8,26 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "25.04.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Wazir Ali Mahar",
+    "Mr. Zulfiqar Ali Jatoi",
+    "Mr. Agha Athar Hussain Pathan",
+    "Mr. Azhar Ahmed Khan",
+    "petitioner No.1",
+    "respondent No.1",
+    "respondent No.2",
+    "respondent No.3",
+    "respondent No.4",
+    "respondent No.5",
+    "respondent No.6",
+    "Sub-Inspector Muhammad Kareem",
+    "Police Station Berot Hub"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

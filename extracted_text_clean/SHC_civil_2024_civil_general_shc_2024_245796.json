@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "Criminal Revision Application No. 200 of 2024",
   "date_of_order": "17.02.2025",
-  "judge": "",
+  "judge": "ALI HAIDER ‘ADA’-J;-",
   "sections_cited": [
     "Section 227 Cr.P.C",
     "Section 354, 506, 427, 337-A",
@@ -22,7 +22,12 @@
     "Sections 221 and 222"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Fateh Muhammad",
+    "Mr. Zahoor Ahmed",
+    "Mr. Muhammad Iqbal Meo",
+    "Fateh Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,15 @@
   "num_chunks": 2,
   "case_number": "Criminal Misc. Application No. S-428 of 2023",
   "date_of_order": "06.09.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Naeem Uddin Sahito",
+    "Mr. Siraj Ahmed Bijarani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,24 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P No.D-55 of 2025",
   "date_of_order": "30.01.2025",
   "judge": "Zulfiqar Ali Sangi Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2015 SCMR 456"
   ],
-  "parties": [],
+  "parties": [
+    "Wasiullah Bhatti",
+    "Federation of Pakistan and others",
+    "Muhammad Rashid Bhatti",
+    "Federation of Pakistan and others",
+    "Mr. Ishrat Ali Lohar",
+    "Mr. Ghulam Sarwar Baloch",
+    "Muhammad Nouman Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

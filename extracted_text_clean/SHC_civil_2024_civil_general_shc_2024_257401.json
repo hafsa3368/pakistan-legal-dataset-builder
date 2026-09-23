@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-78 of 2024",
   "date_of_order": "02.02.2024",
-  "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "judge": "Sulemen Khan",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Agha Ather Hussain Pathan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

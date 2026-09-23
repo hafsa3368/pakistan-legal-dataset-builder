@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-456 of 2024",
   "date_of_order": "01.11.2024",
-  "judge": "JUDGE Tahseen",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Khadija Kulsoom",
+    "Mr. Abdul Samad Khan",
+    "Mr. Muhammad Qasim",
+    "NADRA",
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

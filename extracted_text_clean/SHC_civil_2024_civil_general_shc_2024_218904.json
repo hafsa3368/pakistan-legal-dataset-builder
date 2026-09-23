@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 9,
   "case_number": "Crl. Misc. Application No.S-472 of 2024",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "29-08-2024",
+  "judge": "Adnan-ul-Kareem Memon",
   "sections_cited": [
     "section 173",
     "sections 164-A and 164-B",
@@ -24,7 +24,13 @@
   "citations": [
     "1972 SCMR 335"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Yar",
+    "The State and Another",
+    "Mohan",
+    "Amrat",
+    "Amitab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

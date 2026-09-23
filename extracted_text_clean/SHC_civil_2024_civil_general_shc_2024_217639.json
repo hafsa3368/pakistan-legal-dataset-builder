@@ -8,13 +8,26 @@
   "num_chunks": 11,
   "case_number": "Civil Suit No.1608/2017",
   "date_of_order": "18.10.2005",
-  "judge": "",
+  "judge": "Muhammad Saleem Khan",
   "sections_cited": [
     "Section 15",
     "Section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Saleem Khan",
+    "Umair Ali",
+    "Muhammad Naeem",
+    "Shamshad Hussain",
+    "Sajid Shamshad",
+    "Muhammad Jamsheed",
+    "Muhammad Saleem",
+    "Syed Zafar Ali Tarymce",
+    "Zafar Ali Tarymce",
+    "Muhammad Jamsheed",
+    "Arif Ali",
+    "Umair Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

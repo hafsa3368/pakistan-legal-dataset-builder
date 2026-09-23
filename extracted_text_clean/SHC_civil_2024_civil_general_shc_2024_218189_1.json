@@ -6,12 +6,21 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.S-296 of 2024",
   "date_of_order": "15.08.2024",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Miss Parivish khan",
+    "Mr. Muhammad Yousuf Rahpoto",
+    "Assistant AG",
+    "PI Muhammad Changal",
+    "SSP Hyderabad",
+    "Learned AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-02 of 2024",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "30.01.2024",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Aftab Ahmed Shar",
+    "Agha Athar Pathan",
+    "SSP, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

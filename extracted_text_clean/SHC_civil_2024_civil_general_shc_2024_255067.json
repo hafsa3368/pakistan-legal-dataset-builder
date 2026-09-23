@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "C.P. No. S-1278 of 2024",
   "date_of_order": "22.04.2025",
   "judge": "Jamil",
   "sections_cited": [
@@ -14,7 +14,10 @@
     "Section 15"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Asghar Buriro, Advocate for the Petitioner",
+    "Mr. Zahiruddin, Advocate for the Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

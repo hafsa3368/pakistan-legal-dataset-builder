@@ -6,12 +6,21 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-179 of 2024",
   "date_of_order": "15.10.2024",
-  "judge": "JUDGE Ali Haider",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 494 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Yasir Ismail Khoso",
+    "Syed Shahzad Ali Shah",
+    "HMC",
+    "Mr. Muhammad Ismail Bhutto",
+    "Learned Counsel for Respondents-HMC",
+    "Learned Counsel for the Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,10 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 6,
-  "case_number": "Constitutional Petition No.D-",
+  "case_number": "",
   "date_of_order": "09.12.2024",
   "judge": "Muhammad Saleem Jessar",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 4",
+    "Article 9",
+    "Article 25",
+    "Article 27",
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2024 SCMR 1701",
     "2014 SCMR 157",

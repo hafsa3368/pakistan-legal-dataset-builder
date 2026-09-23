@@ -6,12 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Misc. Appln. No. S",
+  "case_number": "",
   "date_of_order": "07.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 22-A",
+    "U/s 22-A"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rukhsar Ahmed M. Junejo",
+    "Mr. Parmanand",
+    "Syed Sardar Ali Shah Rizvi",
+    "Riazat Ali Sahar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "CP No.S-915 of 2024",
   "date_of_order": "08.08.2024",
   "judge": "Jamil",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Safdar Depar",
+    "the Petitioner",
+    "the I.G. Police",
+    "the State",
+    "SIP Raheel",
+    "the SHO, P.S. Shahra-e-Faisal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

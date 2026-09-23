@@ -6,14 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Const. Petition No.D-",
+  "case_number": "",
   "date_of_order": "08.10.2024",
   "judge": "",
   "sections_cited": [
     "section 33"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Alam Sher Bozdar and Farman Ali Rajput, Advocates",
+    "Mr. Sawan Khan Jagirani, Advocate",
+    "Mr. Ahmed Ali Shahani, Assistant A.G.",
+    "Mehboob Ali, Legal Officer Pakistan Rangers (Sindh)",
+    "SIDA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

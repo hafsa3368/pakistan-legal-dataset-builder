@@ -6,14 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Crl. Misc. Application. No. S",
+  "case_number": "",
   "date_of_order": "12.01.2024",
   "judge": "Karim Memon",
   "sections_cited": [
     "section 491"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Deedar Ali Khoso",
+    "The State",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

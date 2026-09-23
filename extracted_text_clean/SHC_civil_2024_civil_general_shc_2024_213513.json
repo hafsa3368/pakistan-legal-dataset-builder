@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "C.P. No.D-5851 of 2023",
   "date_of_order": "26th April 2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Agha Shahid Majeed Khan",
+    "Mr. Khaleeq Ahmed",
+    "Mr. Muhammad Anas Makhdoom",
+    "Gul Ahmed Energy Limited Employees Provident Fund Trust",
+    "Gul Ahmed Energy Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

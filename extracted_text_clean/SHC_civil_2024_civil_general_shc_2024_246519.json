@@ -8,14 +8,19 @@
   "num_chunks": 2,
   "case_number": "Constitutional Petition No.D-6398 of 2024",
   "date_of_order": "21.02.2025",
-  "judge": "JUDGE Tahseen/PA",
+  "judge": "",
   "sections_cited": [
     "Section 365-B PPC",
     "Section 164",
     "Section 173"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Maqbool-ur-Rehman, Advocate for the Petitioner",
+    "M/s. Hakim Ali Shaikh and Sagheer Ahmed Abbasi, Additional Advocates General Sindh",
+    "Mr. Ali Hyder Saleem, Additional Prosecutor General Sindh",
+    "SIO/Inspector Abrar Shah, SIP Yousuf Naimat and SIP Imam Bukhsh, all of P.S. Ibrahim Hyderi and DSP Raza Mian, Legal Branch, I.G. Office"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

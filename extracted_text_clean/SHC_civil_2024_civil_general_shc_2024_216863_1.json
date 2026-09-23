@@ -9,9 +9,19 @@
   "case_number": "Constitutional Petition No.D-721 of 2024",
   "date_of_order": "25.06.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioners",
+    "Administrator Market Committee Mirpurkhas",
+    "Mr. Karamullah Memon",
+    "Mr. Moharram Abro",
+    "Mr. Ayaz Ali Rajpar",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

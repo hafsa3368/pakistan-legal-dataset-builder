@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "H.C.A. No.144 of 2024",
   "date_of_order": "08.04.2024",
-  "judge": "JUDGE Asif",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Moosa & another",
+    "Muhammad Asif Kasbati & another",
+    "Mr. Abbadul Hussnain",
+    "Mr. Ahmed Masood",
+    "Mr. Muhammad Altaf"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

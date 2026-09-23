@@ -6,12 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P.No.D-4748 of 2023",
   "date_of_order": "16.01.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s.Rana Azam-ul-Hassan & Muhammad Khalid Naseem, Advocates",
+    "Mr.Salman Yousuf, Advocate",
+    "Mr.Abid H. Shaban, Advocates",
+    "Mr.Imtiaz Ali",
+    "Ms.Naveeda Basharat, Advocates",
+    "Mr.Adnan Ahmed, Advocate",
+    "Ms.Sara Malkani, Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

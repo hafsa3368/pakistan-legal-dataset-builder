@@ -6,12 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-6712 of 2022",
   "date_of_order": "08.08.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Medzntech (Private) Limited",
+    "Federation of Pakistan",
+    "Mr. Saddam Hussain",
+    "Mr. Shahab Imam",
+    "Mr. Khaleeq Ahmed",
+    "Mr. Faheem Raza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

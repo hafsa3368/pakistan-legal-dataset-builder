@@ -6,15 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "constitute a C. P. No. D",
+  "case_number": "",
   "date_of_order": "02.10.2024",
-  "judge": "",
+  "judge": "Zulfiqar Ahmad Khan",
   "sections_cited": [
     "Section 13",
     "Section 8"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Faheem Ahmed Maitlo",
+    "P.O. Sindh",
+    "Sindh Public Service Commission (SPSC)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

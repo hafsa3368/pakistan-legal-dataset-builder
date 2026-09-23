@@ -8,13 +8,15 @@
   "num_chunks": 1,
   "case_number": "Civil Transfer Application No. 21 of 2025",
   "date_of_order": "21.03.2025",
-  "judge": "",
+  "judge": "Nadeem Qureshi",
   "sections_cited": [
     "Section 24 CPC",
     "Section 25-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Azam, Advocate for the Applicant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

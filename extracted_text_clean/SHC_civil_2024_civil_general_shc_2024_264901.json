@@ -9,7 +9,10 @@
   "case_number": "",
   "date_of_order": "14.05.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2021 SCMR 425",
     "2010 SCMR 105",
@@ -17,7 +20,9 @@
     "2011 SCMR 1990",
     "2001 SCMR 574"
   ],
-  "parties": [],
+  "parties": [
+    "[Petitioner/Applicant/Appellant]: Ms. Fariyal Ishaque and Mr. S.K. Lodhi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,23 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitution and subsequent pronouncements",
+  "case_number": "",
   "date_of_order": "27.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Sui Southern Gas Company Ltd. vs. Federation of Pakistan reported as 2018 SCMR 802"
+  ],
   "citations": [
     "2018 SCMR 802"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ovais Ali Shah",
+    "Messrs. Javed Ali Sangi and Anas Habib",
+    "Mr. Irtafa-ur-Rehman",
+    "Ms. Alizeh Bashir",
+    "Mr. Kailash A. Vaswani",
+    "Additional Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

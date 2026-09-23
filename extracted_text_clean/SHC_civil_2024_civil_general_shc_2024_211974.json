@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 28,
-  "case_number": "constitutional jurisdiction cannot",
+  "case_number": "C.P. No. D-1708 of 2023",
   "date_of_order": "21.02.2024",
-  "judge": "",
+  "judge": "Amjad Ali Sahito",
   "sections_cited": [
     "section 151 CPC"
   ],
@@ -19,7 +19,35 @@
     "2015 SCMR 112",
     "2011 SCMR 1198"
   ],
-  "parties": [],
+  "parties": [
+    "Zahid Hussain & 15 others",
+    "Malak Muneer & 15 others",
+    "Province of Sindh & others",
+    "Sadam Hussain",
+    "Mst. Humaira Abro",
+    "Islamuddin",
+    "Farzal Ali Khan",
+    "Nabi Dad Shar",
+    "Sallahuddin",
+    "Habibullah",
+    "Huma Farooque",
+    "Arshad Hussain",
+    "Muhammad Qasim",
+    "Biveragh Mehmood",
+    "Zahid Hussain",
+    "Ashfaque Ahmed",
+    "Mr. Sajjad Ahmed Chandio",
+    "Mr. Muhammad Arshad A. Pathan",
+    "M/s. Mr. Allah Bachayo Soomro",
+    "Muhammad Ismail Bhutto",
+    "Abdul Hafeez Laghari",
+    "Syed Shafi Muhammad Shah",
+    "Mashooque Ali Gopang",
+    "Malik Naeem Iqbal",
+    "Malik Altaf Hussain",
+    "Barrister Faizan Hussain Memon",
+    "Mr. Asif Ali Talpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,12 +6,23 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "C.P No.D-1720 of 2024",
   "date_of_order": "14.05.2025",
-  "judge": "JUDGE Sajjad Ali Jessar",
+  "judge": "Arbab Ali Hakro Justice Riazat",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Province of Sindh & Others",
+    "Imtiaz Ali & Others",
+    "Waqar Khan & Ors",
+    "Muhammad Haris vs. Province of Sindh & Others",
+    "Imran Khan vs. Province of Sindh & Others",
+    "M/s Nazeer Hussain, Kanji Mal Meghwar and Mir Muhammad Nohri",
+    "Mr. Muhammad Sharif Solangi",
+    "Justice Arbab Ali Hakro",
+    "Justice Riazat Ali Sahar",
+    "Deputy Commissioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

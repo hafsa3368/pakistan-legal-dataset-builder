@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Constitutional Petitions bearing No.S-532",
+  "case_number": "C.P. No.S-58 of 2025",
   "date_of_order": "06.02.2025",
   "judge": "Ali Haider",
   "sections_cited": [
@@ -14,7 +14,12 @@
     "Section 14 of the Evacuee Trust Property Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Evacuee Trust Board",
+    "Muhammad Zakaria Baloch",
+    "Respondent No.3",
+    "learned AAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

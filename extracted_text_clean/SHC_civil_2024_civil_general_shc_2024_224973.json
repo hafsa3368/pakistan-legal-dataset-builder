@@ -9,9 +9,24 @@
   "case_number": "Civil Petition No.3390 of 2021",
   "date_of_order": "20.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "General Post Office Islamabad vs. Muhammad Jalal (Civil Petition No.3390 of 2021)",
+    "General Post Office Islamabad",
+    "Muhammad Jalal",
+    "Mr. Usman Farooq",
+    "Mr. K.A. Vaswani",
+    "Sindh",
+    "General Post Office",
+    "Muhammad Jalal",
+    "Sindh",
+    "Government",
+    "Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

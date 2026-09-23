@@ -8,8 +8,10 @@
   "num_chunks": 9,
   "case_number": "Constitutional Petition No. D-5828 of 2020",
   "date_of_order": "16.12.2024",
-  "judge": "JUDGE Shafi",
-  "sections_cited": [],
+  "judge": "Muhammad Karim Khan Agha",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [
     "2006 SCMR 178",
     "2013 SCMR 1707",
@@ -27,7 +29,15 @@
     "1972 SCMR 1",
     "2013 CLC 507"
   ],
-  "parties": [],
+  "parties": [
+    "Shiraz Mazhar",
+    "Defence Housing Authority",
+    "Mr. Umair Usman",
+    "Mr. Rashid Mahar",
+    "Mr. Talha Abbasi",
+    "Mr. Ahmed Ali Hussain",
+    "Mr. Noor Muhammad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

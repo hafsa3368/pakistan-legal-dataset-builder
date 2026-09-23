@@ -6,16 +6,26 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "",
+  "case_number": "MA No.27669/2024",
   "date_of_order": "13.12.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2016 CLC 1",
     "2011 SCMR 1990",
     "2001 SCMR 574"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Ahad Khan",
+    "KARACHI METROPOLITAN CORPORATION ENTERPRISE & INVESTMENT PROMOΤΙον",
+    "Deputy Commissioner",
+    "Senior Superintendent of Police District Korangi",
+    "Shahid Hussain",
+    "Muhammad Hammad Shahid"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

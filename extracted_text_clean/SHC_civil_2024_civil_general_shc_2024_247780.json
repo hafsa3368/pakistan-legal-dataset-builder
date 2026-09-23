@@ -8,12 +8,21 @@
   "num_chunks": 1,
   "case_number": "Criminal Miscellaneous Application No.S-216 of 2024",
   "date_of_order": "12.02.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Section 493 CrPC"
+  ],
   "citations": [
     "2024 SCMR 985"
   ],
-  "parties": [],
+  "parties": [
+    "Ms. Safa Hisbani",
+    "the applicant",
+    "the respondents",
+    "the respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

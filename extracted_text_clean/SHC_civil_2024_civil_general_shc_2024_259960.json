@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 4,
-  "case_number": "",
+  "case_number": "MA No.306/2025",
   "date_of_order": "29.04.2025",
   "judge": "",
   "sections_cited": [
@@ -21,7 +21,21 @@
     "2010 SCMR 105",
     "PLD 2019 Sindh 168"
   ],
-  "parties": [],
+  "parties": [
+    "Pakistan Army",
+    "Adjutant General",
+    "Judge Advocate General",
+    "Military Secretary GHQ",
+    "Chairman Joint Chiefs",
+    "Army Chief",
+    "Naval Chief",
+    "Air Chief",
+    "DG Law Airforce",
+    "DG Law Navy",
+    "DG Counter Intelligence",
+    "DG ISI",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

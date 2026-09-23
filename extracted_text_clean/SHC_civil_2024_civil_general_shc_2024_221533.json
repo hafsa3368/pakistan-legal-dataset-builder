@@ -6,14 +6,23 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No. 13924/2024",
   "date_of_order": "02.10.2024",
-  "judge": "Amjad PS",
+  "judge": "",
   "sections_cited": [
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Mehmood Ali",
+    "Arbaz Yar Khan",
+    "Mr. Atif Chaudhry",
+    "Mr. Abdul Qayyum Abbasi",
+    "Imran Hameed",
+    "Noor Nimar Majid",
+    "Noor Mustafa Brohi",
+    "Syed Mustafa Rizvi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

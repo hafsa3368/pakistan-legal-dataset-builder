@@ -6,12 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P No.D-1370 of 2024",
   "date_of_order": "30.04.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rao Faisal",
+    "Mr. Santosh Kumar",
+    "Mr. Muhammad Sharif Solangi",
+    "assistant A.G Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

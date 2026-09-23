@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Criminal Misc. Application Nos",
+  "case_number": "Criminal Misc. Application Nos. 736",
   "date_of_order": "13.05.2025",
-  "judge": "",
+  "judge": "Khalid Hussain Shahani",
   "sections_cited": [
     "Section 561-A Cr.P.C",
     "Section 22-A/B",
@@ -20,7 +20,12 @@
   "citations": [
     "PLD 2016 SC 581"
   ],
-  "parties": [],
+  "parties": [
+    "Shoukat Ali",
+    "Ashraf",
+    "Ayaz Ali",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

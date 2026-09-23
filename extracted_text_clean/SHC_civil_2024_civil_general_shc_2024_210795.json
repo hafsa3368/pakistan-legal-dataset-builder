@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1063 of 2022",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "22.02.2024",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Sattar Mahessar",
+    "Mr. Niaz Hussain Maitlo",
+    "Mr. Liaquat Ali Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

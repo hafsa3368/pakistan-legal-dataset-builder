@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 11,
-  "case_number": "Constitution Petition No. S",
+  "case_number": "",
   "date_of_order": "17.03.2025",
   "judge": "Muhammad Jaffer Raza Constitution Petition",
   "sections_cited": [
@@ -27,7 +27,19 @@
     "2006 CLC 1853",
     "2012 SCMR 1679"
   ],
-  "parties": [],
+  "parties": [
+    "Mrs. Rehana Khatoon",
+    "M/s Deisol The School",
+    "M/s Deisol The School",
+    "Mrs. Rehana Khatoon",
+    "others",
+    "Mrs. Rehana Khatoon",
+    "others",
+    "Ms. Sidra Tabassum",
+    "Mr. Moiz Ahmed",
+    "Mr. Mayhar Kazi",
+    "Mr. Zahid Ali Sahito"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

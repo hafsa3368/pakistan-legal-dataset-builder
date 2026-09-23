@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-421 of 2024",
-  "date_of_order": "",
+  "date_of_order": "29.07.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Atta Hussain Chandio",
+    "Mr. Saeed Jamal Lund",
+    "Mr. Muhammad Raza Burdi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

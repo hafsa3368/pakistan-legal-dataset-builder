@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1642 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Sulemen Khan/PA",
-  "sections_cited": [],
+  "date_of_order": "05.03.2024",
+  "judge": "Sulemen Khan",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kashif Hussain Shaikh",
+    "Mr. Agha Ather Hussain Pathan",
+    "Abid Hussain",
+    "PS Dadloi",
+    "ASI / I.O"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,15 +6,23 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "HCA No.189 of 2024",
+  "date_of_order": "29.05.2024",
+  "judge": "Muhammad Shafi Siddiqui",
   "sections_cited": [],
   "citations": [
     "1993 SCMR 1949",
     "2016 MLD 1037"
   ],
-  "parties": [],
+  "parties": [
+    "Hafeezullah Abdul Rehman",
+    "Province of Sindh",
+    "Mr. Rajesh Kumar Khagija",
+    "Mr. Sandeep Kumar",
+    "Mr. Muhammad Humayon Khan",
+    "Mr. Arshad Hussain Lodhi",
+    "Mr. Abdul Jaleel Zebedi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

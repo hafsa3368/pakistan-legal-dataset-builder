@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-741 of 2019",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "08.05.2024",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Abdul Raheem Mahar and Abdul Salam Shaikh",
+    "Mr. Zulfiqar Ali Naich, Additional A.G a/w Ubedullah Phulpoto",
+    "Assistant Accounts Officer, DAO, Khairpur",
+    "Mutahir Ali Shah, XEN East Division, Khairpur",
+    "Assistant Accounts Officer, District Accounts Office, Khairpr"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

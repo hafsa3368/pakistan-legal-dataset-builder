@@ -8,10 +8,21 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "12.03.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Iqbal Kalhoro",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Ghulam Sughran",
+    "Province of Sindh",
+    "Mr. Muhammad Iqbal Kalhoro",
+    "Mr. Arbab Ali Hakro",
+    "Mr. Mudasir Sadar Siddiqui",
+    "Mr. Shahryar Imdad Awan",
+    "Hazoor Bux Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

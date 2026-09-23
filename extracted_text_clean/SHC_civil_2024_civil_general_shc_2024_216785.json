@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 22,
-  "case_number": "Constt. Petition No.D-",
+  "case_number": "",
   "date_of_order": "21.05.2024",
-  "judge": "",
+  "judge": "Aqueel Ahmed Abbasi",
   "sections_cited": [
     "section 26 of the Sindh Civil Servants Act",
     "section 5 of Sindh Civil Servants Act"
@@ -17,7 +17,14 @@
     "1995 SCMR 362",
     "PLD 1995 SC 423"
   ],
-  "parties": [],
+  "parties": [
+    "Mehboob Ali Channa",
+    "Aamir Ali",
+    "Suhail Muhammad Leghari",
+    "Province of Sindh",
+    "Sindh High Court",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Crl.Misc.Appln.No. S",
+  "case_number": "",
   "date_of_order": "28.02.2024",
   "judge": "",
   "sections_cited": [
     "Section 22-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rashid Ali",
+    "The State",
+    "Mirpur Mathelo",
+    "Abdul Sattar A. Thaheem",
+    "Sardar Ali Shah DPG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

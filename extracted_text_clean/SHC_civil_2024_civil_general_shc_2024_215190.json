@@ -6,10 +6,12 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "Constitution mandates that no court",
+  "case_number": "",
   "date_of_order": "21.05.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 6 of the Roster set by the honorable Chief Justice"
+  ],
   "citations": [
     "2018 SCMR 1607",
     "2016 CLC 1",
@@ -20,7 +22,12 @@
     "PLD 1995 SC 423",
     "PLD 1963 SC 296"
   ],
-  "parties": [],
+  "parties": [
+    "Mehboob Ali Channa",
+    "District & Sessions Judge, Larkana & Others",
+    "Aamir Ali Khoso",
+    "District & Sessions Judge, Larkana & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

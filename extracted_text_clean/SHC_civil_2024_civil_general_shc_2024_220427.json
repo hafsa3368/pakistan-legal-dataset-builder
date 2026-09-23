@@ -8,10 +8,24 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-938 of 2022",
   "date_of_order": "24.10.2024",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Ahmed Ali Shahani",
+    "Naeemullah Mallah",
+    "XEN West Division Irrigaton, Khaiprur",
+    "Ishrat Bhatti",
+    "AXEN Gambat",
+    "Mr. Mehfooz Ahmed Awan",
+    "SHO, P.S, Gambat",
+    "AAG’s office",
+    "P.S, Khuhra",
+    "XEN East Division Irrigaton, Khaiprur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

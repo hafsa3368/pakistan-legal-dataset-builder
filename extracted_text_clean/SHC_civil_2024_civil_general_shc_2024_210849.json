@@ -6,12 +6,16 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-3307 of 2022",
   "date_of_order": "13.02.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Shahid Nabi Malik",
+    "Mst. Mussarat Intekhab",
+    "Mr. Basil Nabi Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

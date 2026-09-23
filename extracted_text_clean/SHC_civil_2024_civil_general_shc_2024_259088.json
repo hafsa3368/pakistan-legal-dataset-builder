@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-2188 of 2017",
-  "date_of_order": "",
-  "judge": "JUDGE Sulemen Khan/PA",
+  "date_of_order": "20.02.2024",
+  "judge": "Sulemen Khan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Ali Shahani",
+    "Assistant Advocate General",
+    "Mr. Sawan Khan Jagirani",
+    "Respondent No.4",
+    "Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

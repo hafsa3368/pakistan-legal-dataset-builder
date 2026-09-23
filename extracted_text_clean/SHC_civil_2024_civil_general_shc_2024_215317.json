@@ -7,13 +7,23 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1837 of 2023",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "20.03.2024",
+  "judge": "",
   "sections_cited": [
     "section 249-A or 265-K CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Achar Khan Gabol",
+    "M/s Zulfiqar Ali Naich",
+    "Assistant A.G",
+    "Aftab Ahmed Shar",
+    "Additional P.G",
+    "Learned counsel for petitioner",
+    "Learned AAG",
+    "APG",
+    "State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "17.04.2025",
-  "judge": "JUDGE Irfan/PA",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Naveed Ahmed Shah",
+    "Mr. Khuda Bux Chohan",
+    "Mr. Ghulam Abbass Akhter"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

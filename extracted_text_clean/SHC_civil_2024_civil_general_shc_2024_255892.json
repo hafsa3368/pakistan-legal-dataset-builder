@@ -6,12 +6,21 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "constitutional jurisdiction cannot",
+  "case_number": "C.P. Nos. D-166",
   "date_of_order": "14.03.2025",
-  "judge": "JUDGE HANIF",
+  "judge": "MUHAMMAD IQBAL KALHORO,",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ramzan",
+    "Mr. Farman Ali Gopang",
+    "Syed Fazalur Rehman",
+    "Mr. Neha Makhdoom",
+    "Mr. Muhammad Ali Lakhani",
+    "M/s. Iftikhar Hussain and Zulfiqar Ali Mirjat",
+    "Mr. Muhammad Qasim Khan",
+    "Deputy Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

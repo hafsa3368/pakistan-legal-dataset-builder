@@ -8,8 +8,15 @@
   "num_chunks": 4,
   "case_number": "Civil Petitions No.3472",
   "date_of_order": "16.01.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Sandeep Malani",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "PLD 1989 SC 61",
+    "1993 SCMR 2350",
+    "AIR 1985 SC 330",
+    "order dated 29.02.2024",
+    "order dated 29.11.2024"
+  ],
   "citations": [
     "1993 SCMR 2350",
     "2022 SCMR 92",
@@ -19,7 +26,10 @@
     "PLD 2016 Sindh 168",
     "PLD 2019 Sindh 516"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Adil Saeed, advocate for petitioners",
+    "Ms. Summiya Kalwar, advocate for respondent/SRB"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

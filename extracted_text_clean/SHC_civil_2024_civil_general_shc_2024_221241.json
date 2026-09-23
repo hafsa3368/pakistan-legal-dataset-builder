@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No.6524/2024",
   "date_of_order": "16.10.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khursheed Javed",
+    "Mr. Umer Farooq (No.1 & 2)",
+    "Mr. Salman Ahmed Khan (No.3)",
+    "Mr. Rehman Ghani Khattak (No.8)",
+    "Mr. Irfan Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

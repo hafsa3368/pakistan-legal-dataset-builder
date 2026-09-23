@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "",
+  "case_number": "MA No. 10904 of 2024",
   "date_of_order": "22.07.2024",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 19",
     "sections 15 and 19",
@@ -16,7 +16,12 @@
     "section 15"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zahida Ashraf & others",
+    "the Bank of Punjab Ltd.",
+    "M/s. Asim Mansoor Khan and Zeeshan Bashir Khan",
+    "M/s. Waqar Ahmed and Behzad Haider"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

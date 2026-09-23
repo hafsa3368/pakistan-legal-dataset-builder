@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Misc. Application No.S-368 of 2024",
   "date_of_order": "19.05.2025",
-  "judge": "Irfan/PS",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "U/S 154 Cr.P.C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Achar Khan Gabol",
+    "Mr. Muhammad Nawaz Qazi",
+    "Mr. Muhammad Raza",
+    "Respondent No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

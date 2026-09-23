@@ -6,12 +6,22 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 8,
-  "case_number": "Constitution Petition No. D-",
+  "case_number": "",
   "date_of_order": "14.5.2024",
   "judge": "Muhammad Junaid Ghaffar Mr",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Hussain Ali Almani and Akbar Sohail",
+    "Sardar Zafar Hussain",
+    "Mr. Hubban",
+    "Nasir Ahmed",
+    "Mr. Kashif Nazeer",
+    "Mr. Asim Iqbal",
+    "Mr. Farmanullah",
+    "Azhar Ali Channa",
+    "Mr. Maqsoom-ul-Hakim"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,14 +6,32 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitution and subsequent pronouncements",
+  "case_number": "",
   "date_of_order": "25.04.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ghazi Khan Khalil",
+  "sections_cited": [
+    "Section 119 CCI",
+    "Section 153 Constitution"
+  ],
   "citations": [
     "2018 SCMR 802"
   ],
-  "parties": [],
+  "parties": [
+    "Messrs. Anwar Kashif Mumtaz, Usman Alam, Atta Muhammad Qureshi, Muhammad Aleem, Qazi Umair Ali",
+    "Messrs. Anas Habib, Abdul Basit",
+    "Dr. Shahnawaz Memon",
+    "Zakia",
+    "Ameer Bakhsh Metlo",
+    "Syed Jamal Bukhari",
+    "Shahryar Ahmed",
+    "Ms. Mehreen Ibrahim",
+    "Deputy Attorney General",
+    "Mr. Akbar Khan",
+    "Assistant Attorney General",
+    "Mr. Sandeep Malani",
+    "Assistant Advocate General Sindh",
+    "Barrister Ghazi Khan Khalil"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

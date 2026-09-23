@@ -8,10 +8,14 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1112 of 2024",
   "date_of_order": "05.06.2024",
-  "judge": "JUDGE Ahmad",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Qurban Ali Malano & Syed Naimat Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

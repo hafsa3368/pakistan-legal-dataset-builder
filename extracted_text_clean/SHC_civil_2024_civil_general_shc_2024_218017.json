@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-189 of 2019",
-  "date_of_order": "",
-  "judge": "JUDGE Ahmad",
+  "date_of_order": "07.08.2024",
+  "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Naimat Ali Shah",
+    "Mr. Qurban Ali Malano",
+    "Mr. Dareshani Ali Haider ‘Ada’"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

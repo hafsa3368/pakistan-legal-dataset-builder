@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
+  "case_number": "MA No.10041/2024",
   "date_of_order": "18.09.2024",
-  "judge": "",
+  "judge": "Sardar Sher Afzal",
   "sections_cited": [
     "section 56",
     "section 42 of the Specific Relief Act",
@@ -18,7 +18,12 @@
   "citations": [
     "PLD 2023 Sindh 90"
   ],
-  "parties": [],
+  "parties": [
+    "Kashif Aijaz",
+    "Sarmaya Enterprises & Another",
+    "Mr. Abdul Ghaffar",
+    "the defendant No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.S-199 of 2024",
-  "date_of_order": "",
+  "date_of_order": "17.10.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Agha Athar Pathan, AAG and Khalil Ahmed Maitlo, DPG a/w SIP Dhani Bux",
+    "SSP, Sukkur, SIP Amanullah of P.S, A-section, Sukkur, ASI Muhammad Sharif of P.S, Pano Akil and Khalid Ahmed of P.S, C-section, Sukkur",
+    "Official respondents No.2,3,4&6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

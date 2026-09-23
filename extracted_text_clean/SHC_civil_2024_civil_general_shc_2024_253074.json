@@ -8,12 +8,23 @@
   "num_chunks": 7,
   "case_number": "Constt. Petition No.D-404 of 2025",
   "date_of_order": "08.04.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ali Haider ‘Ada’",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2004 SC 10"
   ],
-  "parties": [],
+  "parties": [
+    "Jazib Jamal",
+    "Genetic Pharmaceutical",
+    "Ali Haider ‘Ada’ J.",
+    "Miss. Kiran Raees",
+    "Chandka Hospital",
+    "Larkana",
+    "2 Chandka Hospital",
+    "Larkana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

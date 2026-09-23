@@ -9,11 +9,26 @@
   "case_number": "",
   "date_of_order": "13.01.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "2024 SCMR 527",
+    "2024 P.L.C. (C.S) 1487"
+  ],
   "citations": [
     "2024 SCMR 527"
   ],
-  "parties": [],
+  "parties": [
+    "Government of Sindh",
+    "Muhammad Shafiq & Others",
+    "Muhammad Arif",
+    "Federation of Pakistan",
+    "Mumtaz Ali Panhwar & Others",
+    "Province of Sindh & Others",
+    "petitioners",
+    "Mr. Irshad Ali Bhatti",
+    "Mr. Muhammad Kamran"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,35 @@
   "used_ocr": false,
   "num_chunks": 5,
   "case_number": "Constitution Petition No. D-590 of 2024",
-  "date_of_order": "",
+  "date_of_order": "14-05-2024",
   "judge": "Karim Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Zubair Ahmed Chachar",
+    "Province of Sindh & others",
+    "Allahdad and others",
+    "Province of Sindh & others",
+    "Khuda Bux and others",
+    "Province of Sindh & others",
+    "Shahid Hussain and others",
+    "Province of Sindh & others",
+    "Iqbal Hussain",
+    "Province of Sindh & others",
+    "Ghulam Qadir and another",
+    "Province of Sindh & others",
+    "Safdar Ali and another",
+    "Province of Sindh & others",
+    "Abdul Waheed",
+    "Province of Sindh & others",
+    "Abdul Waheed",
+    "Province of Sindh & others",
+    "Waseem Ali",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

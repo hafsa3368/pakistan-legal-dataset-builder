@@ -8,10 +8,22 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "24.09.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Sara Khatoon",
+    "Mst. Sara wd/o late Ahmed Khan",
+    "Mst. Basheeran Khatoon",
+    "Mr. Alam Sher Khan Bozdar",
+    "Mr. Sohail Ahmed Khoso",
+    "SEPCO",
+    "PD Construction",
+    "Vijay Kumar",
+    "Deepak Kumar",
+    "Ahmed Ali Buriro",
+    "Nisar Ahmed G. Abro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

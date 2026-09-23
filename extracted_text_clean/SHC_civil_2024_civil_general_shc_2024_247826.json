@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Revision Application No.S-19 of 2023",
-  "date_of_order": "",
+  "date_of_order": "06.09.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ali Bozdar, Advocate",
+    "Syed Sardar Ali Shah",
+    "the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

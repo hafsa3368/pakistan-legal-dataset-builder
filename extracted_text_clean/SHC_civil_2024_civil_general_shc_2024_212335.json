@@ -7,11 +7,13 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No. D-254 of 2024",
-  "date_of_order": "",
+  "date_of_order": "21.03.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Nirmal John Vs. Federation of Pakistan & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

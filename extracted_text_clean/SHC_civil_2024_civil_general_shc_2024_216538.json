@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 15,
-  "case_number": "misconceived and cannot",
+  "case_number": "",
   "date_of_order": "12.11.2022",
-  "judge": "",
+  "judge": "MOHAMMAD ABDUR RAHMAN",
   "sections_cited": [
     "Section 20 of the Code",
     "Section 9 of the Code",
@@ -27,7 +27,17 @@
     "PLD 1968 Karachi 480",
     "PLD 2000 Karachi 58"
   ],
-  "parties": [],
+  "parties": [
+    "JS Global Capital Limited",
+    "Mrs. Ayesha Danish Monnoo & Another",
+    "Shabbir Ahmed & Another",
+    "Amna Humayun Shaikh & Another",
+    "Aalia Sheraz Danish Monnoo & Another",
+    "Equity Trading",
+    "CDC",
+    "Defendant No.1",
+    "Defendant No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

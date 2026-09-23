@@ -6,9 +6,9 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 47,
-  "case_number": "Civil Procedure 1908 whereby the Defendants No. 10",
+  "case_number": "",
   "date_of_order": "26.07.2007",
-  "judge": "",
+  "judge": "MOHAMMAD ABDUR RAHMAN,",
   "sections_cited": [
     "Section 3",
     "Section 52",
@@ -25,7 +25,17 @@
     "PLD 1985 SC 345",
     "PLD 2010 SC 913"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Mureed Ali Shah, Advocate",
+    "Mr. Aley Maqoob Rizvi, Additional Advocate General Sindh",
+    "Mr. Ziauddin Junejo, Additional Advocate General Sindh",
+    "Mr. Akhtar Ali Mastoi, Advocate",
+    "Mr. Amir Raza, Advocate",
+    "Mr. Adnan Ahmed, Advocate",
+    "Mr. Khalil Siddiqui, Advocate",
+    "Nemo",
+    "Mr. Asad Ali Leghari, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

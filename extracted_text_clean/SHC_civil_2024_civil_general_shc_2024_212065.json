@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "12.03.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "C"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Humail Rafi Mahesar, Advocate",
+    "Mr. Imran Mobeen Khan, Assistant Prosecutor General",
+    "Mr. Agha Athar Hussain Pathan, Assistant Advocate General Sindh",
+    "SIP Azam Hasnain of Police Station Shaheed Murtaza Mirani, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

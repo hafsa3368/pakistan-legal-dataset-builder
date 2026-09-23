@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-475 of 2024",
-  "date_of_order": "",
+  "date_of_order": "24.10.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Gulzar Ahmed Malano, APG",
+    "ASI Sikandar Ali Dahar of P.S, Ubauro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No. D-306 of 2022",
-  "date_of_order": "",
+  "date_of_order": "08.08.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rukhsar Ahmed Junejo",
+    "Mr. Muhammad Habib Khan",
+    "Mr. Dareshani Ali Hyder “Ada” DAG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

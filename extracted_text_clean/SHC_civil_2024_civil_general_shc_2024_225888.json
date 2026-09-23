@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 12,
-  "case_number": "",
+  "case_number": "C.P. No.D-1724 of 2024",
   "date_of_order": "15.01.2025",
   "judge": "Zulfiqar Ali Sangi Mr",
   "sections_cited": [
@@ -21,7 +21,11 @@
     "2017 SCMR 1249",
     "PLD 1971 Karachi 514"
   ],
-  "parties": [],
+  "parties": [
+    "Mir Mazhar Talpur",
+    "Province of Sindh",
+    "others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

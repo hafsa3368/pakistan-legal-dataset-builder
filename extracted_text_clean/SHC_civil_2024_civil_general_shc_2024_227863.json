@@ -8,10 +8,22 @@
   "num_chunks": 2,
   "case_number": "Misc. No.617/2025",
   "date_of_order": "21.01.2025",
-  "judge": "JUDGE Tahseen/PA",
-  "sections_cited": [],
+  "judge": "",
+  "sections_cited": [
+    "Article 199 of the Constitution of Islamic Republic of Pakistan, 1973",
+    "Article 175A of the Constitution",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Ebrahim Saifuddin & Tahir Mehmood",
+    "Petitioners",
+    "Respondent No.3",
+    "President of the Islamic Republic of Pakistan",
+    "Special Parliamentary Committee",
+    "Hon'ble Chief Justice",
+    "CJP"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

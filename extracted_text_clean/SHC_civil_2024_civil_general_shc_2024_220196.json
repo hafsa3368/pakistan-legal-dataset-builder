@@ -6,12 +6,21 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 2,
-  "case_number": "Constitution Petitions led by C.P No.D-",
+  "case_number": "",
   "date_of_order": "26.09.2024",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "151 CPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulfiqar Ali Naich",
+    "Munir Ahmed Jumani",
+    "the Department",
+    "the present petitioners",
+    "petitioner No.2 in C. P. No. D-1234/2011"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

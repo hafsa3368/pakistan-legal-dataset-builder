@@ -6,12 +6,17 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-4239 of 2022",
   "date_of_order": "13.03.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Kashif Malik",
+    "Government of Sindh",
+    "Karachi Water & Sewerage Board",
+    "DPS"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

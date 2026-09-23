@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Revision Application No.S-95 of 2024",
-  "date_of_order": "",
+  "date_of_order": "21-02-2025",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Ghafoor Jiskani",
+    "Syed Sardar Ali Shah",
+    "learned counsel for applicant",
+    "learned APG",
+    "applicant",
+    "trial Court",
+    "learned trial Court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

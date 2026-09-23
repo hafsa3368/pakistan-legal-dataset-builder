@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "15.08.2024",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Mujahid Ali Shah",
+    "Mr. Shabbir Ali Bozdar",
+    "Mr. Ghulam Abbas Kubar",
+    "Abdul Razzaq",
+    "Jam Mehrab"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

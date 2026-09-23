@@ -6,7 +6,7 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 16,
-  "case_number": "Civil Court is not",
+  "case_number": "",
   "date_of_order": "18.02.2025",
   "judge": "Muhammad Jaffer Raza Muhammad Faraz",
   "sections_cited": [
@@ -31,7 +31,15 @@
     "PLD 2022 Sindh 430",
     "PLD 2022 Sindh 151"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Muhammad Jaffer Raza",
+    "M/s. South City Hospital (Pvt) Ltd.",
+    "Mr. Basim Raza",
+    "Mr. Ehsan Malik",
+    "Mr. Sameer Tayebaly",
+    "Mr. Tahmasp Rasheed Rizvi",
+    "Barrister Umaima Mansoor Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

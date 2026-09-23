@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-78 of 2024",
-  "date_of_order": "",
+  "date_of_order": "27-02-2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shabbir Ahmed Bozdar",
+    "Mr. Asadullah Soomro",
+    "Mr. Kareem Bux Janwari",
+    "Mr. Nisar Ahmed Sawand"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

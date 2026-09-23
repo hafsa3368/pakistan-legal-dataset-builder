@@ -6,14 +6,22 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "Constitution and subsequent pronouncements",
+  "case_number": "",
   "date_of_order": "17.04.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2018 SCMR 802"
   ],
-  "parties": [],
+  "parties": [
+    "Messrs. Lubna Pervaiz and Imran Khan, advocates for the petitioner",
+    "Mr. Javed Ali Sangi advocate for respondent",
+    "Ms. Mehreen Ibrahim, Deputy Attorney General",
+    "Mr. Sandeep Malani, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

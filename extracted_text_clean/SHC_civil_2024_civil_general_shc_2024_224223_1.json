@@ -6,12 +6,20 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "Misc. Application No.S-",
+  "case_number": "",
   "date_of_order": "21.11.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulfiqar Ali Jatoi",
+    "SSP Sukkur",
+    "SIP Dhani Bux",
+    "Madad Ali",
+    "Mr. Shafique Ahmed",
+    "SSP Saleh Pat",
+    "Ex-Officio Justice of Peace"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

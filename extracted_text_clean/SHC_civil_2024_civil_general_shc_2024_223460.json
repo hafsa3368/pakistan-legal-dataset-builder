@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Misc.No.33233/2022",
-  "date_of_order": "",
+  "date_of_order": "17.12.2024",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Sardar M. Ishaque, Advocate for the Petitioner",
+    "Mr.Amir Ali Shaikh, Advocate for Respondent No.2",
+    "Ms.Alizeh Bashir, Assistant Attorney General",
+    "Respondent No.2 (Tax Department)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

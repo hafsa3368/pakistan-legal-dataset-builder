@@ -8,10 +8,17 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "24.09.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Zulfiqar Ahmad Khan",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Umair Ali",
+    "Federation of Pakistan",
+    "another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,28 @@
   "num_chunks": 4,
   "case_number": "Constitution Petition No.D-1001 of 2024",
   "date_of_order": "23.09.2024",
-  "judge": "JUDGE",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 199 CrPC"
+  ],
   "citations": [
     "2015 SCMR 74"
   ],
-  "parties": [],
+  "parties": [
+    "Province of Sindh & others",
+    "Iftikhar Ahmed",
+    "Muhammad Khan",
+    "Kheemon",
+    "Mst. Murk",
+    "Mst. Shehnaz",
+    "Public Health Department, Sindhri, Mirpurkhas",
+    "Sindh Education Foundation",
+    "Government Departments",
+    "Mr. Wishan Das",
+    "Mr. Ayaz Ali Rajpur",
+    "Shahid Iqbal",
+    "Additional Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

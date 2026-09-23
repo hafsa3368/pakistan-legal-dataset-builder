@@ -6,14 +6,22 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "MA No. 13921/2024",
   "date_of_order": "02.10.2024",
-  "judge": "Amjad PS",
+  "judge": "",
   "sections_cited": [
     "Section 151 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Plaintiff",
+    "Defendant No. 1",
+    "Defendant No. 2",
+    "Defendant No. 3",
+    "Proposed Defendant No. 1",
+    "Proposed Defendant No. 2",
+    "Proposed Defendant No. 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,13 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Revision Application No.S-34 of 2024",
-  "date_of_order": "",
+  "date_of_order": "24.10.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Tanveer Abbas Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

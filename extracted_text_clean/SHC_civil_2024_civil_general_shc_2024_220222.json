@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Criminal Revision Application No.S-149 of 2021",
   "date_of_order": "01.10.2024",
-  "judge": "",
+  "judge": "Ali Haider",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Tariq Ahmed Shah",
+    "Mr. Irfan Ali Talpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

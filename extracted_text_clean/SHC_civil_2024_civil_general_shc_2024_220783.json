@@ -6,10 +6,12 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 10,
-  "case_number": "",
+  "case_number": "HCA No.27 of 2023",
   "date_of_order": "12.08.2024",
-  "judge": "JUDGE MUBASHIR",
-  "sections_cited": [],
+  "judge": "Yousuf Ali Sayeed",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [
     "2006 CLC 1621",
     "2023 SCMR 198",
@@ -17,7 +19,12 @@
     "2024 SCMR 443",
     "PLD 2016 Sindh 405"
   ],
-  "parties": [],
+  "parties": [
+    "Agha Khan University & others",
+    "Sheraz Hakeem & another",
+    "Agha Khan University & others",
+    "Sheraz Hakeem & another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

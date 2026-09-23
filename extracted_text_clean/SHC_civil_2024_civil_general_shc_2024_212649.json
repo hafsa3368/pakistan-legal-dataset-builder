@@ -6,14 +6,19 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 1,
-  "case_number": "",
+  "case_number": "C.P. No.D-1208 of 2024",
   "date_of_order": "20.03.2024",
   "judge": "",
   "sections_cited": [
     "section 12 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ali Muhammad Chandio & another",
+    "Mst. Najma & others",
+    "late Ali Muhammad Chandio",
+    "Abdul Hafeez Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

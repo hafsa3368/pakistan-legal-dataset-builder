@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Criminal Miscellaneous Application No. S-441 of 2024",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "03-07-2024",
+  "judge": "Adnan-ul-Karim Memon,",
   "sections_cited": [
     "section 154",
     "sections 154, 156, 190",
@@ -16,7 +16,21 @@
     "section 22-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mushtaque Hussain & Afaque Hussain",
+    "SSP Mirpurkhas & others",
+    "Mushtaque Hussain & Afaque Hussain",
+    "SSP Mirpurkhas & others",
+    "Khuda Bux",
+    "Mst. Nagina",
+    "Khuda Bux",
+    "Mushtaque Hussain & Afaque Hussain",
+    "SSP Mirpurkhas & others",
+    "Khuda Bux",
+    "Mushtaque Hussain & Afaque Hussain",
+    "SSP Mirpurkhas & others",
+    "Khuda Bux"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

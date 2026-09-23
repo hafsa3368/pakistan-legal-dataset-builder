@@ -6,12 +6,24 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 5,
-  "case_number": "Constitution Petition No. D-",
+  "case_number": "",
   "date_of_order": "25-04-2024",
   "judge": "Karim Memon",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Illahi Bux Bhatti",
+    "Province of Sindh & others",
+    "Riaz Bhanbhro and others",
+    "Province of Sindh & others",
+    "Muhammad Saleem and others",
+    "Province of Sindh & others",
+    "Hoat Khan and others",
+    "Province of Sindh & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

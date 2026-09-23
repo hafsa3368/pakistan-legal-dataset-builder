@@ -8,12 +8,26 @@
   "num_chunks": 2,
   "case_number": "Criminal Miscellaneous Application No.616/2024",
   "date_of_order": "03.02.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "u/s 22-A"
+  ],
   "citations": [
     "2024 SCMR 985"
   ],
-  "parties": [],
+  "parties": [
+    "Syed Ali Gohar Shah",
+    "Mr. Muhammad Yousuf Rahpoto",
+    "SSP Badin",
+    "DSP Ahmed Khan",
+    "SIP Shah Bux",
+    "Inspector Muhammad Younis",
+    "SIP Muhammad Yaqook",
+    "Ms. Sobia Bhatti",
+    "A.P.G",
+    "SIP Zeeshan Ali",
+    "SHO PS Sekhat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

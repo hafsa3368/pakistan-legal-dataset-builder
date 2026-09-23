@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "Criminal Revision Application No.S-61 of 2018",
   "date_of_order": "25.09.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Altaf Sachal Awan",
+    "Abdul Rasool Abbasi",
+    "APG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -6,16 +6,23 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "case_number": "MA No.1868 of 2024",
+  "date_of_order": "14-09-2024",
+  "judge": "Mazhar Imtiaz Lari",
   "sections_cited": [
     "section 3",
     "Section 3",
     "section 4"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mazhar Imtiaz Lari, Advocate for the Plaintiff",
+    "M/s. Ishtar Shipping Co. Ltd.",
+    "Maersk A/S",
+    "Defendant No.1",
+    "Defendant No.2",
+    "Defendant No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

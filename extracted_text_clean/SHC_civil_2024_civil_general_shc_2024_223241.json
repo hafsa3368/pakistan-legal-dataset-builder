@@ -6,12 +6,18 @@
   "year": "2024",
   "used_ocr": false,
   "num_chunks": 3,
-  "case_number": "constitutional petition challenging the notifications",
+  "case_number": "CP. No. D-5911 of 2024",
   "date_of_order": "10.12.2024",
   "judge": "Shafi",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Nasir Khan & others",
+    "Province of Sindh & others",
+    "Mr. Justice Muhammad Karim Khan Agha",
+    "Mr. Justice Adnan-ul-Karim Memon",
+    "Mr. Ghulam Sarwar Chandio"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

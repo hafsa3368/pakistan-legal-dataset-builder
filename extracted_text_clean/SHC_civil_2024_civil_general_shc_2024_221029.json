@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-569 of 2024",
-  "date_of_order": "",
+  "date_of_order": "17.10.2024",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Sattar Mahessar",
+    "Mr. Imran Mobeen",
+    "APG"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
