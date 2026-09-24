@@ -9,9 +9,16 @@
   "case_number": "",
   "date_of_order": "30.05.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Inzimam Sharif",
+    "Ms. Alizeh Bashir",
+    "Mr. Muhammad Akbar Khan",
+    "Mr. Mukesh Kumar Khatri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

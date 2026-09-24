@@ -7,15 +7,25 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "C.P. No. D-512 of 2014",
-  "date_of_order": "",
+  "date_of_order": "04.03.2025",
   "judge": "Arbab Ali Hakro",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "u/s 199 Cr.P.C."
+  ],
   "citations": [
     "2023 SCMR 246",
     "2024 SCMR 1877",
     "2024 SCMR 1902"
   ],
-  "parties": [],
+  "parties": [
+    "Imran Khan",
+    "Province of Sindh",
+    "Mr. Justice Arbab Ali Hakro",
+    "Mr. Justice Riazat Ali Sahar",
+    "Wali Muhammad Khoso",
+    "Mr.Muhammad Ismail Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

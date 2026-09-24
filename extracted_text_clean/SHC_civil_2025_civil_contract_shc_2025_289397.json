@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "C. P. No. S-400 of 2025",
-  "date_of_order": "",
+  "date_of_order": "03.11.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Khadim Hussain Khoso, Advocate a/w petitioners",
+    "Mr. Aftab Nek Muhammad Bhutto, Assistant A.G.",
+    "Mr. Sardar Ali Solangi, D.P.G for the State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

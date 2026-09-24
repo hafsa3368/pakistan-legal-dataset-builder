@@ -9,9 +9,14 @@
   "case_number": "Civil Revision Application No.S-281 of 2025",
   "date_of_order": "09.03.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Hammad Ali Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

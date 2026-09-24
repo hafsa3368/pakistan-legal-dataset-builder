@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "Cr. Appeal No.186 of 2024",
   "date_of_order": "02.05.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Not specified",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Neel Parkash",
+    "Mr. Ameer Baig",
+    "Nazir of the District and Sessions Court, Malir, Karachi",
+    "the appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

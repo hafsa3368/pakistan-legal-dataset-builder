@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "C.P No.S-272 of 2025",
-  "date_of_order": "",
+  "date_of_order": "15.8.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Abdul Majeed Soomro, Advocate",
+    "Mr.Muhammad Ismail Bhutto, Addl. A.G Sindh",
+    "Qamar Zaman SHO Ps Jhangro",
+    "Anwar Hussain SHO PS Badin",
+    "Razia Ali Zaman Patoli, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

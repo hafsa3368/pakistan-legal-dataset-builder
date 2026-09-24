@@ -8,12 +8,16 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "14.01.2026",
-  "judge": "",
+  "judge": "[Name of",
   "sections_cited": [
     "Section 9"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Aijaz Ali",
+    "Province of Sindh",
+    "04 others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

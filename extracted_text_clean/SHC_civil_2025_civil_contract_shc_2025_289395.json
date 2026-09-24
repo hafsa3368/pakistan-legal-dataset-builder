@@ -7,11 +7,23 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "C. P. No. S-398 of 2025",
-  "date_of_order": "",
+  "date_of_order": "03.11.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Tariq Abbasi",
+    "Mr. Aftab Nek Muhammad Bhutto",
+    "SIP Ali Dost",
+    "SSP, Larkana",
+    "Inspector Gulzar Ali",
+    "SHO, PS Dari",
+    "Mr. Sardar Ali Solangi",
+    "Mr. Ashique Ali Kalhoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,15 @@
   "case_number": "",
   "date_of_order": "07.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Salman",
+    "Mr. Muhammad Aqeel Qureshi",
+    "Mr. Kashif Nazir"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

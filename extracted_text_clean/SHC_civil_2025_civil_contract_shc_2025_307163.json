@@ -8,10 +8,16 @@
   "num_chunks": 3,
   "case_number": "Constt: Petition No. S-54 of 2026",
   "date_of_order": "06.03.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Syed Kazim Raza Shah",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Jinsar Ali Jagirani",
+    "P.O Sindh & Ors"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

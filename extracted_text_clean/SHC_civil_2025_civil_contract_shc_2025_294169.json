@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No. S-435 of 2025",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "21.11.2025",
+  "judge": "Irshad Ali",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Komal Aijaz and another",
+    "P.O Sindh and others",
+    "Mumtaz Ali Jessar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

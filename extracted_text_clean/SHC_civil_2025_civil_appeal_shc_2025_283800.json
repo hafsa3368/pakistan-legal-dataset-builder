@@ -8,13 +8,18 @@
   "num_chunks": 1,
   "case_number": "Criminal Appeal.No.31 of 2024",
   "date_of_order": "01.10.2025",
-  "judge": "",
+  "judge": "Syed Fiaz ul Hassan Shah",
   "sections_cited": [
     "Sections 376 PPC",
     "section 382-B Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ramash alias Raju",
+    "The State",
+    "The State",
+    "Ramash alias Raju"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

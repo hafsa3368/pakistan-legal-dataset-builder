@@ -8,14 +8,23 @@
   "num_chunks": 6,
   "case_number": "constitution petition No. D-2087/2025",
   "date_of_order": "19.01.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of the Islamic Republic of Pakistan, 1973",
+    "Article 10(A) of the Constitution of Pakistan 1973"
+  ],
   "citations": [
     "2020 SCMR 631",
     "2021 SCMR 425",
     "PLD 2009 SC 507"
   ],
-  "parties": [],
+  "parties": [
+    "Azharuddin Noonari",
+    "Province of Sindh",
+    "Sukkur Arts Council"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

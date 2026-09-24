@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "Crl. Appeal No.351 of 2025",
   "date_of_order": "22.12.2025",
-  "judge": "",
+  "judge": "Syed Fiaz ul Hassan Shah",
   "sections_cited": [
     "Section 3 of the Illegal Dispossession Act",
     "section 3 of the Illegal Dispossession Act",
@@ -36,7 +36,10 @@
     "PLD 2004 SC 298",
     "PLD 2016 SC 769"
   ],
-  "parties": [],
+  "parties": [
+    "Sajjan Shoro",
+    "Mahboob Ali & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

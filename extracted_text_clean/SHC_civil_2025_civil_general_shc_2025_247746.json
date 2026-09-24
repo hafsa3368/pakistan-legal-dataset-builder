@@ -8,10 +8,17 @@
   "num_chunks": 2,
   "case_number": "C.P. No.S-61 of 2025",
   "date_of_order": "28.02.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Muhammad Danish",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Karamullah Memon",
+    "Mr. Muhammad Yousuf Rahpoto",
+    "Mst. Rubab Bano"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

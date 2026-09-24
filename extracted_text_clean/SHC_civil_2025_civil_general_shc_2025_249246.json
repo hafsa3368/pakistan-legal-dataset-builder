@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "C.P. No. D-468 of 2025",
-  "date_of_order": "",
+  "date_of_order": "10.03.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Shahab Sarki and Muhammad Ghazali Advocates",
+    "M/s. Aijaz Ahmed Memon and Shahid Nazir Memon Advocates",
+    "M/s. Aijaz Ahmed Memon and Shahid Nazir Memon Advocates",
+    "SEPA",
+    "Mr. Sandeep Malani",
+    "Sindh",
+    "Dr. Habib-ur-Rehman solangi",
+    "Imran Ali Abbasi",
+    "SEPA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

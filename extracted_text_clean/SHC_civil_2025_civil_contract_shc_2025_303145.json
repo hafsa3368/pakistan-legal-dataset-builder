@@ -9,11 +9,17 @@
   "case_number": "C.P No.S-750 of 2025",
   "date_of_order": "20.01.2026",
   "judge": "Sajjad Ali Jessar",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2017 SCMR 393"
   ],
-  "parties": [],
+  "parties": [
+    "Niaz Ali",
+    "Mst. Shazia and another"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

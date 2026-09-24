@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "Civil Petition No.536-K of 2017",
   "date_of_order": "27.03.2025",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 4",
     "Section 15",
@@ -22,7 +22,24 @@
   "citations": [
     "2012 YLR 1801"
   ],
-  "parties": [],
+  "parties": [
+    "Altaf Ahmed Memon",
+    "Aftab Ahmed Pathan",
+    "Tariq Hussain Soomro",
+    "Zafar Qureshi",
+    "Ghulam Hussain Soho",
+    "Dr. Asif Ali Memon",
+    "Dr. Zahid Ali Channar",
+    "The Search Committee",
+    "Government of Sindh",
+    "Province of Sindh",
+    "Sindh HEC/Search Committee",
+    "Universities & Boards Department",
+    "Dr. Syed Tariq Rafi",
+    "Dr. Syed Tariq Rafi",
+    "Ms. Shazia Hajrah",
+    "Mr. Muhammad Ishaque"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

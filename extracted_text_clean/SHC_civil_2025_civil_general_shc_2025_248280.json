@@ -8,13 +8,19 @@
   "num_chunks": 3,
   "case_number": "",
   "date_of_order": "04.03.2025",
-  "judge": "",
+  "judge": "Qazi Umair Ali",
   "sections_cited": [
     "Section 38 of the Sales Tax Act",
     "Section 38 of the Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Hafeez Pirzad Law Associates",
+    "Commissioner, Zone-III, RTO, Karachi",
+    "Assistant Commissioner-IR, Unit-07, Zone-III, RTO-II, Karachi",
+    "Chairman FBR",
+    "Member (Operation) Inland Revenue"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

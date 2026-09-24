@@ -9,9 +9,18 @@
   "case_number": "",
   "date_of_order": "12-09-2025",
   "judge": "Adnan Iqbal Chaudhry Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Aero Track Corporation",
+    "Federation of Pakistan",
+    "Civil Aviation Authority",
+    "Pakistan Airports Authority",
+    "Ministry of Defense",
+    "FIA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

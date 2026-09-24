@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1636 of 2024",
-  "date_of_order": "",
+  "date_of_order": "04.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "CMA 1424/25",
+    "CMA 6366/24",
+    "CMA 6367/24"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Hameed Mangi, Advocate for petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

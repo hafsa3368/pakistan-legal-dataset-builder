@@ -8,7 +8,7 @@
   "num_chunks": 8,
   "case_number": "Const. Petition No.3657 of 2025",
   "date_of_order": "15.01.2026",
-  "judge": "",
+  "judge": "Nisar Ahmed Bhanbhro",
   "sections_cited": [
     "Section 7-A of the Sindh Building Control Ordinance",
     "Section 6",
@@ -16,7 +16,13 @@
     "section 16"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Ali Taufique",
+    "S.B.C.A & Ors.",
+    "Mr. Rehan Kayani",
+    "Mr. Muhammad Ibrahim Baig",
+    "Mr. Abdul Jalil Zubedi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

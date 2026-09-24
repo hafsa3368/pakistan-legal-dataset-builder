@@ -9,14 +9,21 @@
   "case_number": "",
   "date_of_order": "24-10-2025",
   "judge": "Adnan Iqbal Chaudhry Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 199 of the Constitution of Islamic Republic of Pakistan 1973"
+  ],
   "citations": [
     "2020 YLR 537",
     "2024 SCMR 1877",
     "2024 SCMR 1902",
     "2025 CLC 966"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Rumi Enterprise",
+    "Karachi Metropolitan Corporation & Others",
+    "Dr. Shahab Imam"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

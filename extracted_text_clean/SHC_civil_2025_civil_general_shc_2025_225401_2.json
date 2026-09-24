@@ -9,9 +9,21 @@
   "case_number": "",
   "date_of_order": "23.01.2025",
   "judge": "Zulfiqar Ali Sangi Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Zulfiqar Ali Sangi",
+    "Mr. Justice Arbab Ali Hakro",
+    "Mr. Haji Khan Brohi",
+    "Mr. Muhammad Ismail Bhutto",
+    "Dr. Aftab Haider Deeshak",
+    "Secretary, Health Department, Government of Sindh",
+    "Mrs. Ume Kulsoom w/o Advocate Munir Ahmed Turk",
+    "Advocate Munir Ahmed Turk"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

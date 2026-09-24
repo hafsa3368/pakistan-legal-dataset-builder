@@ -8,10 +8,17 @@
   "num_chunks": 3,
   "case_number": "Criminal Miscellaneous Application No.S-122 of 2025",
   "date_of_order": "14.11.2024",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "RIAZAT ALI SAHAR",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Haq Nawaz Jamari",
+    "Mst. Pashma",
+    "Pervaiz",
+    "Moula Bux Laghari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

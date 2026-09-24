@@ -8,10 +8,16 @@
   "num_chunks": 4,
   "case_number": "C.P. No.D-6020 of 2025",
   "date_of_order": "20.01.2026",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan-ul-Karim Memon",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ibrahim",
+    "Province of Sindh",
+    "New Gulshan-e-Faizan Cooperative Housing Ltd"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

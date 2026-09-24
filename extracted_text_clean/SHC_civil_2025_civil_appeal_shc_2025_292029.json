@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "17.11.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imran Ahmed",
+    "Appellants",
+    "defendants No. 1 to 7",
+    "respondents No. 1 to 7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

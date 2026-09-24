@@ -8,7 +8,7 @@
   "num_chunks": 10,
   "case_number": "Criminal Revision Application No.191 of 2025",
   "date_of_order": "26.01.2026",
-  "judge": "",
+  "judge": "Syed Fiaz ul Hassan Shah",
   "sections_cited": [
     "section 200 of Criminal Procedure Code",
     "Section 200 Cr.P.C",
@@ -27,7 +27,13 @@
     "2010 SCMR 1467",
     "PLD 2014 SC 241"
   ],
-  "parties": [],
+  "parties": [
+    "Zia-ul-Islam S/o Muhammad Islamuddin",
+    "Syed Shujaat Hussain Shah and 8 others",
+    "Mr. Shaikh Jawaid Mir, Ms. Samreen Ehtesham and Agha Atta Muhammad Khan",
+    "Mr. Malik Altaf Hussain alongwith M/s. Abdul Shakoor, Moin Khan and Hameed Khan",
+    "Mr. Tahir Hussain Mangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

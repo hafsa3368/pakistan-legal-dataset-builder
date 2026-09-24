@@ -8,14 +8,17 @@
   "num_chunks": 3,
   "case_number": "Civil Revision Application No.156 of 2024",
   "date_of_order": "15.12.2025",
-  "judge": "",
+  "judge": "Aqeel Ahmed Siddiqui",
   "sections_cited": [
     "Section 151 CPC",
     "Section 489-F",
     "Section 73 of the Contract Act"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aqeel Ahmed Siddiqui",
+    "Murtajiz Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

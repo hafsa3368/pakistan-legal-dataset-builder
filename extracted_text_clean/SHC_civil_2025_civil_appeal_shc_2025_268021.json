@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "12.05.2025",
   "judge": "Naveed Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mumtaz Ali",
+    "Mr. Zulfiqar Ali Jatoi",
+    "Additional Prosecutor General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

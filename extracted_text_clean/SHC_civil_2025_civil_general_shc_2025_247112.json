@@ -9,9 +9,18 @@
   "case_number": "",
   "date_of_order": "25.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Ali Hussain",
+    "Mr. Khalid Rajpar",
+    "Hafiz M. Qasim Rabbani",
+    "Qazi Abdul Haleem Siddiqui",
+    "Mr. Khalid Rajpar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

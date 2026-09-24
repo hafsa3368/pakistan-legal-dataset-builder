@@ -11,7 +11,16 @@
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "petitioner",
+    "Department",
+    "impugned demand",
+    "respondents",
+    "petitioner",
+    "respondents",
+    "petitioner",
+    "Department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

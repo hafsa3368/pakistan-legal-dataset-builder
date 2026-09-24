@@ -9,9 +9,21 @@
   "case_number": "Criminal Misc. Application No.S-247 of 2025",
   "date_of_order": "01.01.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Moinuddin Akhter Qureshi",
+    "Mr. Dhani Bakhsh Mari",
+    "Inspector Aftab Rind",
+    "SHO P.S Digri",
+    "Alleged detenue Shanita",
+    "Mst. Fatima",
+    "Muhammad Gulzar",
+    "Chatro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,23 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "15.07.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Shafqat Dayo",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Akhtar Hussain Legahri",
+    "Mr. Daman Ali Leghari",
+    "Mr. Athar Hussain Pathan",
+    "SIP Ghulam Asghar Ujjan",
+    "SSP Khairpur",
+    "SSP Khairpur",
+    "SSP Khairpur",
+    "Imamuddin s/o Mehar Ali Dasti",
+    "Bashir Ali s/o Shah Muhamad Dasti",
+    "Muhammad Yaseen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

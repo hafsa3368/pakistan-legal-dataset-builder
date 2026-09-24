@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-61 of 2025",
-  "date_of_order": "",
+  "date_of_order": "13.02.2025",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Miss Fahmeeda Mirani",
+    "Syed Sardar Ali Shah",
+    "Mst. Asma Waseer",
+    "Urooj",
+    "Irfa",
+    "Ayat",
+    "Muhammad Arif"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "MA No.529/2025",
-  "date_of_order": "",
+  "date_of_order": "16.01.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "petitioners",
+    "petitioner No.1",
+    "petitioner No.2",
+    "respondent No.1",
+    "petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

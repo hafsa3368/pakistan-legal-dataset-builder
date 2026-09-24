@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-629 of 2025",
-  "date_of_order": "",
+  "date_of_order": "30.10.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ratan Kumar",
+    "Mr. Ghulam Murtaza Korai",
+    "Mr. Ali Raza Baloch",
+    "Respondents No.3&4",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

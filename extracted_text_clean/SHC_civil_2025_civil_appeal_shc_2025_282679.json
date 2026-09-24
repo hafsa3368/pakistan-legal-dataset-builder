@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Cr. Appeal No. 107 of 2025",
   "date_of_order": "24.09.2025",
-  "judge": "",
+  "judge": "Syed Fiaz ul Hassan Shah",
   "sections_cited": [
     "Sections 397 PPC",
     "section 382-B Cr.P.C",
@@ -17,7 +17,10 @@
   "citations": [
     "PLD 2017 SC 671"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Mustafa S/o Wali Muhammad",
+    "The State"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

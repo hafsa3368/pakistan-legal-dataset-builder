@@ -8,12 +8,23 @@
   "num_chunks": 7,
   "case_number": "High Court Appeal No.01 of 2025",
   "date_of_order": "12.03.2026",
-  "judge": "",
+  "judge": "Muhammad Faisal Kamal Alam",
   "sections_cited": [
     "Section 19 of CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Wise Communication System [Pvt.] Limited",
+    "Federation of Pakistan and Others",
+    "4B Gentel International [Pvt.] Limited",
+    "Federation of Pakistan and Others",
+    "WorldCall Telecom Limited",
+    "Federation of Pakistan and Others",
+    "Pakistan Telecommunication Authority",
+    "Universal Service Fund",
+    "Pakistan Telecommunication Authority",
+    "Pakistan Telecommunication Authority"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

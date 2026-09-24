@@ -8,10 +8,20 @@
   "num_chunks": 1,
   "case_number": "C.P. NO.S-155 OF 2025",
   "date_of_order": "12.03.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Musharraf Ali",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mohammad Hanif Advocates",
+    "SI Meerten",
+    "PS Sharafi Goth",
+    "Mansoor Ali Bozdar",
+    "DSP/SDPO Quaidabad",
+    "Petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

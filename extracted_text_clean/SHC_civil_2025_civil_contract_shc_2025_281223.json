@@ -8,14 +8,24 @@
   "num_chunks": 5,
   "case_number": "Constitutional Petition No.S-308 of 2025",
   "date_of_order": "08.10.2025",
-  "judge": "",
+  "judge": "NISAR AHMED BHANBHRO",
   "sections_cited": [
     "u/s 491 Cr.P.C",
     "u/s 435 Cr.P.C",
     "u/s 164 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Waheed Khushik",
+    "Mr. Wazeer Ahmed Mashori",
+    "Mr. Munwar Ali Abbasi",
+    "Mr. Ali Anwar Kandhro",
+    "Mr. Zain-ul-Abideen",
+    "SSP Sukkur",
+    "SIO/SIP Ain-ul-Huq of PS Airport",
+    "Mst. Sanam @ Sana",
+    "SHO police station Civil Line, Larkana and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

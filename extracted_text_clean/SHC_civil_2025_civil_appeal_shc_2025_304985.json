@@ -9,11 +9,22 @@
   "case_number": "Constitution Petition No. S-331",
   "date_of_order": "15.01.2025",
   "judge": "Ali Haider",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2024 SC 960"
   ],
-  "parties": [],
+  "parties": [
+    "Vijay Kumar",
+    "Pardeep Kumar and others",
+    "Mr. Justice Ali Haider ‘Ada’",
+    "Mr. Atta Hussain Chandio",
+    "Mr. Abdul Waris Bhutto",
+    "Mr. Atta Hussain Qadri",
+    "Mr. Muhammad Afzal Jagirani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

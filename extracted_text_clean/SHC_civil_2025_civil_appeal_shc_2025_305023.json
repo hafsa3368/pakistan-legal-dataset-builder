@@ -8,7 +8,7 @@
   "num_chunks": 4,
   "case_number": "Civil Appeal No.117 of 2025",
   "date_of_order": "03.02.2026",
-  "judge": "",
+  "judge": "ARSHAD HUSSAIN KHAN",
   "sections_cited": [
     "Section 16 of the Sindh Rented Premises Ordinance",
     "Section 100"
@@ -18,7 +18,10 @@
     "PLD 1965 SC 134",
     "PLD 1994 SC 291"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Ali Khan",
+    "Shamsi Hospital and others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

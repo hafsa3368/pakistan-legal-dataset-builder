@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "03.03.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rajib Ali Malano",
+    "Mr. Agha Athar Hussain Pathan",
+    "petitioners",
+    "official respondents No.4 and 5",
+    "private respondents",
+    "respondents No.2 and 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

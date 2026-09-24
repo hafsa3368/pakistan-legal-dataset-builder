@@ -9,9 +9,16 @@
   "case_number": "C.P No.D-1700 of 2025",
   "date_of_order": "23.10.2025",
   "judge": "Sajjad Ali Jessar",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imtiaz Ali Channa",
+    "Mr. Rafique Ahmed Dahri",
+    "Mr. Tarique Ali Narai"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

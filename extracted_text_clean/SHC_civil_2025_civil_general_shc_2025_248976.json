@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.S-234 of 2024",
-  "date_of_order": "",
+  "date_of_order": "07.03.2025",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Mujahid Ali Shah",
+    "M/s Zulfiqar Ali Naich",
+    "Ms. Shabana Naheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

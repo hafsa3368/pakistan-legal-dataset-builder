@@ -8,7 +8,7 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "10.02.2025",
-  "judge": "",
+  "judge": "Adnan Iqbal Chaudhry",
   "sections_cited": [
     "section 80 of the Trade Marks Ordinance",
     "section 73 of the Ordinance",
@@ -16,7 +16,12 @@
     "section 73"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Institute of Business Administration",
+    "Today Company (SMC - Private) Limited & another",
+    "Mr. Muhammad Ali Lakhani",
+    "the Plaintiff"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

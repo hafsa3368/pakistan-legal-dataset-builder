@@ -8,10 +8,22 @@
   "num_chunks": 7,
   "case_number": "C.P No.D-1938",
   "date_of_order": "16.05.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Article 161 RMR 2023",
+    "The Disabilities Act, 2018"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mushraf",
+    "Province of Sindh and Others",
+    "SPSC",
+    "Akhlaque Ahmed",
+    "Jabir Jabbar",
+    "Rafique Ahmed Dahri",
+    "Deputy Director (Recruitment) SPSC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitutional Petition No.S-256 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "15.09.2025",
+  "judge": "Asghar Altaf",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Shabir Jatoi",
+    "Mr. Naseer Ahmed Wagan",
+    "Mr. Munwar Ali Abbasi",
+    "Mr. Sardar Ali Solangi",
+    "SHO police station Naseerabad",
+    "Gulzar Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

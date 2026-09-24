@@ -8,8 +8,11 @@
   "num_chunks": 7,
   "case_number": "",
   "date_of_order": "30-01-2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Adnan Iqbal Chaudhry",
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Rule 32 of the SPP Rules"
+  ],
   "citations": [
     "1985 SCMR 491",
     "1981 SCMR 231",
@@ -22,7 +25,18 @@
     "PLD 1965 SC 269",
     "PLD 1964 SC 260"
   ],
-  "parties": [],
+  "parties": [
+    "WSKB & Company",
+    "Province of Sindh",
+    "The Executive Engineer, Provincial Building Division",
+    "Mr. Altaf Khawaja, Superintendent Engineer",
+    "Sindh Public Procurement Regulatory Authority",
+    "M/s. Joya Contractor",
+    "M/s. Zarar Qadir Shoro",
+    "Meezan Ali",
+    "Review Committee",
+    "Courts of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,11 +9,23 @@
   "case_number": "Constitution Petition No.D-178 of 2025",
   "date_of_order": "29.01.2026",
   "judge": "Adnan Iqbal Chaudhry Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Regulation No.161 of the Sindh Public Service Commission (Recruitment Management) Regulations 2023"
+  ],
   "citations": [
     "2024 SCMR 1701"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Adnan Iqbal Chaudhry",
+    "Mr. Justice Muhammad Jaffer Raza",
+    "Mr. Azhar Ahmed Khan",
+    "Mr. Ali Raza Balouch",
+    "Waheed Gul Khan",
+    "Province of Sindh",
+    "Sindh Public Service Commission (SPSC)",
+    "Interview Committee of the SPSC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

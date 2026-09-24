@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-20 of 2025",
-  "date_of_order": "",
+  "date_of_order": "20-02-2025",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Ziaul Haque Kamboh and Mansoor Hussain Maitlo",
+    "Mr. Riaz Ali Shaikh",
+    "Syed Sardar Ali Shah",
+    "Muhammad Anamullah",
+    "Kinza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

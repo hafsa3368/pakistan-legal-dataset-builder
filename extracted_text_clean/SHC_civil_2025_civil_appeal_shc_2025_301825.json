@@ -8,10 +8,22 @@
   "num_chunks": 7,
   "case_number": "C.P No.D-1938",
   "date_of_order": "16.05.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "ADNAN-UL-KARIM MEMON",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mushraf vs. Province of Sindh and Others",
+    "Mushraf",
+    "Province of Sindh and Others",
+    "SPSC",
+    "SPSC",
+    "Deputy Director (Recruitment) SPSC",
+    "Akhlaque Ahmed",
+    "Jabir Jabbar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

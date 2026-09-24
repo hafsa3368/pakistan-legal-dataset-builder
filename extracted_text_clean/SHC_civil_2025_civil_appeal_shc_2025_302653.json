@@ -9,9 +9,18 @@
   "case_number": "Civil Appeal No. D-15 of 2025",
   "date_of_order": "12.01.2026",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nasir Ahmed Khan",
+    "Mr. Muhammad Ilyas Dars",
+    "Mr. Ajeet Kumar",
+    "Z.T.B.L Umerkot Branch",
+    "respondent bank"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

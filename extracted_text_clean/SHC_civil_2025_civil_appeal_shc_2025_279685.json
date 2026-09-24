@@ -8,7 +8,7 @@
   "num_chunks": 13,
   "case_number": "High Court Appeal No.107 of 2025",
   "date_of_order": "17.08.2020",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman,",
   "sections_cited": [
     "Section 22",
     "Section 151 of the Code",
@@ -23,7 +23,11 @@
   "citations": [
     "1999 SCMR 2215"
   ],
-  "parties": [],
+  "parties": [
+    "Bank Alfalah Limited",
+    "Syed Zulfiqar Ali Rizvi",
+    "Raj Ali Wahid Kunwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

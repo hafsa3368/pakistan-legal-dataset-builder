@@ -9,9 +9,20 @@
   "case_number": "C.P. No.D-825 of 2025",
   "date_of_order": "15.04.2026",
   "judge": "Muhammad Danish",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Murtaza Shaikh",
+    "Mr. Abdullah K. Laghari",
+    "Mr. Muhammad Ismail Bhutto",
+    "Administrator MUECHS (Karar Hussain Memon)",
+    "Faheemullah Akhund",
+    "M/s. Ghulam Mujtaba Jhatial",
+    "Ghulam Hussain Sanjrani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

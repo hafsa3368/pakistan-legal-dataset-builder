@@ -7,11 +7,13 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "16.05.2025",
+  "judge": "Naveed Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Achar Khan Gabol"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

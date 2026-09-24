@@ -9,9 +9,33 @@
   "case_number": "",
   "date_of_order": "27.02.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arshad M. Tayebally",
+    "Mr. Nadir Khan Burdi",
+    "Dhani Bux",
+    "Mr. Taimoor Ali Mirza",
+    "Messrs. Malik Altaf Hussain",
+    "Moin Sandeelo",
+    "Mr. Abdul Qayoom Abbasi",
+    "Messrs Shamail Sikandar",
+    "Syed Zaeem Hyder",
+    "Mr. Sandeep Malani",
+    "Mr. Khurram Ghayas",
+    "Mr. Muhammad Ishaque Khuhro",
+    "Mr. Altaf Gohar",
+    "Mr. Rasheed Solangi",
+    "Mr. Naeem Ahmed Mughal",
+    "Dr. Habib-ur-Rehman Solangi",
+    "Mr. Muhammad Imran Sabir",
+    "Mr. Abdullah Magsi",
+    "DSP Nisar Ahmed.SDPO",
+    "Mr. Shamail Sikandar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

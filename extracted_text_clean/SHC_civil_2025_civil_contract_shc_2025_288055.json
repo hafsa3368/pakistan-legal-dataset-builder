@@ -8,12 +8,18 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-1414 of 2025",
   "date_of_order": "13.10.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [
     "section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aftab Hussain Bhutto",
+    "Mr. Muhammad Tarique Panhwar",
+    "Mr. Agha Athar Hussain",
+    "Mr. Gulzar Ali Malano",
+    "Inspector Ghulam Mustafa"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

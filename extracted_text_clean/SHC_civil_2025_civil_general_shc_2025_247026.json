@@ -7,13 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-68 of 2025",
-  "date_of_order": "",
+  "date_of_order": "24.02.2025",
   "judge": "Ahmad",
   "sections_cited": [
     "section 200 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kashif Hussain Shaikh",
+    "Syed Sardar Ali Shah",
+    "Mr. Shamsuddin N. Kobhar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

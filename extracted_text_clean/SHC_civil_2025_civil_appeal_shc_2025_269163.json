@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "27.05.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Murtaza Korai",
+    "Mr. Ali Raza Baloch",
+    "Ghulam Murtaza Sario",
+    "Assistant Executive Provincial Highways Sub-Division, Sukkur",
+    "respondent No.1",
+    "respondent No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "C.P No.D-1025 of 2024",
   "date_of_order": "05.03.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Naveed Ali",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Sattar Mahessar",
+    "Mr. Saeed Ahmed, A.A.G",
+    "DSP Muhammad Akram Rajput",
+    "Mr. Zulfiqar Ali Naich, A.A.G"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

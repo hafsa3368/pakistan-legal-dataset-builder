@@ -8,10 +8,13 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No. D-2383 of 2025",
   "date_of_order": "18.06.2025",
-  "judge": "",
+  "judge": "HEAD OF CONST. BENCHES",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Appellant"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
