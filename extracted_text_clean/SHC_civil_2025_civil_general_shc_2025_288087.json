@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "C. P No.S-387 of 2025",
-  "date_of_order": "",
+  "date_of_order": "24-10-2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Iltaf Hussain Khokhar, Advocate (petitioner)",
+    "Mr. Aftab Nek Muhammad Bhutto, Assistant A.G (SIP Ali Dost on behalf of SSP, Larkana, Altaf Hussain, SHO, PS Seehar, SIP Altaf Hussain of PS Steel Town Karachi and SIP Shahzado of PS Shah Latif Town Karachi)",
+    "Mr. Sardar Ali Solangi, D.P.G (for the State)",
+    "Mr. Kamran Ahmed Gorar, Advocate",
+    "Mr. Habibullah Ghouri, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

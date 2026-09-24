@@ -9,9 +9,18 @@
   "case_number": "",
   "date_of_order": "07-10-2025",
   "judge": "Adnan Iqbal Chaudhry Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Muhammad Adeel Awan",
+    "Muhammad Saad Shafiq Siddiqui and Musa Sher Dil, Advocate",
+    "The Federation of Pakistan",
+    "Ms. Mehreen Ibrahim",
+    "The Collector of Customs & another Agha Shahid Majeed Khan, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

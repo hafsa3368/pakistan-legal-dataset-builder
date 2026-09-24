@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-1240 of 2025",
   "date_of_order": "29.10.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Naveed Ahmed Shah",
+    "Deputy Attorney General",
+    "Sanaullah Chachar",
+    "SHO /Sub-Inspector NCCIA circle Sukkur",
+    "SHO,"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,7 +7,7 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-747 of 2025",
-  "date_of_order": "",
+  "date_of_order": "21-10-2025",
   "judge": "Zulfiqar Ali Sangi",
   "sections_cited": [
     "Section 173",
@@ -16,7 +16,21 @@
     "Section 265-K"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Justice Zulfiqar Ali Sangi",
+    "Mr. Justice Riazat Ali Sahar",
+    "M/s Agha Ather Hussain Pathan",
+    "Assistant AG",
+    "Gulzar Ahmed Malano",
+    "Assistant PG",
+    "Dr. Masroor Zia",
+    "M.S, KMC Civil Hospital, Khairpur",
+    "SIP Muhammad Ashraf Tunio",
+    "Investigating Officer",
+    "SSP, Khairpur",
+    "Ali Murad Narejo",
+    "SSP, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

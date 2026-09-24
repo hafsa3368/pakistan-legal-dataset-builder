@@ -8,12 +8,18 @@
   "num_chunks": 2,
   "case_number": "Const. Petition No. S-553 of 2025",
   "date_of_order": "29.07.2025",
-  "judge": "",
+  "judge": "Manthar Brohi",
   "sections_cited": [
     "section 406 and 34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Saathi Ishaq & S.K. Lodhi, advocates for the petitioners",
+    "Mr. Muhammad Noonari, Deputy P.G. Sindh along with DSPs (Legal) Raza Mian and DPS Nazimabad Kamal Naeem, Insp./SHO of PS Rizvia Muhammad Ishaq",
+    "Inspector General of Police",
+    "Senior Superintendent of Police District Central, Karachi",
+    "SHO of Police Station Rizvia"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

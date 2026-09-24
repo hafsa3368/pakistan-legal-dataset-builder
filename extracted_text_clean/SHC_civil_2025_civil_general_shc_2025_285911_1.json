@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-514 of 2025",
   "date_of_order": "18.09.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada",
+    "Mr. Naveed Ahmed Shah",
+    "Mr. Sharyar Imdad Awan",
+    "Shajan Napar",
+    "State Life Insurance",
+    "Sukkur Zone",
+    "respondent No.6"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,15 @@
   "case_number": "",
   "date_of_order": "21st October 2025",
   "judge": "Muhammad Iqbal Kalhoro Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Raja Rashid Ali",
+    "Mr. Iqbal Hussain Maitlo"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1353 of 2025",
-  "date_of_order": "",
+  "date_of_order": "09.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "CMA 5468/25",
+    "CMA 5469/25"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Salam Abbasi, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

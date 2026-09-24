@@ -8,12 +8,26 @@
   "num_chunks": 2,
   "case_number": "Civil Suit No.149/2019",
   "date_of_order": "13.03.2025",
-  "judge": "",
+  "judge": "Aftab Ahmed Memon",
   "sections_cited": [
     "Section 24 CPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aftab Ahmed Memon",
+    "the Applicant",
+    "the Applicant",
+    "the Appellant",
+    "defendant No. 8",
+    "defendant No. 9",
+    "defendant No. 10",
+    "defendant No. 11",
+    "defendant No. 12",
+    "defendant No. 13",
+    "defendant No. 14",
+    "defendant No. 15",
+    "defendant No. 16"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

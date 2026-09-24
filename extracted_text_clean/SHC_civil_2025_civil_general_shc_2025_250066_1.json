@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-145 of 2025",
-  "date_of_order": "",
+  "date_of_order": "17.03.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Z.A. Naich, Advocate",
+    "Mr. Vinod Kumar, Advocate",
+    "M/s Zulfiqar Ali Naich, Assistant A.G",
+    "Gulzar Ahmed Malano, Assistant P.G",
+    "SIP/I.O, Balo-Ja-Quba"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

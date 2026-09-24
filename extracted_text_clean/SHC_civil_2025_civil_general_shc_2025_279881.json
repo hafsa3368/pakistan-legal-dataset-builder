@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-718 of 2021",
-  "date_of_order": "",
+  "date_of_order": "04.09.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Qayoom Arain, Advocate for the petitioner",
+    "Mr. Ali Raza Baloch, Additional A.G.",
+    "Counsel for the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

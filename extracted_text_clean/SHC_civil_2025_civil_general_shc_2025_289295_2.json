@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-502 of 2025",
   "date_of_order": "27.10.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Asim Malik",
+    "Mr. Ali Raza Balouch",
+    "District Noushero Feroze",
+    "Shaheed Benazir Abad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

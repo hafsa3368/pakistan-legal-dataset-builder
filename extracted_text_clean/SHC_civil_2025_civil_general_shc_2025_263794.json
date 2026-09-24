@@ -8,12 +8,24 @@
   "num_chunks": 2,
   "case_number": "Criminal Miscellaneous Application No.S-176 of 2025",
   "date_of_order": "05.05.2025",
-  "judge": "",
+  "judge": "Ali Haider",
   "sections_cited": [
     "u/s 491 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aijaz Hussain Jatoi",
+    "Ms. Qurat-ul-Ain Morio",
+    "Respondent No.5",
+    "Tehzeeb Ahmed @ Abu Talha",
+    "Nazir Ahmed Birmani",
+    "Applicant",
+    "Respondent No.4",
+    "DSP Inayat Ali Qureshi",
+    "Inspector Ghulam Abbas Babar",
+    "SIP Muneer Ahmed",
+    "SSP Hyderabad"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "08.10.2025",
-  "judge": "",
+  "judge": "M.Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zulfiqar Ali Naich",
+    "Hafiz Lal Muhammad Tunio",
+    "respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

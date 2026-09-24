@@ -8,7 +8,7 @@
   "num_chunks": 21,
   "case_number": "ITRA No.318 of 2019",
   "date_of_order": "30.08.2012",
-  "judge": "",
+  "judge": "Mohammad Abdur Rahman",
   "sections_cited": [
     "Section 122 of the Income Tax Ordinance",
     "Section 152 of the Income Tax Ordinance",
@@ -22,7 +22,12 @@
     "section 68"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Commissioner Inland Revenue, Zone III",
+    "M/s. MND E&P A.S.",
+    "Appellate Tribunal Inland Revenue Bench-V & others",
+    "Pakistan Petroleum Limited"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

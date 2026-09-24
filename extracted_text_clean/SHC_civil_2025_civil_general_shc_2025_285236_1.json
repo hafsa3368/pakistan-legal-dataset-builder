@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-732 of 2025",
-  "date_of_order": "",
+  "date_of_order": "09.10.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Waqar Ali Phulpoto",
+    "Mr. Agha Athar Pathan",
+    "Nadeem Memon",
+    "M.C, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

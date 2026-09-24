@@ -7,13 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-408 of 2025",
-  "date_of_order": "",
+  "date_of_order": "29.04.2025",
   "judge": "",
   "sections_cited": [
     "section 164 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Saeed Ahmed Wassan, AAG and Khalil Ahmed Maitlo, DPG a/w SIP Tariq Hussain, I.O of P.S. B-section, Khairpur",
+    "Mr. Farooque Ali Halepoto, Advocate",
+    "respondent No.1",
+    "respondent No.2",
+    "respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

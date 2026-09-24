@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.S-169 of 2025",
-  "date_of_order": "",
+  "date_of_order": "21.07.2025",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Majeed Mirbahar",
+    "Mr. Ghulam Abbas Kubar",
+    "petitioner",
+    "official respondents",
+    "private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

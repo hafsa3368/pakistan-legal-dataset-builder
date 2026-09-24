@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "15-09-2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ali Raza Baloch",
+    "Secretary Health, Government of Sindh",
+    "Mr. Pervaiz Ahmed Memon",
+    "Respondent No.1 / Secretary Health, Government of Sindh",
+    "Respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

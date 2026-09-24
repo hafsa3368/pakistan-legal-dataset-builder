@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "07.04.2025",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Muhammad Abbas",
+    "Mr. Javed Hussain",
+    "Ms. Masooda Siraj",
+    "Mr. Muhammad Ahmed",
+    "the petitioner",
+    "the respondent",
+    "the department"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

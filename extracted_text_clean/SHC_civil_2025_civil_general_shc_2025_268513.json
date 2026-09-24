@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "26.05.2025",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rashid Mahar",
+    "Ms. Alizeh Bashir",
+    "Deputy Attorney General",
+    "Mr. Muhammad Akbar Khan",
+    "Assistant Attorney General",
+    "Mr. Naimatullah",
+    "Deputy Director IREN Squad/I & I-IR",
+    "Mr. Azam Nafees",
+    "Assistant Director (Audit) IREN/I & I-IR"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constt: Petition No.D-342 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "15.05.2025",
+  "judge": "Naveed Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kashif Hussain Shaikh, Advocate for the petitioners",
+    "Mr. Saeed Ahmed Wassan, Assistant A.G",
+    "Mr. Khalil Ahmed Maitlo, DPG",
+    "SIP Riaz Korai",
+    "No.2",
+    "No.3",
+    "No.7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,18 @@
   "case_number": "Constitution Petition No.D-5206 of 2013",
   "date_of_order": "18.04.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C.",
+    "Indus River System Authority Act, 1992"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Zameer Hussain Ghumro, Malik Naeem Iqbal & Faizan H. Memon, Advocates for the Petitioner",
+    "Mr. Jawad Dero, Advocate General, Sindh",
+    "Mr. Mohsin Qadir Shahwani, Additional Attorney General",
+    "Muhammad Khalid Idrees Rana, Secretary IRSA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

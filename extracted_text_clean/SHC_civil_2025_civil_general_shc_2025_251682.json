@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.S-790 of 2023",
-  "date_of_order": "",
+  "date_of_order": "28.03.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Arslan Khokhar",
+    "M.C",
+    "Khairpur",
+    "Mr. Miran Bux Shar",
+    "Mr. Zulfiqar Ali Naich"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

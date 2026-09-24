@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1268 of 2025",
-  "date_of_order": "",
+  "date_of_order": "03.09.2025",
   "judge": "",
   "sections_cited": [
     "sections 249-A or 265-K CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Zafar Ali Lanjar, Advocate for the petitioners",
+    "M/s Agha Athar Hussain Pathan, Assistant A.G",
+    "Gulzar Ahmed Malano, APG a/w SIP Khadim Hussain of P.S, Naushahro Feroze",
+    "Mr. Badaruddin Memon, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

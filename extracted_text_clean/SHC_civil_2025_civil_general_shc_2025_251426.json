@@ -11,7 +11,15 @@
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondent",
+    "Respondent",
+    "Respondent",
+    "Petitioner",
+    "Petitioner",
+    "Respondent"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

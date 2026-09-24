@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.S-112 of 2025",
-  "date_of_order": "",
+  "date_of_order": "21-07-2025",
   "judge": "Ahmad",
   "sections_cited": [
     "section 249-A or 265-K CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Illahi Bux Jamali, Advocate for the petitioner",
+    "M/s Khalil Ahmed Maitlo, DPG and Ghulam Abbas Akhtar, AAG a/w Shoukat Ali Rind, DSP, Kotdiji and Inspector Mashooq on behalf of SDPO, Gambat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

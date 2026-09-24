@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitutional Petition No.S-257 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "15.09.2025",
+  "judge": "Asghar Altaf",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Munwar Ali Abbasi",
+    "Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

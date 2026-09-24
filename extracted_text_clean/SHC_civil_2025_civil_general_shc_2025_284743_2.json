@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-501 of 2023",
-  "date_of_order": "",
+  "date_of_order": "06-10-2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada",
+    "Mr. Agha Athar Pathan",
+    "Ghulam Murtaza Shah",
+    "the petitioner",
+    "the petitioner",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

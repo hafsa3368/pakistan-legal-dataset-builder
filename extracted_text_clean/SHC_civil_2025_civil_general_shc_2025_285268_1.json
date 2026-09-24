@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-1472 of 2022",
   "date_of_order": "12.09.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Azam Rajput, Advocate for the petitioner",
+    "Mr. Ali Raza Baloch, Additional Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

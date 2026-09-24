@@ -7,13 +7,24 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-265 of 2025",
-  "date_of_order": "",
+  "date_of_order": "19.03.2025",
   "judge": "",
   "sections_cited": [
     "section 161 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Zulfiqar Ali Naich, Assistant A.G",
+    "Gulzar Ahmed Malano, Assistant P.G",
+    "ASI/I.O Aijaz Ali of P.S, Site Area Sukkur",
+    "Farman Ali",
+    "M/s Zulfiqar Ali Naich",
+    "Gulzar Ahmed Malano",
+    "Farman Ali",
+    "M. Adil Pathan, Advocate",
+    "Mr. Mir Raaz Ali Khan Bijarani",
+    "Mr. Mir Raaz Ali Khan Bijarani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

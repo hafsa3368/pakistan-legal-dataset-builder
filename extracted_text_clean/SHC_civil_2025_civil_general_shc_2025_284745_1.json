@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-42 of 2024",
-  "date_of_order": "",
+  "date_of_order": "06.10.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Hamayoun Shaikh",
+    "Syed Naveed Ahmed Shah",
+    "Syed Rizwan Shah",
+    "All Pakistan Good Transport Owners Association",
+    "Mr. Ali Raza Baloch",
+    "Sindh",
+    "Additional A.G Sindh",
+    "DAG",
+    "DSP Motorway Police"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

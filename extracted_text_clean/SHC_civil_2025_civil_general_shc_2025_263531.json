@@ -8,10 +8,23 @@
   "num_chunks": 1,
   "case_number": "Criminal Miscellaneous Application No.S-222 of 2025",
   "date_of_order": "05.05.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sulleman Dahri",
+    "Ms. Sana Memon",
+    "Inspector Muhammad Changal",
+    "SSP Hyderabad",
+    "Inspector Farhan Shaikh",
+    "PS Site Hyderabad",
+    "Sho Site Hyderabad",
+    "Shaman Ali Magsi",
+    "detenue"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

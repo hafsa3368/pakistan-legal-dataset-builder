@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constt: Petition No.D-2175 of 2024",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "07.05.2025",
+  "judge": "Naveed Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ajay Kumar",
+    "State Life Insurance Corporation Group & Pension Zone",
+    "Mr. Zulfiqar Ali Naich",
+    "Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

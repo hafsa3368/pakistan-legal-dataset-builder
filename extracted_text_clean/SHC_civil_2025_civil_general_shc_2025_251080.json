@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Crl. Misc. Application No.S-953 of 2023",
-  "date_of_order": "",
+  "date_of_order": "24.03.2025",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Naimat Ali Shah",
+    "M/s Farhan Ali and Ateeq-ur-Rehman",
+    "Ms. Shabana Naheed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

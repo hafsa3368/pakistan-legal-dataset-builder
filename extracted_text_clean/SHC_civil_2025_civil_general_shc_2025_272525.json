@@ -8,10 +8,21 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "02.06.2025",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Rafique Rajput, Advocate for petitioner",
+    "Mr. Ali Raza Baloch, Additional Advocate General Sindh",
+    "Inspector Manzoor Hussain on behalf of SSP Sukkur",
+    "Inspector Ahmed Ali Halepoto, SHO Police Station Salehpat",
+    "SIP Nizamuddin Chachar of Police Station Cantonment",
+    "Mr. Badaruddin Indhar, Advocate",
+    "respondent No.8",
+    "respondent No.2",
+    "respondent No.4",
+    "respondent No.5"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1572 of 2023",
-  "date_of_order": "",
+  "date_of_order": "20.03.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Karim Bux Janwari",
+    "Assistant Attorney General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

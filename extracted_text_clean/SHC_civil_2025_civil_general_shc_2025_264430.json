@@ -7,14 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Misc. Application No.S-102 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "21.03.2025",
+  "judge": "Asghar Altaf",
   "sections_cited": [
     "Section 561-A of the Cr.P.C",
     "Sections 22-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Bakshan Malik and others",
+    "Arz Muhammad",
+    "Ali Gohar",
+    "Kareem",
+    "Molvi Muhammad Punhal",
+    "Zaheer Ahmed Ujjan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

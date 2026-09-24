@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-279 of 2025",
   "date_of_order": "09.09.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Nasir Malik",
+    "Mr. Ali Raza Baloch",
+    "Javed Ahmed Channa",
+    "DEO Primary",
+    "Shujaw Muhammad Phul",
+    "Sukkur (Education Works)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

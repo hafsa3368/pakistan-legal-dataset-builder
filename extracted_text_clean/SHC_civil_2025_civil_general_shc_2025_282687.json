@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "25.09.2025",
-  "judge": "",
+  "judge": "B-K Soomro",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Rana Azam ul Hassan",
+    "Mr. Irfan Mir Halepota",
+    "Mr. Muhammad Akbar Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

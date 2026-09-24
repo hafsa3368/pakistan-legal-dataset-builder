@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.D-1131 of 2024",
-  "date_of_order": "",
+  "date_of_order": "07.05.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aijaz Ahmed Sipra",
+    "Mr. Faiz Muhammad Shar",
+    "Mr. Shahriyar I. Awan",
+    "Town Committee Pacca Chang",
+    "General Member/Councilor of Town Committee, Pacca Chang",
+    "respondents-Town Committee Pacca Chang",
+    "respondents No.7 to 9",
+    "respondent No.10",
+    "respondent No.11"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

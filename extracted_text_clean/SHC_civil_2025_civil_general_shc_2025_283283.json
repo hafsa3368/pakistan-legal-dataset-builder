@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitutional Petition No. D-4573 of 2025",
-  "date_of_order": "",
+  "date_of_order": "25.09.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Sardar Shabbir Sultan",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,13 +7,20 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitutional Petition No. D-4414 of 2025",
-  "date_of_order": "",
+  "date_of_order": "25.9.2025",
   "judge": "",
   "sections_cited": [
     "Section 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mehtab Ali Soomro",
+    "Mr. Ali Safdar Depar",
+    "Mr. Ali Haider Saleem",
+    "Mst. Saeeda Batool",
+    "Police Station Mangi Mari",
+    "District Khairpur Mir’s"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

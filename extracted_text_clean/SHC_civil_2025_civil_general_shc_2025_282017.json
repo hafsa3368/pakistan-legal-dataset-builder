@@ -8,7 +8,7 @@
   "num_chunks": 7,
   "case_number": "C.P. No.D-4269 of 2025",
   "date_of_order": "09.09.2025",
-  "judge": "",
+  "judge": "Adnan-ul-Karim Memon",
   "sections_cited": [
     "Section 3",
     "Section 170 of the Cr.PC",
@@ -23,7 +23,13 @@
     "1995 SCMR 1345",
     "1970 SCMR 437"
   ],
-  "parties": [],
+  "parties": [
+    "Esha",
+    "Hamza Raheem",
+    "Province of Sindh",
+    "Nabi Bux",
+    "Nabi Bux Gujjar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

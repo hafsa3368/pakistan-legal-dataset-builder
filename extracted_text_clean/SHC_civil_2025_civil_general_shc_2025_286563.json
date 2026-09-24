@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "C. P No.S-370 of 2025",
-  "date_of_order": "",
+  "date_of_order": "17.10.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Tariq Rehman Shaikh",
+    "Mr. Aftab Nek Muhammad Bhutto",
+    "Mr. Sardar Ali Solangi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

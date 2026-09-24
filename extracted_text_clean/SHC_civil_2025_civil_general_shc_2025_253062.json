@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 4,
   "case_number": "Crl. Misc. Application No. S-116 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "21-03-2025",
+  "judge": "Ali Haider ‘Ada’,J",
   "sections_cited": [
     "Section 489-F PPC",
     "section 489-F PPC"
@@ -16,7 +16,10 @@
   "citations": [
     "2017 YLR 1548"
   ],
-  "parties": [],
+  "parties": [
+    "Ghulam Qadir",
+    "The SSP Sukkur & others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

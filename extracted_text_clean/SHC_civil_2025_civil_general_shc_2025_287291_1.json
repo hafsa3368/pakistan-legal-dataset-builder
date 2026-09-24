@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-331 of 2025",
   "date_of_order": "07.10.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Basit Langah, Advocate for the petitioner",
+    "Mr. Zulfiqar Ali Naich, Assistant Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

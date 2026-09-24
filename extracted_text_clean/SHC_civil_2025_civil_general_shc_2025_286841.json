@@ -7,11 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "C. P No.S-365 of 2025",
-  "date_of_order": "",
+  "date_of_order": "20.10.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muzafar Ali Wadho",
+    "Mr. Aftab Nek Muhammad Bhutto",
+    "ASI Nisar Ahmed",
+    "SSP, Larkana",
+    "Inspector Dili Jan Magsi",
+    "SHO, PS Mahotta",
+    "Mr. Zain-ul-Abideen Abbasi",
+    "Mr. Ajmair Ali Bhutto"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

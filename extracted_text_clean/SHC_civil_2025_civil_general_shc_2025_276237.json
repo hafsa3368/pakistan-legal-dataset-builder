@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.S-175 of 2025",
-  "date_of_order": "",
+  "date_of_order": "22.07.2025",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Ms. Fareeda, Advocate",
+    "Mr. Nadeem Khan Lashari, Advocate",
+    "Mr. Khalil Ahmed Maitlo, DPG",
+    "Darul Aman",
+    "Abdul Waheed",
+    "the alleged detainee",
+    "her mother"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,12 +8,17 @@
   "num_chunks": 2,
   "case_number": "",
   "date_of_order": "15.10.2025",
-  "judge": "",
+  "judge": "A.H.Qazi",
   "sections_cited": [
     "Sections 337-A"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Nadeem Ahmed Qureshi",
+    "Respondent No.8",
+    "Respondent No.2",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

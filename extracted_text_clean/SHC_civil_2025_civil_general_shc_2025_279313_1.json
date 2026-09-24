@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1272 of 2023",
-  "date_of_order": "",
+  "date_of_order": "30.05.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Raheem Mahar",
+    "Mr. Shahriyar I. Awan",
+    "Shamsuddin Shaikh",
+    "respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

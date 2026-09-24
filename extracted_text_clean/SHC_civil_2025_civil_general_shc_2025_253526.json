@@ -27,7 +27,12 @@
     "PLD 2021 Islamabad 405",
     "PLD 1970 Karachi 344"
   ],
-  "parties": [],
+  "parties": [
+    "Anwar Majid",
+    "Emirates Bank International PJSC (Formerly Union Bank of Middle East Ltd) & others",
+    "M/s Omar Soomro and Maria Khan",
+    "M/s Hassan Ali and Syed Zain-ul-Abdeen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

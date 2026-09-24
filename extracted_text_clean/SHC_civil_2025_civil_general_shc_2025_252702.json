@@ -9,9 +9,20 @@
   "case_number": "",
   "date_of_order": "14.04.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ovais Ali Shah",
+    "Mr. Khalid Mehmood Siddiqui",
+    "Mr. Khalid Mehmood Rajpar",
+    "Ms. Mehreen Ibrahim",
+    "Mr. Zohaib Korai",
+    "The Petitioner",
+    "The Respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

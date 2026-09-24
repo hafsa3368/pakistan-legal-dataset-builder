@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1291 of 2025",
-  "date_of_order": "",
+  "date_of_order": "10.09.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rukhsar Ahmed Junejo",
+    "Mr. Ali Raza Baloch",
+    "Additional A.G.",
+    "The competent Medical Assessment Board",
+    "Sindh Persons with Disabilities Protection Authority",
+    "Department of Empowerment of Persons with Disabilities",
+    "Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

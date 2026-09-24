@@ -7,13 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-555 of 2025",
-  "date_of_order": "",
+  "date_of_order": "30.04.2025",
   "judge": "",
   "sections_cited": [
     "section 164 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Adil Pathan",
+    "Mr. Khalil Ahmed Maitlo a/w SIP Gulzar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

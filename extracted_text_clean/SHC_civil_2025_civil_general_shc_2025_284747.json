@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1328 of 2024",
-  "date_of_order": "",
+  "date_of_order": "06.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Naeem Pirzada",
+    "SMC, Sukkur",
+    "Mr. Khuda Bux Chohan",
+    "Sindh",
+    "Mr. Ali Raza Baloch",
+    "Additional A.G Sindh",
+    "Municipal Commissioner, Sukkur Municipal Corporation"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

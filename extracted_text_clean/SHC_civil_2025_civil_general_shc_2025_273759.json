@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No. D-592 of 2025",
   "date_of_order": "03.06.2025",
-  "judge": "",
+  "judge": "HEAD OF CONST. BENCHES",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "MAK/PS",
+    "Mr. Mallag Assa Dashti",
+    "Mr. Mohsin Shahwani",
+    "Javed Ahmed Baloch",
+    "Inspector Habib-ur-Rehman",
+    "M. Nasir PS Preedy"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

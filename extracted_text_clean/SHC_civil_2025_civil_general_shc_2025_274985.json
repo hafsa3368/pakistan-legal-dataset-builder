@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1009 of 2025",
-  "date_of_order": "",
+  "date_of_order": "09.07.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Zohaib Azam, Advocate for petitioner",
+    "Mr. Ghulam Abbas Kubar, Assistant A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

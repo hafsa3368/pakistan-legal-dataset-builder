@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 3,
   "case_number": "Crl. Misc. Application No. S-137 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "24-03-2025",
+  "judge": "Ali Haider ‘Ada’,J",
   "sections_cited": [
     "u/s 22-A & 22-B Cr.P.C",
     "u/s 302 PPC"
@@ -16,7 +16,13 @@
   "citations": [
     "2024 SCMR 985"
   ],
-  "parties": [],
+  "parties": [
+    "Muneer Ahmed Gilal",
+    "The State & others",
+    "Din Muhammad",
+    "Saddam",
+    "Muhammad Fazal"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

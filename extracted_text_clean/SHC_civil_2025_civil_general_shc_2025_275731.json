@@ -9,9 +9,20 @@
   "case_number": "C.P No.S-534 of 2025",
   "date_of_order": "22.07.2025",
   "judge": "Ayaz Gul",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ilyas Khan Tanoli",
+    "Mr. Fazil Rind",
+    "Mr. Zahoor Shah",
+    "Mr. K.A. Vaswani",
+    "Mr. Raza Mian",
+    "Mr. Javed Farooqui",
+    "PI Jawed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

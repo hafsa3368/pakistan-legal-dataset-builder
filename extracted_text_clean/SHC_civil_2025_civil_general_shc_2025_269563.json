@@ -24,7 +24,36 @@
   "citations": [
     "PLD 2007 SC 35"
   ],
-  "parties": [],
+  "parties": [
+    {
+      "type": "petitioner",
+      "name": "Muhammad Yaqoob Anjum"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mazhar Muhammad"
+    },
+    {
+      "type": "petitioner",
+      "name": "Muhammad Younis"
+    },
+    {
+      "type": "petitioner",
+      "name": "Mufti Muhammad Yaseen"
+    },
+    {
+      "type": "respondent",
+      "name": "Province of Sindh"
+    },
+    {
+      "type": "intervener",
+      "name": "Nabi Bux Leghari"
+    },
+    {
+      "type": "intervener",
+      "name": "Muhammad Sharif Solangi"
+    }
+  ],
   "chunks": [
     {
       "chunk_index": 0,

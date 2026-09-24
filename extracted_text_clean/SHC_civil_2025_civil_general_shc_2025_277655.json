@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No. D-1745 of 2025",
   "date_of_order": "05.08.2025",
-  "judge": "",
+  "judge": "HEAD OF CONST. BENCHES",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Yousuf",
+    "Mr. Ali Safdar Deepar",
+    "the petitioner",
+    "the respondent",
+    "I.O. Muhammad Urs"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

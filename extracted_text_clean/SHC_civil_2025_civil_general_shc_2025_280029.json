@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitutional Petition No. D-4208 of 2025",
-  "date_of_order": "",
+  "date_of_order": "27.08.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Rehan Kayani",
+    "petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

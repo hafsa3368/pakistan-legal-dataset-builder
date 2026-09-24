@@ -9,9 +9,25 @@
   "case_number": "Constitutional Petition No.D-1264 of 2012",
   "date_of_order": "02-10-2025",
   "judge": "Muhammad Saleem Jessar Mr",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "Section 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Muhammad Sachal and others",
+    "Imtiaz Ali and others",
+    "Province of Sindh and others",
+    "Mr. Justice Muhammad Saleem Jessar",
+    "Mr. Justice Nisar Ahmed Bhanbhro",
+    "Mr. Liaqat Ali Shar",
+    "M/S Ali Azhar Tunio",
+    "Rashid Ali Tunio",
+    "Additional Advocate General",
+    "Sindh",
+    "Shikarpur",
+    "Lakhi Ghulam Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

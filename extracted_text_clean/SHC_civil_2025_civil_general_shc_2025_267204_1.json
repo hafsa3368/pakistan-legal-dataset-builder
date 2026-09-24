@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1106 of 2021",
-  "date_of_order": "",
+  "date_of_order": "20.05.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Daim Ali Bhanbhro",
+    "Sukkur IBA",
+    "Mr. Ahmed Ali Shahani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

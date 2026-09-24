@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1397 of 2025",
-  "date_of_order": "",
+  "date_of_order": "22.09.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Badaruddin Memon",
+    "M/s Ali Raza Baloch",
+    "Naheed Akhtar",
+    "Inspector/I.O Muhammad Younis of P.S, Al-falah-Karachi",
+    "Petitioner No.1",
+    "Petitioner No.2",
+    "Magistrate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

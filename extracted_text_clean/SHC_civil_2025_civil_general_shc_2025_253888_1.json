@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Constitutional Petition No.D-1568 of 2024",
   "date_of_order": "26.03.2025",
-  "judge": "",
+  "judge": "Naveed Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Hafeez Bandhani, Advocate",
+    "Mr. Ali Raza Baloch, Additional Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

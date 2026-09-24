@@ -7,13 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "13-10-2025",
   "judge": "",
   "sections_cited": [],
   "citations": [
     "2025 SCMR 322"
   ],
-  "parties": [],
+  "parties": [
+    "None"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

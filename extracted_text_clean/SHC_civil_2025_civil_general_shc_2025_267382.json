@@ -7,11 +7,23 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1287 of 2024",
-  "date_of_order": "",
+  "date_of_order": "21.05.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mir Ali Nawaz Khan",
+    "Mr. Ahmed Ali Shahani",
+    "Abdul Qadeer",
+    "Abdul Qadeer",
+    "NBP Luqman Branch",
+    "Abdul Qadeer",
+    "Khairpur",
+    "SHO, P.S, B- section, Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

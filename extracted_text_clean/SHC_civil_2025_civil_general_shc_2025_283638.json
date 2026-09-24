@@ -7,11 +7,22 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "25.09.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Shahid, Advocate for the Petitioners",
+    "Ms. Shabana Naheed, Assistant PG for the State",
+    "Mr. Saeed Ahmed Wassan, Assistant Advocate General",
+    "SIP Gulzar Ahmed",
+    "SIP Allah Wadhayo",
+    "Mr. Qudratullah Rajput, Advocate",
+    "Respondent No.2",
+    "Respondent No.3",
+    "Respondent No.5",
+    "Police Station, Tando Masti Khan, District Khairpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

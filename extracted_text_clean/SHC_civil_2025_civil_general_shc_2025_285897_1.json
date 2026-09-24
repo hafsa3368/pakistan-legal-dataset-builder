@@ -9,11 +9,18 @@
   "case_number": "Constitution Petition No.D-1167 of 2024",
   "date_of_order": "17.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C.",
+    "Section 497 CrPC",
+    "Syed Nazir Gillani vs. Pakistant Red Crescent Society and another (2014 SCMR 982)",
+    "Muhammad Nawaz vs. Ministry of Health through Secretary, Islamabad and another (2012 P.Cr.L.J (C.S) 328)"
+  ],
   "citations": [
     "2014 SCMR 982"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Qayyum Arain, Mr. Abdul Sattar Mahesar, Mr. Noor Hassan Malik, Sharyar Awan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

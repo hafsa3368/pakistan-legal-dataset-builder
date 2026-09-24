@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "Criminal Miscellaneous Application No.227 of 2025",
   "date_of_order": "20.06.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Farman Ali Shar",
+    "Mr. Gulzar Ahmed Malano",
+    "Mr. Shahryar Imdad Awan",
+    "SIP Abdul Ghafoor",
+    "SIP Hassan Ali Shar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

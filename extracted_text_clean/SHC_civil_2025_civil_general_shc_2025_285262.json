@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-109 of 2023",
   "date_of_order": "12.09.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aamir Ali Bhutto",
+    "Mr. Agha Athar Hussain",
+    "Learned counsel for the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

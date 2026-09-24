@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No. S-04 of 2025",
-  "date_of_order": "",
+  "date_of_order": "07.07.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sarfraz Ahmed Akhund",
+    "Assistant AAG, Sindh",
+    "SIP Iqbal Ahmed Noon",
+    "PS Hinogrja",
+    "ASI Hazoor Bux",
+    "ASI Irshad Ali",
+    "ASI Mehboob Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

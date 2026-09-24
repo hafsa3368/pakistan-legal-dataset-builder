@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1355 of 2025",
-  "date_of_order": "",
+  "date_of_order": "10.09.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Qayyum Arain",
+    "Mr. Ali Raza Baloch",
+    "D.C",
+    "Circuit Court, Larkana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

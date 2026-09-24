@@ -7,14 +7,26 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitution Petition No. S-122 of 2022",
-  "date_of_order": "",
+  "date_of_order": "01-07-2025",
   "judge": "",
   "sections_cited": [
     "u/s 3 & 4 of Illegal Dispossession Act",
     "u/s 381-A, 511, 34 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Abdul Qadir Khanzada",
+    "Agha Athar Hussain",
+    "Farhan Ali Shaikh",
+    "Liaquat Ali",
+    "Naushahro Feroze",
+    "Mr. Abdul Qadir Khanzada",
+    "Mr. Agha Athar Hussain",
+    "Mr. Farhan Ali Shaikh",
+    "respondent No. 7",
+    "official respondents",
+    "private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

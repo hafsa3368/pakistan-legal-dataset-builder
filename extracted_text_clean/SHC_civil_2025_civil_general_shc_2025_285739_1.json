@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-788 of 2025",
   "date_of_order": "16.09.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Achar Khan Gabol, Advocate",
+    "Mr. Agha Athar Hussain, Assistant Advocate General",
+    "Mr. Mansoor Ahmed Shaikh, Deputy Prosecutor General",
+    "Inspector Muhammad Bachal Qazi",
+    "SSP Khairpur",
+    "SIP Ghulam Asghar Ujjan",
+    "SHO PS Setharja",
+    "Counsel for petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

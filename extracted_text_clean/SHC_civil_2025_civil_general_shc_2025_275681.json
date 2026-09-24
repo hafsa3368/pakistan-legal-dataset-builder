@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.S-143 of 2025",
-  "date_of_order": "",
+  "date_of_order": "21.07.2025",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ubedullah Malano, Advocate",
+    "M/s Ghulam Abbas Kubar, Assistant A.G",
+    "Khalil Ahmed Maitlo, DPG",
+    "Muhammad Moosa, DSP/SDPO",
+    "Shafi Muhammad, SSP",
+    "Pano Aiil",
+    "DSP Legal",
+    "No.3&4",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

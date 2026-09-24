@@ -7,11 +7,22 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitutional Petition No.D-545 of 2025",
-  "date_of_order": "",
+  "date_of_order": "25.06.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ashfaque Hussain Abro",
+    "Mr. Muhammad Ali Memon",
+    "Mr. Munwar Ali Abbassi",
+    "Ayaz Hussain Mashori",
+    "Assistant Commissioner Khanpur",
+    "Aftab Ahmed Solangi",
+    "Mukhtiarkar Khanpur",
+    "Survey Superintendent Larkana",
+    "Respondent No.01",
+    "Respondent No.02"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

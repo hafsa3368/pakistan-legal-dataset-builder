@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-1376 of 2025",
   "date_of_order": "17.09.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shazado Dreho",
+    "Chairman Complaint Redressal Committee",
+    "Mr. Ali Raza Baloch",
+    "Additional Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

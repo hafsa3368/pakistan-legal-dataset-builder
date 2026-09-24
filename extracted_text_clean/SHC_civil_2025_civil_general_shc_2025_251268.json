@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "20.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Khalid Jawed Khan",
+    "Mr.M.Nouman Jamali",
+    "Mr.Kashif Nazeer",
+    "Mr.Khalid Rajpar",
+    "Mr.Irfan Mir Halepota"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,9 +9,23 @@
   "case_number": "C.P No.S-513 of 2025",
   "date_of_order": "30.06.2025",
   "judge": "Ayaz Gul",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saood Hussain",
+    "Mr. Ali Haider Saleem",
+    "Mr. Shariq Mubashir",
+    "DSP Raza Mian",
+    "DSP Legal-II",
+    "SIP Javed Khan",
+    "SIP Amjad Ali",
+    "SIP Shakeel Ahmed",
+    "SIP Manzoor Ahmed Rind",
+    "ASI Kamran Haider",
+    "SIP Noor Ahmed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

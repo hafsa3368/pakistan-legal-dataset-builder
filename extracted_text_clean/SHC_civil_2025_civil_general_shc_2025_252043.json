@@ -8,10 +8,18 @@
   "num_chunks": 2,
   "case_number": "C.P.No.D-987 of 2025",
   "date_of_order": "25.01.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Aadil Arab",
+  "sections_cited": [
+    "Section 155 of the Constitution"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Zameer Hussain Ghumro, Malik Naeem Iqbal & Faizan H. Memon",
+    "Mr. Jawad Dero, Advocate General, Sindh",
+    "Mr. Mohsin Qadir Shahwani, Additional Attorney General",
+    "Mr. Kafeel Ahmed Abbasi, Addl. A.G.",
+    "Sajid Ali Bhutto, Secretary Irrigation Department, Government of Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

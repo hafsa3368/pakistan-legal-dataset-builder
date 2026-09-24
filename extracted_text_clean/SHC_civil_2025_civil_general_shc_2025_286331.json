@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "07.10.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imdad Ali Malik",
+    "Mr. Saeed Ahmed Wassan",
+    "Mujeeb-ur-Rehman Malano",
+    "Assistant Advocate General Sindh",
+    "Government of Sindh",
+    "Local Government Department",
+    "Mr. Imdad Ali Malik"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

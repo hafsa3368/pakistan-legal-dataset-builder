@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-40 of 2019",
   "date_of_order": "17.09.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner",
+    "Respondents",
+    "Ghulam Qadir",
+    "Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

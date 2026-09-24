@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "24.03.2025",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Sikandar Ali Junejo",
+    "Mr. Zulfiqar Ali Jatoi",
+    "the applicant",
+    "the court"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "C.P. No.D-2805 of 2021",
   "date_of_order": "20.06.2025",
-  "judge": "",
+  "judge": "Head of Const. Benches",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Dr. Shamim Qureshi",
+    "Jinnah Sindh Medical University",
+    "HEC",
+    "JSMU"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,10 +8,16 @@
   "num_chunks": 1,
   "case_number": "C.P. No.S-497 of 2024",
   "date_of_order": "28.02.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Aslam Baig Laghari",
+    "Mr. Muhammad Yousuf Rahpoto",
+    "Respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1128 of 2025",
-  "date_of_order": "",
+  "date_of_order": "02.10.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. J.K. Jarwar",
+    "Syed Naveed Ahmed Shah",
+    "Mr. Shafique Ahmed Leghari",
+    "Hamayoun Sheikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

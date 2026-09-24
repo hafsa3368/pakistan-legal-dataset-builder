@@ -7,13 +7,18 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constt: Petition No.D-347 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "06.05.2025",
+  "judge": "Naveed Ali",
   "sections_cited": [
     "u/s 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Baqi Jan Kakar",
+    "Mr. Ali Raza Baloch",
+    "Syed Sardar Ali Shah",
+    "Ghulam Asghar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,15 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "C.P. No.D-1409 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "31.07.2025",
+  "judge": "Irfan Ali",
   "sections_cited": [
     "Sections 371-B, 376",
     "Section 3",
     "Sections 371-B and 376 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Musab",
+    "Province of Sindh",
+    "Mst. Faiza",
+    "Mr. Javed Ali Buriro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

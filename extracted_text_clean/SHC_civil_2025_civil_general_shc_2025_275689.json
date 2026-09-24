@@ -9,9 +9,15 @@
   "case_number": "Const. Petition No.D-701 of 2025",
   "date_of_order": "10.08.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Petitioner/Applicant/Appellant",
+    "Respondent No.5",
+    "Town Committee, Sobhodero"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

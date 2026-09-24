@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1132 of 2025",
-  "date_of_order": "",
+  "date_of_order": "02.10.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. J.K. Jarwar",
+    "Mr. Ali Raza Baloch",
+    "Syed Naveed Ahmed Shah",
+    "Mr. Adnan Arshad",
+    "Counsel for the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

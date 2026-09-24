@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-843 of 2025",
-  "date_of_order": "",
+  "date_of_order": "01.07.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mehboob Ali Wassan, Advocate",
+    "Syed Sardar Ali Shah, APG",
+    "Inspector/I.O Mashooque Ali of P.S, Kumb"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

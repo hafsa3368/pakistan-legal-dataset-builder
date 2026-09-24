@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "29.08.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "MUHAMMAD IQBAL KALHORO",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Karachi University",
+    "Mr. Usman Farooq",
+    "Mr. Muhammad Hisham Mahar",
+    "Mr. Khalid Javed"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,22 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Const. Petition No.S-160 of 2025",
-  "date_of_order": "",
+  "date_of_order": "11-08-2025",
   "judge": "Ahmad",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Atta Muhammad",
+    "M/s Saeed Ahmed Wassan",
+    "Muhammad Raza Katohar",
+    "Inspector Mashooq",
+    "Ghulam Hyder",
+    "SSP, Khairpur",
+    "Muhammad Ali of P.S, Baharo",
+    "Mr. Muhammad Shahid Shaikh",
+    "Advocate",
+    "private respondents No.9&10"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

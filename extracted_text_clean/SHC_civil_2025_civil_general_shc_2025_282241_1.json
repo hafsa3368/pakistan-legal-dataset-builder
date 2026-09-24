@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "16.09.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s Achar Khan Gabol and Muhammad Naeem, Advocates",
+    "M/s Mujeeb-ur-Rehman Soomro and Adnan Arshad Jatoi, Special Prosecutors",
+    "NAB, Sukkur",
+    "Mr. Shahryar Awan, Assistant Advocate General Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

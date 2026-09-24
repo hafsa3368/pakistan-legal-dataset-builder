@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-1952 of 2024",
   "date_of_order": "01.10.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Yaseen Khaskheli",
+    "Mr. Agha Athar Hussain",
+    "petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

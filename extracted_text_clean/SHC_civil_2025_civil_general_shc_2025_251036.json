@@ -9,9 +9,15 @@
   "case_number": "",
   "date_of_order": "24.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 24 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahbakht Pirzada",
+    "Mr. Fawad Chand",
+    "Dr. Shah Nawaz Memon"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

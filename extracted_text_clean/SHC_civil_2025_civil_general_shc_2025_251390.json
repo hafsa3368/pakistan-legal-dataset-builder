@@ -8,7 +8,7 @@
   "num_chunks": 24,
   "case_number": "Criminal Revision Application No. 25 of 2024",
   "date_of_order": "01.03.2025",
-  "judge": "",
+  "judge": "MUHAMMAD SALEEM JESSAR",
   "sections_cited": [
     "Section 7 of the Illegal Dispossession Act",
     "Section 123 of the Pakistan Air Force Act",
@@ -37,7 +37,17 @@
     "2023 YLR Note 9",
     "PLD 2024 Islamabad 155"
   ],
-  "parties": [],
+  "parties": [
+    "Assad Naeem",
+    "Saleem Akhtar",
+    "Pakistan Air Force",
+    "State of Pakistan",
+    "Khaleeq Ahmed",
+    "Rafique Ahmed Rajori",
+    "Zahoor Shah",
+    "Pakistan Air Force JAG",
+    "Umar Farooq"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

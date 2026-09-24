@@ -9,9 +9,21 @@
   "case_number": "",
   "date_of_order": "13.05.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Riaz Ali Shaikh",
+    "Mr. Saeed Ahmed Wassan",
+    "Mr. Khalil Ahmed Maitlo",
+    "Mr. Sher Muahmmad Ujjan",
+    "Respondent No.5",
+    "Respondents Nos. 2 to 4",
+    "ASI Abid Ali Buller",
+    "Police Station Bhirya city"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

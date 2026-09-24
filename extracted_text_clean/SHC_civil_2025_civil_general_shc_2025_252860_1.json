@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "27.03.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ayaz Gul",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Ramzan Sethi",
+    "Mr. Irfan Mir Halepota",
+    "Ms. Mahreen Ibrahim",
+    "Mr. Irfan Mir Halepota"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

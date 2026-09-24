@@ -9,9 +9,17 @@
   "case_number": "Constitution Petition No.S-1418 of 2024",
   "date_of_order": "02.06.2025",
   "judge": "Ayaz Gul",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Malik Khushhal Khan",
+    "Mr. Zia-ul-Haq Makhdoom",
+    "Intervener",
+    "SSP Malir, Karachi",
+    "SHO P.S Shah Latif Town, Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

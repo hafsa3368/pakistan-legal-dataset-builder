@@ -7,13 +7,22 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constt: Petition No.D-637 of 2025",
-  "date_of_order": "",
+  "date_of_order": "21.05.2025",
   "judge": "Naveed Ali",
   "sections_cited": [
     "u/s 161 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mir Muhammad Shaikh",
+    "Mr. Saeed Ahmed Wassan",
+    "Assistant A.G",
+    "Inspector Ahsan Ali Gaho",
+    "Mr. Safdar Ali Jogi",
+    "Bashir Ahmed",
+    "Monika",
+    "Naveed Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -9,7 +9,9 @@
   "case_number": "Constitutional Petition No.D-5772 of 2023",
   "date_of_order": "15.10.2025",
   "judge": "Muhammad Karim Khan Agha Justice",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2006 SCMR 152",
     "2002 MLD 1673",
@@ -20,7 +22,24 @@
     "PLD 1993 Lahore 390",
     "PLD 2025 Sindh 138"
   ],
-  "parties": [],
+  "parties": [
+    "Imtiaz Ahmed Bhatti",
+    "Government of Sindh",
+    "Respondent No. 6",
+    "Respondent No. 3",
+    "Respondent No. 4",
+    "Respondent No. 5",
+    "Respondent No. 7",
+    "Additional Secretary, General Admin.",
+    "Mr. Bilawal Abro",
+    "Mr. Muhammad Faraz Qureshi",
+    "Mr. Ghulam Nabi",
+    "Mr. Amanullah Qazi",
+    "Mr. Gulsher",
+    "Mr. Nasrullah Korai",
+    "Mr. Rashid Mahar",
+    "Mr. Ali Safdar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

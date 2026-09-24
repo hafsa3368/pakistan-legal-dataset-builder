@@ -7,11 +7,13 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-680 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "14.05.2025",
+  "judge": "Naveed Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Imtiaz Ali Chadhar, Advocate for the petitioners"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

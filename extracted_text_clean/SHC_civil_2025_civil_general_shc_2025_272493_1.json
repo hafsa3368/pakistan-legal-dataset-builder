@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "03.06.2025",
-  "judge": "",
+  "judge": "Abdul Basit",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shewak Ram Valecha",
+    "Mr. Ali Raza Baloch",
+    "Respondents No.2, 3 and 4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

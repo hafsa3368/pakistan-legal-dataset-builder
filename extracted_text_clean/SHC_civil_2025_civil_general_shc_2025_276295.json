@@ -9,9 +9,22 @@
   "case_number": "Constitutional Petition No.S-153 of 2025",
   "date_of_order": "30.07.2025",
   "judge": "Adnan Ashraf Nizamani",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst Shahnaz",
+    "Mr. Yasir Nazeer Shaikh",
+    "Zulfiqar Ali",
+    "Abdul Razaque",
+    "SIP Zubair",
+    "Imtiaz Hussain",
+    "Mst Hajra",
+    "Mst Allah Bachai",
+    "Muhammad Ameen"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

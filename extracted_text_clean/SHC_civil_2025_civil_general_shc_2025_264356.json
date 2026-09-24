@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "C.P. No.S-168 of 2025",
   "date_of_order": "13.05.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Ali Haider",
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Fareeda Naz",
+    "ASI Allah Bachayo Khaskheli I/c",
+    "PP Seerani PS Badin",
+    "SSP Badin",
+    "SHO PS Badin",
+    "Respondents No.2 and 3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

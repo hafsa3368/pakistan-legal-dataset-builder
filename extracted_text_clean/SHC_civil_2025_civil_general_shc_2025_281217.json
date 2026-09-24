@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitutional Petition No.S-295 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "08.09.2025",
+  "judge": "Asghar Altaf",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Afzal Jagirani",
+    "Mr. Munwar Ali Abbasi",
+    "Assistant Advocate General",
+    "Mr. Sardar Ali Solangi",
+    "Deputy Prosecutor General",
+    "Ghulam Mustafa",
+    "Abdullah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

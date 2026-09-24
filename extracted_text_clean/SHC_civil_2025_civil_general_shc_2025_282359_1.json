@@ -8,10 +8,15 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "22.09.2025",
-  "judge": "",
+  "judge": "Nadeem Qureshi",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Munsif Jan",
+    "Mr. Masroor Ahmed Khan",
+    "KW&SC",
+    "SW&SC"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

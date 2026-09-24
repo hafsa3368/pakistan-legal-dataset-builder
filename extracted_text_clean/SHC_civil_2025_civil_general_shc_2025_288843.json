@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-986 of 2024",
   "date_of_order": "14.10.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "SSP Ghotki",
+    "District Accounts office, Ghotki",
+    "Mr. Rehmat Ali Shaikh",
+    "Mr. Zulfiqar Ali Naich",
+    "Inspector Naveed Akhtar Prizada",
+    "Ali Raza Balouch",
+    "Mr. Zubair Ahmed Kalwar",
+    "District Accounts officer"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

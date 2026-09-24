@@ -8,7 +8,7 @@
   "num_chunks": 5,
   "case_number": "",
   "date_of_order": "18.09.2025",
-  "judge": "",
+  "judge": "Jehangir Larik",
   "sections_cited": [
     "Section 151 CPC"
   ],
@@ -20,7 +20,19 @@
     "PLD 1993 SC 341",
     "PLD 2011 SC 619"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Sohail Ahmed Khoso and Syed Zafar Ali Shah",
+    "Mr. Humayoon Shaikh",
+    "Mr. Ali Raza Balouch",
+    "M. Younis Balouch",
+    "SSP Traffic Police Sukkur",
+    "Jehangir Larik",
+    "Azhar Khan Mughal",
+    "SSP Sukkur",
+    "Insp. Muhammad Moosa Trafic Sergeant",
+    "M/s Mehfooz Ahmed Awan",
+    "Muhammad Ali Napar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

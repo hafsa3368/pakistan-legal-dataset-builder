@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "17-09-2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Naveed Ahmed Shah, Deputy Attorney General",
+    "Abdul Nasir Khokhar, Chief Post Master, GPO Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

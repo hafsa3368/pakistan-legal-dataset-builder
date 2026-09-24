@@ -7,13 +7,20 @@
   "used_ocr": false,
   "num_chunks": 2,
   "case_number": "Constitutional Petition No.S-285 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "15.09.2025",
+  "judge": "Asghar Altaf",
   "sections_cited": [
     "u/s 395, 396 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Farhat Ali Bugti",
+    "Mr. Munwar Ali Abbasi",
+    "Assistant Advocate General",
+    "Mr. Sardar Ali Solangi",
+    "Deputy Prosecutor General",
+    "Waheed s/o Gul Hassan Bangulani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

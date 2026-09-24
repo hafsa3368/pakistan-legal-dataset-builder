@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-1603 of 2025",
   "date_of_order": "09.10.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "S.Nawaz",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Kashif Rehman Abassi",
+    "Mr. Muhammad Hassan",
+    "Mr. Naveed Ahmed Shah",
+    "Mr. Agha Athar Hussain",
+    "NADRA"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

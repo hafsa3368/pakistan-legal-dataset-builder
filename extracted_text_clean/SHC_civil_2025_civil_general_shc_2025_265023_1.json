@@ -7,11 +7,16 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-760 of 2024",
-  "date_of_order": "",
+  "date_of_order": "14-05-2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Sattar Brohi",
+    "Syed Naimat Ali Shah",
+    "Syed Tanveer Abbas Shah",
+    "Syed Naveed Ahmed Shah, D.A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

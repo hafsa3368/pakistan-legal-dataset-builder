@@ -7,13 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-451 of 2025",
-  "date_of_order": "",
+  "date_of_order": "30.04.2025",
   "judge": "",
   "sections_cited": [
     "section 161 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Miran Bux Shar, Advocate",
+    "M/s Saeed Ahmed Wassan, AAG",
+    "Khalil Ahmed Maitlo, DPG",
+    "Zahoor Phull of P.S, Sobhodero",
+    "Mr. Sohail Ahmed Khoso, Advocate"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

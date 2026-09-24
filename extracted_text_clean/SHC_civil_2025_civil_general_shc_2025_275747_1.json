@@ -7,11 +7,22 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "21.07.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ramiz Nasim, Advocate for Petitioners",
+    "Mr. Muhammad Akbar Khan, Assistant Attorney General",
+    "SI Muhammad Aftab of FIA Immigration",
+    "DSP Ayaz Ahmed Pandhiani",
+    "Foreign Registration Office",
+    "Special Branch SIP Jawaid Akhtar",
+    "FRO/SB",
+    "DSP Raza Mian Legal-II",
+    "Respondents No.2 to 5",
+    "Counsel for the Petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

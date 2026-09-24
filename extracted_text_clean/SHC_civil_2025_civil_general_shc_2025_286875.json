@@ -8,10 +8,17 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-487 of 2020",
   "date_of_order": "06.10.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "S.Nawaz",
+  "sections_cited": [
+    "Section 3 of the Official Secrets Act, 1920 (Section 3 of the Official Secrets Act, 1920)"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bakhshan Khan Mahar",
+    "Mr. Zulfiqar Ali Naich",
+    "XEN Nabi Bux Laghari",
+    "Niaz Hussain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

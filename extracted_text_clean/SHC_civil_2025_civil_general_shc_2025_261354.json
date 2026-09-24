@@ -8,12 +8,18 @@
   "num_chunks": 1,
   "case_number": "Criminal Miscellaneous Application No.S-86 of 2025",
   "date_of_order": "15.04.2025",
-  "judge": "",
+  "judge": "Ali Haider",
   "sections_cited": [
     "u/s 491 Cr.P.C"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Niaz Hussain Shahani",
+    "Applicant",
+    "Mr. Shahnawaz Bughio",
+    "Respondent No.5",
+    "ASI Zahid Hussain Hingoro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

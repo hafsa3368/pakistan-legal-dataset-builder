@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "13.05.2025",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Manzar Hussain Memon",
+    "Mr. Muhammad Khalil Dogar",
+    "Ms. Alizeh Bashir",
+    "Deputy Attorney General",
+    "Mr. Muhammad Akbar Khan"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

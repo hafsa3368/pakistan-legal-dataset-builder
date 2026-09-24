@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "20-03-2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "None",
+    "SIP Muhammad Saleh of P.S, Memon Goth Malir Karachi"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

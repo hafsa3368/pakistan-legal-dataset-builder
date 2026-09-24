@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "24.07.2025",
-  "judge": "",
+  "judge": "S.Ashfaq",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Bux Abro",
+    "Mr. Liaquat Ali Shar",
+    "Mr. Aitbar Ali Bullo",
+    "Aftab Nek Muhammad Bhutto",
+    "Mr. Nazir Ahmed Bhangwar",
+    "Sindh",
+    "Larkana"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,7 +8,7 @@
   "num_chunks": 9,
   "case_number": "",
   "date_of_order": "19.05.2025",
-  "judge": "",
+  "judge": "Muhammad Osman Ali Hadi",
   "sections_cited": [
     "Section 6",
     "section 20",
@@ -20,7 +20,12 @@
     "PLD 2023 Lahore 621",
     "PLD 2019 Lahore 607"
   ],
-  "parties": [],
+  "parties": [
+    "M/s Porsche Middle East and Africa FZE",
+    "M/s. Performance Automotive (Pvt.) Ltd.",
+    "Khawaja Hassan Anwar",
+    "Mr. Khalid Mehmood Siddiqui"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

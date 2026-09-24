@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-992 of 2025",
-  "date_of_order": "",
+  "date_of_order": "02.07.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Pervaiz Ali Jatoi",
+    "Majid Ali Mako",
+    "SIP Dhani Bux",
+    "SSP, Sukkur",
+    "Assistant Commissioner, Salehpat"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

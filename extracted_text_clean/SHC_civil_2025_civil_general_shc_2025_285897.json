@@ -8,12 +8,20 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-1167 of 2024",
   "date_of_order": "17.09.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "S.Nawaz",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "2014 SCMR 982"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Noor Hassan Malik",
+    "Mr. Sharyar Awan",
+    "Mr. Abdul Sattar Mahesar",
+    "Mr. Abdul Qayyum Arain"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

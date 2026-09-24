@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-459 of 2025",
   "date_of_order": "16.09.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Yousuf Mahar",
+    "Pakistan (via Deputy Attorney General, Muhammad Saleem, and Muhammad Saleem, Accounts Officer)"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

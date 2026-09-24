@@ -9,9 +9,17 @@
   "case_number": "",
   "date_of_order": "07.03.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Taimoor Ahmed Qureshi",
+    "Ms. Alizeh Bashir",
+    "SIP Illahi Bux",
+    "Mr. Mukesh Kumar Khatri"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

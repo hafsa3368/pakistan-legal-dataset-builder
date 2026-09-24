@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1787 of 2025",
-  "date_of_order": "",
+  "date_of_order": "23.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "CMA 7131/25",
+    "CMA 7132/25",
+    "CMA 7233/25"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Amjad Ali Shah, Advocate for the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

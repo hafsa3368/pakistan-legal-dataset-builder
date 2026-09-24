@@ -8,10 +8,23 @@
   "num_chunks": 2,
   "case_number": "C. P. No.S-310 of 2025",
   "date_of_order": "12.09.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "M.Yousuf Panhwar",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Sharif Ghanghro",
+    "Mr. Aftab Ahmed Bhutto",
+    "Mr. Ali Anwar Kandhro",
+    "Mr. Zain-ul- Abideen Abbasi",
+    "SSP Larkana",
+    "SSP Shikarpur",
+    "Gul Hassan",
+    "Sahab Khan",
+    "Ali Dost"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitutional Petition No.S-258 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "15.09.2025",
+  "judge": "Asghar Altaf",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "M/s. Muhammad Afzal Jagirani and Hayat Muhammad",
+    "Mr. Munwar Ali Abbasi",
+    "Mr. Javed Ahmed Soomro Advocate",
+    "Official respondents",
+    "Private respondents"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

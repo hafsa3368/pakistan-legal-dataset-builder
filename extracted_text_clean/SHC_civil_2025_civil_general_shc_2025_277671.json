@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "Const. Petition No. D-2909 of 2025",
   "date_of_order": "13.08.2025",
-  "judge": "",
+  "judge": "HEAD OF CONST. BENCHES",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Tahir Durrani",
+    "Mr. Adnan Ali Khan",
+    "Ms. Wajiha M. Mehdi",
+    "SP (Invt.-II) Fateh Muhammad Sheikh",
+    "Inspector Ali Gohar Sommoro",
+    "PS Chakiwara",
+    "ASI/IO G. Akber",
+    "PS Chakikwara"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

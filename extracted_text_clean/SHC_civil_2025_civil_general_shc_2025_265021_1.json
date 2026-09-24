@@ -7,11 +7,14 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1699 of 2023",
-  "date_of_order": "",
+  "date_of_order": "14.05.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shah Muhammd Panhwar, Advocate for petitioner",
+    "Mr. Shahriyar I. Awan, Assistant A.G."
+  ],
   "chunks": [
     {
       "chunk_index": 0,

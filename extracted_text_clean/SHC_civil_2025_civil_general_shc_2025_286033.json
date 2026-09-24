@@ -8,10 +8,14 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-1527 of 2023",
   "date_of_order": "26.09.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Aslam Gadani",
+    "Mr. Ghulam Abass Awan",
+    "Mr. Naveed Ahmed Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

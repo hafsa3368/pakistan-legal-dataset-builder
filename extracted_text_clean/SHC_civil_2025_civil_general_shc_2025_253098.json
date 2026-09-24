@@ -7,8 +7,8 @@
   "used_ocr": false,
   "num_chunks": 7,
   "case_number": "Crl. Misc. Application No. S-156 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "07-04-2025",
+  "judge": "Ali Haider ‘Ada’",
   "sections_cited": [
     "Section 154 Criminal Procedure Code",
     "section 182 Pakistan Penal Code",
@@ -25,7 +25,13 @@
     "2024 SCMR 1123",
     "PLD 1967 SC 317"
   ],
-  "parties": [],
+  "parties": [
+    "Muhammad Safar Lodro",
+    "The State",
+    "SSP NausheroFeroze & Others",
+    "Shahid Ali",
+    "Zahid Ali"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

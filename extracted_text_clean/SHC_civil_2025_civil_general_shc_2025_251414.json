@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "26.03.2025",
+  "judge": "Ayaz Gul",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ovais Ali Shah",
+    "Mr. Faheem Raza",
+    "Mr. Ghulam Asghar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

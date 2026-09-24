@@ -7,11 +7,18 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constitutional Petition No.S-280 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "08.09.2025",
+  "judge": "Asghar Altaf",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Riaz Ahmed Soomro",
+    "Inspector Abdul Ghafoor",
+    "SSP Larkana",
+    "Mr. Munwar Ali Abbasi",
+    "Mr. Sardar Ali Solangi",
+    "Mr. Riaz Ahmed Soomro"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

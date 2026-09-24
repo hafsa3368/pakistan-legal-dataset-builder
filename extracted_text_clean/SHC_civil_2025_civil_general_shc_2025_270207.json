@@ -8,10 +8,20 @@
   "num_chunks": 2,
   "case_number": "C.P No.S-371 of 2025",
   "date_of_order": "30th May, 2025",
-  "judge": "",
+  "judge": "M.Zeeshan",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "petitioner",
+    "respondent No.5",
+    "petitioner",
+    "respondent No.4",
+    "petitioner",
+    "respondent No.1",
+    "respondent No.2",
+    "respondent No.6",
+    "respondent No.7"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

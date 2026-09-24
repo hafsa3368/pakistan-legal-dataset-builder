@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-86 of 2025",
   "date_of_order": "26.03.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Naveed Ali",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Muhammad Hamzo Buriro",
+    "Mr. Ali Raza Baloch",
+    "Sindh",
+    "the petitioner"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

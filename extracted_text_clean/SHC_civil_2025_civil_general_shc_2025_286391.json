@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
+  "date_of_order": "13-10-2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Qurban Ali Mahar",
+    "Inspector Rizwan Ahmed Narejo",
+    "Mr. Saeed Ahmed Wassan",
+    "ASI Ayaz Ali Mirbahar",
+    "ASI Zahid Ali Panhiyar",
+    "SHO Police Station, Sarhad",
+    "SHO Police Station Adilpur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

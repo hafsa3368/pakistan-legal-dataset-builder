@@ -9,11 +9,25 @@
   "case_number": "",
   "date_of_order": "14.10.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2023 Sindh 90"
   ],
-  "parties": [],
+  "parties": [
+    "Mr. Ahmed Masood",
+    "Mr. Ghulam Asghar Pathan",
+    "Rana Sakhawat Ali",
+    "Ms. Zarah Sehr Vayani",
+    "Mr. Zahid Masoood",
+    "Mr. Muhammad Junaid",
+    "Mr. Tariq Nadeem Durrani",
+    "Mr. Naeem Akhtar Talpur",
+    "Mr. Muhammad Akbar Khan",
+    "Mr. Rizwan Memon",
+    "Ms. Sehrish Jawaid Mirza"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

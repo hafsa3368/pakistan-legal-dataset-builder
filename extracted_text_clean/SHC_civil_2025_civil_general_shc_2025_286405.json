@@ -7,11 +7,17 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1438 of 2025",
-  "date_of_order": "",
+  "date_of_order": "16.10.2025",
   "judge": "",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shahbaz Hussain Bajwa",
+    "Mr. Abdul Mujeeb Shaikh",
+    "SEPCO",
+    "Mr. Naveed Ahmed Shah",
+    "SPECO"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

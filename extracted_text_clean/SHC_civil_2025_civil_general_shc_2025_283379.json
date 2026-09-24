@@ -9,12 +9,20 @@
   "case_number": "",
   "date_of_order": "29.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [
     "PLD 2018 Sindh 569",
     "PLD 2019 Sindh 344"
   ],
-  "parties": [],
+  "parties": [
+    "M/s. Danish Nayyar and Abdul Haseeb Qazi, Advocates for Plaintiff",
+    "M/s. Agha Shahid Majeed Khan, Muhammad Zakir Shehzeb, Sheikh Haris Ahmed, Advocate for Defendant No.1",
+    "Mr. Muhammad Tahir Advocate, holding brief for Mr. Fasih-uz-Zaman Abbasi, Advocate for defendant No.3",
+    "Agha Zafar Ahmed, advocate for defendant No.2"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

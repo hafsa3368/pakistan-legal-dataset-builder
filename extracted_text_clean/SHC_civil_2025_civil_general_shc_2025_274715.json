@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Criminal Misc. Application No.S-43 of 2025",
-  "date_of_order": "",
+  "date_of_order": "20-03-2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mst. Rani",
+    "SSP Sanghar",
+    "Mst. Ayesha",
+    "Mr. Dilawar Hussain Panhwer",
+    "Mr. Ghulam Abbas Dalwani"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

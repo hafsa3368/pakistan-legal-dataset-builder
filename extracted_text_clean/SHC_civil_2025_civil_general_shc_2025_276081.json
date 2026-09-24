@@ -9,9 +9,25 @@
   "case_number": "",
   "date_of_order": "24.07.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Mazhar Ali Bhutto",
+    "Mr. Liaquat Ali Shar",
+    "Mr. Aitbar Ali Bullo",
+    "Mr. Abdul Fatah Kalhoro",
+    "Deputy Superintendent, Central Prison, & C.F, Larkano",
+    "Respondent No.2",
+    "Respondent No.01",
+    "SHO, Police Station Seehar",
+    "Inspector General of Sindh Prison/ Respondent No.01",
+    "Respondent No.4",
+    "Superintendent, Central Prison, Karachi",
+    "Inspector General, Prisons, Sindh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

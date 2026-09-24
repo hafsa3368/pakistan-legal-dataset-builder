@@ -7,11 +7,27 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.S-162 of 2025",
-  "date_of_order": "",
+  "date_of_order": "28.07.2025",
   "judge": "Ahmad",
-  "sections_cited": [],
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Bakhshan Khan Mahar",
+    "M/s Syed Sardar Ali Shah",
+    "APG",
+    "Ghulam Abbas Kubar",
+    "DSP Muhammad Anwar",
+    "Ghotki",
+    "ASI Ghulam Rasool",
+    "A-section",
+    "Ghotki",
+    "PP Mathelo/Moomal Ji Mari",
+    "P.S",
+    "A-section",
+    "Ghotki"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -7,11 +7,21 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "",
-  "date_of_order": "",
-  "judge": "",
-  "sections_cited": [],
+  "date_of_order": "26.05.2025",
+  "judge": "Naveed Ali",
+  "sections_cited": [
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shafique Ahmed Naich",
+    "Mr. Zulfiqar Ali Jatoi",
+    "SSP Ghotki",
+    "SDPO Rounti",
+    "Zahid Mirani",
+    "Inspector Saifullah Ansari",
+    "SHO P.S Wasti Jiwan Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

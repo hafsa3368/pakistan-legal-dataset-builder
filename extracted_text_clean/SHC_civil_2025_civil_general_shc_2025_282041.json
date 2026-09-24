@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Misc. Application No.S-151 of 2025",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "22.09.2025",
+  "judge": "Asghar Altaf",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Habibullah G. Ghouri",
+    "Mr. Altaf Hussain Surhio",
+    "Mr. Nazir Ahmed Bhangwar"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

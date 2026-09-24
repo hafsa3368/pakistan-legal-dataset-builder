@@ -8,10 +8,19 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "03.06.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Shewak Ram Valecha",
+    "Mr. Ali Raza Baloch",
+    "No.2",
+    "No.3",
+    "No.4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

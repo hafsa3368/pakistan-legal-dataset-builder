@@ -8,10 +8,18 @@
   "num_chunks": 1,
   "case_number": "",
   "date_of_order": "20.06.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Abdul Basit",
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Ali Bozdar",
+    "Mr. Shahryar Imdad Awan",
+    "SIP Abdul Ghafoor of Police Station Mirpur Mathelo",
+    "ASI Shahzado Kalwar of Police Station Dad Laghari"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

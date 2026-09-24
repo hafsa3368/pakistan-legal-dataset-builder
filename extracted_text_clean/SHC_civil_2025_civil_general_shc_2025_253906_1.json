@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Constitutional Petition No.D-2109 of 2024",
   "date_of_order": "26.03.2025",
-  "judge": "",
+  "judge": "Naveed Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Deedar Ali Chohan",
+    "Mr. Ali Raza Baloch"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

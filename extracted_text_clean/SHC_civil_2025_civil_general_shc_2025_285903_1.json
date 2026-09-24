@@ -8,10 +8,22 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-1400 of 2025",
   "date_of_order": "17.09.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Badaruddin Indhar",
+    "Mr. Zulfiqar Ali Naich",
+    "Inspector Manzoor Hussain Soomro",
+    "Muhammad Ali",
+    "Mr. Ajeebullah Junejo",
+    "Assistant Commissioner Pano Aqil",
+    "SIP Abdul Rauf Narejo",
+    "SSP Sukkur",
+    "Assistant Mukhtiarkar",
+    "SHO PS Cantt",
+    "Respondent No.10 to 12"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

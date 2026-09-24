@@ -7,11 +7,15 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Constt: Petition No.D-1838 of 2019",
-  "date_of_order": "",
-  "judge": "",
+  "date_of_order": "20.05.2025",
+  "judge": "Naveed Ali",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Abdul Sattar Mahesar",
+    "Mr. Ali Raza Baloch",
+    "Zulfiqar Ali Shaikh"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

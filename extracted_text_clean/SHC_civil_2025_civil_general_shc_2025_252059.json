@@ -7,13 +7,24 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-305 of 2025",
-  "date_of_order": "",
+  "date_of_order": "19.03.2025",
   "judge": "",
   "sections_cited": [
     "section 161 CrPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Faiz Muhammad Shar",
+    "M/s Zulfiqar Ali Naich",
+    "Assistant P.G",
+    "ASI/I.O Ghulam Abbas Leghari",
+    "P.S",
+    "M/s Zulfiqar Ali Naich",
+    "Assistant A.G",
+    "Gulzar Ahmed Malano",
+    "petitioners",
+    "respondents No.2 to 4"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

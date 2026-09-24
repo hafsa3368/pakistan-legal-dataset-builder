@@ -7,11 +7,19 @@
   "used_ocr": false,
   "num_chunks": 1,
   "case_number": "Const. Petition No.D-1428 of 2025",
-  "date_of_order": "",
+  "date_of_order": "16.09.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 498 CrPC"
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Syed Mujahid Ali Shah",
+    "Mr. Agha Athar Pathan",
+    "Sheraz Ali",
+    "AXEN Spur Sub- Division, Sukkur",
+    "respondent No.5/District Accounts Office, Sukkur"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

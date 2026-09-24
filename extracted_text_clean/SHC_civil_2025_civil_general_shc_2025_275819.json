@@ -8,13 +8,20 @@
   "num_chunks": 3,
   "case_number": "Crl. Misc. Application No.S-391 of 2025",
   "date_of_order": "22.05.2025",
-  "judge": "",
+  "judge": "Naveed Ali",
   "sections_cited": [
     "Sections 22-A and 22-B Cr.P.C",
     "Section 182 PPC"
   ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Saleem Ahmed Maitlo",
+    "Mr. Mansoor Ahmed Shaikh",
+    "Mr. Asif Ali Jatoi",
+    "respondent No.4",
+    "respondent No.2",
+    "respondent No.3"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

@@ -8,15 +8,28 @@
   "num_chunks": 6,
   "case_number": "",
   "date_of_order": "21.04.2025",
-  "judge": "",
-  "sections_cited": [],
+  "judge": "Agha Faisal",
+  "sections_cited": [
+    "Section 18",
+    "Section 25",
+    "Rule 8(b) Sindh Judicial Services 1994"
+  ],
   "citations": [
     "2022 SCMR 1691",
     "1991 SCMR 1041",
     "2018 SCMR 1891",
     "PLD 2024 Sindh 132"
   ],
-  "parties": [],
+  "parties": [
+    "Miss Sana",
+    "Province of Sindh & Others",
+    "Hamid Murtaza",
+    "Province of Sindh & Others",
+    "Mayassar Ali",
+    "Registrar High Court of Sindh & Another",
+    "Anum Salman Jamali",
+    "Province of Sindh & Others"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

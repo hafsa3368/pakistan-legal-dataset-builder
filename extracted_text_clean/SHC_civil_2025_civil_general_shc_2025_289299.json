@@ -8,10 +8,13 @@
   "num_chunks": 1,
   "case_number": "Constitution Petition No.D-625 of 2025",
   "date_of_order": "27.10.2025",
-  "judge": "",
+  "judge": "S.Nawaz",
   "sections_cited": [],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr. Ghulam Abass Akhtar, Advocate",
+    "Mr. Ali Raza Balouch, Additional Advocate General"
+  ],
   "chunks": [
     {
       "chunk_index": 0,

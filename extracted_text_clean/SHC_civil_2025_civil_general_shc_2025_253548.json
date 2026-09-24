@@ -9,9 +9,16 @@
   "case_number": "C.P.No.D-1102 of 2025",
   "date_of_order": "22.04.2025",
   "judge": "",
-  "sections_cited": [],
+  "sections_cited": [
+    "Section 497 CrPC",
+    "u/s 498 Cr.P.C."
+  ],
   "citations": [],
-  "parties": [],
+  "parties": [
+    "Mr.Muhammad Amir Khan",
+    "Mr.Sandeep Malani",
+    "Mr.Ismail Shah"
+  ],
   "chunks": [
     {
       "chunk_index": 0,
