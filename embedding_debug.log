@@ -18198,3 +18198,1290 @@
 2026-09-27 21:02:17,776 | INFO | Upserted batch of 50 points. Total: 256939
 2026-09-27 21:04:31,567 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
 2026-09-27 21:04:31,937 | INFO | Upserted batch of 50 points. Total: 256989
+2026-09-28 02:49:32,380 | INFO | Resuming with 256989 chunks already processed.
+2026-09-28 02:49:32,407 | INFO | Loaded 47882 repaired filenames to process.
+2026-09-28 02:49:36,876 | INFO | HTTP Request: GET http://localhost:6333/collections "HTTP/1.1 200 OK"
+2026-09-28 02:49:36,891 | INFO | HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2026-09-28 02:49:38,953 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-28 02:49:41,039 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-28 02:49:43,111 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-28 02:49:45,198 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-28 02:49:47,253 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-28 02:49:49,307 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/index?wait=true "HTTP/1.1 200 OK"
+2026-09-28 02:49:49,584 | INFO | Found 58469 total JSON files in extracted_text_clean
+2026-09-28 02:49:49,606 | INFO | Filtered to 47882 repaired files (per repair_checkpoint.json)
+2026-09-28 02:52:51,416 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_11] Chunk text too long (20513 chars), truncating to 20000.
+2026-09-28 02:52:51,417 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_32] Chunk text too long (20544 chars), truncating to 20000.
+2026-09-28 02:52:51,417 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_33] Chunk text too long (22944 chars), truncating to 20000.
+2026-09-28 02:52:51,417 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_34] Chunk text too long (24224 chars), truncating to 20000.
+2026-09-28 02:52:51,417 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_35] Chunk text too long (26624 chars), truncating to 20000.
+2026-09-28 02:52:51,417 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_36] Chunk text too long (27798 chars), truncating to 20000.
+2026-09-28 02:52:51,417 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_37] Chunk text too long (30200 chars), truncating to 20000.
+2026-09-28 02:52:51,417 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_38] Chunk text too long (31211 chars), truncating to 20000.
+2026-09-28 02:52:51,418 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_39] Chunk text too long (33614 chars), truncating to 20000.
+2026-09-28 02:52:51,418 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_40] Chunk text too long (35008 chars), truncating to 20000.
+2026-09-28 02:52:51,418 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_41] Chunk text too long (37412 chars), truncating to 20000.
+2026-09-28 02:52:51,418 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_42] Chunk text too long (39067 chars), truncating to 20000.
+2026-09-28 02:52:51,418 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_43] Chunk text too long (33454 chars), truncating to 20000.
+2026-09-28 02:52:51,419 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_44] Chunk text too long (35859 chars), truncating to 20000.
+2026-09-28 02:52:51,419 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_53] Chunk text too long (20089 chars), truncating to 20000.
+2026-09-28 02:52:51,419 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_55] Chunk text too long (21268 chars), truncating to 20000.
+2026-09-28 02:52:51,419 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204761_56] Chunk text too long (23004 chars), truncating to 20000.
+2026-09-28 02:52:51,520 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_10] Chunk text too long (20318 chars), truncating to 20000.
+2026-09-28 02:52:51,520 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_11] Chunk text too long (20990 chars), truncating to 20000.
+2026-09-28 02:52:51,522 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_12] Chunk text too long (23392 chars), truncating to 20000.
+2026-09-28 02:52:51,522 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_13] Chunk text too long (24610 chars), truncating to 20000.
+2026-09-28 02:52:51,522 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_32] Chunk text too long (21264 chars), truncating to 20000.
+2026-09-28 02:52:51,522 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_33] Chunk text too long (22207 chars), truncating to 20000.
+2026-09-28 02:52:51,523 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_34] Chunk text too long (24611 chars), truncating to 20000.
+2026-09-28 02:52:51,523 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_35] Chunk text too long (26008 chars), truncating to 20000.
+2026-09-28 02:52:51,523 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_36] Chunk text too long (28410 chars), truncating to 20000.
+2026-09-28 02:52:51,523 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_37] Chunk text too long (29977 chars), truncating to 20000.
+2026-09-28 02:52:51,524 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_38] Chunk text too long (32377 chars), truncating to 20000.
+2026-09-28 02:52:51,524 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_39] Chunk text too long (34071 chars), truncating to 20000.
+2026-09-28 02:52:51,525 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_40] Chunk text too long (36473 chars), truncating to 20000.
+2026-09-28 02:52:51,525 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_41] Chunk text too long (38021 chars), truncating to 20000.
+2026-09-28 02:52:51,525 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_42] Chunk text too long (40423 chars), truncating to 20000.
+2026-09-28 02:52:51,525 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_43] Chunk text too long (41745 chars), truncating to 20000.
+2026-09-28 02:52:51,525 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_44] Chunk text too long (44148 chars), truncating to 20000.
+2026-09-28 02:52:51,525 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_45] Chunk text too long (45606 chars), truncating to 20000.
+2026-09-28 02:52:51,525 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_46] Chunk text too long (48009 chars), truncating to 20000.
+2026-09-28 02:52:51,525 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_47] Chunk text too long (49426 chars), truncating to 20000.
+2026-09-28 02:52:51,526 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_48] Chunk text too long (51830 chars), truncating to 20000.
+2026-09-28 02:52:51,526 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_49] Chunk text too long (53077 chars), truncating to 20000.
+2026-09-28 02:52:51,526 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_50] Chunk text too long (55478 chars), truncating to 20000.
+2026-09-28 02:52:51,526 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_51] Chunk text too long (57386 chars), truncating to 20000.
+2026-09-28 02:52:51,526 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_52] Chunk text too long (59788 chars), truncating to 20000.
+2026-09-28 02:52:51,526 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_53] Chunk text too long (61218 chars), truncating to 20000.
+2026-09-28 02:52:51,526 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_54] Chunk text too long (63618 chars), truncating to 20000.
+2026-09-28 02:52:51,526 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_55] Chunk text too long (65137 chars), truncating to 20000.
+2026-09-28 02:52:51,526 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_56] Chunk text too long (67542 chars), truncating to 20000.
+2026-09-28 02:52:51,526 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_57] Chunk text too long (69899 chars), truncating to 20000.
+2026-09-28 02:52:51,526 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_58] Chunk text too long (72300 chars), truncating to 20000.
+2026-09-28 02:52:51,526 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_59] Chunk text too long (74062 chars), truncating to 20000.
+2026-09-28 02:52:51,527 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_60] Chunk text too long (75298 chars), truncating to 20000.
+2026-09-28 02:52:51,527 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_61] Chunk text too long (77588 chars), truncating to 20000.
+2026-09-28 02:52:51,527 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_62] Chunk text too long (79989 chars), truncating to 20000.
+2026-09-28 02:52:51,527 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_63] Chunk text too long (80333 chars), truncating to 20000.
+2026-09-28 02:52:51,527 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_64] Chunk text too long (82738 chars), truncating to 20000.
+2026-09-28 02:52:51,527 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_65] Chunk text too long (85141 chars), truncating to 20000.
+2026-09-28 02:52:51,527 | WARNING | [SHC_civil_2019_civil_general_shc_2019_204993_66] Chunk text too long (87232 chars), truncating to 20000.
+2026-09-28 02:52:51,633 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_10] Chunk text too long (20318 chars), truncating to 20000.
+2026-09-28 02:52:51,634 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_11] Chunk text too long (20990 chars), truncating to 20000.
+2026-09-28 02:52:51,634 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_12] Chunk text too long (23392 chars), truncating to 20000.
+2026-09-28 02:52:51,634 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_13] Chunk text too long (24610 chars), truncating to 20000.
+2026-09-28 02:52:51,634 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_32] Chunk text too long (21264 chars), truncating to 20000.
+2026-09-28 02:52:51,634 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_33] Chunk text too long (22207 chars), truncating to 20000.
+2026-09-28 02:52:51,634 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_34] Chunk text too long (24611 chars), truncating to 20000.
+2026-09-28 02:52:51,635 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_35] Chunk text too long (26008 chars), truncating to 20000.
+2026-09-28 02:52:51,635 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_36] Chunk text too long (28410 chars), truncating to 20000.
+2026-09-28 02:52:51,635 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_37] Chunk text too long (29977 chars), truncating to 20000.
+2026-09-28 02:52:51,635 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_38] Chunk text too long (32377 chars), truncating to 20000.
+2026-09-28 02:52:51,635 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_39] Chunk text too long (34071 chars), truncating to 20000.
+2026-09-28 02:52:51,635 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_40] Chunk text too long (36473 chars), truncating to 20000.
+2026-09-28 02:52:51,636 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_41] Chunk text too long (38021 chars), truncating to 20000.
+2026-09-28 02:52:51,636 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_42] Chunk text too long (40423 chars), truncating to 20000.
+2026-09-28 02:52:51,636 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_43] Chunk text too long (41745 chars), truncating to 20000.
+2026-09-28 02:52:51,636 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_44] Chunk text too long (44148 chars), truncating to 20000.
+2026-09-28 02:52:51,636 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_45] Chunk text too long (45606 chars), truncating to 20000.
+2026-09-28 02:52:51,636 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_46] Chunk text too long (48009 chars), truncating to 20000.
+2026-09-28 02:52:51,636 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_47] Chunk text too long (49426 chars), truncating to 20000.
+2026-09-28 02:52:51,636 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_48] Chunk text too long (51830 chars), truncating to 20000.
+2026-09-28 02:52:51,637 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_49] Chunk text too long (53077 chars), truncating to 20000.
+2026-09-28 02:52:51,637 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_50] Chunk text too long (55478 chars), truncating to 20000.
+2026-09-28 02:52:51,637 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_51] Chunk text too long (57386 chars), truncating to 20000.
+2026-09-28 02:52:51,637 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_52] Chunk text too long (59788 chars), truncating to 20000.
+2026-09-28 02:52:51,637 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_53] Chunk text too long (61218 chars), truncating to 20000.
+2026-09-28 02:52:51,637 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_54] Chunk text too long (63618 chars), truncating to 20000.
+2026-09-28 02:52:51,637 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_55] Chunk text too long (65137 chars), truncating to 20000.
+2026-09-28 02:52:51,637 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_56] Chunk text too long (67542 chars), truncating to 20000.
+2026-09-28 02:52:51,637 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_57] Chunk text too long (69899 chars), truncating to 20000.
+2026-09-28 02:52:51,637 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_58] Chunk text too long (72300 chars), truncating to 20000.
+2026-09-28 02:52:51,637 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_59] Chunk text too long (74062 chars), truncating to 20000.
+2026-09-28 02:52:51,638 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_60] Chunk text too long (75298 chars), truncating to 20000.
+2026-09-28 02:52:51,638 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_61] Chunk text too long (77588 chars), truncating to 20000.
+2026-09-28 02:52:51,638 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_62] Chunk text too long (79989 chars), truncating to 20000.
+2026-09-28 02:52:51,638 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_63] Chunk text too long (80333 chars), truncating to 20000.
+2026-09-28 02:52:51,638 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_64] Chunk text too long (82738 chars), truncating to 20000.
+2026-09-28 02:52:51,638 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_65] Chunk text too long (85141 chars), truncating to 20000.
+2026-09-28 02:52:51,638 | WARNING | [SHC_civil_2019_civil_general_shc_2019_209819_66] Chunk text too long (87232 chars), truncating to 20000.
+2026-09-28 02:56:44,184 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 02:56:44,306 | INFO | Upserted batch of 50 points. Total: 257039
+2026-09-28 02:58:54,717 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 02:58:54,851 | INFO | Upserted batch of 50 points. Total: 257089
+2026-09-28 03:01:05,783 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:01:05,958 | INFO | Upserted batch of 50 points. Total: 257139
+2026-09-28 03:03:16,359 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:03:16,514 | INFO | Upserted batch of 50 points. Total: 257189
+2026-09-28 03:05:24,090 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:05:24,272 | INFO | Upserted batch of 50 points. Total: 257239
+2026-09-28 03:07:28,587 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:07:28,741 | INFO | Upserted batch of 50 points. Total: 257289
+2026-09-28 03:09:34,950 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:09:35,109 | INFO | Upserted batch of 50 points. Total: 257339
+2026-09-28 03:11:41,622 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:11:41,778 | INFO | Upserted batch of 50 points. Total: 257389
+2026-09-28 03:13:44,779 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:13:44,921 | INFO | Upserted batch of 50 points. Total: 257439
+2026-09-28 03:15:55,835 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:15:55,977 | INFO | Upserted batch of 50 points. Total: 257489
+2026-09-28 03:17:59,786 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:17:59,959 | INFO | Upserted batch of 50 points. Total: 257539
+2026-09-28 03:20:04,034 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:20:04,235 | INFO | Upserted batch of 50 points. Total: 257589
+2026-09-28 03:22:10,223 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:22:10,362 | INFO | Upserted batch of 50 points. Total: 257639
+2026-09-28 03:24:16,482 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:24:16,614 | INFO | Upserted batch of 50 points. Total: 257689
+2026-09-28 03:26:19,124 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:26:19,278 | INFO | Upserted batch of 50 points. Total: 257739
+2026-09-28 03:28:22,385 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:28:22,532 | INFO | Upserted batch of 50 points. Total: 257789
+2026-09-28 03:30:26,430 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:30:26,564 | INFO | Upserted batch of 50 points. Total: 257839
+2026-09-28 03:32:25,231 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:32:25,365 | INFO | Upserted batch of 50 points. Total: 257889
+2026-09-28 03:34:31,540 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:34:31,711 | INFO | Upserted batch of 50 points. Total: 257939
+2026-09-28 03:36:38,670 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:36:38,810 | INFO | Upserted batch of 50 points. Total: 257989
+2026-09-28 03:38:47,037 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:38:47,216 | INFO | Upserted batch of 50 points. Total: 258039
+2026-09-28 03:40:53,991 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:40:54,132 | INFO | Upserted batch of 50 points. Total: 258089
+2026-09-28 03:43:02,090 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:43:02,239 | INFO | Upserted batch of 50 points. Total: 258139
+2026-09-28 03:45:09,838 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:45:10,000 | INFO | Upserted batch of 50 points. Total: 258189
+2026-09-28 03:47:23,638 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:47:23,796 | INFO | Upserted batch of 50 points. Total: 258239
+2026-09-28 03:49:41,285 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:49:41,423 | INFO | Upserted batch of 50 points. Total: 258289
+2026-09-28 03:51:58,795 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:51:58,938 | INFO | Upserted batch of 50 points. Total: 258339
+2026-09-28 03:54:17,018 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:54:17,201 | INFO | Upserted batch of 50 points. Total: 258389
+2026-09-28 03:56:29,403 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:56:29,543 | INFO | Upserted batch of 50 points. Total: 258439
+2026-09-28 03:58:41,831 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 03:58:41,995 | INFO | Upserted batch of 50 points. Total: 258489
+2026-09-28 04:00:54,618 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:00:54,760 | INFO | Upserted batch of 50 points. Total: 258539
+2026-09-28 04:02:58,263 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:02:58,432 | INFO | Upserted batch of 50 points. Total: 258589
+2026-09-28 04:05:05,625 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:05:05,763 | INFO | Upserted batch of 50 points. Total: 258639
+2026-09-28 04:07:10,075 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:07:10,249 | INFO | Upserted batch of 50 points. Total: 258689
+2026-09-28 04:09:20,035 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:09:20,193 | INFO | Upserted batch of 50 points. Total: 258739
+2026-09-28 04:11:31,796 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:11:31,931 | INFO | Upserted batch of 50 points. Total: 258789
+2026-09-28 04:13:38,838 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:13:38,969 | INFO | Upserted batch of 50 points. Total: 258839
+2026-09-28 04:15:43,680 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:15:43,816 | INFO | Upserted batch of 50 points. Total: 258889
+2026-09-28 04:17:48,759 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:17:48,959 | INFO | Upserted batch of 50 points. Total: 258939
+2026-09-28 04:19:52,507 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:19:52,652 | INFO | Upserted batch of 50 points. Total: 258989
+2026-09-28 04:21:59,869 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:22:00,038 | INFO | Upserted batch of 50 points. Total: 259039
+2026-09-28 04:24:06,140 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:24:06,281 | INFO | Upserted batch of 50 points. Total: 259089
+2026-09-28 04:26:16,749 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:26:16,894 | INFO | Upserted batch of 50 points. Total: 259139
+2026-09-28 04:28:27,522 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:28:27,664 | INFO | Upserted batch of 50 points. Total: 259189
+2026-09-28 04:30:32,204 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:30:32,382 | INFO | Upserted batch of 50 points. Total: 259239
+2026-09-28 04:32:36,530 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:32:36,688 | INFO | Upserted batch of 50 points. Total: 259289
+2026-09-28 04:34:45,272 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:34:45,411 | INFO | Upserted batch of 50 points. Total: 259339
+2026-09-28 04:36:53,365 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:36:53,558 | INFO | Upserted batch of 50 points. Total: 259389
+2026-09-28 04:38:59,980 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:39:00,147 | INFO | Upserted batch of 50 points. Total: 259439
+2026-09-28 04:41:20,440 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:41:20,606 | INFO | Upserted batch of 50 points. Total: 259489
+2026-09-28 04:43:32,807 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:43:32,951 | INFO | Upserted batch of 50 points. Total: 259539
+2026-09-28 04:45:39,899 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:45:40,043 | INFO | Upserted batch of 50 points. Total: 259589
+2026-09-28 04:47:59,900 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:48:00,084 | INFO | Upserted batch of 50 points. Total: 259639
+2026-09-28 04:50:38,484 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:50:38,659 | INFO | Upserted batch of 50 points. Total: 259689
+2026-09-28 04:53:11,984 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:53:12,163 | INFO | Upserted batch of 50 points. Total: 259739
+2026-09-28 04:55:25,120 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:55:25,279 | INFO | Upserted batch of 50 points. Total: 259789
+2026-09-28 04:57:36,282 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:57:36,423 | INFO | Upserted batch of 50 points. Total: 259839
+2026-09-28 04:59:47,073 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 04:59:47,208 | INFO | Upserted batch of 50 points. Total: 259889
+2026-09-28 05:01:57,108 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:01:57,276 | INFO | Upserted batch of 50 points. Total: 259939
+2026-09-28 05:04:10,097 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:04:10,318 | INFO | Upserted batch of 50 points. Total: 259989
+2026-09-28 05:06:33,980 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:06:34,276 | INFO | Upserted batch of 50 points. Total: 260039
+2026-09-28 05:08:57,972 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:08:58,167 | INFO | Upserted batch of 50 points. Total: 260089
+2026-09-28 05:11:17,283 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:11:17,723 | INFO | Upserted batch of 50 points. Total: 260139
+2026-09-28 05:13:33,987 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:13:34,370 | INFO | Upserted batch of 50 points. Total: 260189
+2026-09-28 05:15:52,531 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:15:52,916 | INFO | Upserted batch of 50 points. Total: 260239
+2026-09-28 05:16:58,826 | WARNING | [SHC_civil_civil_general_shc_unknown_139270_5] Context length exceeded (5973 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:17:06,014 | INFO | [SHC_civil_civil_general_shc_unknown_139270_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:18:34,354 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:18:34,743 | INFO | Upserted batch of 50 points. Total: 260289
+2026-09-28 05:21:13,674 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:21:14,066 | INFO | Upserted batch of 50 points. Total: 260339
+2026-09-28 05:21:57,489 | WARNING | [SHC_civil_civil_general_shc_unknown_146255_3] Context length exceeded (5652 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:22:04,975 | INFO | [SHC_civil_civil_general_shc_unknown_146255_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:22:07,022 | WARNING | [SHC_civil_civil_general_shc_unknown_146255_4] Context length exceeded (7665 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:22:16,332 | INFO | [SHC_civil_civil_general_shc_unknown_146255_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:22:18,387 | WARNING | [SHC_civil_civil_general_shc_unknown_146255_5] Context length exceeded (9559 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:22:20,482 | WARNING | [SHC_civil_civil_general_shc_unknown_146255_5_splitA] Context length exceeded (4774 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:22:27,447 | INFO | [SHC_civil_civil_general_shc_unknown_146255_5_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:22:33,016 | INFO | [SHC_civil_civil_general_shc_unknown_146255_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:22:35,087 | WARNING | [SHC_civil_civil_general_shc_unknown_146255_6] Context length exceeded (11214 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:22:37,162 | WARNING | [SHC_civil_civil_general_shc_unknown_146255_6_splitA] Context length exceeded (5601 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:22:44,983 | INFO | [SHC_civil_civil_general_shc_unknown_146255_6_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:22:47,059 | WARNING | [SHC_civil_civil_general_shc_unknown_146255_6_splitB] Context length exceeded (5612 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:22:54,640 | INFO | [SHC_civil_civil_general_shc_unknown_146255_6_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:22:54,641 | INFO | [SHC_civil_civil_general_shc_unknown_146255_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:23:07,931 | WARNING | [SHC_civil_civil_general_shc_unknown_146256_3] Context length exceeded (5655 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:23:15,665 | INFO | [SHC_civil_civil_general_shc_unknown_146256_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:23:17,728 | WARNING | [SHC_civil_civil_general_shc_unknown_146256_4] Context length exceeded (7668 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:23:27,123 | INFO | [SHC_civil_civil_general_shc_unknown_146256_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:23:29,215 | WARNING | [SHC_civil_civil_general_shc_unknown_146256_5] Context length exceeded (9562 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:23:31,259 | WARNING | [SHC_civil_civil_general_shc_unknown_146256_5_splitA] Context length exceeded (4775 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:23:38,231 | INFO | [SHC_civil_civil_general_shc_unknown_146256_5_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:23:43,647 | INFO | [SHC_civil_civil_general_shc_unknown_146256_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:23:45,714 | WARNING | [SHC_civil_civil_general_shc_unknown_146256_6] Context length exceeded (11217 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:23:47,773 | WARNING | [SHC_civil_civil_general_shc_unknown_146256_6_splitA] Context length exceeded (5602 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:23:55,415 | INFO | [SHC_civil_civil_general_shc_unknown_146256_6_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:23:57,480 | WARNING | [SHC_civil_civil_general_shc_unknown_146256_6_splitB] Context length exceeded (5614 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:24:05,033 | INFO | [SHC_civil_civil_general_shc_unknown_146256_6_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:24:05,033 | INFO | [SHC_civil_civil_general_shc_unknown_146256_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:24:52,667 | WARNING | [SHC_civil_civil_general_shc_unknown_150887_5] Context length exceeded (7850 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:24:59,831 | INFO | [SHC_civil_civil_general_shc_unknown_150887_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:25:01,880 | WARNING | [SHC_civil_civil_general_shc_unknown_150887_6] Context length exceeded (8170 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:25:09,091 | INFO | [SHC_civil_civil_general_shc_unknown_150887_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:25:11,146 | WARNING | [SHC_civil_civil_general_shc_unknown_150887_7] Context length exceeded (10570 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:25:19,202 | INFO | [SHC_civil_civil_general_shc_unknown_150887_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:25:21,255 | WARNING | [SHC_civil_civil_general_shc_unknown_150887_8] Context length exceeded (9937 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:25:29,210 | INFO | [SHC_civil_civil_general_shc_unknown_150887_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:25:31,259 | WARNING | [SHC_civil_civil_general_shc_unknown_150887_9] Context length exceeded (11597 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:25:40,057 | INFO | [SHC_civil_civil_general_shc_unknown_150887_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:25:42,109 | WARNING | [SHC_civil_civil_general_shc_unknown_150887_10] Context length exceeded (12749 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:25:51,526 | INFO | [SHC_civil_civil_general_shc_unknown_150887_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:26:01,228 | WARNING | [SHC_civil_civil_general_shc_unknown_150895_2] Context length exceeded (6712 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:26:09,216 | INFO | [SHC_civil_civil_general_shc_unknown_150895_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:26:11,262 | WARNING | [SHC_civil_civil_general_shc_unknown_150895_3] Context length exceeded (6835 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:26:19,340 | INFO | [SHC_civil_civil_general_shc_unknown_150895_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:26:21,404 | WARNING | [SHC_civil_civil_general_shc_unknown_150895_4] Context length exceeded (9238 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:26:31,148 | INFO | [SHC_civil_civil_general_shc_unknown_150895_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:26:33,199 | WARNING | [SHC_civil_civil_general_shc_unknown_150895_5] Context length exceeded (10237 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:26:44,035 | INFO | [SHC_civil_civil_general_shc_unknown_150895_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:26:49,045 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:26:49,408 | INFO | Upserted batch of 50 points. Total: 260389
+2026-09-28 05:27:45,603 | WARNING | [SHC_civil_civil_general_shc_unknown_156008_6] Context length exceeded (6269 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:27:52,679 | INFO | [SHC_civil_civil_general_shc_unknown_156008_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:28:04,300 | WARNING | [SHC_civil_civil_general_shc_unknown_156008_9] Context length exceeded (6573 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:28:12,006 | INFO | [SHC_civil_civil_general_shc_unknown_156008_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:28:14,056 | WARNING | [SHC_civil_civil_general_shc_unknown_156008_10] Context length exceeded (5635 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:28:21,011 | INFO | [SHC_civil_civil_general_shc_unknown_156008_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:28:51,964 | WARNING | [SHC_civil_civil_general_shc_unknown_156009_6] Context length exceeded (6270 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:28:59,026 | INFO | [SHC_civil_civil_general_shc_unknown_156009_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:29:10,815 | WARNING | [SHC_civil_civil_general_shc_unknown_156009_9] Context length exceeded (6522 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:29:18,330 | INFO | [SHC_civil_civil_general_shc_unknown_156009_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:29:47,606 | WARNING | [SHC_civil_civil_general_shc_unknown_156010_1_6] Context length exceeded (6269 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:29:54,528 | INFO | [SHC_civil_civil_general_shc_unknown_156010_1_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:30:05,981 | WARNING | [SHC_civil_civil_general_shc_unknown_156010_1_9] Context length exceeded (6572 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:30:13,320 | INFO | [SHC_civil_civil_general_shc_unknown_156010_1_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:30:15,367 | WARNING | [SHC_civil_civil_general_shc_unknown_156010_1_10] Context length exceeded (5634 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:30:22,395 | INFO | [SHC_civil_civil_general_shc_unknown_156010_1_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:30:44,394 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:30:44,812 | INFO | Upserted batch of 50 points. Total: 260439
+2026-09-28 05:31:32,722 | WARNING | [SHC_civil_civil_general_shc_unknown_156402_2] Context length exceeded (6470 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:31:39,968 | INFO | [SHC_civil_civil_general_shc_unknown_156402_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:32:00,574 | WARNING | [SHC_civil_civil_general_shc_unknown_156402_7] Context length exceeded (7462 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:32:08,976 | INFO | [SHC_civil_civil_general_shc_unknown_156402_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:32:11,055 | WARNING | [SHC_civil_civil_general_shc_unknown_156402_8] Context length exceeded (7615 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:32:21,427 | INFO | [SHC_civil_civil_general_shc_unknown_156402_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:32:28,354 | WARNING | [SHC_civil_civil_general_shc_unknown_156402_10] Context length exceeded (5738 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:32:35,517 | INFO | [SHC_civil_civil_general_shc_unknown_156402_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:32:44,637 | WARNING | [SHC_civil_civil_general_shc_unknown_156402_1_2] Context length exceeded (6471 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:32:51,857 | INFO | [SHC_civil_civil_general_shc_unknown_156402_1_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:33:12,381 | WARNING | [SHC_civil_civil_general_shc_unknown_156402_1_7] Context length exceeded (7462 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:33:20,281 | INFO | [SHC_civil_civil_general_shc_unknown_156402_1_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:33:22,368 | WARNING | [SHC_civil_civil_general_shc_unknown_156402_1_8] Context length exceeded (7615 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:33:30,097 | INFO | [SHC_civil_civil_general_shc_unknown_156402_1_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:33:37,027 | WARNING | [SHC_civil_civil_general_shc_unknown_156402_1_10] Context length exceeded (5738 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:33:44,269 | INFO | [SHC_civil_civil_general_shc_unknown_156402_1_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:33:54,118 | WARNING | [SHC_civil_civil_general_shc_unknown_158914_2] Context length exceeded (5511 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:34:01,449 | INFO | [SHC_civil_civil_general_shc_unknown_158914_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:34:03,522 | WARNING | [SHC_civil_civil_general_shc_unknown_158914_3] Context length exceeded (6677 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:34:11,663 | INFO | [SHC_civil_civil_general_shc_unknown_158914_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:34:18,092 | WARNING | [SHC_civil_civil_general_shc_unknown_158914_5] Context length exceeded (5755 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:34:25,407 | INFO | [SHC_civil_civil_general_shc_unknown_158914_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:35:04,649 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:35:05,090 | INFO | Upserted batch of 50 points. Total: 260489
+2026-09-28 05:36:43,441 | WARNING | [SHC_civil_civil_general_shc_unknown_167724_2] Context length exceeded (5478 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:36:50,928 | INFO | [SHC_civil_civil_general_shc_unknown_167724_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:36:52,993 | WARNING | [SHC_civil_civil_general_shc_unknown_167724_3] Context length exceeded (7880 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:37:02,008 | INFO | [SHC_civil_civil_general_shc_unknown_167724_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:37:04,078 | WARNING | [SHC_civil_civil_general_shc_unknown_167724_4] Context length exceeded (7856 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:37:13,211 | INFO | [SHC_civil_civil_general_shc_unknown_167724_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:37:24,638 | WARNING | [SHC_civil_civil_general_shc_unknown_167724_7] Context length exceeded (5526 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:37:31,748 | INFO | [SHC_civil_civil_general_shc_unknown_167724_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:37:33,837 | WARNING | [SHC_civil_civil_general_shc_unknown_167724_8] Context length exceeded (7839 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:37:42,635 | INFO | [SHC_civil_civil_general_shc_unknown_167724_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:37:44,702 | WARNING | [SHC_civil_civil_general_shc_unknown_167724_9] Context length exceeded (5207 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:37:51,890 | INFO | [SHC_civil_civil_general_shc_unknown_167724_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:37:53,956 | WARNING | [SHC_civil_civil_general_shc_unknown_167724_10] Context length exceeded (7611 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:38:02,342 | INFO | [SHC_civil_civil_general_shc_unknown_167724_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:38:04,397 | WARNING | [SHC_civil_civil_general_shc_unknown_167724_11] Context length exceeded (7086 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:38:12,652 | INFO | [SHC_civil_civil_general_shc_unknown_167724_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:38:14,720 | WARNING | [SHC_civil_civil_general_shc_unknown_167724_12] Context length exceeded (5482 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:38:21,708 | INFO | [SHC_civil_civil_general_shc_unknown_167724_12] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:38:30,753 | WARNING | [SHC_civil_civil_general_shc_unknown_167730_2] Context length exceeded (5480 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:38:38,157 | INFO | [SHC_civil_civil_general_shc_unknown_167730_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:38:40,242 | WARNING | [SHC_civil_civil_general_shc_unknown_167730_3] Context length exceeded (7883 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:38:49,069 | INFO | [SHC_civil_civil_general_shc_unknown_167730_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:38:51,131 | WARNING | [SHC_civil_civil_general_shc_unknown_167730_4] Context length exceeded (7859 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:39:00,335 | INFO | [SHC_civil_civil_general_shc_unknown_167730_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:39:12,109 | WARNING | [SHC_civil_civil_general_shc_unknown_167730_7] Context length exceeded (5526 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:39:19,400 | INFO | [SHC_civil_civil_general_shc_unknown_167730_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:39:21,469 | WARNING | [SHC_civil_civil_general_shc_unknown_167730_8] Context length exceeded (7839 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:39:30,594 | INFO | [SHC_civil_civil_general_shc_unknown_167730_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:39:32,654 | WARNING | [SHC_civil_civil_general_shc_unknown_167730_9] Context length exceeded (5207 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:39:39,788 | INFO | [SHC_civil_civil_general_shc_unknown_167730_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:39:41,959 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:39:42,415 | INFO | Upserted batch of 50 points. Total: 260539
+2026-09-28 05:39:44,480 | WARNING | [SHC_civil_civil_general_shc_unknown_167730_10] Context length exceeded (7611 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:39:52,973 | INFO | [SHC_civil_civil_general_shc_unknown_167730_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:39:55,044 | WARNING | [SHC_civil_civil_general_shc_unknown_167730_11] Context length exceeded (7086 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:40:03,214 | INFO | [SHC_civil_civil_general_shc_unknown_167730_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:40:05,263 | WARNING | [SHC_civil_civil_general_shc_unknown_167730_12] Context length exceeded (5479 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:40:12,330 | INFO | [SHC_civil_civil_general_shc_unknown_167730_12] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:41:12,418 | WARNING | [SHC_civil_civil_general_shc_unknown_176364_2] Context length exceeded (6506 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:41:19,971 | INFO | [SHC_civil_civil_general_shc_unknown_176364_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:41:22,017 | WARNING | [SHC_civil_civil_general_shc_unknown_176364_3] Context length exceeded (7050 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:41:29,625 | INFO | [SHC_civil_civil_general_shc_unknown_176364_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:41:41,790 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_1] Context length exceeded (3792 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:41:50,140 | INFO | [SHC_civil_civil_general_shc_unknown_188594_1] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:41:52,195 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_2] Context length exceeded (3993 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:42:00,825 | INFO | [SHC_civil_civil_general_shc_unknown_188594_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:42:02,883 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_3] Context length exceeded (6314 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:42:04,931 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_3_splitA] Context length exceeded (3153 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:42:12,490 | INFO | [SHC_civil_civil_general_shc_unknown_188594_3_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:42:14,535 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_3_splitB] Context length exceeded (3160 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:42:22,065 | INFO | [SHC_civil_civil_general_shc_unknown_188594_3_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:42:22,066 | INFO | [SHC_civil_civil_general_shc_unknown_188594_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:42:24,131 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_4] Context length exceeded (7263 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:42:26,207 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_4_splitA] Context length exceeded (3630 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:42:34,504 | INFO | [SHC_civil_civil_general_shc_unknown_188594_4_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:42:36,555 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_4_splitB] Context length exceeded (3632 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:42:44,669 | INFO | [SHC_civil_civil_general_shc_unknown_188594_4_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:42:44,669 | INFO | [SHC_civil_civil_general_shc_unknown_188594_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:42:46,742 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_5] Context length exceeded (8836 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:42:48,844 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_5_splitA] Context length exceeded (4415 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:42:58,351 | INFO | [SHC_civil_civil_general_shc_unknown_188594_5_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:43:00,428 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_5_splitB] Context length exceeded (4420 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:43:09,723 | INFO | [SHC_civil_civil_general_shc_unknown_188594_5_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:43:09,723 | INFO | [SHC_civil_civil_general_shc_unknown_188594_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:43:11,793 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_6] Context length exceeded (10891 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:43:13,859 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_6_splitA] Context length exceeded (5435 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:43:15,923 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_6_splitA_splitA] Context length exceeded (2712 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:43:22,938 | INFO | [SHC_civil_civil_general_shc_unknown_188594_6_splitA_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:43:25,005 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_6_splitA_splitB] Context length exceeded (2722 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:43:32,052 | INFO | [SHC_civil_civil_general_shc_unknown_188594_6_splitA_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:43:32,053 | INFO | [SHC_civil_civil_general_shc_unknown_188594_6_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:43:34,101 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_6_splitB] Context length exceeded (5455 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:43:41,660 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_6_splitB_splitB] Context length exceeded (2730 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:43:48,711 | INFO | [SHC_civil_civil_general_shc_unknown_188594_6_splitB_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:43:48,711 | INFO | [SHC_civil_civil_general_shc_unknown_188594_6_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:43:48,711 | INFO | [SHC_civil_civil_general_shc_unknown_188594_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:43:50,798 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_7] Context length exceeded (12658 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:43:52,857 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_7_splitA] Context length exceeded (6328 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:43:54,906 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_7_splitA_splitA] Context length exceeded (3160 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:44:02,582 | INFO | [SHC_civil_civil_general_shc_unknown_188594_7_splitA_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:44:04,673 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_7_splitA_splitB] Context length exceeded (3167 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:44:12,249 | INFO | [SHC_civil_civil_general_shc_unknown_188594_7_splitA_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:44:12,249 | INFO | [SHC_civil_civil_general_shc_unknown_188594_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:44:14,314 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_7_splitB] Context length exceeded (6329 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:44:16,376 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_7_splitB_splitA] Context length exceeded (3162 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:44:23,896 | INFO | [SHC_civil_civil_general_shc_unknown_188594_7_splitB_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:44:25,966 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_7_splitB_splitB] Context length exceeded (3166 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:44:33,485 | INFO | [SHC_civil_civil_general_shc_unknown_188594_7_splitB_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:44:33,485 | INFO | [SHC_civil_civil_general_shc_unknown_188594_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:44:33,486 | INFO | [SHC_civil_civil_general_shc_unknown_188594_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:44:35,554 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_8] Context length exceeded (14143 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:44:37,607 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_8_splitA] Context length exceeded (7070 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:44:39,666 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_8_splitA_splitA] Context length exceeded (3529 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:44:47,620 | INFO | [SHC_civil_civil_general_shc_unknown_188594_8_splitA_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:44:49,679 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_8_splitA_splitB] Context length exceeded (3540 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:44:57,651 | INFO | [SHC_civil_civil_general_shc_unknown_188594_8_splitA_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:44:57,651 | INFO | [SHC_civil_civil_general_shc_unknown_188594_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:44:59,695 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_8_splitB] Context length exceeded (7072 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:45:01,758 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_8_splitB_splitA] Context length exceeded (3533 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:45:09,830 | INFO | [SHC_civil_civil_general_shc_unknown_188594_8_splitB_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:45:11,891 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_8_splitB_splitB] Context length exceeded (3538 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:45:20,186 | INFO | [SHC_civil_civil_general_shc_unknown_188594_8_splitB_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:45:20,186 | INFO | [SHC_civil_civil_general_shc_unknown_188594_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:45:20,187 | INFO | [SHC_civil_civil_general_shc_unknown_188594_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:45:22,272 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_9] Context length exceeded (16445 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:45:24,342 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_9_splitA] Context length exceeded (8220 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:45:26,393 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_9_splitA_splitA] Context length exceeded (4104 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:45:35,263 | INFO | [SHC_civil_civil_general_shc_unknown_188594_9_splitA_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:45:37,342 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_9_splitA_splitB] Context length exceeded (4115 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:45:46,290 | INFO | [SHC_civil_civil_general_shc_unknown_188594_9_splitA_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:45:46,290 | INFO | [SHC_civil_civil_general_shc_unknown_188594_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:45:48,359 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_9_splitB] Context length exceeded (8224 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:45:50,446 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_9_splitB_splitA] Context length exceeded (4110 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:45:59,500 | INFO | [SHC_civil_civil_general_shc_unknown_188594_9_splitB_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:46:01,569 | WARNING | [SHC_civil_civil_general_shc_unknown_188594_9_splitB_splitB] Context length exceeded (4113 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:46:10,479 | INFO | [SHC_civil_civil_general_shc_unknown_188594_9_splitB_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:46:10,479 | INFO | [SHC_civil_civil_general_shc_unknown_188594_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:46:10,479 | INFO | [SHC_civil_civil_general_shc_unknown_188594_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:46:54,424 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:46:54,831 | INFO | Upserted batch of 50 points. Total: 260589
+2026-09-28 05:46:56,933 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_1] Context length exceeded (3630 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:47:05,353 | INFO | [SHC_civil_civil_general_shc_unknown_216739_1] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:47:07,460 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_2] Context length exceeded (5467 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:47:09,520 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_2_splitA] Context length exceeded (2727 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:47:16,477 | INFO | [SHC_civil_civil_general_shc_unknown_216739_2_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:47:18,552 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_2_splitB] Context length exceeded (2739 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:47:25,548 | INFO | [SHC_civil_civil_general_shc_unknown_216739_2_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:47:25,549 | INFO | [SHC_civil_civil_general_shc_unknown_216739_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:47:27,594 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_3] Context length exceeded (7436 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:47:29,663 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_3_splitA] Context length exceeded (3715 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:47:37,933 | INFO | [SHC_civil_civil_general_shc_unknown_216739_3_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:47:39,992 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_3_splitB] Context length exceeded (3720 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:47:47,637 | INFO | [SHC_civil_civil_general_shc_unknown_216739_3_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:47:47,638 | INFO | [SHC_civil_civil_general_shc_unknown_216739_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:47:49,714 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_4] Context length exceeded (8581 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:47:51,792 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_4_splitA] Context length exceeded (4286 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:48:01,042 | INFO | [SHC_civil_civil_general_shc_unknown_216739_4_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:48:03,124 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_4_splitB] Context length exceeded (4294 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:48:11,231 | INFO | [SHC_civil_civil_general_shc_unknown_216739_4_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:48:11,231 | INFO | [SHC_civil_civil_general_shc_unknown_216739_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:48:13,308 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_5] Context length exceeded (10292 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:48:15,385 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_5_splitA] Context length exceeded (5145 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:48:25,764 | INFO | [SHC_civil_civil_general_shc_unknown_216739_5_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:48:27,833 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_5_splitB] Context length exceeded (5146 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:48:37,320 | INFO | [SHC_civil_civil_general_shc_unknown_216739_5_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:48:37,320 | INFO | [SHC_civil_civil_general_shc_unknown_216739_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:48:39,402 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_6] Context length exceeded (11932 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:48:41,479 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_6_splitA] Context length exceeded (5964 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:48:43,556 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_6_splitA_splitA] Context length exceeded (2978 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:48:50,703 | INFO | [SHC_civil_civil_general_shc_unknown_216739_6_splitA_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:48:52,776 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_6_splitA_splitB] Context length exceeded (2985 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:49:00,202 | INFO | [SHC_civil_civil_general_shc_unknown_216739_6_splitA_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:49:00,202 | INFO | [SHC_civil_civil_general_shc_unknown_216739_6_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:49:02,259 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_6_splitB] Context length exceeded (5967 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:49:08,984 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_6_splitB_splitB] Context length exceeded (2984 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:49:16,148 | INFO | [SHC_civil_civil_general_shc_unknown_216739_6_splitB_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:49:16,148 | INFO | [SHC_civil_civil_general_shc_unknown_216739_6_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:49:16,149 | INFO | [SHC_civil_civil_general_shc_unknown_216739_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:49:18,190 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_7] Context length exceeded (12963 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:49:20,283 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_7_splitA] Context length exceeded (6478 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:49:22,355 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_7_splitA_splitA] Context length exceeded (3235 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:49:30,097 | INFO | [SHC_civil_civil_general_shc_unknown_216739_7_splitA_splitA] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:49:32,151 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_7_splitA_splitB] Context length exceeded (3242 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:49:39,711 | INFO | [SHC_civil_civil_general_shc_unknown_216739_7_splitA_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:49:39,711 | INFO | [SHC_civil_civil_general_shc_unknown_216739_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:49:41,806 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_7_splitB] Context length exceeded (6484 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:49:48,697 | WARNING | [SHC_civil_civil_general_shc_unknown_216739_7_splitB_splitB] Context length exceeded (3245 chars) — splitting into 2 halves (split depth 3).
+2026-09-28 05:49:56,123 | INFO | [SHC_civil_civil_general_shc_unknown_216739_7_splitB_splitB] Embedding succeeded via split-and-average (depth 3).
+2026-09-28 05:49:56,124 | INFO | [SHC_civil_civil_general_shc_unknown_216739_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:49:56,124 | INFO | [SHC_civil_civil_general_shc_unknown_216739_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:50:30,628 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_3] Context length exceeded (6566 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:50:38,062 | INFO | [SHC_civil_civil_general_shc_unknown_228646_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:50:40,118 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_4] Context length exceeded (8235 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:50:48,130 | INFO | [SHC_civil_civil_general_shc_unknown_228646_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:50:50,202 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_5] Context length exceeded (10642 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:51:00,134 | INFO | [SHC_civil_civil_general_shc_unknown_228646_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:51:02,203 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_6] Context length exceeded (11080 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:51:12,249 | INFO | [SHC_civil_civil_general_shc_unknown_228646_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:51:14,283 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_7] Context length exceeded (13003 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:51:16,360 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_7_splitA] Context length exceeded (6498 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:51:23,409 | INFO | [SHC_civil_civil_general_shc_unknown_228646_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:51:25,484 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_7_splitB] Context length exceeded (6504 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:51:33,074 | INFO | [SHC_civil_civil_general_shc_unknown_228646_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:51:33,075 | INFO | [SHC_civil_civil_general_shc_unknown_228646_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:51:35,133 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_8] Context length exceeded (14640 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:51:37,217 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_8_splitA] Context length exceeded (7317 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:51:44,790 | INFO | [SHC_civil_civil_general_shc_unknown_228646_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:51:46,841 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_8_splitB] Context length exceeded (7322 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:51:54,777 | INFO | [SHC_civil_civil_general_shc_unknown_228646_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:51:54,778 | INFO | [SHC_civil_civil_general_shc_unknown_228646_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:51:56,844 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_9] Context length exceeded (16120 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:51:58,920 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_9_splitA] Context length exceeded (8052 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:52:06,872 | INFO | [SHC_civil_civil_general_shc_unknown_228646_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:52:08,973 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_9_splitB] Context length exceeded (8067 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:52:17,625 | INFO | [SHC_civil_civil_general_shc_unknown_228646_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:52:17,625 | INFO | [SHC_civil_civil_general_shc_unknown_228646_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:52:19,685 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_10] Context length exceeded (7911 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:52:28,112 | INFO | [SHC_civil_civil_general_shc_unknown_228646_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:52:30,155 | WARNING | [SHC_civil_civil_general_shc_unknown_228646_11] Context length exceeded (9728 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:52:39,775 | INFO | [SHC_civil_civil_general_shc_unknown_228646_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:52:57,267 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_3] Context length exceeded (6567 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:53:04,295 | INFO | [SHC_civil_civil_general_shc_unknown_228714_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:53:06,342 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_4] Context length exceeded (8236 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:53:14,565 | INFO | [SHC_civil_civil_general_shc_unknown_228714_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:53:16,618 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_5] Context length exceeded (10643 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:53:25,975 | INFO | [SHC_civil_civil_general_shc_unknown_228714_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:53:28,039 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_6] Context length exceeded (11081 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:53:37,778 | INFO | [SHC_civil_civil_general_shc_unknown_228714_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:53:39,835 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_7] Context length exceeded (13004 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:53:41,915 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_7_splitA] Context length exceeded (6499 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:53:49,028 | INFO | [SHC_civil_civil_general_shc_unknown_228714_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:53:51,116 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_7_splitB] Context length exceeded (6504 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:53:58,731 | INFO | [SHC_civil_civil_general_shc_unknown_228714_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:53:58,731 | INFO | [SHC_civil_civil_general_shc_unknown_228714_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:54:00,815 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_8] Context length exceeded (14641 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:54:02,890 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_8_splitA] Context length exceeded (7318 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:54:10,382 | INFO | [SHC_civil_civil_general_shc_unknown_228714_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:54:12,424 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_8_splitB] Context length exceeded (7322 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:54:20,649 | INFO | [SHC_civil_civil_general_shc_unknown_228714_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:54:20,650 | INFO | [SHC_civil_civil_general_shc_unknown_228714_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:54:22,720 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_9] Context length exceeded (16121 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:54:24,768 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_9_splitA] Context length exceeded (8053 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:54:32,583 | INFO | [SHC_civil_civil_general_shc_unknown_228714_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:54:34,650 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_9_splitB] Context length exceeded (8067 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:54:43,305 | INFO | [SHC_civil_civil_general_shc_unknown_228714_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:54:43,306 | INFO | [SHC_civil_civil_general_shc_unknown_228714_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:54:45,378 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_10] Context length exceeded (7911 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:54:53,812 | INFO | [SHC_civil_civil_general_shc_unknown_228714_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:54:55,886 | WARNING | [SHC_civil_civil_general_shc_unknown_228714_11] Context length exceeded (9726 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:55:05,351 | INFO | [SHC_civil_civil_general_shc_unknown_228714_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:55:30,854 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 05:55:31,240 | INFO | Upserted batch of 50 points. Total: 260639
+2026-09-28 05:56:06,575 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_3] Context length exceeded (6566 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:56:13,788 | INFO | [SHC_civil_civil_general_shc_unknown_239389_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:56:15,865 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_4] Context length exceeded (8235 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:56:23,836 | INFO | [SHC_civil_civil_general_shc_unknown_239389_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:56:25,894 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_5] Context length exceeded (10642 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:56:35,570 | INFO | [SHC_civil_civil_general_shc_unknown_239389_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:56:37,623 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_6] Context length exceeded (11080 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:56:47,890 | INFO | [SHC_civil_civil_general_shc_unknown_239389_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:56:49,931 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_7] Context length exceeded (13003 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:56:51,997 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_7_splitA] Context length exceeded (6498 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:56:59,064 | INFO | [SHC_civil_civil_general_shc_unknown_239389_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:57:01,150 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_7_splitB] Context length exceeded (6504 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:57:08,895 | INFO | [SHC_civil_civil_general_shc_unknown_239389_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:57:08,895 | INFO | [SHC_civil_civil_general_shc_unknown_239389_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:57:10,938 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_8] Context length exceeded (14640 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:57:13,009 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_8_splitA] Context length exceeded (7317 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:57:20,642 | INFO | [SHC_civil_civil_general_shc_unknown_239389_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:57:22,691 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_8_splitB] Context length exceeded (7322 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:57:30,714 | INFO | [SHC_civil_civil_general_shc_unknown_239389_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:57:30,714 | INFO | [SHC_civil_civil_general_shc_unknown_239389_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:57:32,784 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_9] Context length exceeded (16119 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:57:34,852 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_9_splitA] Context length exceeded (8052 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:57:42,799 | INFO | [SHC_civil_civil_general_shc_unknown_239389_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:57:44,854 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_9_splitB] Context length exceeded (8066 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:57:53,491 | INFO | [SHC_civil_civil_general_shc_unknown_239389_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:57:53,491 | INFO | [SHC_civil_civil_general_shc_unknown_239389_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:57:55,554 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_10] Context length exceeded (7911 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:58:04,090 | INFO | [SHC_civil_civil_general_shc_unknown_239389_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:58:06,148 | WARNING | [SHC_civil_civil_general_shc_unknown_239389_11] Context length exceeded (9728 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:58:15,969 | INFO | [SHC_civil_civil_general_shc_unknown_239389_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:58:31,100 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_3] Context length exceeded (6566 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:58:38,111 | INFO | [SHC_civil_civil_general_shc_unknown_239478_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:58:40,204 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_4] Context length exceeded (8235 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:58:48,492 | INFO | [SHC_civil_civil_general_shc_unknown_239478_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:58:50,591 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_5] Context length exceeded (10642 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:59:00,181 | INFO | [SHC_civil_civil_general_shc_unknown_239478_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:59:02,225 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_6] Context length exceeded (11080 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:59:12,237 | INFO | [SHC_civil_civil_general_shc_unknown_239478_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:59:14,283 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_7] Context length exceeded (13003 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:59:16,360 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_7_splitA] Context length exceeded (6498 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:59:23,171 | INFO | [SHC_civil_civil_general_shc_unknown_239478_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:59:25,232 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_7_splitB] Context length exceeded (6504 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:59:33,022 | INFO | [SHC_civil_civil_general_shc_unknown_239478_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:59:33,023 | INFO | [SHC_civil_civil_general_shc_unknown_239478_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:59:35,098 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_8] Context length exceeded (14640 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:59:37,146 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_8_splitA] Context length exceeded (7317 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:59:44,673 | INFO | [SHC_civil_civil_general_shc_unknown_239478_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:59:46,736 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_8_splitB] Context length exceeded (7322 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 05:59:54,889 | INFO | [SHC_civil_civil_general_shc_unknown_239478_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 05:59:54,890 | INFO | [SHC_civil_civil_general_shc_unknown_239478_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 05:59:56,977 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_9] Context length exceeded (16119 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 05:59:59,054 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_9_splitA] Context length exceeded (8052 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:00:06,956 | INFO | [SHC_civil_civil_general_shc_unknown_239478_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:00:09,013 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_9_splitB] Context length exceeded (8066 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:00:17,508 | INFO | [SHC_civil_civil_general_shc_unknown_239478_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:00:17,508 | INFO | [SHC_civil_civil_general_shc_unknown_239478_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:00:19,581 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_10] Context length exceeded (7908 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:00:27,908 | INFO | [SHC_civil_civil_general_shc_unknown_239478_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:00:29,945 | WARNING | [SHC_civil_civil_general_shc_unknown_239478_11] Context length exceeded (9725 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:00:39,586 | INFO | [SHC_civil_civil_general_shc_unknown_239478_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:01:15,228 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:01:15,613 | INFO | Upserted batch of 50 points. Total: 260689
+2026-09-28 06:04:17,423 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:04:17,798 | INFO | Upserted batch of 50 points. Total: 260739
+2026-09-28 06:05:07,804 | WARNING | [SHC_civil_civil_general_shc_unknown_244662_4] Context length exceeded (7459 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:05:15,248 | INFO | [SHC_civil_civil_general_shc_unknown_244662_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:05:30,318 | WARNING | [SHC_civil_civil_general_shc_unknown_244662_8] Context length exceeded (7925 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:05:37,954 | INFO | [SHC_civil_civil_general_shc_unknown_244662_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:06:02,782 | WARNING | [SHC_civil_civil_general_shc_unknown_244664_4] Context length exceeded (7457 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:06:10,129 | INFO | [SHC_civil_civil_general_shc_unknown_244664_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:06:25,041 | WARNING | [SHC_civil_civil_general_shc_unknown_244664_8] Context length exceeded (7925 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:06:32,766 | INFO | [SHC_civil_civil_general_shc_unknown_244664_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:06:58,952 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_3] Context length exceeded (6566 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:07:06,145 | INFO | [SHC_civil_civil_general_shc_unknown_245104_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:07:08,226 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_4] Context length exceeded (8235 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:07:16,321 | INFO | [SHC_civil_civil_general_shc_unknown_245104_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:07:18,388 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_5] Context length exceeded (10642 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:07:28,032 | INFO | [SHC_civil_civil_general_shc_unknown_245104_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:07:30,110 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_6] Context length exceeded (11080 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:07:40,367 | INFO | [SHC_civil_civil_general_shc_unknown_245104_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:07:42,447 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_7] Context length exceeded (13004 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:07:44,508 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_7_splitA] Context length exceeded (6498 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:07:53,899 | INFO | [SHC_civil_civil_general_shc_unknown_245104_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:07:55,958 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_7_splitB] Context length exceeded (6505 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:08:03,864 | INFO | [SHC_civil_civil_general_shc_unknown_245104_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:08:03,864 | INFO | [SHC_civil_civil_general_shc_unknown_245104_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:08:05,926 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_8] Context length exceeded (14641 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:08:07,998 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_8_splitA] Context length exceeded (7317 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:08:15,767 | INFO | [SHC_civil_civil_general_shc_unknown_245104_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:08:17,835 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_8_splitB] Context length exceeded (7323 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:08:25,926 | INFO | [SHC_civil_civil_general_shc_unknown_245104_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:08:25,927 | INFO | [SHC_civil_civil_general_shc_unknown_245104_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:08:27,998 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_9] Context length exceeded (16120 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:08:30,055 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_9_splitA] Context length exceeded (8052 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:08:38,110 | INFO | [SHC_civil_civil_general_shc_unknown_245104_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:08:40,179 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_9_splitB] Context length exceeded (8067 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:08:48,783 | INFO | [SHC_civil_civil_general_shc_unknown_245104_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:08:48,783 | INFO | [SHC_civil_civil_general_shc_unknown_245104_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:08:50,976 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:08:51,539 | INFO | Upserted batch of 50 points. Total: 260789
+2026-09-28 06:08:53,594 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_10] Context length exceeded (7911 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:09:02,036 | INFO | [SHC_civil_civil_general_shc_unknown_245104_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:09:04,108 | WARNING | [SHC_civil_civil_general_shc_unknown_245104_11] Context length exceeded (9728 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:09:13,854 | INFO | [SHC_civil_civil_general_shc_unknown_245104_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:10:59,813 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:11:00,260 | INFO | Upserted batch of 50 points. Total: 260839
+2026-09-28 06:11:21,426 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_3] Context length exceeded (6566 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:11:28,510 | INFO | [SHC_civil_civil_general_shc_unknown_246610_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:11:30,562 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_4] Context length exceeded (8234 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:11:38,630 | INFO | [SHC_civil_civil_general_shc_unknown_246610_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:11:40,688 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_5] Context length exceeded (10641 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:11:50,248 | INFO | [SHC_civil_civil_general_shc_unknown_246610_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:11:52,306 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_6] Context length exceeded (11079 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:12:02,404 | INFO | [SHC_civil_civil_general_shc_unknown_246610_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:12:04,476 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_7] Context length exceeded (13002 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:12:06,526 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_7_splitA] Context length exceeded (6498 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:12:13,774 | INFO | [SHC_civil_civil_general_shc_unknown_246610_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:12:15,823 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_7_splitB] Context length exceeded (6503 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:12:23,327 | INFO | [SHC_civil_civil_general_shc_unknown_246610_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:12:23,327 | INFO | [SHC_civil_civil_general_shc_unknown_246610_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:12:25,398 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_8] Context length exceeded (14639 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:12:27,455 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_8_splitA] Context length exceeded (7317 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:12:35,098 | INFO | [SHC_civil_civil_general_shc_unknown_246610_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:12:37,144 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_8_splitB] Context length exceeded (7321 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:12:45,253 | INFO | [SHC_civil_civil_general_shc_unknown_246610_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:12:45,254 | INFO | [SHC_civil_civil_general_shc_unknown_246610_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:12:47,309 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_9] Context length exceeded (16118 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:12:49,379 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_9_splitA] Context length exceeded (8051 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:12:57,020 | INFO | [SHC_civil_civil_general_shc_unknown_246610_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:12:59,062 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_9_splitB] Context length exceeded (8066 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:13:07,854 | INFO | [SHC_civil_civil_general_shc_unknown_246610_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:13:07,854 | INFO | [SHC_civil_civil_general_shc_unknown_246610_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:13:09,932 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_10] Context length exceeded (7910 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:13:18,391 | INFO | [SHC_civil_civil_general_shc_unknown_246610_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:13:20,460 | WARNING | [SHC_civil_civil_general_shc_unknown_246610_11] Context length exceeded (9727 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:13:30,150 | INFO | [SHC_civil_civil_general_shc_unknown_246610_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:14:50,194 | WARNING | [SHC_civil_civil_general_shc_unknown_247666_5] Context length exceeded (7026 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:14:57,188 | INFO | [SHC_civil_civil_general_shc_unknown_247666_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:15:02,648 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:15:03,050 | INFO | Upserted batch of 50 points. Total: 260889
+2026-09-28 06:15:10,332 | WARNING | [SHC_civil_civil_general_shc_unknown_247668_2] Context length exceeded (5147 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:15:18,266 | INFO | [SHC_civil_civil_general_shc_unknown_247668_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:17:09,654 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_3] Context length exceeded (6566 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:17:16,785 | INFO | [SHC_civil_civil_general_shc_unknown_248052_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:17:18,854 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_4] Context length exceeded (8235 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:17:26,909 | INFO | [SHC_civil_civil_general_shc_unknown_248052_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:17:28,952 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_5] Context length exceeded (10642 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:17:38,409 | INFO | [SHC_civil_civil_general_shc_unknown_248052_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:17:40,473 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_6] Context length exceeded (11080 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:17:50,597 | INFO | [SHC_civil_civil_general_shc_unknown_248052_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:17:52,657 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_7] Context length exceeded (13002 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:17:54,713 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_7_splitA] Context length exceeded (6498 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:18:01,857 | INFO | [SHC_civil_civil_general_shc_unknown_248052_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:18:03,930 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_7_splitB] Context length exceeded (6503 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:18:11,641 | INFO | [SHC_civil_civil_general_shc_unknown_248052_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:18:11,642 | INFO | [SHC_civil_civil_general_shc_unknown_248052_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:18:13,716 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_8] Context length exceeded (14641 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:18:15,786 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_8_splitA] Context length exceeded (7317 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:18:23,411 | INFO | [SHC_civil_civil_general_shc_unknown_248052_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:18:25,462 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_8_splitB] Context length exceeded (7323 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:18:33,592 | INFO | [SHC_civil_civil_general_shc_unknown_248052_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:18:33,593 | INFO | [SHC_civil_civil_general_shc_unknown_248052_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:18:35,694 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_9] Context length exceeded (16120 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:18:37,754 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_9_splitA] Context length exceeded (8052 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:18:45,690 | INFO | [SHC_civil_civil_general_shc_unknown_248052_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:18:47,743 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_9_splitB] Context length exceeded (8067 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:18:56,586 | INFO | [SHC_civil_civil_general_shc_unknown_248052_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:18:56,586 | INFO | [SHC_civil_civil_general_shc_unknown_248052_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:18:58,645 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_10] Context length exceeded (7911 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:19:06,963 | INFO | [SHC_civil_civil_general_shc_unknown_248052_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:19:09,047 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_11] Context length exceeded (9728 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:19:18,418 | INFO | [SHC_civil_civil_general_shc_unknown_248052_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:19:31,372 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_3] Context length exceeded (6566 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:19:38,363 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:19:40,496 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:19:40,948 | INFO | Upserted batch of 50 points. Total: 260939
+2026-09-28 06:19:42,996 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_4] Context length exceeded (8235 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:19:51,648 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:19:53,711 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_5] Context length exceeded (10642 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:20:04,129 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:20:06,221 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_6] Context length exceeded (11080 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:20:19,729 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:20:21,820 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_7] Context length exceeded (13003 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:20:23,898 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_7_splitA] Context length exceeded (6498 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:20:31,259 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:20:33,329 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_7_splitB] Context length exceeded (6504 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:20:41,034 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:20:41,034 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:20:43,117 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_8] Context length exceeded (14640 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:20:45,177 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_8_splitA] Context length exceeded (7317 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:20:52,884 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:20:54,949 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_8_splitB] Context length exceeded (7322 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:21:02,999 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:21:02,999 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:21:05,072 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_9] Context length exceeded (16119 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:21:07,138 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_9_splitA] Context length exceeded (8052 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:21:14,986 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:21:17,060 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_9_splitB] Context length exceeded (8066 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:21:25,809 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:21:25,810 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:21:27,879 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_10] Context length exceeded (7910 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:21:36,163 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:21:38,207 | WARNING | [SHC_civil_civil_general_shc_unknown_248052_1_11] Context length exceeded (9726 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:21:47,808 | INFO | [SHC_civil_civil_general_shc_unknown_248052_1_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:22:02,907 | WARNING | [SHC_civil_civil_general_shc_unknown_248162_3] Context length exceeded (6566 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:22:10,043 | INFO | [SHC_civil_civil_general_shc_unknown_248162_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:22:12,100 | WARNING | [SHC_civil_civil_general_shc_unknown_248162_4] Context length exceeded (8235 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:22:20,136 | INFO | [SHC_civil_civil_general_shc_unknown_248162_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:22:22,193 | WARNING | [SHC_civil_civil_general_shc_unknown_248162_5] Context length exceeded (10642 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:22:32,103 | INFO | [SHC_civil_civil_general_shc_unknown_248162_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:22:34,166 | WARNING | [SHC_civil_civil_general_shc_unknown_248162_6] Context length exceeded (11080 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:22:44,799 | INFO | [SHC_civil_civil_general_shc_unknown_248162_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:22:46,854 | WARNING | [SHC_civil_civil_general_shc_unknown_248162_7] Context length exceeded (13003 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:22:48,921 | WARNING | [SHC_civil_civil_general_shc_unknown_248162_7_splitA] Context length exceeded (6498 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:22:56,202 | INFO | [SHC_civil_civil_general_shc_unknown_248162_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:22:58,245 | WARNING | [SHC_civil_civil_general_shc_unknown_248162_7_splitB] Context length exceeded (6504 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:23:06,018 | INFO | [SHC_civil_civil_general_shc_unknown_248162_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:23:06,019 | INFO | [SHC_civil_civil_general_shc_unknown_248162_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:23:08,072 | WARNING | [SHC_civil_civil_general_shc_unknown_248162_8] Context length exceeded (14640 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:23:10,144 | WARNING | [SHC_civil_civil_general_shc_unknown_248162_8_splitA] Context length exceeded (7317 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:23:17,612 | INFO | [SHC_civil_civil_general_shc_unknown_248162_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:23:19,673 | WARNING | [SHC_civil_civil_general_shc_unknown_248162_8_splitB] Context length exceeded (7322 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:23:27,943 | INFO | [SHC_civil_civil_general_shc_unknown_248162_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:23:27,944 | INFO | [SHC_civil_civil_general_shc_unknown_248162_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:23:30,008 | WARNING | [SHC_civil_civil_general_shc_unknown_248162_9] Context length exceeded (16119 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:23:32,067 | WARNING | [SHC_civil_civil_general_shc_unknown_248162_9_splitA] Context length exceeded (8052 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:23:39,908 | INFO | [SHC_civil_civil_general_shc_unknown_248162_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:23:41,965 | WARNING | [SHC_civil_civil_general_shc_unknown_248162_9_splitB] Context length exceeded (8066 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:23:50,813 | INFO | [SHC_civil_civil_general_shc_unknown_248162_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:23:50,813 | INFO | [SHC_civil_civil_general_shc_unknown_248162_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:25:10,578 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:25:11,004 | INFO | Upserted batch of 50 points. Total: 260989
+2026-09-28 06:27:06,440 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:27:06,843 | INFO | Upserted batch of 50 points. Total: 261039
+2026-09-28 06:28:33,168 | WARNING | [SHC_civil_civil_general_shc_unknown_249792_3] Context length exceeded (6258 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:28:40,188 | INFO | [SHC_civil_civil_general_shc_unknown_249792_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:28:42,274 | WARNING | [SHC_civil_civil_general_shc_unknown_249792_4] Context length exceeded (6782 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:28:49,577 | INFO | [SHC_civil_civil_general_shc_unknown_249792_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:28:51,646 | WARNING | [SHC_civil_civil_general_shc_unknown_249792_5] Context length exceeded (9187 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:29:00,435 | INFO | [SHC_civil_civil_general_shc_unknown_249792_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:29:02,495 | WARNING | [SHC_civil_civil_general_shc_unknown_249792_6] Context length exceeded (11416 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:29:12,415 | INFO | [SHC_civil_civil_general_shc_unknown_249792_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:30:29,324 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:30:29,701 | INFO | Upserted batch of 50 points. Total: 261089
+2026-09-28 06:32:17,273 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:32:17,655 | INFO | Upserted batch of 50 points. Total: 261139
+2026-09-28 06:32:49,238 | WARNING | [SHC_civil_civil_general_shc_unknown_250380_5] Context length exceeded (8181 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:32:56,620 | INFO | [SHC_civil_civil_general_shc_unknown_250380_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:32:58,645 | WARNING | [SHC_civil_civil_general_shc_unknown_250380_6] Context length exceeded (8414 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:33:06,216 | INFO | [SHC_civil_civil_general_shc_unknown_250380_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:33:25,422 | WARNING | [SHC_civil_civil_general_shc_unknown_250386_2] Context length exceeded (6407 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:33:32,951 | INFO | [SHC_civil_civil_general_shc_unknown_250386_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:33:35,039 | WARNING | [SHC_civil_civil_general_shc_unknown_250386_3] Context length exceeded (7531 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:33:43,389 | INFO | [SHC_civil_civil_general_shc_unknown_250386_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:35:02,286 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:35:02,764 | INFO | Upserted batch of 50 points. Total: 261189
+2026-09-28 06:37:12,252 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:37:12,638 | INFO | Upserted batch of 50 points. Total: 261239
+2026-09-28 06:39:19,611 | WARNING | [SHC_civil_civil_general_shc_unknown_252770_4] Context length exceeded (8992 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:39:26,710 | INFO | [SHC_civil_civil_general_shc_unknown_252770_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:39:28,781 | WARNING | [SHC_civil_civil_general_shc_unknown_252770_5] Context length exceeded (11113 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:39:36,708 | INFO | [SHC_civil_civil_general_shc_unknown_252770_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:39:53,115 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:39:53,488 | INFO | Upserted batch of 50 points. Total: 261289
+2026-09-28 06:41:25,560 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_3] Context length exceeded (7546 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:41:34,054 | INFO | [SHC_civil_civil_general_shc_unknown_252824_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:41:36,102 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_4] Context length exceeded (9147 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:41:45,957 | INFO | [SHC_civil_civil_general_shc_unknown_252824_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:41:48,010 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_5] Context length exceeded (11294 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:41:50,067 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_5_splitA] Context length exceeded (5645 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:41:57,215 | INFO | [SHC_civil_civil_general_shc_unknown_252824_5_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:41:59,263 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_5_splitB] Context length exceeded (5648 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:42:06,472 | INFO | [SHC_civil_civil_general_shc_unknown_252824_5_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:42:06,472 | INFO | [SHC_civil_civil_general_shc_unknown_252824_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:42:08,523 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_6] Context length exceeded (13331 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:42:10,605 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_6_splitA] Context length exceeded (6661 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:42:18,257 | INFO | [SHC_civil_civil_general_shc_unknown_252824_6_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:42:20,311 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_6_splitB] Context length exceeded (6669 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:42:27,894 | INFO | [SHC_civil_civil_general_shc_unknown_252824_6_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:42:27,894 | INFO | [SHC_civil_civil_general_shc_unknown_252824_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:42:29,942 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_7] Context length exceeded (15530 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:42:31,997 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_7_splitA] Context length exceeded (7759 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:42:40,152 | INFO | [SHC_civil_civil_general_shc_unknown_252824_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:42:42,207 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_7_splitB] Context length exceeded (7770 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:42:50,616 | INFO | [SHC_civil_civil_general_shc_unknown_252824_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:42:50,616 | INFO | [SHC_civil_civil_general_shc_unknown_252824_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:42:52,688 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_8] Context length exceeded (16163 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:42:54,772 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_8_splitA] Context length exceeded (8078 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:43:03,422 | INFO | [SHC_civil_civil_general_shc_unknown_252824_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:43:05,495 | WARNING | [SHC_civil_civil_general_shc_unknown_252824_8_splitB] Context length exceeded (8084 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:43:14,677 | INFO | [SHC_civil_civil_general_shc_unknown_252824_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:43:14,677 | INFO | [SHC_civil_civil_general_shc_unknown_252824_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:44:09,478 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:44:09,871 | INFO | Upserted batch of 50 points. Total: 261339
+2026-09-28 06:44:20,943 | WARNING | [SHC_civil_civil_general_shc_unknown_253126_2] Context length exceeded (6023 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:44:27,908 | INFO | [SHC_civil_civil_general_shc_unknown_253126_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:44:49,628 | WARNING | [SHC_civil_civil_general_shc_unknown_253210_5] Context length exceeded (6306 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:44:56,727 | INFO | [SHC_civil_civil_general_shc_unknown_253210_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:44:58,831 | WARNING | [SHC_civil_civil_general_shc_unknown_253210_6] Context length exceeded (8709 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:45:07,632 | INFO | [SHC_civil_civil_general_shc_unknown_253210_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:45:09,702 | WARNING | [SHC_civil_civil_general_shc_unknown_253210_7] Context length exceeded (8917 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:45:18,412 | INFO | [SHC_civil_civil_general_shc_unknown_253210_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:45:38,848 | WARNING | [SHC_civil_civil_general_shc_unknown_255619_5] Context length exceeded (9920 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:45:46,838 | INFO | [SHC_civil_civil_general_shc_unknown_255619_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:45:48,932 | WARNING | [SHC_civil_civil_general_shc_unknown_255619_6] Context length exceeded (11533 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:45:57,690 | INFO | [SHC_civil_civil_general_shc_unknown_255619_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:45:59,767 | WARNING | [SHC_civil_civil_general_shc_unknown_255619_7] Context length exceeded (11751 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:46:08,776 | INFO | [SHC_civil_civil_general_shc_unknown_255619_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:46:38,740 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_3] Context length exceeded (6567 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:46:45,845 | INFO | [SHC_civil_civil_general_shc_unknown_255732_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:46:47,909 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_4] Context length exceeded (8236 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:46:56,065 | INFO | [SHC_civil_civil_general_shc_unknown_255732_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:46:58,129 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_5] Context length exceeded (10643 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:47:07,765 | INFO | [SHC_civil_civil_general_shc_unknown_255732_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:47:09,840 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_6] Context length exceeded (11081 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:47:19,986 | INFO | [SHC_civil_civil_general_shc_unknown_255732_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:47:22,042 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_7] Context length exceeded (13004 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:47:24,086 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_7_splitA] Context length exceeded (6499 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:47:31,223 | INFO | [SHC_civil_civil_general_shc_unknown_255732_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:47:33,286 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_7_splitB] Context length exceeded (6504 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:47:40,967 | INFO | [SHC_civil_civil_general_shc_unknown_255732_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:47:40,968 | INFO | [SHC_civil_civil_general_shc_unknown_255732_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:47:43,028 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_8] Context length exceeded (14641 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:47:45,096 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_8_splitA] Context length exceeded (7318 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:47:52,683 | INFO | [SHC_civil_civil_general_shc_unknown_255732_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:47:54,743 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_8_splitB] Context length exceeded (7322 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:48:02,877 | INFO | [SHC_civil_civil_general_shc_unknown_255732_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:48:02,877 | INFO | [SHC_civil_civil_general_shc_unknown_255732_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:48:04,971 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_9] Context length exceeded (16120 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:48:07,028 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_9_splitA] Context length exceeded (8053 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:48:14,720 | INFO | [SHC_civil_civil_general_shc_unknown_255732_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:48:16,806 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_9_splitB] Context length exceeded (8066 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:48:25,648 | INFO | [SHC_civil_civil_general_shc_unknown_255732_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:48:25,648 | INFO | [SHC_civil_civil_general_shc_unknown_255732_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:48:27,737 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_10] Context length exceeded (7910 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:48:36,383 | INFO | [SHC_civil_civil_general_shc_unknown_255732_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:48:38,449 | WARNING | [SHC_civil_civil_general_shc_unknown_255732_11] Context length exceeded (9727 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:48:48,290 | INFO | [SHC_civil_civil_general_shc_unknown_255732_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:49:15,670 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:49:16,078 | INFO | Upserted batch of 50 points. Total: 261389
+2026-09-28 06:50:40,942 | WARNING | [SHC_civil_civil_general_shc_unknown_256954_5] Context length exceeded (8622 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:50:48,425 | INFO | [SHC_civil_civil_general_shc_unknown_256954_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:50:50,496 | WARNING | [SHC_civil_civil_general_shc_unknown_256954_6] Context length exceeded (9071 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:50:58,084 | INFO | [SHC_civil_civil_general_shc_unknown_256954_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:51:41,743 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:51:41,889 | INFO | Upserted batch of 50 points. Total: 261439
+2026-09-28 06:53:41,827 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:53:41,958 | INFO | Upserted batch of 50 points. Total: 261489
+2026-09-28 06:54:46,714 | WARNING | [SHC_civil_civil_general_shc_unknown_259806_5] Context length exceeded (6259 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:54:54,442 | INFO | [SHC_civil_civil_general_shc_unknown_259806_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:55:11,533 | WARNING | [SHC_civil_civil_general_shc_unknown_259810_2] Context length exceeded (5922 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:55:18,312 | INFO | [SHC_civil_civil_general_shc_unknown_259810_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:55:20,388 | WARNING | [SHC_civil_civil_general_shc_unknown_259810_3] Context length exceeded (6619 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:55:27,391 | INFO | [SHC_civil_civil_general_shc_unknown_259810_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:55:29,467 | WARNING | [SHC_civil_civil_general_shc_unknown_259810_4] Context length exceeded (6961 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:55:36,641 | INFO | [SHC_civil_civil_general_shc_unknown_259810_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:55:38,712 | WARNING | [SHC_civil_civil_general_shc_unknown_259810_5] Context length exceeded (9243 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:55:47,226 | INFO | [SHC_civil_civil_general_shc_unknown_259810_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:55:56,552 | WARNING | [SHC_civil_civil_general_shc_unknown_259812_2] Context length exceeded (6312 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:56:03,526 | INFO | [SHC_civil_civil_general_shc_unknown_259812_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:56:39,213 | WARNING | [SHC_civil_civil_general_shc_unknown_259814_6] Context length exceeded (5474 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:56:46,181 | INFO | [SHC_civil_civil_general_shc_unknown_259814_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:56:48,266 | WARNING | [SHC_civil_civil_general_shc_unknown_259814_7] Context length exceeded (7681 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:56:56,458 | INFO | [SHC_civil_civil_general_shc_unknown_259814_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:56:58,528 | WARNING | [SHC_civil_civil_general_shc_unknown_259814_8] Context length exceeded (7380 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:57:06,604 | INFO | [SHC_civil_civil_general_shc_unknown_259814_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:57:08,662 | WARNING | [SHC_civil_civil_general_shc_unknown_259814_9] Context length exceeded (9670 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:57:18,489 | INFO | [SHC_civil_civil_general_shc_unknown_259814_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:57:20,548 | WARNING | [SHC_civil_civil_general_shc_unknown_259814_10] Context length exceeded (5736 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:57:27,863 | INFO | [SHC_civil_civil_general_shc_unknown_259814_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:57:53,470 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 06:57:53,650 | INFO | Upserted batch of 50 points. Total: 261539
+2026-09-28 06:57:55,737 | WARNING | [SHC_civil_civil_general_shc_unknown_259816_6] Context length exceeded (8065 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:58:02,912 | INFO | [SHC_civil_civil_general_shc_unknown_259816_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:58:04,984 | WARNING | [SHC_civil_civil_general_shc_unknown_259816_7] Context length exceeded (10465 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:58:13,722 | INFO | [SHC_civil_civil_general_shc_unknown_259816_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:58:15,812 | WARNING | [SHC_civil_civil_general_shc_unknown_259816_8] Context length exceeded (12813 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:58:22,915 | WARNING | [SHC_civil_civil_general_shc_unknown_259816_8_splitB] Context length exceeded (6408 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:58:30,108 | INFO | [SHC_civil_civil_general_shc_unknown_259816_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:58:30,108 | INFO | [SHC_civil_civil_general_shc_unknown_259816_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 06:58:32,175 | WARNING | [SHC_civil_civil_general_shc_unknown_259816_9] Context length exceeded (15085 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 06:58:34,256 | WARNING | [SHC_civil_civil_general_shc_unknown_259816_9_splitA] Context length exceeded (7541 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:58:41,111 | INFO | [SHC_civil_civil_general_shc_unknown_259816_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:58:43,194 | WARNING | [SHC_civil_civil_general_shc_unknown_259816_9_splitB] Context length exceeded (7543 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 06:58:51,134 | INFO | [SHC_civil_civil_general_shc_unknown_259816_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 06:58:51,135 | INFO | [SHC_civil_civil_general_shc_unknown_259816_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:00:39,339 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:00:39,498 | INFO | Upserted batch of 50 points. Total: 261589
+2026-09-28 07:03:12,092 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:03:12,249 | INFO | Upserted batch of 50 points. Total: 261639
+2026-09-28 07:04:12,516 | WARNING | [SHC_civil_civil_general_shc_unknown_262296_6] Context length exceeded (3790 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:04:19,231 | INFO | [SHC_civil_civil_general_shc_unknown_262296_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:06:16,682 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:06:16,808 | INFO | Upserted batch of 50 points. Total: 261689
+2026-09-28 07:09:01,526 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:09:01,668 | INFO | Upserted batch of 50 points. Total: 261739
+2026-09-28 07:11:12,866 | WARNING | [SHC_civil_civil_general_shc_unknown_262345_5] Context length exceeded (3873 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:11:20,637 | INFO | [SHC_civil_civil_general_shc_unknown_262345_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:12:18,027 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:12:18,188 | INFO | Upserted batch of 50 points. Total: 261789
+2026-09-28 07:15:30,742 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:15:31,104 | INFO | Upserted batch of 50 points. Total: 261839
+2026-09-28 07:15:33,214 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_6] Context length exceeded (3669 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:15:40,206 | INFO | [SHC_civil_civil_general_shc_unknown_262361_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:15:42,270 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_7] Context length exceeded (3684 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:15:49,265 | INFO | [SHC_civil_civil_general_shc_unknown_262361_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:15:51,327 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_8] Context length exceeded (3828 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:15:58,524 | INFO | [SHC_civil_civil_general_shc_unknown_262361_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:16:00,572 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_9] Context length exceeded (4416 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:16:08,198 | INFO | [SHC_civil_civil_general_shc_unknown_262361_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:16:10,283 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_10] Context length exceeded (4692 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:16:18,327 | INFO | [SHC_civil_civil_general_shc_unknown_262361_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:16:24,725 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_12] Context length exceeded (4749 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:16:32,599 | INFO | [SHC_civil_civil_general_shc_unknown_262361_12] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:16:34,686 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_13] Context length exceeded (5573 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:16:43,421 | INFO | [SHC_civil_civil_general_shc_unknown_262361_13] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:16:45,487 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_14] Context length exceeded (5953 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:16:54,896 | INFO | [SHC_civil_civil_general_shc_unknown_262361_14] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:16:56,953 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_15] Context length exceeded (7288 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:16:59,016 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_15_splitA] Context length exceeded (3636 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:17:05,756 | INFO | [SHC_civil_civil_general_shc_unknown_262361_15_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:17:07,818 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_15_splitB] Context length exceeded (3651 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:17:14,859 | INFO | [SHC_civil_civil_general_shc_unknown_262361_15_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:17:14,859 | INFO | [SHC_civil_civil_general_shc_unknown_262361_15] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:17:16,916 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_16] Context length exceeded (5127 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:17:24,914 | INFO | [SHC_civil_civil_general_shc_unknown_262361_16] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:17:47,609 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_22] Context length exceeded (4145 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:17:54,587 | INFO | [SHC_civil_civil_general_shc_unknown_262361_22] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:17:56,647 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_23] Context length exceeded (4927 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:18:04,279 | INFO | [SHC_civil_civil_general_shc_unknown_262361_23] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:18:06,361 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_24] Context length exceeded (7337 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:18:16,135 | INFO | [SHC_civil_civil_general_shc_unknown_262361_24] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:18:18,210 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_25] Context length exceeded (9481 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:18:20,281 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_25_splitA] Context length exceeded (4739 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:18:27,734 | INFO | [SHC_civil_civil_general_shc_unknown_262361_25_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:18:29,789 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_25_splitB] Context length exceeded (4741 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:18:37,637 | INFO | [SHC_civil_civil_general_shc_unknown_262361_25_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:18:37,638 | INFO | [SHC_civil_civil_general_shc_unknown_262361_25] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:19:11,599 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_6] Context length exceeded (3669 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:19:18,863 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:19:20,920 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_7] Context length exceeded (3684 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:19:28,159 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:19:30,208 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_8] Context length exceeded (3828 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:19:37,542 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:19:39,597 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_9] Context length exceeded (4416 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:19:47,250 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:19:49,310 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_10] Context length exceeded (4692 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:19:57,802 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:20:04,056 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_12] Context length exceeded (4749 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:20:11,885 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_12] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:20:13,955 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_13] Context length exceeded (5573 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:20:22,677 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_13] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:20:24,755 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_14] Context length exceeded (5953 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:20:34,057 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_14] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:20:36,155 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_15] Context length exceeded (7288 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:20:38,222 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_15_splitA] Context length exceeded (3636 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:20:45,170 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_15_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:20:47,221 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_15_splitB] Context length exceeded (3651 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:20:54,343 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_15_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:20:54,343 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_15] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:20:56,406 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_16] Context length exceeded (5127 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:21:04,383 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_16] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:21:27,776 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_22] Context length exceeded (4145 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:21:34,803 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_22] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:21:36,887 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_23] Context length exceeded (4927 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:21:44,340 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_23] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:21:46,420 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_24] Context length exceeded (7337 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:21:56,500 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_24] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:21:58,559 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_25] Context length exceeded (9481 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:22:00,624 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_25_splitA] Context length exceeded (4739 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:22:08,040 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_25_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:22:10,105 | WARNING | [SHC_civil_civil_general_shc_unknown_262361_1_25_splitB] Context length exceeded (4741 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:22:17,636 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_25_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:22:17,637 | INFO | [SHC_civil_civil_general_shc_unknown_262361_1_25] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:22:29,581 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:22:29,731 | INFO | Upserted batch of 50 points. Total: 261889
+2026-09-28 07:22:36,196 | WARNING | [SHC_civil_civil_general_shc_unknown_262855_3] Context length exceeded (7253 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:22:43,754 | INFO | [SHC_civil_civil_general_shc_unknown_262855_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:22:45,800 | WARNING | [SHC_civil_civil_general_shc_unknown_262855_4] Context length exceeded (7587 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:22:53,521 | INFO | [SHC_civil_civil_general_shc_unknown_262855_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:23:07,819 | WARNING | [SHC_civil_civil_general_shc_unknown_263748_3] Context length exceeded (6317 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:23:14,882 | INFO | [SHC_civil_civil_general_shc_unknown_263748_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:23:31,040 | WARNING | [SHC_civil_civil_general_shc_unknown_265712_4] Context length exceeded (6039 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:23:37,917 | INFO | [SHC_civil_civil_general_shc_unknown_265712_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:23:54,334 | WARNING | [SHC_civil_civil_general_shc_unknown_265712_9] Context length exceeded (5420 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:24:01,149 | INFO | [SHC_civil_civil_general_shc_unknown_265712_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:24:03,218 | WARNING | [SHC_civil_civil_general_shc_unknown_265712_10] Context length exceeded (7559 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:24:11,381 | INFO | [SHC_civil_civil_general_shc_unknown_265712_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:24:13,439 | WARNING | [SHC_civil_civil_general_shc_unknown_265712_11] Context length exceeded (9258 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:24:22,386 | INFO | [SHC_civil_civil_general_shc_unknown_265712_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:25:54,901 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:25:55,038 | INFO | Upserted batch of 50 points. Total: 261939
+2026-09-28 07:28:21,885 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:28:22,046 | INFO | Upserted batch of 50 points. Total: 261989
+2026-09-28 07:30:46,320 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:30:46,473 | INFO | Upserted batch of 50 points. Total: 262039
+2026-09-28 07:33:13,518 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:33:13,646 | INFO | Upserted batch of 50 points. Total: 262089
+2026-09-28 07:36:05,173 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:36:05,335 | INFO | Upserted batch of 50 points. Total: 262139
+2026-09-28 07:38:42,874 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:38:43,013 | INFO | Upserted batch of 50 points. Total: 262189
+2026-09-28 07:41:18,497 | WARNING | [SHC_civil_civil_general_shc_unknown_267450_6] Context length exceeded (9327 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:41:26,429 | INFO | [SHC_civil_civil_general_shc_unknown_267450_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:41:28,502 | WARNING | [SHC_civil_civil_general_shc_unknown_267450_7] Context length exceeded (7873 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:41:35,731 | INFO | [SHC_civil_civil_general_shc_unknown_267450_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:41:40,731 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:41:40,861 | INFO | Upserted batch of 50 points. Total: 262239
+2026-09-28 07:42:03,398 | WARNING | [SHC_civil_civil_general_shc_unknown_267454_6] Context length exceeded (9329 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:42:11,534 | INFO | [SHC_civil_civil_general_shc_unknown_267454_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:42:13,599 | WARNING | [SHC_civil_civil_general_shc_unknown_267454_7] Context length exceeded (7875 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:42:20,824 | INFO | [SHC_civil_civil_general_shc_unknown_267454_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:42:46,745 | WARNING | [SHC_civil_civil_general_shc_unknown_267454_1_6] Context length exceeded (9328 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:42:54,841 | INFO | [SHC_civil_civil_general_shc_unknown_267454_1_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:42:56,898 | WARNING | [SHC_civil_civil_general_shc_unknown_267454_1_7] Context length exceeded (7874 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:43:04,152 | INFO | [SHC_civil_civil_general_shc_unknown_267454_1_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:44:00,660 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_3] Context length exceeded (6566 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:44:07,731 | INFO | [SHC_civil_civil_general_shc_unknown_270699_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:44:09,778 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_4] Context length exceeded (8235 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:44:17,467 | INFO | [SHC_civil_civil_general_shc_unknown_270699_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:44:19,548 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_5] Context length exceeded (10642 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:44:28,905 | INFO | [SHC_civil_civil_general_shc_unknown_270699_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:44:31,002 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_6] Context length exceeded (11080 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:44:40,813 | INFO | [SHC_civil_civil_general_shc_unknown_270699_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:44:42,898 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_7] Context length exceeded (13003 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:44:44,976 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_7_splitA] Context length exceeded (6498 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:44:51,963 | INFO | [SHC_civil_civil_general_shc_unknown_270699_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:44:54,012 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_7_splitB] Context length exceeded (6504 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:45:01,380 | INFO | [SHC_civil_civil_general_shc_unknown_270699_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:45:01,381 | INFO | [SHC_civil_civil_general_shc_unknown_270699_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:45:03,460 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_8] Context length exceeded (14640 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:45:05,553 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_8_splitA] Context length exceeded (7317 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:45:12,721 | INFO | [SHC_civil_civil_general_shc_unknown_270699_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:45:14,790 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_8_splitB] Context length exceeded (7322 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:45:22,390 | INFO | [SHC_civil_civil_general_shc_unknown_270699_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:45:22,391 | INFO | [SHC_civil_civil_general_shc_unknown_270699_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:45:24,488 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_9] Context length exceeded (16119 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:45:26,556 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_9_splitA] Context length exceeded (8052 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:45:34,073 | INFO | [SHC_civil_civil_general_shc_unknown_270699_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:45:36,142 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_9_splitB] Context length exceeded (8066 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:45:44,515 | INFO | [SHC_civil_civil_general_shc_unknown_270699_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:45:44,515 | INFO | [SHC_civil_civil_general_shc_unknown_270699_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:45:46,593 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_10] Context length exceeded (7910 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:45:54,655 | INFO | [SHC_civil_civil_general_shc_unknown_270699_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:45:56,735 | WARNING | [SHC_civil_civil_general_shc_unknown_270699_11] Context length exceeded (9727 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:46:05,783 | INFO | [SHC_civil_civil_general_shc_unknown_270699_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:46:18,377 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_3] Context length exceeded (6566 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:46:25,326 | INFO | [SHC_civil_civil_general_shc_unknown_272909_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:46:27,416 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_4] Context length exceeded (8235 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:46:35,550 | INFO | [SHC_civil_civil_general_shc_unknown_272909_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:46:37,627 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_5] Context length exceeded (10642 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:46:46,822 | INFO | [SHC_civil_civil_general_shc_unknown_272909_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:46:48,890 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_6] Context length exceeded (11080 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:46:58,550 | INFO | [SHC_civil_civil_general_shc_unknown_272909_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:47:00,609 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_7] Context length exceeded (13003 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:47:02,702 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_7_splitA] Context length exceeded (6498 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:47:09,540 | INFO | [SHC_civil_civil_general_shc_unknown_272909_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:47:11,595 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_7_splitB] Context length exceeded (6504 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:47:18,915 | INFO | [SHC_civil_civil_general_shc_unknown_272909_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:47:18,915 | INFO | [SHC_civil_civil_general_shc_unknown_272909_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:47:20,990 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_8] Context length exceeded (14640 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:47:23,045 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_8_splitA] Context length exceeded (7317 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:47:30,262 | INFO | [SHC_civil_civil_general_shc_unknown_272909_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:47:32,333 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_8_splitB] Context length exceeded (7322 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:47:40,088 | INFO | [SHC_civil_civil_general_shc_unknown_272909_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:47:40,088 | INFO | [SHC_civil_civil_general_shc_unknown_272909_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:47:42,132 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_9] Context length exceeded (16119 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:47:44,199 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_9_splitA] Context length exceeded (8052 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:47:51,764 | INFO | [SHC_civil_civil_general_shc_unknown_272909_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:47:53,826 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_9_splitB] Context length exceeded (8066 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:48:02,455 | INFO | [SHC_civil_civil_general_shc_unknown_272909_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:48:02,456 | INFO | [SHC_civil_civil_general_shc_unknown_272909_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:48:04,554 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:48:04,730 | INFO | Upserted batch of 50 points. Total: 262289
+2026-09-28 07:48:06,830 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_10] Context length exceeded (7910 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:48:15,190 | INFO | [SHC_civil_civil_general_shc_unknown_272909_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:48:17,261 | WARNING | [SHC_civil_civil_general_shc_unknown_272909_11] Context length exceeded (9727 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:48:26,532 | INFO | [SHC_civil_civil_general_shc_unknown_272909_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:48:39,435 | WARNING | [SHC_civil_civil_general_shc_unknown_274285_3] Context length exceeded (5939 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:48:46,664 | INFO | [SHC_civil_civil_general_shc_unknown_274285_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:48:48,724 | WARNING | [SHC_civil_civil_general_shc_unknown_274285_4] Context length exceeded (7365 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:48:56,721 | INFO | [SHC_civil_civil_general_shc_unknown_274285_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:48:58,808 | WARNING | [SHC_civil_civil_general_shc_unknown_274285_5] Context length exceeded (8284 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:49:07,702 | INFO | [SHC_civil_civil_general_shc_unknown_274285_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:49:19,289 | WARNING | [SHC_civil_civil_general_shc_unknown_274285_8] Context length exceeded (7215 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:49:28,262 | INFO | [SHC_civil_civil_general_shc_unknown_274285_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:49:30,333 | WARNING | [SHC_civil_civil_general_shc_unknown_274285_9] Context length exceeded (9618 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:49:39,983 | INFO | [SHC_civil_civil_general_shc_unknown_274285_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:49:42,069 | WARNING | [SHC_civil_civil_general_shc_unknown_274285_10] Context length exceeded (7702 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:49:52,104 | INFO | [SHC_civil_civil_general_shc_unknown_274285_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:51:31,808 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:51:31,951 | INFO | Upserted batch of 50 points. Total: 262339
+2026-09-28 07:52:16,218 | WARNING | [SHC_civil_civil_general_shc_unknown_276193_2] Context length exceeded (6279 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:52:23,292 | INFO | [SHC_civil_civil_general_shc_unknown_276193_2] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:52:25,358 | WARNING | [SHC_civil_civil_general_shc_unknown_276193_3] Context length exceeded (7995 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:52:33,299 | INFO | [SHC_civil_civil_general_shc_unknown_276193_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:52:35,383 | WARNING | [SHC_civil_civil_general_shc_unknown_276193_4] Context length exceeded (8301 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:52:43,495 | INFO | [SHC_civil_civil_general_shc_unknown_276193_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:52:45,557 | WARNING | [SHC_civil_civil_general_shc_unknown_276193_5] Context length exceeded (10445 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:52:54,890 | INFO | [SHC_civil_civil_general_shc_unknown_276193_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:52:56,947 | WARNING | [SHC_civil_civil_general_shc_unknown_276193_6] Context length exceeded (12601 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:52:59,040 | WARNING | [SHC_civil_civil_general_shc_unknown_276193_6_splitA] Context length exceeded (6297 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:53:06,073 | INFO | [SHC_civil_civil_general_shc_unknown_276193_6_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:53:08,123 | WARNING | [SHC_civil_civil_general_shc_unknown_276193_6_splitB] Context length exceeded (6303 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:53:15,174 | INFO | [SHC_civil_civil_general_shc_unknown_276193_6_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:53:15,174 | INFO | [SHC_civil_civil_general_shc_unknown_276193_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:53:17,233 | WARNING | [SHC_civil_civil_general_shc_unknown_276193_7] Context length exceeded (14890 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:53:19,303 | WARNING | [SHC_civil_civil_general_shc_unknown_276193_7_splitA] Context length exceeded (7439 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:53:27,040 | INFO | [SHC_civil_civil_general_shc_unknown_276193_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:53:29,122 | WARNING | [SHC_civil_civil_general_shc_unknown_276193_7_splitB] Context length exceeded (7450 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:53:36,982 | INFO | [SHC_civil_civil_general_shc_unknown_276193_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:53:36,983 | INFO | [SHC_civil_civil_general_shc_unknown_276193_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:53:39,073 | WARNING | [SHC_civil_civil_general_shc_unknown_276193_8] Context length exceeded (15818 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:53:41,156 | WARNING | [SHC_civil_civil_general_shc_unknown_276193_8_splitA] Context length exceeded (7903 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:53:49,195 | INFO | [SHC_civil_civil_general_shc_unknown_276193_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:53:51,299 | WARNING | [SHC_civil_civil_general_shc_unknown_276193_8_splitB] Context length exceeded (7914 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:53:59,349 | INFO | [SHC_civil_civil_general_shc_unknown_276193_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:53:59,349 | INFO | [SHC_civil_civil_general_shc_unknown_276193_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:54:16,357 | WARNING | [SHC_civil_civil_general_shc_unknown_276195_4] Context length exceeded (8259 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:54:23,836 | INFO | [SHC_civil_civil_general_shc_unknown_276195_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:54:25,910 | WARNING | [SHC_civil_civil_general_shc_unknown_276195_5] Context length exceeded (10451 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:54:34,393 | INFO | [SHC_civil_civil_general_shc_unknown_276195_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:54:36,450 | WARNING | [SHC_civil_civil_general_shc_unknown_276195_6] Context length exceeded (10527 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:54:44,861 | INFO | [SHC_civil_civil_general_shc_unknown_276195_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:56:14,968 | WARNING | [SHC_civil_civil_general_shc_unknown_276327_6] Context length exceeded (9328 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:56:22,941 | INFO | [SHC_civil_civil_general_shc_unknown_276327_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:56:25,041 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 07:56:25,185 | INFO | Upserted batch of 50 points. Total: 262389
+2026-09-28 07:56:27,252 | WARNING | [SHC_civil_civil_general_shc_unknown_276327_7] Context length exceeded (7874 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:56:34,515 | INFO | [SHC_civil_civil_general_shc_unknown_276327_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:56:53,405 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_3] Context length exceeded (6566 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:57:00,317 | INFO | [SHC_civil_civil_general_shc_unknown_277433_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:57:02,404 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_4] Context length exceeded (8235 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:57:10,120 | INFO | [SHC_civil_civil_general_shc_unknown_277433_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:57:12,166 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_5] Context length exceeded (10642 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:57:21,690 | INFO | [SHC_civil_civil_general_shc_unknown_277433_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:57:23,746 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_6] Context length exceeded (11080 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:57:33,738 | INFO | [SHC_civil_civil_general_shc_unknown_277433_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:57:35,815 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_7] Context length exceeded (13003 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:57:37,903 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_7_splitA] Context length exceeded (6498 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:57:44,967 | INFO | [SHC_civil_civil_general_shc_unknown_277433_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:57:47,039 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_7_splitB] Context length exceeded (6504 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:57:54,316 | INFO | [SHC_civil_civil_general_shc_unknown_277433_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:57:54,316 | INFO | [SHC_civil_civil_general_shc_unknown_277433_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:57:56,412 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_8] Context length exceeded (14640 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:57:58,485 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_8_splitA] Context length exceeded (7317 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:58:05,742 | INFO | [SHC_civil_civil_general_shc_unknown_277433_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:58:07,817 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_8_splitB] Context length exceeded (7322 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:58:15,546 | INFO | [SHC_civil_civil_general_shc_unknown_277433_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:58:15,547 | INFO | [SHC_civil_civil_general_shc_unknown_277433_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:58:17,608 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_9] Context length exceeded (16119 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:58:19,697 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_9_splitA] Context length exceeded (8052 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:58:27,241 | INFO | [SHC_civil_civil_general_shc_unknown_277433_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:58:29,317 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_9_splitB] Context length exceeded (8066 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 07:58:37,925 | INFO | [SHC_civil_civil_general_shc_unknown_277433_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 07:58:37,926 | INFO | [SHC_civil_civil_general_shc_unknown_277433_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:58:39,982 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_10] Context length exceeded (7910 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:58:48,070 | INFO | [SHC_civil_civil_general_shc_unknown_277433_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:58:50,167 | WARNING | [SHC_civil_civil_general_shc_unknown_277433_11] Context length exceeded (9727 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:58:59,622 | INFO | [SHC_civil_civil_general_shc_unknown_277433_11] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:59:19,581 | WARNING | [SHC_civil_civil_general_shc_unknown_278149_5] Context length exceeded (8287 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:59:26,786 | INFO | [SHC_civil_civil_general_shc_unknown_278149_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:59:28,870 | WARNING | [SHC_civil_civil_general_shc_unknown_278149_6] Context length exceeded (10014 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:59:36,888 | INFO | [SHC_civil_civil_general_shc_unknown_278149_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 07:59:38,964 | WARNING | [SHC_civil_civil_general_shc_unknown_278149_7] Context length exceeded (11844 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 07:59:47,801 | INFO | [SHC_civil_civil_general_shc_unknown_278149_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:00:19,767 | WARNING | [SHC_civil_civil_general_shc_unknown_279025_3] Context length exceeded (7229 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:00:27,167 | INFO | [SHC_civil_civil_general_shc_unknown_279025_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:00:29,242 | WARNING | [SHC_civil_civil_general_shc_unknown_279025_4] Context length exceeded (8837 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:00:37,676 | INFO | [SHC_civil_civil_general_shc_unknown_279025_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:00:50,576 | WARNING | [SHC_civil_civil_general_shc_unknown_279025_8] Context length exceeded (6869 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:00:58,058 | INFO | [SHC_civil_civil_general_shc_unknown_279025_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:01:00,123 | WARNING | [SHC_civil_civil_general_shc_unknown_279025_9] Context length exceeded (7138 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:01:07,741 | INFO | [SHC_civil_civil_general_shc_unknown_279025_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:01:09,812 | WARNING | [SHC_civil_civil_general_shc_unknown_279025_10] Context length exceeded (8909 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:01:18,457 | INFO | [SHC_civil_civil_general_shc_unknown_279025_10] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:01:36,415 | WARNING | [SHC_civil_civil_general_shc_unknown_279075_3] Context length exceeded (6524 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:01:43,886 | INFO | [SHC_civil_civil_general_shc_unknown_279075_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:01:45,954 | WARNING | [SHC_civil_civil_general_shc_unknown_279075_4] Context length exceeded (8206 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:01:54,411 | INFO | [SHC_civil_civil_general_shc_unknown_279075_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:01:56,531 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 08:01:56,697 | INFO | Upserted batch of 50 points. Total: 262439
+2026-09-28 08:01:58,788 | WARNING | [SHC_civil_civil_general_shc_unknown_279075_5] Context length exceeded (8894 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:02:07,916 | INFO | [SHC_civil_civil_general_shc_unknown_279075_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:02:21,500 | WARNING | [SHC_civil_civil_general_shc_unknown_279075_1_3] Context length exceeded (6523 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:02:28,837 | INFO | [SHC_civil_civil_general_shc_unknown_279075_1_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:02:30,895 | WARNING | [SHC_civil_civil_general_shc_unknown_279075_1_4] Context length exceeded (8205 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:02:39,147 | INFO | [SHC_civil_civil_general_shc_unknown_279075_1_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:02:41,237 | WARNING | [SHC_civil_civil_general_shc_unknown_279075_1_5] Context length exceeded (8893 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:02:50,422 | INFO | [SHC_civil_civil_general_shc_unknown_279075_1_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:03:04,991 | WARNING | [SHC_civil_civil_general_shc_unknown_279597_3] Context length exceeded (6566 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:03:11,812 | INFO | [SHC_civil_civil_general_shc_unknown_279597_3] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:03:13,881 | WARNING | [SHC_civil_civil_general_shc_unknown_279597_4] Context length exceeded (8235 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:03:21,525 | INFO | [SHC_civil_civil_general_shc_unknown_279597_4] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:03:23,581 | WARNING | [SHC_civil_civil_general_shc_unknown_279597_5] Context length exceeded (10642 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:03:33,005 | INFO | [SHC_civil_civil_general_shc_unknown_279597_5] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:03:35,083 | WARNING | [SHC_civil_civil_general_shc_unknown_279597_6] Context length exceeded (11080 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:03:44,829 | INFO | [SHC_civil_civil_general_shc_unknown_279597_6] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:03:46,872 | WARNING | [SHC_civil_civil_general_shc_unknown_279597_7] Context length exceeded (13003 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:03:48,923 | WARNING | [SHC_civil_civil_general_shc_unknown_279597_7_splitA] Context length exceeded (6498 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 08:03:55,679 | INFO | [SHC_civil_civil_general_shc_unknown_279597_7_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 08:03:57,746 | WARNING | [SHC_civil_civil_general_shc_unknown_279597_7_splitB] Context length exceeded (6504 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 08:04:05,130 | INFO | [SHC_civil_civil_general_shc_unknown_279597_7_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 08:04:05,131 | INFO | [SHC_civil_civil_general_shc_unknown_279597_7] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:04:07,190 | WARNING | [SHC_civil_civil_general_shc_unknown_279597_8] Context length exceeded (14640 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:04:09,266 | WARNING | [SHC_civil_civil_general_shc_unknown_279597_8_splitA] Context length exceeded (7317 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 08:04:16,751 | INFO | [SHC_civil_civil_general_shc_unknown_279597_8_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 08:04:18,790 | WARNING | [SHC_civil_civil_general_shc_unknown_279597_8_splitB] Context length exceeded (7322 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 08:04:26,669 | INFO | [SHC_civil_civil_general_shc_unknown_279597_8_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 08:04:26,669 | INFO | [SHC_civil_civil_general_shc_unknown_279597_8] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:04:28,762 | WARNING | [SHC_civil_civil_general_shc_unknown_279597_9] Context length exceeded (16119 chars) — splitting into 2 halves (split depth 1).
+2026-09-28 08:04:30,859 | WARNING | [SHC_civil_civil_general_shc_unknown_279597_9_splitA] Context length exceeded (8052 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 08:04:38,476 | INFO | [SHC_civil_civil_general_shc_unknown_279597_9_splitA] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 08:04:40,548 | WARNING | [SHC_civil_civil_general_shc_unknown_279597_9_splitB] Context length exceeded (8066 chars) — splitting into 2 halves (split depth 2).
+2026-09-28 08:04:48,983 | INFO | [SHC_civil_civil_general_shc_unknown_279597_9_splitB] Embedding succeeded via split-and-average (depth 2).
+2026-09-28 08:04:48,983 | INFO | [SHC_civil_civil_general_shc_unknown_279597_9] Embedding succeeded via split-and-average (depth 1).
+2026-09-28 08:06:10,434 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 08:06:10,579 | INFO | Upserted batch of 50 points. Total: 262489
+2026-09-28 08:08:05,802 | INFO | HTTP Request: PUT http://localhost:6333/collections/legal_chunks/points?wait=true "HTTP/1.1 200 OK"
+2026-09-28 08:08:05,936 | INFO | Upserted batch of 50 points. Total: 262539
